@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "8e3c8846d2619602",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f1e5b0e26af8f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3941f5055f161607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IA Tools Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f938f02e2b77cca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09b1efbe24a8f896",
+    "type": "split",
+    "children": [
+      {
+        "id": "52a8c0144a156957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c03f0207a3994d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9320413414e6e82e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a252a3cd69e817c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b4a6dde39f4f91e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c17718ca2dfec1d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "306a7923edb1bc45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4bd2353fae2bdeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b77a080b9c436a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80bf1eee2b2bf484",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "f938f02e2b77cca5",
+  "lastOpenFiles": [
+    "README.md",
+    "Aprender Idiomas.md",
+    "Index.md",
+    "Inglés.md",
+    "Miembros de la Familia en Inglés.md",
+    "Father.md",
+    "Árabe.md",
+    "أهلاً و سَهْلاً.md",
+    "Formas de saludar en Árabe.md",
+    "Alemán.md",
+    "Wie geht es Ihnen?.md",
+    "Formas de saludar en Alemán.md",
+    "Herramientas Ciberseguridad.md",
+    "Aprender sobre la Tabla Periódica.md",
+    "Hidrógeno.md",
+    "H.md",
+    "Chino.md",
+    "Formas de saludar en Chino.md",
+    "祝你好运.md",
+    "Catalán.md",
+    "Miembros de la familia en catalán.md",
+    "Formas de despedirse en catalán.md",
+    "Aprender sobre BabyMetal.md",
+    "Babymetal Death.md",
+    "Letra \"BabyMetal Death\".md",
+    "Aprendiendo con Antonio Ruiz García (ElGris).md",
+    "Untitled.canvas",
+    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/f522d5125692158fb2034614f063a397_MD5.jpg",
+    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/e72a2a6e085e68e57c1c99a42c1f1406_MD5.jpg",
+    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/950747e78c2811958e099fbad64abd45_MD5.png",
+    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/8b96a9174c1b016acdcd20c7ca6378d1_MD5.jpg",
+    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/507fe2675566c1a868f25975249f7939_MD5.svg",
+    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/b87e2165dd4f2695b6f6647f8d1629df_MD5.jpg",
+    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/9c16d262baff8d104eaad49403af1943_MD5.svg",
+    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/63bee3f4488892202b041725a15df20f_MD5.jpg",
+    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/e47bbdd7dd15037180ac4028df12d8fc_MD5.jpg",
+    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/2b222581af5dc3c7ee94764a203e0313_MD5.jpg",
+    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos",
+    "_resources/Aprendiendo sobre BabyMetal",
+    "_resources/Motion Design"
+  ]
+}

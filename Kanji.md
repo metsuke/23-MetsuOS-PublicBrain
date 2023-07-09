@@ -23,8 +23,8 @@ El aprendizaje de los kanji requiere dedicación y práctica, ya que cada carác
 
 * [[Kanji - Grado 1]]
 * |[Segundo año de la escuela primaria](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_2 "Japonés/Kanji/Grado 2")|**160 漢字**|
-* ||[Tercer año de la escuela primaria](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_3 "Japonés/Kanji/Grado 3")|**200 漢字**|
-* ||[Cuarto año de la escuela primaria](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_4 "Japonés/Kanji/Grado 4")|**200 漢字**|
+* [[Kanji - Grado 3]]
+* [[Kanji - Grado 4 - Jôyô kanji]]
 * ||[Quinto año de la escuela primaria](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_5 "Japonés/Kanji/Grado 5")|**185 漢字**|
 * ||[Sexto año de la escuela primaria](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_6 "Japonés/Kanji/Grado 6")||
 * [[Jinmeiyō-kanji]]

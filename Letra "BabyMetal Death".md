@@ -2,9 +2,12 @@
 
 [[Babymetal Death]] |  [ BABYMETAL DEATH | Legend 1997 (Complete)](https://www.youtube.com/watch?v=jRc9dbgiBPI&ab_channel=GuilhermeCait)
 
-INTRO? WIP - No parece ser la intro del tema, mas bien de ¿concierto?
+INTRO LEGENDS 1997
 
-共に生きる 悪夢の国 
+* [[共]]に生きる 悪夢の国 
+	* Tomo ni ikiru Akumu no kuni
+	* Vivimos juntos en el país de las pesadillas
+	* In the nightmare world we live in together 
 
 拝啓 お贈りものしよう 
 そして私は殺し合う 
@@ -15,7 +18,7 @@ INTRO? WIP - No parece ser la intro del tema, mas bien de ¿concierto?
 私はここにいる 
 私はここにいる
 
-Tomo ni ikiru Akumu no kuni 
+
 
 Haikei okurimono shiyou 
 Soshite watashi wa koroshiau 
@@ -26,7 +29,7 @@ Watashi wa koko ni iru
 Watashi wa koko ni iru 
 Watashi wa koko ni iru
 
-In the nightmare world we live in together 
+
 
 Let us send our greetings 
 And then we will kill each other 

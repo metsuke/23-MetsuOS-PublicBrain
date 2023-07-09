@@ -12,4 +12,6 @@ En cuanto a la pronunciación, el rumano tiene una entonación única y distinti
 
 En resumen, el rumano es un idioma fascinante y único con una larga y rica historia. Si estás interesado en aprender un nuevo idioma, el rumano podría ser una excelente opción para ti.
 
+## Categorías
+
 * [[Formas de saludar en Rumano]]

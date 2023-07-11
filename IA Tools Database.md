@@ -8,7 +8,7 @@
 
 ## QR Generator
 
-* 
+* Ninguno de utilidad localizado.
 
 ## Text 2 Code
 

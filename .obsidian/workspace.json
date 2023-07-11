@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3941f5055f161607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IA Tools Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f938f02e2b77cca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hiragana.md",
+                "file": "Letra \"BabyMetal Death\".md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hiragana.md",
+                "file": "Letra \"BabyMetal Death\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hiragana.md",
+                "file": "Letra \"BabyMetal Death\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hiragana.md"
+                "file": "Letra \"BabyMetal Death\".md"
               }
             }
           }
@@ -164,8 +151,14 @@
   },
   "active": "f938f02e2b77cca5",
   "lastOpenFiles": [
-    "く.md",
+    "に.md",
+    "Letra \"BabyMetal Death\".md",
+    "Babymetal Death.md",
+    "Aprender sobre BabyMetal.md",
+    "Index.md",
+    "IA Tools Database.md",
     "Hiragana.md",
+    "く.md",
     "う.md",
     "い.md",
     "あ.md",
@@ -178,18 +171,12 @@
     "Inglés.md",
     "Miembros de la Familia en Inglés.md",
     "Mother.md",
-    "Index.md",
     "Aprendiendo con Antonio Ruiz García (ElGris).md",
     "Aprendiendo con Recuenco.md",
     "Rumano.md",
     "Formas de saludar en Rumano.md",
     "Bună.md",
-    "Aprender sobre BabyMetal.md",
-    "Babymetal Death.md",
-    "Letra \"BabyMetal Death\".md",
     "共.md",
-    "Kanji - Grado 4 - Jôyô kanji.md",
-    "Kanji - Grado 3.md",
     "Untitled.canvas",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/f522d5125692158fb2034614f063a397_MD5.jpg",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/e72a2a6e085e68e57c1c99a42c1f1406_MD5.jpg",

@@ -12,4 +12,5 @@ Además, el idioma chino tiene una gramática relativamente sencilla, ya que no 
 
 En resumen, el idioma chino es un idioma muy interesante y valioso de aprender, aunque también puede resultar desafiante debido a su sistema de escritura y pronunciación tonal. Sin embargo, una vez que se domina el idioma, se abre la puerta a una cultura y sociedad fascinante y en constante evolución.
 
+* [[Formas de despedirse en Chino]]
 * [[Formas de saludar en Chino]]

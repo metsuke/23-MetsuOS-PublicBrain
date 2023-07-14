@@ -2,9 +2,9 @@
 
 [[Babymetal Death]] |  [ BABYMETAL DEATH | Legend 1997 (Complete)](https://www.youtube.com/watch?v=jRc9dbgiBPI&ab_channel=GuilhermeCait)
 
-INTRO LEGENDS 1997
+## Intro Legends 1997
 
-* [[共]][[に]]生きる 悪夢の国 
+* [[共]][[に]][[生きる]] [[悪夢]]の国 
 	* Tomo ni ikiru Akumu no kuni
 	* Vivimos juntos en el país de las pesadillas
 	* In the nightmare world we live in together 

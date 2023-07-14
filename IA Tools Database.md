@@ -6,6 +6,10 @@
 
 * [Stratup.ai](https://www.futurepedia.io/tool/stratup.ai) - Generador ideas emprendimiento.
 
+## Image 2 Pixelart
+
+* [Pixelicious](https://www.pixelicious.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia)
+
 ## QR Generator
 
 * Ninguno de utilidad localizado.

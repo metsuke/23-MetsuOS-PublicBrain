@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "46f1e5b0e26af8f0",
+        "id": "9a4b947e7ed3d745",
         "type": "tabs",
         "children": [
           {
-            "id": "f938f02e2b77cca5",
+            "id": "234c8afc0d436a9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Letra \"BabyMetal Death\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5dce09c6ffa69aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kanji - Grado 5 - Jôyô kanji.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Letra \"BabyMetal Death\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Letra \"BabyMetal Death\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Letra \"BabyMetal Death\".md"
               }
             }
           }
@@ -149,34 +161,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f938f02e2b77cca5",
+  "active": "234c8afc0d436a9c",
   "lastOpenFiles": [
-    "Formas de despedirse en Chino.md",
-    "Chino.md",
-    "Formas de saludar en Chino.md",
+    "共.md",
+    "Letra \"BabyMetal Death\".md",
+    "生きる.md",
+    "夢.md",
+    "Kanji - Grado 5 - Jôyô kanji.md",
+    "悪夢.md",
+    "Kanji.md",
+    "Kanji - Grado 5.md",
+    "Kanji - Grado 3.md",
+    "悪.md",
+    "().md",
+    "Japonés.md",
     "Aprender Idiomas.md",
     "Index.md",
-    "Miembros de la Familia en Inglés.md",
-    "Parents.md",
-    "Inglés.md",
-    "Aprender sobre BabyMetal.md",
     "Babymetal Death.md",
-    "Letra \"BabyMetal Death\".md",
-    "に.md",
-    "IA Tools Database.md",
+    "Aprender sobre BabyMetal.md",
+    "Sistemas de escritura japoneses.md",
     "Hiragana.md",
+    "け.md",
     "く.md",
     "う.md",
-    "い.md",
     "あ.md",
-    "Japonés.md",
-    "Sistemas de escritura japoneses.md",
-    "Kanji.md",
-    "Kanji - Grado 1.md",
-    "一.md",
-    "Mother.md",
-    "Aprendiendo con Antonio Ruiz García (ElGris).md",
-    "Aprendiendo con Recuenco.md",
+    "Inglés.md",
+    "Miembros de la Familia en Inglés.md",
+    "Son.md",
+    "Catalán.md",
     "Untitled.canvas",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/f522d5125692158fb2034614f063a397_MD5.jpg",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/e72a2a6e085e68e57c1c99a42c1f1406_MD5.jpg",

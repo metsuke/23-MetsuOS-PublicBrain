@@ -2,9 +2,9 @@
 
 [[Index]]
 
-La tabla periódica es una herramienta fundamental en la química que organiza y presenta de manera ordenada todos los elementos químicos conocidos. Fue desarrollada por Dimitri Mendeléyev en 1869 y ha evolucionado con el tiempo a medida que se han descubierto nuevos elementos.
+La tabla periódica es una herramienta fundamental en la química que organiza y presenta de manera ordenada todos los elementos químicos conocidos. Fue desarrollada por Dimitri Mendeléyev en 1869 y ha evolucionado con el tiempo a medida que se han descubierto nuevo[[[]]]()s elementos.
 
-La tabla periódica está com[[]]puesta por filas horizontales llamadas periodos y columnas verticales llamadas grupos. Cada elemento se representa mediante un símbolo, que a menudo es una o dos letras, y está acompañado por su número atómico y su masa atómica.
+La tabla periódica está com puesta por filas horizontales llamadas periodos y columnas verticales llamadas grupos. Cada elemento se representa mediante un símbolo, que a menudo es una o dos letras, y está acompañado por su número atómico y su masa atómica.
 
 Los elementos se organizan en la tabla periódica según sus propiedades químicas y características. A medida que se avanza de izquierda a derecha en un periodo, los elementos tienden a aumentar en número atómico y a presentar propiedades químicas y físicas diferentes. Por otro lado, en una columna o grupo, los elementos tienen propiedades similares y exhiben patrones en términos de su reactividad y comportamiento químico.
 
@@ -18,7 +18,7 @@ En resumen, la tabla periódica es una representación organizada de todos los e
 
 |     | 1  | 2  |     | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |     | 13 | 14 | 15 | 16 | 17 | 18 |
 |-----|----|----|-----|----|----|----|----|----|----|----|----|----|----|-----|----|----|----|----|----|
-|     | [[H]]  | He |     | Li | Be | B  | C  | N  | O  | F  | Ne | Na | Mg |     | Al | Si | P  | S  | Cl | Ar |
+|     | [[H]]  | He |     | [[Li]] | Be | B  | C  | N  | O  | F  | Ne | Na | Mg |     | Al | Si | P  | S  | Cl | Ar |
 |     |    |    |     |    |    |    |    |    |    |    |    |    |    |     |    |    |    |    |    |
 | 19  | 20 |     | 21  | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32  | 33 | 34 | 35 | 36 | 37 |
 | K   | Ca |     | Sc  | Ti | V  | Cr | Mn | Fe | Co | Ni | Cu | Zn | Ga | Ge  | As | Se | Br | Kr | Rb |
@@ -37,7 +37,7 @@ En resumen, la tabla periódica es una representación organizada de todos los e
 |---------|---------------------|----------------|
 | [[H ]]      | [[Hidrógeno]]           | 1              |
 | He      | Helio               | 2              |
-| Li      | Litio               | 3              |
+| [[Li]]     | [[Litio]]               | 3              |
 | Be      | Berilio             | 4              |
 | B       | Boro                | 5              |
 | C       | Carbono             | 6              |

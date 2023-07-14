@@ -2,15 +2,25 @@
 
 Los miembros de la familia en [[catalán]]:
 
-1. Padre: Es el hombre que tiene hijos junto con la madre.
-2. Madre: Es la mujer que tiene hijos junto con el padre.
-3. Hijo/Hija: Es el resultado de la unión del padre y la madre. Puede ser un hijo o una hija, respectivamente.
-4. Hermano/Hermana: Son los hijos nacidos del mismo padre y la misma madre.
-5. Abuelo/Abuela: Son los padres del padre o de la madre.
-6. Nieto/Nieta: Es el hijo o hija del hijo o hija.
-7. Tío/Tía: Es el hermano del padre o de la madre.
-8. Cuñado/Cuñada: Es el esposo o esposa del hermano o hermana.
-9. Sobrino/Sobrina: Es el hijo o hija del hermano o hermana.
-10. Primo/Prima: Es el hijo o hija del tío o tía.
+1. [[Pare]] / Marit: Padre / Esposo
+2. Mare / Mestra: Madre / Esposa
+3. Fill / Filla: Hijo / Hija
+4. Germans: Hermanos
+5. Tió / Tieta: Tío / Tía
+6. Avi / Àvia: Abuelo / Abuela
+7. Nét / Néta: Nieto / Nieta
+8. Besné: Yerno
+9. Neboda: Sobrino / Sobrina
+10. Cunyat / Cunyada: Cuñado / Cuñada
+11. Sogre / Sogra: Suegro / Suegra
+12. Genro: Yerno
+13. Cunyatge: Cuñadazgo
+14. Nore / Nora: Nuera
+15. Cunyada política: Cuñada política
+16. Noc / Noia: Novio / Novia
+17. Germanastre / Germanastra: Hermanastro / Hermanastra
+18. Cognat / Cognada: Cuñado / Cuñada (hermano/a del cónyuge)
+19. Nodrit / Nodrida: Padrastro / Madrastra
+20. Fillastre / Fillastra: Hijastro / Hijastra
 
 Esta es una lista básica de los miembros de la familia en catalán. Ten en cuenta que existen otros términos más específicos y detallados que se pueden utilizar dependiendo de los diferentes grados de parentesco y relaciones familiares.

@@ -14,7 +14,7 @@ Formas de saludar comunes en idioma [[Swahili]]
     
 6.  "[[Mambo]]" (para preguntar "¿Qué pasa?"): es una forma informal de saludar a alguien y preguntar cómo están.
     
-7.  "Salamu" (para decir "saludos"): es una forma formal de saludar a alguien y expresar buenos deseos.
+7.  "[[Salamu]]" (para decir "saludos"): es una forma formal de saludar a alguien y expresar buenos deseos.
     
 
 Estas son solo algunas de las formas de saludar en swahili, pero hay muchas más dependiendo del contexto cultural y social en África Oriental.

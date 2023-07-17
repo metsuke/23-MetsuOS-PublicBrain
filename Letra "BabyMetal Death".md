@@ -4,7 +4,7 @@
 
 ## Intro Legends 1997
 
-* [[共]][[に]][[生きる]] [[悪夢]]の国 
+* [[共]][[に]][[生きる]] [[悪夢]][[の]]国 
 	* Tomo ni ikiru Akumu no kuni
 	* Vivimos juntos en el país de las pesadillas
 	* In the nightmare world we live in together 

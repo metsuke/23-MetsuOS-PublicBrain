@@ -4,7 +4,7 @@
 
 Algunas formas comunes de despedirse en chino:
 
-1. 再见 (Zàijiàn) - Esta es la forma más común y general de decir "adiós" en chino. Se puede usar en casi cualquier situación.
+1. [[再见]] (Zàijiàn) - Esta es la forma más común y general de decir "adiós" en chino. Se puede usar en casi cualquier situación.
     
 2. 拜拜 (Bàibai) - Es una forma más informal de despedirse y se puede traducir como "bye-bye". Se utiliza especialmente entre amigos o personas cercanas.
     

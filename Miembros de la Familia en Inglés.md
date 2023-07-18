@@ -7,7 +7,7 @@ Lista de los miembros de la familia en [[inglés]]:
 - [[Parents]]: Padres
 - [[Son]]: Hijo
 - [[Daughter]]: Hija
-- Child: Niño/niña
+- [[Child]]: Niño/niña
 - Sibling: Hermano/hermana
 - Brother: Hermano
 - Sister: Hermana

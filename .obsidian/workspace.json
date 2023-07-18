@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hiragana.md",
+                "file": "Child.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hiragana.md",
+                "file": "Child.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hiragana.md",
+                "file": "Child.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hiragana.md"
+                "file": "Child.md"
               }
             }
           }
@@ -150,12 +151,17 @@
   },
   "active": "234c8afc0d436a9c",
   "lastOpenFiles": [
-    "へ.md",
+    "Miembros de la Familia en Inglés.md",
+    "Child.md",
+    "Inglés.md",
+    "Aprender Idiomas.md",
+    "Index.md",
+    "Entornos Virtuales con Python.md",
     "Hiragana.md",
+    "へ.md",
     "の.md",
     "け.md",
     "Japonés.md",
-    "Aprender Idiomas.md",
     "Chino.md",
     "Formas de despedirse en Chino.md",
     "再见.md",
@@ -165,17 +171,12 @@
     "Letra \"BabyMetal Death\".md",
     "Li.md",
     "Letra \"BabyMetal Death.md",
-    "Index.md",
     "Ejercicios Polinomios Platzi.md",
     "Aprender Matemáticas.md",
     "Kanji - Grado 5 - Jôyô kanji.md",
     "一.md",
     "Kanji - Grado 1.md",
     "九.md",
-    "月.md",
-    "Kanji.md",
-    "Swahili.md",
-    "Formas de saludar en Swahili.md",
     "Untitled.canvas",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/f522d5125692158fb2034614f063a397_MD5.jpg",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/e72a2a6e085e68e57c1c99a42c1f1406_MD5.jpg",

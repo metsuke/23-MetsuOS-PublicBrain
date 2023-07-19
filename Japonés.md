@@ -1,6 +1,6 @@
 # Japonés
 
-- [[Aprender Idiomas]]
+- [[Aprender Idiomas]] | [[Aprender sobre BabyMetal]]
 
 El idioma japonés es el idioma oficial de Japón y se habla por aproximadamente 128 millones de personas en todo el mundo. Es un idioma muy interesante y tiene características únicas que lo hacen diferente de otros idiomas.
 

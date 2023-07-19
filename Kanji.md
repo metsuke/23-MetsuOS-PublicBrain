@@ -22,7 +22,7 @@ El aprendizaje de los kanji requiere dedicación y práctica, ya que cada carác
 [Lista de Kanjis Completa en Japonés (aprenderjaponesgratis.com)](https://www.aprenderjaponesgratis.com/p/lista-de-kanjis-en-japones.html)
 
 * [[Kanji - Grado 1]]
-* |[Segundo año de la escuela primaria](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_2 "Japonés/Kanji/Grado 2")|**160 漢字**|
+* [[Kanji - Grado 2]]
 * [[Kanji - Grado 3]]
 * [[Kanji - Grado 4 - Jôyô kanji]]
 * [[Kanji - Grado 5 - Jôyô kanji]]

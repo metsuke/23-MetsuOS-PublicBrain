@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sibling.md",
+                "file": "Licencias de software libre.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sibling.md",
+                "file": "Licencias de software libre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sibling.md",
+                "file": "Licencias de software libre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sibling.md"
+                "file": "Licencias de software libre.md"
               }
             }
           }
@@ -150,11 +150,15 @@
   },
   "active": "234c8afc0d436a9c",
   "lastOpenFiles": [
+    "Licencia Pública General de GNU (GNU GPL).md",
+    "Licencias de software libre.md",
+    "Licencia de software.md",
+    "Aprender sobre Licencias.md",
+    "Index.md",
+    "Aprender Idiomas.md",
+    "Inglés.md",
     "Miembros de la Familia en Inglés.md",
     "Sibling.md",
-    "Inglés.md",
-    "Aprender Idiomas.md",
-    "Index.md",
     "Aprender sobre BabyMetal.md",
     "Babymetal Death.md",
     "Letra \"BabyMetal Death\".md",
@@ -172,10 +176,6 @@
     "Hiragana.md",
     "り.md",
     "の.md",
-    "Hindi.md",
-    "Formas de saludar en Hindi.md",
-    "Aadaab.md",
-    "Alemán.md",
     "Untitled.canvas",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/f522d5125692158fb2034614f063a397_MD5.jpg",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/e72a2a6e085e68e57c1c99a42c1f1406_MD5.jpg",

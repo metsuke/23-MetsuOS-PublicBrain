@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Licencias de software libre.md",
+                "file": "Ejercicios Polinomios Platzi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licencias de software libre.md",
+                "file": "Ejercicios Polinomios Platzi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Licencias de software libre.md",
+                "file": "Ejercicios Polinomios Platzi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licencias de software libre.md"
+                "file": "Ejercicios Polinomios Platzi.md"
               }
             }
           }
@@ -150,6 +150,13 @@
   },
   "active": "234c8afc0d436a9c",
   "lastOpenFiles": [
+    "Aprender sobre Matematicas.md",
+    "Index.md",
+    "Ejercicios Polinomios Platzi.md",
+    "Aprender sobre Licencias.md",
+    "Licencia de software.md",
+    "Licencias de software libre.md",
+    "Licencia Pública General de GNU (GNU GPL).md",
     "().md",
     "Aadaab.md",
     "Adéu.md",
@@ -157,7 +164,6 @@
     "Alemán.md",
     "Amore.md",
     "Aprender Idiomas.md",
-    "Aprender Matemáticas.md",
     "Aprender a fundir metales.md",
     "Aprender a fundir plástico.md",
     "Aprender sobre BabyMetal.md",
@@ -170,12 +176,6 @@
     "Aprendiendo sobre BabyMetal.md",
     "Arkadia.md",
     "Arquitectura Dinámica de Incentivos.md",
-    "Arquitectura de Incentivos.md",
-    "Asante.md",
-    "Awadama Fever.md",
-    "Árabe.md",
-    "BABYMETAL.md",
-    "BabyMetal - Vestuario.md",
     "Untitled.canvas",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/f522d5125692158fb2034614f063a397_MD5.jpg",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/e72a2a6e085e68e57c1c99a42c1f1406_MD5.jpg",

@@ -9,7 +9,7 @@
 
 * [[Aprender Idiomas]]
 * [[Aprender sobre Licencias]]
-* [[Aprender Matemáticas]]
+* [[Aprender sobre Matematicas]]
 * [[Aprender sobre BabyMetal]]
 * [[Aprender sobre Desarrollo]]
 * [[Aprender sobre Emprendimiento y Negocios]]

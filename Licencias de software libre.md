@@ -112,3 +112,66 @@ Cada licencia tiene sus propias características y términos específicos, por l
 | Open Data Commons          | Licencias para datos y contenido.         |
 | Dojo                       | Uso y redistribución bajo condiciones.    |
 | CeCILL                     | Compatible con GPL y LGPL.                |
+
+## Extrapolando caracterñisticas
+
+| Licencia                   | Libertad Uso | Libertad Estudio | Libertad Modificación | Libertad Distribución | Copyleft |
+|----------------------------|--------------|-------------------|-----------------------|-----------------------|---------|
+| GNU GPL                    |   True       |   True            |   True                |   True                |   True  |
+| GNU AGPL                   |   True       |   True            |   True                |   True                |   True  |
+| GNU LGPL                   |   True       |   True            |   True                |   True                |   True  |
+| MIT                        |   True       |   True            |   True                |   True                |   False |
+| Apache                     |   True       |   True            |   True                |   True                |   False |
+| BSD                        |   True       |   True            |   True                |   True                |   False |
+| Artística                  |   True       |   True            |   True                |   True                |   False |
+| MPL                        |   True       |   True            |   True                |   True                |   False |
+| EPL                        |   True       |   True            |   True                |   True                |   False |
+| CDDL                       |   True       |   True            |   True                |   True                |   False |
+| CC-BY                      |   True       |   True            |   True                |   True                |   False |
+| CC-BY-SA                   |   True       |   True            |   True                |   True                |   False |
+| CC-BY-NC                   |   True       |   True            |   True                |   True                |   False |
+| CC-BY-NC-SA                |   True       |   True            |   True                |   True                |   False |
+| CC-BY-ND                   |   True       |   True            |   False               |   True                |   False |
+| Unlicense                  |   True       |   True            |   True                |   True                |   False |
+| Beerware                   |   True       |   False           |   True                |   True                |   False |
+| WTFPL                      |   True       |   True            |   True                |   True                |   False |
+| zlib/libpng                |   True       |   True            |   True                |   True                |   False |
+| EDL                        |   True       |   True            |   True                |   True                |   False |
+| PostgreSQL                 |   True       |   True            |   False               |   True                |   False |
+| Sleepycat                  |   True       |   True            |   True                |   True                |   False |
+| Open Data Commons          |   True       |   True            |   True                |   True                |   False |
+| Dojo                       |   True       |   True            |   True                |   True                |   False |
+| CeCILL                     |   True       |   True            |   True                |   True                |   False |
+
+## Compatibilidad entre Licencias
+
+DISCLAIMER No estoy seguro de haber interrogado correctamente a la IA, tendre que reiterar las preguntas en la siguiente iteración.
+
+| Licencia             | GNU GPL | GNU AGPL | GNU LGPL | MIT | Apache | BSD | Artística | MPL | EPL | CDDL | CC-BY | CC-BY-SA | CC-BY-NC | CC-BY-NC-SA | CC-BY-ND | Unlicense | Beerware | WTFPL | zlib/libpng | EDL | PostgreSQL | Sleepycat | Open Data Commons | Dojo | CeCILL |
+|----------------------|---------|----------|----------|-----|--------|-----|-----------|-----|-----|------|-------|----------|----------|------------|----------|------------|----------|-------|-------------|-----|------------|----------|------------------|------|-------|
+| GNU GPL              |   -     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| GNU AGPL             |   ✓     |    -     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| GNU LGPL             |   ✓     |    ✓     |    -     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| MIT                  |   ✓     |    ✓     |    ✓     |  -  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| Apache               |   ✓     |    ✓     |    ✓     |  ✓  |   -    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| BSD                  |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  -  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| Artística            |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    -      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| MPL                  |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  -  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| EPL                  |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  -  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| CDDL                 |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  -   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| CC-BY                |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   -   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| CC-BY-SA             |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    -     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| CC-BY-NC             |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    -     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| CC-BY-NC-SA          |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     -      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| CC-BY-ND             |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   -      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| Unlicense            |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     -      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| Beerware             |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    -     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| WTFPL                |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   -   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| zlib/libpng          |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      -      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| EDL                  |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  -  |      ✓     |   ✓      |        ✓         |   ✓  |   ✓   |
+| PostgreSQL           |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      -     |   ✓      |        ✓         |   ✓  |   ✓   |
+| Sleepycat            |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   -      |        ✓         |   ✓  |   ✓   |
+| Open Data Commons    |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        -         |   ✓  |   ✓   |
+| Dojo                 |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   -  |   ✓   |
+| CeCILL               |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   -   |
+

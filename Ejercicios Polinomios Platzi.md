@@ -47,3 +47,10 @@ $$ -xyz^3 + 4.5xy^2 - 2xy^2 + 4xyz^3 + 3.2xy^2 + 4x =$$
 Ordenamos $$ = -xyz^3 + 4xyz^3 + 4.5xy^2 - 2xy^2  + 3.2xy^2 + 4x =$$
 Operamos $$ = 3xyz^3 + 5.7xy^2 + 4x = $$
 Sacamos factor común x $$ = x(3yz^3 + 5.7y^2 + 4) $$
+## -x^4y + 3yx^4 + 4x^4y + 2.53yx^4
+
+$$-x^4y + 3yx^4 + 4x^4y + 2.53yx^4$$
+Ordenamos $$-yx^4 + 3yx^4 + 4yx^4 + 2.53yx^4$$
+Operamos $$8.53yx^4$$
+
+## ---

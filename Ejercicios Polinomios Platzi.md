@@ -40,4 +40,10 @@ $$
 	= x^2(2.5x - 2) + 4xyz^4 - xy(y^3 + 7x^2y - 7xy^2) =$$
 	No veo formula util de simplificar aqui... $$ = 4xyz^4 - xy^2(y^2 + 7x^2 - 7xy) + x^2(2.5x - 2) $$
 
-xxx
+## -xyz^3 + 4.5xy^2 - 2xy^2 + 4xyz^3 + 3.2xy^2 + 4x
+
+$$ -xyz^3 + 4.5xy^2 - 2xy^2 + 4xyz^3 + 3.2xy^2 + 4x =$$
+
+Ordenamos $$ = -xyz^3 + 4xyz^3 + 4.5xy^2 - 2xy^2  + 3.2xy^2 + 4x =$$
+Operamos $$ = 3xyz^3 + 5.7xy^2 + 4x = $$
+Sacamos factor común x $$ = x(3yz^3 + 5.7y^2 + 4) $$

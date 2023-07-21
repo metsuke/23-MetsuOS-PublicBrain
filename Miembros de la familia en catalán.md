@@ -3,7 +3,7 @@
 Los miembros de la familia en [[catalán]]:
 
 1. [[Pare]] / Marit: Padre / Esposo
-2. Mare / Mestra: Madre / Esposa
+2. [[Mare]] / Mestra: Madre / Esposa
 3. Fill / Filla: Hijo / Hija
 4. Germans: Hermanos
 5. Tió / Tieta: Tío / Tía

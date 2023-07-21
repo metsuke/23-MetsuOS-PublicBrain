@@ -20,16 +20,13 @@
 
 ## Text 2 Text (WIP)
 
-### Hugging Face
-1. [Hugging Face Chat](https://huggingface.co/chat/)
+* [Chat GPT-4](https://chat.openai.com/)/)
+* [Hugging Face Chat](https://huggingface.co/chat/)
+* [OpenAI Playground](https://playground.openai.com/)
 
-### OpenAI
-1. [OpenAI Playground](https://playground.openai.com/)
-2. [Chat GPT-4](https://chat.openai.com/)/)
+## Vector Graphics
 
-
-
-
+* [Vectorizer.AI](https://vectorizer.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia)
 
 ---
 

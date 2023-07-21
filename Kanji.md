@@ -1,5 +1,7 @@
 # Kanji
 
+[[Japonés]]
+
 Los kanji son caracteres chinos que se adoptaron en Japón y se convirtieron en parte integral de los [[Sistemas de escritura japoneses]]. Son logogramas, lo que significa que cada carácter representa una palabra, un concepto o una idea en lugar de una sílaba o sonido individual.
 
 Aquí tienes algunos aspectos clave sobre los kanji:
@@ -26,5 +28,8 @@ El aprendizaje de los kanji requiere dedicación y práctica, ya que cada carác
 * [[Kanji - Grado 3]]
 * [[Kanji - Grado 4 - Jôyô kanji]]
 * [[Kanji - Grado 5 - Jôyô kanji]]
-* [Sexto año de la escuela primaria](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_6 "Japonés/Kanji/Grado 6")
+* [[Kanji - Grado 6 - Jôyô kanji]]
+* [[Kanji - Grado 7 - Jôyô kanji]]
+* [[Kanji - Grado 8 - Jôyô kanji]]
+* [[Kanji - Grado 9 - Jôyô kanji]]
 * [[Jinmeiyō-kanji]]

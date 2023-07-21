@@ -10,7 +10,7 @@ En el idioma [[Árabe]] existen varias formas de saludar, algunas de las más co
     
 4.  Ahlan wa sahlan ([[أهلاً و سَهْلاً]]) - Es otra forma de saludar en árabe que se utiliza para dar la bienvenida a alguien a un lugar o evento. Literalmente significa "bienvenido y cómodo" y se utiliza en situaciones informales.
     
-5.  Sabāh al-khayr (صَبَاح الخَيْر) - Es una forma de saludar en árabe que se utiliza para desear un buen día. Literalmente significa "mañana buena" y se utiliza en situaciones informales.
+5.  Sabāh al-khayr ([[صَبَاح الخَيْر]]) - Es una forma de saludar en árabe que se utiliza para desear un buen día. Literalmente significa "mañana buena" y se utiliza en situaciones informales.
     
 6.  Masā' al-khayr (مَسَاء الخَيْر) - Es una forma de saludar en árabe que se utiliza para desear una buena tarde o noche. Literalmente significa "tarde buena" y se utiliza en situaciones informales.
     

@@ -9,7 +9,12 @@
 	* Vivimos juntos en el país de las pesadillas
 	* In the nightmare world we live in together 
 
-拝啓 お贈りものしよう 
+* [[拝啓]] お贈りものしよう 
+	* Haikei okurimono shiyou 
+	* Enviemos un regalo? ("""Querido/""")
+	* Let us send our greetings 
+
+
 そして私は殺し合う 
 それが私の使命 
 
@@ -20,7 +25,7 @@
 
 
 
-Haikei okurimono shiyou 
+
 Soshite watashi wa koroshiau 
 Sore ga Watashi no shimei 
 
@@ -31,7 +36,7 @@ Watashi wa koko ni iru
 
 
 
-Let us send our greetings 
+
 And then we will kill each other 
 That is my mission 
 

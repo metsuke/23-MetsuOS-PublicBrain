@@ -10,7 +10,7 @@ Lista de los miembros de la familia en [[inglés]]:
 - [[Child]]: Niño/niña
 - [[Sibling]]: Hermano/hermana
 - [[Brother]]: Hermano
-- Sister: Hermana
+- [[Sister]]: Hermana
 - Grandfather: Abuelo
 - Grandmother: Abuela
 - Grandparents: Abuelos

@@ -53,4 +53,9 @@ $$-x^4y + 3yx^4 + 4x^4y + 2.53yx^4$$
 Ordenamos $$-yx^4 + 3yx^4 + 4yx^4 + 2.53yx^4$$
 Operamos $$8.53yx^4$$
 
-## ---
+## xy + xy - yx
+
+$$xy + xy - yx=$$
+
+Ordenamos $$=xy + xy - xy=$$
+Operamos $$=xy$$

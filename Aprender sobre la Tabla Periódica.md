@@ -1,4 +1,5 @@
 # Aprender sobre la Tabla Periódica
+[[[[]]]]# Aprender sobre la Tabla Periódica
 
 [[Index]]
 
@@ -18,7 +19,7 @@ En resumen, la tabla periódica es una representación organizada de todos los e
 
 |     | 1  | 2  |     | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |     | 13 | 14 | 15 | 16 | 17 | 18 |
 |-----|----|----|-----|----|----|----|----|----|----|----|----|----|----|-----|----|----|----|----|----|
-|     | [[H]]  | He |     | [[Li]] | Be | B  | C  | N  | O  | F  | Ne | Na | Mg |     | Al | Si | P  | S  | Cl | Ar |
+|     | [[H]]  | He |     | [[Li]] | Be | B  | C  | N  | O  | F  | Ne | [[Na]] | Mg |     | Al | Si | P  | S  | Cl | Ar |
 |     |    |    |     |    |    |    |    |    |    |    |    |    |    |     |    |    |    |    |    |
 | 19  | 20 |     | 21  | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32  | 33 | 34 | 35 | 36 | 37 |
 | K   | Ca |     | Sc  | Ti | V  | Cr | Mn | Fe | Co | Ni | Cu | Zn | Ga | Ge  | As | Se | Br | Kr | Rb |
@@ -45,7 +46,7 @@ En resumen, la tabla periódica es una representación organizada de todos los e
 | O       | Oxígeno             | 8              |
 | F       | Flúor               | 9              |
 | Ne      | Neón                | 10             |
-| Na      | Sodio               | 11             |
+| [[Na]]      | [[Sodio]]               | 11             |
 | Mg      | Magnesio            | 12             |
 | Al      | Aluminio            | 13             |
 | Si      | Silicio             | 14             |

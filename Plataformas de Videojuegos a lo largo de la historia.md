@@ -1,4 +1,5 @@
 # Plataformas de Videojuegos a lo largo de la historia
+[[[[]]]]# Plataformas de Videojuegos a lo largo de la historia
 
 [[Videojuegos]]
 
@@ -8,7 +9,7 @@ Esta es una lista en construcción de plataformas donde se han ejecutado juegos 
 
 |       Plataforma      | Año Lanzamiento | Número de Bits |     Empresa     |
 |:---------------------:|:--------------:|:-------------:|:--------------:|
-|     Osciloscopio      |      1958      |       -       |   Varios       |
+|     [[Osciloscopio]]      |      1958      |       -       |   Varios       |
 |      Nimrod           |      1951      |       -       |    Ferranti    |
 |   OXO (Tic-Tac-Toe)   |      1952      |       -       |   A.S. Douglas |
 |     Tennis for Two    |      1958      |       -       |  William Higinbotham |

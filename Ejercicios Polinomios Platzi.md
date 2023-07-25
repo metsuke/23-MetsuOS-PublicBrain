@@ -59,3 +59,11 @@ $$xy + xy - yx=$$
 
 Ordenamos $$=xy + xy - xy=$$
 Operamos $$=xy$$
+
+## -q^4 + 3z^3 - 2m^2 + 4mn^4 + 2.5mn
+
+$$-q^4 + 3z^3 - 2m^2 + 4mn^4 + 2.5mn=$$
+Ordenamos $$=-q^4 + 3z^3 + 4mn^4 - 2m^2 + 2.5mn=$$
+Extraemos m como factor común de algunos factores $$=-q^4 + 3z^3 + m(4n^4 - 2m + 2.5mn)=$$
+Extraemos m de nuevo como factor común de algunos factores $$=-q^4 + 3z^3 + m(4n^4) + m^2(-2 + 2.5n)=$$
+Simplificamos y ordenamos $$=-q^4 + 4mn^4 + 3z^3 + m^2(2.5n - 2)$$

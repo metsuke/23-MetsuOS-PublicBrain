@@ -34,6 +34,10 @@
 
 * [[Crear imagenes de SO en USB para instalar]]
 
+## Mejoras Lectura
+
+* [Bionic Reading - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/bionic-reading/kdfkejelgkdjgfoolngegkhkiecmlflj)
+
 ## Obsidian + Zettelkasten
 
 * [[Obsidian]]

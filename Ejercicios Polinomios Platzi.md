@@ -67,3 +67,14 @@ Ordenamos $$=-q^4 + 3z^3 + 4mn^4 - 2m^2 + 2.5mn=$$
 Extraemos m como factor común de algunos factores $$=-q^4 + 3z^3 + m(4n^4 - 2m + 2.5mn)=$$
 Extraemos m de nuevo como factor común de algunos factores $$=-q^4 + 3z^3 + m(4n^4) + m^2(-2 + 2.5n)=$$
 Simplificamos y ordenamos $$=-q^4 + 4mn^4 + 3z^3 + m^2(2.5n - 2)$$
+
+## -p^2q^5r^3 + 6q^5p^2r^3 - 3p^2q^4r^3 + 9q^5p^2r^3 + 24p^2q^5r^3
+
+$$-p^2q^5r^3 + 6q^5p^2r^3 - 3p^2q^4r^3 + 9q^5p^2r^3 + 24p^2q^5r^3=$$
+Ordenamos $$=-p^2q^5r^3 + 6p^2q^5r^3 - 3p^2q^4r^3 + 9p^2q^5r^3 + 24p^2q^5r^3=$$
+Factor común p^2 $$=p^2(-q^5r^3 + 6q^5r^3 - 3q^4r^3 + 9q^5r^3 + 24q^5r^3)=$$
+Factor común r^3 $$=r^3p^2(-q^5 + 6q^5 - 3q^4 + 9q^5 + 24q^5)=$$
+Operamos q^5$$=r^3p^2(38q^5 - 3q^4)=$$
+Factor común q^4$$=q^4r^3p^2(38q - 3)$$
+
+##

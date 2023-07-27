@@ -77,4 +77,11 @@ Factor común r^3 $$=r^3p^2(-q^5 + 6q^5 - 3q^4 + 9q^5 + 24q^5)=$$
 Operamos q^5$$=r^3p^2(38q^5 - 3q^4)=$$
 Factor común q^4$$=q^4r^3p^2(38q - 3)$$
 
-##
+## 7jkl^2 + 3jkl^2m - 12jkl^4 + 6jkl^2 + 3jkl^2
+
+$$7jkl^2 + 3jkl^2m - 12jkl^4 + 6jkl^2 + 3jkl^2=$$
+Operamos jkl^2 $$=16jkl^2 + 3jkl^2m - 12jkl^4=$$
+Factor Común jkl^2 $$=jkl^2(16 + 3m - 12l^2)=$$Ordenamos $$=jkl^2(- 12l^2 + 3m + 16)$$
+
+
+

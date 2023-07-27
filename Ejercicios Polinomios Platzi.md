@@ -83,5 +83,11 @@ $$7jkl^2 + 3jkl^2m - 12jkl^4 + 6jkl^2 + 3jkl^2=$$
 Operamos jkl^2 $$=16jkl^2 + 3jkl^2m - 12jkl^4=$$
 Factor Común jkl^2 $$=jkl^2(16 + 3m - 12l^2)=$$Ordenamos $$=jkl^2(- 12l^2 + 3m + 16)$$
 
+## -3a^4b + 3ab + 4a^4b + 2.53ab^4
 
+$$-3a^4b + 3ab + 4a^4b + 2.53ab^4=$$
+Operamos a^4b $$=a^4b + 3ab + 2.53ab^4=$$
+Ordenamos $$=a^4b + 2.53ab^4 + 3ab =$$
+Factor común a $$=a(a^3b + 2.53b^4 + 3b)=$$Factor común b $$=ab(a^3 + 2.53b^3 + 3)$$
 
+##

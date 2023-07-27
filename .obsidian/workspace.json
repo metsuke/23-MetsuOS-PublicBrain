@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios Polinomios Platzi.md",
+                "file": "Aprender sobre la Tabla Periódica.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios Polinomios Platzi.md",
+                "file": "Aprender sobre la Tabla Periódica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicios Polinomios Platzi.md",
+                "file": "Aprender sobre la Tabla Periódica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios Polinomios Platzi.md"
+                "file": "Aprender sobre la Tabla Periódica.md"
               }
             }
           }
@@ -151,8 +151,13 @@
   },
   "active": "74d2f0e3795ff92c",
   "lastOpenFiles": [
-    "Aprender sobre Matematicas.md",
+    "Potasio.md",
+    "K.md",
+    "Aprender sobre la Tabla Periódica.md",
+    "Na.md",
     "Index.md",
+    "Ejercicios Polinomios Platzi.md",
+    "Aprender sobre Matematicas.md",
     "_resources/aecf1e55aff6a1cf82267fa39c5285cf_MD5.jpg",
     "_resources/Adverbios de tiempo en inglés.md",
     "_resources/a2b90a3e1d6e319ed31b30777b79bfad_MD5.jpg",
@@ -164,7 +169,6 @@
     "_resources/24ebb4cb2736d66b88706a6b97636ba5_MD5.jpg",
     "_resources/9a74b0f9eddfee7b5bbdf033d471b232_MD5.jpg",
     "_resources/1f56d4ca6b0fa8b3e56d3d304e4e66a1_MD5.jpg",
-    "Ejercicios Polinomios Platzi.md",
     "Entornos Virtuales con Python.md",
     "Python.md",
     "Miembros de la Familia en Inglés.md",
@@ -183,9 +187,6 @@
     "Kanji - Grado 3.md",
     "Kanji.md",
     "贈り物.md",
-    "Letra \"BabyMetal Death\".md",
-    "Babymetal Death.md",
-    "Aprender sobre BabyMetal.md",
     "Untitled.canvas",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos",
     "_resources/Aprendiendo sobre BabyMetal",

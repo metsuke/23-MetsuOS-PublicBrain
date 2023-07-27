@@ -8,7 +8,7 @@ Algunas formas comunes de despedirse en chino:
     
 2. [[拜拜]] (Bàibai) - Es una forma más informal de despedirse y se puede traducir como "bye-bye". Se utiliza especialmente entre amigos o personas cercanas.
     
-3. 回头见 (Huítóu jiàn) - Esta expresión se puede traducir como "nos vemos más adelante". Se utiliza cuando se espera volver a encontrarse con la persona en un futuro cercano.
+3. [[回头见]] (Huítóu jiàn) - Esta expresión se puede traducir como "nos vemos más adelante". Se utiliza cuando se espera volver a encontrarse con la persona en un futuro cercano.
     
 4. 下次见 (Xià cì jiàn) - Significa "hasta la próxima vez". Se utiliza cuando sabes que te encontrarás con la persona en el futuro, pero no necesariamente en un plazo corto.
     

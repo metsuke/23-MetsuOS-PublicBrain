@@ -9,10 +9,10 @@
 	* Vivimos juntos en el país de las pesadillas
 	* In the nightmare world we live in together 
 
-* [[拝啓]] [[お贈りもの]]しよう 
+* [[拝啓]] [[お贈りもの]][[しよう]] 
 	* Haikei okurimono shiyou 
-	* Enviemos un regalo? ("""Querido/""")
-	* Let us send our greetings 
+	* Querido, enviaremos un regalo
+	* Dear, let's send a gift
 
 
 そして私は殺し合う 

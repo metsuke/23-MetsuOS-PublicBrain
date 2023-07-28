@@ -38,3 +38,15 @@ source env/bin/activate
 ```sh
 deactivate
 ```
+
+## Requirements.txt
+
+```sh
+pip3 freeze > requirements.txt
+```
+
+## Install Deps from Requirements.txt
+
+```sh
+pip3 install -r requirements.txt
+```

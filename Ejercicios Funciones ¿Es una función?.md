@@ -10,4 +10,4 @@ A cada valor de x le corresponde 1 y solo 1 valor de y, por tanto SI es una func
 
  $$f(x) = 45x + y$$
  Despejamos  $$ f(x) = 45x + y => y = 45x + y => y - y = 45x => 45x = 0 => x = 0/45 => x= 0$$
- Al despejar queda definido el valor de x  y desaparece la variable y, por tanto no es una función.
+ Al despejar queda definido el valor de x  y desaparece la variable y, por tanto NO es una función.

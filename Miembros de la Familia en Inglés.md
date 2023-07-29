@@ -12,7 +12,7 @@ Lista de los miembros de la familia en [[inglés]]:
 - [[Brother]]: Hermano
 - [[Sister]]: Hermana
 - [[Grandfather]]: Abuelo
-- Grandmother: Abuela
+- [[Grandmother]]: Abuela
 - Grandparents: Abuelos
 - Grandson: Nieto
 - Granddaughter: Nieta

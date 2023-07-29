@@ -90,4 +90,10 @@ Operamos a^4b $$=a^4b + 3ab + 2.53ab^4=$$
 Ordenamos $$=a^4b + 2.53ab^4 + 3ab =$$
 Factor común a $$=a(a^3b + 2.53b^4 + 3b)=$$Factor común b $$=ab(a^3 + 2.53b^3 + 3)$$
 
-##
+## 2xy + 4xyz + 3yzx - 2xyz
+
+$$2xy + 4xyz + 3yzx - 2xyz=$$
+Ordenamos $$=2xy + 4xyz + 3xyz - 2xyz=$$
+Operamos xyz $$=2xy + 5xyz=$$
+Factor común xy $$=xy(2 + 5z)=$$
+Ordenamos $$=xy(5z + 2)$$

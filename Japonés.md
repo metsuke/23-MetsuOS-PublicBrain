@@ -20,3 +20,7 @@ Aprender japonés puede ser un desafío, pero también es una experiencia muy gr
 * [[Hiragana]]
 * [[Kanji]]
 * [[Katakana]]
+
+## Varios
+
+* [[悪くないね]]

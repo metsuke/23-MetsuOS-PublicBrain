@@ -14,8 +14,10 @@
 	* Querido, enviaremos un regalo
 	* Dear, let's send a gift
 
+* そして私は殺し合う 
+	* Soshite watashi wa koroshiau 
+	* And then we will kill each other 
 
-そして私は殺し合う 
 それが私の使命 
 
 神様と巡り合い 
@@ -26,7 +28,7 @@
 
 
 
-Soshite watashi wa koroshiau 
+
 Sore ga Watashi no shimei 
 
 Kami-sama to meguriai 
@@ -37,7 +39,7 @@ Watashi wa koko ni iru
 
 
 
-And then we will kill each other 
+
 That is my mission 
 
 Meeting with the gods 

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios Funciones ¿Es una función?.md",
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec370ac6872129e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "い.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios Funciones ¿Es una función?.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicios Funciones ¿Es una función?.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios Funciones ¿Es una función?.md"
+                "file": "Index.md"
               }
             }
           }
@@ -145,37 +157,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "74d2f0e3795ff92c",
   "lastOpenFiles": [
-    "Aprender sobre Matematicas.md",
-    "Index.md",
-    "Ejercicios Funciones ¿Es una función?.md",
+    "な.md",
+    "Hiragana.md",
+    "い.md",
+    "悪い.md",
+    "悪くない.md",
+    "ない.md",
+    "悪.md",
+    "悪くないね.md",
+    "Japonés.md",
+    "Japón.md",
+    "Japones.md",
+    "ね.md",
+    "わるくないいええ.md",
     "Aprender Idiomas.md",
+    "Index.md",
+    "Letra \"BabyMetal Death\".md",
+    "Babymetal Death.md",
+    "Aprender sobre BabyMetal.md",
+    "Ejercicios Funciones ¿Es una función?.md",
+    "Aprender sobre Matematicas.md",
     "Inglés.md",
     "Grandmother.md",
     "Miembros de la Familia en Inglés.md",
     "Catalán.md",
     "Miembros de la familia en catalán.md",
     "Fill.md",
-    "Aprendiendo con Antonio Ruiz García (ElGris).md",
-    "Ejercicios Polinomios Platzi.md",
-    "Entornos Virtuales con Python.md",
-    "Aprender sobre BabyMetal.md",
-    "Babymetal Death.md",
-    "Letra \"BabyMetal Death\".md",
-    "しよう.md",
-    "拝啓.md",
-    "Grandfather.md",
-    "Chino.md",
-    "Formas de despedirse en Chino.md",
-    "拜拜.md",
-    "回头见.md",
-    "Aprender sobre la Tabla Periódica.md",
-    "Potasio.md",
-    "K.md",
     "_resources/aecf1e55aff6a1cf82267fa39c5285cf_MD5.jpg",
     "_resources/a2b90a3e1d6e319ed31b30777b79bfad_MD5.jpg",
     "_resources/7929005dcefcfe51462164222f6d338b_MD5.jpg",

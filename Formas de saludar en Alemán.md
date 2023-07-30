@@ -14,7 +14,7 @@ El idioma [[alemán]] tiene varias formas de saludar, y es común utilizar difer
     
 6. "[[Wie geht's?]]" - Esta es una forma más informal de preguntar "¿Cómo estás?" y se utiliza con amigos, familiares o en situaciones informales. Una respuesta común podría ser "Mir geht's gut" (Estoy bien).
     
-7. "Servus" - Este saludo es común en el sur de Alemania y Austria. Es una forma más casual de saludar y se utiliza en situaciones informales. Se puede traducir como "Hola" o "Adiós".
+7. "[[Servus]]" - Este saludo es común en el sur de Alemania y Austria. Es una forma más casual de saludar y se utiliza en situaciones informales. Se puede traducir como "Hola" o "Adiós".
     
 
 Recuerda que en el idioma alemán es común incluir un saludo al despedirse también, como "Auf Wiedersehen" (Adiós), "Tschüss" (Chau) o "Bis bald" (Hasta pronto).

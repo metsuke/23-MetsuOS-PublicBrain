@@ -1,6 +1,8 @@
 # Letra "BabyMetal Death"
 
-[[Babymetal Death]] |  [ BABYMETAL DEATH | Legend 1997 (Complete)](https://www.youtube.com/watch?v=jRc9dbgiBPI&ab_channel=GuilhermeCait)
+[[BabyMetal Death]] |  [ BABYMETAL DEATH | Legend 1997 (Complete)](https://www.youtube.com/watch?v=jRc9dbgiBPI&ab_channel=GuilhermeCait)
+
+Aprovecho que la letra en si de la canción es """sencilla""" para traducir aqui la intro del concierto y de la canción en si en aquel evento a fin de practicar la metodología que usaré en el resto.
 
 ## Intro Legends 1997
 
@@ -14,9 +16,11 @@
 	* Querido, enviaremos un regalo
 	* Dear, let's send a gift
 
-* そして私は殺し合う 
+* [[そして]]私は殺し合う 
 	* Soshite watashi wa koroshiau 
+	* Y entonces nos asesinaremos mutuamente
 	* And then we will kill each other 
+
 
 それが私の使命 
 

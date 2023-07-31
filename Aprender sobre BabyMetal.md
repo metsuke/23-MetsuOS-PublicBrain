@@ -29,7 +29,7 @@ En resumen, BABYMETAL es un grupo musical japonés que fusiona el heavy metal co
 
 ### Álbum: "Babymetal" (2014)
  
-1. "[[Babymetal Death]]"
+1. "[[BabyMetal Death]]"
 2. "[[Megitsune]]"
 3. "[[Gimme Chocolate!!]]" 
 4. "[[Iine!]]"

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios Funciones ¿Es una función?.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios Funciones ¿Es una función?.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicios Funciones ¿Es una función?.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios Funciones ¿Es una función?.md"
+                "file": "Index.md"
               }
             }
           }
@@ -163,8 +163,13 @@
   },
   "active": "74d2f0e3795ff92c",
   "lastOpenFiles": [
-    "Aprender sobre Matematicas.md",
+    "Aprender sobre BabyMetal.md",
+    "BabyMetal Death.md",
+    "Letra \"BabyMetal Death\".md",
+    "そして.md",
     "Index.md",
+    "Aprender sobre Matematicas.md",
+    "Ejercicios Funciones ¿Es una función?.md",
     "Aprendiendo con Antonio Ruiz García (ElGris).md",
     "Aprender Idiomas.md",
     "Dropbox/_OBSIDIAN",
@@ -186,11 +191,6 @@
     "Japonés.md",
     "Japón.md",
     "Japones.md",
-    "ね.md",
-    "わるくないいええ.md",
-    "Letra \"BabyMetal Death\".md",
-    "Babymetal Death.md",
-    "Aprender sobre BabyMetal.md",
     "_resources/aecf1e55aff6a1cf82267fa39c5285cf_MD5.jpg",
     "_resources/a2b90a3e1d6e319ed31b30777b79bfad_MD5.jpg",
     "_resources/7929005dcefcfe51462164222f6d338b_MD5.jpg",

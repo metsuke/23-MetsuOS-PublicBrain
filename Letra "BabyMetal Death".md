@@ -16,7 +16,7 @@ Aprovecho que la letra en si de la canción es """sencilla""" para traducir aqui
 	* Querido, enviaremos un regalo
 	* Dear, let's send a gift
 
-* [[そして]]私は殺し合う 
+* [[そして]][[私]][[は]]殺し合う 
 	* Soshite watashi wa koroshiau 
 	* Y entonces nos asesinaremos mutuamente
 	* And then we will kill each other 

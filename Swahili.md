@@ -10,4 +10,5 @@ El swahili es una lengua que ha sido influenciada por diversas culturas, como la
 
 Hoy en día, el swahili es una lengua que se utiliza en diversos ámbitos, como la literatura, el cine, la música y la radio, y es una lengua importante en el turismo y los negocios en África.
 
+- [[Formas de despedirse en Swahili]]
 - [[Formas de saludar en Swahili]]

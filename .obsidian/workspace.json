@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Aprender sobre la Tabla Periódica.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Aprender sobre la Tabla Periódica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Aprender sobre la Tabla Periódica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Aprender sobre la Tabla Periódica.md"
               }
             }
           }
@@ -151,11 +151,18 @@
   },
   "active": "74d2f0e3795ff92c",
   "lastOpenFiles": [
+    "Hidrógeno.md",
+    "Aprender sobre la Tabla Periódica.md",
+    "Sodio.md",
+    "Potasio.md",
+    "Rubidio.md",
+    "Rb.md",
+    "K.md",
+    "Index.md",
     "Swahili.md",
     "Formas de saludar en Swahili.md",
     "Formas de despedirse en Swahili.md",
     "Aprender Idiomas.md",
-    "Index.md",
     "Letra \"BabyMetal Death\".md",
     "そして.md",
     "は.md",
@@ -170,13 +177,6 @@
     "Japons.md",
     "Sistemas de escritura japoneses.md",
     "い.md",
-    "く.md",
-    "Kanji - Grado 8 - Jôyô kanji.md",
-    "贈.md",
-    "贈り.md",
-    "贈りもの.md",
-    "お贈りもの.md",
-    "Ejercicios Polinomios.md",
     "Dropbox/_OBSIDIAN/_PUBLIC BRAIN",
     "Dropbox/_OBSIDIAN",
     "Dropbox",

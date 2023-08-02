@@ -4,7 +4,7 @@
 
 El sodio es un elemento químico con el símbolo [[Na]] y el número atómico 11. Es un metal alcalino que se encuentra en la tabla periódica y pertenece al grupo 1. El sodio es un elemento esencial para la vida, ya que es un electrolito que desempeña un papel vital en el funcionamiento del cuerpo humano y de otros organismos.
 
-Características del sodio:
+## Características del sodio:
 
 - Propiedades físicas: A temperatura ambiente, el sodio es un metal blando, plateado y altamente reactivo. Tiene una baja densidad y un punto de fusión relativamente bajo, lo que lo hace fácilmente fundible. Sin embargo, debido a su alta reactividad con el aire y el agua, generalmente se encuentra en forma de compuestos y no en estado puro.
     

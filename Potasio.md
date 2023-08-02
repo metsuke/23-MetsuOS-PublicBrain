@@ -4,7 +4,7 @@
 
 El potasio es un elemento químico que pertenece al grupo de los metales alcalinos, con símbolo "K" y número atómico 19. Es un metal blando y plateado que reacciona rápidamente con el oxígeno del aire, por lo que se encuentra comúnmente en la naturaleza en forma de compuestos, como sales de potasio.
 
-**Características del potasio:**
+## **Características del potasio:**
 
 1. **Abundancia**: Es el séptimo elemento más abundante en la corteza terrestre y se encuentra ampliamente distribuido en minerales y rocas. También se encuentra en grandes cantidades en el agua del mar.
     
@@ -17,7 +17,7 @@ El potasio es un elemento químico que pertenece al grupo de los metales alcalin
 5. **Usos**: El potasio y sus compuestos tienen numerosos usos industriales. El cloruro de potasio se utiliza como fertilizante en la agricultura, ya que es una fuente importante de nutrientes para las plantas. Además, el nitrato de potasio se utiliza en la fabricación de explosivos y fuegos artificiales debido a sus propiedades oxidantes.
     
 
-**Importancia en el cuerpo humano:**
+## **Importancia en el cuerpo humano:**
 
 El potasio es esencial para el funcionamiento del sistema nervioso y muscular, ya que regula la transmisión de los impulsos nerviosos y ayuda a mantener el equilibrio de agua en el cuerpo. Una cantidad adecuada de potasio en la dieta es importante para mantener una presión arterial saludable y prevenir enfermedades cardiovasculares.
 

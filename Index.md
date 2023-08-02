@@ -1,5 +1,12 @@
 # Index
 
+## A11Y
+
+* [Pictogramas – Plena Inclusión (plenainclusion.org)](https://pictogramas.plenainclusion.org/)
+* [Accesibiliconos. Una colección abierta de pictogramas para señalizar medidas de accesibilidad](https://www.accesibiliconos.org/)
+
+* [Observatorio de jurisprudencia - Plena inclusión (plenainclusion.org)](https://www.plenainclusion.org/l/observatorio-jurisprudencia/)
+
 ## Aprender con ...
 
 * [[Aprendiendo con Antonio Ruiz García (ElGris)]]

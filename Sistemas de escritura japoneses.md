@@ -1,6 +1,6 @@
 # Sistemas de escritura japoneses
 
-El [[japonés]] tiene tres sistemas de escritura principales: los kanji, el hiragana y el katakana. Cada uno de estos sistemas tiene un propósito específico y se utiliza en diferentes contextos dentro del idioma japonés.
+El [[Japons]] tiene tres sistemas de escritura principales: los kanji, el hiragana y el katakana. Cada uno de estos sistemas tiene un propósito específico y se utiliza en diferentes contextos dentro del idioma japonés.
 
 1.  [[Kanji]]: Los kanji son caracteres chinos que se adoptaron en Japón hace más de 1,000 años. Estos caracteres representan palabras, ideas o conceptos y son utilizados para escribir sustantivos, verbos, adjetivos y algunos adverbios. Los kanji pueden ser complejos y tienen múltiples lecturas y significados dependiendo del contexto. Se estima que existen alrededor de 2,000 kanji de uso común, aunque hay miles más en total. Los kanji son una parte integral del sistema de escritura japonés y su conocimiento es necesario para la lectura y escritura avanzadas.
     

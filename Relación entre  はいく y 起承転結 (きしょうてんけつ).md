@@ -8,4 +8,4 @@ Aunque el haiku y el kishōtenketsu son formas poéticas distintas, el haiku ha 
 
 En resumen, aunque el haiku y el kishōtenketsu son formas poéticas distintas, tienen una conexión histórica y temática en la literatura japonesa tradicional.
 
-[[Japonés]]
+[[Japons]]

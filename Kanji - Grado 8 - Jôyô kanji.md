@@ -1,3 +1,4 @@
+
 # Kanji - Grado 8 - Jôyô kanji
 
 [[Kanji]] | [Japonés/Kanji/Grado 8 - Wikilibros (wikibooks.org)](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_8)

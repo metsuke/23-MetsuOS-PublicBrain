@@ -12,7 +12,7 @@
 | 7 | Portugués | 221 millones |
 | 8 | Ruso | 154 millones |
 | 9 | Swahili | 150 millones |
-| 10 | [[Japonés]] | 128 millones |
+| 10 | [[Japons]] | 128 millones |
 | 11 | [[Panyabí]] | 119 millones |
 | 12 | Alemán | 109 millones |
 | 13 | Javanés | 84 millones |

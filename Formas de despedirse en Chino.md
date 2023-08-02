@@ -10,7 +10,7 @@ Algunas formas comunes de despedirse en chino:
     
 3. [[回头见]] (Huítóu jiàn) - Esta expresión se puede traducir como "nos vemos más adelante". Se utiliza cuando se espera volver a encontrarse con la persona en un futuro cercano.
     
-4. 下次见 (Xià cì jiàn) - Significa "hasta la próxima vez". Se utiliza cuando sabes que te encontrarás con la persona en el futuro, pero no necesariamente en un plazo corto.
+4. [[下次见]] (Xià cì jiàn) - Significa "hasta la próxima vez". Se utiliza cuando sabes que te encontrarás con la persona en el futuro, pero no necesariamente en un plazo corto.
     
 5. 祝你一切顺利 (Zhù nǐ yíqiè shùnlì) - Esta frase significa "te deseo todo lo mejor" y se utiliza como una despedida amistosa y cordial.
     

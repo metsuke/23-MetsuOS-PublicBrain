@@ -1,0 +1,36 @@
+a, .cm-hmd-internal-link span, .cm-link span {
+    font-weight: bold!important;
+    color:#0080ff!important;
+    text-decoration:none!important;
+}
+
+a:hover, .cm-hmd-internal-link span:hover, .cm-link span:hover {
+    font-weight: bold!important;
+    background-color:#0080ff!important;
+    color:black!important;
+    text-decoration:none!important;
+}
+
+.MathJax * {
+    color: yellow!important;
+    font-weight: bold!important;
+}
+
+.inline-title {
+    background-color: #590404!important;
+    color:rgb(242, 157, 157)!important;
+    font-weight: bold!important;
+    opacity:0.3!important;
+}
+
+.cm-header {
+    background-color: #e0d20e!important;
+    color:black!important;
+    font-weight: bold!important;
+}
+
+.cm-header-2 {
+    background-color: #0d0459!important;
+    color:rgb(133, 206, 237)!important;
+    font-weight: bold!important;
+}

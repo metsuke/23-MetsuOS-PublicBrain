@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec370ac6872129e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "い.md",
+                "file": "Ejercicios Funciones ¿Es una función?.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Ejercicios Funciones ¿Es una función?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Ejercicios Funciones ¿Es una función?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Ejercicios Funciones ¿Es una función?.md"
               }
             }
           }
@@ -163,34 +151,35 @@
   },
   "active": "74d2f0e3795ff92c",
   "lastOpenFiles": [
+    "Aprender sobre Matematicas.md",
+    "Index.md",
     "Aprender sobre BabyMetal.md",
     "BabyMetal Death.md",
     "Letra \"BabyMetal Death\".md",
-    "そして.md",
-    "Index.md",
-    "Aprender sobre Matematicas.md",
-    "Ejercicios Funciones ¿Es una función?.md",
-    "Aprendiendo con Antonio Ruiz García (ElGris).md",
-    "Aprender Idiomas.md",
-    "Dropbox/_OBSIDIAN",
-    "Dropbox",
-    "Inglés.md",
-    "Miembros de la Familia en Inglés.md",
-    "Grandparents.md",
-    "Alemán.md",
-    "Servus.md",
-    "Formas de saludar en Alemán.md",
-    "な.md",
+    "Japons.md",
+    "Sistemas de escritura japoneses.md",
     "Hiragana.md",
     "い.md",
-    "悪い.md",
-    "悪くない.md",
-    "ない.md",
-    "悪.md",
-    "悪くないね.md",
-    "Japonés.md",
-    "Japón.md",
-    "Japones.md",
+    "Ejercicios Funciones ¿Es una función?.md",
+    "Aprender Idiomas.md",
+    "く.md",
+    "Kanji.md",
+    "Kanji - Grado 8 - Jôyô kanji.md",
+    "贈.md",
+    "贈り.md",
+    "贈りもの.md",
+    "お贈りもの.md",
+    "そして.md",
+    "Ejercicios Polinomios.md",
+    "Dropbox/_OBSIDIAN/_PUBLIC BRAIN",
+    "Rumano.md",
+    "Formas de saludar en Rumano.md",
+    "Salutări.md",
+    "Inglés.md",
+    "Miembros de la Familia en Inglés.md",
+    "Grandson.md",
+    "Dropbox/_OBSIDIAN",
+    "Dropbox",
     "_resources/aecf1e55aff6a1cf82267fa39c5285cf_MD5.jpg",
     "_resources/a2b90a3e1d6e319ed31b30777b79bfad_MD5.jpg",
     "_resources/7929005dcefcfe51462164222f6d338b_MD5.jpg",

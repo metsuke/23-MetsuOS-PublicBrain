@@ -2,5 +2,5 @@
 
 [[Index]]
 
-[[Ejercicios Polinomios Platzi]]
+[[Ejercicios Polinomios]]
 [[Ejercicios Funciones ¿Es una función?]]

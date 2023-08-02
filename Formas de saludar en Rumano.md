@@ -12,7 +12,7 @@ En [[rumano]], existen diferentes formas de saludar que reflejan cortesía y ama
     
 4.  "Ce mai faci?" - Se traduce como "¿Cómo estás?" o "¿Cómo te va?". Es una forma amistosa de saludar e iniciar una conversación con alguien a quien conoces bien.
     
-5.  "Salutări" - Es una expresión que se utiliza para enviar saludos. Se puede usar para saludar a alguien a través de un mensaje de texto, correo electrónico o en una despedida.
+5.  "[[Salutări]]" - Es una expresión que se utiliza para enviar saludos. Se puede usar para saludar a alguien a través de un mensaje de texto, correo electrónico o en una despedida.
     
 
 Recuerda que en rumano, al igual que en otros idiomas, el contexto y el nivel de formalidad pueden influir en la elección del saludo adecuado. Estas son solo algunas formas comunes de saludar en rumano, pero siempre es recomendable adaptar el saludo según la situación y la relación con la persona a la que te diriges.

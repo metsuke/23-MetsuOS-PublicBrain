@@ -7,4 +7,4 @@ En el sistema de escritura kanji utilizado en Japón, la palabra "viejo" puede s
 2.  古い (Furui): Este kanji se utiliza para representar la palabra "viejo" en el sentido de antiguo o pasado. El carácter [[古]] (furu) significa "viejo" o "antiguo". Cuando se utiliza para describir objetos, lugares o ideas, 古い indica que son antiguos, de otra época o que han estado presentes durante mucho tiempo.
     
 
-Ambos kanji pueden ser utilizados para expresar la idea de "viejo" en diferentes contextos en el idioma [[japonés]]. Es importante tener en cuenta que el kanji se combina con otros sistemas de escritura, como hiragana y katakana, para formar palabras y oraciones completas en japonés.
+Ambos kanji pueden ser utilizados para expresar la idea de "viejo" en diferentes contextos en el idioma [[Japons]]. Es importante tener en cuenta que el kanji se combina con otros sistemas de escritura, como hiragana y katakana, para formar palabras y oraciones completas en japonés.

@@ -1,6 +1,6 @@
 # Sakura Gakuin
 
-Sakura Gakuin es un grupo musical y de entretenimiento [[japonés]] formado por chicas jóvenes que se dedican a la música y a la actuación. El nombre "Sakura Gakuin" se traduce como "Academia de Sakura" en español. El grupo fue creado en 2010 como parte del proyecto de la agencia de talentos Amuse, Inc.
+Sakura Gakuin es un grupo musical y de entretenimiento [[Japons]] formado por chicas jóvenes que se dedican a la música y a la actuación. El nombre "Sakura Gakuin" se traduce como "Academia de Sakura" en español. El grupo fue creado en 2010 como parte del proyecto de la agencia de talentos Amuse, Inc.
 
 La característica distintiva de Sakura Gakuin es su sistema de graduación. Las miembros del grupo se gradúan después de un cierto período de tiempo o cuando alcanzan la edad máxima de 15 años. Cada año, las miembros más antiguas "se gradúan" y dejan el grupo, mientras que nuevas integrantes se unen.
 

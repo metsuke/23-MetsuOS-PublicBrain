@@ -1,3 +1,4 @@
+# Servus
 [[Formas de saludar en Alemán]]
 
 "Servus" es una palabra en [[alemán]] que se utiliza como saludo informal. Es una forma común de decir "hola" o "adiós" en algunas regiones de habla alemana, especialmente en Austria y partes de Baviera, Alemania.

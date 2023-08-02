@@ -12,7 +12,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * [[Chino]]
 * [[Hindi]]
 * [[Inglés]]
-* [[Japonés]]
+* [[Japons]]
 * [[Rumano]]
 * [[Swahili]]
 

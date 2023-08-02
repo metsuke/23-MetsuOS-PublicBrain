@@ -1,6 +1,6 @@
 # Formas de despedirse en Japonés
 
-[[Japonés]]
+[[Japons]]
 
 En japonés, existen varias formas de despedirse dependiendo del nivel de formalidad y la situación. Aquí tienes algunas formas comunes:
 

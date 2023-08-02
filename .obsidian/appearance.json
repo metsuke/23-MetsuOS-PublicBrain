@@ -1,5 +1,9 @@
 {
   "accentColor": "#e7311d",
   "textFontFamily": "Helvetica Neue",
-  "baseFontSize": 13
+  "baseFontSize": 13,
+  "cssTheme": "Terminal",
+  "enabledCssSnippets": [
+    "terminal"
+  ]
 }

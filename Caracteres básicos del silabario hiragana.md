@@ -1,6 +1,6 @@
 # Caracteres básicos del silabario hiragana
 
-El silabario hiragana es un sistema de escritura [[japonés]] que consiste en 46 caracteres básicos. Cada uno de estos caracteres representa una sílaba, que se utiliza para construir palabras en japonés.
+El silabario hiragana es un sistema de escritura [[Japons]] que consiste en 46 caracteres básicos. Cada uno de estos caracteres representa una sílaba, que se utiliza para construir palabras en japonés.
 
 A continuación te presento los 46 caracteres básicos del silabario hiragana en orden alfabético:
 

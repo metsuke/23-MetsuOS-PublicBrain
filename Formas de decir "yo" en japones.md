@@ -1,6 +1,6 @@
 # Formas de decir "yo" en japones
 
-En [[japonés]], hay varios kanji que se utilizan para representar el pronombre personal "yo". A continuación, te proporciono tres de los kanji más comunes que se utilizan para este propósito:
+En [[Japons]], hay varios kanji que se utilizan para representar el pronombre personal "yo". A continuación, te proporciono tres de los kanji más comunes que se utilizan para este propósito:
 
 1.  私: Este kanji se pronuncia "watashi" y es el pronombre personal más utilizado en japonés. Se utiliza para referirse a "yo" de manera general y se puede utilizar en la mayoría de las situaciones, tanto formales como informales.
     

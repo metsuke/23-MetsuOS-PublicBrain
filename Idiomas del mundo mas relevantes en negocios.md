@@ -5,7 +5,7 @@
 |--------------|----------------------------------------|
 | [[Inglés]]       | 28,0                                   |
 | [[Chino]] Mandarín     | 27,7                                   |
-| [[Japonés]]      | 1,8                                    |
+| [[Japons]]      | 1,8                                    |
 | [[Español]]      | 1,5                                    |
 | Francés      | 1,3                                    |
 | [[Alemán]]       | 1,1                                    |
@@ -40,7 +40,7 @@
 | 6      | Alemán            | 132 millones        | Medio              |
 | 7      | Portugués         | 223 millones        | Medio              |
 | 8      | Ruso              | 258 millones        | Medio              |
-| 9      | [[Japonés]]           | 128 millones        | Medio              |
+| 9      | [[Japons]]           | 128 millones        | Medio              |
 | 10     | Italiano          | 85 millones         | Medio              |
 | 11     | Coreano           | 77 millones         | Medio              |
 | 12     | Neerlandés        | 29 millones         | Medio              |

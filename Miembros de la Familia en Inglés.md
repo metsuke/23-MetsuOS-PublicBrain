@@ -14,7 +14,7 @@ Lista de los miembros de la familia en [[inglés]]:
 - [[Grandfather]]: Abuelo
 - [[Grandmother]]: Abuela
 - [[Grandparents]]: Abuelos
-- Grandson: Nieto
+- [[Grandson]]: Nieto
 - Granddaughter: Nieta
 - Uncle: Tío
 - Aunt: Tía

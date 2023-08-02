@@ -1,4 +1,4 @@
-# Ejercicios Polinomios Platzi
+# Ejercicios Polinomios
 
 ## (2x+y)(3x-8y)
  $$

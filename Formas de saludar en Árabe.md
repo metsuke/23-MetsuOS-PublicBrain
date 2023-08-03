@@ -12,7 +12,7 @@ En el idioma [[Árabe]] existen varias formas de saludar, algunas de las más co
     
 5.  Sabāh al-khayr ([[صَبَاح الخَيْر]]) - Es una forma de saludar en árabe que se utiliza para desear un buen día. Literalmente significa "mañana buena" y se utiliza en situaciones informales.
     
-6.  Masā' al-khayr (مَسَاء الخَيْر) - Es una forma de saludar en árabe que se utiliza para desear una buena tarde o noche. Literalmente significa "tarde buena" y se utiliza en situaciones informales.
+6.  Masā' al-khayr ([[مَسَاء الخَيْر]]) - Es una forma de saludar en árabe que se utiliza para desear una buena tarde o noche. Literalmente significa "tarde buena" y se utiliza en situaciones informales.
     
 
 Es importante tener en cuenta que en el mundo árabe, la cultura y la religión juegan un papel importante en las formas de saludo, por lo que es importante conocer la situación y contexto en el que se está utilizando cada una de estas formas de saludo.

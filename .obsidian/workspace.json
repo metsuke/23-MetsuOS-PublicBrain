@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "冒.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "冒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "冒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "冒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "冒.md"
               }
             }
           }
@@ -151,32 +151,32 @@
   },
   "active": "74d2f0e3795ff92c",
   "lastOpenFiles": [
-    "IA Tools Database.md",
-    "Index.md",
-    "Aprendiendo con Antonio Ruiz García (ElGris).md",
-    "Aprender sobre la Tabla Periódica.md",
-    "Hidrógeno.md",
-    "Sodio.md",
-    "Potasio.md",
-    "Rubidio.md",
-    "Rb.md",
-    "K.md",
-    "Swahili.md",
-    "Formas de saludar en Swahili.md",
-    "Formas de despedirse en Swahili.md",
-    "Aprender Idiomas.md",
-    "Letra \"BabyMetal Death\".md",
-    "そして.md",
-    "は.md",
-    "Hiragana.md",
-    "私.md",
-    "Kanji - Grado 6 - Jôyô kanji.md",
+    "Kanji - Grado 9 - Jôyô kanji.md",
+    "冒.md",
     "Kanji.md",
-    "BabyMetal Death.md",
-    "Aprender sobre BabyMetal.md",
-    "Ejercicios Funciones ¿Es una función?.md",
-    "Aprender sobre Matematicas.md",
+    "Kanji - Grado 7 - Jôyô kanji.md",
+    "Kanji - Grado 8 - Jôyô kanji.md",
+    "Kanji - Grado 6 - Jôyô kanji.md",
+    "Jinmeiyō-kanji.md",
+    "Kanji - Grado 5 - Jôyô kanji.md",
+    "夢.md",
+    "Kanji - Grado 4 - Jôyô kanji.md",
+    "Kanji - Grado 3.md",
+    "Kanji - Grado 2.md",
+    "Kanji - Grado 1.md",
+    "吾.md",
+    "私.md",
     "Japons.md",
+    "Aprender Idiomas.md",
+    "Inglés.md",
+    "Granddaughter.md",
+    "Miembros de la Familia en Inglés.md",
+    "Árabe.md",
+    "Formas de saludar en Árabe.md",
+    "مَسَاء الخَيْر.md",
+    "Index.md",
+    "IA Tools Database.md",
+    "Aprendiendo con Antonio Ruiz García (ElGris).md",
     "Dropbox/_OBSIDIAN/_PUBLIC BRAIN",
     "Dropbox/_OBSIDIAN",
     "Dropbox",

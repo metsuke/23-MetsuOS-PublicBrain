@@ -1,5 +1,7 @@
 # Ejercicios Funciones ¿Es una función?
 
+[[Aprender sobre Matematicas]]
+
 ## 5 = 3x - y ... ¿es una función? REPETIR
 
 $$5 = 3x - y =>$$
@@ -57,3 +59,8 @@ grid: true
 ---
 y=98x^2
 ```
+## y^4 = 3x^2 + 3z ... ¿es una función? 
+
+$$y^4 = 3x^2 + 3z => y = \sqrt {3x^2 + 3z}$$
+
+La expresión y^4 = 3x^2 + 3z  NO representa una función, ya que hay una variable adicional z que no está definida ni relacionada con x en la expresión. 

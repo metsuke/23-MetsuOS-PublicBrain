@@ -34,4 +34,5 @@
 
 * [Directorio de Inteligencia Artificial | Directorio IA](https://www.directorioia.com/)
 * [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/)
+* [AIFINDY | Mayor Directorio IA](https://aifindy.com/)
 

@@ -4,3 +4,4 @@
 
 [[Ejercicios Polinomios]]
 [[Ejercicios Funciones ¿Es una función?]]
+[[Ejercicios Creación de Gráficas]]

@@ -16,13 +16,15 @@ Aprovecho que la letra en si de la canción es """sencilla""" para traducir aqui
 	* Querido, enviaremos un regalo
 	* Dear, let's send a gift
 
-* [[そして]][[私]][[は]]殺し合う 
+* [[そして]][[私]][[は]][[殺し合う]] 
 	* Soshite watashi wa koroshiau 
 	* Y entonces nos asesinaremos mutuamente
 	* And then we will kill each other 
 
-
-それが私の使命 
+* それが[[私]][[の]][[使命]] 
+	* Sore ga Watashi no shimei 
+	* Ese es mi propósito
+	* That is my mission 
 
 神様と巡り合い 
 私はここにいる 
@@ -33,7 +35,7 @@ Aprovecho que la letra en si de la canción es """sencilla""" para traducir aqui
 
 
 
-Sore ga Watashi no shimei 
+
 
 Kami-sama to meguriai 
 Watashi wa koko ni iru 
@@ -44,7 +46,7 @@ Watashi wa koko ni iru
 
 
 
-That is my mission 
+
 
 Meeting with the gods 
 I am here 

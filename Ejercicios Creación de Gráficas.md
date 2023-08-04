@@ -17,3 +17,19 @@ grid: true
 ---
 y = 4x + 1
 ```
+
+ ## y = 3x - 5
+
+Dibujamos $$y = 3x - 5$$
+
+```functionplot
+---
+title: y = 3x - 5
+xLabel: x
+yLabel: y
+bounds: [-10,10,-10,10]
+disableZoom: false
+grid: true
+---
+y = 3x - 5
+```

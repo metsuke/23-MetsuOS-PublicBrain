@@ -10,6 +10,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * [[Árabe]]
 * [[Catalán]]
 * [[Chino]]
+* [[Español]]
 * [[Hindi]]
 * [[Inglés]]
 * [[Japons]]

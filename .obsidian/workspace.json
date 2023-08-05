@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios Creación de Gráficas.md",
+                "file": "Bases de Datos Relacionales.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios Creación de Gráficas.md",
+                "file": "Bases de Datos Relacionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicios Creación de Gráficas.md",
+                "file": "Bases de Datos Relacionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios Creación de Gráficas.md"
+                "file": "Bases de Datos Relacionales.md"
               }
             }
           }
@@ -151,8 +151,12 @@
   },
   "active": "74d2f0e3795ff92c",
   "lastOpenFiles": [
-    "Aprender sobre Matematicas.md",
+    "Aprender sobre Bases de Datos.md",
+    "Bases de Datos No Relacionales.md",
+    "Bases de Datos Relacionales.md",
     "Index.md",
+    "Aprender sobre Matematicas.md",
+    "Ejercicios Creación de Gráficas.md",
     "Aprender Idiomas.md",
     "Catalán.md",
     "Miembros de la familia en catalán.md",
@@ -173,10 +177,6 @@
     "殺し.md",
     "殺.md",
     "Kanji - Grado 4 - Jôyô kanji.md",
-    "し.md",
-    "Ejercicios Creación de Gráficas.md",
-    "Ejercicios Funciones ¿Es una función?.md",
-    "Japons.md",
     "Dropbox/_OBSIDIAN/_PUBLIC BRAIN",
     "Dropbox/_OBSIDIAN",
     "Dropbox",

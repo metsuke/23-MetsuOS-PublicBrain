@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generar numeros primos en Javascript.md",
+                "file": "Ejercicios Creación de Gráficas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generar numeros primos en Javascript.md",
+                "file": "Ejercicios Creación de Gráficas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generar numeros primos en Javascript.md",
+                "file": "Ejercicios Creación de Gráficas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generar numeros primos en Javascript.md"
+                "file": "Ejercicios Creación de Gráficas.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "74d2f0e3795ff92c",
   "lastOpenFiles": [
-    "Algoritmos en Javascript.md",
+    "Aprender sobre Matematicas.md",
     "Index.md",
+    "Algoritmos en Javascript.md",
     "Generar numeros primos en Javascript.md",
     "_resources/Generar numeros primos en Python/850d18c992fd1b7255d9ad55876e2810_MD5.png",
     "_resources/Generar numeros primos en Python",
@@ -164,7 +165,6 @@
     "Aprender sobre Bases de Datos.md",
     "Bases de Datos Relacionales.md",
     "Bases de Datos No Relacionales.md",
-    "Aprender sobre Matematicas.md",
     "Ejercicios Creación de Gráficas.md",
     "Catalán.md",
     "Miembros de la familia en catalán.md",

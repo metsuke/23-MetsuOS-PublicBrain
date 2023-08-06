@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Español.md",
+                "file": "Generar numeros primos en Javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Español.md",
+                "file": "Generar numeros primos en Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Español.md",
+                "file": "Generar numeros primos en Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Español.md"
+                "file": "Generar numeros primos en Javascript.md"
               }
             }
           }
@@ -151,12 +151,16 @@
   },
   "active": "74d2f0e3795ff92c",
   "lastOpenFiles": [
+    "Algoritmos en Javascript.md",
+    "Index.md",
+    "Generar numeros primos en Javascript.md",
+    "_resources/Generar numeros primos en Python/850d18c992fd1b7255d9ad55876e2810_MD5.png",
+    "_resources/Generar numeros primos en Python",
     "Aprender Idiomas.md",
+    "Español.md",
     "Inglés.md",
     "Uncle.md",
-    "Español.md",
     "Miembros de la Familia en Inglés.md",
-    "Index.md",
     "Aprender sobre Bases de Datos.md",
     "Bases de Datos Relacionales.md",
     "Bases de Datos No Relacionales.md",
@@ -174,9 +178,6 @@
     "殺し合う.md",
     "合う.md",
     "合.md",
-    "Kanji - Grado 2.md",
-    "Kanji.md",
-    "う.md",
     "Dropbox/_OBSIDIAN/_PUBLIC BRAIN",
     "Dropbox/_OBSIDIAN",
     "Dropbox",
@@ -189,7 +190,6 @@
     "_resources/55eb683c6159909e85ef047a7c3de039_MD5.jpg",
     "_resources/24ebb4cb2736d66b88706a6b97636ba5_MD5.jpg",
     "_resources/9a74b0f9eddfee7b5bbdf033d471b232_MD5.jpg",
-    "_resources/1f56d4ca6b0fa8b3e56d3d304e4e66a1_MD5.jpg",
     "Untitled.canvas",
     "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos",
     "_resources/Aprendiendo sobre BabyMetal",

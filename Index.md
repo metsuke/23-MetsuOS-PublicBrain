@@ -38,6 +38,10 @@
 
 * [[IA Tools Database]]
 
+## Javascript
+
+* [[Algoritmos en Javascript]]
+
 ## Linux
 
 * [[Crear imagenes de SO en USB para instalar]]
@@ -59,5 +63,5 @@
 
 ## Python
 
-[[Entornos Virtuales con Python]]
+* [[Entornos Virtuales con Python]]
 

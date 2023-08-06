@@ -1,0 +1,69 @@
+# Index
+
+[[Home]]
+
+## A11Y
+
+* [Pictogramas – Plena Inclusión (plenainclusion.org)](https://pictogramas.plenainclusion.org/)
+* [Accesibiliconos. Una colección abierta de pictogramas para señalizar medidas de accesibilidad](https://www.accesibiliconos.org/)
+
+* [Observatorio de jurisprudencia - Plena inclusión (plenainclusion.org)](https://www.plenainclusion.org/l/observatorio-jurisprudencia/)
+
+## Aprender con ...
+
+* [[Aprendiendo con Antonio Ruiz García (ElGris)]]
+* [[Aprendiendo con Recuenco]]
+
+## Aprender sobre ...
+
+* [[Aprender Idiomas]]
+* [[Aprender sobre BabyMetal]]
+* [[Aprender sobre Bases de Datos]]
+* [[Aprender sobre Desarrollo]]
+* [[Aprender sobre Emprendimiento y Negocios]]
+* [[Aprender sobre Licencias]]
+* [[Aprender sobre Matematicas]]
+* [[Aprender sobre la Tabla Periódica]]
+* [[Aprender sobre Linux]]
+* [[Reciclaje]]
+* [[Videojuegos]]
+
+## Crypto
+
+* [[Donde es técnicamente posible comprar con Crypto]]
+
+## Ciberseguridad
+
+* [[Herramientas Ciberseguridad]]
+
+## IA
+
+* [[IA Tools Database]]
+
+## Javascript
+
+* [[Algoritmos en Javascript]]
+
+## Linux
+
+* [[Crear imagenes de SO en USB para instalar]]
+
+## Mejoras Lectura
+
+* [Bionic Reading - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/bionic-reading/kdfkejelgkdjgfoolngegkhkiecmlflj)
+
+## Obsidian + Zettelkasten
+
+* [[Obsidian]]
+* [[Second Brain]]
+* [[Zettelkasten]]
+
+## PHP
+
+* [[PHP Routing system]]
+* [[PHP Template systems by resources consumption]]
+
+## Python
+
+* [[Entornos Virtuales con Python]]
+

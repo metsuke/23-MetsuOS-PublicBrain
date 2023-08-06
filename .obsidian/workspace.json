@@ -11,15 +11,36 @@
             "id": "74d2f0e3795ff92c",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c4506143a0892ea",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios Creación de Gráficas.md",
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cb7cbea6ad02c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios Creación de Gráficas.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicios Creación de Gráficas.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios Creación de Gráficas.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -149,50 +170,55 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "74d2f0e3795ff92c",
+  "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
-    "Aprender sobre Matematicas.md",
-    "Index.md",
-    "Algoritmos en Javascript.md",
-    "Generar numeros primos en Javascript.md",
-    "_resources/Generar numeros primos en Python/850d18c992fd1b7255d9ad55876e2810_MD5.png",
-    "_resources/Generar numeros primos en Python",
-    "Aprender Idiomas.md",
-    "Español.md",
-    "Inglés.md",
-    "Uncle.md",
-    "Miembros de la Familia en Inglés.md",
-    "Aprender sobre Bases de Datos.md",
-    "Bases de Datos Relacionales.md",
-    "Bases de Datos No Relacionales.md",
-    "Ejercicios Creación de Gráficas.md",
-    "Catalán.md",
-    "Miembros de la familia en catalán.md",
-    "Filla.md",
-    "Aprender sobre BabyMetal.md",
-    "BabyMetal Death.md",
-    "Letra \"BabyMetal Death\".md",
-    "の.md",
-    "私.md",
-    "使命.md",
-    "殺し合う.md",
-    "合う.md",
-    "合.md",
-    "Dropbox/_OBSIDIAN/_PUBLIC BRAIN",
-    "Dropbox/_OBSIDIAN",
-    "Dropbox",
-    "_resources/aecf1e55aff6a1cf82267fa39c5285cf_MD5.jpg",
-    "_resources/a2b90a3e1d6e319ed31b30777b79bfad_MD5.jpg",
-    "_resources/7929005dcefcfe51462164222f6d338b_MD5.jpg",
-    "_resources/6043bbd6250b8b88062166e8bfe4c3ab_MD5.jpg",
-    "_resources/454b37462eb92e356865a55bcf3de373_MD5.jpg",
-    "_resources/84c9f62426a100f71c73b9e74d621621_MD5.jpg",
-    "_resources/55eb683c6159909e85ef047a7c3de039_MD5.jpg",
-    "_resources/24ebb4cb2736d66b88706a6b97636ba5_MD5.jpg",
-    "_resources/9a74b0f9eddfee7b5bbdf033d471b232_MD5.jpg",
-    "Untitled.canvas",
-    "_resources/Hilo Turra Arquitecturas Dinámicas de incentivos",
-    "_resources/Aprendiendo sobre BabyMetal",
-    "_resources/Motion Design"
+    "Home.md",
+    "PublicBrain/Tres fuerzas que mueven la economía y afectan directamente nuestra cartera según Ray Dalio.md",
+    "_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg",
+    "_resources/Home/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
+    "_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",
+    "_resources/El Proyecto/97d4219e001142996f47aff5dc6aec28_MD5.jpg",
+    "_resources/El Proyecto/40f50a0bfc39636c1b15b0360b746e4a_MD5.png",
+    "_resources/El Proyecto/28cd2b79deb0c716cfdb105645cbab62_MD5.jpg",
+    "_resources/El Proyecto/13d17921c2a188e40dd7986cbabfabc6_MD5.jpg",
+    "_resources/El Proyecto/9a5fa7f75752e91e6625d2d3898d307b_MD5.jpg",
+    "_resources/El Proyecto/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
+    "_resources/El Proyecto/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Chino.md",
+    "Videojuegos",
+    "Productividad",
+    "Comunicación",
+    "Ciencia",
+    "Accesibilidad",
+    "_resources/Home",
+    "El Proyecto.md",
+    "_resources/El Proyecto",
+    "_resources",
+    "PublicBrain/起承転結 (きしょうてんけつ).md",
+    "PublicBrain/贈り物.md",
+    "PublicBrain/贈りもの.md",
+    "PublicBrain/贈り.md",
+    "PublicBrain/贈.md",
+    "PublicBrain/请问.md",
+    "PublicBrain/私.md",
+    "PublicBrain/祝你好运.md",
+    "PublicBrain/祝你一切顺利.md",
+    "PublicBrain/目.md",
+    "PublicBrain/田.md",
+    "PublicBrain/生きる.md",
+    "PublicBrain/生.md",
+    "PublicBrain/物.md",
+    "PublicBrain/殺し合う.md",
+    "PublicBrain/殺し.md",
+    "PublicBrain/殺.md",
+    "PublicBrain/月.md",
+    "PublicBrain/晚上好.md",
+    "PublicBrain/早上好.md",
+    "PublicBrain/Untitled.canvas",
+    "PublicBrain",
+    "PublicBrain/_resources/Generar numeros primos en Python",
+    "Untitled.canvas"
   ]
 }

@@ -31,22 +31,10 @@ Aprovecho que la letra en si de la canción es """sencilla""" para traducir aqui
 私はここにいる 
 私はここにいる
 
-
-
-
-
-
-
 Kami-sama to meguriai 
 Watashi wa koko ni iru 
 Watashi wa koko ni iru 
 Watashi wa koko ni iru
-
-
-
-
-
-
 
 Meeting with the gods 
 I am here 

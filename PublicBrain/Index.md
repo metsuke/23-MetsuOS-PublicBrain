@@ -28,6 +28,10 @@
 * [[Reciclaje]]
 * [[Videojuegos]]
 
+## Cloud
+
+* [[Open Nebula]]
+
 ## Crypto
 
 * [[Donde es técnicamente posible comprar con Crypto]]
@@ -67,3 +71,8 @@
 
 * [[Entornos Virtuales con Python]]
 
+## SIM Card as a computer
+
+¿Será posible usar este tipo de dispositivos para hacer videojuegos?
+
+* [Chip de tarjeta sim a través del microscopio - YouTube](https://www.youtube.com/watch?v=wJSECL4YjgI&ab_channel=EDDLA)

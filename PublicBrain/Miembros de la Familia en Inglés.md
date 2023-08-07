@@ -17,7 +17,7 @@ Lista de los miembros de la familia en [[inglés]]:
 - [[Grandson]]: Nieto
 - [[Granddaughter]]: Nieta
 - [[Uncle]]: Tío
-- Aunt: Tía
+- [[Aunt]]: Tía
 - Nephew: Sobrino
 - Niece: Sobrina
 - Cousin: Primo/prima

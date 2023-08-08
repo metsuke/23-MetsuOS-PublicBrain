@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Miembros de la Familia en Inglés.md",
+                "file": "それ.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Miembros de la Familia en Inglés.md",
+                "file": "それ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Miembros de la Familia en Inglés.md",
+                "file": "それ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Miembros de la Familia en Inglés.md"
+                "file": "それ.md"
               }
             }
           }
@@ -172,19 +172,21 @@
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
-    "Aunt.md",
-    "PublicBrain/Miembros de la Familia en Inglés.md",
-    "PublicBrain/Inglés.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "それ.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Entornos Virtuales con Python.md",
     "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Inglés.md",
+    "PublicBrain/Miembros de la Familia en Inglés.md",
+    "Aunt.md",
     "PublicBrain/Hindi.md",
     "PublicBrain/Formas de saludar en Hindi.md",
     "Jai Shri Krishna.md",
-    "PublicBrain/Index.md",
     "Open Nebula.md",
     "Home.md",
-    "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/BabyMetal Death.md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
     "PublicBrain/使命.md",
     "命.md",
     "PublicBrain/Kanji - Grado 3.md",
@@ -214,8 +216,6 @@
     "PublicBrain/起承転結 (きしょうてんけつ).md",
     "PublicBrain/贈り物.md",
     "PublicBrain/贈りもの.md",
-    "PublicBrain/贈り.md",
-    "PublicBrain/贈.md",
     "PublicBrain/Untitled.canvas",
     "PublicBrain",
     "PublicBrain/_resources/Generar numeros primos en Python",

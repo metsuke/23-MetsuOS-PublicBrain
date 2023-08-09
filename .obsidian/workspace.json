@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "それ.md",
+                "file": "PublicBrain/朋.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "冒",
+                "query": "共",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "それ.md",
+                "file": "PublicBrain/朋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "それ.md",
+                "file": "PublicBrain/朋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "それ.md"
+                "file": "PublicBrain/朋.md"
               }
             }
           }
@@ -172,27 +171,32 @@
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
-    "PublicBrain/Letra \"BabyMetal Death\".md",
-    "それ.md",
-    "PublicBrain/BabyMetal Death.md",
-    "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Entornos Virtuales con Python.md",
+    "PublicBrain/Jinmeiyō-kanji.md",
+    "PublicBrain/朋.md",
+    "PublicBrain/Kanji.md",
+    "PublicBrain/Kanji - Grado 9 - Jôyô kanji.md",
+    "PublicBrain/Kanji - Grado 8 - Jôyô kanji.md",
+    "PublicBrain/Kanji - Grado 7 - Jôyô kanji.md",
+    "PublicBrain/Kanji - Grado 6 - Jôyô kanji.md",
+    "PublicBrain/Kanji - Grado 5 - Jôyô kanji.md",
+    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/Kanji - Grado 1.md",
+    "PublicBrain/Japons.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Inglés.md",
     "PublicBrain/Miembros de la Familia en Inglés.md",
+    "Nephew.md",
+    "PublicBrain/Meek and Tidy.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "それ.md",
+    "PublicBrain/Entornos Virtuales con Python.md",
     "Aunt.md",
     "PublicBrain/Hindi.md",
-    "PublicBrain/Formas de saludar en Hindi.md",
-    "Jai Shri Krishna.md",
-    "Open Nebula.md",
-    "Home.md",
-    "PublicBrain/使命.md",
-    "命.md",
-    "PublicBrain/Kanji - Grado 3.md",
-    "PublicBrain/Kanji.md",
-    "使.md",
-    "PublicBrain/Tres fuerzas que mueven la economía y afectan directamente nuestra cartera según Ray Dalio.md",
     "_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg",
     "_resources/Home/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",
@@ -203,19 +207,14 @@
     "_resources/El Proyecto/9a5fa7f75752e91e6625d2d3898d307b_MD5.jpg",
     "_resources/El Proyecto/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "_resources/El Proyecto/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",
-    "PublicBrain/Chino.md",
     "Videojuegos",
     "Productividad",
     "Comunicación",
     "Ciencia",
     "Accesibilidad",
     "_resources/Home",
-    "El Proyecto.md",
     "_resources/El Proyecto",
     "_resources",
-    "PublicBrain/起承転結 (きしょうてんけつ).md",
-    "PublicBrain/贈り物.md",
-    "PublicBrain/贈りもの.md",
     "PublicBrain/Untitled.canvas",
     "PublicBrain",
     "PublicBrain/_resources/Generar numeros primos en Python",

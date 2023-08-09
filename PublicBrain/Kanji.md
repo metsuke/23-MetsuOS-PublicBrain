@@ -32,4 +32,4 @@ El aprendizaje de los kanji requiere dedicación y práctica, ya que cada carác
 * [[Kanji - Grado 7 - Jôyô kanji]]
 * [[Kanji - Grado 8 - Jôyô kanji]]
 * [[Kanji - Grado 9 - Jôyô kanji]]
-* [[Jinmeiyō-kanji]]
+* [[Jinmeiyō-kanji]] (Para nombres)

@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74d2f0e3795ff92c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7c4506143a0892ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0cb7cbea6ad02c39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Avi a Mp4.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Avi a Mp4.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Avi a Mp4.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Avi a Mp4.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -172,9 +151,17 @@
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
+    "Home.md",
     "PublicBrain/Index.md",
-    "FFMPEG - Convertir Avi a Mp4.md",
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "PublicBrain/が.md",
+    "PublicBrain/Japons.md",
+    "PublicBrain/贈.md",
+    "が.md",
     "PublicBrain/FFMPEG - Convertir Avi a Mp4.md",
+    "FFMPEG - Convertir Avi a Mp4.md",
     "PublicBrain/朋.md",
     "PublicBrain/Aunt.md",
     "PublicBrain/命.md",
@@ -190,14 +177,6 @@
     "PublicBrain/Kanji - Grado 7 - Jôyô kanji.md",
     "PublicBrain/Kanji - Grado 6 - Jôyô kanji.md",
     "PublicBrain/Kanji - Grado 5 - Jôyô kanji.md",
-    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
-    "PublicBrain/Kanji - Grado 3.md",
-    "PublicBrain/Kanji - Grado 2.md",
-    "PublicBrain/Kanji - Grado 1.md",
-    "PublicBrain/Japons.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Inglés.md",
-    "PublicBrain/Miembros de la Familia en Inglés.md",
     "_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg",
     "_resources/Home/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",

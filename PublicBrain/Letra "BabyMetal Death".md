@@ -21,7 +21,7 @@ Aprovecho que la letra en si de la canción es """sencilla""" para traducir aqui
 	* Y entonces nos asesinaremos mutuamente
 	* And then we will kill each other 
 
-* [[それ]]が[[私]][[の]][[使命]] 
+* [[それ]][[が]][[私]][[の]][[使命]] 
 	* Sore ga Watashi no shimei 
 	* Ese es mi propósito
 	* That is my mission 
@@ -83,6 +83,7 @@ Death, death (Su-metal death)
 Death, death, death, death  
 Death, death (Yuimetal death)  
 Death, death, death, death  
+
 Death, death (Moametal death)  
 Death, death, death, death  
 Death, death (Babymetal death)  

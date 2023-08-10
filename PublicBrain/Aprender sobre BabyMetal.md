@@ -26,6 +26,7 @@ En resumen, BABYMETAL es un grupo musical japonés que fusiona el heavy metal co
 * [[BabyMetal - Vestuario]]
 * [(1) Bring Me The Horizon/BabyMetal: Kingslayer. Old White Guy (AJ Hartley) reaction (sort of) #12 - YouTube](https://www.youtube.com/watch?v=RlZuOLju9Kk&list=PLbMSceCLFM-S8CORnK0CqGFCgdb2HKsU6&index=31&ab_channel=AndrewHartley)
 * [El extraño viaje de Babymetal - Jot Down Cultural Magazine](https://www.jotdown.es/2018/02/el-extrano-viaje-de-babymetal/)
+* [(115) All About KITSUNE: Japanese foxes in folklore, religion and, of course, BABYMETAL. With AJ Hartley. - YouTube](https://www.youtube.com/watch?v=Tb1eI_NrK-o&t=48s)
 
 ### Álbum: "Babymetal" (2014)
  

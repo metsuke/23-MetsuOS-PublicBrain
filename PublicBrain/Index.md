@@ -40,6 +40,11 @@
 
 * [[Herramientas Ciberseguridad]]
 
+## FFMPEG
+
+* [Tutorial de ffmpeg - Terminal en español - Terminal de Linux](https://terminaldelinux.com/terminal/multimedia/ffmpeg/)
+* [[FFMPEG - Convertir Avi a Mp4]]
+
 ## IA
 
 * [[IA Tools Database]]

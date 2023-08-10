@@ -21,4 +21,5 @@ El aprendizaje del alemán puede ser desafiante debido a su gramática compleja 
 
 ## Categorías
 
+* [[Formas de despedirse en Alemán]]
 * [[Formas de saludar en Alemán]]

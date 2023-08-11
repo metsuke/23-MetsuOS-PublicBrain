@@ -1,5 +1,5 @@
 # Formas de despedirse en Alemán
-
+ 
 
 En [[alemán]], existen varias formas de despedirse, cada una con su nivel de formalidad y contexto adecuado. Aquí tienes algunas de las formas más comunes de decir adiós en alemán:
 

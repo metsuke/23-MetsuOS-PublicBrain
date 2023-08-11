@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Formas de despedirse en Alemán.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Formas de despedirse en Alemán.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Formas de despedirse en Alemán.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Formas de despedirse en Alemán.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -151,12 +151,12 @@
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Alemán.md",
-    "Formas de despedirse en Alemán.md",
     "PublicBrain/Formas de despedirse en Alemán.md",
+    "Formas de despedirse en Alemán.md",
     "PublicBrain/Servus.md",
     "PublicBrain/Formas de saludar en Alemán.md",
-    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Index.md",
     "Home.md",
     "PublicBrain/Aprender sobre BabyMetal.md",

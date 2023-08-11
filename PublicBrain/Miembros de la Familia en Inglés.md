@@ -19,7 +19,7 @@ Lista de los miembros de la familia en [[inglés]]:
 - [[Uncle]]: Tío
 - [[Aunt]]: Tía
 - [[Nephew]]: Sobrino
-- Niece: Sobrina
+- [[Niece]]: Sobrina
 - Cousin: Primo/prima
 - Husband: Esposo
 - Wife: Esposa

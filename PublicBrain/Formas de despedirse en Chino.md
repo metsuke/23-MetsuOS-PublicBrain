@@ -15,7 +15,7 @@ Algunas formas comunes de despedirse en chino:
     
 5. [[祝你一切顺利]] (Zhù nǐ yíqiè shùnlì) - Esta frase significa "te deseo todo lo mejor" y se utiliza como una despedida amistosa y cordial.
     
-6. 保重 (Bǎozhòng) - Es una forma de despedirse que se traduce como "cuídate". Se utiliza para mostrar preocupación y desearle a la persona que se mantenga segura y saludable.
+6. [[保重]] (Bǎozhòng) - Es una forma de despedirse que se traduce como "cuídate". Se utiliza para mostrar preocupación y desearle a la persona que se mantenga segura y saludable.
     
 
 Recuerda que en la cultura china es común expresar buenos deseos y mostrar cortesía al despedirse. Además, ten en cuenta que el tono y la formalidad pueden variar según la relación con la persona y el contexto en el que te encuentres.

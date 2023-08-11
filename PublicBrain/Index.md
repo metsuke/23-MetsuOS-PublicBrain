@@ -44,6 +44,8 @@
 
 * [Tutorial de ffmpeg - Terminal en español - Terminal de Linux](https://terminaldelinux.com/terminal/multimedia/ffmpeg/)
 * [[FFMPEG - Convertir Avi a Mp4]]
+* [[FFMPEG - Convertir Mov a Mp4]]
+* [[FFMPEG - Convertir Mpg a Mp4]]
 
 ## IA
 

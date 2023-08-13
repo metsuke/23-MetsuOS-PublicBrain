@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Flv a Mp4.md",
+                "file": "PublicBrain/Ejercicios Binomios al Cuadrado.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Flv a Mp4.md",
+                "file": "PublicBrain/Ejercicios Binomios al Cuadrado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Flv a Mp4.md",
+                "file": "PublicBrain/Ejercicios Binomios al Cuadrado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Flv a Mp4.md"
+                "file": "PublicBrain/Ejercicios Binomios al Cuadrado.md"
               }
             }
           }
@@ -139,21 +139,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Matemáticas.md",
+    "PublicBrain/Ejercicios Binomios al Cuadrado.md",
+    "Ejercicios Binomios al Cuadrado.md",
+    "PublicBrain/Ejercicios Polinomios.md",
     "PublicBrain/Index.md",
-    "FFMPEG - Convertir Flv a Mp4.md",
     "PublicBrain/FFMPEG - Convertir Flv a Mp4.md",
+    "FFMPEG - Convertir Flv a Mp4.md",
     "PublicBrain/FFMPEG - Convertir Mpg a Mp4.md",
     "PublicBrain/FFMPEG - Convertir Wmv a Mp4.md",
     "FFMPEG - Convertir Wmv a Mp4.md",
@@ -173,10 +177,6 @@
     "Germans.md",
     "PublicBrain/FFMPEG - Convertir Mov a Mp4.md",
     "FFMPEG - Convertir Mov a Mp4.md",
-    "FFMPEG - Convertir Mpg a Mp4.md",
-    "PublicBrain/Alemán.md",
-    "PublicBrain/Formas de despedirse en Alemán.md",
-    "Formas de despedirse en Alemán.md",
     "_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg",
     "_resources/Home/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",

@@ -1,6 +1,6 @@
 # Ejercicios Creación de Gráficas
 
-[[Aprender sobre Matematicas]]
+[[Aprender sobre Matemáticas]]
 
 ## y = 4x + 1
 

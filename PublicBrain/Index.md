@@ -22,7 +22,7 @@
 * [[Aprender sobre Desarrollo]]
 * [[Aprender sobre Emprendimiento y Negocios]]
 * [[Aprender sobre Licencias]]
-* [[Aprender sobre Matematicas]]
+* [[Aprender sobre Matemáticas]]
 * [[Aprender sobre la Tabla Periódica]]
 * [[Aprender sobre Linux]]
 * [[Reciclaje]]

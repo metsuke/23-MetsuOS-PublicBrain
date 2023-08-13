@@ -1,5 +1,7 @@
 # Ejercicios Polinomios
 
+[[Aprender sobre Matemáticas]]
+
 ## (2x+y)(3x-8y)
  $$
  (2x+y)(3x-8y) =$$$$
@@ -97,3 +99,4 @@ Ordenamos $$=2xy + 4xyz + 3xyz - 2xyz=$$
 Operamos xyz $$=2xy + 5xyz=$$
 Factor común xy $$=xy(2 + 5z)=$$
 Ordenamos $$=xy(5z + 2)$$
+

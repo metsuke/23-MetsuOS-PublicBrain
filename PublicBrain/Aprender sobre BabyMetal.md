@@ -6,7 +6,7 @@ En este proyecto, busco aprender sobre BabyMetal, y el idioma Japonés, así com
 
 Empiezo en la primera semana de Junio de 2023 y he calculado unos 4 años de trabajo, que igual són más, ya lo iremos descubriendo.
 
-### Sobre BABYMETAL
+### Sobre BABYMETAL (ベビーメタル)
 
 ![BabyMetal Logo](f7e5bebb707fef3361266e86ddb3e804_MD5.jpg)
 

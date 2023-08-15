@@ -21,7 +21,7 @@ Lista de los miembros de la familia en [[inglés]]:
 - [[Nephew]]: Sobrino
 - [[Niece]]: Sobrina
 - [[Cousin]]: Primo/prima
-- Husband: Esposo
+- [[Husband]]: Esposo
 - Wife: Esposa
 - Spouse: Cónyuge
 - In-laws: Suegros

@@ -59,6 +59,7 @@
 ## IA
 
 * [[IA Tools Database]]
+* [[IA Simular Comportamiento Humano]]
 
 ## Javascript
 
@@ -92,3 +93,7 @@
 ¿Será posible usar este tipo de dispositivos para hacer videojuegos?
 
 * [Chip de tarjeta sim a través del microscopio - YouTube](https://www.youtube.com/watch?v=wJSECL4YjgI&ab_channel=EDDLA)
+
+## Sistemas de Diseño
+
+* [Explore the Magic of Design Systems | Start Design Systems](https://startdesignsystem.com/)

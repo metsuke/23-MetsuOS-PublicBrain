@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/IA Simular Comportamiento Humano.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/IA Simular Comportamiento Humano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/IA Simular Comportamiento Humano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/IA Simular Comportamiento Humano.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
     "PublicBrain/Index.md",
+    "IA Simular Comportamiento Humano.md",
+    "PublicBrain/IA Simular Comportamiento Humano.md",
     "PublicBrain/FFMPEG - Convertir Avi a Mp4.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Inglés.md",
@@ -175,8 +177,6 @@
     "Ejercicios Binomios al Cuadrado.md",
     "PublicBrain/Ejercicios Polinomios.md",
     "PublicBrain/FFMPEG - Convertir Flv a Mp4.md",
-    "FFMPEG - Convertir Flv a Mp4.md",
-    "PublicBrain/FFMPEG - Convertir Mpg a Mp4.md",
     "_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg",
     "_resources/Home/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",

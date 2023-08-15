@@ -40,6 +40,10 @@
 
 * [[Herramientas Ciberseguridad]]
 
+## Computación Probabilística
+
+* [Logran controlar la aleatoriedad cuántica (agenciasinc.es)](https://www.agenciasinc.es/Noticias/Logran-controlar-la-aleatoriedad-cuantica)
+
 ## Diseño Interfaz
 * [Game UI Database | Welcome](https://gameuidatabase.com/)
 

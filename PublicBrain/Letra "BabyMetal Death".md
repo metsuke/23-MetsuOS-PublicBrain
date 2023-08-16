@@ -26,7 +26,7 @@ Aprovecho que la letra en si de la canción es """sencilla""" para traducir aqui
 	* Ese es mi propósito
 	* That is my mission 
 
-- 神様[[と]]巡り合い 
+- [[神様]][[と]]巡り合い 
 	- Kami-sama to meguriai 
 	- Encontrarse con los dioses
 	- Meeting with the gods 

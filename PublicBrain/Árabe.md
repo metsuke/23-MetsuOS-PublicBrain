@@ -14,4 +14,5 @@ Aprender árabe puede ser un desafío, pero también puede ser una experiencia g
 
 ## Categorías
 
+* [[Formas de despedirse en Árabe]]
 * [[Formas de saludar en Árabe]]

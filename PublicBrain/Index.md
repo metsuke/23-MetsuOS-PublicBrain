@@ -55,6 +55,7 @@
 * [[FFMPEG - Convertir Avi a Mp4]]
 * [[FFMPEG - Convertir Flv a Mp4]]
 * [[FFMPEG - Convertir Mov a Mp4]]
+* [[FFMPEG - Convertir M4v a Mp4]]
 * [[FFMPEG - Convertir Mpg a Mp4]]
 * [[FFMPEG - Convertir Wmv a Mp4]]
 
@@ -80,6 +81,10 @@
 * [[Obsidian]]
 * [[Second Brain]]
 * [[Zettelkasten]]
+
+
+* [Diagram Syntax | Mermaid](https://mermaid.js.org/intro/n00b-syntaxReference.html)
+* [Mermaid Cheat Sheet @ https://jojozhuang.github.io](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
 
 ## PHP
 

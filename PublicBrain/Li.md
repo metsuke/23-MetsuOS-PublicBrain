@@ -1,5 +1,5 @@
 # Li
 
-[[Aprender sobre la Tabla Periódica]]
+[[Aprender sobre Tabla Periódica]]
 
 Véase [[Litio]]

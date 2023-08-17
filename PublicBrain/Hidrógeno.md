@@ -1,6 +1,6 @@
 # Hidrógeno
 
-[[Aprender sobre la Tabla Periódica]]
+[[Aprender sobre Tabla Periódica]]
 
 El hidrógeno ([[H]]) es el elemento químico más ligero y abundante en el universo. Es el primer elemento de la tabla periódica y tiene un número atómico de 1. En su forma más común, el hidrógeno es un gas incoloro, inodoro y altamente inflamable.
 

@@ -1,6 +1,6 @@
 # Rubidio
 
-[[Aprender sobre la Tabla Periódica]]
+[[Aprender sobre Tabla Periódica]]
 
 El rubidio es un elemento químico que pertenece al grupo de los metales alcalinos en la tabla periódica. Su símbolo químico es "[[Rb]]" y su número atómico es 37. A continuación, te proporcionaré más información sobre el rubidio:
 

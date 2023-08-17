@@ -1,5 +1,5 @@
 # K
 
-[[Aprender sobre la Tabla Periódica]]
+[[Aprender sobre Tabla Periódica]]
 
 Véase [[Potasio]]

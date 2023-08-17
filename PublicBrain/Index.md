@@ -22,9 +22,11 @@
 * [[Aprender sobre Desarrollo]]
 * [[Aprender sobre Emprendimiento y Negocios]]
 * [[Aprender sobre Licencias]]
-* [[Aprender sobre Matemáticas]]
-* [[Aprender sobre la Tabla Periódica]]
 * [[Aprender sobre Linux]]
+* [[Aprender sobre Matemáticas]]
+* [[Aprender sobre Redes]]
+* [[Aprender sobre Tabla Periódica]]
+
 * [[Reciclaje]]
 * [[Videojuegos]]
 

@@ -1,6 +1,6 @@
 # Potasio
 
-[[Aprender sobre la Tabla Periódica]]
+[[Aprender sobre Tabla Periódica]]
 
 El potasio es un elemento químico que pertenece al grupo de los metales alcalinos, con símbolo "K" y número atómico 19. Es un metal blando y plateado que reacciona rápidamente con el oxígeno del aire, por lo que se encuentra comúnmente en la naturaleza en forma de compuestos, como sales de potasio.
 

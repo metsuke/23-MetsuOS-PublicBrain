@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Capas de la infraestructura de una red.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Capas de la infraestructura de una red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Capas de la infraestructura de una red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Capas de la infraestructura de una red.md"
               }
             }
           }
@@ -151,6 +150,14 @@
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
+    "PublicBrain/Capas de la infraestructura de Red.md",
+    "PublicBrain/Capas de la infraestructura de una red.md",
+    "PublicBrain/Aprender sobre Redes.md",
+    "Capas de la infraestructura de una red.md",
+    "Capas de la infraestructura de Red.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Tabla Periódica.md",
+    "Aprender sobre Redes.md",
     "PublicBrain/Aprender sobre BabyMetal.md",
     "PublicBrain/BabyMetal Death.md",
     "PublicBrain/Letra \"BabyMetal Death\".md",
@@ -169,14 +176,6 @@
     "PublicBrain/Chino.md",
     "PublicBrain/Miembros de la Familia en Chino.md",
     "PublicBrain/Inglés.md",
-    "Miembros de la familia en Chino.md",
-    "PublicBrain/Formas de despedirse en Chino.md",
-    "Formas de despedirse en Árabe.md",
-    "PublicBrain/Formas de saludar en Árabe.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Matemáticas.md",
-    "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
-    "Ejercicios Binomios a la n potencia y conjugados.md",
     "_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg",
     "_resources/Home/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",

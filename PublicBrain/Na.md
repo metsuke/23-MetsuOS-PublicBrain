@@ -1,5 +1,5 @@
 # Na
 
-[[Aprender sobre la Tabla Periódica]]
+[[Aprender sobre Tabla Periódica]]
 
 Véase [[Sodio]]

@@ -1,6 +1,6 @@
 # Litio
 
-[[Aprender sobre la Tabla Periódica]]
+[[Aprender sobre Tabla Periódica]]
 
 El litio es un elemento químico que pertenece al grupo de los metales alcalinos y se encuentra en el número 3 de la tabla periódica. Tiene el símbolo [[Li]] y su número atómico es 6. El litio es un metal suave, plateado y altamente reactivo que se utiliza en una variedad de aplicaciones.
 

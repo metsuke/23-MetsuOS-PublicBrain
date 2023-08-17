@@ -1,6 +1,6 @@
 # Sodio
 
-[[Aprender sobre la Tabla Periódica]]
+[[Aprender sobre Tabla Periódica]]
 
 El sodio es un elemento químico con el símbolo [[Na]] y el número atómico 11. Es un metal alcalino que se encuentra en la tabla periódica y pertenece al grupo 1. El sodio es un elemento esencial para la vida, ya que es un electrolito que desempeña un papel vital en el funcionamiento del cuerpo humano y de otros organismos.
 

@@ -1,4 +1,4 @@
-# Aprender sobre la Tabla Periódica
+# Aprender sobre Tabla Periódica
 
 [[Index]]
 

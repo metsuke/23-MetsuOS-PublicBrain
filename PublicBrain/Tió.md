@@ -2,6 +2,7 @@
 
 [[Catalán]] | [[Tio]]
 
+Un tronco, pero no cualquier tronco, sino el destinado a ser quemado en el hogar.
 
 El "Tió" es una tradición cultural navideña específica de Cataluña, España. Se trata de un tronco de madera que se decora y se coloca en las casas durante la época navideña como parte de las celebraciones en la región. El Tió también es conocido como "Caga Tió", que se traduce como "Tronco que defeca" en referencia a una parte peculiar de la tradición.
 

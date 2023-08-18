@@ -15,4 +15,4 @@ En resumen, "Babymetal Death" es una canción del grupo Babymetal que aparece en
 * [(34) BABYMETAL DEATH | Legend 1997 (Complete) - YouTube](https://www.youtube.com/watch?v=jRc9dbgiBPI&ab_channel=GuilhermeCait)
 * [(108) Babymetal - Death (Fox Festival 2017 Live) Eng Sub - YouTube](https://www.youtube.com/watch?v=5MJOKJwkbfY&ab_channel=ForTheFoxGod)
 * [BABYMETAL – BABYMETAL DEATH Lyrics | Genius Lyrics](https://genius.com/Babymetal-babymetal-death-lyrics)
-* 
+

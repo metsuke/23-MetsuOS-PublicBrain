@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Emails Temporales.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Emails Temporales.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Emails Temporales.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Emails Temporales.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -151,9 +151,9 @@
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
+    "PublicBrain/Emails Temporales.md",
     "PublicBrain/Index.md",
     "Emails Temporales.md",
-    "PublicBrain/Emails Temporales.md",
     "PublicBrain/Herramientas Ciberseguridad.md",
     "PublicBrain/IA Tools Database.md",
     "PublicBrain/Aprender Idiomas.md",

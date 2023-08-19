@@ -11,10 +11,19 @@
 
 ## Aprender con ...
 
+Procesos algo caóticos de aprendizaje
+
 * [[Aprendiendo con Antonio Ruiz García (ElGris)]]
 * [[Aprendiendo con Recuenco]]
+## Aorender mi Libro de Texto
+
+Empezando a consolidar conocimiento como "Libro de texto"
+
+* [[Aprender Economía]]
 
 ## Aprender sobre ...
+
+Mis Apuntes
 
 * [[Aprender Idiomas]]
 * [[Aprender sobre BabyMetal]]
@@ -30,85 +39,83 @@
 * [[Reciclaje]]
 * [[Videojuegos]]
 
-## Cloud
+## Bloc de Notas
+
+Un cuaderno de apuntes absolutamente caótico, pero necesario.
+### Cloud
 
 * [[Open Nebula]]
-
-## Crypto
+### Crypto
 
 * [[Donde es técnicamente posible comprar con Crypto]]
 
-## Ciberseguridad
+### Ciberseguridad
 
 * [[Emails Temporales]]
 * [[Herramientas Ciberseguridad]]
 
-## Computación Probabilística
+### Computación Probabilística
 
 * [Logran controlar la aleatoriedad cuántica (agenciasinc.es)](https://www.agenciasinc.es/Noticias/Logran-controlar-la-aleatoriedad-cuantica)
 
-## Diseño Interfaz
+### Diseño Interfaz
 * [Game UI Database | Welcome](https://gameuidatabase.com/)
 
-## FFMPEG
+### FFMPEG
 
 * [Tutorial de ffmpeg - Terminal en español - Terminal de Linux](https://terminaldelinux.com/terminal/multimedia/ffmpeg/)
 
-### AUDIO 2 AUDIO
+* AUDIO 2 AUDIO
+	* [[FFMPEG - Convertir Flac a Mp3]]
+* VID 2 VID
+	* [[FFMPEG - Convertir Avi a Mp4]]
+	* [[FFMPEG - Convertir Flv a Mp4]]
+	* [[FFMPEG - Convertir Mov a Mp4]]
+	* [[FFMPEG - Convertir M4v a Mp4]]
+	* [[FFMPEG - Convertir Mpg a Mp4]]
+	* [[FFMPEG - Convertir Wmv a Mp4]]
 
-* [[FFMPEG - Convertir Flac a Mp3]]
-
-### VID 2 VID
-
-* [[FFMPEG - Convertir Avi a Mp4]]
-* [[FFMPEG - Convertir Flv a Mp4]]
-* [[FFMPEG - Convertir Mov a Mp4]]
-* [[FFMPEG - Convertir M4v a Mp4]]
-* [[FFMPEG - Convertir Mpg a Mp4]]
-* [[FFMPEG - Convertir Wmv a Mp4]]
-
-## IA
+### IA
 
 * [[IA Tools Database]]
 * [[IA Simular Comportamiento Humano]]
 
-## Javascript
+### Javascript
 
 * [[Algoritmos en Javascript]]
 
-## Linux
+### Linux
 
 * [[Crear imagenes de SO en USB para instalar]]
 
-## Mejoras Lectura
+### Mejoras Lectura
 
 * [Bionic Reading - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/bionic-reading/kdfkejelgkdjgfoolngegkhkiecmlflj)
 
-## Obsidian + Zettelkasten
+### Obsidian + Zettelkasten
 
 * [[Obsidian]]
 * [[Second Brain]]
 * [[Zettelkasten]]
 
-
 * [Diagram Syntax | Mermaid](https://mermaid.js.org/intro/n00b-syntaxReference.html)
 * [Mermaid Cheat Sheet @ https://jojozhuang.github.io](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
 
-## PHP
+### PHP
 
 * [[PHP Routing system]]
 * [[PHP Template systems by resources consumption]]
 
-## Python
+### Python
 
 * [[Entornos Virtuales con Python]]
 
-## SIM Card as a computer
+### SIM Card as a computer
 
 ¿Será posible usar este tipo de dispositivos para hacer videojuegos?
 
 * [Chip de tarjeta sim a través del microscopio - YouTube](https://www.youtube.com/watch?v=wJSECL4YjgI&ab_channel=EDDLA)
 
-## Sistemas de Diseño
+### Sistemas de Diseño
 
 * [Explore the Magic of Design Systems | Start Design Systems](https://startdesignsystem.com/)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Emails Temporales.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Emails Temporales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Emails Temporales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Emails Temporales.md"
               }
             }
           }
@@ -151,8 +151,11 @@
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
-    "PublicBrain/IA Tools Database.md",
     "PublicBrain/Index.md",
+    "Emails Temporales.md",
+    "PublicBrain/Emails Temporales.md",
+    "PublicBrain/Herramientas Ciberseguridad.md",
+    "PublicBrain/IA Tools Database.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Catalán.md",
     "PublicBrain/Miembros de la familia en catalán.md",
@@ -174,9 +177,6 @@
     "PublicBrain/Kanji - Grado 9 - Jôyô kanji.md",
     "PublicBrain/Kanji.md",
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
-    "巡.md",
-    "合い.md",
-    "巡り.md",
     "_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg",
     "_resources/Home/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",

@@ -2,13 +2,6 @@
 
 [[Home]]
 
-## A11Y
-
-* [Pictogramas – Plena Inclusión (plenainclusion.org)](https://pictogramas.plenainclusion.org/)
-* [Accesibiliconos. Una colección abierta de pictogramas para señalizar medidas de accesibilidad](https://www.accesibiliconos.org/)
-
-* [Observatorio de jurisprudencia - Plena inclusión (plenainclusion.org)](https://www.plenainclusion.org/l/observatorio-jurisprudencia/)
-
 ## Aprender con ...
 
 Procesos algo caóticos de aprendizaje
@@ -42,6 +35,13 @@ Mis Apuntes
 ## Bloc de Notas
 
 Un cuaderno de apuntes absolutamente caótico, pero necesario.
+### A11Y
+
+* [Pictogramas – Plena Inclusión (plenainclusion.org)](https://pictogramas.plenainclusion.org/)
+* [Accesibiliconos. Una colección abierta de pictogramas para señalizar medidas de accesibilidad](https://www.accesibiliconos.org/)
+
+* [Observatorio de jurisprudencia - Plena inclusión (plenainclusion.org)](https://www.plenainclusion.org/l/observatorio-jurisprudencia/)
+
 ### Cloud
 
 * [[Open Nebula]]

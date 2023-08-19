@@ -8,6 +8,14 @@ Procesos algo caóticos de aprendizaje
 
 * [[Aprendiendo con Antonio Ruiz García (ElGris)]]
 * [[Aprendiendo con Recuenco]]
+
+## Aprender Idiomas
+
+Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una prioridad diferente y está en una fase distinta del proceso.
+
+[[Alemán]] | [[Árabe]] | [[Catalán]] | [[Chino]] | [[Español]] | [[Hindi]] | [[Inglés]] | [[Japons]] | [[Rumano]] | [[Swahili]]
+
+ * [[Estadísticas sobre Idiomas]]
 ## Aorender mi Libro de Texto
 
 Empezando a consolidar conocimiento como "Libro de texto"
@@ -18,7 +26,6 @@ Empezando a consolidar conocimiento como "Libro de texto"
 
 Mis Apuntes
 
-* [[Aprender Idiomas]]
 * [[Aprender sobre BabyMetal]]
 * [[Aprender sobre Bases de Datos]]
 * [[Aprender sobre Desarrollo]]

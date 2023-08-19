@@ -1,6 +1,6 @@
 # Rumano
 
-[[Aprender Idiomas]]
+[[Index]] | [[Estadísticas sobre Idiomas]]
 
 El rumano es un idioma románico que se habla principalmente en Rumania, Moldavia y algunas partes de Ucrania. También es hablado por comunidades de emigrantes rumanos en todo el mundo.
 

@@ -4,7 +4,7 @@
 
 En suajili, un idioma hablado en varios países de África Oriental, existen varias formas de despedirse de manera amigable y educada. Aquí hay algunas formas comunes de decir adiós en suajili:
 
-1. **Kwaheri:** Esta es la forma más común y general de decir adiós en suajili. Se utiliza en situaciones informales y formales por igual.
+1. **[[Kwaheri]]:** Esta es la forma más común y general de decir adiós en suajili. Se utiliza en situaciones informales y formales por igual.
     
 2. **Kwaheri ya kuonana:** Esta expresión significa "hasta la próxima vez". Es una manera amigable de despedirse cuando planeas ver a la persona nuevamente en el futuro.
     

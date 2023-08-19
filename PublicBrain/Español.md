@@ -1,6 +1,6 @@
 # Español
 
-[[Aprender Idiomas]]
+[[Index]] | [[Estadísticas sobre Idiomas]]
 
 Por supuesto, el español es una lengua romance que se deriva del latín y es hablada por millones de personas en todo el mundo. Aquí tienes información sobre el español como idioma:
 

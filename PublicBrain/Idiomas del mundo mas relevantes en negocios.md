@@ -1,6 +1,6 @@
 # Idiomas del mundo mas relevantes en negocios
 
-[[Aprender Idiomas]]
+[[Estadísticas sobre Idiomas]]
 | Idioma       | Volumen de negocio (billones de dólares) |
 |--------------|----------------------------------------|
 | [[Inglés]]       | 28,0                                   |

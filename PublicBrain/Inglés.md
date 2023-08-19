@@ -1,6 +1,6 @@
 # Inglés
 
-- [[Aprender Idiomas]]
+[[Index]] | [[Estadísticas sobre Idiomas]]
 
 El idioma inglés es uno de los idiomas más hablados en el mundo. Es la lengua materna de aproximadamente 360 millones de personas y se estima que otras 1.5 mil millones de personas lo hablan como segunda lengua.
 

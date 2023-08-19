@@ -1,6 +1,6 @@
 # Chino
 
-- [[Aprender Idiomas]]
+[[Index]] | [[Estadísticas sobre Idiomas]]
 
 El idioma chino es uno de los idiomas más hablados en el mundo, con más de 1.300 millones de hablantes nativos. Se habla principalmente en la República Popular China, Taiwán, Singapur, Malasia y otros lugares con comunidades chinas significativas.
 

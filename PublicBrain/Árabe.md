@@ -1,6 +1,6 @@
 # Árabe
 
-* [[Aprender Idiomas]]
+[[Index]] | [[Estadísticas sobre Idiomas]]
 
 El idioma árabe es una de las lenguas más habladas en el mundo, con más de 420 millones de hablantes nativos en todo el mundo. Es una lengua semítica que tiene su origen en la Península Arábiga y es el idioma oficial de más de 20 países, principalmente en el norte de África y en el Medio Oriente.
 

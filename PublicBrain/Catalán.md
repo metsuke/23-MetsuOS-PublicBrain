@@ -1,6 +1,6 @@
 # Catalán
 
-[[Aprender Idiomas]] | [diccionari.cat | diccionari.cat](https://www.diccionari.cat/) | [Institut d'Estudis Catalans - Diec2](https://dlc.iec.cat/)
+[[Index]] | [[Estadísticas sobre Idiomas]] | [diccionari.cat | diccionari.cat](https://www.diccionari.cat/) | [Institut d'Estudis Catalans - Diec2](https://dlc.iec.cat/)
 
 El catalán es un idioma romance hablado principalmente en Cataluña, en el noreste de España, así como en las Islas Baleares, la Comunidad Valenciana, y la región de Alghero en Cerdeña, Italia. También se habla en partes de Francia y Andorra.
 

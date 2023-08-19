@@ -23,7 +23,7 @@ Lista de los miembros de la familia en [[inglés]]:
 - [[Cousin]]: Primo/prima
 - [[Husband]]: Esposo
 - [[Wife]]: Esposa
-- Spouse: Cónyuge
+- [[Spouse]]: Cónyuge
 - In-laws: Suegros
 - Father-in-law: Suegro
 - Mother-in-law: Suegra

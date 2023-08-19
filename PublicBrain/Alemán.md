@@ -1,6 +1,6 @@
 # Alemán
 
-* [[Aprender Idiomas]]
+[[Index]] | [[Estadísticas sobre Idiomas]]
 
 El idioma alemán es una lengua germánica que se habla principalmente en Alemania, Austria, Suiza, Liechtenstein, Luxemburgo y algunas partes de Bélgica y el norte de Italia. También es uno de los idiomas oficiales de la Unión Europea y uno de los más hablados en Europa.
 

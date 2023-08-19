@@ -16,7 +16,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 [[Alemán]] | [[Árabe]] | [[Catalán]] | [[Chino]] | [[Español]] | [[Hindi]] | [[Inglés]] | [[Japons]] | [[Rumano]] | [[Swahili]]
 
  * [[Estadísticas sobre Idiomas]]
-## Aorender mi Libro de Texto
+## Aprender mi Libro de Texto
 
 Empezando a consolidar conocimiento como "Libro de texto"
 

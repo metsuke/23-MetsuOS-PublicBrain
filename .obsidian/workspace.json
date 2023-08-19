@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Tiet.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Tiet.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Tiet.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Tiet.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -151,14 +151,15 @@
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
-    "PublicBrain/Miembros de la familia en catalán.md",
+    "PublicBrain/IA Tools Database.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Catalán.md",
+    "PublicBrain/Miembros de la familia en catalán.md",
     "PublicBrain/Tiet.md",
     "PublicBrain/Oncle.md",
     "PublicBrain/Tio.md",
     "PublicBrain/Tió.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre BabyMetal.md",
     "PublicBrain/BabyMetal Death.md",
     "PublicBrain/Letra \"BabyMetal Death\".md",
@@ -176,7 +177,6 @@
     "巡.md",
     "合い.md",
     "巡り.md",
-    "巡り合い.md",
     "_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg",
     "_resources/Home/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",

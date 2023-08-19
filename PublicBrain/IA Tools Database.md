@@ -2,6 +2,10 @@
 
 [[Index]]
 
+
+## Color Palette
+
+* [AI Color Palette Generator - Browse, Edit, Visualize and Generate Unique Palettes (tintmint.net)](https://tintmint.net/)
 ## Emprendimiento
 
 * [Stratup.ai](https://www.futurepedia.io/tool/stratup.ai) - Generador ideas emprendimiento.

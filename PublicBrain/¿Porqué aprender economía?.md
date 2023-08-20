@@ -1,6 +1,6 @@
 # ¿Porqué aprender economía?
 
-[[Aprender Economía]]
+[[Aprender sobre Economía]]
 
 Es la sangre que articula nuestro mundo, fuente de democratización y a veces de injusticia, pero, en demasiadas ocasiones, fuente de todo tipo de magufadas sin base científica. Va siendo hora de aprender sobre economía, para distinguir el grano de la paja.
 

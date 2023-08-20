@@ -18,17 +18,21 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
  * [[Estadísticas sobre Idiomas]]
 ## Aprender mi Libro de Texto
 
-Empezando a consolidar conocimiento como "Libro de texto"
+Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elaborados.
 
 ### Ciencias Sociales
 
-* [[Aprender Economía]]
+* [[Aprender sobre Economía]]
+
+### Cultura
+
+* [[Aprender sobre BabyMetal]]
 
 ## Aprender sobre ...
 
-Mis Apuntes
+Mis Apuntes más caóticos
 
-* [[Aprender sobre BabyMetal]]
+
 * [[Aprender sobre Bases de Datos]]
 * [[Aprender sobre Desarrollo]]
 * [[Aprender sobre Emprendimiento y Negocios]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre BabyMetal.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre BabyMetal.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre BabyMetal.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre BabyMetal.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -152,6 +152,10 @@
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "いる.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Matemáticas.md",
     "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
@@ -174,10 +178,6 @@
     "PublicBrain/Ejercicios Creación de Gráficas.md",
     "PublicBrain/Ejercicios Binomios al Cuadrado.md",
     "PublicBrain/Ejercicios Funciones ¿Es una función?.md",
-    "PublicBrain/Aprender sobre Economía.md",
-    "PublicBrain/Roadmap para aprender economía.md",
-    "PublicBrain/¿Porqué aprender economía?.md",
-    "PublicBrain/Aprendiendo con Recuenco.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",

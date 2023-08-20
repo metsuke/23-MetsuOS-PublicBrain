@@ -31,7 +31,7 @@ Aprovecho que la letra en si de la canción es """sencilla""" para traducir aqui
 	- Encuentro con los dioses 
 	- Meeting with the gods 
 
-- [[私]][[は]][[ここ]][[に]]いる  (x3)
+- [[私]][[は]][[ここ]][[に]][[いる]]  (x3)
 	- Watashi wa koko ni iru (x3)
 	- Estoy aquí (x3)
 	- I am here  (x3)

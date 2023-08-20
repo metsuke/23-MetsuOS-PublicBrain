@@ -152,9 +152,14 @@
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
-    "LICENSE",
-    "PublicBrain/README-1.md",
     "README.md",
+    "README-1.md",
+    "LICENSE",
+    "PublicBrain/README-1",
+    "README",
+    "PublicBrain/README",
+    "PublicBrain/LICENSE",
+    "PublicBrain/README-1.md",
     "PublicBrain/Aprender sobre Economía.md",
     "PublicBrain/¿Porqué aprender economía?.md",
     "PublicBrain/Index.md",
@@ -193,12 +198,7 @@
     "Productividad",
     "Comunicación",
     "Ciencia",
-    "Accesibilidad",
-    "_resources/Home",
-    "_resources/El Proyecto",
-    "_resources",
     "PublicBrain/Untitled.canvas",
-    "PublicBrain",
     "Untitled.canvas"
   ]
 }

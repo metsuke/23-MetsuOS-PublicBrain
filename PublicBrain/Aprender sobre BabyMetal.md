@@ -97,7 +97,7 @@ En resumen, BABYMETAL es un grupo musical japonés que fusiona el heavy metal co
 15. "[[Shine]]"
 16. "[[Arkadia]]"
 
-### Álbum: "Eternal Darkness" (2023)
+### Álbum: "The Other One" (2023)
 
 1. "[[Metal Kingdom]]"
 2.  "[[Divine Attack (Shingeki)]]"

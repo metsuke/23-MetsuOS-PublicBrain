@@ -19,22 +19,35 @@
 ```
 ## Binomio al Cubo
 
-## (x+2)^3 
+### (x+2)^3 
 
 $$(x+2)^3 = x^3 + 3*x^2*2 + 3x2^2 + 2^3 = x^3 + 6x^2 + 12x + 8$$
 
-## (m+3)^3
+### (m+3)^3
 
 $$(m+3)^3 = m^3 + 3*3m^2 + 3^2*3m + 3^3 = m^3 + 9m^2 + 27m + 27$$
 
-## (3x+1)^3
+### (3x+1)^3
 
 $$(3x+1)^3 = 1*(3x)^3 + 3*(3x)^2*1 +  3*3x*1^2 + 1*1^3 = 27x^3 + 27x^2 + 9x + 1$$
-## (1-b^2)^3
+### (1-b^2)^3
 
 $$(1-b^2)^3 = 1 - 3b^2 + 3b^4 - b^6$$
 
-## (2x+3y)^3
+### (2x+3y)^3
 
 $$(2x+3y)^3 = (2x)^3 +  3*(2x)^2*3y + 3*2x*(3y)^2 + (3y)^3 = $$
 $$= 8x^3 + 3*4x^2*3y + 3*2x*9y^2 + 27y^3=8x^3 + 36x^2y + 54xy^2 + 27y^3$$
+
+
+## Coccientes Notables (con Cuadrados)
+
+* [Cocientes Notables Primer Caso](https://www.youtube.com/watch?v=Wm_fm0fvhKE)
+* [https://www.youtube.com/watch?v=szXCOZjU5dQ](https://www.youtube.com/watch?v=szXCOZjU5dQ)  
+* [https://www.youtube.com/watch?v=OgjhSasOhqk](https://www.youtube.com/watch?v=OgjhSasOhqk)  
+* [https://www.youtube.com/watch?v=E3xPiX5EhkM](https://www.youtube.com/watch?v=E3xPiX5EhkM)
+
+
+### \frac{x^2-2}{x+2}
+
+$$\frac{x^2-2}{x+2} = \frac{(x+\sqrt{2})(x-\sqrt{2})}{x+2}$$

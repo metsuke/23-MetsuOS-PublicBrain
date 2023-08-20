@@ -1,5 +1,4 @@
 # Plataformas de Videojuegos a lo largo de la historia
-[[[[]]]]# Plataformas de Videojuegos a lo largo de la historia
 
 [[Videojuegos]]
 

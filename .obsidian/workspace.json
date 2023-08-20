@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "Home.md"
               }
             }
           }
@@ -146,13 +146,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "0cb7cbea6ad02c39",
   "lastOpenFiles": [
-    "PublicBrain/Estadísticas sobre Idiomas.md",
+    "PublicBrain/Roadmap para aprender economía.md",
+    "PublicBrain/Aprender Economía.md",
+    "PublicBrain/¿Porqué aprender economía?.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprendiendo con Recuenco.md",
+    "PublicBrain/Arquitectura de Incentivos.md",
+    "HTML import/index.md",
+    "HTML import",
+    "Roadmap para aprender economía.md",
+    "¿Porqué aprender economía?.md",
+    "PublicBrain/Estadísticas sobre Idiomas.md",
     "PublicBrain/Swahili.md",
     "PublicBrain/Formas de despedirse en Swahili.md",
     "PublicBrain/Kwaheri.md",
@@ -169,14 +179,6 @@
     "PublicBrain/Catalán.md",
     "PublicBrain/Árabe.md",
     "PublicBrain/Alemán.md",
-    "PublicBrain/Aprender Economía.md",
-    "Aprender Economía.md",
-    "PublicBrain/Emails Temporales.md",
-    "Emails Temporales.md",
-    "PublicBrain/Herramientas Ciberseguridad.md",
-    "PublicBrain/IA Tools Database.md",
-    "PublicBrain/Miembros de la familia en catalán.md",
-    "PublicBrain/Tiet.md",
     "_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg",
     "_resources/Home/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",
@@ -197,7 +199,6 @@
     "_resources",
     "PublicBrain/Untitled.canvas",
     "PublicBrain",
-    "PublicBrain/_resources/Generar numeros primos en Python",
     "Untitled.canvas"
   ]
 }

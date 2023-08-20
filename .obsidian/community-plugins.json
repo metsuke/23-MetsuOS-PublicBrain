@@ -5,5 +5,7 @@
   "webpage-html-export",
   "dataview",
   "mathlive",
-  "obsidian-functionplot"
+  "obsidian-functionplot",
+  "simple-embeds",
+  "obsidian-importer"
 ]

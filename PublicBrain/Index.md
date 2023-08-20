@@ -20,6 +20,8 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 
 Empezando a consolidar conocimiento como "Libro de texto"
 
+### Ciencias Sociales
+
 * [[Aprender Economía]]
 
 ## Aprender sobre ...

@@ -23,5 +23,13 @@
       ],
       "key": "G"
     }
+  ],
+  "obsidian-importer:open-modal": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "I"
+    }
   ]
 }

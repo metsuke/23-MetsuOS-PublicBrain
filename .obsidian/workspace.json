@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Flac a Mp3.md",
+                "file": "PublicBrain/Aprender sobre BabyMetal.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Flac a Mp3.md",
+                "file": "PublicBrain/Aprender sobre BabyMetal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Flac a Mp3.md",
+                "file": "PublicBrain/Aprender sobre BabyMetal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/FFMPEG - Convertir Flac a Mp3.md"
+                "file": "PublicBrain/Aprender sobre BabyMetal.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   "active": "696c838cfdeeb698",
   "lastOpenFiles": [
     "PublicBrain/Index.md",
+    "PublicBrain/FFMPEG - Convertir Flac a Mp3.md",
     "PublicBrain/Aprender sobre BabyMetal.md",
     "PublicBrain/Rondo of Nightmare.md",
     "PublicBrain/Onedari Daisakusen.md",
@@ -177,7 +178,6 @@
     "PublicBrain/悪くないね.md",
     "PublicBrain/Formas de despedirse en Japonés.md",
     "PublicBrain/Aprender sobre Emprendimiento y Negocios.md",
-    "PublicBrain/Videojuegos.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",

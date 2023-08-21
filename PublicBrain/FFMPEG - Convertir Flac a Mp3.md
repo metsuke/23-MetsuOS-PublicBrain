@@ -31,5 +31,18 @@ ffmpeg -i archivo.flac -c:a libmp3lame -q:a 2 archivo.mp3
     
 6. **Espera a que Finalice**: El proceso de conversión puede llevar algún tiempo dependiendo del tamaño del archivo y la potencia de tu sistema.
     
+| Valor `-q:a` | Descripción                     | Calidad de Audio | Tasa de Bits Objetivo | Tamaño de Archivo |
+|--------------|---------------------------------|------------------|-----------------------|-------------------|
+| 0            | Muy alta calidad                | Excelente        | Alta                  | Grande            |
+| 1            | Excelente calidad               | Muy buena        | Alta                  | Grande            |
+| 2            | Muy buena calidad               | Buena            | Moderada              | Moderado          |
+| 3            | Buena calidad                   | Aceptable        | Moderada              | Moderado          |
+| 4            | Calidad aceptable               | Aceptable        | Moderada              | Moderado          |
+| 5            | Calidad promedio                | Aceptable        | Moderada              | Moderado          |
+| 6            | Calidad ligeramente inferior    | Aceptable        | Moderada              | Moderado          |
+| 7            | Calidad aceptablemente inferior | Aceptable        | Baja                  | Pequeño           |
+| 8            | Calidad bastante inferior       | Aceptable        | Baja                  | Pequeño           |
+| 9            | Muy baja calidad                | Pobre            | Muy baja              | Muy pequeño       |
+
 
 Una vez finalizada la conversión, tendrás un archivo MP3 convertido en la misma ubicación que el archivo FLAC original. Asegúrate de ajustar los nombres de los archivos y las rutas según tus necesidades.

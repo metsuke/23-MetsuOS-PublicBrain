@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca5d9b94a5337dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Japonés.md",
+                "file": "PublicBrain/Redes Neuronales Artificiales.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md",
+                "file": "PublicBrain/Redes Neuronales Artificiales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md",
+                "file": "PublicBrain/Redes Neuronales Artificiales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md"
+                "file": "PublicBrain/Redes Neuronales Artificiales.md"
               }
             }
           }
@@ -164,15 +152,23 @@
   },
   "active": "696c838cfdeeb698",
   "lastOpenFiles": [
-    "PublicBrain/Finanzas Elementales.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Redes Neuronales Artificiales.md",
+    "PublicBrain/¿Qué es la Inteligencia Artificial?.md",
+    "Redes Neuronales Artificiales.md",
+    "PublicBrain/La Inteligencia Artificial en tanto ciencia.md",
+    "¿Qué es la Inteligencia Artificial?.md",
+    "La Inteligencia Artificial en tanto ciencia.md",
+    "PublicBrain/Index.md",
+    "Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Aprender sobre Economía.md",
+    "PublicBrain/Finanzas Elementales.md",
+    "PublicBrain/¿Qué es un activo?.md",
     "PublicBrain/Finanzas Personales.md",
     "Finanzas Personales.md",
     "PublicBrain/¿Porqué aprender economía?.md",
-    "PublicBrain/¿Qué es un activo?.md",
     "¿Qué es un activo?.md",
     "Finanzas Elementales.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
     "PublicBrain/Aprender sobre Matemáticas.md",
     "PublicBrain/Aprender sobre BabyMetal.md",
@@ -182,14 +178,6 @@
     "PublicBrain/Auf Wiedersehen.md",
     "PublicBrain/父亲.md",
     "PublicBrain/In-laws.md",
-    "PublicBrain/Inglés.md",
-    "PublicBrain/Miembros de la Familia en Inglés.md",
-    "In-laws.md",
-    "PublicBrain/Chino.md",
-    "父亲.md",
-    "PublicBrain/Miembros de la Familia en Chino.md",
-    "PublicBrain/Alemán.md",
-    "PublicBrain/Formas de despedirse en Alemán.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",

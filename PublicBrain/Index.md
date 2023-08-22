@@ -28,6 +28,10 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Aprender sobre BabyMetal]]
 
+### Tecnología
+
+* [[Aprender sobre Inteligencia Artificial]]
+
 ## Aprender sobre ...
 
 Mis Apuntes más caóticos

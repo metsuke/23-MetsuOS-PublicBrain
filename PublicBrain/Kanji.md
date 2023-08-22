@@ -1,6 +1,6 @@
 # Kanji
 
-[[Japons]]
+[[Japonés]]
 
 Los kanji son caracteres chinos que se adoptaron en Japón y se convirtieron en parte integral de los [[Sistemas de escritura japoneses]]. Son logogramas, lo que significa que cada carácter representa una palabra, un concepto o una idea en lugar de una sílaba o sonido individual.
 
@@ -10,7 +10,7 @@ Aquí tienes algunos aspectos clave sobre los kanji:
     
 2.  Lectura y significado: Cada kanji tiene al menos una lectura, llamada "yomi". Las lecturas pueden ser "on'yomi", que son pronunciaciones chinas importadas, o "kun'yomi", que son pronunciaciones japonesas nativas. A menudo, un kanji tiene múltiples lecturas dependiendo del contexto. Además, cada kanji tiene uno o más significados asociados, lo que puede generar diferentes interpretaciones según la palabra o el contexto en el que se utilice.
     
-3.  Uso: Los kanji se utilizan para escribir palabras sustantivas, verbos, adjetivos y algunos adverbios en japonés. También se utilizan para expresar relaciones gramaticales y conceptos más abstractos. El conocimiento de los kanji es fundamental para leer textos más complejos, como periódicos, literatura y documentos oficiales en [[Japons]].
+3.  Uso: Los kanji se utilizan para escribir palabras sustantivas, verbos, adjetivos y algunos adverbios en japonés. También se utilizan para expresar relaciones gramaticales y conceptos más abstractos. El conocimiento de los kanji es fundamental para leer textos más complejos, como periódicos, literatura y documentos oficiales en [[Japonés]].
     
 4.  Número de kanji: Hay miles de kanji en total, pero se considera que existen alrededor de 2,000 kanji de uso común. En Japón, los estudiantes aprenden un conjunto de kanji básicos conocidos como "kyōiku kanji" durante su educación primaria y secundaria. Además, hay kanji más especializados y menos comunes que se utilizan en áreas específicas como la ciencia, la medicina o la tecnología.
     

@@ -1,6 +1,6 @@
 # Diferencia entre "です" (desu) y "デス" 
 
-La diferencia entre "[[です]]" (desu) y "[[デス]]" (desu) en [[Japons]] radica principalmente en su forma de escritura y pronunciación. Ambos cumplen una función similar como una forma educada de expresar el verbo "ser" o "estar" en oraciones afirmativas y formales.
+La diferencia entre "[[です]]" (desu) y "[[デス]]" (desu) en [[Japonés]] radica principalmente en su forma de escritura y pronunciación. Ambos cumplen una función similar como una forma educada de expresar el verbo "ser" o "estar" en oraciones afirmativas y formales.
 
 - "です" (desu): Es la forma estándar y más común de expresar el verbo "ser" o "estar" en japonés. Se escribe en hiragana y se pronuncia como "desu". Es ampliamente utilizado en situaciones formales, como en presentaciones, encuentros de negocios o conversaciones con personas desconocidas. También se utiliza en contextos más informales cuando se busca ser cortés.
 

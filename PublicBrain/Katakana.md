@@ -12,7 +12,7 @@ Aquí tienes algunos aspectos clave sobre el katakana:
     
 4.  Énfasis y estilo: En ocasiones, el katakana se utiliza para resaltar o enfatizar ciertas palabras o frases en textos japoneses. También se utiliza en letreros, rótulos publicitarios y en ocasiones informales para crear un efecto visual llamativo o moderno.
     
-5.  Aprendizaje: El katakana se enseña a los estudiantes de [[Japons]] como segundo sistema de escritura después del hiragana. Aprender y reconocer los caracteres katakana es esencial para leer y comprender palabras y términos extranjeros en japonés.
+5.  Aprendizaje: El katakana se enseña a los estudiantes de [[Japonés]] como segundo sistema de escritura después del hiragana. Aprender y reconocer los caracteres katakana es esencial para leer y comprender palabras y términos extranjeros en japonés.
     
 El katakana es una parte importante de la escritura japonesa y amplía la capacidad de expresión y comunicación en el idioma. Si estás interesado en aprender japonés, familiarizarte con el katakana te permitirá leer y pronunciar correctamente palabras y nombres extranjeros en japonés.
 

@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre BabyMetal.md",
+                "file": "PublicBrain/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c54899e689f99118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "私はただの学生の見習.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca5d9b94a5337dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "私はただの日本語の学習者です.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre BabyMetal.md",
+                "file": "私はただの日本語の学習者です.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre BabyMetal.md",
+                "file": "私はただの日本語の学習者です.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre BabyMetal.md"
+                "file": "私はただの日本語の学習者です.md"
               }
             }
           }
@@ -150,17 +174,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "696c838cfdeeb698",
+  "active": "ca5d9b94a5337dc5",
   "lastOpenFiles": [
+    "PublicBrain/Japonés.md",
+    "私はただの日本語の学習者です.md",
+    "私はただの学生の見習.md",
+    "私はただの学生の見習いです.md",
+    "PublicBrain/japonés.md",
     "PublicBrain/Index.md",
-    "PublicBrain/FFMPEG - Convertir Flac a Mp3.md",
     "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/FFMPEG - Convertir Flac a Mp3.md",
     "PublicBrain/Rondo of Nightmare.md",
     "PublicBrain/Onedari Daisakusen.md",
     "PublicBrain/Megitsune.md",
     "PublicBrain/BabyMetal Death.md",
     "PublicBrain/Letra \"BabyMetal Death\".md",
-    "PublicBrain/Japons.md",
     "PublicBrain/Kanji.md",
     "PublicBrain/Jinmeiyō-kanji.md",
     "PublicBrain/Kanji - Grado 9 - Jôyô kanji.md",
@@ -174,10 +202,6 @@
     "PublicBrain/Kanji - Grado 1.md",
     "いる.md",
     "PublicBrain/Aprender sobre Matemáticas.md",
-    "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
-    "PublicBrain/悪くないね.md",
-    "PublicBrain/Formas de despedirse en Japonés.md",
-    "PublicBrain/Aprender sobre Emprendimiento y Negocios.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",

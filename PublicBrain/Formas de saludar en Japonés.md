@@ -1,8 +1,8 @@
 # Formas de saludar en Japonés
 
-[[Japons]]
+[[Japonés]]
 
-1.  "Konnichiwa" ([[こんにちは]]): es la forma más común y universal de saludar a alguien en [[Japons]]. Se puede usar en cualquier momento del día y es informal.
+1.  "Konnichiwa" ([[こんにちは]]): es la forma más común y universal de saludar a alguien en [[Japonés]]. Se puede usar en cualquier momento del día y es informal.
 2.  "Ohayou gozaimasu" ([[おはようございます]]): se utiliza para saludar a alguien por la mañana, generalmente antes del mediodía. Es una forma más formal que "konnichiwa". 
 3.  "Konbanwa" ([[こんばんは]]): se utiliza para saludar a alguien por la noche, generalmente después de las 6 p.m. Es una forma más formal que "konnichiwa".
 4.  "Arigatou gozaimasu" ([[ありがとうございます]]): es una forma de agradecer a alguien. También se puede usar como una forma de saludo informal, similar a "hola".

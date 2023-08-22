@@ -1,6 +1,6 @@
 # sokuon
 
-El sokuon es un pequeño signo que se utiliza en la escritura del idioma [[Japons]] para indicar que una consonante debe ser pronunciada de manera más corta y enfática. El sokuon se representa gráficamente con un pequeño círculo que se coloca en la parte superior derecha de la consonante que se quiere enfatizar.
+El sokuon es un pequeño signo que se utiliza en la escritura del idioma [[Japonés]] para indicar que una consonante debe ser pronunciada de manera más corta y enfática. El sokuon se representa gráficamente con un pequeño círculo que se coloca en la parte superior derecha de la consonante que se quiere enfatizar.
 
 En el hiragana, el sokuon se escribe como una pequeña marca de apóstrofe (') que se coloca después de la consonante que se quiere enfatizar. Por ejemplo, la palabra "kappa" (una criatura mitológica japonesa) se escribe en hiragana como "かっぱ", donde la doble "っ" (que se pronuncia como una consonante enfática) indica la presencia del sokuon.
 

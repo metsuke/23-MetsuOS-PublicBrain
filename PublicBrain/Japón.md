@@ -2,7 +2,7 @@
 
 [[Aprender sobre BabyMetal]]
 
-Idioma: [[Japons]]
+Idioma: [[Japonés]]
 
 Japón, oficialmente conocido como la [[República]] de Japón, es un [[país]] insular situado en el este de [[Asia]]. Es conocido por su rica historia, cultura fascinante y tecnología avanzada. Japón se compone de cuatro islas principales: [[Honshu]], [[Hokkaido]], [[Kyushu]] y [[Shikoku]], además de numerosas islas más pequeñas.
 

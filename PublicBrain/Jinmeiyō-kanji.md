@@ -2,7 +2,7 @@
 
 [[Kanji]]
 
-"Jinmeiyō-kanji" se refiere a un subconjunto de [[kanji]] en [[Japons]] que se considera adecuado para su uso en nombres propios. Estos kanji, conocidos como "kanji para nombres personales", han sido seleccionados y designados por el Ministerio de Asuntos Internos y Comunicaciones de Japón.
+"Jinmeiyō-kanji" se refiere a un subconjunto de [[kanji]] en [[Japonés]] que se considera adecuado para su uso en nombres propios. Estos kanji, conocidos como "kanji para nombres personales", han sido seleccionados y designados por el Ministerio de Asuntos Internos y Comunicaciones de Japón.
 
 El propósito de la lista de Jinmeiyō-kan es proporcionar una selección más amplia de kanji que se pueden utilizar para nombres personales, ya que la lista estándar de kanji (también conocida como "joyo kanji") es más limitada y se enfoca principalmente en los kanji de uso general.
 

@@ -4,7 +4,7 @@
 
 Aquí tienes una lista de algunos términos para miembros de la familia en chino:
 
-1. **父亲 (fùqīn)**: Padre
+1. **[[父亲]] (fùqīn)**: Padre
 2. **母亲 (mǔqīn)**: Madre
 3. **儿子 (érzi)**: Hijo
 4. **女儿 (nǚ'ér)**: Hija

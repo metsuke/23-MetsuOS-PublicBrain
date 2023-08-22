@@ -3,7 +3,7 @@
 
 En [[alemán]], existen varias formas de despedirse, cada una con su nivel de formalidad y contexto adecuado. Aquí tienes algunas de las formas más comunes de decir adiós en alemán:
 
-1. **Auf Wiedersehen:** Esta es una forma estándar y educada de decir "adiós". Se puede utilizar en la mayoría de las situaciones formales e informales.
+1. **[[Auf Wiedersehen]]:** Esta es una forma estándar y educada de decir "adiós". Se puede utilizar en la mayoría de las situaciones formales e informales.
     
 2. **Tschüss:** Esta es una despedida más informal y amigable. Es similar a decir "chau" en español. Se usa entre amigos y en situaciones más relajadas.
     

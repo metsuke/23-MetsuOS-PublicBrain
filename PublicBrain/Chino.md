@@ -15,4 +15,4 @@ En resumen, el idioma chino es un idioma muy interesante y valioso de aprender, 
 * [[Formas de despedirse en Chino]]
 * [[Formas de saludar en Chino]]
 * [[Miembros de la Familia en Chino]]
-* 
+

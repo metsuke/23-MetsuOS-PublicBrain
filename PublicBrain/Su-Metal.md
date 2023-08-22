@@ -1,6 +1,6 @@
 # Su-Metal
 
-[[Aprender sobre BabyMetal]]
+[[Aprender sobre BabyMetal]] | [[Letra "BabyMetal Death"]]
 
 Su-Metal, cuyo nombre real es [[Suzuka Nakamoto]], es una cantante japonesa conocida por ser la vocalista principal del grupo de música idol japonés [[BABYMETAL]]. Nació el 20 de diciembre de 1997 en Hiroshima, Japón.
 

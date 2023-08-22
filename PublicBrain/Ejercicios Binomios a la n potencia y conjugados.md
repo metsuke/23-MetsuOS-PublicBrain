@@ -43,11 +43,12 @@ $$= 8x^3 + 3*4x^2*3y + 3*2x*9y^2 + 27y^3=8x^3 + 36x^2y + 54xy^2 + 27y^3$$
 ## Coccientes Notables (con Cuadrados)
 
 * [Cocientes Notables Primer Caso](https://www.youtube.com/watch?v=Wm_fm0fvhKE)
-* [https://www.youtube.com/watch?v=szXCOZjU5dQ](https://www.youtube.com/watch?v=szXCOZjU5dQ)  
-* [https://www.youtube.com/watch?v=OgjhSasOhqk](https://www.youtube.com/watch?v=OgjhSasOhqk)  
-* [https://www.youtube.com/watch?v=E3xPiX5EhkM](https://www.youtube.com/watch?v=E3xPiX5EhkM)
+* [Cocientes Notables Segundo Caso](https://www.youtube.com/watch?v=szXCOZjU5dQ)  
+*  [Cocientes Notables Tercer Caso](https://www.youtube.com/watch?v=OgjhSasOhqk)  
+*  [Cocientes Notables Cuarto Caso](https://www.youtube.com/watch?v=E3xPiX5EhkM)
 
 
 ### \frac{x^2-2}{x+2}
 
 $$\frac{x^2-2}{x+2} = \frac{(x+\sqrt{2})(x-\sqrt{2})}{x+2}$$
+

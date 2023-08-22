@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
+                "file": "PublicBrain/Aprender sobre Economía.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
+                "file": "PublicBrain/Aprender sobre Economía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
+                "file": "PublicBrain/Aprender sobre Economía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md"
+                "file": "PublicBrain/Aprender sobre Economía.md"
               }
             }
           }
@@ -163,10 +164,21 @@
   },
   "active": "696c838cfdeeb698",
   "lastOpenFiles": [
-    "PublicBrain/Su-Metal.md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
-    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/Finanzas Elementales.md",
+    "PublicBrain/Aprender sobre Economía.md",
+    "PublicBrain/Finanzas Personales.md",
+    "Finanzas Personales.md",
+    "PublicBrain/¿Porqué aprender economía?.md",
+    "PublicBrain/¿Qué es un activo?.md",
+    "¿Qué es un activo?.md",
+    "Finanzas Elementales.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
+    "PublicBrain/Aprender sobre Matemáticas.md",
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "PublicBrain/Su-Metal.md",
     "PublicBrain/Auf Wiedersehen.md",
     "PublicBrain/父亲.md",
     "PublicBrain/In-laws.md",
@@ -178,17 +190,6 @@
     "PublicBrain/Miembros de la Familia en Chino.md",
     "PublicBrain/Alemán.md",
     "PublicBrain/Formas de despedirse en Alemán.md",
-    "Auf Wiedersehen.md",
-    "PublicBrain/Japonés.md",
-    "PublicBrain/私はただの学生の見習.md",
-    "PublicBrain/私はただの学生の見習いです.md",
-    "PublicBrain/私はただの日本語の学習者です.md",
-    "PublicBrain/いる.md",
-    "私はただの学生の見習いです.md",
-    "私はただの学生の見習.md",
-    "私はただの日本語の学習者です.md",
-    "PublicBrain/japonés.md",
-    "PublicBrain/FFMPEG - Convertir Flac a Mp3.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",

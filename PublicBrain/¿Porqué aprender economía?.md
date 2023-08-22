@@ -25,7 +25,7 @@ Y aunque acabé llegando a esa conclusión a lo largo de los años, lo cierto es
 
 <div style="position:relative;max-width.100%;width:100%;height:480px;margin-bottom:2rem;"><iframe src="https://embed.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust" width="100%" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div>
 
-Resulta que este estilo de economía descentralizada y colaborativa, encaja como un guante en mi hipotesis de 1 persona = 1 empresa, la cuestión de la confianza es capital, me pregunto si se puede escalar este tipo de ecomía como medio para minorar al máximo el abuso de poder.
+Resulta que este estilo de economía descentralizada y colaborativa, encaja como un guante en mi hipótesis de 1 persona = 1 empresa, la cuestión de la confianza es capital, me pregunto si se puede escalar este tipo de ecomía como medio para minorar al máximo el abuso de poder.
 
 Lograr una accesibilidad consistente en toda esa red descentralizada , sin duda es un reto, pero creo que vale la pena explorar este camino,claro está desde un conocimiento fiable sobre economía real.
 
@@ -45,4 +45,4 @@ Y finalmente, la guinda del pastel, la economía circular, algo que dudo sea alc
 
 Con todo ello en la mano y observando la gran escala del cambio que parece estar sucediendo, creo imperativo conocer el sistema económico, para navegar en el y sobre todo crear mejoras sin hacer daño.
 
-Por ello, economía se convierte en una de las materias de esta web, que iré explorando.
+Por ello, economía se convierte en una de las materias de este, nuestro proyecto, que iré explorando.

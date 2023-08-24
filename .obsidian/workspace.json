@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md"
               }
             }
           }
@@ -152,11 +152,12 @@
   },
   "active": "16ca262e6763021e",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Matemáticas.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Rumano.md",
     "PublicBrain/Formas de saludar en Rumano.md",
     "PublicBrain/Ce mai faci?.md",
     "Ce mai faci?.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Inglés.md",
     "PublicBrain/To Run Errance.md",
     "PublicBrain/国.md",
@@ -179,7 +180,6 @@
     "PublicBrain/Redes Neuronales Artificiales.md",
     "Redes Neuronales Artificiales.md",
     "PublicBrain/La Inteligencia Artificial en tanto ciencia.md",
-    "¿Qué es la Inteligencia Artificial?.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",

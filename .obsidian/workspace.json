@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
+                "file": "PublicBrain/Aprender con SizeMatters.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
+                "file": "PublicBrain/Aprender con SizeMatters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
+                "file": "PublicBrain/Aprender con SizeMatters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md"
+                "file": "PublicBrain/Aprender con SizeMatters.md"
               }
             }
           }
@@ -152,8 +152,11 @@
   },
   "active": "16ca262e6763021e",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Matemáticas.md",
     "PublicBrain/Index.md",
+    "Aprender con SizeMatters.md",
+    "PublicBrain/Aprender con SizeMatters.md",
+    "PublicBrain/Aprender sobre Matemáticas.md",
+    "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
     "PublicBrain/Rumano.md",
     "PublicBrain/Formas de saludar en Rumano.md",
     "PublicBrain/Ce mai faci?.md",
@@ -177,9 +180,6 @@
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Aprender sobre Economía.md",
     "PublicBrain/¿Qué es la Inteligencia Artificial?.md",
-    "PublicBrain/Redes Neuronales Artificiales.md",
-    "Redes Neuronales Artificiales.md",
-    "PublicBrain/La Inteligencia Artificial en tanto ciencia.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",

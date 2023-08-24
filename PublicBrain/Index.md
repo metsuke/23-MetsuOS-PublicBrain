@@ -43,11 +43,10 @@ Mis Apuntes más caóticos
 * [[Aprender sobre Licencias]]
 * [[Aprender sobre Linux]]
 * [[Aprender sobre Matemáticas]]
+* [[Aprender sobre Reciclaje]]
 * [[Aprender sobre Redes]]
 * [[Aprender sobre Tabla Periódica]]
-
-* [[Reciclaje]]
-* [[Videojuegos]]
+* [[Aprender sobre Videojuegos]]
 
 ## Bloc de Notas
 

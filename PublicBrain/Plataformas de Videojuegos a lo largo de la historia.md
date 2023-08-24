@@ -1,6 +1,6 @@
 # Plataformas de Videojuegos a lo largo de la historia
 
-[[Videojuegos]]
+[[Aprender sobre Videojuegos]]
 
 Esta es una lista en construcción de plataformas donde se han ejecutado juegos a lo largo de la historia. 
 

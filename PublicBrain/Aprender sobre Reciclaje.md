@@ -1,4 +1,4 @@
-# Reciclaje
+# Aprender sobre Reciclaje
 
 [[Index]]
 

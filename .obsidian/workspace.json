@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -152,12 +152,13 @@
   },
   "active": "16ca262e6763021e",
   "lastOpenFiles": [
-    "PublicBrain/Videojuegos.md",
+    "PublicBrain/Aprender sobre Reciclaje.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
     "Listado de Emuladores escritos en Javascript.md",
     "_resources/Listado de Emuladores escritos en Javascript/995af005efa81b89f845fee568134cf0_MD5.png",
     "_resources/Listado de Emuladores escritos en Javascript",
-    "PublicBrain/Index.md",
     "PublicBrain/Inglés.md",
     "PublicBrain/Miembros de la Familia en Inglés.md",
     "PublicBrain/Father-in-law.md",
@@ -179,7 +180,6 @@
     "PublicBrain/¿Porqué aprender economía?.md",
     "¿Qué es un activo?.md",
     "Finanzas Elementales.md",
-    "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",

@@ -1,4 +1,4 @@
-# Videojuegos
+# Aprender sobre Videojuegos
 
 [[Index]]
 

@@ -1,6 +1,6 @@
 # Inventario de Emuladores escritos en Javascript
 
-[[Videojuegos]]
+[[Aprender sobre Videojuegos]]
 
 **INICIAMOS Seccion propia con información reorganizada y traducida que evolucionará por su lado**
 

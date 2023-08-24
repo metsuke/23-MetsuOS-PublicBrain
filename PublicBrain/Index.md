@@ -34,8 +34,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ## Aprender sobre ...
 
-Mis Apuntes más caóticos
-
+Mis Apuntes medio caóticos
 
 * [[Aprender sobre Bases de Datos]]
 * [[Aprender sobre Desarrollo]]
@@ -75,6 +74,7 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 * [Logran controlar la aleatoriedad cuántica (agenciasinc.es)](https://www.agenciasinc.es/Noticias/Logran-controlar-la-aleatoriedad-cuantica)
 
 ### Diseño Interfaz
+
 * [Game UI Database | Welcome](https://gameuidatabase.com/)
 
 ### FFMPEG
@@ -127,9 +127,6 @@ De momento tomo notas, aunque eventualmente quisiera ver como crear un método p
 	* VIA ciencia@mastodon.social [https://mastodon.social/@ciencia/110772224850612593](https://mastodon.social/@ciencia/110772224850612593)
 	* 1b. Fuente de 1: [**Luz láser para mejorar procesos mentales**](https://theconversation.com/luz-laser-para-mejorar-procesos-mentales-196959) #TODO *** hay varios estudios, evaluar como gestionar ramificaciones ***
 		* Paper. Fuente de 1b: [Transcranial photobiomodulation enhances visual working memory capacity in humans](https://www.science.org/doi/10.1126/sciadv.abq3211)
-* 
-
-
 ### PHP
 
 * [[PHP Routing system]]

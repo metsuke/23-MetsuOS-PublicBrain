@@ -2,5 +2,5 @@
 
 [[Index]]
 
-* [Listado de Emuladores escritos en Javascript](https://github.com/fcambus/jsemu#readme-ov-file)
+* [[Inventario de Emuladores escritos en Javascript]] 
 * [[Plataformas de Videojuegos a lo largo de la historia]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Videojuegos.md",
+                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Videojuegos.md",
+                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Videojuegos.md",
+                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Videojuegos.md"
+                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md"
               }
             }
           }
@@ -152,6 +152,11 @@
   },
   "active": "16ca262e6763021e",
   "lastOpenFiles": [
+    "PublicBrain/Videojuegos.md",
+    "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
+    "Listado de Emuladores escritos en Javascript.md",
+    "_resources/Listado de Emuladores escritos en Javascript/995af005efa81b89f845fee568134cf0_MD5.png",
+    "_resources/Listado de Emuladores escritos en Javascript",
     "PublicBrain/Index.md",
     "PublicBrain/Inglés.md",
     "PublicBrain/Miembros de la Familia en Inglés.md",
@@ -175,9 +180,6 @@
     "¿Qué es un activo?.md",
     "Finanzas Elementales.md",
     "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
-    "PublicBrain/Aprender sobre Matemáticas.md",
-    "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/BabyMetal Death.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",
@@ -193,11 +195,9 @@
     "_resources/El Proyecto/13d17921c2a188e40dd7986cbabfabc6_MD5.jpg",
     "_resources/El Proyecto/9a5fa7f75752e91e6625d2d3898d307b_MD5.jpg",
     "_resources/El Proyecto/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
-    "_resources/El Proyecto/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",
     "Videojuegos",
     "Productividad",
     "Comunicación",
-    "Ciencia",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"
   ]

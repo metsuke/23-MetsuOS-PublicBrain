@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Videojuegos.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Videojuegos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Videojuegos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Videojuegos.md"
               }
             }
           }
@@ -152,11 +152,11 @@
   },
   "active": "16ca262e6763021e",
   "lastOpenFiles": [
+    "PublicBrain/Index.md",
     "PublicBrain/Inglés.md",
     "PublicBrain/Miembros de la Familia en Inglés.md",
     "PublicBrain/Father-in-law.md",
     "Father-in-law.md",
-    "PublicBrain/Index.md",
     "Home.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Aprender sobre Economía.md",

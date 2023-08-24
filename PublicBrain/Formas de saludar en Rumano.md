@@ -10,7 +10,7 @@ En [[rumano]], existen diferentes formas de saludar que reflejan cortesía y ama
     
 3.  "[[Bună]]" - Es una forma abreviada y casual de "Bună ziua". Se utiliza como saludo informal entre amigos y conocidos. También se puede usar para saludar a alguien por la mañana, ya que significa "Buenos días".
     
-4.  "Ce mai faci?" - Se traduce como "¿Cómo estás?" o "¿Cómo te va?". Es una forma amistosa de saludar e iniciar una conversación con alguien a quien conoces bien.
+4.  "[[Ce mai faci?]]" - Se traduce como "¿Cómo estás?" o "¿Cómo te va?". Es una forma amistosa de saludar e iniciar una conversación con alguien a quien conoces bien.
     
 5.  "[[Salutări]]" - Es una expresión que se utiliza para enviar saludos. Se puede usar para saludar a alguien a través de un mensaje de texto, correo electrónico o en una despedida.
     

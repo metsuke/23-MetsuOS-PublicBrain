@@ -25,7 +25,7 @@ Lista de los miembros de la familia en [[inglés]]:
 - [[Wife]]: Esposa
 - [[Spouse]]: Cónyuge
 - [[In-laws]]: Suegros
-- Father-in-law: Suegro
+- [[Father-in-law]]: Suegro
 - Mother-in-law: Suegra
 - Brother-in-law: Cuñado
 - Sister-in-law: Cuñada

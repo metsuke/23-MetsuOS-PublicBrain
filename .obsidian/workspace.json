@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07a6a86aad66c2a4",
+        "id": "56d26dba6daf3e60",
         "type": "tabs",
         "children": [
           {
-            "id": "696c838cfdeeb698",
+            "id": "16ca262e6763021e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Redes Neuronales Artificiales.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Redes Neuronales Artificiales.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Redes Neuronales Artificiales.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Redes Neuronales Artificiales.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -150,18 +150,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "696c838cfdeeb698",
+  "active": "16ca262e6763021e",
   "lastOpenFiles": [
+    "PublicBrain/Inglés.md",
+    "PublicBrain/Miembros de la Familia en Inglés.md",
+    "PublicBrain/Father-in-law.md",
+    "Father-in-law.md",
+    "PublicBrain/Index.md",
+    "Home.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Redes Neuronales Artificiales.md",
+    "PublicBrain/Aprender sobre Economía.md",
     "PublicBrain/¿Qué es la Inteligencia Artificial?.md",
+    "PublicBrain/Redes Neuronales Artificiales.md",
     "Redes Neuronales Artificiales.md",
     "PublicBrain/La Inteligencia Artificial en tanto ciencia.md",
     "¿Qué es la Inteligencia Artificial?.md",
     "La Inteligencia Artificial en tanto ciencia.md",
-    "PublicBrain/Index.md",
     "Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Aprender sobre Economía.md",
     "PublicBrain/Finanzas Elementales.md",
     "PublicBrain/¿Qué es un activo?.md",
     "PublicBrain/Finanzas Personales.md",
@@ -173,11 +178,6 @@
     "PublicBrain/Aprender sobre Matemáticas.md",
     "PublicBrain/Aprender sobre BabyMetal.md",
     "PublicBrain/BabyMetal Death.md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
-    "PublicBrain/Su-Metal.md",
-    "PublicBrain/Auf Wiedersehen.md",
-    "PublicBrain/父亲.md",
-    "PublicBrain/In-laws.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",

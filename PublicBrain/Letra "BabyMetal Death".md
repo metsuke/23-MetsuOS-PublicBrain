@@ -40,7 +40,10 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 
 ## Opening 
 
-* Legend 1997. 
+* [[レジェンド]] 1997
+	* Rejendo  1997
+	* Leyenda 1997
+	* Legend 1997
 
 * 伝説によれば、
 
@@ -62,7 +65,7 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 
 * 残された時間はわずかです
 
-Opening Translation: Legend 1997. 
+Opening Translation: . 
 It is told that receiving the legendary neck brace from the god of Metal, she shall abandon her human life and be reborn as a goddess. The bloodline which has been passed down from ancient times is destined to be the guide, boarding the ark of time. The apocalypse is prophesied DOOMSDAY comes There remains... little time..
 
 ## Canción

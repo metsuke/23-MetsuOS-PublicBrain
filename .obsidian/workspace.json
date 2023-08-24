@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Letra \"BabyMetal Death\".md"
               }
             }
           }
@@ -152,8 +152,13 @@
   },
   "active": "16ca262e6763021e",
   "lastOpenFiles": [
-    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
+    "PublicBrain/レジェンド.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "レジェンド.md",
+    "PublicBrain/_resources/Letra \"BabyMetal Death\"",
+    "PublicBrain/Aprender sobre BabyMetal.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
     "PublicBrain/Aprender con Recuenco.md",
     "PublicBrain/Aprender con SizeMatters.md",
     "Aprender con SizeMatters.md",
@@ -176,10 +181,6 @@
     "_resources/Listado de Emuladores escritos en Javascript/995af005efa81b89f845fee568134cf0_MD5.png",
     "_resources/Listado de Emuladores escritos en Javascript",
     "PublicBrain/Miembros de la Familia en Inglés.md",
-    "PublicBrain/Father-in-law.md",
-    "Father-in-law.md",
-    "Home.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",
@@ -197,7 +198,6 @@
     "_resources/El Proyecto/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "Videojuegos",
     "Productividad",
-    "Comunicación",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"
   ]

@@ -1,6 +1,6 @@
 # Arquitectura de Incentivos
 
-[[Aprendiendo con Recuenco]]
+[[Aprender con Recuenco]]
 
 La arquitectura de incentivos se refiere al diseño y la implementación de sistemas y estructuras que motivan y guían el comportamiento de las personas hacia un objetivo deseado. Es ampliamente utilizada en diversos contextos, como los negocios, la economía, la gestión de equipos y la psicología.
 

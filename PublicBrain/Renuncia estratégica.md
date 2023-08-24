@@ -1,6 +1,6 @@
 # Renuncia estratégica
 
-[[Aprendiendo con Recuenco]]
+[[Aprender con Recuenco]]
 
 La "renuncia estratégica" es un concepto utilizado en diferentes contextos, como el ámbito empresarial o el liderazgo, para describir el acto de renunciar a algo de manera planificada y deliberada con el fin de lograr un objetivo o beneficiarse a largo plazo.
 

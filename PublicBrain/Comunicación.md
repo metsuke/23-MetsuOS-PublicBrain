@@ -1,6 +1,6 @@
 # Comunicación
 
-[[Aprendiendo con Recuenco]]
+[[Aprender con Recuenco]]
 
 La comunicación es un proceso fundamental en la interacción humana que implica el intercambio de información, ideas, emociones y significados entre dos o más personas. Es una capacidad esencial que nos permite compartir y comprender el mundo que nos rodea, establecer relaciones, transmitir conocimientos, expresar nuestras necesidades y sentimientos, y colaborar con otros.
 

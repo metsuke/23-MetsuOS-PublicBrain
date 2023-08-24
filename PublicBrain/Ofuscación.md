@@ -1,6 +1,6 @@
 # Ofuscación
 
-[[Aprendiendo con Recuenco]]
+[[Aprender con Recuenco]]
 
 La ofuscación es un proceso utilizado en el campo de la programación y la seguridad informática para dificultar la comprensión o el análisis del código fuente de un programa. Consiste en aplicar técnicas de transformación al código fuente con el objetivo de hacerlo más confuso y menos legible para los humanos, mientras se mantiene su funcionalidad para las máquinas.
 

@@ -1,4 +1,4 @@
-# Aprendiendo con Antonio Ruiz García (ElGris)
+# Aprender con Antonio Ruiz García (ElGris)
 
 [[Index]]
 

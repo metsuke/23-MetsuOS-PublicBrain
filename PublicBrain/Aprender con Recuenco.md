@@ -1,4 +1,4 @@
-# Aprendiendo con Recuenco
+# Aprender con Recuenco
 
 [[Index]]
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -152,12 +152,21 @@
   },
   "active": "16ca262e6763021e",
   "lastOpenFiles": [
-    "PublicBrain/レジェンド.md",
+    "PublicBrain/Inglés.md",
+    "PublicBrain/Miembros de la Familia en Inglés.md",
+    "PublicBrain/Mother-in-law.md",
+    "Mother-in-law.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Catalán.md",
+    "PublicBrain/Miembros de la familia en catalán.md",
+    "PublicBrain/Tieta.md",
+    "Tieta.md",
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/BabyMetal Death.md",
     "PublicBrain/Letra \"BabyMetal Death\".md",
+    "PublicBrain/レジェンド.md",
     "レジェンド.md",
     "PublicBrain/_resources/Letra \"BabyMetal Death\"",
-    "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
     "PublicBrain/Aprender con Recuenco.md",
     "PublicBrain/Aprender con SizeMatters.md",
@@ -168,19 +177,10 @@
     "PublicBrain/Formas de saludar en Rumano.md",
     "PublicBrain/Ce mai faci?.md",
     "Ce mai faci?.md",
-    "PublicBrain/Inglés.md",
     "PublicBrain/To Run Errance.md",
     "PublicBrain/国.md",
-    "PublicBrain/Árabe.md",
-    "PublicBrain/Formas de saludar en Árabe.md",
-    "PublicBrain/Pa Pa Ya!!\".md",
-    "PublicBrain/Aprender sobre Reciclaje.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
-    "Listado de Emuladores escritos en Javascript.md",
     "_resources/Listado de Emuladores escritos en Javascript/995af005efa81b89f845fee568134cf0_MD5.png",
     "_resources/Listado de Emuladores escritos en Javascript",
-    "PublicBrain/Miembros de la Familia en Inglés.md",
     "LICENSE",
     "PublicBrain/README-1",
     "README",

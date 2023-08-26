@@ -12,7 +12,7 @@ El [[hindi]] es un idioma rico en cultura y tradiciones, y las formas de saludo 
     
 5.  [[Jai Shri Krishna]]: Este es un saludo popular entre los hablantes de hindi y de gujarati, especialmente entre los seguidores de la religión hindú. Significa "Victoria a Lord Krishna" y se utiliza como una forma de mostrar respeto.
     
-6.  Pranam: Este es un saludo formal en hindi que se utiliza para mostrar respeto y reverencia. Se hace inclinando la cabeza hacia adelante y juntando las manos en el pecho.
+6.  [[Pranam]]: Este es un saludo formal en hindi que se utiliza para mostrar respeto y reverencia. Se hace inclinando la cabeza hacia adelante y juntando las manos en el pecho.
     
 
 Hay muchas otras formas de saludar en hindi, dependiendo de la región, la religión y la ocasión. Pero estas son algunas de las formas más comunes de saludar en este hermoso idioma.

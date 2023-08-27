@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Letra \"BabyMetal Death\".md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -152,9 +152,12 @@
   },
   "active": "16ca262e6763021e",
   "lastOpenFiles": [
-    "PublicBrain/伝説.md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "PublicBrain/Aprender sobre Reciclaje.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "PublicBrain/伝説.md",
     "PublicBrain/Japonés.md",
     "PublicBrain/説.md",
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
@@ -163,7 +166,6 @@
     "説.md",
     "伝.md",
     "伝説.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Inglés.md",
     "PublicBrain/Miembros de la Familia en Inglés.md",
     "PublicBrain/Brother-in-law.md",
@@ -176,8 +178,6 @@
     "PublicBrain/と.md",
     "PublicBrain/Hindi.md",
     "PublicBrain/Formas de saludar en Hindi.md",
-    "PublicBrain/Pranam.md",
-    "Pranam.md",
     "PublicBrain/_resources/Letra \"BabyMetal Death\"",
     "_resources/Listado de Emuladores escritos en Javascript/995af005efa81b89f845fee568134cf0_MD5.png",
     "_resources/Listado de Emuladores escritos en Javascript",

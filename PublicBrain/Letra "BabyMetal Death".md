@@ -45,7 +45,10 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 	* Leyenda 1997
 	* Legend 1997
 
-* 伝説によれば、
+* [[伝説]][[に]]よれば、
+	* densetsu ni yoreba
+	* Cuenta la leyenda
+	* It is told
 
 * メタルの神から伝説の首輪を授かることで、
 
@@ -66,7 +69,7 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 * 残された時間はわずかです
 
 Opening Translation: . 
-It is told that receiving the legendary neck brace from the god of Metal, she shall abandon her human life and be reborn as a goddess. The bloodline which has been passed down from ancient times is destined to be the guide, boarding the ark of time. The apocalypse is prophesied DOOMSDAY comes There remains... little time..
+that receiving the legendary neck brace from the god of Metal, she shall abandon her human life and be reborn as a goddess. The bloodline which has been passed down from ancient times is destined to be the guide, boarding the ark of time. The apocalypse is prophesied DOOMSDAY comes There remains... little time..
 
 ## Canción
 

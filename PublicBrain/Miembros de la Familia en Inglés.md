@@ -27,7 +27,7 @@ Lista de los miembros de la familia en [[inglés]]:
 - [[In-laws]]: Suegros
 - [[Father-in-law]]: Suegro
 - [[Mother-in-law]]: Suegra
-- Brother-in-law: Cuñado
+- [[Brother-in-law]]: Cuñado
 - Sister-in-law: Cuñada
 - **Son-in-law:** Yerno (el esposo de tu hija o hijo).
 - **Daughter-in-law:** Nuera (la esposa de tu hijo o hija).

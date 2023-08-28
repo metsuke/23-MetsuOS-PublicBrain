@@ -46,10 +46,16 @@ Mis Apuntes medio caóticos
 * [[Aprender sobre Licencias]]
 * [[Aprender sobre Linux]]
 * [[Aprender sobre Matemáticas]]
+* [[Aprender sobre Programación]]
 * [[Aprender sobre Reciclaje]]
 * [[Aprender sobre Redes]]
 * [[Aprender sobre Tabla Periódica]]
 * [[Aprender sobre Videojuegos]]
+
+## Open Projects
+
+* [[MPL (Metsuke Programming Languaje)]]
+* [[MPL Chess]]
 
 ## Bloc de Notas
 

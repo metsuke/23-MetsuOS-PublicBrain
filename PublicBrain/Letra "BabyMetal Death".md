@@ -45,7 +45,7 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 	* Leyenda 1997
 	* Legend 1997
 
-* [[伝説]][[に]]よれば、
+* [[伝説]][[に]][[よれば]]、
 	* densetsu ni yoreba
 	* Cuenta la leyenda
 	* It is told

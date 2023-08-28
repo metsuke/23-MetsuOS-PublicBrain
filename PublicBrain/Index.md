@@ -61,6 +61,14 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 
 * [Observatorio de jurisprudencia - Plena inclusión (plenainclusion.org)](https://www.plenainclusion.org/l/observatorio-jurisprudencia/)
 
+### Antropología Evolutiva / Linguística
+
+* Las lenguas indoeuropeas tuvieron un origen híbrido hace 8.100 años al sur del Cáucaso
+	* 1: [Resuelven el misterio de las lenguas indoeuropeas: tuvieron un origen híbrido hace 8.100 años al sur del Cáucaso](https://www.labrujulaverde.com/2023/07/resuelven-el-misterio-de-las-lenguas-indoeuropeas-tuvieron-un-origen-hibrido-hace-8100-anos-al-sur-del-caucaso)
+		* VIA ciencia@mastodon.social [https://mastodon.social/@ciencia/110791011747741938](https://mastodon.social/@ciencia/110791011747741938)
+			* PAPER fuente de 1: [Instituto Max Planck de Antropología Evolutiva](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x) | **Paul Heggarty et al**.,_Language trees with sampled ancestors support a hybrid model for the origin of Indo-European languages_. Science381, eabg0818(2023). [DOI:10.1126/science.abg0818](https://dx.doi.org/10.1126/science.abg0818)
+
+
 ### Cloud
 
 * [[Open Nebula]]
@@ -125,12 +133,13 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 
 De momento tomo notas, aunque eventualmente quisiera ver como crear un método para inventariar, rastrear y priorizar consumo, estudio y metodología para contrastar estos Papers, aunque busco usualmente alimentarme de fuentes fiables,  a veces se vuelve dificil separar sensacionalismo barato de realidad.
 
-#### [Neurología / cerebro] Luz laser para mejorar procesos mentales
+#### Neurología / cerebro 
 
-* 1: [Luz láser para mejorar procesos mentales](https://www.rtve.es/television/20230721/luz-laser-procesos-mentales/2452563.shtml) 
-	* VIA ciencia@mastodon.social [https://mastodon.social/@ciencia/110772224850612593](https://mastodon.social/@ciencia/110772224850612593)
-	* 1b. Fuente de 1: [**Luz láser para mejorar procesos mentales**](https://theconversation.com/luz-laser-para-mejorar-procesos-mentales-196959) #TODO *** hay varios estudios, evaluar como gestionar ramificaciones ***
-		* Paper. Fuente de 1b: [Transcranial photobiomodulation enhances visual working memory capacity in humans](https://www.science.org/doi/10.1126/sciadv.abq3211)
+- Luz laser para mejorar procesos mentales
+	* 1. [Luz láser para mejorar procesos mentales](https://www.rtve.es/television/20230721/luz-laser-procesos-mentales/2452563.shtml) 
+		* VIA ciencia@mastodon.social [https://mastodon.social/@ciencia/110772224850612593](https://mastodon.social/@ciencia/110772224850612593)
+			* 1b. fuente de 1: [**Luz láser para mejorar procesos mentales**](https://theconversation.com/luz-laser-para-mejorar-procesos-mentales-196959) #TODO *** hay varios estudios, evaluar como gestionar ramificaciones ***
+				* PAPER fuente de 1b: [Transcranial photobiomodulation enhances visual working memory capacity in humans](https://www.science.org/doi/10.1126/sciadv.abq3211)
 ### PHP
 
 * [[PHP Routing system]]

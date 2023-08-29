@@ -10,8 +10,8 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 
 * [[共]][[に]][[生きる]] [[悪夢]][[の]][[国]] 
 	* Tomo ni ikiru Akumu no kuni
-	* Vivimos juntos en el país de las pesadillas
-	* In the nightmare world we live in together 
+	* [[Vivimos]] juntos en el país de las pesadillas
+	* In the nightmare world [[we live in]] together 
 
 * [[拝啓]] [[お贈りもの]][[しよう]] 
 	* Haikei okurimono shiyou 

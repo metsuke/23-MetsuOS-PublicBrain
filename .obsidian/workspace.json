@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -152,8 +152,24 @@
   },
   "active": "16ca262e6763021e",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Matemáticas.md",
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "PublicBrain/Vivimos.md",
+    "Vivimos.md",
+    "PublicBrain/we live in.md",
+    "we live in.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Inglés.md",
+    "PublicBrain/Sister-in-law.md",
+    "PublicBrain/Miembros de la Familia en Inglés.md",
+    "Sister-in-law.md",
+    "PublicBrain/Árabe.md",
+    "PublicBrain/Formas de despedirse en Árabe.md",
+    "PublicBrain/مع السلامة.md",
+    "مع السلامة.md",
+    "PublicBrain/Aprender sobre Matemáticas.md",
+    "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/MPL Chess.md",
@@ -162,22 +178,6 @@
     "MPL (Metsuke Programming Languaje).md",
     "PublicBrain/Aprender sobre Programación.md",
     "Aprender sobre Programación.md",
-    "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/BabyMetal Death.md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
-    "PublicBrain/よれば.md",
-    "よれば.md",
-    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
-    "Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/Aprender sobre Reciclaje.md",
-    "PublicBrain/伝説.md",
-    "PublicBrain/Japonés.md",
-    "PublicBrain/説.md",
-    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
-    "PublicBrain/Kanji.md",
-    "PublicBrain/伝.md",
-    "説.md",
-    "伝.md",
     "PublicBrain/_resources/Letra \"BabyMetal Death\"",
     "_resources/Listado de Emuladores escritos en Javascript/995af005efa81b89f845fee568134cf0_MD5.png",
     "_resources/Listado de Emuladores escritos en Javascript",

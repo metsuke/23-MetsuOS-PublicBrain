@@ -4,7 +4,7 @@
 
 En árabe, existen varias formas de despedirse, y la elección de la forma adecuada a menudo depende del nivel de formalidad y la relación entre las personas. Aquí tienes algunas formas comunes de despedirse en árabe:
 
-1. **مع السلامة (Ma'a al-salamah)**: Esta es una despedida común que se traduce como "Adiós" o "Que te vaya bien". Es una expresión amigable y generalmente adecuada para situaciones informales.
+1. **[[مع السلامة]] (Ma'a al-salamah)**: Esta es una despedida común que se traduce como "Adiós" o "Que te vaya bien". Es una expresión amigable y generalmente adecuada para situaciones informales.
     
 2. **إلى اللقاء (Ila al-liqa')**: Esta expresión significa "Hasta la vista" o "Hasta pronto". Es una despedida neutral y amigable que se puede usar en una variedad de situaciones.
     

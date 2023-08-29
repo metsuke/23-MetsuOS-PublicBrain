@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "56d26dba6daf3e60",
+        "id": "8694e340e880d463",
         "type": "tabs",
         "children": [
           {
-            "id": "16ca262e6763021e",
+            "id": "2b786d32bce446dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Economía.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Economía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Economía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Economía.md"
               }
             }
           }
@@ -150,16 +150,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "16ca262e6763021e",
+  "active": "2b786d32bce446dc",
   "lastOpenFiles": [
+    "PublicBrain/Finanzas Elementales.md",
+    "PublicBrain/¿Qué es un ingreso?.md",
+    "PublicBrain/Aprender sobre Economía.md",
+    "PublicBrain/¿Qué es un activo?.md",
+    "¿Qué es un ingreso?.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Japonés.md",
+    "PublicBrain/Kanji.md",
+    "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/悪.md",
     "PublicBrain/Aprender sobre BabyMetal.md",
     "PublicBrain/BabyMetal Death.md",
     "PublicBrain/Letra \"BabyMetal Death\".md",
+    "PublicBrain/we live in.md",
     "PublicBrain/Vivimos.md",
     "Vivimos.md",
-    "PublicBrain/we live in.md",
     "we live in.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Inglés.md",
     "PublicBrain/Sister-in-law.md",
     "PublicBrain/Miembros de la Familia en Inglés.md",
@@ -169,15 +178,6 @@
     "PublicBrain/مع السلامة.md",
     "مع السلامة.md",
     "PublicBrain/Aprender sobre Matemáticas.md",
-    "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/MPL Chess.md",
-    "MPL Chess.md",
-    "PublicBrain/MPL (Metsuke Programming Languaje).md",
-    "MPL (Metsuke Programming Languaje).md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "Aprender sobre Programación.md",
     "PublicBrain/_resources/Letra \"BabyMetal Death\"",
     "_resources/Listado de Emuladores escritos en Javascript/995af005efa81b89f845fee568134cf0_MD5.png",
     "_resources/Listado de Emuladores escritos en Javascript",

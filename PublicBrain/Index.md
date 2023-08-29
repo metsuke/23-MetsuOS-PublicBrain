@@ -48,7 +48,7 @@ Mis Apuntes medio caóticos
 * [[Aprender sobre Matemáticas]]
 * [[Aprender sobre Programación]]
 * [[Aprender sobre Reciclaje]]
-* [[Aprender sobre Redes]]
+* [[Aprender sobre Redes e Internet]]
 * [[Aprender sobre Tabla Periódica]]
 * [[Aprender sobre Videojuegos]]
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -152,12 +152,31 @@
   },
   "active": "2b786d32bce446dc",
   "lastOpenFiles": [
-    "PublicBrain/Finanzas Elementales.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/مع السلامة.md",
     "PublicBrain/¿Qué es un ingreso?.md",
+    "PublicBrain/we live in.md",
+    "PublicBrain/Vivimos.md",
+    "PublicBrain/Sister-in-law.md",
+    "PublicBrain/Aprender sobre Redes.md",
+    "Aprender sobre Redes.md",
+    "PublicBrain/Capas de la infraestructura de una red.md",
+    "PublicBrain/_resources/Aprender sobre Redes/cf2fe4573847cc8d0468789467844249_MD5.jpg",
+    "PublicBrain/_resources/Aprender sobre Redes/1a0acd95a9c02ef02754407b71469709_MD5.jpg",
+    "PublicBrain/_resources/Aprender sobre Redes/73002fb98912e83fd46a2addda00db4b_MD5.jpg",
+    "PublicBrain/_resources/Aprender sobre Redes/6ae24b3061e06ece260f282327d1bbb1_MD5.jpg",
+    "PublicBrain/_resources/Aprender sobre Redes/a44843a307a1d96c9dcc022a484438c6_MD5.jpg",
+    "PublicBrain/_resources/Aprender sobre Redes/943159476479eb16dc58b0297a8c0d48_MD5.jpg",
+    "PublicBrain/_resources/Aprender sobre Redes/2457b5032109e81b8d3310f50eb3e7b8_MD5.jpg",
+    "PublicBrain/_resources/Aprender sobre Redes/d5bab1ada0cc57c8df34bccb0ac399f3_MD5.jpg",
+    "PublicBrain/_resources/Aprender sobre Redes/17ec5c15795ab09e6c277bd3afde4ac9_MD5.jpg",
+    "PublicBrain/_resources/Aprender sobre Redes/41bd8b0c416cd6409683057a9b9a231e_MD5.jpg",
+    "PublicBrain/_resources/Aprender sobre Redes",
     "PublicBrain/Aprender sobre Economía.md",
+    "PublicBrain/Finanzas Elementales.md",
     "PublicBrain/¿Qué es un activo?.md",
     "¿Qué es un ingreso?.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Japonés.md",
     "PublicBrain/Kanji.md",
     "PublicBrain/Kanji - Grado 3.md",
@@ -165,21 +184,12 @@
     "PublicBrain/Aprender sobre BabyMetal.md",
     "PublicBrain/BabyMetal Death.md",
     "PublicBrain/Letra \"BabyMetal Death\".md",
-    "PublicBrain/we live in.md",
-    "PublicBrain/Vivimos.md",
     "Vivimos.md",
     "we live in.md",
     "PublicBrain/Inglés.md",
-    "PublicBrain/Sister-in-law.md",
     "PublicBrain/Miembros de la Familia en Inglés.md",
     "Sister-in-law.md",
-    "PublicBrain/Árabe.md",
-    "PublicBrain/Formas de despedirse en Árabe.md",
-    "PublicBrain/مع السلامة.md",
-    "مع السلامة.md",
-    "PublicBrain/Aprender sobre Matemáticas.md",
     "PublicBrain/_resources/Letra \"BabyMetal Death\"",
-    "_resources/Listado de Emuladores escritos en Javascript/995af005efa81b89f845fee568134cf0_MD5.png",
     "_resources/Listado de Emuladores escritos en Javascript",
     "LICENSE",
     "PublicBrain/README-1",
@@ -187,17 +197,7 @@
     "PublicBrain/README",
     "PublicBrain/LICENSE",
     "HTML import",
-    "_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg",
-    "_resources/Home/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
-    "_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg",
-    "_resources/El Proyecto/97d4219e001142996f47aff5dc6aec28_MD5.jpg",
-    "_resources/El Proyecto/40f50a0bfc39636c1b15b0360b746e4a_MD5.png",
-    "_resources/El Proyecto/28cd2b79deb0c716cfdb105645cbab62_MD5.jpg",
-    "_resources/El Proyecto/13d17921c2a188e40dd7986cbabfabc6_MD5.jpg",
-    "_resources/El Proyecto/9a5fa7f75752e91e6625d2d3898d307b_MD5.jpg",
-    "_resources/El Proyecto/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "Videojuegos",
-    "Productividad",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"
   ]

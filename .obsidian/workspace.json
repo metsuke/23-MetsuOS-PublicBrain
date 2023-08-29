@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md"
               }
             }
           }
@@ -152,8 +152,11 @@
   },
   "active": "16ca262e6763021e",
   "lastOpenFiles": [
-    "PublicBrain/MPL Chess.md",
+    "PublicBrain/Aprender sobre Matemáticas.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
+    "PublicBrain/MPL Chess.md",
     "MPL Chess.md",
     "PublicBrain/MPL (Metsuke Programming Languaje).md",
     "MPL (Metsuke Programming Languaje).md",
@@ -164,8 +167,6 @@
     "PublicBrain/Letra \"BabyMetal Death\".md",
     "PublicBrain/よれば.md",
     "よれば.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
     "Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/Aprender sobre Reciclaje.md",
@@ -177,7 +178,6 @@
     "PublicBrain/伝.md",
     "説.md",
     "伝.md",
-    "伝説.md",
     "PublicBrain/_resources/Letra \"BabyMetal Death\"",
     "_resources/Listado de Emuladores escritos en Javascript/995af005efa81b89f845fee568134cf0_MD5.png",
     "_resources/Listado de Emuladores escritos en Javascript",

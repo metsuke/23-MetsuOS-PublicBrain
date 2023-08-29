@@ -75,3 +75,14 @@ $$\frac{1-(x+y)^2}{1+(x+y)}=\frac{1^2-(x+y)^2}{1+(x+y)}=1-(x+y)$$
 ### \frac{(b+x)^2-9}{(b+x)+3}
 
 $$\frac{(b+x)^2-9}{(b+x)+3}=\frac{(b+x)^2-3^2}{(b+x)+3}=(b+x)-3$$
+
+
+## Coccientes Notables (con Cubos)
+
+###  \frac{1+y^3}{1+y}
+
+$$\frac{1+y^3}{1+y} = \frac{1^3+y^3}{1+y} = 1^2 + 1*y + y^2 = y^2 + y + 1$$
+
+###  \frac{8y^3-1}{2y-1}
+
+$$\frac{8y^3-1}{2y-1} = \frac{(2y)^3-1}{2y-1}= 2y^2 - 2y + 1$$

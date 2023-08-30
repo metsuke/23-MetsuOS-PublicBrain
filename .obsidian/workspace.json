@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/¿Qué son las redes informáticas?.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/¿Qué son las redes informáticas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/¿Qué son las redes informáticas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/¿Qué son las redes informáticas?.md"
               }
             }
           }
@@ -153,6 +153,8 @@
   "active": "2b786d32bce446dc",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre Redes e Internet.md",
+    "¿Qué son las redes informáticas?.md",
+    "PublicBrain/¿Qué son las redes informáticas?.md",
     "PublicBrain/Index.md",
     "PublicBrain/مع السلامة.md",
     "PublicBrain/¿Qué es un ingreso?.md",
@@ -187,8 +189,6 @@
     "Vivimos.md",
     "we live in.md",
     "PublicBrain/Inglés.md",
-    "PublicBrain/Miembros de la Familia en Inglés.md",
-    "Sister-in-law.md",
     "PublicBrain/_resources/Letra \"BabyMetal Death\"",
     "_resources/Listado de Emuladores escritos en Javascript",
     "LICENSE",

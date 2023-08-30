@@ -4,7 +4,7 @@
 
 ## **Introducción a las Redes Informáticas**
 
-- ¿Qué son las redes informáticas?
+- [[¿Qué son las redes informáticas?]]
 - Beneficios y usos de las redes
 - Tipos de redes: LAN, WAN, MAN, WLAN
 - Componentes básicos de una red: nodos, servidores, clientes, routers, switches

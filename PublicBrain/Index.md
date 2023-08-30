@@ -46,7 +46,7 @@ Mis Apuntes medio caóticos
 * [[Aprender sobre Emprendimiento y Negocios]]
 * [[Aprender sobre Licencias]]
 * [[Aprender sobre Linux]]
-* [[Aprender sobre Matemáticas]]
+* [[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
 * [[Aprender sobre Programación]]
 * [[Aprender sobre Reciclaje]]
 * [[Aprender sobre Tabla Periódica]]

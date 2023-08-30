@@ -1,6 +1,6 @@
 # Ejercicios Binomios a la n potencia y conjugados
 
-[[Aprender sobre Matemáticas]]
+[[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
 
 ## Triángulo de pascal
 
@@ -81,8 +81,21 @@ $$\frac{(b+x)^2-9}{(b+x)+3}=\frac{(b+x)^2-3^2}{(b+x)+3}=(b+x)-3$$
 
 ###  \frac{1+y^3}{1+y}
 
-$$\frac{1+y^3}{1+y} = \frac{1^3+y^3}{1+y} = 1^2 + 1*y + y^2 = y^2 + y + 1$$
+$$\frac{1+y^3}{1+y} = \frac{1^3+y^3}{1+y} = 1^2 + 1*y + y^2 = y^2 - y + 1$$
 
 ###  \frac{8y^3-1}{2y-1}
 
-$$\frac{8y^3-1}{2y-1} = \frac{(2y)^3-1}{2y-1}= 2y^2 - 2y + 1$$
+$$\frac{8y^3-1}{2y-1} = \frac{(2y)^3-1}{2y-1}= 4y^2 + 2y + 1$$
+
+
+###  \frac{27z^3-125y^3}{3z-5y}
+
+$$\frac{27z^3-125y^3}{3z-5y}=\frac{(3z)^3-(5y)^3}{3z-5y}=9z^2+15zy+25z^2$$
+
+###  \frac{27a^6+1}{3a^2+1}
+
+$$\frac{27a^6+1}{3a^2+1}=\frac{(3a^2)^3+1^3}{3a^2+1}=9a^4-3a^2+1$$
+
+###  \frac{b^6+1}{b^2+1}
+
+$$\frac{b^6+1}{b^2+1}=\frac{(b^2)^3+1^3}{b^2+1}=b^4+b^2+1$$

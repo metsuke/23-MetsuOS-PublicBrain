@@ -1,6 +1,6 @@
 # Ejercicios Funciones ¿Es una función?
 
-[[Aprender sobre Matemáticas]]
+[[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
 
 ## 5 = 3x - y ... ¿es una función? REPETIR
 

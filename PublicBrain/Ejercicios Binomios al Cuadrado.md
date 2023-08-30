@@ -1,6 +1,6 @@
 # Ejercicios Binomios al Cuadrado
 
-[[Aprender sobre Matemáticas]]
+[[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
 
 ## (y+6)^2
 

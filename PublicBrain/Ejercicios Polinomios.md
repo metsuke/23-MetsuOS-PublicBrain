@@ -1,6 +1,6 @@
 # Ejercicios Polinomios
 
-[[Aprender sobre Matemáticas]]
+[[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
 
 ## (2x+y)(3x-8y)
  $$

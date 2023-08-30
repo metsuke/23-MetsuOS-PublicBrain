@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   "active": "2b786d32bce446dc",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios.md",
+    "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender con SizeMatters.md",
     "PublicBrain/FFMPEG - Convertir Aiff a Mp3.md",
@@ -188,7 +189,6 @@
     "PublicBrain/Kanji - Grado 3.md",
     "PublicBrain/悪.md",
     "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/BabyMetal Death.md",
     "PublicBrain/_resources/Letra \"BabyMetal Death\"",
     "_resources/Listado de Emuladores escritos en Javascript",
     "LICENSE",

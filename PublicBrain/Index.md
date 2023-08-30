@@ -89,7 +89,8 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 
 ### Computación Probabilística
 
-* [Logran controlar la aleatoriedad cuántica (agenciasinc.es)](https://www.agenciasinc.es/Noticias/Logran-controlar-la-aleatoriedad-cuantica)
+* 1. [Logran controlar la aleatoriedad cuántica (agenciasinc.es)](https://www.agenciasinc.es/Noticias/Logran-controlar-la-aleatoriedad-cuantica)
+	* PAPER fuente de 1: Charles Roques-Carmes et al. “[Biasing the quantum vacuum to control macroscopic probability distributions](https://www.science.org/doi/10.1126/science.adh4920)”. _Science_, 2023.
 
 ### Diseño Interfaz
 

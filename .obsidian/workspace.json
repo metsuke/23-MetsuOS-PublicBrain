@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/¿Qué son las redes informáticas?.md",
+                "file": "PublicBrain/Aprender con SizeMatters.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/¿Qué son las redes informáticas?.md",
+                "file": "PublicBrain/Aprender con SizeMatters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/¿Qué son las redes informáticas?.md",
+                "file": "PublicBrain/Aprender con SizeMatters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/¿Qué son las redes informáticas?.md"
+                "file": "PublicBrain/Aprender con SizeMatters.md"
               }
             }
           }
@@ -152,10 +152,12 @@
   },
   "active": "2b786d32bce446dc",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Redes e Internet.md",
-    "¿Qué son las redes informáticas?.md",
-    "PublicBrain/¿Qué son las redes informáticas?.md",
     "PublicBrain/Index.md",
+    "PublicBrain/FFMPEG - Convertir Aiff a Mp3.md",
+    "FFMPEG - Convertir Aiff a Mp3.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "PublicBrain/¿Qué son las redes informáticas?.md",
+    "¿Qué son las redes informáticas?.md",
     "PublicBrain/مع السلامة.md",
     "PublicBrain/¿Qué es un ingreso?.md",
     "PublicBrain/we live in.md",
@@ -187,8 +189,6 @@
     "PublicBrain/BabyMetal Death.md",
     "PublicBrain/Letra \"BabyMetal Death\".md",
     "Vivimos.md",
-    "we live in.md",
-    "PublicBrain/Inglés.md",
     "PublicBrain/_resources/Letra \"BabyMetal Death\"",
     "_resources/Listado de Emuladores escritos en Javascript",
     "LICENSE",

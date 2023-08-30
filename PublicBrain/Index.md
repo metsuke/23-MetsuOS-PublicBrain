@@ -164,3 +164,7 @@ De momento tomo notas, aunque eventualmente quisiera ver como crear un método p
 ### Sistemas de Diseño
 
 * [Explore the Magic of Design Systems | Start Design Systems](https://startdesignsystem.com/)
+
+### UTF
+
+* [Buscador caracteres UTF](https://www.amp-what.com/unicode/search/square)

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b786d32bce446dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Vivim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "18ba419b2227b744",
             "type": "leaf",
             "state": {
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Vivim.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Vivim.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Vivim.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -162,18 +150,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2b786d32bce446dc",
+  "active": "18ba419b2227b744",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Rammstein.md",
+    "PublicBrain/Index.md",
+    "Aprender sobre Rammstein.md",
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "PublicBrain/いる.md",
+    "PublicBrain/Vivim.md",
     "PublicBrain/共に生きる.md",
     "PublicBrain/Vivimos.md",
     "PublicBrain/we live in.md",
-    "PublicBrain/Vivim.md",
     "共に生きる.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
     "PublicBrain/生きる.md",
     "PublicBrain/共.md",
-    "PublicBrain/Aprender sobre BabyMetal.md",
     "Vivim.md",
     "PublicBrain/Inglés.md",
     "PublicBrain/Miembros de la Familia en Inglés.md",
@@ -189,10 +181,6 @@
     "PublicBrain/FFMPEG - Convertir Mp4 a Mp3 (Extraer audio).md",
     "FFMPEG - Convertir Mp4 a Mp3 (Extraer audio).md",
     "PublicBrain/Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios.md",
-    "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
-    "PublicBrain/Aprender con SizeMatters.md",
-    "PublicBrain/FFMPEG - Convertir Aiff a Mp3.md",
-    "FFMPEG - Convertir Aiff a Mp3.md",
     "PublicBrain/_resources/Aprender sobre Redes/cf2fe4573847cc8d0468789467844249_MD5.jpg",
     "PublicBrain/_resources/Aprender sobre Redes/1a0acd95a9c02ef02754407b71469709_MD5.jpg",
     "PublicBrain/_resources/Aprender sobre Redes/73002fb98912e83fd46a2addda00db4b_MD5.jpg",

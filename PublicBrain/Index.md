@@ -30,7 +30,11 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Cultura
 
-* [[Aprender sobre BabyMetal]]
+* [[Aprender sobre BabyMetal]] (JP)
+* [[Aprender sobre Rammstein]] (GE)
+
+AR/CA/EN/ES/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALMENTE la pena para hacer lo propio)
+
 
 ### Tecnología
 

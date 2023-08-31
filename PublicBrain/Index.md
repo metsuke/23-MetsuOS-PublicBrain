@@ -37,10 +37,10 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 AR/CA/ES/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALMENTE la pena para hacer lo propio) [[TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT]]
 
 
-
 ### Tecnología
 
 * [[Aprender sobre Inteligencia Artificial]]
+* [[Aprender sobre Programación]]
 * [[Aprender sobre Redes e Internet]]
 
 ## Aprender sobre ...
@@ -53,7 +53,6 @@ Mis Apuntes medio caóticos
 * [[Aprender sobre Licencias]]
 * [[Aprender sobre Linux]]
 * [[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
-* [[Aprender sobre Programación]]
 * [[Aprender sobre Reciclaje]]
 * [[Aprender sobre Tabla Periódica]]
 * [[Aprender sobre Videojuegos]]

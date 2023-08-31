@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8694e340e880d463",
+        "id": "20f34e2ffd67e9c4",
         "type": "tabs",
         "children": [
           {
-            "id": "18ba419b2227b744",
+            "id": "2934be753cf93cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Videojuegos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6fe4b65b0e9e9ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Aprender sobre BabyMetal.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Videojuegos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Videojuegos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Videojuegos.md"
               }
             }
           }
@@ -150,13 +162,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "18ba419b2227b744",
+  "active": "2934be753cf93cb0",
   "lastOpenFiles": [
+    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
+    "PublicBrain/Adventure (Atari, Inc., 1979).md",
+    "PublicBrain/Atari 2600.md",
+    "PublicBrain/Warren Robinett.md",
+    "PublicBrain/Atari, Inc..md",
+    "PublicBrain/_resources/Adventure (Atari, 1979)/bc2dacefb1a7bf44080049242b9464fa_MD5.gif",
+    "PublicBrain/_resources/Adventure (Atari, 1979)",
+    "PublicBrain/_resources/Atari, Inc./f10403824396c9f7a0a737218a8319bb_MD5.svg",
+    "PublicBrain/_resources/Atari, Inc.",
+    "PublicBrain/_resources/Warren Robinett/7750f47be10903fc6120b8b1e5219221_MD5.jpg",
+    "PublicBrain/_resources/Warren Robinett",
+    "PublicBrain/_resources/Atari 2600/4165e626c153fbc55a535412940eb6bb_MD5.jpg",
+    "PublicBrain/_resources/Atari 2600/fce189396d6ff3b6222811e7e0369047_MD5.svg",
+    "PublicBrain/_resources/Atari 2600",
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "Atari 2600.md",
+    "Atari, Inc..md",
+    "Warren Robinett.md",
+    "Adventure (Atari, 1979).md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "PublicBrain/Aprender a Programar desde Cero.md",
     "PublicBrain/MPL (Metsuke Programming Languaje).md",
-    "PublicBrain/Index.md",
     "Aprender Lenguaje C.md",
     "PublicBrain/Aprender sobre Redes e Internet.md",
     "PublicBrain/Aprender sobre Economía.md",
@@ -165,19 +198,6 @@
     "TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT.md",
     "PublicBrain/Aprender sobre Rammstein.md",
     "Aprender sobre Rammstein.md",
-    "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/BabyMetal Death.md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
-    "PublicBrain/いる.md",
-    "PublicBrain/Vivim.md",
-    "PublicBrain/共に生きる.md",
-    "PublicBrain/Vivimos.md",
-    "PublicBrain/we live in.md",
-    "共に生きる.md",
-    "PublicBrain/生きる.md",
-    "PublicBrain/共.md",
-    "Vivim.md",
-    "PublicBrain/Inglés.md",
     "_resources/儿子/Dire Straits - Sultans Of Swing.mp4",
     "_resources/儿子/Dire Straits - On The Night.mp4",
     "_resources/儿子",
@@ -186,18 +206,9 @@
     "PublicBrain/_resources/Aprender sobre Redes/73002fb98912e83fd46a2addda00db4b_MD5.jpg",
     "PublicBrain/_resources/Aprender sobre Redes/6ae24b3061e06ece260f282327d1bbb1_MD5.jpg",
     "PublicBrain/_resources/Aprender sobre Redes/a44843a307a1d96c9dcc022a484438c6_MD5.jpg",
-    "PublicBrain/_resources/Aprender sobre Redes/943159476479eb16dc58b0297a8c0d48_MD5.jpg",
-    "PublicBrain/_resources/Aprender sobre Redes/2457b5032109e81b8d3310f50eb3e7b8_MD5.jpg",
-    "PublicBrain/_resources/Aprender sobre Redes/d5bab1ada0cc57c8df34bccb0ac399f3_MD5.jpg",
-    "PublicBrain/_resources/Aprender sobre Redes/17ec5c15795ab09e6c277bd3afde4ac9_MD5.jpg",
-    "PublicBrain/_resources/Aprender sobre Redes/41bd8b0c416cd6409683057a9b9a231e_MD5.jpg",
     "PublicBrain/_resources/Aprender sobre Redes",
     "PublicBrain/_resources/Letra \"BabyMetal Death\"",
     "_resources/Listado de Emuladores escritos en Javascript",
-    "LICENSE",
-    "PublicBrain/README-1",
-    "README",
-    "PublicBrain/README",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"
   ]

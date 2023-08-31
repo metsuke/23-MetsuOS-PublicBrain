@@ -8,7 +8,7 @@ Dentro del marco de mi estudio sobre videojuegos y su historia, su evolución y 
 
 En un futuro es más que probable que esta lista que inicio aquí se convierta en una base de datos mucho más amplia, pero arranquemos con la lista de juegos que analiza Antonio Ruiz en su trabajo a fin de tomarlo como base tanto de mi estudio como del analisis profundo de su tesis.(Ref. Anexo: Videojuegos citados pág 59)
 
-* Adventure (Atari, 1979). 
+* [[Adventure (Atari, Inc., 1979)]].
 * Alan Wake (Remedy Entertainment, 2010). 
 * Ant Attack (Quicksilva, 1983). 
 * Assassin's Creed (Ubisoft Montreal, 2007). 

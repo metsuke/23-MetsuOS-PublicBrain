@@ -103,6 +103,8 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 * AUDIO 2 AUDIO
 	* [[FFMPEG - Convertir Flac a Mp3]]
 	* [[FFMPEG - Convertir Aiff a Mp3]]
+* VID 2 AUDIO
+	* [[FFMPEG - Convertir Mp4 a Mp3 (Extraer audio)]]
 * VID 2 VID
 	* [[FFMPEG - Convertir Avi a Mp4]]
 	* [[FFMPEG - Convertir Flv a Mp4]]

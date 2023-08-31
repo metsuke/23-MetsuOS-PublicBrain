@@ -8,10 +8,17 @@ Aprovecho que la letra en si de la canción es """sencilla""" para traducir aqui
 
 El 1997 se refiere al año de nacimiento de [[Su-Metal]] 
 
-* [[共]][[に]][[生きる]] [[悪夢]][[の]][[国]] 
-	* Tomo ni ikiru Akumu no kuni
-	* [[Vivimos]] juntos en el país de las pesadillas
-	* In the nightmare world [[we live in]] together 
+* [[共]][[に]][[生きる]] [[悪夢]][[の]][[国]]  Vivimos juntos en el país de las pesadillas
+	* JP - (Tomo ni ikiru Akumu no kuni)
+	* ES - [[Vivimos]] juntos en el país de las pesadillas
+	* CA - [[Vivim]] junts al país dels malsons
+	* EN - In the nightmare world [[we live in]] together 
+	* DE - Wir leben zusammen im Land der Albträume.
+	* ZH - 我们一起生活在噩梦之国。(Wǒmen yīqǐ shēnghuó zài èmèng zhī guó.)
+	* AR - نحن نعيش معًا في بلاد الكوابيس. (Nahnū na'īsh maʿan fī bilād al-kawābīs.)
+	* HI - हम साथ में डरावने देश में रहते हैं। (Ham sāth mein darāvane desh mein rahte hain.)
+	* RO - Trăim împreună în țara coșmarurilor
+	* SW - Tunaishi pamoja katika nchi ya machafuko."
 
 * [[拝啓]] [[お贈りもの]][[しよう]] 
 	* Haikei okurimono shiyou 

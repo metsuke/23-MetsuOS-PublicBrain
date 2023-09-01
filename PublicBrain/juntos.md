@@ -2,7 +2,7 @@
 
 [[Letra "BabyMetal Death"]]
 
-ES [[Juntos]] | JP [[共]]
+EN [[together]] | ES [[Juntos]] | JP [[共]] 
 
 "Juntos" es una palabra que se refiere a la acción de estar en compañía de otras personas o cosas, compartiendo un espacio, tiempo o actividad en común. Esta palabra denota la idea de unidad, colaboración y conexión entre individuos o elementos.
 

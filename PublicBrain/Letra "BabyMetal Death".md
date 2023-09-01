@@ -12,7 +12,7 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 	* JP - (Tomo ni ikiru Akumu no kuni)
 	* ES - [[Vivimos]] [[juntos]] en el país de las pesadillas
 	* CA - [[Vivim]] junts al país dels malsons
-	* EN - In the nightmare world [[we live in]] together 
+	* EN - In the nightmare world [[we live in]] [[together]] 
 	* DE - Wir leben zusammen im Land der Albträume.
 	* ZH - 我们一起生活在噩梦之国。(Wǒmen yīqǐ shēnghuó zài èmèng zhī guó.)
 	* AR - نحن نعيش معًا في بلاد الكوابيس. (Nahnū na'īsh maʿan fī bilād al-kawābīs.)
@@ -21,43 +21,46 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 	* SW - Tunaishi pamoja katika nchi ya machafuko."
 
 * [[拝啓]] [[お贈りもの]][[しよう]] 
-	* Haikei okurimono shiyou 
-	* Querido, enviaremos un regalo
-	* Dear, let's send a gift
+	* JP - Haikei okurimono shiyou 
+	* ES - Querido, enviaremos un regalo
+	* EN - Dear, let's send a gift
 
 * [[そして]][[私]][[は]][[殺し合う]] 
-	* Soshite watashi wa koroshiau 
-	* Y entonces nos asesinaremos mutuamente
-	* And then we will kill each other 
+	* JP - Soshite watashi wa koroshiau 
+	* ES - Y entonces nos asesinaremos mutuamente
+	* EN - And then we will kill each other 
 
 * [[それ]][[が]][[私]][[の]][[使命]] 
-	* Sore ga Watashi no shimei 
-	* Ese es mi propósito
-	* That is my mission 
+	* JP - Sore ga Watashi no shimei 
+	* ES - Ese es mi propósito
+	* EN - That is my mission 
 
 - [[神様]][[と]][[巡り合い ]]
-	- Kami-sama to meguriai 
-	- Encuentro con los dioses 
-	- Meeting with the gods 
+	- JP - Kami-sama to meguriai 
+	- ES - Encuentro con los dioses 
+	- EN - Meeting with the gods 
 
 - [[私]][[は]][[ここ]][[に]][[いる]]  (x3)
-	- Watashi wa koko ni iru (x3)
-	- Estoy aquí (x3)
-	- I am here  (x3)
+	- JP - Watashi wa koko ni iru (x3)
+	- ES - Estoy aquí (x3)
+	- EN - I am here  (x3)
 
 ## Opening 
 
 * [[レジェンド]] 1997
-	* Rejendo  1997
-	* Leyenda 1997
-	* Legend 1997
+	* JP - Rejendo  1997
+	* ES - Leyenda 1997
+	* EN - Legend 1997
 
 * [[伝説]][[に]][[よれば]]、
-	* densetsu ni yoreba
-	* Cuenta la leyenda
-	* It is told
+	* JP - densetsu ni yoreba
+	* ES - Cuenta la leyenda
+	* EN - It is told
 
-* メタルの神から伝説の首輪を授かることで、
+* メタル[[の]]神から伝説[[の]]首輪[[を]]授かることで.
+	* JP - Metaru no kami kara densetsu no kubikazari o sazukaru koto de
+	* ES - Obtener el collar legendario de Dios del Metal
+	* EN - Obtaining the Legendary Necklace from the God of Metal
 
 * 彼女は人間の生活を捨て、
 
@@ -76,7 +79,7 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 * 残された時間はわずかです
 
 Opening Translation: . 
-that receiving the legendary neck brace from the god of Metal, she shall abandon her human life and be reborn as a goddess. The bloodline which has been passed down from ancient times is destined to be the guide, boarding the ark of time. The apocalypse is prophesied DOOMSDAY comes There remains... little time..
+ she shall abandon her human life and be reborn as a goddess. The bloodline which has been passed down from ancient times is destined to be the guide, boarding the ark of time. The apocalypse is prophesied DOOMSDAY comes There remains... little time..
 
 ## Canción
 

@@ -10,7 +10,7 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 
 * [[共]][[に]][[生きる]] [[悪夢]][[の]][[国]]  Vivimos juntos en el país de las pesadillas
 	* JP - (Tomo ni ikiru Akumu no kuni)
-	* ES - [[Vivimos]] juntos en el país de las pesadillas
+	* ES - [[Vivimos]] [[juntos]] en el país de las pesadillas
 	* CA - [[Vivim]] junts al país dels malsons
 	* EN - In the nightmare world [[we live in]] together 
 	* DE - Wir leben zusammen im Land der Albträume.

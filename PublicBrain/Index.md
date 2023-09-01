@@ -53,6 +53,7 @@ Mis Apuntes medio caóticos
 * [[Aprender sobre Licencias]]
 * [[Aprender sobre Linux]]
 * [[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
+* [[Aprender sobre Neurología]]
 * [[Aprender sobre Reciclaje]]
 * [[Aprender sobre Tabla Periódica]]
 * [[Aprender sobre Videojuegos]]
@@ -148,13 +149,7 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 
 De momento tomo notas, aunque eventualmente quisiera ver como crear un método para inventariar, rastrear y priorizar consumo, estudio y metodología para contrastar estos Papers, aunque busco usualmente alimentarme de fuentes fiables,  a veces se vuelve dificil separar sensacionalismo barato de realidad.
 
-#### Neurología / cerebro 
 
-- Luz laser para mejorar procesos mentales
-	* 1. [Luz láser para mejorar procesos mentales](https://www.rtve.es/television/20230721/luz-laser-procesos-mentales/2452563.shtml) 
-		* VIA ciencia@mastodon.social [https://mastodon.social/@ciencia/110772224850612593](https://mastodon.social/@ciencia/110772224850612593)
-			* 1b. fuente de 1: [**Luz láser para mejorar procesos mentales**](https://theconversation.com/luz-laser-para-mejorar-procesos-mentales-196959) #TODO *** hay varios estudios, evaluar como gestionar ramificaciones ***
-				* PAPER fuente de 1b: [Transcranial photobiomodulation enhances visual working memory capacity in humans](https://www.science.org/doi/10.1126/sciadv.abq3211)
 ### PHP
 
 * [[PHP Routing system]]

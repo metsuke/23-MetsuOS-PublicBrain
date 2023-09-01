@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Videojuegos.md",
+                "file": "PublicBrain/Aprender sobre Neurología.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Videojuegos.md",
+                "file": "PublicBrain/Aprender sobre Neurología.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Videojuegos.md",
+                "file": "PublicBrain/Aprender sobre Neurología.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Videojuegos.md"
+                "file": "PublicBrain/Aprender sobre Neurología.md"
               }
             }
           }
@@ -164,6 +164,10 @@
   },
   "active": "2934be753cf93cb0",
   "lastOpenFiles": [
+    "PublicBrain/Index.md",
+    "Aprender sobre Neurología.md",
+    "PublicBrain/Aprender sobre Neurología.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/Adventure (Atari, Inc., 1979).md",
     "PublicBrain/Atari 2600.md",
@@ -179,9 +183,7 @@
     "PublicBrain/_resources/Atari 2600/fce189396d6ff3b6222811e7e0369047_MD5.svg",
     "PublicBrain/_resources/Atari 2600",
     "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
     "Atari 2600.md",
     "Atari, Inc..md",
     "Warren Robinett.md",
@@ -197,7 +199,6 @@
     "PublicBrain/TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT.md",
     "TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT.md",
     "PublicBrain/Aprender sobre Rammstein.md",
-    "Aprender sobre Rammstein.md",
     "_resources/儿子/Dire Straits - Sultans Of Swing.mp4",
     "_resources/儿子/Dire Straits - On The Night.mp4",
     "_resources/儿子",

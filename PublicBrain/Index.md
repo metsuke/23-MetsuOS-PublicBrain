@@ -102,6 +102,9 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 
 * [Game UI Database | Welcome](https://gameuidatabase.com/)
 
+### Feedverse
+
+* Peertube [¿Qué es Peertube?](https://joinpeertube.org/es)
 ### FFMPEG
 
 * [Tutorial de ffmpeg - Terminal en español - Terminal de Linux](https://terminaldelinux.com/terminal/multimedia/ffmpeg/)

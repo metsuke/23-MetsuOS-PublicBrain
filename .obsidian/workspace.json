@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2934be753cf93cb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Aprender sobre Storytelling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a6fe4b65b0e9e9ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre BabyMetal.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Storytelling.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Storytelling.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Storytelling.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -162,11 +150,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2934be753cf93cb0",
+  "active": "a6fe4b65b0e9e9ca",
   "lastOpenFiles": [
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/Aprender sobre Storytelling.md",
+    "PublicBrain/Catalán.md",
+    "PublicBrain/Avi.md",
+    "PublicBrain/Miembros de la familia en catalán.md",
+    "Avi.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Alemán.md",
+    "PublicBrain/Formas de despedirse en Alemán.md",
+    "PublicBrain/Tschüss.md",
+    "Tschüss.md",
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/Aprender sobre Storytelling.md",
+    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/Aprender sobre Emprendimiento y Negocios.md",
     "Aprender sobre Storytelling.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
@@ -181,15 +178,6 @@
     "¿Qué es un presupuesto?.md",
     "¿Qué es un gasto?.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
-    "Aprender sobre Accesibilidad.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Adventure (Atari, Inc., 1979).md",
-    "PublicBrain/Warren Robinett.md",
-    "PublicBrain/Atari, Inc..md",
-    "PublicBrain/Atari 2600.md",
-    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender sobre Neurología.md",
     "PublicBrain/_resources/Adventure (Atari, 1979)/bc2dacefb1a7bf44080049242b9464fa_MD5.gif",
     "PublicBrain/_resources/Adventure (Atari, 1979)",
     "PublicBrain/_resources/Atari, Inc./f10403824396c9f7a0a737218a8319bb_MD5.svg",

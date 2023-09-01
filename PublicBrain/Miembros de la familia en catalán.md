@@ -7,7 +7,7 @@ Los miembros de la familia en [[catalán]]:
 3. [[Fill]] / [[Filla]]: Hijo / Hija
 4. [[Germans]]: Hermanos
 5. [[Tio]] , [[Oncle]], [[Tiet]] / [[Tieta]]: Tío / Tía
-6. Avi / Àvia: Abuelo / Abuela
+6. [[Avi]] / Àvia: Abuelo / Abuela
 7. Nét / Néta: Nieto / Nieta
 8. Besné: Yerno
 9. Neboda: Sobrino / Sobrina

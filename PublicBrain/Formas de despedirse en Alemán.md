@@ -5,7 +5,7 @@ En [[alemán]], existen varias formas de despedirse, cada una con su nivel de fo
 
 1. **[[Auf Wiedersehen]]:** Esta es una forma estándar y educada de decir "adiós". Se puede utilizar en la mayoría de las situaciones formales e informales.
     
-2. **Tschüss:** Esta es una despedida más informal y amigable. Es similar a decir "chau" en español. Se usa entre amigos y en situaciones más relajadas.
+2. **[[Tschüss]]:** Esta es una despedida más informal y amigable. Es similar a decir "chau" en español. Se usa entre amigos y en situaciones más relajadas.
     
 3. **Bis bald:** Significa "hasta pronto". Es una forma de expresar que esperas ver a la persona nuevamente en un futuro cercano.
     

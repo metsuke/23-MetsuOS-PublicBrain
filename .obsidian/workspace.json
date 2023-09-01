@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Finanzas Elementales.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Finanzas Elementales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Finanzas Elementales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
+                "file": "PublicBrain/Finanzas Elementales.md"
               }
             }
           }
@@ -164,6 +164,13 @@
   },
   "active": "2934be753cf93cb0",
   "lastOpenFiles": [
+    "PublicBrain/¿Qué es un presupuesto?.md",
+    "PublicBrain/Finanzas Elementales.md",
+    "PublicBrain/¿Qué es un gasto?.md",
+    "PublicBrain/¿Qué es un ingreso?.md",
+    "¿Qué es un presupuesto?.md",
+    "¿Qué es un gasto?.md",
+    "PublicBrain/Aprender sobre Economía.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "Aprender sobre Accesibilidad.md",
@@ -192,13 +199,6 @@
     "Atari, Inc..md",
     "Warren Robinett.md",
     "Adventure (Atari, 1979).md",
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "PublicBrain/Aprender a Programar desde Cero.md",
-    "PublicBrain/MPL (Metsuke Programming Languaje).md",
-    "Aprender Lenguaje C.md",
-    "PublicBrain/Aprender sobre Redes e Internet.md",
-    "PublicBrain/Aprender sobre Economía.md",
-    "Aprender a Programar.md",
     "_resources/儿子/Dire Straits - Sultans Of Swing.mp4",
     "_resources/儿子/Dire Straits - On The Night.mp4",
     "_resources/儿子",

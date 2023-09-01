@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Aprender sobre Storytelling.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lectura",
+                "query": "ﬁ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Aprender sobre Storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Aprender sobre Storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
+                "file": "PublicBrain/Aprender sobre Storytelling.md"
               }
             }
           }
@@ -164,11 +164,15 @@
   },
   "active": "2934be753cf93cb0",
   "lastOpenFiles": [
-    "PublicBrain/La Inteligencia Artificial en tanto ciencia.md",
+    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
+    "PublicBrain/Aprender sobre Storytelling.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Emprendimiento y Negocios.md",
+    "Aprender sobre Storytelling.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/La Inteligencia Artificial en tanto ciencia.md",
     "PublicBrain/Redes Neuronales Artificiales.md",
     "PublicBrain/¿Qué es la Inteligencia Artificial?.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Economía.md",
     "PublicBrain/Finanzas Elementales.md",
     "PublicBrain/¿Qué es un presupuesto?.md",
@@ -179,7 +183,6 @@
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "Aprender sobre Accesibilidad.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/Adventure (Atari, Inc., 1979).md",
     "PublicBrain/Warren Robinett.md",
     "PublicBrain/Atari, Inc..md",
@@ -187,7 +190,6 @@
     "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender sobre Neurología.md",
-    "Aprender sobre Neurología.md",
     "PublicBrain/_resources/Adventure (Atari, 1979)/bc2dacefb1a7bf44080049242b9464fa_MD5.gif",
     "PublicBrain/_resources/Adventure (Atari, 1979)",
     "PublicBrain/_resources/Atari, Inc./f10403824396c9f7a0a737218a8319bb_MD5.svg",
@@ -197,8 +199,6 @@
     "PublicBrain/_resources/Atari 2600/4165e626c153fbc55a535412940eb6bb_MD5.jpg",
     "PublicBrain/_resources/Atari 2600/fce189396d6ff3b6222811e7e0369047_MD5.svg",
     "PublicBrain/_resources/Atari 2600",
-    "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
     "_resources/儿子/Dire Straits - Sultans Of Swing.mp4",
     "_resources/儿子/Dire Straits - On The Night.mp4",
     "_resources/儿子",

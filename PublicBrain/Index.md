@@ -26,6 +26,10 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Ciencias Sociales
 
 * [[Aprender sobre Economía]]
+
+### Comunicación
+
+* [[Aprender sobre Storytelling]]
 ### Cultura
 
 * [[Aprender sobre BabyMetal]] (JP)

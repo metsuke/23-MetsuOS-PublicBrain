@@ -19,7 +19,6 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
  * [[Estadísticas sobre Idiomas]]
  * [Sistemas de escritura del mundo](https://www.worldswritingsystems.org/)
 
-
 ## Aprender: mis Libros de Texto
 
 Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elaborados.
@@ -27,7 +26,6 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Ciencias Sociales
 
 * [[Aprender sobre Economía]]
-
 ### Cultura
 
 * [[Aprender sobre BabyMetal]] (JP)
@@ -36,7 +34,9 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 AR/CA/ES/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALMENTE la pena para hacer lo propio) [[TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT]]
 
+### Plena Inclusión
 
+* [[Aprender sobre Accesibilidad]]
 ### Tecnología
 
 * [[Aprender sobre Inteligencia Artificial]]

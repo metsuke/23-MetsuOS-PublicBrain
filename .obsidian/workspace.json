@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Finanzas Elementales.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Finanzas Elementales.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Finanzas Elementales.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Finanzas Elementales.md"
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
               }
             }
           }
@@ -164,14 +164,18 @@
   },
   "active": "2934be753cf93cb0",
   "lastOpenFiles": [
-    "PublicBrain/¿Qué es un presupuesto?.md",
+    "PublicBrain/La Inteligencia Artificial en tanto ciencia.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Redes Neuronales Artificiales.md",
+    "PublicBrain/¿Qué es la Inteligencia Artificial?.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Economía.md",
     "PublicBrain/Finanzas Elementales.md",
+    "PublicBrain/¿Qué es un presupuesto?.md",
     "PublicBrain/¿Qué es un gasto?.md",
     "PublicBrain/¿Qué es un ingreso?.md",
     "¿Qué es un presupuesto?.md",
     "¿Qué es un gasto?.md",
-    "PublicBrain/Aprender sobre Economía.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "Aprender sobre Accesibilidad.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
@@ -195,10 +199,6 @@
     "PublicBrain/_resources/Atari 2600",
     "PublicBrain/Aprender sobre BabyMetal.md",
     "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
-    "Atari 2600.md",
-    "Atari, Inc..md",
-    "Warren Robinett.md",
-    "Adventure (Atari, 1979).md",
     "_resources/儿子/Dire Straits - Sultans Of Swing.mp4",
     "_resources/儿子/Dire Straits - On The Night.mp4",
     "_resources/儿子",

@@ -2,9 +2,97 @@
 
 [[Index]]
 
-1. [[¿Qué es la Inteligencia Artificial?]]
-2. [[La Inteligencia Artificial en tanto ciencia]]
+## Introducción a la Inteligencia Artificial
 
-## Redes Neuronales
+   - [[¿Qué es la Inteligencia Artificial?]]
+   - [[La Inteligencia Artificial en tanto ciencia]]
+   - Historia y evolución de la IA
+   - Aplicaciones de la IA en la vida cotidiana
 
-* [[Redes Neuronales Artificiales]]
+## Fundamentos de la IA
+
+- Aprendizaje automático (Machine Learning)
+  - Conceptos básicos
+  - Tipos de aprendizaje automático (supervisado, no supervisado, reforzado)
+  - Algoritmos de aprendizaje automático (regresión, clasificación, clustering)
+- [[Redes Neuronales Artificiales]]
+  - Estructura y funcionamiento
+  - Entrenamiento de redes neuronales
+  - Aplicaciones de redes neuronales profundas (Deep Learning)
+
+## Lenguajes y Herramientas de Programación en IA
+
+- Python en IA
+  - Bibliotecas populares (NumPy, pandas, scikit-learn, TensorFlow, PyTorch)
+  - Ejemplos de código
+- Entornos de desarrollo (IDEs) para IA
+  - Jupyter Notebook
+  - Google Colab
+  - IDEs especializados en IA
+
+## Recopilación y Preprocesamiento de Datos
+
+- Adquisición de datos
+- Limpieza y normalización de datos
+- Exploración de datos (Data Exploration)
+- Ingeniería de características (Feature Engineering)
+
+## Modelado y Entrenamiento en IA
+
+- Selección de algoritmos de aprendizaje automático
+- División de datos en conjuntos de entrenamiento, validación y prueba
+- Entrenamiento de modelos de IA
+- Evaluación de modelos (métricas de rendimiento)
+
+## Problemas Comunes en IA
+
+- Overfitting y underfitting
+- Sesgo y equidad en los modelos
+- Interpretabilidad de modelos
+
+## Aplicaciones Específicas de la IA
+
+- Visión por computadora (Computer Vision)
+  - Detección de objetos
+  - Reconocimiento facial
+- Procesamiento de lenguaje natural (NLP)
+  - Análisis de sentimientos
+  - Traducción automática
+- Robótica y Automatización
+- IA en la atención médica
+- IA en finanzas y negocios
+
+## Ética y Aspectos Sociales de la IA
+
+- Consideraciones éticas en IA
+- Impacto de la IA en la sociedad
+- Regulaciones y directrices éticas
+
+## Recursos para Aprender sobre IA
+
+- Cursos en línea y tutoriales
+- Libros recomendados
+- Comunidades en línea y foros
+- Proyectos prácticos
+
+## Avances y Tendencias en IA
+
+- IA cuántica
+- IA explicable (Explainable AI)
+- IA en el Internet de las Cosas (IoT)
+- IA en la medicina personalizada
+
+## Desarrollo Profesional en IA
+
+- Carreras en IA
+- Certificaciones en IA
+- Perfil del profesional en IA
+
+## Inteligencia Artificial Progresiva (MetsukeOS)
+
+* ¿Qué es Inteligencia Artificial Progresiva?
+* --- DESARROLLAR ---
+* Implementación de Redes Neuronales en Python
+	* Implementación de Redes Neuronales en Python + numpy
+	* Implementación de Redes Neuronales en Python + Keras
+

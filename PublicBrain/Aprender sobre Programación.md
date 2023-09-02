@@ -2,7 +2,11 @@
 
 [[Index]]
 
+## Programación General
+
 * [[Aprender a Programar desde Cero]]
+
+## Lenguajes de Programación
 
 * Aprender Lenguaje BASIC
 * Aorender Lenguaje Visual Basic
@@ -16,5 +20,9 @@
 * Aprender Lenguaje Python
 * Aprender Lenguaje GO
 * Aprender Lenguaje RUST
-* Aprender Lenguaje MPL | [[MPL (Metsuke Programming Languaje)]]
+* Aprender Lenguaje MPL | [[MPL (Metsuke Programming Languaje)]]3
 
+## Librarías y Frameworks
+
+* [[Aprender sobre Mermaid]]
+* [[Aprender sobre PixiJS]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "PublicBrain/Aprender sobre Mermaid.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "PublicBrain/Aprender sobre Mermaid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "PublicBrain/Aprender sobre Mermaid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md"
+                "file": "PublicBrain/Aprender sobre Mermaid.md"
               }
             }
           }
@@ -151,10 +151,15 @@
   },
   "active": "239a31b2ca4572b9",
   "lastOpenFiles": [
-    "PublicBrain/Beneficios y usos de las redes.md",
-    "PublicBrain/Aprender sobre Redes e Internet.md",
-    "Beneficios y usos de las redes.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender sobre PixiJS.md",
+    "PublicBrain/Aprender sobre Mermaid.md",
+    "Aprender sobre Mermaid.md",
+    "Aprender sobre PixiJS.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "PublicBrain/Beneficios y usos de las redes.md",
+    "Beneficios y usos de las redes.md",
     "PublicBrain/Aprender sobre Economía y Finanzas.md",
     "PublicBrain/Aprender sobre Finanzas Personales.md",
     "PublicBrain/Finanzas Personales (Revisar).md",
@@ -172,11 +177,6 @@
     "PublicBrain/共.md",
     "PublicBrain/juntos.md",
     "PublicBrain/together.md",
-    "together.md",
-    "PublicBrain/Vivimos.md",
-    "PublicBrain/Aprender sobre Tipografía.md",
-    "Aprender sobre Tipografía.md",
-    "PublicBrain/Aprender sobre Nirvana.md",
     "PublicBrain/_resources/Aprender sobre Rammstein/d18f4c435f1a4b0b3ff52b38334a2dc9_MD5.svg",
     "PublicBrain/_resources/Aprender sobre Rammstein",
     "PublicBrain/_resources/Adventure (Atari, 1979)/bc2dacefb1a7bf44080049242b9464fa_MD5.gif",

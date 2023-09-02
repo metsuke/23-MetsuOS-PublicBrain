@@ -4,7 +4,7 @@
 
 ## Introducción a la Accesibilidad
 
-* ¿Qué es la Accesibilidad?
+* [[¿Qué es la Accesibilidad?]]
 	* Definición y concepto de accesibilidad
 	* Importancia de la accesibilidad para todas las personas
 * Leyes y Normativas

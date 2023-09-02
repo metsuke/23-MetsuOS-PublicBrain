@@ -34,3 +34,9 @@ a:hover, .cm-hmd-internal-link span:hover, .cm-link span:hover {
     color:rgb(133, 206, 237)!important;
     font-weight: bold!important;
 }
+
+.image-embed.is-loaded img[alt*="white"] {
+    background-color: white;
+    padding:2rem;
+    border:2px solid red;
+}

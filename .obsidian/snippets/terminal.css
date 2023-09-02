@@ -40,3 +40,5 @@ a:hover, .cm-hmd-internal-link span:hover, .cm-link span:hover {
     padding:2rem;
     border:2px solid red;
 }
+
+.cm-line {font-size:1.6rem;}

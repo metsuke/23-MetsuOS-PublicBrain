@@ -5,6 +5,9 @@
 "Alan Wake" es un videojuego desarrollado por [[Remedy Entertainment]] y lanzado en 2010. Es un título de acción y aventuras con elementos de thriller psicológico y horror, conocido por su narrativa envolvente y su atmósfera única. Aquí tienes algunos aspectos destacados de este juego:
 
 ![Alan Wake Game - From Reddit](PublicBrain/_resources/Alan%20Wake%20(Remedy%20Entertainment,%202010)/2ebc1a4c83ef0aff6379aa77eb6af453_MD5.png)
+
+* [Galería de fotos de la edición coleccionista en flickr by ElGris](https://www.flickr.com/photos/elgris/albums/72157624038946052)
+
 ## Trama y Ambientación:
 
 - "Alan Wake" se desarrolla en el ficticio pueblo de Bright Falls, en el estado de Washington. El juego sigue la historia de Alan Wake, un exitoso escritor de novelas de suspenso que sufre un bloqueo creativo y viaja a Bright Falls en busca de inspiración. Sin embargo, pronto se ve envuelto en una serie de eventos extraños y aterradores cuando su esposa desaparece y elementos de sus propias novelas comienzan a cobrar vida.

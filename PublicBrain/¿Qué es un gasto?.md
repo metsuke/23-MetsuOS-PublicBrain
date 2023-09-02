@@ -1,6 +1,6 @@
 # ¿Qué es un gasto?
 
-[[Finanzas Elementales]]
+[[Aprender sobre Finanzas Personales]]
 
 Un gasto se refiere al desembolso de dinero o recursos financieros que una persona, empresa o entidad realiza para adquirir bienes o servicios con el objetivo de satisfacer una necesidad o llevar a cabo una actividad. Los gastos son una parte fundamental de la gestión financiera, ya que representan salidas de dinero que pueden afectar el equilibrio entre los ingresos y los egresos.
 

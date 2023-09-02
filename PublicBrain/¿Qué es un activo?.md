@@ -1,6 +1,6 @@
 # ¿Qué es un activo?
 
-[[Finanzas Elementales]]
+[[Aprender sobre Finanzas Personales]]
 
 Un activo es un concepto fundamental en el ámbito de las finanzas y la contabilidad. Es importante entenderlo, incluso si eres nuevo en el tema. 
 ## ¿Qué es un activo?

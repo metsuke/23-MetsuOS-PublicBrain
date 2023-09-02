@@ -25,7 +25,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Ciencias Sociales
 
-* [[Aprender sobre Economía]]
+* [[Aprender sobre Economía y Finanzas]]
 
 ### Comunicación
 

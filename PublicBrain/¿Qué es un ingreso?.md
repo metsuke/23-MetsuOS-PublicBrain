@@ -1,6 +1,6 @@
 # ¿Qué es un ingreso?
 
-[[Finanzas Elementales]]
+[[Aprender sobre Finanzas Personales]]
 
 Un "ingreso" se refiere al dinero o los recursos que una persona, familia o entidad recibe regularmente. Estos ingresos pueden provenir de diversas fuentes, como salarios por trabajo, honorarios profesionales, ingresos por alquiler de propiedades, intereses bancarios, dividendos de inversiones u otras fuentes.
 

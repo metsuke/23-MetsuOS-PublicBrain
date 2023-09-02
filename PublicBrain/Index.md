@@ -118,7 +118,10 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 
 * AUDIO 2 AUDIO
 	* [[FFMPEG - Convertir Flac a Mp3]]
-	* [[FFMPEG - Convertir Aiff a Mp3]]
+	* [[FFMPEG - Convertir Aiff a Mp3]]dex
+* DISC 2 VID
+	* [[FFMPEG - Convertir Blueray a Mp4]]
+	* [[FFMPEG - Convertir DVD a Mp4]]
 * VID 2 AUDIO
 	* [[FFMPEG - Convertir Mp4 a Mp3 (Extraer audio)]]
 * VID 2 VID

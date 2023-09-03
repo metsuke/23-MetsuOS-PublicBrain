@@ -30,6 +30,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Comunicación
 
 * [[Aprender sobre Storytelling]]
+
 ### Cultura
 
 * [[Aprender sobre BabyMetal]] (JP)

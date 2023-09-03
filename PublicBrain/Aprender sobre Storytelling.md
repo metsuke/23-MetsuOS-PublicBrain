@@ -4,7 +4,7 @@
 
 ## Introducción al Storytelling
 
-* ¿Qué es el Storytelling?
+* [[¿Qué es el Storytelling?]]
 	* Definición de Storytelling
 	* Importancia del Storytelling en diferentes contextos
 * Elementos Fundamentales de una Buena Historia

@@ -45,6 +45,10 @@ AR/CA/ES/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga RE
 ### Plena Inclusión
 
 * [[Aprender sobre Accesibilidad]]
+### Productividad
+
+* [[Aprender sobre Gestión de Tareas]]
+
 ### Tecnología
 
 * [[Aprender sobre Inteligencia Artificial]]

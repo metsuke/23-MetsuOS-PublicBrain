@@ -51,6 +51,7 @@ AR/CA/ES/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga RE
 
 ### Tecnología
 
+* [[Aprender sobre GNU Linux]]
 * [[Aprender sobre Inteligencia Artificial]]
 * [[Aprender sobre Programación]]
 * [[Aprender sobre Redes e Internet]]
@@ -63,7 +64,7 @@ Mis Apuntes medio caóticos
 * [[Aprender sobre Desarrollo]]
 * [[Aprender sobre Emprendimiento y Negocios]]
 * [[Aprender sobre Licencias]]
-* [[Aprender sobre Linux]]
+* [[Aprender sobre Linux - Apuntes sin ordenar]]
 * [[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
 * [[Aprender sobre Neurología]]
 * [[Aprender sobre Reciclaje]]

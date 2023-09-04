@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Ant Attack (Quicksilva, 1983).md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Ant Attack (Quicksilva, 1983).md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Ant Attack (Quicksilva, 1983).md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Ant Attack (Quicksilva, 1983).md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -152,19 +152,24 @@
   },
   "active": "239a31b2ca4572b9",
   "lastOpenFiles": [
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
+    "PublicBrain/Aprender sobre GNU Linux.md",
+    "PublicBrain/Index.md",
+    "Aprender sobre GNU Linux.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/Ant Attack (Quicksilva, 1983).md",
     "PublicBrain/Sandy White.md",
     "PublicBrain/Quicksilva.md",
+    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
+    "Aprender sobre GNU/Linux.md",
+    "Aprender sobre GNU",
+    "PublicBrain/Aprender sobre Linux - Apuntes sin ordenar.md",
     "Quicksilva.md",
     "Sandy White.md",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",
     "PublicBrain/Alan Wake (Remedy Entertainment, 2010).md",
     "Ant Attack (Quicksilva, 1983).md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender Lenguaje BASIC en máquinas de 8 y 16bits.md",
     "PublicBrain/Aprender Lenguaje BASIC.md",
@@ -176,10 +181,6 @@
     "PublicBrain/Aprender sobre Nirvana.md",
     "PublicBrain/rock alternativo.md",
     "rock alternativo.md",
-    "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/BabyMetal Death.md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
-    "PublicBrain/メタル.md",
     "PublicBrain/_resources/Alan Wake (Remedy Entertainment, 2010)/2ebc1a4c83ef0aff6379aa77eb6af453_MD5.png",
     "PublicBrain/_resources/Alan Wake (Remedy Entertainment, 2010)",
     "PublicBrain/_resources/Remedy Entertainment/77ad2e92382897d333d5f8b846200e35_MD5.png",
@@ -196,7 +197,6 @@
     "PublicBrain/_resources/Atari 2600/fce189396d6ff3b6222811e7e0369047_MD5.svg",
     "PublicBrain/_resources/Atari 2600",
     "_resources/儿子/Dire Straits - Sultans Of Swing.mp4",
-    "_resources/儿子/Dire Straits - On The Night.mp4",
     "PublicBrain/_resources/Aprender sobre Redes/cf2fe4573847cc8d0468789467844249_MD5.jpg",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"

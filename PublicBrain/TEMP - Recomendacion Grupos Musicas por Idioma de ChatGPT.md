@@ -22,15 +22,6 @@ ChatGPT
 4. Txarango (España - Cataluña)
 5. La Pegatina (España - Cataluña)
 
-
-**Español (ES):**
-
-1. Soda Stereo (Argentina)
-2. Maná (México)
-3. Amaral (España)
-4. Café Tacvba (México)
-5. Los Fabulosos Cadillacs (Argentina)
-
 **Hindi (HI):**
 
 1. A.R. Rahman (India)

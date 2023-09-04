@@ -7,7 +7,7 @@ Siguiendo la estela del proyecto [[Aprender sobre BabyMetal]], iniciamos el proy
 ## Sobre Nirvana
 ![Logo Nirvana from worldvectorlogo](https://cdn.worldvectorlogo.com/logos/nirvana.svg)
 
-Nirvana fue una influyente banda de rock alternativo originaria de Estados Unidos que surgió en la década de 1980 y alcanzó su máximo reconocimiento en la década de 1990. La banda está estrechamente asociada con el movimiento grunge de Seattle y es considerada una de las bandas más influyentes en la historia del rock. Aquí te proporciono información sobre Nirvana y sus principales aspectos:
+Nirvana fue una influyente banda de [[rock alternativo]] originaria de Estados Unidos que surgió en la década de 1980 y alcanzó su máximo reconocimiento en la década de 1990. La banda está estrechamente asociada con el movimiento grunge de Seattle y es considerada una de las bandas más influyentes en la historia del rock. Aquí te proporciono información sobre Nirvana y sus principales aspectos:
 
 **Miembros de la banda:**
 

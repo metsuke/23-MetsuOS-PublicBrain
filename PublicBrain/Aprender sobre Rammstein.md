@@ -8,7 +8,7 @@ Iniciamos, siguiendo la estela del proyecto [[Aprender sobre BabyMetal]], el pro
 
 ![Ramstein Logo - From Wikipedia](PublicBrain/_resources/Aprender%20sobre%20Rammstein/d18f4c435f1a4b0b3ff52b38334a2dc9_MD5.svg)
 
-Rammstein es una influyente banda de metal industrial originaria de Alemania. Se formó en Berlín en 1994 y desde entonces ha ganado fama internacional gracias a su estilo musical distintivo, sus actuaciones en vivo impactantes y sus letras provocadoras. La banda se caracteriza por combinar elementos de metal pesado, música electrónica y letras en alemán, lo que le ha otorgado un lugar destacado en la escena del metal y la música industrial.
+Rammstein es una influyente banda de [[metal industrial]] originaria de Alemania. Se formó en Berlín en 1994 y desde entonces ha ganado fama internacional gracias a su estilo musical distintivo, sus actuaciones en vivo impactantes y sus letras provocadoras. La banda se caracteriza por combinar elementos de metal pesado, música electrónica y letras en alemán, lo que le ha otorgado un lugar destacado en la escena del metal y la música industrial.
 
 Aquí tienes algunos aspectos clave sobre Rammstein:
 

@@ -12,7 +12,7 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 	* JP - (Tomo ni ikiru Akumu no kuni)
 	* ES - [[Vivimos]] [[juntos]] en el país de las pesadillas
 	* CA - [[Vivim]] junts al país dels malsons
-	* EN - In the nightmare world [[we live in]] [[together]] 
+	* EN - In the [[nightmare]] world [[we live in]] [[together]] 
 	* DE - Wir leben zusammen im Land der Albträume.
 	* ZH - 我们一起生活在噩梦之国。(Wǒmen yīqǐ shēnghuó zài èmèng zhī guó.)
 	* AR - نحن نعيش معًا في بلاد الكوابيس. (Nahnū na'īsh maʿan fī bilād al-kawābīs.)
@@ -57,7 +57,7 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 	* ES - Cuenta la leyenda
 	* EN - It is told
 
-* メタル[[の]]神から伝説[[の]]首輪[[を]]授かることで.
+* [[メタル]][[の]]神から伝説[[の]]首輪[[を]]授かることで.
 	* JP - Metaru no kami kara densetsu no kubikazari o sazukaru koto de
 	* ES - Obtener el collar legendario de Dios del Metal
 	* EN - Obtaining the Legendary Necklace from the God of Metal

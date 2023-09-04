@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Finanzas Personales.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Finanzas Personales.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Finanzas Personales.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Finanzas Personales.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -152,11 +152,25 @@
   },
   "active": "239a31b2ca4572b9",
   "lastOpenFiles": [
-    "PublicBrain/Conceptos básicos de finanzas.md",
-    "PublicBrain/Aprender sobre Finanzas Personales.md",
-    "Conceptos básicos de finanzas.md",
-    "PublicBrain/Aprender sobre Economía y Finanzas.md",
+    "PublicBrain/Aprender sobre Rammstein.md",
+    "PublicBrain/metal industrial.md",
+    "metal industrial.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Nirvana.md",
+    "PublicBrain/rock alternativo.md",
+    "rock alternativo.md",
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "PublicBrain/メタル.md",
+    "メタル.md",
+    "PublicBrain/nightmare.md",
+    "PublicBrain/悪夢.md",
+    "nightmare.md",
+    "PublicBrain/Aprender sobre Economía y Finanzas.md",
+    "PublicBrain/Aprender sobre Finanzas Personales.md",
+    "PublicBrain/Conceptos básicos de finanzas.md",
+    "Conceptos básicos de finanzas.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Historia y evolución de la IA.md",
     "Historia y evolución de la IA.md",
@@ -164,20 +178,6 @@
     "Aprender sobre Gestion de Tareas.md",
     "PublicBrain/Aprender sobre Storytelling.md",
     "PublicBrain/¿Qué es el Storytelling?.md",
-    "¿Qué es el Storytelling?.md",
-    "PublicBrain/Sistemas de escritura japoneses.md",
-    "PublicBrain/Hiragana.md",
-    "PublicBrain/し.md",
-    "PublicBrain/そ.md",
-    "PublicBrain/つ.md",
-    "そ.md",
-    "PublicBrain/う.md",
-    "PublicBrain/Japonés.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/Alan Wake (Remedy Entertainment, 2010).md",
-    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
     "PublicBrain/_resources/Alan Wake (Remedy Entertainment, 2010)/2ebc1a4c83ef0aff6379aa77eb6af453_MD5.png",
     "PublicBrain/_resources/Alan Wake (Remedy Entertainment, 2010)",
     "PublicBrain/_resources/Remedy Entertainment/77ad2e92382897d333d5f8b846200e35_MD5.png",

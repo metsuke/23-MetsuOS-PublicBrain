@@ -14,3 +14,4 @@ Huelga decir que este es mi cuaderno de trabajo, puede contener (Y MUY PROBABLEM
 
 [[Ejercicios Binomios al Cuadrado]]
 [[Ejercicios Binomios a la n potencia y conjugados]]
+[[Ejercicios Factorizacion n-Nomiosç]]

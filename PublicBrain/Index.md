@@ -23,6 +23,10 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 
 Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elaborados.
 
+# Ciencias Formales
+
+* [[Aprender sobre Matemáticas]]
+
 ### Ciencias Sociales
 
 * [[Aprender sobre Economía y Finanzas]]

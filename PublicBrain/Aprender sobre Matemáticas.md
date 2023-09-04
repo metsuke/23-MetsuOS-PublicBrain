@@ -14,7 +14,7 @@
 * Elementos de una Demostración
 	* Teoremas, axiomas e hipótesis.
 	* Lenguaje y notación matemática.
-		* Conclusiones y corolarios.
+	* Conclusiones y corolarios.
 
 ### Métodos de Demostración
 

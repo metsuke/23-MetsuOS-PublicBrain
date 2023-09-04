@@ -4,7 +4,7 @@
 
 ## Introducción a las Finanzas Personales
 
-- Conceptos básicos de finanzas
+- [[Conceptos básicos de finanzas]]
 - Importancia de la educación financiera
 - Objetivos financieros personales
 

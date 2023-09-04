@@ -1,6 +1,6 @@
 # Ant Attack (Quicksilva, 1983)
 
-[Ant Attack en EMS](https://www.elmundodelspectrum.com/ant-attack-1983-quicksilva/) | [[Narrativa y Storytelling en el mundo del videojuego]]
+[[Narrativa y Storytelling en el mundo del videojuego]]
 
 "Ant Attack" es un videojuego desarrollado por [[Sandy White]] y publicado por [[Quicksilva]] en 1983. 
 
@@ -23,3 +23,6 @@ Aquí tienes algunos aspectos destacados sobre "Ant Attack":
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/Va5SKaYL3r8?si=sGg-HJj-DZW0wLOJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 En resumen, "Ant Attack" es un juego icónico que destacó por su enfoque innovador en la exploración y el mundo abierto en un momento en que la mayoría de los juegos tenían estructuras más lineales. Su legado perdura en la historia de los videojuegos como un título influyente y pionero en su género.
+
+[Ant Attack en EMS](https://www.elmundodelspectrum.com/ant-attack-1983-quicksilva/)
+

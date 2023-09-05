@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
               }
             }
           }
@@ -152,9 +152,12 @@
   },
   "active": "0e26479b68f70ee5",
   "lastOpenFiles": [
+    "PublicBrain/Definición y concepto de accesibilidad.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "Definición y concepto de accesibilidad.md",
+    "PublicBrain/Index.md",
     "PublicBrain/A1-EN.md",
     "PublicBrain/Aprender Idioma Inglés.md",
-    "PublicBrain/Index.md",
     "PublicBrain/TOEIC (Test of English for International Communication).md",
     "PublicBrain/OET (Occupational English Test).md",
     "PublicBrain/PTE Academic (Pearson Test of English Academic).md",
@@ -175,9 +178,6 @@
     "Cambridge English Exams.md",
     "IELTS (International English Language Testing System).md",
     "TOEFL (Test of English as a Foreign Language).md",
-    "Otros Niveles y Exámenes Relevantes EN.md",
-    "C2-EN.md",
-    "C1-EN.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

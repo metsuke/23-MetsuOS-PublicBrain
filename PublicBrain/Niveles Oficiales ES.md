@@ -1,8 +1,8 @@
 # Niveles Oficiales ES
 
-[[Aprender Idioma Español]]
+[[Aprender Idioma Español]] | [[Niveles y Exámenes Adicionales ES]]
 
-En español, los niveles oficiales para aprender y evaluar el dominio del idioma se suelen basar en el Marco Común Europeo de Referencia para las Lenguas (MCERL). El MCERL es un estándar internacional que describe diferentes niveles de competencia en un idioma, desde el nivel básico hasta el nivel avanzado. Estos niveles están diseñados para ayudar a los estudiantes y evaluadores a comprender y medir el progreso en el aprendizaje de un idioma. Los niveles comunes de referencia en español son los siguientes:
+En español, los niveles oficiales para aprender y evaluar el dominio del idioma se suelen basar en el Marco Común Europeo de Referencia para las Lenguas (MCERL). El MCERL es un estándar internacional que describe diferentes niveles de competencia en un idioma, desde el nivel básico hasta el nivel avanzado. Estos niveles están diseñados para ayudar a los estudiantes y evaluadores a comprender y medir el progreso en el aprendizaje de un idioma. Los niveles comunes de referencia en [[español]] son los siguientes:
 
 1. **A1 (Principiante):** En este nivel, los estudiantes son capaces de comunicarse en situaciones muy simples y cotidianas. Pueden entender y utilizar expresiones básicas y vocabulario limitado. [[A1-ES]]
     

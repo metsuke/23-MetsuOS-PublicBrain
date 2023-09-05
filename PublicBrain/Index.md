@@ -23,7 +23,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * GE | [[Alemán]] | Niveles Oficiales GE | 
 * GL | Gallego | Niveles Oficiales GL |
 * HI | [[Hindi]] | Niveles Oficiales HI | 
-* JP | [[Japonés]] | Niveles Oficiales JP | 
+* JP [[Aprender Idioma Japones]]
 * RO | [[Rumano]] | Niveles Oficiales RO | 
 * SW | [[Swahili]] | Niveles Oficiales SW | 
 * ZH | [[Chino]] | Niveles Oficiales ZH | 

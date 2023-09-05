@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -152,32 +152,32 @@
   },
   "active": "0e26479b68f70ee5",
   "lastOpenFiles": [
-    "PublicBrain/Definición y concepto de accesibilidad.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "Definición y concepto de accesibilidad.md",
+    "PublicBrain/Aprender Idioma Español.md",
+    "PublicBrain/CCSE (Examen de Conocimientos Constitucionales y Socioculturales de España).md",
+    "PublicBrain/SIELE (Servicio Internacional de Evaluación de la Lengua Española).md",
+    "PublicBrain/Certificado de Español - Lengua y Uso (CELU).md",
+    "PublicBrain/Diploma de Español como Lengua Extranjera (DELE).md",
+    "PublicBrain/A1-ES.md",
+    "PublicBrain/C2-ES.md",
+    "PublicBrain/C1-ES.md",
+    "PublicBrain/B2-ES.md",
+    "PublicBrain/B1-ES.md",
+    "PublicBrain/A2-ES.md",
+    "CCSE (Examen de Conocimientos Constitucionales y Socioculturales de España).md",
+    "SIELE (Servicio Internacional de Evaluación de la Lengua Española).md",
+    "Certificado de Español - Lengua y Uso (CELU).md",
+    "PublicBrain/Niveles y Exámenes Adicionales ES.md",
+    "Diploma de Español como Lengua Extranjera (DELE).md",
+    "C2-ES.md",
+    "C1-ES.md",
+    "B2-ES.md",
+    "A1-ES.md",
+    "A2-ES.md",
+    "B1-ES.md",
+    "PublicBrain/Niveles Oficiales ES.md",
     "PublicBrain/Index.md",
-    "PublicBrain/A1-EN.md",
     "PublicBrain/Aprender Idioma Inglés.md",
-    "PublicBrain/TOEIC (Test of English for International Communication).md",
-    "PublicBrain/OET (Occupational English Test).md",
-    "PublicBrain/PTE Academic (Pearson Test of English Academic).md",
-    "PublicBrain/Cambridge English Exams.md",
-    "PublicBrain/IELTS (International English Language Testing System).md",
-    "PublicBrain/TOEFL (Test of English as a Foreign Language).md",
-    "PublicBrain/C2-EN.md",
-    "PublicBrain/C1-EN.md",
-    "PublicBrain/B2-EN.md",
-    "PublicBrain/B1-EN.md",
-    "PublicBrain/A2-EN.md",
-    "PublicBrain/Niveles y Exámenes Adicionales EN.md",
-    "PublicBrain/Niveles Oficiales EN.md",
-    "Aprender Idioma Inglés.md",
-    "OET (Occupational English Test).md",
-    "TOEIC (Test of English for International Communication).md",
-    "PTE Academic (Pearson Test of English Academic).md",
-    "Cambridge English Exams.md",
-    "IELTS (International English Language Testing System).md",
-    "TOEFL (Test of English as a Foreign Language).md",
+    "Niveles Oficiales ES.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

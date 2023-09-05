@@ -17,7 +17,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * AR | [[Árabe]] | Niveles Oficiales AR | 
 * CA | [[Catalán]] | Niveles Oficiales CA | 
 * EN [[Aprender Idioma Inglés]]
-* ES | [[Español]] | Niveles Oficiales ES | 
+* ES [[Aprender Idioma Español]]
 * GE | [[Alemán]] | Niveles Oficiales GE | 
 * HI | [[Hindi]] | Niveles Oficiales HI | 
 * JP | [[Japonés]] | Niveles Oficiales JP | 

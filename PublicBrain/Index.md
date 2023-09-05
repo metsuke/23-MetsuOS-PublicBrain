@@ -16,9 +16,12 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 
 * AR | [[Árabe]] | Niveles Oficiales AR | 
 * CA [[Aprender Idioma Catalán]]
+* CAV Valenciano | Niveles Oficiales CAV
 * EN [[Aprender Idioma Inglés]]
 * ES [[Aprender Idioma Español]]
+* EU Euskera | Niveles Oficiales EU |
 * GE | [[Alemán]] | Niveles Oficiales GE | 
+* GL | Gallego | Niveles Oficiales GL |
 * HI | [[Hindi]] | Niveles Oficiales HI | 
 * JP | [[Japonés]] | Niveles Oficiales JP | 
 * RO | [[Rumano]] | Niveles Oficiales RO | 

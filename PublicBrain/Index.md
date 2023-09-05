@@ -56,9 +56,11 @@ AR/CA/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALM
 ### Diseño
 
 * [[Aprender sobre Tipografía]]
+
 ### Plena Inclusión
 
 * [[Aprender sobre Accesibilidad]]
+
 ### Productividad
 
 * [[Aprender sobre Gestión de Tareas]]
@@ -128,6 +130,7 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 ### Diseño Interfaz
 
 * [Game UI Database | Welcome](https://gameuidatabase.com/)
+* [Design Principles](https://principles.design/)
 
 ### Feedverse
 

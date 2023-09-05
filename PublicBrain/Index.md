@@ -14,7 +14,16 @@ Procesos algo caóticos de aprendizaje
 
 Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una prioridad diferente y está en una fase distinta del proceso.
 
-[[Alemán]] | [[Árabe]] | [[Catalán]] | [[Chino]] | [[Español]] | [[Hindi]] | [[Inglés]] | [[Japonés]] | [[Rumano]] | [[Swahili]]
+* AR | [[Árabe]] | Niveles Oficiales AR | 
+* CA | [[Catalán]] | Niveles Oficiales CA | 
+* EN [[Aprender Idioma Inglés]]
+* ES | [[Español]] | Niveles Oficiales ES | 
+* GE | [[Alemán]] | Niveles Oficiales GE | 
+* HI | [[Hindi]] | Niveles Oficiales HI | 
+* JP | [[Japonés]] | Niveles Oficiales JP | 
+* RO | [[Rumano]] | Niveles Oficiales RO | 
+* SW | [[Swahili]] | Niveles Oficiales SW | 
+* ZH | [[Chino]] | Niveles Oficiales ZH | 
 
  * [[Estadísticas sobre Idiomas]]
  * [Sistemas de escritura del mundo](https://www.worldswritingsystems.org/)

@@ -6,7 +6,8 @@
 
 - [[¿Qué son las redes informáticas?]]
 - [[Beneficios y usos de las redes]]
-- Tipos de redes: LAN, WAN, MAN, WLAN
+- [[Tipos de redes - LAN, WAN, MAN, WLAN]]
+- [[Otros tipos de redes - PAN, SAN, CAN, GAN, VLAN, VPN]]
 - Componentes básicos de una red: nodos, servidores, clientes, routers, switches
 
 ## **Fundamentos de Comunicación en Redes**

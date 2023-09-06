@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Finanzas Personales.md",
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Finanzas Personales.md",
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Finanzas Personales.md",
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Finanzas Personales.md"
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md"
               }
             }
           }
@@ -152,11 +152,16 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
-    "PublicBrain/Importancia de la educación financiera.md",
-    "PublicBrain/Aprender sobre Finanzas Personales.md",
-    "Importancia de la educación financiera.md",
-    "PublicBrain/Aprender sobre Economía y Finanzas.md",
+    "PublicBrain/Otros tipos de redes - PAN, SAN, CAN, GAN, VLAN, VPN.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "Otros tipos de redes.md",
+    "PublicBrain/Tipos de redes - LAN, WAN, MAN, WLAN.md",
+    "Tipos de redes - LAN, WAN, MAN, WLAN.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Economía y Finanzas.md",
+    "PublicBrain/Aprender sobre Finanzas Personales.md",
+    "PublicBrain/Importancia de la educación financiera.md",
+    "Importancia de la educación financiera.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender Lenguaje Visual Basic.md",
     "PublicBrain/Historia y evolución de Visual Basic, desde VB1 hasta las últimas versiones..md",
@@ -173,11 +178,6 @@
     "PublicBrain/JLPT Business Japanese Proficiency Test (BJT).md",
     "PublicBrain/N1-JP.md",
     "PublicBrain/N2-JP.md",
-    "PublicBrain/N3-JP.md",
-    "PublicBrain/N4-JP.md",
-    "PublicBrain/N5-JP.md",
-    "JLPT Teacher Training Program.md",
-    "Test of Practical Japanese (J.TEST).md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

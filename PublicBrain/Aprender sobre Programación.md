@@ -11,7 +11,7 @@
 * [[Aprender Lenguaje BASIC]]
 	* [[Aprender Lenguaje BASIC en máquinas de 8 y 16bits]]
 	* Aprender sobre mosBASIC en el contexto de MetsukeOS
-* Aorender Lenguaje Visual Basic
+* [[Aprender Lenguaje Visual Basic]]
 * Aprender Lenguaje Ensamblador
 * Aprender Lenguaje COBOL
 * [[Aprender el Lenguaje C desde Cero]]

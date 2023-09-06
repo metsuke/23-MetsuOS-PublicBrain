@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fbe4517ce308eac3",
+        "id": "d83f41fa4917e775",
         "type": "tabs",
         "children": [
           {
-            "id": "6d2c9f3ab5a3b98d",
+            "id": "a1aba7ebdff75542",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender Lenguaje Visual Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender Lenguaje Visual Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender Lenguaje Visual Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender Lenguaje Visual Basic.md"
               }
             }
           }
@@ -150,8 +150,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6d2c9f3ab5a3b98d",
+  "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
+    "PublicBrain/Historia y evolución de Visual Basic, desde VB1 hasta las últimas versiones..md",
+    "PublicBrain/Aprender Lenguaje Visual Basic.md",
+    "Historia y evolución de Visual Basic, desde VB1 hasta las últimas versiones..md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender sobre Mermaid.md",
+    "Aprender Lenguaje Visual Basic.md",
+    "PublicBrain/Aprender Lenguaje BASIC.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/JLPT Teacher Training Program.md",
     "PublicBrain/Test of Practical Japanese (J.TEST).md",
@@ -170,14 +178,6 @@
     "J-Test (Japanese-Language Proficiency Test).md",
     "EJU (Examination for Japanese University Admission for International Students).md",
     "JLPT Business Japanese Proficiency Test (BJT).md",
-    "N1-JP.md",
-    "N2-JP.md",
-    "N3-JP.md",
-    "N4-JP.md",
-    "N5-JP.md",
-    "PublicBrain/Niveles y Exámenes Adicionales JP.md",
-    "PublicBrain/Niveles Oficiales JP.md",
-    "Niveles Oficiales JP.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

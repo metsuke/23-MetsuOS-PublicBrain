@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "PublicBrain/Aprender Idioma Chino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98015c2b263c3a34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "PublicBrain/Promting Database.md",
                 "mode": "source",
                 "source": false
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "PublicBrain/Aprender Idioma Chino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "PublicBrain/Aprender Idioma Chino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Promting Database.md"
+                "file": "PublicBrain/Aprender Idioma Chino.md"
               }
             }
           }
@@ -152,32 +164,32 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
-    "PublicBrain/Index.md",
-    "Promting Database.md",
-    "PublicBrain/Promting Database.md",
-    "PublicBrain/Niveles Oficiales ZH.md",
+    "PublicBrain/HSK5-ZH.md",
+    "PublicBrain/HSK4-ZH.md",
+    "PublicBrain/HSK3-ZH.md",
+    "PublicBrain/HSK2-ZH.md",
     "PublicBrain/Aprender Idioma Chino.md",
+    "PublicBrain/YCT (Youth Chinese Test).md",
+    "PublicBrain/Certificaciones académicas.md",
+    "PublicBrain/Certificados de enseñanza de chino.md",
+    "PublicBrain/Taiwan's TOCFL (Test of Chinese as a Foreign Language).md",
+    "PublicBrain/BCT (Business Chinese Test.md",
+    "PublicBrain/HSKK (Hanyu Shuiping Kouyu Kaochang - Examen de Expresión Oral en Chino).md",
+    "PublicBrain/HSK6-ZH.md",
+    "PublicBrain/HSK1-ZH.md",
+    "PublicBrain/Promting Database.md",
+    "HSK5-ZH.md",
+    "HSK4-ZH.md",
+    "HSK3-ZH.md",
+    "HSK6-ZH.md",
+    "HSK2-ZH.md",
+    "HSK1-ZH.md",
     "PublicBrain/Niveles y Exámenes Adicionales ZH.md",
-    "Niveles y Exámenes Adicionales ZH.md",
-    "Niveles Oficiales ZH.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "Aprender Idioma Chino.md",
-    "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/BabyMetal Death.md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
-    "PublicBrain/junts.md",
-    "PublicBrain/together.md",
-    "PublicBrain/共.md",
-    "PublicBrain/juntos.md",
-    "junts.md",
-    "PublicBrain/Herramientas Ciberseguridad.md",
-    "PublicBrain/Aprender sobre Gestión de Tareas.md",
-    "PublicBrain/Qué es la gestión de tareas.md",
-    "Qué es la gestión de tareas.md",
-    "PublicBrain/Aprender sobre Redes e Internet.md",
-    "PublicBrain/Otros tipos de redes - PAN, SAN, CAN, GAN, VLAN, VPN.md",
-    "Otros tipos de redes.md",
-    "PublicBrain/Tipos de redes - LAN, WAN, MAN, WLAN.md",
+    "PublicBrain/Niveles Oficiales ZH.md",
+    "Certificaciones académicas.md",
+    "Certificados de enseñanza de chino.md",
+    "Taiwan's TOCFL (Test of Chinese as a Foreign Language).md",
+    "YCT (Youth Chinese Test).md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

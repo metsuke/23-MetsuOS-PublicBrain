@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Herramientas Ciberseguridad.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Herramientas Ciberseguridad.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Herramientas Ciberseguridad.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Herramientas Ciberseguridad.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -152,7 +152,16 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "PublicBrain/junts.md",
+    "PublicBrain/together.md",
+    "PublicBrain/共.md",
+    "PublicBrain/juntos.md",
+    "junts.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Herramientas Ciberseguridad.md",
     "PublicBrain/Aprender sobre Gestión de Tareas.md",
     "PublicBrain/Qué es la gestión de tareas.md",
     "Qué es la gestión de tareas.md",
@@ -169,15 +178,6 @@
     "PublicBrain/Aprender Lenguaje Visual Basic.md",
     "PublicBrain/Historia y evolución de Visual Basic, desde VB1 hasta las últimas versiones..md",
     "Historia y evolución de Visual Basic, desde VB1 hasta las últimas versiones..md",
-    "PublicBrain/Aprender sobre Mermaid.md",
-    "Aprender Lenguaje Visual Basic.md",
-    "PublicBrain/Aprender Lenguaje BASIC.md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/JLPT Teacher Training Program.md",
-    "PublicBrain/Test of Practical Japanese (J.TEST).md",
-    "PublicBrain/KEN (Kanken, Kanji Kentei).md",
-    "PublicBrain/J-Test (Japanese-Language Proficiency Test).md",
-    "PublicBrain/EJU (Examination for Japanese University Admission for International Students).md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

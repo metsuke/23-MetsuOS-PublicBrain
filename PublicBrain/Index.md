@@ -1,6 +1,6 @@
 # Index
 
-[[Home]]
+[[Home]] | [[Promting Database]]
 
 ## Aprender con ...
 
@@ -25,8 +25,12 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * HI | [[Hindi]] | Niveles Oficiales HI | 
 * JP [[Aprender Idioma Japones]]
 * RO | [[Rumano]] | Niveles Oficiales RO | 
+* RU | Ruso | Niveles Oficiales RU |
+* SV | Sueco | Niveles Oficiales SV |
 * SW | [[Swahili]] | Niveles Oficiales SW | 
-* ZH | [[Chino]] | Niveles Oficiales ZH | 
+* TH | Tailandés | Niveles Oficiales TH |
+* UK | Ucraniano | Niveles Oficiales UK |
+* ZH [[Aprender Idioma Chino]]
 
  * [[Estadísticas sobre Idiomas]]
  * [Sistemas de escritura del mundo](https://www.worldswritingsystems.org/)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Chino.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Chino.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Chino.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Chino.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           }
@@ -164,11 +164,11 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/HSK5-ZH.md",
     "PublicBrain/HSK4-ZH.md",
     "PublicBrain/HSK3-ZH.md",
     "PublicBrain/HSK2-ZH.md",
-    "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/YCT (Youth Chinese Test).md",
     "PublicBrain/Certificaciones académicas.md",
     "PublicBrain/Certificados de enseñanza de chino.md",

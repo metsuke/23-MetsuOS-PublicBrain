@@ -1,3 +1,4 @@
+`
 # Index
 
 [[Home]] | [[Promting Database]]
@@ -211,6 +212,13 @@ De momento tomo notas, aunque eventualmente quisiera ver como crear un método p
 ### Sistemas de Diseño
 
 * [Explore the Magic of Design Systems | Start Design Systems](https://startdesignsystem.com/)
+
+### Tecnología Cuántica
+
+* Consiguen por primera vez en laboratorio la “superquímica cuántica”, nunca confirmada experimentalmente hasta ahora
+	* 1: [Consiguen por primera vez en laboratorio la “superquímica cuántica”](https://www.elperiodico.com/es/tendencias-21/20230811/primera-vez-laboratorio-superquimica-cuantica-90864300)
+		* VIA ciencia@mastodon.social [https://mastodon.social/@ciencia/110870413024140555](https://mastodon.social/@ciencia/110870413024140555)
+			* PAPER fuente de 1: [Many-body chemical reactions in a quantum degenerate gas](https://www.nature.com/articles/s41567-023-02139-8)
 
 ### UTF
 

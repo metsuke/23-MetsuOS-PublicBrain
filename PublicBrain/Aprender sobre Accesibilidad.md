@@ -1,12 +1,12 @@
 # Aprender sobre Accesibilidad
 
-[[Index]]
+[[Index#Plena Inclusión]]
 
 ## Introducción a la Accesibilidad
 
 * [[¿Qué es la Accesibilidad?]]
 	* [[Definición y concepto de accesibilidad]]
-	* Importancia de la accesibilidad para todas las personas
+	* [[Importancia de la accesibilidad para todas las personas]]
 * Leyes y Normativas
 	* Visión general de leyes y regulaciones sobre accesibilidad
 	* Cumplimiento y repercusiones legales

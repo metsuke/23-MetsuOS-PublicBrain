@@ -1,6 +1,6 @@
 # Aprender sobre Gestión de Tareas
 
-[[Index]]
+[[Index#Productividad]]
 
 ## Introducción a la Gestión de Tareas
 

@@ -28,7 +28,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * RO | [[Rumano]] | Niveles Oficiales RO | 
 * RU | Ruso | Niveles Oficiales RU |
 * SV | Sueco | Niveles Oficiales SV |
-* SW | [[Swahili]] | Niveles Oficiales SW | 
+* SW [[Aprender Idioma Swahili]]
 * TH | Tailandés | Niveles Oficiales TH |
 * UK | Ucraniano | Niveles Oficiales UK |
 * ZH [[Aprender Idioma Chino]]

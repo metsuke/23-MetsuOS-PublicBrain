@@ -7,7 +7,7 @@
    - [[¿Qué es la Inteligencia Artificial?]]
    - [[La Inteligencia Artificial en tanto ciencia]]
    - [[Historia y evolución de la IA]]
-   - Aplicaciones de la IA en la vida cotidiana
+   - [[Aplicaciones de la IA en la vida cotidiana]]
 
 ## Fundamentos de la IA
 

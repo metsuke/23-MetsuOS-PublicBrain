@@ -6,7 +6,7 @@
 
 - [[Conceptos básicos de finanzas]]
 - [[Importancia de la educación financiera]]
-- Objetivos financieros personales
+- [[Objetivos financieros personales]]
 
 ## Presupuesto y Planificación Financiera
 

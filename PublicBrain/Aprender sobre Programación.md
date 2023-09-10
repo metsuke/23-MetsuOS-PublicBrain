@@ -1,3 +1,4 @@
+
 # Aprender sobre Programación
 
 [[Index]]
@@ -13,7 +14,7 @@
 	* Aprender sobre mosBASIC en el contexto de MetsukeOS
 * [[Aprender Lenguaje Visual Basic]]
 * [[Aprender Lenguaje Ensamblador]]
-* Aprender Lenguaje COBOL
+* [[Aprender Lenguaje COBOL]]
 * [[Aprender el Lenguaje C desde Cero]]
 * Aprender Lenguaje C++
 * Aprender Lenguaje C#

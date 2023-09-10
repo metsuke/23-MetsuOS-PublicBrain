@@ -16,7 +16,7 @@
 * [[Aprender Lenguaje Ensamblador]]
 * [[Aprender Lenguaje COBOL]]
 * [[Aprender el Lenguaje C desde Cero]]
-* Aprender Lenguaje C++
+* [[Aprender Lenguaje C++]]
 * Aprender Lenguaje C#
 * Aprender Lenguaje Javascript
 * Aprender Lenguaje Swift

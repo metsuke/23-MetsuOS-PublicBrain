@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Lenguaje COBOL.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Lenguaje COBOL.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Lenguaje COBOL.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Lenguaje COBOL.md"
+                "file": "PublicBrain/Aprender sobre Programación.md"
               }
             }
           }
@@ -164,11 +164,16 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Lenguaje C++.md",
     "PublicBrain/Aprender sobre Programación.md",
-    "Aprender Lenguaje COBOL.md",
-    "PublicBrain/Aprender Lenguaje COBOL.md",
-    "PublicBrain/Aprender Lenguaje BASIC.md",
+    "Aprender Lenguaje C++.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Gestión de Tareas.md",
+    "PublicBrain/To-Do Lists (Listas de tareas).md",
+    "To-Do Lists (Listas de tareas).md",
+    "PublicBrain/Aprender Lenguaje COBOL.md",
+    "Aprender Lenguaje COBOL.md",
+    "PublicBrain/Aprender Lenguaje BASIC.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Aplicaciones de la IA en la vida cotidiana.md",
     "Aplicaciones de la IA en la vida cotidiana.md",
@@ -185,11 +190,6 @@
     "C2-SW.md",
     "B2-SW.md",
     "B1-SW.md",
-    "C1-SW.md",
-    "A2-SW.md",
-    "A1-SW.md",
-    "PublicBrain/Niveles Oficiales SW.md",
-    "Niveles y Exámenes Adicionales SW.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

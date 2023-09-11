@@ -12,7 +12,7 @@
 
 ## **Fundamentos de Comunicación en Redes**
 
-* Protocolos de comunicación
+* [[Protocolos de comunicación en Redes]]
 * Modelos de referencia: OSI y TCP/IP
 * Direcciones IP y su estructura
 * Subredes y enrutamiento básico

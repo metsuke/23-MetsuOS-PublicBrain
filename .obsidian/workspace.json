@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md"
+                "file": "PublicBrain/WCAG 2.0.md"
               }
             }
           }
@@ -164,10 +164,19 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
-    "PublicBrain/Componentes básicos de una red nodos, servidores, clientes, routers, switches.md",
-    "PublicBrain/Aprender sobre Redes e Internet.md",
-    "Componentes básicos de una red nodos, servidores, clientes, routers, switches.md",
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "WCAG 2.1.md",
+    "WCAG 2.0.md",
+    "Legislación sobre accesibilidad aplicable por paises.md",
+    "PublicBrain/Visión general de leyes y regulaciones sobre accesibilidad.md",
     "PublicBrain/Index.md",
+    "Visión general de leyes y regulaciones sobre accesibilidad.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "PublicBrain/Componentes básicos de una red nodos, servidores, clientes, routers, switches.md",
+    "Componentes básicos de una red nodos, servidores, clientes, routers, switches.md",
     "PublicBrain/Aprender sobre Economía y Finanzas.md",
     "PublicBrain/Aprender sobre Finanzas Personales.md",
     "PublicBrain/Objetivos financieros personales.md",
@@ -181,15 +190,6 @@
     "PublicBrain/Nivel Medio Th.md",
     "PublicBrain/Niveles Oficiales TH.md",
     "PublicBrain/Niveles y Exámenes Adicionales TH.md",
-    "Nivel Avanzado TH.md",
-    "Nivel Intermedio TH.md",
-    "Nivel Principiante TH.md",
-    "Niveles y Exámenes Adicionales TH.md",
-    "Niveles Oficiales TH.md",
-    "PublicBrain/Aprender Idioma Swahili.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "Apnreder Idioma Tailandés.md",
-    "PublicBrain/Aprender sobre Programación.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

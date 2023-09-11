@@ -8,7 +8,10 @@
 	* [[Definición y concepto de accesibilidad]]
 	* [[Importancia de la accesibilidad para todas las personas]]
 * Leyes y Normativas
-	* Visión general de leyes y regulaciones sobre accesibilidad
+	* [[Visión general de leyes y regulaciones sobre accesibilidad]]
+	* [[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas]]
+		* [[WCAG 2.0]]
+		* [[WCAG 2.1]]
 	* Cumplimiento y repercusiones legales
 * Beneficios de la Accesibilidad
 	* Ventajas para usuarios y organizaciones

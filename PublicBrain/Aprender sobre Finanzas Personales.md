@@ -10,7 +10,7 @@
 
 ## Presupuesto y Planificación Financiera
 
-- Creación de un presupuesto personal
+- [[Creación de un presupuesto personal]]
 - Seguimiento de gastos y control del dinero
 - Planificación a corto y largo plazo
 

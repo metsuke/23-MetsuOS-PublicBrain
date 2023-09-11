@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Aprender sobre Finanzas Personales.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Aprender sobre Finanzas Personales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Aprender sobre Finanzas Personales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
+                "file": "PublicBrain/Aprender sobre Finanzas Personales.md"
               }
             }
           }
@@ -164,12 +164,15 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
-    "PublicBrain/Conceptos básicos sobre Machine Learning.md",
+    "Creación de un presupuesto personal.md",
+    "PublicBrain/Aprender sobre Finanzas Personales.md",
+    "PublicBrain/Aprender sobre Economía y Finanzas.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Conceptos básicos sobre Machine Learning.md",
     "PublicBrain/Aprendizaje automático (Machine Learning).md",
     "Conceptos básicos sobre Machine Learning.md",
     "Aprendizaje automático (Machine Learning).md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
     "PublicBrain/WCAG 2.0.md",
@@ -182,14 +185,11 @@
     "PublicBrain/Aprender sobre Redes e Internet.md",
     "PublicBrain/Componentes básicos de una red nodos, servidores, clientes, routers, switches.md",
     "Componentes básicos de una red nodos, servidores, clientes, routers, switches.md",
-    "PublicBrain/Aprender sobre Economía y Finanzas.md",
-    "PublicBrain/Aprender sobre Finanzas Personales.md",
     "PublicBrain/Objetivos financieros personales.md",
     "Objetivos financieros personales.md",
     "PublicBrain/Apnreder Idioma Tailandés.md",
     "PublicBrain/Nivel Avanzado TH.md",
     "PublicBrain/Nivel Intermedio TH.md",
-    "PublicBrain/Nivel Principiante TH.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

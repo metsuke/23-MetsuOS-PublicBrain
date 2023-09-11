@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md"
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
               }
             }
           }
@@ -164,15 +164,20 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
-    "PublicBrain/WCAG 2.1.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
+    "PublicBrain/Conceptos básicos sobre Machine Learning.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Aprendizaje automático (Machine Learning).md",
+    "Conceptos básicos sobre Machine Learning.md",
+    "Aprendizaje automático (Machine Learning).md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/WCAG 2.1.md",
     "WCAG 2.1.md",
     "WCAG 2.0.md",
     "Legislación sobre accesibilidad aplicable por paises.md",
     "PublicBrain/Visión general de leyes y regulaciones sobre accesibilidad.md",
-    "PublicBrain/Index.md",
     "Visión general de leyes y regulaciones sobre accesibilidad.md",
     "PublicBrain/Aprender sobre Redes e Internet.md",
     "PublicBrain/Componentes básicos de una red nodos, servidores, clientes, routers, switches.md",
@@ -185,11 +190,6 @@
     "PublicBrain/Nivel Avanzado TH.md",
     "PublicBrain/Nivel Intermedio TH.md",
     "PublicBrain/Nivel Principiante TH.md",
-    "PublicBrain/Promting Database.md",
-    "Nivel Medio Th.md",
-    "PublicBrain/Nivel Medio Th.md",
-    "PublicBrain/Niveles Oficiales TH.md",
-    "PublicBrain/Niveles y Exámenes Adicionales TH.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

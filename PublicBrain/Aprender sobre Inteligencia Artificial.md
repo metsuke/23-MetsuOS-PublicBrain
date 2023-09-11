@@ -11,14 +11,14 @@
 
 ## Fundamentos de la IA
 
-- Aprendizaje automático (Machine Learning)
-  - Conceptos básicos
-  - Tipos de aprendizaje automático (supervisado, no supervisado, reforzado)
-  - Algoritmos de aprendizaje automático (regresión, clasificación, clustering)
+- [[Aprendizaje automático (Machine Learning)]]
+	- [[Conceptos básicos sobre Machine Learning]]
+	- Tipos de aprendizaje automático (supervisado, no supervisado, reforzado)
+	- Algoritmos de aprendizaje automático (regresión, clasificación, clustering)
 - [[Redes Neuronales Artificiales]]
-  - Estructura y funcionamiento
-  - Entrenamiento de redes neuronales
-  - Aplicaciones de redes neuronales profundas (Deep Learning)
+	- Estructura y funcionamiento de las  redes neuronales
+	- Entrenamiento de redes neuronales
+	- Aplicaciones de redes neuronales profundas (Deep Learning)
 
 ## Lenguajes y Herramientas de Programación en IA
 

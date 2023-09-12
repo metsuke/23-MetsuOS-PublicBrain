@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md"
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
               }
             }
           }
@@ -164,15 +164,17 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
-    "PublicBrain/Protocolos de comunicación en Redes.md",
-    "PublicBrain/Aprender sobre Redes e Internet.md",
-    "Protocolos de comunicación en Redes.md",
+    "PublicBrain/Tipos de aprendizaje automático (supervisado, no supervisado, reforzado).md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "Tipos de aprendizaje automático (supervisado, no supervisado, reforzado).md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "PublicBrain/Protocolos de comunicación en Redes.md",
+    "Protocolos de comunicación en Redes.md",
     "PublicBrain/Aprender sobre Economía y Finanzas.md",
     "PublicBrain/Aprender sobre Finanzas Personales.md",
     "PublicBrain/Creación de un presupuesto personal.md",
     "Creación de un presupuesto personal.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Conceptos básicos sobre Machine Learning.md",
     "PublicBrain/Aprendizaje automático (Machine Learning).md",
     "Conceptos básicos sobre Machine Learning.md",
@@ -188,8 +190,6 @@
     "Visión general de leyes y regulaciones sobre accesibilidad.md",
     "PublicBrain/Componentes básicos de una red nodos, servidores, clientes, routers, switches.md",
     "Componentes básicos de una red nodos, servidores, clientes, routers, switches.md",
-    "PublicBrain/Objetivos financieros personales.md",
-    "Objetivos financieros personales.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

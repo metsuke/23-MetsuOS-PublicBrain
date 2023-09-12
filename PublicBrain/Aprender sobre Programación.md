@@ -17,9 +17,9 @@
 * [[Aprender Lenguaje COBOL]]
 * [[Aprender el Lenguaje C desde Cero]]
 * [[Aprender Lenguaje C++]]
-* Aprender Lenguaje C#
+* [[Aprender Lenguaje CSharp]]
 * Aprender Lenguaje Javascript
-* Aprender Lenguaje Swift
+* Aprender Lenguaje Swift 
 * Aprender Lenguaje Python
 * Aprender Lenguaje GO
 * Aprender Lenguaje RUST

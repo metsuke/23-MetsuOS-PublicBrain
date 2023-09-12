@@ -18,7 +18,7 @@
 * [[Aprender el Lenguaje C desde Cero]]
 * [[Aprender Lenguaje C++]]
 * [[Aprender Lenguaje CSharp]]
-* Aprender Lenguaje Javascript
+* [[Aprender Lenguaje Javascript]]
 * Aprender Lenguaje Swift 
 * Aprender Lenguaje Python
 * Aprender Lenguaje GO

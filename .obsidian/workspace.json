@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/El Cubo de MetsukeOS.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/El Cubo de MetsukeOS.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/El Cubo de MetsukeOS.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/El Cubo de MetsukeOS.md"
+                "file": "PublicBrain/Aprender sobre Programación.md"
               }
             }
           }
@@ -176,15 +176,22 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
-    "PublicBrain/Métodos de Gestión de Tareas con papel y lápiz.md",
+    "PublicBrain/Aprender Lenguaje Javascript.md",
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "Aprender Lenguaje Javascript.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
+    "PublicBrain/Aprender sobre Storytelling.md",
+    "PublicBrain/Definición de Storytelling.md",
+    "Definición de Storytelling.md",
     "PublicBrain/Aprender sobre Gestión de Tareas.md",
     "PublicBrain/El Cubo de MetsukeOS.md",
+    "PublicBrain/Métodos de Gestión de Tareas con papel y lápiz.md",
     "El Cubo de MetsukeOS.md",
-    "PublicBrain/Index.md",
     "Métodos de Gestión de Tareas con papel y lápiz.md",
-    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender Lenguaje CSharp.md",
-    "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender Lenguaje C.md",
     "Aprender Lenguaje C.md",
     "PublicBrain/Aprender Lenguaje C-1.md",
@@ -195,13 +202,6 @@
     "PublicBrain/Aprender sobre Redes e Internet.md",
     "PublicBrain/Protocolos de comunicación en Redes.md",
     "Protocolos de comunicación en Redes.md",
-    "PublicBrain/Aprender sobre Economía y Finanzas.md",
-    "PublicBrain/Aprender sobre Finanzas Personales.md",
-    "PublicBrain/Creación de un presupuesto personal.md",
-    "Creación de un presupuesto personal.md",
-    "PublicBrain/Conceptos básicos sobre Machine Learning.md",
-    "PublicBrain/Aprendizaje automático (Machine Learning).md",
-    "Conceptos básicos sobre Machine Learning.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

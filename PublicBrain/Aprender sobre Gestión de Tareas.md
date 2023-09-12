@@ -10,7 +10,7 @@
 ## Métodos Tradicionales de Gestión de Tareas
 
 - [[To-Do Lists (Listas de tareas)]]
-- Métodos de papel y lápiz
+- [[Métodos de Gestión de Tareas con papel y lápiz]]
 - Herramientas de oficina
 
 ## Gestión de Tareas Digital
@@ -135,6 +135,7 @@
 ## Técnica de Gestión de Tareas en MetsukeOS
 
 - Filosofía de la Gestión de Tareas en MetsukeOS
+- [[El Cubo de MetsukeOS]]
 - Diferencia entre Proyecto y Área
 - Recurrencia mediante números primos
 - Absorción de desvíos

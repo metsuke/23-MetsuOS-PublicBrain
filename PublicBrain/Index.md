@@ -15,7 +15,7 @@ Procesos algo caóticos de aprendizaje
 
 Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una prioridad diferente y está en una fase distinta del proceso.
 
-* AR | [[Árabe]] | Niveles Oficiales AR | 
+* AR [[Aprender Idioma Árabe]]
 * CA [[Aprender Idioma Catalán]]
 * CAV Valenciano | Niveles Oficiales CAV
 * EN [[Aprender Idioma Inglés]]

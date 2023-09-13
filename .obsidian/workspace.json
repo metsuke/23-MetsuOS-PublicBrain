@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender Idioma Árabe.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,17 +80,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "a252a3cd69e817c1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender Idioma Árabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender Idioma Árabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md"
+                "file": "PublicBrain/Aprender Idioma Árabe.md"
+              }
+            }
+          },
+          {
+            "id": "715cb41a11e052bd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -170,38 +172,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "obsidian-importer:Open Importer": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
-    "PublicBrain/Aprender Lenguaje Javascript.md",
+    "PublicBrain/Niveles AR en el Mercado Laboral.md",
+    "PublicBrain/Aprender Idioma Árabe.md",
+    "PublicBrain/Niveles AR en Instituciones Educativas.md",
+    "Examen de Lengua Árabe del Instituto del Mundo Árabe.md",
+    "PublicBrain/ALPT3-AR.md",
+    "PublicBrain/ALPT2-AR.md",
+    "PublicBrain/ALPT1-AR.md",
+    "PublicBrain/A2-AR.md",
+    "PublicBrain/C2-AR.md",
+    "PublicBrain/C1-AR.md",
+    "PublicBrain/B2-AR.md",
+    "PublicBrain/B1-AR.md",
     "PublicBrain/Promting Database.md",
+    "PublicBrain/A1-AR.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "Aprender Lenguaje Javascript.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/Aprender sobre Storytelling.md",
-    "PublicBrain/Definición de Storytelling.md",
-    "Definición de Storytelling.md",
-    "PublicBrain/Aprender sobre Gestión de Tareas.md",
-    "PublicBrain/El Cubo de MetsukeOS.md",
-    "PublicBrain/Métodos de Gestión de Tareas con papel y lápiz.md",
-    "El Cubo de MetsukeOS.md",
-    "Métodos de Gestión de Tareas con papel y lápiz.md",
-    "PublicBrain/Aprender Lenguaje CSharp.md",
-    "PublicBrain/Aprender Lenguaje C.md",
-    "Aprender Lenguaje C.md",
-    "PublicBrain/Aprender Lenguaje C-1.md",
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Tipos de aprendizaje automático (supervisado, no supervisado, reforzado).md",
-    "Tipos de aprendizaje automático (supervisado, no supervisado, reforzado).md",
-    "PublicBrain/Aprender sobre Redes e Internet.md",
-    "PublicBrain/Protocolos de comunicación en Redes.md",
-    "Protocolos de comunicación en Redes.md",
+    "PublicBrain/Niveles Oficiales AR.md",
+    "PublicBrain/Niveles y Exámenes Adicionales AR.md",
+    "Index.md",
+    "Niveles Oficiales AR.md",
+    "Niveles y Exámenes Adicionales AR.md",
+    "Aprender Idioma Árabe.md",
+    "Niveles AR en el Mercado Laboral.md",
+    "Niveles AR en Instituciones Educativas.md",
+    "ALPT3-AR.md",
+    "ALPT2-AR.md",
+    "ALPT1-AR.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

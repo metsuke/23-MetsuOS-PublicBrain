@@ -11,7 +11,7 @@
 
 - [[To-Do Lists (Listas de tareas)]]
 - [[Métodos de Gestión de Tareas con papel y lápiz]]
-- Herramientas de oficina
+- [[Herramientas de oficina para gestión de tareas]]
 
 ## Gestión de Tareas Digital
 

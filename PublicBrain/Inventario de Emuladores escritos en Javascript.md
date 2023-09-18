@@ -28,8 +28,8 @@ En esta sección caracterizo y clasifico diferentes emuladores realizados en Jav
 
 - [Apple 1js](https://www.scullinsteel.com/apple1/) - by Will Scullin
 - [Apple2e](https://inindev.github.io/apple2e/) - Apple IIe emulator by John Clark ([Source](https://github.com/inindev/apple2e))
-- [Apple IIjs](https://www.scullinsteel.com/apple2/) - An Apple ][ Emulator in JavaScript
-- [a2](https://porkrind.org/a2/) - A fast, WebGL optimized Apple ][+ emulator
+- [Apple IIs](https://www.scullinsteel.com/apple2/) - An Apple II Emulator in JavaScript
+- [a2](https://porkrind.org/a2/) - A fast, WebGL optimized Apple II+ emulator
 - [Apple2JS](https://github.com/gmegidish/apple2js) - A JavaScript emulator for the Apple II
 - [BasiliskII](https://github.com/jsdf/macemu) - An Emscripten Port of BasiliskII ([Demo 1](https://jamesfriend.com.au/projects/basiliskii/BasiliskII-worker.html), [Demo 2](http://macintosh-js-html.herokuapp.com/))
 - [MiniVMac-Em](https://github.com/yksoft1/minivmac-em) - An Emscripten Port of MiniVMac ([Demo](https://yksoft1.github.io/mvmacdemo.html))
@@ -330,4 +330,5 @@ En esta sección caracterizo y clasifico diferentes emuladores realizados en Jav
 ---
 ## Bibliografía
 
+* [Página del proyecto donde probarlos](https://emulatorjs.netlify.app/)
 * [Listado de Frederic Cambus](https://github.com/fcambus/jsemu#readme-ov-file) - Desde aquí quiero agradecerle a Frederic en especial, dado que su proyecto es inspiración y base de la lista de emuladores a evaluar, estudiar e inventariar de la que parte esta sección de mi Public Brain.

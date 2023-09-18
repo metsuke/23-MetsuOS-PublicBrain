@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md"
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
               }
             }
           },
@@ -174,12 +174,15 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
-    "PublicBrain/Aprender Lenguaje Swift.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Promting Database.md",
-    "Aprender Lenguaje Swift.md",
-    "PublicBrain/Index.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Promting Database.md",
+    "Estructura y funcionamiento de las  redes neuronales.md",
+    "PublicBrain/Redes Neuronales Artificiales.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender Lenguaje Swift.md",
+    "Aprender Lenguaje Swift.md",
     "PublicBrain/Algoritmos de aprendizaje automático (regresión, clasificación, clustering).md",
     "Algoritmos de aprendizaje automático (regresión, clasificación, clustering).md",
     "PublicBrain/testMOVER.md",
@@ -197,9 +200,6 @@
     "PublicBrain/C1-AR.md",
     "PublicBrain/B2-AR.md",
     "PublicBrain/B1-AR.md",
-    "PublicBrain/A1-AR.md",
-    "PublicBrain/Niveles Oficiales AR.md",
-    "PublicBrain/Niveles y Exámenes Adicionales AR.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

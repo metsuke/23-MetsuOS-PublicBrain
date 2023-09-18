@@ -1,4 +1,5 @@
 # Aprender sobre Inteligencia Artificial
+a.# Aprender sobre Inteligencia Artificial
 
 [[Index]]
 
@@ -16,7 +17,7 @@
 	- [[Tipos de aprendizaje automático (supervisado, no supervisado, reforzado)]]
 	- [[Algoritmos de aprendizaje automático (regresión, clasificación, clustering)]]
 - [[Redes Neuronales Artificiales]]
-	- Estructura y funcionamiento de las  redes neuronales
+	- [[Estructura y funcionamiento de las  redes neuronales]]
 	- Entrenamiento de redes neuronales
 	- Aplicaciones de redes neuronales profundas (Deep Learning)
 
@@ -88,11 +89,21 @@
 - Certificaciones en IA
 - Perfil del profesional en IA
 
-## Inteligencia Artificial Progresiva (MetsukeOS)
+## Inteligencia Artificial Multimodal Progresiva (MetsukeOS)
 
-* ¿Qué es Inteligencia Artificial Progresiva?
-* --- DESARROLLAR ---
+* ¿Qué es Inteligencia Artificial Multimodal Progresiva?
+	* Modelo de Niveles en AMP-AI
+	* Consideraciones sobre Accesibilidad (a11y)
+	* Consideraciones sobre consumo energético
+	* Consideraciones sobre el control de la IA
+	* Consideraciones sobre la simbiosis entre IA y Humano
+		*  AMP-AI como copiloto del cerebro humano
+
 * Implementación de Redes Neuronales en Python
 	* Implementación de Redes Neuronales en Python + numpy
 	* Implementación de Redes Neuronales en Python + Keras
+	* Implementación de Redes Neuronales en Python + Pytorch
+
+* Implementación de AMP-AI en Python
+
 

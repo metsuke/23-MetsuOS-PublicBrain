@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcc26fb85051040d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Promting Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Inventario de Emuladores escritos en Javascript.md"
+                "file": "PublicBrain/Aprender sobre Programación.md"
               }
             }
           },
@@ -162,14 +173,20 @@
   },
   "active": "98015c2b263c3a34",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Aprender Lenguaje Python.md",
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Index.md",
+    "PublicBrain/IA Tools Database.md",
+    "PublicBrain/Aprender Lenguaje Swift.md",
+    "Aprender Lenguaje Python.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
     "PublicBrain/Aprender sobre Gestión de Tareas.md",
     "PublicBrain/Herramientas de oficina para gestión de tareas.md",
     "Herramientas de oficina para gestión de tareas.md",
     "PublicBrain/El Cubo de MetsukeOS.md",
     "PublicBrain/Métodos de Gestión de Tareas con papel y lápiz.md",
-    "PublicBrain/Promting Database.md",
     "PublicBrain/Introducción a WCAG 2.1.md",
     "PublicBrain/WCAG 2.1.md",
     "PublicBrain/Principios de Accesibilidad.md",
@@ -182,12 +199,6 @@
     "Introducción a WCAG 2.0.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "Estructura y funcionamiento de las  redes neuronales.md",
-    "PublicBrain/Redes Neuronales Artificiales.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender Lenguaje Swift.md",
-    "Aprender Lenguaje Swift.md",
-    "PublicBrain/Algoritmos de aprendizaje automático (regresión, clasificación, clustering).md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

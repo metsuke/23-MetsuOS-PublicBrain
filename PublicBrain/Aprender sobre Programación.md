@@ -20,7 +20,7 @@
 * [[Aprender Lenguaje CSharp]]
 * [[Aprender Lenguaje Javascript]]
 * [[Aprender Lenguaje Swift ]]
-* Aprender Lenguaje Python
+* [[Aprender Lenguaje Python]]
 * Aprender Lenguaje GO
 * Aprender Lenguaje RUST
 * Aprender Lenguaje MPL | [[MPL (Metsuke Programming Languaje)]]3

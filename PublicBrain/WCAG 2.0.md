@@ -9,14 +9,14 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
 
 **Índice de WCAG 2.0:**
 
-1. **Introducción**
+1. **[[Introducción a WCAG 2.0]]**
     - Objetivo de WCAG 2.0
     - Cómo utilizar WCAG 2.0
-2. **Principios de Accesibilidad**
-    - Perceptibilidad
-    - Operabilidad
-    - Comprensibilidad
-    - Robustez
+2. [[Principios de Accesibilidad]]
+    - Perceptible
+    - Operable
+    - Comprensible
+    - Robusto
 3. **Pautas de Accesibilidad**
     - **Pauta 1: Texto Alternativo**
         - 1.1 Texto Alternativo

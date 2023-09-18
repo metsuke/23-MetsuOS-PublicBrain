@@ -8,14 +8,14 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
 
 **Índice de WCAG 2.1 con Mejoras Destacadas:**
 
-1. **Introducción a WCAG 2.1**
+1. [[Introducción a WCAG 2.1]]
     - Objetivo de WCAG 2.1
     - Cómo utilizar WCAG 2.1
-2. **Principios de Accesibilidad**
-    - Perceptibilidad
-    - Operabilidad
-    - Comprensibilidad
-    - Robustez
+2. [[Principios de Accesibilidad]]
+    - Perceptible
+    - Operable
+    - Comprensible
+    - Robusto
 3. **Pautas de Accesibilidad**
     - **Pauta 1. Texto Alternativo (Mejora)**
         - 1.1.1 Texto Alternativo

@@ -60,3 +60,5 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
     
 
 Estas mejoras en WCAG 2.1 amplían la accesibilidad web para un público más diverso y hacen que las pautas sean más relevantes en el entorno digital actual, que incluye dispositivos móviles y aplicaciones en constante evolución. Es importante para los desarrolladores y diseñadores web familiarizarse con estas mejoras para garantizar que sus sitios sean accesibles para una audiencia más amplia.
+
+[[Español]]

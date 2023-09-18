@@ -67,3 +67,5 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
     - Recursos Adicionales
 
 WCAG 2.0 es una guía exhaustiva que detalla cómo crear contenido web accesible, y está diseñada para ser utilizada por diseñadores web, desarrolladores, evaluadores y otras partes interesadas en la accesibilidad web. Cada pauta y criterio se describe en detalle para garantizar que el contenido web sea perceptible, operable, comprensible y robusto para todos los usuarios, independientemente de sus discapacidades. La conformidad con WCAG 2.0 se mide en tres niveles: A, AA y AAA, con AAA siendo el nivel más alto de accesibilidad.
+
+[[Español]]

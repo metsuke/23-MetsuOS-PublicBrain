@@ -2,12 +2,12 @@
 
 [[Aprender sobre Accesibilidad]]] | [[WCAG 2.0]] | [[WCAG 2.1]]
 
-| Principio de Accesibilidad | Versiones de WCAG |
-|---------------------------|-------------------|
-| Perceptible                | WCAG 2.0, WCAG 2.1 |
-| Operable                  | WCAG 2.0, WCAG 2.1 |
-| Comprensible              | WCAG 2.0, WCAG 2.1 |
-| Robusto                   | WCAG 2.0, WCAG 2.1 |
+| Principio de Accesibilidad (ES) | Versiones de WCAG | CA        | EN        | JA       |
+|---------------------------|-------------------|----------------|---------------|---------------|
+| Perceptible                | WCAG 2.0, WCAG 2.1 | Perceptible     | Perceivable   | 察知可能        |
+| Operable                  | WCAG 2.0, WCAG 2.1 | Operable        | Operable      | 操作可能        |
+| Comprensible              | WCAG 2.0, WCAG 2.1 | Comprensible    | Understandable | 理解可能        |
+| Robusto                   | WCAG 2.0, WCAG 2.1 | Robust          | Robust        | 頑健性          |
 
 ## Principios en WCAG 2.1
 
@@ -37,3 +37,5 @@ WCAG 2.0 se basa en cuatro principios fundamentales, conocidos como el acrónimo
 - **Robusto:** El contenido debe ser compatible con una amplia variedad de tecnologías y navegadores, para garantizar que sea accesible en diferentes entornos.
 
 A lo largo de esta documentación, exploraremos en detalle cómo aplicar estos principios y cumplir con las directrices de WCAG 2.0 para crear contenido web accesible.
+
+[[Español]]

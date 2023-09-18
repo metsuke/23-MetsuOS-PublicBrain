@@ -1,6 +1,6 @@
 # Introducción a WCAG 2.1
 
- [[WCAG 2.1]]
+[[WCAG 2.1]]
 
 Las **Web Content Accessibility Guidelines (WCAG)**, o Pautas de Accesibilidad para el Contenido Web, son un conjunto de directrices desarrollado por el **World Wide Web Consortium (W3C)** con el propósito de mejorar la accesibilidad de los sitios web y aplicaciones web para todas las personas, independientemente de sus discapacidades. La versión 2.1 de WCAG, lanzada después de la versión 2.0, se centra en abordar aún más desafíos de accesibilidad y mejorar la experiencia en línea para una audiencia más amplia.
 
@@ -15,3 +15,5 @@ La accesibilidad web 2.1 es una extensión importante de la versión 2.0 de WCAG
 - **Atención a las Discapacidades Cognitivas y de Aprendizaje:** La versión 2.1 se enfoca en abordar las necesidades de personas con discapacidades cognitivas y de aprendizaje, lo que incluye proporcionar un lenguaje claro y funcionalidades más intuitivas.
     
 - **Mayor Énfasis en la Accesibilidad Móvil:** Con la creciente importancia de las aplicaciones móviles, WCAG 2.1 se asegura de que estas aplicaciones también sean accesibles para todos los usuarios.
+
+[[Español]]

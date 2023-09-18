@@ -15,3 +15,5 @@ La accesibilidad web es un aspecto fundamental del diseño y desarrollo web por 
 - **Mejora de la Experiencia del Usuario:** La accesibilidad no solo beneficia a las personas con discapacidades, sino que también mejora la experiencia para todos los usuarios al proporcionar contenido más claro y fácil de usar.
     
 - **Ampliación del Alcance:** Al hacer que tu sitio web sea accesible, aumentas la audiencia potencial, ya que llegas a una gama más amplia de usuarios.
+
+[[Español]]

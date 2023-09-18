@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1aba7ebdff75542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Principios de Accesibilidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "98015c2b263c3a34",
             "type": "leaf",
             "state": {
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Principios de Accesibilidad.md",
+                "file": "PublicBrain/Promting Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Principios de Accesibilidad.md",
+                "file": "PublicBrain/Promting Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Principios de Accesibilidad.md"
+                "file": "PublicBrain/Promting Database.md"
               }
             }
           },
@@ -172,17 +160,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a1aba7ebdff75542",
+  "active": "98015c2b263c3a34",
   "lastOpenFiles": [
-    "PublicBrain/WCAG 2.1.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Principios de Accesibilidad.md",
     "PublicBrain/Introducción a WCAG 2.1.md",
-    "Introducción a WCAG 2.1.md",
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/Principios de Accesibilidad.md",
+    "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Introducción a WCAG 2.0.md",
+    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "Introducción a WCAG 2.1.md",
     "Principios de Accesibilidad.md",
     "Introducción a WCAG 2.0.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
@@ -199,7 +188,6 @@
     "README copia.md",
     "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/Niveles AR en el Mercado Laboral.md",
-    "PublicBrain/Niveles AR en Instituciones Educativas.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

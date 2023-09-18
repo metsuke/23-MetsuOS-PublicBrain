@@ -14,7 +14,7 @@
 - [[Aprendizaje automático (Machine Learning)]]
 	- [[Conceptos básicos sobre Machine Learning]]
 	- [[Tipos de aprendizaje automático (supervisado, no supervisado, reforzado)]]
-	- Algoritmos de aprendizaje automático (regresión, clasificación, clustering)
+	- [[Algoritmos de aprendizaje automático (regresión, clasificación, clustering)]]
 - [[Redes Neuronales Artificiales]]
 	- Estructura y funcionamiento de las  redes neuronales
 	- Entrenamiento de redes neuronales

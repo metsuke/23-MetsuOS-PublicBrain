@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,6 +80,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "1587061ebff276d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -102,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md"
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
               }
             }
           },
@@ -165,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,14 +181,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-importer:Open Importer": false
     }
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
-    "PublicBrain/Niveles AR en el Mercado Laboral.md",
+    "PublicBrain/Algoritmos de aprendizaje automático (regresión, clasificación, clustering).md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "Algoritmos de aprendizaje automático (regresión, clasificación, clustering).md",
+    "PublicBrain/Index.md",
+    "PublicBrain/testMOVER.md",
+    "testMOVER.md",
+    "README copia.md",
     "PublicBrain/Aprender Idioma Árabe.md",
+    "PublicBrain/Niveles AR en el Mercado Laboral.md",
     "PublicBrain/Niveles AR en Instituciones Educativas.md",
     "Examen de Lengua Árabe del Instituto del Mundo Árabe.md",
     "PublicBrain/ALPT3-AR.md",
@@ -192,18 +207,11 @@
     "PublicBrain/B1-AR.md",
     "PublicBrain/Promting Database.md",
     "PublicBrain/A1-AR.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Niveles Oficiales AR.md",
     "PublicBrain/Niveles y Exámenes Adicionales AR.md",
     "Index.md",
     "Niveles Oficiales AR.md",
     "Niveles y Exámenes Adicionales AR.md",
-    "Aprender Idioma Árabe.md",
-    "Niveles AR en el Mercado Laboral.md",
-    "Niveles AR en Instituciones Educativas.md",
-    "ALPT3-AR.md",
-    "ALPT2-AR.md",
-    "ALPT1-AR.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

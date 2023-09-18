@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "717a95e666ff72aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender Lenguaje Swift.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Aprender Lenguaje Swift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Aprender Lenguaje Swift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
+                "file": "PublicBrain/Aprender Lenguaje Swift.md"
               }
             }
           },
@@ -186,10 +174,14 @@
   },
   "active": "a1aba7ebdff75542",
   "lastOpenFiles": [
-    "PublicBrain/Algoritmos de aprendizaje automático (regresión, clasificación, clustering).md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "Algoritmos de aprendizaje automático (regresión, clasificación, clustering).md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Aprender Lenguaje Swift.md",
+    "Aprender Lenguaje Swift.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Algoritmos de aprendizaje automático (regresión, clasificación, clustering).md",
+    "Algoritmos de aprendizaje automático (regresión, clasificación, clustering).md",
     "PublicBrain/testMOVER.md",
     "testMOVER.md",
     "README copia.md",
@@ -205,13 +197,9 @@
     "PublicBrain/C1-AR.md",
     "PublicBrain/B2-AR.md",
     "PublicBrain/B1-AR.md",
-    "PublicBrain/Promting Database.md",
     "PublicBrain/A1-AR.md",
     "PublicBrain/Niveles Oficiales AR.md",
     "PublicBrain/Niveles y Exámenes Adicionales AR.md",
-    "Index.md",
-    "Niveles Oficiales AR.md",
-    "Niveles y Exámenes Adicionales AR.md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

@@ -22,7 +22,7 @@
 * [[Aprender Lenguaje Swift ]]
 * [[Aprender Lenguaje Python]]
 * [[Aprender Lenguaje GO]]
-* Aprender Lenguaje RUST
+* [[Aprender Lenguaje RUST]]
 * Aprender Lenguaje MPL | [[MPL (Metsuke Programming Languaje)]]3
 
 ## Librarías y Frameworks

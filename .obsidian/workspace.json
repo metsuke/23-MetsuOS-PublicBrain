@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender Lenguaje RUST.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender Lenguaje RUST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender Lenguaje RUST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md"
+                "file": "PublicBrain/Aprender Lenguaje RUST.md"
               }
             }
           },
@@ -174,9 +174,11 @@
   },
   "active": "bcc26fb85051040d",
   "lastOpenFiles": [
-    "PublicBrain/Aprender Lenguaje GO.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Promting Database.md",
+    "Aprender Lenguaje RUST.md",
+    "PublicBrain/Aprender Lenguaje RUST.md",
+    "PublicBrain/Aprender Lenguaje GO.md",
     "Aprender Lenguaje GO.md",
     "PublicBrain/Aprender Lenguaje Python.md",
     "PublicBrain/Index.md",
@@ -198,8 +200,6 @@
     "Examen de Certificación de la Universidad Estatal de San Petersburgo (SPbU).md",
     "Examen de Certificación de la Universidad Estatal de Moscú (MSU).md",
     "Examen de Ruso como Lengua Extranjera (EGE).md",
-    "Examen de Certificación del Sistema Estatal de Evaluación del Idioma Ruso (TORFL).md",
-    "Examen de Certificación del Instituto Pushkin (TRKI).md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

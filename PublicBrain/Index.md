@@ -26,7 +26,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * HI | [[Hindi]] | Niveles Oficiales HI | 
 * JP [[Aprender Idioma Japones]]
 * RO | [[Rumano]] | Niveles Oficiales RO | 
-* RU | Ruso | Niveles Oficiales RU |
+* RU [[Aprender Idioma Ruso]]
 * SV | Sueco | Niveles Oficiales SV |
 * SW [[Aprender Idioma Swahili]]
 * TH [[Apnreder Idioma Tailandés]]

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98015c2b263c3a34",
+            "id": "bcc26fb85051040d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "bcc26fb85051040d",
+            "id": "e83dc00694f77ba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,34 +172,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "98015c2b263c3a34",
+  "active": "bcc26fb85051040d",
   "lastOpenFiles": [
-    "PublicBrain/Aprender Lenguaje Python.md",
-    "PublicBrain/Promting Database.md",
+    "PublicBrain/Aprender Lenguaje GO.md",
     "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Promting Database.md",
+    "Aprender Lenguaje GO.md",
+    "PublicBrain/Aprender Lenguaje Python.md",
     "PublicBrain/Index.md",
-    "PublicBrain/IA Tools Database.md",
-    "PublicBrain/Aprender Lenguaje Swift.md",
-    "Aprender Lenguaje Python.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Inventario de Emuladores escritos en Javascript.md",
-    "PublicBrain/Aprender sobre Gestión de Tareas.md",
-    "PublicBrain/Herramientas de oficina para gestión de tareas.md",
-    "Herramientas de oficina para gestión de tareas.md",
-    "PublicBrain/El Cubo de MetsukeOS.md",
-    "PublicBrain/Métodos de Gestión de Tareas con papel y lápiz.md",
-    "PublicBrain/Introducción a WCAG 2.1.md",
-    "PublicBrain/WCAG 2.1.md",
-    "PublicBrain/Principios de Accesibilidad.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Introducción a WCAG 2.0.md",
-    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "Introducción a WCAG 2.1.md",
-    "Principios de Accesibilidad.md",
-    "Introducción a WCAG 2.0.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Home.md",
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/KEN (Kanken, Kanji Kentei).md",
+    "PublicBrain/Aprender Idioma Ruso.md",
+    "PublicBrain/A1-RU.md",
+    "PublicBrain/Examen de Certificación de la Universidad Estatal de San Petersburgo (SPbU).md",
+    "PublicBrain/Examen de Certificación de la Universidad Estatal de Moscú (MSU).md",
+    "PublicBrain/Examen de Ruso como Lengua Extranjera (EGE).md",
+    "PublicBrain/Examen de Certificación del Sistema Estatal de Evaluación del Idioma Ruso (TORFL).md",
+    "PublicBrain/Examen de Certificación del Instituto Pushkin (TRKI).md",
+    "PublicBrain/C2-RU.md",
+    "PublicBrain/C1-RU.md",
+    "PublicBrain/B2-RU.md",
+    "PublicBrain/B1-RU.md",
+    "PublicBrain/A2-RU.md",
+    "Examen de Certificación de la Universidad Estatal de San Petersburgo (SPbU).md",
+    "Examen de Certificación de la Universidad Estatal de Moscú (MSU).md",
+    "Examen de Ruso como Lengua Extranjera (EGE).md",
+    "Examen de Certificación del Sistema Estatal de Evaluación del Idioma Ruso (TORFL).md",
+    "Examen de Certificación del Instituto Pushkin (TRKI).md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",

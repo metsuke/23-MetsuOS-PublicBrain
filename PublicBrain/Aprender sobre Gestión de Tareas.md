@@ -15,7 +15,7 @@
 
 ## Gestión de Tareas Digital
 
-- Herramientas y aplicaciones populares para la gestión de tareas
+- [[Herramientas y aplicaciones populares para la gestión de tareas]]
 - Comparación de software de gestión de tareas
 - Estrategias para la gestión de tareas en entornos digitales
 

@@ -4,7 +4,7 @@
 
 ## Introducción a las Redes Neuronales
 
-* Las redes neuronales en el contexto de la inteligencia artificial
+* [[Las redes neuronales en el contexto de la inteligencia artificial]]
 * Historia y evolución de las redes neuronales
 * Aplicaciones de las redes neuronales en la vida real
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Lenguaje RUST.md",
+                "file": "PublicBrain/Las redes neuronales en el contexto de la inteligencia artificial.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Lenguaje RUST.md",
+                "file": "PublicBrain/Las redes neuronales en el contexto de la inteligencia artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Lenguaje RUST.md",
+                "file": "PublicBrain/Las redes neuronales en el contexto de la inteligencia artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Lenguaje RUST.md"
+                "file": "PublicBrain/Las redes neuronales en el contexto de la inteligencia artificial.md"
               }
             }
           },
@@ -174,14 +174,23 @@
   },
   "active": "bcc26fb85051040d",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "PublicBrain/Promting Database.md",
-    "Aprender Lenguaje RUST.md",
+    "PublicBrain/Las redes neuronales en el contexto de la inteligencia artificial.md",
+    "Las redes neuronales en el contexto de la inteligencia artificial.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/TAQUITO.md",
+    "TAQUITO.md",
+    "README copia.md",
+    "PublicBrain/carpeta sin título",
+    "carpeta sin título",
+    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender Lenguaje RUST.md",
+    "Aprender Lenguaje RUST.md",
     "PublicBrain/Aprender Lenguaje GO.md",
     "Aprender Lenguaje GO.md",
     "PublicBrain/Aprender Lenguaje Python.md",
-    "PublicBrain/Index.md",
     "Home.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/KEN (Kanken, Kanji Kentei).md",
@@ -193,13 +202,6 @@
     "PublicBrain/Examen de Certificación del Sistema Estatal de Evaluación del Idioma Ruso (TORFL).md",
     "PublicBrain/Examen de Certificación del Instituto Pushkin (TRKI).md",
     "PublicBrain/C2-RU.md",
-    "PublicBrain/C1-RU.md",
-    "PublicBrain/B2-RU.md",
-    "PublicBrain/B1-RU.md",
-    "PublicBrain/A2-RU.md",
-    "Examen de Certificación de la Universidad Estatal de San Petersburgo (SPbU).md",
-    "Examen de Certificación de la Universidad Estatal de Moscú (MSU).md",
-    "Examen de Ruso como Lengua Extranjera (EGE).md",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)/7d2f1923098a378bef3e7682c31645d0_MD5.jpg",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",
@@ -217,8 +219,6 @@
     "PublicBrain/_resources/Warren Robinett",
     "PublicBrain/_resources/Atari 2600/4165e626c153fbc55a535412940eb6bb_MD5.jpg",
     "PublicBrain/_resources/Atari 2600/fce189396d6ff3b6222811e7e0369047_MD5.svg",
-    "PublicBrain/_resources/Atari 2600",
-    "_resources/儿子/Dire Straits - Sultans Of Swing.mp4",
     "PublicBrain/_resources/Aprender sobre Redes/cf2fe4573847cc8d0468789467844249_MD5.jpg",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"

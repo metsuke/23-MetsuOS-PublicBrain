@@ -1,10 +1,11 @@
 # Aprender a Programar desde Cero
 
 [[Aprender sobre Programación]]
+
 ## Introducción a la Programación
 
 * [[¿Qué es la programación?]]
-	- Definición de programación y conceptos fundamentales
+	- [[Definición de programación y conceptos fundamentales]]
 	- Importancia de la programación en la actualidad
 - Entendiendo el Software
 	- Diferencia entre hardware y software

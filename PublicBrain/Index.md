@@ -25,7 +25,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * GL | Gallego | Niveles Oficiales GL |
 * HI | [[Hindi]] | Niveles Oficiales HI | 
 * JP [[Aprender Idioma Japones]]
-* RO | [[Rumano]] | Niveles Oficiales RO | 
+* RO [[Aprender Idioma Rumano]]
 * RU [[Aprender Idioma Ruso]]
 * SV | Sueco | Niveles Oficiales SV |
 * SW [[Aprender Idioma Swahili]]

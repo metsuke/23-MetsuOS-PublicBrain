@@ -1,5 +1,4 @@
 # Aprender sobre Inteligencia Artificial
-a.# Aprender sobre Inteligencia Artificial
 
 [[Index]]
 

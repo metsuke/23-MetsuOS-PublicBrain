@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
               }
             }
           },
@@ -174,12 +174,17 @@
   },
   "active": "bcc26fb85051040d",
   "lastOpenFiles": [
+    "PublicBrain/Historia y evolución de las redes neuronales.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Historia y evolución de las redes neuronales.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Importancia de la programación en la actualidad.md",
     "PublicBrain/Aprender a Programar desde Cero.md",
     "Importancia de la programación en la actualidad.md",
     "PublicBrain/Definición de programación y conceptos fundamentales.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Rumano.md",
     "PublicBrain/Diploma de Estudios Rumanos (Diploma de Studii Românești).md",
     "PublicBrain/Examen de Competencia en Rumano (Examenul de Competență în Limba Română pentru Străini).md",
@@ -195,11 +200,6 @@
     "PublicBrain/Niveles y Exámenes Adicionales RO.md",
     "PublicBrain/Niveles Oficiales RO.md",
     "A2-RO.md",
-    "C2-RO.md",
-    "C1-RO.md",
-    "B2-RO.md",
-    "B1-RO.md",
-    "Diploma de Estudios Rumanos (Diploma de Studii Românești).md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

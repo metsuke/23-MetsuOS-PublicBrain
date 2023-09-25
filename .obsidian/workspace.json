@@ -161,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -168,12 +169,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "publish:Publish changes...": false
     }
   },
   "active": "bcc26fb85051040d",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Importancia de la programación en la actualidad.md",
+    "PublicBrain/Aprender a Programar desde Cero.md",
+    "Importancia de la programación en la actualidad.md",
+    "PublicBrain/Definición de programación y conceptos fundamentales.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Rumano.md",
     "PublicBrain/Diploma de Estudios Rumanos (Diploma de Studii Românești).md",
     "PublicBrain/Examen de Competencia en Rumano (Examenul de Competență în Limba Română pentru Străini).md",
@@ -188,18 +194,12 @@
     "PublicBrain/Promting Database.md",
     "PublicBrain/Niveles y Exámenes Adicionales RO.md",
     "PublicBrain/Niveles Oficiales RO.md",
-    "PublicBrain/Index.md",
     "A2-RO.md",
     "C2-RO.md",
     "C1-RO.md",
     "B2-RO.md",
     "B1-RO.md",
     "Diploma de Estudios Rumanos (Diploma de Studii Românești).md",
-    "Examen de Competencia en Rumano (Examenul de Competență în Limba Română pentru Străini).md",
-    "Certificado de Competencia en Lengua Rumana (CCL).md",
-    "Examen de Lengua Rumana como Lengua Extranjera (ELR).md",
-    "A1-RO.md",
-    "Niveles y Exámenes Adicionales RO.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

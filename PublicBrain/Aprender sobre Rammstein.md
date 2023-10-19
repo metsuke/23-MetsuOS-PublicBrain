@@ -14,7 +14,7 @@ Aquí tienes algunos aspectos clave sobre Rammstein:
 
 1. **Miembros de la banda:** Rammstein está compuesta por seis talentosos músicos:
     
-    - Till Lindemann: vocalista.
+    - [[Till Lindemann]]: vocalista.
     - Richard Z. Kruspe: guitarra líder y coros.
     - Paul Landers: guitarra rítmica y coros.
     - Oliver Riedel: bajo.

@@ -1,7 +1,10 @@
-`
 # Index
 
 [[Home]] | [[Promting Database]]
+
+#Quick Links
+
+[ChatGPT](https://chat.openai.com/) | [Whatsapp](https://web.whatsapp.com/)
 
 ## Aprender con ...
 
@@ -17,7 +20,6 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 
 * AR [[Aprender Idioma Árabe]]
 * CA [[Aprender Idioma Catalán]]
-* CAV Valenciano | Niveles Oficiales CAV
 * EN [[Aprender Idioma Inglés]]
 * ES [[Aprender Idioma Español]]
 * EU Euskera | Niveles Oficiales EU |
@@ -31,6 +33,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * SW [[Aprender Idioma Swahili]]
 * TH [[Apnreder Idioma Tailandés]]
 * UK | Ucraniano | Niveles Oficiales UK |
+* VLC Valenciano | Niveles Oficiales CAV
 * ZH [[Aprender Idioma Chino]]
 
  * [[Estadísticas sobre Idiomas]]

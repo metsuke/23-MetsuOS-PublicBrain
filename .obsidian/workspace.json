@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcc26fb85051040d",
+            "id": "e83dc00694f77ba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "e83dc00694f77ba6",
+            "id": "6029d673fa9b3a29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +162,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -169,11 +169,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bcc26fb85051040d",
+  "active": "6029d673fa9b3a29",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Nirvana.md",
+    "PublicBrain/Kurt Cobain.md",
+    "Kurt Cobain.md",
+    "PublicBrain/[Aprender sobre Nirvana.md",
+    "PublicBrain/Index.md",
+    "[Aprender sobre Nirvana.md",
+    "PublicBrain/Promting Database.md",
+    "Home.md",
+    "PublicBrain/Ejercicios Factorizacion n-Nomiosç.md",
+    "PublicBrain/Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios.md",
     "PublicBrain/Aprender Idioma Hindi.md",
     "PublicBrain/Exámenes de Nivel Nacional de Certificación en Habilidades en Idiomas (NACIL).md",
     "PublicBrain/Exámenes del Instituto Central de Lenguas Extranjeras (CILS).md",
@@ -183,7 +194,6 @@
     "PublicBrain/Exámenes de la Universidad de Delhi.md",
     "PublicBrain/Certificación de Hindi Pragya.md",
     "PublicBrain/Avanzado HI.md",
-    "PublicBrain/Promting Database.md",
     "PublicBrain/Intermedio HI.md",
     "PublicBrain/Básico HI.md",
     "Básico HI.md",
@@ -191,15 +201,6 @@
     "Exámenes del Instituto Central de Lenguas Extranjeras (CILS).md",
     "Exámenes del Instituto de Educación a Distancia de la Universidad de Delhi (DU SOL).md",
     "Exámenes de la Universidad de Banaras Hindu (BHU).md",
-    "Exámenes de la Universidad de Jawaharlal Nehru (JNU).md",
-    "Exámenes de la Universidad de Delhi.md",
-    "Certificación de Hindi Pragya.md",
-    "Avanzado HI.md",
-    "Intermedio HI.md",
-    "PublicBrain/Niveles Oficiales HI.md",
-    "PublicBrain/Niveles y Exámenes Adicionales HI.md",
-    "Niveles y Exámenes Adicionales HI.md",
-    "Niveles Oficiales HI.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

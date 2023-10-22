@@ -1,5 +1,7 @@
 # Good morning
 
+[[Saludos y presentaciones (A1-EN))]]
+
 "Good morning" es una forma común de saludar en inglés cuando se encuentra a alguien por la mañana o se empieza el día.
 
 En inglés, "good" significa "bueno" y "morning" significa "mañana", por lo que juntos significan "buena mañana". Es una expresión muy común en países de habla inglesa como Estados Unidos, Reino Unido, Canadá, Australia, entre otros, y se utiliza en cualquier contexto en el que se quiera saludar a alguien por la mañana.

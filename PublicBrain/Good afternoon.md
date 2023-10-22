@@ -1,5 +1,7 @@
 # Good afternoon
 
+[[Saludos y presentaciones (A1-EN))]]
+
 "Good afternoon" es una expresión en [[inglés]] que se utiliza para saludar a alguien durante la tarde. Se podría traducir al español como "buenas tardes".
 
 Es común utilizar "good afternoon" como saludo durante el horario comprendido entre el mediodía y el atardecer, generalmente a partir de las 12 del mediodía hasta las 6 o 7 de la tarde, dependiendo de la región o cultura.

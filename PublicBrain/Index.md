@@ -57,12 +57,24 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Cultura
 
+#### Peliculas/OVA
+
+* Aprender sobre Akira (JP)
+
+#### Musica
+
 * [[Aprender sobre BabyMetal]] (JP)
 * [[Aprender sobre Mecano]] (ES)
 * [[Aprender sobre Nirvana]] (EN)
 * [[Aprender sobre Rammstein]] (GE)
 
 AR/CA/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALMENTE la pena para hacer lo propio) [[TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT]]
+
+#### Series/Anime
+
+* Aprender sobre Naruto (JP)
+* Aprender sobre Stargate (EN)
+
 
 ### Diseño
 

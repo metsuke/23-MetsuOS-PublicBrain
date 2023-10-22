@@ -23,7 +23,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * EN [[Aprender Idioma Inglés]]
 * ES [[Aprender Idioma Español]]
 * EU Euskera | Niveles Oficiales EU |
-* GE | [[Alemán]] | Niveles Oficiales GE | 
+* GE | [[Aprender Idioma Aleman]]
 * GL | Gallego | Niveles Oficiales GL |
 * HI [[Aprender Idioma Hindi]]
 * JP [[Aprender Idioma Japones]]

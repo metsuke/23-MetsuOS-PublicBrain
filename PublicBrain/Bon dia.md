@@ -1,5 +1,7 @@
 # Bon dia
 
+[[Saludos y presentaciones básicas (A1-CA)]]
+
 "Bon dia" es una expresión en [[catalán]] que se utiliza para desear un buen día. Es la forma más común y educada de saludar en Cataluña y en otros lugares donde se habla catalán, como en las Islas Baleares, la Comunidad Valenciana y el este de Aragón.
 
 La expresión "Bon dia" se compone de dos palabras: "Bon" que significa "bueno" y "dia" que significa "día". Se utiliza para saludar a las personas por la mañana, desde el amanecer hasta alrededor de las 2 de la tarde.

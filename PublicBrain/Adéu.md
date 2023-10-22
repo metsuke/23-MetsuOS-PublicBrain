@@ -1,5 +1,7 @@
 # Adéu
 
+[[Saludos y presentaciones básicas (A1-CA)]]
+
 "Adéu" es una palabra en [[catalán]] que se utiliza como despedida, lo que en español se traduce como "adiós". Es una palabra muy común en Cataluña, una comunidad autónoma en el noreste de España, donde se habla el catalán como lengua cooficial junto con el español.
 
 Además de ser utilizada como despedida, "adéu" también puede significar "hasta luego" o "nos vemos pronto". Es una palabra que se utiliza en distintos ámbitos de la vida cotidiana, tanto en situaciones formales como informales.

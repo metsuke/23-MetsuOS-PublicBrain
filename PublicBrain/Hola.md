@@ -2,6 +2,8 @@
 
 ## Catalan
 
+[[Saludos y presentaciones básicas (A1-CA)]]
+
 Hola" es una palabra común en [[catalán]] y es utilizada como saludo, similar a cómo se usa en español.
 
 La pronunciación de "hola" en catalán es ligeramente diferente a la pronunciación en español. En catalán, se pronuncia "óla" con una "o" más abierta y un acento en la "o".

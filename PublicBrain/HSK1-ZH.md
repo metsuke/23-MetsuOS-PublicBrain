@@ -6,7 +6,7 @@
 
 ## Módulo 1: Introducción al Chino y Pinyin
 
-- ¿Qué es el chino mandarín?
+- [[¿Qué es el chino mandarín?]]
 - El sistema de escritura chino
 - Introducción al Pinyin (alfabeto chino)
 - Pronunciación y entonación en chino

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Discografía de Mecano.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Discografía de Mecano.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Discografía de Mecano.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Discografía de Mecano.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -175,11 +175,19 @@
   },
   "active": "6029d673fa9b3a29",
   "lastOpenFiles": [
-    "PublicBrain/Ana Torroja.md",
+    "PublicBrain/Apnreder Idioma Tailandés.md",
+    "PublicBrain/Nivel Principiante TH.md",
+    "Introducción al alfabeto tailandés.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Chino.md",
+    "PublicBrain/¿Qué es el chino mandarín?.md",
+    "PublicBrain/HSK1-ZH.md",
+    "¿Qué es el chino mandarín?.md",
     "PublicBrain/Aprender sobre Mecano.md",
+    "PublicBrain/Discografía de Mecano.md",
+    "PublicBrain/Ana Torroja.md",
     "Ana Torroja.md",
     "PublicBrain/mariconez.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Rammstein.md",
     "PublicBrain/Till Lindemann.md",
     "Till Lindemann.md",
@@ -193,14 +201,6 @@
     "PublicBrain/Ejercicios Factorizacion n-Nomiosç.md",
     "PublicBrain/Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios.md",
     "PublicBrain/Aprender Idioma Hindi.md",
-    "PublicBrain/Exámenes de Nivel Nacional de Certificación en Habilidades en Idiomas (NACIL).md",
-    "PublicBrain/Exámenes del Instituto Central de Lenguas Extranjeras (CILS).md",
-    "PublicBrain/Exámenes del Instituto de Educación a Distancia de la Universidad de Delhi (DU SOL).md",
-    "PublicBrain/Exámenes de la Universidad de Banaras Hindu (BHU).md",
-    "PublicBrain/Exámenes de la Universidad de Jawaharlal Nehru (JNU).md",
-    "PublicBrain/Exámenes de la Universidad de Delhi.md",
-    "PublicBrain/Certificación de Hindi Pragya.md",
-    "PublicBrain/Avanzado HI.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

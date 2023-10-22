@@ -6,7 +6,7 @@
 
 ## Módulo 1: Introducción al Árabe
 
-- Pronunciación y escritura del alfabeto árabe
+- [[Pronunciación y escritura del alfabeto árabe]]
 - Saludos y presentaciones
 - Los números del 1 al 10
 - Vocabulario básico de uso común

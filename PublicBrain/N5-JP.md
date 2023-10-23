@@ -6,7 +6,7 @@
 
 ## Módulo 1: Introducción al Japonés Básico
 
-1.1. Hiragana y Katakana: Lectura y escritura básica.
+1.1. [[Hiragana y Katakana - Lectura y escritura básica]]
 1.2. Saludos y presentaciones en japonés.
 1.3. Números y expresiones de cantidad.
 1.4. Vocabulario básico y frases cotidianas.

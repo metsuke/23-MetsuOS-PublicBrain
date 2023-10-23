@@ -1,5 +1,8 @@
 # Katakana
 
+[[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica]]
+[[Hiragana]] | [[Katakana]] | [[Sistemas de escritura japoneses]]
+
 El katakana es uno de los [[Sistemas de escritura japoneses]]. Es un silabario compuesto por 46 caracteres que representan sílabas o sonidos básicos del idioma japonés. A diferencia del hiragana, que se utiliza principalm[[sistemas de escritura japoneses]]ente para palabras japonesas nativas, el katakana se emplea para transcribir palabras extranjeras, nombres extranjeros y términos técnicos.
 
 Aquí tienes algunos aspectos clave sobre el katakana:

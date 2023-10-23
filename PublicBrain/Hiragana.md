@@ -1,5 +1,8 @@
 # Hiragana
 
+[[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica]]
+[[Hiragana]] | [[Katakana]] | [[Sistemas de escritura japoneses]]
+
 El hiragana es uno de los [[Sistemas de escritura japoneses]]. Es un silabario compuesto por 46 caracteres que representan sílabas o sonidos básicos del idioma japonés. El hiragana se utiliza para escribir palabras japonesas nativas, partículas gramaticales y terminaciones verbales.
 
 Aquí hay algunos aspectos clave sobre el hiragana:

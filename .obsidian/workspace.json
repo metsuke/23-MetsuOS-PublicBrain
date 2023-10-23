@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e83dc00694f77ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f44f5e06a8d9215e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Promting Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a425bd50641671fb",
             "type": "leaf",
             "state": {
@@ -184,12 +160,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e83dc00694f77ba6",
+  "active": "a425bd50641671fb",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/N5-JP.md",
+    "Hiragana y Katakana - Lectura y escritura básica.md",
+    "PublicBrain/Niveles Oficiales JP.md",
+    "PublicBrain/Niveles y Exámenes Adicionales JP.md",
+    "PublicBrain/Sistemas de escritura japoneses.md",
+    "PublicBrain/Katakana.md",
+    "PublicBrain/Hiragana.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Nacho Cano.md",
+    "PublicBrain/Bona tarda.md",
+    "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender sobre Mecano.md",
     "PublicBrain/Discografía de Mecano.md",
     "Nacho Cano.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "PublicBrain/Saludos y presentaciones básicas (A1-CA).md",
@@ -201,17 +188,6 @@
     "PublicBrain/Richard Z. Kruspe.md",
     "PublicBrain/Pronunciación y escritura del alfabeto árabe.md",
     "PublicBrain/Aprender Idioma Árabe.md",
-    "PublicBrain/A1-AR.md",
-    "Pronunciación y escritura del alfabeto árabe.md",
-    "PublicBrain/Aprender sobre Rammstein.md",
-    "Richard Z. Kruspe.md",
-    "PublicBrain/Aprender Idioma Aleman.md",
-    "PublicBrain/Apnreder Idioma Tailandés.md",
-    "PublicBrain/DSH (Deutsche Sprachprüfung für den Hochschulzugang).md",
-    "PublicBrain/ÖSD (Österreichisches Sprachdiplom Deutsch).md",
-    "PublicBrain/Telc.md",
-    "PublicBrain/Goethe-Zertifikat.md",
-    "PublicBrain/TestDaF.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

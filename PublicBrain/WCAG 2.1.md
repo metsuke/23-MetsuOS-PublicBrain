@@ -12,7 +12,7 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
     - [[Objetivo de WCAG 2.1]]
     - Cómo utilizar WCAG 2.1
 2. [[Principios de Accesibilidad]]
-    - Perceptible
+    - [[Perceptible]]
     - Operable
     - Comprensible
     - Robusto

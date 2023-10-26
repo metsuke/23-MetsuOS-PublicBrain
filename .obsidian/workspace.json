@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "PublicBrain/Perceptible.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "110699e982016fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Perceptible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Perceptible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Perceptible.md"
               }
             }
           },
@@ -162,8 +174,13 @@
   },
   "active": "a2268ff606d0661e",
   "lastOpenFiles": [
-    "PublicBrain/Дім там де кіт.md",
+    "PublicBrain/WCAG 2.1.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Perceptible.md",
+    "Perceptible.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Дім там де кіт.md",
     "Дім там де кіт.md",
     "PublicBrain/ucraniano.md",
     "PublicBrain/Promting Database.md",
@@ -183,11 +200,6 @@
     "PublicBrain/Niveles y Exámenes Adicionales VLC.md",
     "C1-Administratiu (Mitjà).md",
     "Niveles y Exámenes Adicionales VLC.md",
-    "C2-VLC.md",
-    "C1-VLC.md",
-    "B2-VLC.md",
-    "B1-VLC.md",
-    "A2-VLC.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

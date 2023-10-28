@@ -7,7 +7,7 @@
 ## Módulo 1: Introducción al Inglés
 
 1.1. [[Saludos y presentaciones (A1-EN))]]
-1.2. El alfabeto inglés.
+1.2. [[El alfabeto inglés]].
 1.3. Números del 1 al 20.
 1.4. Pronunciación básica.
 

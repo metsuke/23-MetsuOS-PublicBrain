@@ -7,7 +7,7 @@
 ## Módulo 1: Introducción al Catalán
 
 1.1. [[Saludos y presentaciones básicas (A1-CA)]]
-1.2. Alfabeto catalán y pronunciación.
+1.2. [[Alfabeto catalán y pronunciación (A1-CA)]].
 1.3. Vocabulario inicial y expresiones comunes.
 1.4. Gramática elemental: artículos, sustantivos y pronombres.
 

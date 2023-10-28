@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Saludos y Presentaciones A1-GE.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Saludos y Presentaciones A1-GE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Saludos y Presentaciones A1-GE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Saludos y Presentaciones A1-GE.md"
               }
             }
           },
@@ -174,11 +174,17 @@
   },
   "active": "a2268ff606d0661e",
   "lastOpenFiles": [
+    "PublicBrain/A1-GE.md",
+    "PublicBrain/Hallo.md",
+    "PublicBrain/Saludos y Presentaciones A1-GE.md",
+    "PublicBrain/El alfabeto inglés.md",
+    "Saludos y Presentaciones A1-GE.md",
+    "PublicBrain/Aprender Idioma Aleman.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Inglés.md",
     "PublicBrain/A1-EN.md",
     "El alfabeto inglés.md",
     "PublicBrain/Inglés.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
     "PublicBrain/WCAG 2.0.md",
@@ -194,12 +200,6 @@
     "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/Valenciano.md",
     "Valenciano.md",
-    "PublicBrain/VLC Valenciano.md",
-    "PublicBrain/C1-Administratiu (Mitjà).md",
-    "PublicBrain/A1-VLC.md",
-    "PublicBrain/C2-VLC.md",
-    "PublicBrain/C1-VLC.md",
-    "PublicBrain/B2-VLC.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

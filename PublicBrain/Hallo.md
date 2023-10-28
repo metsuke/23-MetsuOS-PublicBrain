@@ -1,4 +1,4 @@
-# Halloº
+# Hallo
 
 "Hallo" es una palabra en [[Alemán]] que se utiliza comúnmente como saludo. Es una forma informal y amigable de saludar a alguien en el idioma alemán, similar a "hola" en español o "hello" en inglés. Se pronuncia como "ha-loh" en español.
 

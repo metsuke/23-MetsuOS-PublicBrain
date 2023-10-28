@@ -2,7 +2,7 @@
 	
 El idioma [[Alemán]] tiene varias formas de saludar, y es común utilizar diferentes saludos dependiendo del contexto y del nivel de formalidad. Aquí tienes algunas formas comunes de saludar en alemán:
 
-1. "[[Halloº]]" o "Hallo zusammen" - Este saludo es similar a "Hola" en español y se puede utilizar en situaciones informales tanto en persona como por teléfono.
+1. "[[Hallo]]" o "Hallo zusammen" - Este saludo es similar a "Hola" en español y se puede utilizar en situaciones informales tanto en persona como por teléfono.
     
 2. "[[Guten Morgen]] - Significa "Buenos días" y se utiliza como saludo en la mañana hasta aproximadamente el mediodía.
     

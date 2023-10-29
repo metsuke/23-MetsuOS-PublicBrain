@@ -1,4 +1,4 @@
-# Japonés
+# japonés
 
 [[Index]] | [[Estadísticas sobre Idiomas]] | [[Aprender sobre BabyMetal]]
 

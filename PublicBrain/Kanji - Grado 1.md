@@ -1,5 +1,4 @@
 # Kanji - Grado 1
-生# Kanji - Grado 1
 
 [[Kanji]] | [Japonés/Kanji/Grado 1 - Wikilibros (wikibooks.org)](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_1)
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-CA.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -174,11 +174,17 @@
   },
   "active": "a2268ff606d0661e",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Idioma Chino.md",
+    "PublicBrain/HSK1-ZH.md",
+    "PublicBrain/El sistema de escritura chino (HSK1-ZH).md",
+    "HSJ1-ZH.md",
+    "El sistema de escritura chino (HSJ1-ZH).md",
+    "PublicBrain/¿Qué es el chino mandarín? (HSJ1-ZH).md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/A1-CA.md",
     "PublicBrain/Alfabeto catalán y pronunciación (A1-CA).md",
     "Alfabeto catalán y pronunciación (A1-CA).md",
-    "PublicBrain/A1-CA.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Saludos y presentaciones (A1-AR).md",
     "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/A1-AR.md",
@@ -194,12 +200,6 @@
     "PublicBrain/A1-EN.md",
     "El alfabeto inglés.md",
     "PublicBrain/Inglés.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Perceptible.md",
-    "PublicBrain/WCAG 2.1.md",
-    "Perceptible.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

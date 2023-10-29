@@ -1,4 +1,4 @@
-# ¿Qué es el chino mandarín?
+# ¿Qué es el chino mandarín? (HSJ1-ZH)
 
 [[HSK1-ZH]]
 

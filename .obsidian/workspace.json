@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Saludos y presentaciones básicas (A1-ES).md",
+                "file": "PublicBrain/Textos Religiosos y sus Idiomas de Origen.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Saludos y presentaciones básicas (A1-ES).md",
+                "file": "PublicBrain/Textos Religiosos y sus Idiomas de Origen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Saludos y presentaciones básicas (A1-ES).md",
+                "file": "PublicBrain/Textos Religiosos y sus Idiomas de Origen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Saludos y presentaciones básicas (A1-ES).md"
+                "file": "PublicBrain/Textos Religiosos y sus Idiomas de Origen.md"
               }
             }
           },
@@ -174,11 +174,13 @@
   },
   "active": "a2268ff606d0661e",
   "lastOpenFiles": [
-    "PublicBrain/Hola.md",
+    "PublicBrain/Index.md",
+    "Textos Religiosos y sus Idiomas de Origen.md",
+    "PublicBrain/Textos Religiosos y sus Idiomas de Origen.md",
     "PublicBrain/Saludos y presentaciones básicas (A1-ES).md",
+    "PublicBrain/Hola.md",
     "PublicBrain/A1-ES.md",
     "PublicBrain/Aprender Idioma Español.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "PublicBrain/Saludos y presentaciones básicas (A1-CA).md",
@@ -198,8 +200,6 @@
     "PublicBrain/Alfabeto catalán y pronunciación (A1-CA).md",
     "Alfabeto catalán y pronunciación (A1-CA).md",
     "PublicBrain/Saludos y presentaciones (A1-AR).md",
-    "PublicBrain/Aprender Idioma Árabe.md",
-    "PublicBrain/A1-AR.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

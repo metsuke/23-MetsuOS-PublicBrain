@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2268ff606d0661e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Textos Religiosos y sus Idiomas de Origen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "110699e982016fcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Textos Religiosos y sus Idiomas de Origen.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Textos Religiosos y sus Idiomas de Origen.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Textos Religiosos y sus Idiomas de Origen.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
               }
             }
           },
@@ -172,11 +160,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a2268ff606d0661e",
+  "active": "110699e982016fcf",
   "lastOpenFiles": [
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Cómo utilizar WCAG 2.1.md",
+    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
+    "Cómo utilizar WCAG 2.1.md",
+    "PublicBrain/Cómo utilizar WCAG 2.0.md",
+    "Cómo utilizar WCAG 2.0.md",
     "PublicBrain/Index.md",
-    "Textos Religiosos y sus Idiomas de Origen.md",
     "PublicBrain/Textos Religiosos y sus Idiomas de Origen.md",
+    "Textos Religiosos y sus Idiomas de Origen.md",
     "PublicBrain/Saludos y presentaciones básicas (A1-ES).md",
     "PublicBrain/Hola.md",
     "PublicBrain/A1-ES.md",
@@ -192,14 +188,6 @@
     "PublicBrain/Kanji - Grado 1.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/Aprender Idioma Chino.md",
-    "PublicBrain/HSK1-ZH.md",
-    "PublicBrain/El sistema de escritura chino (HSK1-ZH).md",
-    "HSJ1-ZH.md",
-    "El sistema de escritura chino (HSJ1-ZH).md",
-    "PublicBrain/¿Qué es el chino mandarín? (HSJ1-ZH).md",
-    "PublicBrain/Alfabeto catalán y pronunciación (A1-CA).md",
-    "Alfabeto catalán y pronunciación (A1-CA).md",
-    "PublicBrain/Saludos y presentaciones (A1-AR).md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

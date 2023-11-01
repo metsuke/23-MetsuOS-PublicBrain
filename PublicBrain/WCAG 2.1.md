@@ -1,5 +1,7 @@
 # WCAG 2.1
 
+[[Aprender sobre Accesibilidad]]
+
 [[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas]]
 
 [[WCAG 2.0]] | [[WCAG 2.1]]
@@ -10,7 +12,7 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
 
 1. [[Introducción a WCAG 2.1]]
     - [[Objetivo de WCAG 2.1]]
-    - Cómo utilizar WCAG 2.1
+    - [[Cómo utilizar WCAG 2.1]]
 2. [[Principios de Accesibilidad]]
     - [[Perceptible]]
     - Operable

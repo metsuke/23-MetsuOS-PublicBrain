@@ -31,7 +31,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * SV [[Aprender Idioma Sueco]]
 * SW [[Aprender Idioma Swahili]]
 * TH [[Apnreder Idioma Tailandés]]
-* UK | [[Ucraniano]] | Niveles Oficiales UK |
+* UK [[Aprender Idioma Ucraniano]]
 * VLC [[Aprender Idioma Valenciano]]
 * ZH [[Aprender Idioma Chino]]
 

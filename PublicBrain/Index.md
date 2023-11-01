@@ -22,7 +22,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * CA [[Aprender Idioma Catalán]]
 * EN [[Aprender Idioma Inglés]]
 * ES [[Aprender Idioma Español]]
-* EU Euskera | Niveles Oficiales EU |
+* EU [[Aprender Idioma Euskera]]
 * GE | [[Aprender Idioma Aleman]]
 * HI [[Aprender Idioma Hindi]]
 * JP [[Aprender Idioma Japones]]

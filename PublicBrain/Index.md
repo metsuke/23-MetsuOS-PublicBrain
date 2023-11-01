@@ -28,7 +28,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * JP [[Aprender Idioma Japones]]
 * RO [[Aprender Idioma Rumano]]
 * RU [[Aprender Idioma Ruso]]
-* SV | Sueco | Niveles Oficiales SV |
+* SV [[Aprender Idioma Sueco]]
 * SW [[Aprender Idioma Swahili]]
 * TH [[Apnreder Idioma Tailandés]]
 * UK | [[Ucraniano]] | Niveles Oficiales UK |

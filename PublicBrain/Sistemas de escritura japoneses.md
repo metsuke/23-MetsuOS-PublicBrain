@@ -1,6 +1,6 @@
 # Sistemas de escritura japoneses
 
-[[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica]]
+[[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
 [[Hiragana]] | [[Katakana]] | [[Sistemas de escritura japoneses]]
 
 El [[Japonés]] tiene tres sistemas de escritura principales: los kanji, el hiragana y el katakana. Cada uno de estos sistemas tiene un propósito específico y se utiliza en diferentes contextos dentro del idioma japonés.

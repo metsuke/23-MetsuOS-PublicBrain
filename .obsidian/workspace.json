@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Definición y objetivos de la lectura fácil.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Definición y objetivos de la lectura fácil.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Definición y objetivos de la lectura fácil.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Definición y objetivos de la lectura fácil.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -162,17 +162,23 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/N5-JP.md",
+    "Saludos y presentaciones en japonés (N5-JP).md",
+    "PublicBrain/Index.md",
+    "PublicBrain/japonés.md",
+    "PublicBrain/Formas de saludar en Japonés.md",
+    "PublicBrain/Hiragana y Katakana - Lectura y escritura básica (N5-JP).md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
-    "Definición y objetivos de la lectura fácil.md",
-    "PublicBrain/Definición y objetivos de la lectura fácil.md",
-    "PublicBrain/WCAG 2.1.md",
     "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/Definición y objetivos de la lectura fácil.md",
+    "Definición y objetivos de la lectura fácil.md",
     "PublicBrain/Cómo utilizar WCAG 2.1.md",
     "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
     "Cómo utilizar WCAG 2.1.md",
     "PublicBrain/Cómo utilizar WCAG 2.0.md",
     "Cómo utilizar WCAG 2.0.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Textos Religiosos y sus Idiomas de Origen.md",
     "Textos Religiosos y sus Idiomas de Origen.md",
     "PublicBrain/Saludos y presentaciones básicas (A1-ES).md",
@@ -182,12 +188,6 @@
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "PublicBrain/Saludos y presentaciones básicas (A1-CA).md",
-    "PublicBrain/Español.md",
-    "PublicBrain/HSJ1-ZH.md",
-    "Saludos y presentaciones básicas (A1-ES).md",
-    "PublicBrain/japonés.md",
-    "PublicBrain/Kanji.md",
-    "PublicBrain/Kanji - Grado 1.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

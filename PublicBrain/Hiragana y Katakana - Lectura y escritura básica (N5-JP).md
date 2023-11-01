@@ -1,4 +1,4 @@
-# Hiragana y Katakana - Lectura y escritura básica
+# Hiragana y Katakana - Lectura y escritura básica (N5-JP)
 
 [[N5-JP]] | [[Hiragana]] | [[Katakana]] | [[Sistemas de escritura japoneses]]
 

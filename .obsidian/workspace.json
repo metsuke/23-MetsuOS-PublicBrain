@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Definición y objetivos de la lectura fácil.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Definición y objetivos de la lectura fácil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Definición y objetivos de la lectura fácil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
+                "file": "PublicBrain/Definición y objetivos de la lectura fácil.md"
               }
             }
           },
@@ -162,9 +162,11 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "Definición y objetivos de la lectura fácil.md",
+    "PublicBrain/Definición y objetivos de la lectura fácil.md",
     "PublicBrain/WCAG 2.1.md",
     "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/Cómo utilizar WCAG 2.1.md",
     "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
     "Cómo utilizar WCAG 2.1.md",
@@ -186,8 +188,6 @@
     "PublicBrain/japonés.md",
     "PublicBrain/Kanji.md",
     "PublicBrain/Kanji - Grado 1.md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/Aprender Idioma Chino.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

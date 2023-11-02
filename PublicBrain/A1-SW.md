@@ -8,7 +8,7 @@
 
 ### Lección 1: Saludos y Presentaciones
 
-- Saludos básicos
+- [[Saludos básicos (A1-SW)]]
 - Cómo presentarse
 - Expresar agradecimiento
 

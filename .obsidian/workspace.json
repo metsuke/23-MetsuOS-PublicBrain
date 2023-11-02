@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Saludos básicos (A1-SW).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Saludos básicos (A1-SW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Saludos básicos (A1-SW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Saludos básicos (A1-SW).md"
               }
             }
           },
@@ -149,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -156,14 +157,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "publish:Publish changes...": false
     }
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
-    "Aprender Idioma Ucraniano.md",
+    "PublicBrain/A1-SW.md",
+    "PublicBrain/Saludos básicos (A1-SW).md",
+    "Saludos básicos (A1-SW).md",
+    "PublicBrain/Asante.md",
+    "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Ucraniano.md",
+    "PublicBrain/Aprender Idioma Euskera.md",
+    "Aprender Idioma Ucraniano.md",
     "PublicBrain/Aprender Idioma Sueco.md",
     "Aprender Idioma Euskera.md",
     "PublicBrain/Saludos y presentaciones (Principiante TH).md",
@@ -181,13 +188,6 @@
     "PublicBrain/japonés.md",
     "PublicBrain/Formas de saludar en Japonés.md",
     "PublicBrain/Hiragana y Katakana - Lectura y escritura básica (N5-JP).md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/WCAG 2.1.md",
-    "PublicBrain/Definición y objetivos de la lectura fácil.md",
-    "Definición y objetivos de la lectura fácil.md",
-    "PublicBrain/Cómo utilizar WCAG 2.1.md",
-    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Saludos básicos (A1-SW).md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Saludos básicos (A1-SW).md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Saludos básicos (A1-SW).md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Saludos básicos (A1-SW).md"
+                "file": "Home.md"
               }
             }
           },
@@ -162,12 +162,16 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios.md",
+    "PublicBrain/Ejercicios Factorizacion n-Nomiosç.md",
+    "PublicBrain/Ejercicios Binomios a la n potencia y conjugados.md",
+    "PublicBrain/Aprender sobre Matemáticas.md",
+    "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/A1-SW.md",
     "PublicBrain/Saludos básicos (A1-SW).md",
     "Saludos básicos (A1-SW).md",
     "PublicBrain/Asante.md",
-    "PublicBrain/Aprender Idioma Swahili.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Ucraniano.md",
     "PublicBrain/Aprender Idioma Euskera.md",
     "Aprender Idioma Ucraniano.md",
@@ -184,10 +188,6 @@
     "PublicBrain/Saludos y presentaciones en japonés (N5-JP).md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/N5-JP.md",
-    "Saludos y presentaciones en japonés (N5-JP).md",
-    "PublicBrain/japonés.md",
-    "PublicBrain/Formas de saludar en Japonés.md",
-    "PublicBrain/Hiragana y Katakana - Lectura y escritura básica (N5-JP).md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

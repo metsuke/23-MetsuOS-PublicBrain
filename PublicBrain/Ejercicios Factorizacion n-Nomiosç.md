@@ -3,7 +3,9 @@
 [[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
 
 ## **Caso 1: Factor común monomio**
-### 
+### (X^2 + 2x) 
+
+$$x^2+2x => x*(x+2) $$
 
 ### 
 

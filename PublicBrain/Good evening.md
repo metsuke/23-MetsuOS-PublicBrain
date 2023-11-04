@@ -1,6 +1,6 @@
 # Good evening
 
-[[Saludos y presentaciones (A1-EN))]]
+[[Saludos y presentaciones (A1-EN)]]
 
 "Good evening" es una expresión en [[inglés]] que se utiliza para desear una buena noche. Es la forma más común y educada de saludar por la tarde y por la noche en inglés.
 

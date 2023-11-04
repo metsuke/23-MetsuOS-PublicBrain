@@ -1,6 +1,6 @@
 # Goodbye
 
-[[Formas de despedirse en Inglés]] | [[Saludos y presentaciones (A1-EN))]]
+[[Formas de despedirse en Inglés]] | [[Saludos y presentaciones (A1-EN)]]
 
 "Goodbye" es una palabra en [[inglés]] que se utiliza para despedirse. Es una forma común de terminar una conversación o un encuentro cuando se espera que no haya más interacción en el futuro cercano.
 

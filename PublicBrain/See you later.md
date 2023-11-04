@@ -1,6 +1,6 @@
 # See you later
 
-[[Formas de despedirse en Inglés]]  | [[Saludos y presentaciones (A1-EN))]]
+[[Formas de despedirse en Inglés]]  | [[Saludos y presentaciones (A1-EN)]]
 
 "See you later" es una expresión común en [[inglés]] que se utiliza para despedirse de alguien con la intención de volver a encontrarse en un futuro cercano. Esta frase es informal y amigable, y se emplea principalmente en situaciones casuales entre amigos, compañeros de trabajo o conocidos.
 

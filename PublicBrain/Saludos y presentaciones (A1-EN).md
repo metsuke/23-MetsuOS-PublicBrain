@@ -1,4 +1,4 @@
-# Saludos y presentaciones (A1-EN))
+# Saludos y presentaciones (A1-EN)
 
 [[A1-EN]]
 

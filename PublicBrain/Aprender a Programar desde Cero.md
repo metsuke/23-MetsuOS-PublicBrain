@@ -8,7 +8,7 @@
 	- [[Definición de programación y conceptos fundamentales]]
 	- [[Importancia de la programación en la actualidad]]
 - Entendiendo el Software
-	- Diferencia entre hardware y software
+	- [[Diferencia entre hardware y software]]
 	- Tipos de software: sistemas operativos, aplicaciones, etc.
 - Lenguajes de Programación
 	- Introducción a los lenguajes de programación

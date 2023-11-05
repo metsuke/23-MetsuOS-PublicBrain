@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Programación.md"
               }
             }
           },
@@ -162,13 +162,18 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
+    "PublicBrain/Aprender a Programar desde Cero.md",
+    "PublicBrain/Diferencia entre hardware y software.md",
+    "PublicBrain/Importancia de la programación en la actualidad.md",
+    "Diferencia entre hardware y software.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Aleman.md",
     "PublicBrain/Niveles Oficiales GE.md",
     "PublicBrain/A1-GE.md",
     "PublicBrain/Números del 1 al 20  (A1-EN).md",
     "PublicBrain/El Alfabeto Alemán (A1-GE).md",
     "El Alfabeto Alemán (A1-GE).md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Inglés.md",
     "PublicBrain/A1-EN.md",
     "Números del 1 al 20  (A1-EN).md",
@@ -183,11 +188,6 @@
     "PublicBrain/A1-SW.md",
     "PublicBrain/Saludos básicos (A1-SW).md",
     "Saludos básicos (A1-SW).md",
-    "PublicBrain/Asante.md",
-    "PublicBrain/Aprender Idioma Ucraniano.md",
-    "PublicBrain/Aprender Idioma Euskera.md",
-    "Aprender Idioma Ucraniano.md",
-    "PublicBrain/Aprender Idioma Sueco.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

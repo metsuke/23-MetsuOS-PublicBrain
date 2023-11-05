@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-GE.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-GE.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-GE.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-GE.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -162,9 +162,12 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
-    "El Alfabeto Alemán (A1-GE).md",
-    "PublicBrain/A1-GE.md",
     "PublicBrain/Aprender Idioma Aleman.md",
+    "PublicBrain/Niveles Oficiales GE.md",
+    "PublicBrain/A1-GE.md",
+    "PublicBrain/Números del 1 al 20  (A1-EN).md",
+    "PublicBrain/El Alfabeto Alemán (A1-GE).md",
+    "El Alfabeto Alemán (A1-GE).md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Inglés.md",
     "PublicBrain/A1-EN.md",
@@ -185,9 +188,6 @@
     "PublicBrain/Aprender Idioma Euskera.md",
     "Aprender Idioma Ucraniano.md",
     "PublicBrain/Aprender Idioma Sueco.md",
-    "Aprender Idioma Euskera.md",
-    "PublicBrain/Saludos y presentaciones (Principiante TH).md",
-    "PublicBrain/Apnreder Idioma Tailandés.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

@@ -81,6 +81,11 @@ AR/CA/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALM
 
 * [[Aprender sobre Tipografía]]
 
+### Juegos
+
+* [[Aprender a jugar GO]]
+
+
 ### Plena Inclusión
 
 * [[Aprender sobre Accesibilidad]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre Naruto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre Naruto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre Naruto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md"
+                "file": "PublicBrain/Aprender sobre Naruto.md"
               }
             }
           },
@@ -161,9 +161,12 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Index.md",
+    "Aprender sobre Naruto.md",
+    "PublicBrain/Aprender sobre Naruto.md",
+    "PublicBrain/Aprender sobre Rammstein.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "PublicBrain/japonés.md",
     "PublicBrain/Hiragana.md",
     "PublicBrain/そ.md",
@@ -184,9 +187,6 @@
     "PublicBrain/A1-EN.md",
     "PublicBrain/Hindi.md",
     "PublicBrain/Aprender Idioma Hindi.md",
-    "PublicBrain/Básico HI.md",
-    "Home.md",
-    "Aprender a jugar Parchis.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

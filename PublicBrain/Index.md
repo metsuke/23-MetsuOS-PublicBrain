@@ -44,9 +44,9 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 
 ## Aprender libros Texto Cultura
 
-### Peliculas/OVA
+### Peliculas/Manga/OVA
 
-* Aprender sobre Akira (JP)
+* [[Aprender sobre Akira]] (JP)
 
 ### Musica
 
@@ -57,7 +57,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 
 AR/CA/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALMENTE la pena para hacer lo propio) [[TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT]]
 
-### Series/Anime
+### Series/Manga/Anime
 
 * [[Aprender sobre Naruto]] (JP)
 * Aprender sobre Stargate (EN)

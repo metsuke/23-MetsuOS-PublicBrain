@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Naruto.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Naruto.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Naruto.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Naruto.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -161,9 +161,10 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
+    "Aprender sobre Akira.md",
     "PublicBrain/Index.md",
-    "Aprender sobre Naruto.md",
     "PublicBrain/Aprender sobre Naruto.md",
+    "Aprender sobre Naruto.md",
     "PublicBrain/Aprender sobre Rammstein.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
@@ -186,7 +187,6 @@
     "PublicBrain/Aprender Idioma Inglés.md",
     "PublicBrain/A1-EN.md",
     "PublicBrain/Hindi.md",
-    "PublicBrain/Aprender Idioma Hindi.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

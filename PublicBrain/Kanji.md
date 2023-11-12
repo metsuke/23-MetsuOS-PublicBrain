@@ -2,6 +2,8 @@
 
 [[Japonés]]
 
+[[Hiragana]] | [[Katakana]] | [[Kanji]] | [[Sistemas de escritura japoneses]]
+
 Los kanji son caracteres chinos que se adoptaron en Japón y se convirtieron en parte integral de los [[Sistemas de escritura japoneses]]. Son logogramas, lo que significa que cada carácter representa una palabra, un concepto o una idea en lugar de una sílaba o sonido individual.
 
 Aquí tienes algunos aspectos clave sobre los kanji:

@@ -1,7 +1,8 @@
 # Hiragana
 
 [[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
-[[Hiragana]] | [[Katakana]] | [[Sistemas de escritura japoneses]]
+
+[[Hiragana]] | [[Katakana]] | [[Kanji]] | [[Sistemas de escritura japoneses]]
 
 El hiragana es uno de los [[Sistemas de escritura japoneses]]. Es un silabario compuesto por 46 caracteres que representan sílabas o sonidos básicos del idioma japonés. El hiragana se utiliza para escribir palabras japonesas nativas, partículas gramaticales y terminaciones verbales.
 
@@ -22,4 +23,4 @@ Aunque el hiragana se usa principalmente en palabras nativas y partículas grama
 
 Dominar el hiragana es un paso importante en el aprendizaje del idioma [[Japonés]] y te permitirá leer y escribir palabras básicas y expresiones comunes.
 
-[[あ]] [[い]] [[う]] え [[お]] か き [[く]] [[け]] [[こ]] さ [[し]] す せ [[そ]] た ち [[つ]] て [[と]] [[な]] [[に]] ぬ [[ね]] [[の]] [[は ]]ひ ふ [[へ]] ほ ま み む め も や ゆ よ ら [[り]] る れ ろ わ を [[ん]] が ぎ ぐ げ ご ざ じ ず ぜ ぞ だ ぢ づ で ど ば び ぶ べ ぼ ぱ ぴ ぷ ぺ ぽ きゃ きゅ きょ しゃ しゅ しょ ちゃ ちゅ ちょ にゃ にゅ にょ ひゃ ひゅ ひょ みゃ みゅ みょ りゃ りゅ りょ ぎゃ ぎゅ ぎょ じゃ じゅ じょ びゃ びゅ びょ ぴゃ ぴゅ ぴょ
+[[あ]] [[い]] [[う]] え [[お]] か き [[く]] [[け]] [[こ]] さ [[し]] す せ [[そ]] た ち [[つ]] て [[と]] [[な]] [[に]] ぬ [[ね]] [[の]] [[は ]]ひ ふ [[へ]] ほ ま み む め も や [[ゆ]] よ ら [[り]] る れ ろ わ を [[ん]] が ぎ ぐ げ ご ざ じ ず ぜ ぞ だ ぢ づ で ど ば び ぶ べ ぼ ぱ ぴ ぷ ぺ ぽ きゃ きゅ きょ しゃ しゅ しょ ちゃ ちゅ ちょ にゃ にゅ にょ ひゃ ひゅ ひょ みゃ みゅ みょ りゃ りゅ りょ ぎゃ ぎゅ ぎょ じゃ じゅ じょ びゃ びゅ びょ ぴゃ ぴゅ ぴょ

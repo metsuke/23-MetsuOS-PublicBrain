@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Programación.md"
               }
             }
           },
@@ -162,32 +161,32 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
-    "Aprender a jugar GO.md",
-    "PublicBrain/Aprender a jugar GO.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender Idioma Ruso.md",
-    "PublicBrain/A1-RU.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
-    "PublicBrain/Aprender Idioma Árabe.md",
-    "PublicBrain/A1-AR.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Alan Wake (Remedy Entertainment, 2010).md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender a Programar desde Cero.md",
-    "PublicBrain/Diferencia entre hardware y software.md",
-    "PublicBrain/Importancia de la programación en la actualidad.md",
-    "Diferencia entre hardware y software.md",
-    "PublicBrain/Aprender Idioma Aleman.md",
-    "PublicBrain/Niveles Oficiales GE.md",
-    "PublicBrain/A1-GE.md",
-    "PublicBrain/Números del 1 al 20  (A1-EN).md",
-    "PublicBrain/El Alfabeto Alemán (A1-GE).md",
-    "El Alfabeto Alemán (A1-GE).md",
+    "PublicBrain/Index.md",
+    "PublicBrain/japonés.md",
+    "PublicBrain/Hiragana.md",
+    "PublicBrain/そ.md",
+    "PublicBrain/り.md",
+    "PublicBrain/ゆ.md",
+    "PublicBrain/Sistemas de escritura japoneses.md",
+    "PublicBrain/Katakana.md",
+    "PublicBrain/Kanji.md",
+    "PublicBrain/Hiragama.md",
+    "Hiragama.md",
+    "ゆ.md",
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/Aprender Idioma Swahili.md",
+    "PublicBrain/A1-SW.md",
+    "PublicBrain/Aprender Idioma Ucraniano.md",
+    "PublicBrain/Aprender Idioma Sueco.md",
     "PublicBrain/Aprender Idioma Inglés.md",
     "PublicBrain/A1-EN.md",
+    "PublicBrain/Hindi.md",
+    "PublicBrain/Aprender Idioma Hindi.md",
+    "PublicBrain/Básico HI.md",
+    "Home.md",
+    "Aprender a jugar Parchis.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

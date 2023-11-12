@@ -23,9 +23,11 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * EN [[Aprender Idioma Inglés]]
 * ES [[Aprender Idioma Español]]
 * EU [[Aprender Idioma Euskera]]
+* FR Aprender Idioma Frances
 * GE | [[Aprender Idioma Aleman]]
 * HI [[Aprender Idioma Hindi]]
 * JP [[Aprender Idioma Japones]]
+* NO Aprender Idioma Noruego
 * RO [[Aprender Idioma Rumano]]
 * RU [[Aprender Idioma Ruso]]
 * SV [[Aprender Idioma Sueco]]
@@ -39,6 +41,26 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
  * [Sistemas de escritura del mundo](https://www.worldswritingsystems.org/)
 
 [[Textos Religiosos y sus Idiomas de Origen]]
+
+## Aprender libros Texto Cultura
+
+### Peliculas/OVA
+
+* Aprender sobre Akira (JP)
+
+### Musica
+
+* [[Aprender sobre BabyMetal]] (JP)
+* [[Aprender sobre Mecano]] (ES)
+* [[Aprender sobre Nirvana]] (EN)
+* [[Aprender sobre Rammstein]] (GE)
+
+AR/CA/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALMENTE la pena para hacer lo propio) [[TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT]]
+
+### Series/Anime
+
+* Aprender sobre Naruto (JP)
+* Aprender sobre Stargate (EN)
 
 ## Aprender: mis Libros de Texto
 
@@ -56,34 +78,15 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Aprender sobre Storytelling]]
 
-### Cultura
-
-#### Peliculas/OVA
-
-* Aprender sobre Akira (JP)
-
-#### Musica
-
-* [[Aprender sobre BabyMetal]] (JP)
-* [[Aprender sobre Mecano]] (ES)
-* [[Aprender sobre Nirvana]] (EN)
-* [[Aprender sobre Rammstein]] (GE)
-
-AR/CA/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALMENTE la pena para hacer lo propio) [[TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT]]
-
-#### Series/Anime
-
-* Aprender sobre Naruto (JP)
-* Aprender sobre Stargate (EN)
-
-
 ### Diseño
 
 * [[Aprender sobre Tipografía]]
 
 ### Juegos
 
+* [[Aprender a jugar Ajedrez]]
 * [[Aprender a jugar GO]]
+* [[Aprender a jugar Parchis]]
 
 
 ### Plena Inclusión

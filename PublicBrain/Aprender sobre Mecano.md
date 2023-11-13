@@ -10,7 +10,7 @@ Y es que el olvido de la perspectiva histórica, como con el Holocausto Nazi o l
 
 ## Sobre Mecano
 
-Mecano fue un influyente grupo musical español que se formó en 1981 y estuvo activo hasta 1992. Estuvo compuesto por tres miembros principales: [[Ana Torroja]] (voz), [[Nacho Cano]] (teclados y guitarras), y José María Cano (guitarra y teclados). El grupo se destacó por su estilo pop y synth-pop, y se convirtió en uno de los actos musicales más exitosos en la historia de la música española.
+Mecano fue un influyente grupo musical español que se formó en 1981 y estuvo activo hasta 1992. Estuvo compuesto por tres miembros principales: [[Ana Torroja]] (voz), [[Nacho Cano]] (teclados y guitarras), y [[José María Cano]] (guitarra y teclados). El grupo se destacó por su estilo pop y synth-pop, y se convirtió en uno de los actos musicales más exitosos en la historia de la música española.
 
 El contexto histórico en el que nació Mecano fue significativo para la música y la sociedad en España:
 

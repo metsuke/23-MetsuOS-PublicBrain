@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Rammstein.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Rammstein.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Rammstein.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Rammstein.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -161,10 +161,12 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
-    "PublicBrain/Paul Landers.md",
-    "PublicBrain/Aprender sobre Rammstein.md",
-    "Paul Landers.md",
+    "PublicBrain/Aprender sobre Mecano.md",
+    "José María Cano.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Rammstein.md",
+    "PublicBrain/Paul Landers.md",
+    "Paul Landers.md",
     "PublicBrain/Aprender sobre Stargate.md",
     "Aprender sobre Stargate.md",
     "PublicBrain/Dave Grohl.md",
@@ -185,8 +187,6 @@
     "PublicBrain/Katakana.md",
     "PublicBrain/Kanji.md",
     "PublicBrain/Hiragama.md",
-    "Hiragama.md",
-    "ゆ.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

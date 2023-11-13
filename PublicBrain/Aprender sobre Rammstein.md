@@ -16,7 +16,7 @@ Aquí tienes algunos aspectos clave sobre Rammstein:
     
     - [[Till Lindemann]]: vocalista.
     - [[Richard Z. Kruspe]]: guitarra líder y coros.
-    - Paul Landers: guitarra rítmica y coros.
+    - [[Paul Landers]]: guitarra rítmica y coros.
     - Oliver Riedel: bajo.
     - Christoph Schneider: batería.
     - Christian "Flake" Lorenz: teclados y sintetizadores.

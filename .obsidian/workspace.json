@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Rammstein.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Rammstein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Rammstein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Rammstein.md"
               }
             }
           },
@@ -161,8 +161,11 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Stargate.md",
+    "PublicBrain/Paul Landers.md",
+    "PublicBrain/Aprender sobre Rammstein.md",
+    "Paul Landers.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Stargate.md",
     "Aprender sobre Stargate.md",
     "PublicBrain/Dave Grohl.md",
     "PublicBrain/Aprender sobre Nirvana.md",
@@ -171,7 +174,6 @@
     "Aprender sobre Akira.md",
     "PublicBrain/Aprender sobre Naruto.md",
     "Aprender sobre Naruto.md",
-    "PublicBrain/Aprender sobre Rammstein.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "PublicBrain/japonés.md",
@@ -185,8 +187,6 @@
     "PublicBrain/Hiragama.md",
     "Hiragama.md",
     "ゆ.md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/Aprender Idioma Swahili.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

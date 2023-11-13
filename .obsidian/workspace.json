@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dave Grohl.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dave Grohl.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dave Grohl.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dave Grohl.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -161,9 +161,12 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Stargate.md",
+    "PublicBrain/Index.md",
+    "Aprender sobre Stargate.md",
+    "PublicBrain/Dave Grohl.md",
     "PublicBrain/Aprender sobre Nirvana.md",
     "Dave Grohl.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Akira.md",
     "Aprender sobre Akira.md",
     "PublicBrain/Aprender sobre Naruto.md",
@@ -184,9 +187,6 @@
     "ゆ.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/Aprender Idioma Swahili.md",
-    "PublicBrain/A1-SW.md",
-    "PublicBrain/Aprender Idioma Ucraniano.md",
-    "PublicBrain/Aprender Idioma Sueco.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

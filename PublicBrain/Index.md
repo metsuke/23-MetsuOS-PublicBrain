@@ -60,7 +60,7 @@ AR/CA/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALM
 ### Series/Manga/Anime
 
 * [[Aprender sobre Naruto]] (JP)
-* Aprender sobre Stargate (EN)
+* [[Aprender sobre Stargate]] (EN)
 
 ## Aprender: mis Libros de Texto
 

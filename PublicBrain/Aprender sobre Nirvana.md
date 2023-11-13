@@ -13,7 +13,7 @@ Nirvana fue una influyente banda de [[rock alternativo]] originaria de Estados U
 
 - [[Kurt Cobain]]: vocalista, guitarrista y principal compositor de la banda.
 - [[Krist Novoselic]]: bajista y co-fundador de Nirvana.
-- Dave Grohl: baterista. Dave se unió a Nirvana en 1990 y permaneció en la banda hasta su disolución en 1994. Después, fundó Foo Fighters y se convirtió en un exitoso músico por derecho propio.
+- [[Dave Grohl]]: baterista. Dave se unió a Nirvana en 1990 y permaneció en la banda hasta su disolución en 1994. Después, fundó Foo Fighters y se convirtió en un exitoso músico por derecho propio.
 
 **Carrera y logros:**
 

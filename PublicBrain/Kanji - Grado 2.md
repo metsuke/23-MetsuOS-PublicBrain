@@ -1,4 +1,4 @@
-# Kanji - Grado 2
+ # Kanji - Grado 2
 
 [[Kanji]] | [Segundo año de la escuela primaria](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_2 "Japonés/Kanji/Grado 2")
 

@@ -8,7 +8,7 @@
 
 1.1. [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
 1.2. [[Saludos y presentaciones en japonés (N5-JP)]]
-1.3. Números y expresiones de cantidad.
+1.3. [[Números y expresiones de cantidad (N5-JP)]]
 1.4. Vocabulario básico y frases cotidianas.
 
 ## Módulo 2: Gramática Elemental

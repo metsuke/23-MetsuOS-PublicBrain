@@ -26,6 +26,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * FR Aprender Idioma Frances
 * GE | [[Aprender Idioma Aleman]]
 * HI [[Aprender Idioma Hindi]]
+* IT [[Aprender Idioma Italiano]]
 * JP [[Aprender Idioma Japones]]
 * NO Aprender Idioma Noruego
 * RO [[Aprender Idioma Rumano]]

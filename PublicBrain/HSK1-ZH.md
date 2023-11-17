@@ -9,7 +9,7 @@
 - [[¿Qué es el chino mandarín? (HSK1-ZH)]]
 - [[El sistema de escritura chino (HSK1-ZH)]]
 - Introducción al Pinyin (alfabeto chino)
-- Pronunciación y entonación en chino
+- [[Pronunciación y entonación en chino (HSK1-ZH)]]
 
 ## Módulo 2: Saludos y Conversación Básica
 

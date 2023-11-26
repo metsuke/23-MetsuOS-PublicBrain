@@ -2,6 +2,6 @@
 
 [[Index#Aprender Idiomas]]
 
-* SV | Sueco 
+* SV | [[Sueco]] 
 	* Niveles Oficiales SV
 	* Niveles y Exámenes Adicionales SV

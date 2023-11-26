@@ -8,7 +8,7 @@
 
 - [[Pronunciación y escritura del alfabeto árabe]]
 - [[Saludos y presentaciones (A1-AR)]]
-- Los números del 1 al 10
+- [[Los números del 1 al 10 (A1-AR)]]
 - Vocabulario básico de uso común
 
 ## Módulo 2: Gramática Básica

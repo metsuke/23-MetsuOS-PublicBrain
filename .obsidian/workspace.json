@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender Idioma Sueco.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender Idioma Sueco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender Idioma Sueco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender Idioma Sueco.md"
               }
             }
           },
@@ -148,7 +148,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -156,37 +155,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
+    "Sueco.md",
+    "PublicBrain/Sueco.md",
+    "PublicBrain/Aprender Idioma Sueco.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Aleman.md",
+    "PublicBrain/Los números del 1 al 10.md",
+    "PublicBrain/Los números del 1 al 10 (A1-AR).md",
+    "PublicBrain/Aprender Idioma Árabe.md",
+    "PublicBrain/A1-AR.md",
+    "Los números del 1 al 10 (A1-AR).md",
+    "Los números del 1 al 10.md",
+    "PublicBrain/Apnreder Idioma Tailandés.md",
+    "PublicBrain/Nivel Principiante TH.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/A1-CA.md",
+    "PublicBrain/Vocabulario relacionado con la casa y la familia (A1-CA).md",
+    "Vocabulario relacionado con la casa y la familia (A1-CA).md",
+    "PublicBrain/Pronunciación y entonación en chino (HSK1-ZH).md",
+    "PublicBrain/NSK1-ZH.md",
     "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/HSK1-ZH.md",
     "Pronunciación y entonación en chino (HSK1-ZH).md",
     "NSK1-ZH.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Euskera.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/N5-JP.md",
-    "PublicBrain/Números y expresiones de cantidad (N5-JP).md",
-    "Números y expresiones de cantidad (N5-JP).md",
-    "PublicBrain/Saludos y presentaciones en japonés (N5-JP).md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/Alan Wake (Remedy Entertainment, 2010).md",
-    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "PublicBrain/Aprender sobre Storytelling.md",
-    "Aprender Idioma Italiano.md",
-    "PublicBrain/Aprender Idioma Italiano.md",
-    "PublicBrain/Aprender Idioma Aleman.md",
-    "PublicBrain/A1-GE.md",
-    "PublicBrain/唱.md",
-    "PublicBrain/japonés.md",
-    "PublicBrain/Kanji.md",
-    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

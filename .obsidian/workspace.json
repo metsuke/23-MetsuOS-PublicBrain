@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md",
+                "file": "PublicBrain/A1-SW.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md",
+                "file": "PublicBrain/A1-SW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md",
+                "file": "PublicBrain/A1-SW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md"
+                "file": "PublicBrain/A1-SW.md"
               }
             }
           },
@@ -161,10 +161,14 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
+    "PublicBrain/Cómo presentarse (A1-SW).md",
+    "Cómo presentarse (A1-SW).md",
+    "PublicBrain/A1-SW.md",
+    "PublicBrain/Aprender Idioma Swahili.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Sueco.md",
     "Sueco.md",
     "PublicBrain/Sueco.md",
-    "PublicBrain/Aprender Idioma Sueco.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Aleman.md",
     "PublicBrain/Los números del 1 al 10.md",
     "PublicBrain/Los números del 1 al 10 (A1-AR).md",
@@ -183,10 +187,6 @@
     "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/HSK1-ZH.md",
     "Pronunciación y entonación en chino (HSK1-ZH).md",
-    "NSK1-ZH.md",
-    "PublicBrain/Aprender Idioma Euskera.md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/N5-JP.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

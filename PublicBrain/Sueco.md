@@ -4,7 +4,7 @@
 
 El sueco es una lengua germánica hablada principalmente en Suecia. También es hablado en algunas partes de Finlandia y por comunidades suecas en otros lugares del mundo. Es una de las lenguas escandinavas y está estrechamente relacionada con el danés y el noruego. Además, junto con el noruego y el danés, el sueco forma parte de la rama nórdica de las lenguas germánicas.
 
-## Características del Sueco:
+## Características del Sueco
 
 1. **Alfabeto:** El sueco utiliza el alfabeto latino con algunas letras adicionales, como å, ä, y ö.
     
@@ -19,7 +19,7 @@ El sueco es una lengua germánica hablada principalmente en Suecia. También es 
 6. **Influencia del inglés:** Dado el acceso generalizado a medios en inglés y la globalización, el sueco moderno ha adoptado ciertos anglicismos, especialmente en el ámbito de la tecnología y la cultura popular.
     
 
-**Recursos para Aprender Sueco:**
+## Recursos para Aprender Sueco
 
 - **Cursos en línea:** Plataformas como Duolingo, Babbel y Memrise ofrecen cursos de sueco para principiantes.
     

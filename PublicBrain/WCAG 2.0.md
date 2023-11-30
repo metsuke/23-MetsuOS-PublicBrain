@@ -16,7 +16,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
     - [[Cómo utilizar WCAG 2.0]]
 2. [[Principios de Accesibilidad]]
     - [[Perceptible]]
-    - Operable
+    - [[Operable]]
     - Comprensible
     - Robusto
 3. **Pautas de Accesibilidad**

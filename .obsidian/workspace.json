@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/N5-JP.md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/N5-JP.md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/N5-JP.md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/N5-JP.md"
+                "file": "PublicBrain/WCAG 2.1.md"
               }
             }
           },
@@ -161,11 +161,17 @@
   },
   "active": "110699e982016fcf",
   "lastOpenFiles": [
-    "PublicBrain/Vocabulario básico y frases cotidianas (N5-JP).md",
-    "PublicBrain/N5-JP.md",
-    "Vocabulario básico y frases cotidianas (N5-JP).md",
-    "PublicBrain/Aprender Idioma Japones.md",
+    "Operable.md",
+    "PublicBrain/Operable.md",
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/Perceptible.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/N5-JP.md",
+    "PublicBrain/Vocabulario básico y frases cotidianas (N5-JP).md",
+    "Vocabulario básico y frases cotidianas (N5-JP).md",
     "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/A1-SW.md",
     "PublicBrain/Cómo presentarse (A1-SW).md",
@@ -181,12 +187,6 @@
     "Los números del 1 al 10 (A1-AR).md",
     "Los números del 1 al 10.md",
     "PublicBrain/Apnreder Idioma Tailandés.md",
-    "PublicBrain/Nivel Principiante TH.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
-    "PublicBrain/Vocabulario relacionado con la casa y la familia (A1-CA).md",
-    "Vocabulario relacionado con la casa y la familia (A1-CA).md",
-    "PublicBrain/Pronunciación y entonación en chino (HSK1-ZH).md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

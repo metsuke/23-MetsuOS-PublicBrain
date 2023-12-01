@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a91f907023f0a7ba",
+        "id": "306475355132f2b6",
         "type": "tabs",
         "children": [
           {
-            "id": "110699e982016fcf",
+            "id": "646d2d0ff4e294e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -159,15 +160,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "110699e982016fcf",
+  "active": "646d2d0ff4e294e6",
   "lastOpenFiles": [
+    "Aprender sobre Hardware Libre.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/WCAG 2.1.md",
     "Operable.md",
     "PublicBrain/Operable.md",
-    "PublicBrain/WCAG 2.1.md",
     "PublicBrain/Perceptible.md",
     "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/N5-JP.md",
     "PublicBrain/Vocabulario básico y frases cotidianas (N5-JP).md",
@@ -186,7 +188,6 @@
     "PublicBrain/A1-AR.md",
     "Los números del 1 al 10 (A1-AR).md",
     "Los números del 1 al 10.md",
-    "PublicBrain/Apnreder Idioma Tailandés.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "306475355132f2b6",
+        "id": "4265eb25ef6f84e9",
         "type": "tabs",
         "children": [
           {
-            "id": "646d2d0ff4e294e6",
+            "id": "130a1776411032a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Ejercicios Factorizacion n-Nomiosç.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Ejercicios Factorizacion n-Nomiosç.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Ejercicios Factorizacion n-Nomiosç.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Ejercicios Factorizacion n-Nomiosç.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -160,10 +160,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "646d2d0ff4e294e6",
+  "active": "130a1776411032a2",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios.md",
+    "PublicBrain/Aprender Idioma Ucraniano.md",
+    "PublicBrain/Ucraniano.md",
+    "Niveles y Exámenes Adicionales UK.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Niveles Oficiales UK.md",
+    "Niveles Oficiales UK.md",
+    "PublicBrain/Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios.md",
+    "PublicBrain/Ejercicios Factorizacion n-Nomiosç.md",
     "PublicBrain/Aprender a jugar GO.md",
     "PublicBrain/Introducción al Go.md",
     "Introducción al Go.md",
@@ -182,12 +188,6 @@
     "PublicBrain/N5-JP.md",
     "PublicBrain/Vocabulario básico y frases cotidianas (N5-JP).md",
     "Vocabulario básico y frases cotidianas (N5-JP).md",
-    "PublicBrain/Aprender Idioma Swahili.md",
-    "PublicBrain/A1-SW.md",
-    "PublicBrain/Cómo presentarse (A1-SW).md",
-    "Cómo presentarse (A1-SW).md",
-    "PublicBrain/Aprender Idioma Sueco.md",
-    "Sueco.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

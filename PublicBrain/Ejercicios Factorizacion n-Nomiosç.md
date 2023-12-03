@@ -7,7 +7,9 @@
 
 $$x^2+2x => x*(x+2) $$
 
-### 
+### (5y-15xy^2)
+
+$$(5y-15xy^2) = 5y*(1-3xy)$$
 
 ### 
 ## Caso 2: Factor común por agrupación de términos.

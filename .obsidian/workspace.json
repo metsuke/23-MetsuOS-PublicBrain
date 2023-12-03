@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender a jugar GO.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender a jugar GO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender a jugar GO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender a jugar GO.md"
               }
             }
           },
@@ -162,8 +162,15 @@
   },
   "active": "646d2d0ff4e294e6",
   "lastOpenFiles": [
-    "Aprender sobre Hardware Libre.md",
+    "PublicBrain/Introducción al Go.md",
+    "PublicBrain/Aprender a jugar GO.md",
+    "Introducción al Go.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender con Recuenco.md",
+    "PublicBrain/Arquitectura de Incentivos.md",
+    "PublicBrain/Arquitectura Dinámica de Incentivos.md",
+    "PublicBrain/Aprender sobre Hardware Libre.md",
+    "Aprender sobre Hardware Libre.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.1.md",
     "Operable.md",
@@ -181,13 +188,6 @@
     "PublicBrain/Aprender Idioma Sueco.md",
     "Sueco.md",
     "PublicBrain/Sueco.md",
-    "PublicBrain/Aprender Idioma Aleman.md",
-    "PublicBrain/Los números del 1 al 10.md",
-    "PublicBrain/Los números del 1 al 10 (A1-AR).md",
-    "PublicBrain/Aprender Idioma Árabe.md",
-    "PublicBrain/A1-AR.md",
-    "Los números del 1 al 10 (A1-AR).md",
-    "Los números del 1 al 10.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

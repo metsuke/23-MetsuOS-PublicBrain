@@ -2,8 +2,9 @@
 
 [[Index]]
 
-### Nivel Principiante:
-1. **Introducción al Go:**
+### Nivel Principiante
+
+1. [[Introducción al Go]]
    - Historia y reglas básicas.
    - Configuración del tablero y las piedras.
 

@@ -93,6 +93,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Plena Inclusión
 
 * [[Aprender sobre Accesibilidad]]
+* [[Aprender sobre Altas Capacidades]]
 
 ### Productividad
 

@@ -2,8 +2,6 @@
 
 [[Index#Aprender Idiomas]]
 
-[[VLC Valenciano | Niveles Oficiales VLC]]
-
 * VLC | [[Valenciano]]
 	* [[Niveles Oficiales VLC]]
 		* Nivel A: [[A1-VLC]] | [[A2-VLC]] 

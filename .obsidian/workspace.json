@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprender sobre Altas Capacidades.md",
+                "file": "PublicBrain/Números y Fechas (A1-VLC).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprender sobre Altas Capacidades.md",
+                "file": "PublicBrain/Números y Fechas (A1-VLC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprender sobre Altas Capacidades.md",
+                "file": "PublicBrain/Números y Fechas (A1-VLC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprender sobre Altas Capacidades.md"
+                "file": "PublicBrain/Números y Fechas (A1-VLC).md"
               }
             }
           },
@@ -162,8 +162,13 @@
   },
   "active": "130a1776411032a2",
   "lastOpenFiles": [
+    "PublicBrain/A1-VLC.md",
+    "Números y Fechas (A1-VLC).md",
+    "PublicBrain/Números y Fechas (A1-VLC).md",
+    "PublicBrain/Aprender Idioma Valenciano.md",
     "PublicBrain/Index.md",
     "Aprender sobre Altas Capacidades.md",
+    "PublicBrain/Aprender sobre Altas Capacidades.md",
     "PublicBrain/Aprender Idioma Hindi.md",
     "PublicBrain/Básico HI.md",
     "PublicBrain/Introducción al alfabeto Hindi.md",
@@ -183,11 +188,6 @@
     "PublicBrain/Arquitectura de Incentivos.md",
     "PublicBrain/Arquitectura Dinámica de Incentivos.md",
     "PublicBrain/Aprender sobre Hardware Libre.md",
-    "Aprender sobre Hardware Libre.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/WCAG 2.1.md",
-    "Operable.md",
-    "PublicBrain/Operable.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

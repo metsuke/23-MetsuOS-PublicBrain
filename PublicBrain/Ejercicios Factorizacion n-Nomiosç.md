@@ -11,7 +11,13 @@ $$x^2+2x => x*(x+2) $$
 
 $$(5y-15xy^2) = 5y*(1-3xy)$$
 
+### (5z^2-5z+15z^3)
+
+$$(5z^2-5z+15z^3)=5z*(3z^3+z-1)$$
 ### 
+
+### 
+
 ## Caso 2: Factor común por agrupación de términos.
 
 ### 

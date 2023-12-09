@@ -102,7 +102,8 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Tecnología
 
 * [[Aprender sobre GNU Linux]]
-* [[Aprender sobre Hardware Libre]]
+* [[Aprender sobre Hardware Libre]] 
+	* [[Hardware Libre - Microprocesadores]]
 * [[Aprender sobre Inteligencia Artificial]]
 * [[Aprender sobre Programación]]
 * [[Aprender sobre Redes e Internet]]

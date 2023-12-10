@@ -2,7 +2,7 @@
 
 [[Index#Aprender Idiomas]]
   
-* IT | Italiano
+* IT | [[Italiano]]
 	* Niveles Oficiales IT
 	* Niveles y Exámenes Adicionales IT
 

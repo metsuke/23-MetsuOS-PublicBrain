@@ -8,7 +8,7 @@
 
 - [[Introducción al alfabeto tailandés]]
 - [[Saludos y presentaciones (Principiante TH)]]
-- Los números en tailandés
+- [[Los números en tailandés]]
 - Expresiones básicas de cortesía
 
 ## Módulo 2: Vocabulario Esencial

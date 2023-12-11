@@ -6,7 +6,7 @@
 
 ## Módulo 1: Introducción al Ajedrez
 - **Lección 1:** Historia y origen del ajedrez
-- **Lección 2:** Configuración del tablero y piezas
+- [[Configuración del tablero y piezas en ajedrez]]
 - **Lección 3:** Reglas básicas del juego
 
 ## Módulo 2: Movimientos y Capturas

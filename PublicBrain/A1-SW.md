@@ -10,7 +10,7 @@
 
 - [[Saludos básicos (A1-SW)]]
 - [[Cómo presentarse (A1-SW)]]
-- Expresar agradecimiento
+- [[Expresar agradecimiento (A1-SW)]]
 
 ### Lección 2: Vocabulario Esencial
 

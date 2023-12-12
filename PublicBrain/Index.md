@@ -83,6 +83,10 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Aprender sobre Tipografía]]
 
+### Física
+
+* [[Aprender más allá del orden del tiempo]]
+
 ### Juegos
 
 * [[Aprender a jugar Ajedrez]]

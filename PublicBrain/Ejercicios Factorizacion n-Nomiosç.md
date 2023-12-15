@@ -18,8 +18,9 @@ $$(5z^2-5z+15z^3)=5z*(3z^3+z-1)$$
 ### (9my^2-27m^2x^2y^2+18my^2) 
 
 $$(9my^2-27m^2x^2y^2+18my^2)=9y^2(m-3m^2x^2+2m)=9y^2(-3m^2x^2+3m)=27my^2(1-x^2)$$
-### 
+### (6xy^3-9mx^2y^3+12nx^3y^3-3n^2x^4y^3)
 
+$$(6xy^3-9mx^2y^3+12nx^3y^3-3n^2x^4y^3)=3xy^3(2-3mx+4nx^2-n^2x^3)$$
 ## Caso 2: Factor común por agrupación de términos.
 
 ### 

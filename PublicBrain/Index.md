@@ -93,6 +93,8 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender a jugar GO]]
 * [[Aprender a jugar Parchis]]
 
+* [[Aprender sobre World of Warcraft]]
+
 
 ### Plena Inclusión
 

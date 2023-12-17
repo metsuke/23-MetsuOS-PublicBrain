@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre el Lore de World of Warcraft.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre el Lore de World of Warcraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre el Lore de World of Warcraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md"
+                "file": "PublicBrain/Aprender sobre el Lore de World of Warcraft.md"
               }
             }
           },
@@ -162,10 +162,16 @@
   },
   "active": "130a1776411032a2",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre World of Warcraft.md",
+    "PublicBrain/Index.md",
+    "Aprender sobre el Lore de Wow.md",
+    "PublicBrain/Aprender sobre el Lore de World of Warcraft.md",
+    "Aprender sobre World of Warcraft.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/¿Qué es el Lenguaje C?.md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "¿Qué es el Lenguaje C?.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Tabla Periódica.md",
     "PublicBrain/Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios.md",
     "PublicBrain/Ejercicios Factorizacion n-Nomiosç.md",
@@ -182,12 +188,6 @@
     "PublicBrain/Aprender a jugar Ajedrez.md",
     "Configuración del tablero y piezas en ajedrez.md",
     "PublicBrain/Entornos Virtuales con Python.md",
-    "PublicBrain/Aprender Idioma Italiano.md",
-    "PublicBrain/Italiano.md",
-    "Italiano.md",
-    "PublicBrain/Los números en tailandés.md",
-    "PublicBrain/Apnreder Idioma Tailandés.md",
-    "PublicBrain/Nivel Principiante TH.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

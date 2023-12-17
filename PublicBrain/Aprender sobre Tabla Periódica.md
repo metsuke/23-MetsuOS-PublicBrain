@@ -1,6 +1,6 @@
 # Aprender sobre Tabla Periódica
 
-[[Index]]
+[[Index]] | [PITable](https://ptable.com/?lang=es#Propiedades)
 
 La tabla periódica es una herramienta fundamental en la química que organiza y presenta de manera ordenada todos los elementos químicos conocidos. Fue desarrollada por Dimitri Mendeléyev en 1869 y ha evolucionado con el tiempo a medida que se han descubierto nuevo[[[]]]()s elementos.
 

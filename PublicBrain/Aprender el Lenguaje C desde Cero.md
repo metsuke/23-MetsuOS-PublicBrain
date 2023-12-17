@@ -4,7 +4,7 @@
 
 ## Introducción a C
 
-* ¿Qué es el Lenguaje C?
+* [[¿Qué es el Lenguaje C?]]
 	* Historia y relevancia
 	* Comparación con otros lenguajes
 * Configuración del Entorno de Desarrollo

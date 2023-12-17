@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Programación.md"
               }
             }
           },
@@ -162,8 +162,11 @@
   },
   "active": "130a1776411032a2",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Tabla Periódica.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "¿Qué es el Lenguaje C?.md",
+    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Tabla Periódica.md",
     "PublicBrain/Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios.md",
     "PublicBrain/Ejercicios Factorizacion n-Nomiosç.md",
     "PublicBrain/Aprender sobre Storytelling.md",
@@ -185,9 +188,6 @@
     "PublicBrain/Los números en tailandés.md",
     "PublicBrain/Apnreder Idioma Tailandés.md",
     "PublicBrain/Nivel Principiante TH.md",
-    "Los números en tailandés.md",
-    "PublicBrain/Hardware Libre - Microprocesadores.md",
-    "PublicBrain/Libre-SOC.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

@@ -99,6 +99,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Plena Inclusión
 
 * [[Aprender sobre Accesibilidad]]
+	* Aprender sobre [[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas]] ([[WCAG 2.0]] | [[WCAG 2.1]])
 * [[Aprender sobre Altas Capacidades]]
 
 ### Productividad

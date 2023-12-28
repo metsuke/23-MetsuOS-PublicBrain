@@ -16,7 +16,7 @@
 2.1. Estructuras de oraciones simples en japonés.
 2.2. Partículas gramaticales y su uso.
 2.3. Verbos de acción y verbos de estado básicos.
-2.4. Preguntas y respuestas en situaciones comunes.
+2.4. [[Preguntas y respuestas en situaciones comunes (N5-JP)]]
 
 ## Módulo 3: Vida Cotidiana
 

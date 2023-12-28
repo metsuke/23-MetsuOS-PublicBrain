@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción al Pinyin (alfabeto chino) (HSK1-ZH).md",
+                "file": "Meses del año (A1-SW).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción al Pinyin (alfabeto chino) (HSK1-ZH).md",
+                "file": "Meses del año (A1-SW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introducción al Pinyin (alfabeto chino) (HSK1-ZH).md",
+                "file": "Meses del año (A1-SW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introducción al Pinyin (alfabeto chino) (HSK1-ZH).md"
+                "file": "Meses del año (A1-SW).md"
               }
             }
           },
@@ -162,10 +162,13 @@
   },
   "active": "130a1776411032a2",
   "lastOpenFiles": [
+    "PublicBrain/A1-SW.md",
+    "Meses del año (A1-SW).md",
+    "PublicBrain/Aprender Idioma Swahili.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/HSK1-ZH.md",
     "Introducción al Pinyin (alfabeto chino) (HSK1-ZH).md",
-    "PublicBrain/Aprender Idioma Chino.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/N5-JP.md",
     "PublicBrain/Preguntas y respuestas en situaciones comunes (N5-JP).md",
@@ -185,9 +188,6 @@
     "PublicBrain/Aprender sobre Tabla Periódica.md",
     "PublicBrain/Aprender sobre Storytelling.md",
     "PublicBrain/Importancia del Storytelling en diferentes contextos.md",
-    "Importancia del Storytelling en diferentes contextos.md",
-    "PublicBrain/Aprender más allá del orden del tiempo.md",
-    "Aprender más allá del orden del tiempo.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

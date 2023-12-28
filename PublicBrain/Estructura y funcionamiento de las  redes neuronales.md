@@ -13,7 +13,7 @@
 * Modelo de la neurona artificial
 * Función de activación
 * Pesos y bias
-* Cálculo de la salida de una neurona
+* [[Cálculo de la salida de una neurona]]
 
 ## Redes Neuronales Feedforward
 

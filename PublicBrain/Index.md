@@ -112,6 +112,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre Hardware Libre]] 
 	* [[Hardware Libre - Microprocesadores]]
 * [[Aprender sobre Inteligencia Artificial]]
+	* Aprender sobre [[Estructura y funcionamiento de las  redes neuronales]]
 * [[Aprender sobre Programación]]
 * [[Aprender sobre Redes e Internet]]
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "Importancia de la lectura fácil para la accesibilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "Importancia de la lectura fácil para la accesibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "Importancia de la lectura fácil para la accesibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-CA.md"
+                "file": "Importancia de la lectura fácil para la accesibilidad.md"
               }
             }
           },
@@ -136,7 +136,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -162,17 +164,18 @@
   },
   "active": "130a1776411032a2",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Index.md",
+    "Importancia de la lectura fácil para la accesibilidad.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/A1-CA.md",
     "PublicBrain/Conversación sobre la rutina diaria (A1-CA).md",
     "Conversación sobre la rutina diaria (A1-CA).md",
-    "PublicBrain/A1-CA.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "Cálculo de la salida de una neurona.md",
     "PublicBrain/Cálculo de la salida de una neurona.md",
     "PublicBrain/Redes Neuronales Artificiales.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.0.md",
     "Comprensible.md",
     "PublicBrain/Comprensible.md",
@@ -187,7 +190,6 @@
     "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/HSK1-ZH.md",
     "Introducción al Pinyin (alfabeto chino) (HSK1-ZH).md",
-    "PublicBrain/Aprender Idioma Japones.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

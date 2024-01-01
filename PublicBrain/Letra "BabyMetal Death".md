@@ -57,7 +57,7 @@ El 1997 se refiere al año de nacimiento de [[Su-Metal]]
 	* ES - Cuenta la leyenda
 	* EN - It is told
 
-* [[メタル]][[の]][[神]][[から]]伝説[[の]]首輪[[を]]授かることで.
+* [[メタル]][[の]][[神]][[から]][[伝説]][[の]][[首輪]][[を]]授かることで.
 	* JP - Metaru no kami kara densetsu no kubikazari o sazukaru koto de
 	* ES - Obtener el collar legendario de Dios del Metal
 	* EN - Obtaining the Legendary Necklace from the God of Metal

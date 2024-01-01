@@ -6,14 +6,14 @@
 
 ## Módulo 1: Introducción al Tailandés
 
-- [[Introducción al alfabeto tailandés]]
+- [[Introducción al alfabeto tailandés  (Principiante TH)]]
 - [[Saludos y presentaciones (Principiante TH)]]
-- [[Los números en tailandés]]
+- [[Los números en tailandés  (Principiante TH)]]
 - Expresiones básicas de cortesía
 
 ## Módulo 2: Vocabulario Esencial
 
-- Los días de la semana
+- [[Los días de la semana  (Principiante TH)]]
 - Los meses y las estaciones del año
 - La familia y relaciones personales
 - La comida y bebida

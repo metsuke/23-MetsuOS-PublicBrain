@@ -1,4 +1,4 @@
-# Introducción al alfabeto tailandés
+# Introducción al alfabeto tailandés  (Principiante TH)
 
 [[Nivel Principiante TH]]
 

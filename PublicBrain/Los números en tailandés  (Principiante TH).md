@@ -1,4 +1,4 @@
-# Los números en tailandés
+# Los números en tailandés  (Principiante TH)
 
 [[Nivel Principiante TH]]
 

@@ -7,7 +7,7 @@
 ## Módulo 1: Introducción al Ruso
 
 - Alfabeto cirílico
-- Saludos y presentaciones
+- [[Saludos y presentaciones]]
 - Números y contar
 - Días de la semana
 - Meses del año

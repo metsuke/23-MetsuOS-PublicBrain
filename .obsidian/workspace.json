@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Ruso.md",
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Ruso.md",
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Ruso.md",
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Ruso.md"
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md"
               }
             }
           },
@@ -164,6 +164,10 @@
   },
   "active": "130a1776411032a2",
   "lastOpenFiles": [
+    "Modelos de referencia OSI y TCPIP.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Ruso.md",
     "Saludos y presentaciones.md",
     "PublicBrain/A1-RU.md",
     "PublicBrain/Niveles Oficiales EU.md",
@@ -176,8 +180,6 @@
     "PublicBrain/Aprender Idioma Finlandes.md",
     "PublicBrain/A2-EU.md",
     "PublicBrain/A1-EU.md",
-    "PublicBrain/Aprender Idioma Ruso.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Rumano.md",
     "PublicBrain/A1-RO.md",
     "PublicBrain/Aprender Idioma Euskera.md",
@@ -188,8 +190,6 @@
     "B1-EU.md",
     "A2-EU.md",
     "Euskera.md",
-    "PublicBrain/Aprender Idioma Árabe.md",
-    "Niveles Oficiales EU.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

@@ -5,7 +5,7 @@
 # Curso: Aprender Ajedrez, de cero a pro
 
 ## Módulo 1: Introducción al Ajedrez
-- **Lección 1:** Historia y origen del ajedrez
+- [[Historia y origen del ajedrez]]
 - [[Configuración del tablero y piezas en ajedrez]]
 - **Lección 3:** Reglas básicas del juego
 

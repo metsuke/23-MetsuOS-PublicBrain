@@ -2,7 +2,7 @@
 
 [[Index]]
 
-"Naruto" es una popular serie de manga y anime japonesa creada por Masashi Kishimoto.
+"Naruto" es una popular serie de manga y anime japonesa creada por [[Masashi Kishimoto]].
 
 ## Manga
 

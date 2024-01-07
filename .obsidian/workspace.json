@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "A1-EU.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "A1-EU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "A1-EU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "A1-EU.md"
               }
             }
           },
@@ -164,8 +164,18 @@
   },
   "active": "130a1776411032a2",
   "lastOpenFiles": [
-    "Aprender Idioma Finlandes.md",
+    "C2-EU.md",
+    "C1-EU.md",
+    "B2-EU.md",
+    "B1-EU.md",
+    "A2-EU.md",
+    "A1-EU.md",
+    "PublicBrain/Aprender Idioma Euskera.md",
+    "Euskera.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Árabe.md",
+    "Niveles Oficiales EU.md",
+    "Aprender Idioma Finlandes.md",
     "Aprender Idioma Frances.md",
     "PublicBrain/Aprender Idioma Aleman.md",
     "PublicBrain/Niveles Oficiales GE.md",
@@ -180,16 +190,6 @@
     "Dimensiones del talento excepcional.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "Cómo la lectura fácil beneficia a diversas audiencias.md",
-    "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md",
-    "PublicBrain/Importancia de la lectura fácil para la accesibilidad.md",
-    "PublicBrain/Definición y objetivos de la lectura fácil.md",
-    "PublicBrain/¿Qué es la Lectura Fácil?.md",
-    "PublicBrain/Apnreder Idioma Tailandés.md",
-    "PublicBrain/Nivel Principiante TH.md",
-    "PublicBrain/首輪.md",
-    "PublicBrain/Los días de la semana  (Principiante TH).md",
-    "PublicBrain/Katsuhiro Otomo.md",
-    "Los días de la semana  (Principiante TH).md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

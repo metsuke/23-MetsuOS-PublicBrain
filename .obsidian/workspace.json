@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprender Idioma Frances.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprender Idioma Frances.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprender Idioma Frances.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprender Idioma Frances.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,9 +164,10 @@
   },
   "active": "130a1776411032a2",
   "lastOpenFiles": [
+    "Aprender Idioma Finlandes.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender Idioma Aleman.md",
     "Aprender Idioma Frances.md",
+    "PublicBrain/Aprender Idioma Aleman.md",
     "PublicBrain/Niveles Oficiales GE.md",
     "PublicBrain/A1-GE.md",
     "PublicBrain/Números y Fechas (A1-GE).md",
@@ -189,7 +190,6 @@
     "PublicBrain/Los días de la semana  (Principiante TH).md",
     "PublicBrain/Katsuhiro Otomo.md",
     "Los días de la semana  (Principiante TH).md",
-    "PublicBrain/Los números en tailandés  (Principiante TH).md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

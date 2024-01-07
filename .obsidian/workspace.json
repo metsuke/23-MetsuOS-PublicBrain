@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "El Poder de las Historias.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "El Poder de las Historias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
+                "file": "El Poder de las Historias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Redes e Internet.md"
+                "file": "El Poder de las Historias.md"
               }
             }
           },
@@ -164,9 +164,13 @@
   },
   "active": "130a1776411032a2",
   "lastOpenFiles": [
-    "Modelos de referencia OSI y TCPIP.md",
-    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "PublicBrain/Aprender sobre Storytelling.md",
+    "El Poder de las Historias.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "PublicBrain/Capas de la infraestructura de una red.md",
+    "Aprender sobre Redes.md",
+    "Modelos de referencia OSI y TCPIP.md",
     "PublicBrain/Aprender Idioma Ruso.md",
     "Saludos y presentaciones.md",
     "PublicBrain/A1-RU.md",
@@ -186,10 +190,6 @@
     "A1-EU.md",
     "C2-EU.md",
     "C1-EU.md",
-    "B2-EU.md",
-    "B1-EU.md",
-    "A2-EU.md",
-    "Euskera.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

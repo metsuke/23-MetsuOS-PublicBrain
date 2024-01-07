@@ -1,6 +1,6 @@
 # Capas de la infraestructura de una red
 
-[[Aprender sobre Redes]]
+[[Aprender sobre Redes e Internet]]
 
   La infraestructura de una red se compone de varias capas interconectadas que trabajan juntas para permitir la comunicación de datos y el funcionamiento eficiente de los sistemas de red. Cada capa tiene una función específica y se diseñó para abordar ciertos aspectos de la transferencia de datos y la gestión de la red. Uno de los modelos más comunes para describir estas capas es el modelo OSI (Open Systems Interconnection), que consta de siete capas. Aquí tienes una descripción general de estas capas:
 

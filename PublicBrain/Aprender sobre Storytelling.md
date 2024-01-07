@@ -12,7 +12,7 @@
 	* Trama
 	* Escenario
 	* Conflicto y resolución
-* El Poder de las Historias
+* [[El Poder de las Historias]]
 	* Impacto emocional y psicológico de las historias
 	* Ejemplos de historias poderosas
 ## Creación de Historias Impactantes

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El Poder de las Historias.md",
+                "file": "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "El Poder de las Historias.md",
+                "file": "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "El Poder de las Historias.md",
+                "file": "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "El Poder de las Historias.md"
+                "file": "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md"
               }
             }
           },
@@ -164,9 +164,14 @@
   },
   "active": "130a1776411032a2",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Storytelling.md",
     "El Poder de las Historias.md",
-    "PublicBrain/Index.md",
+    "PublicBrain/Saludos y presentaciones.md",
+    "PublicBrain/Modelos de referencia OSI y TCPIP.md",
+    "PublicBrain/El Poder de las Historias.md",
+    "PublicBrain/Aprender sobre Redes.md",
     "PublicBrain/Aprender sobre Redes e Internet.md",
     "PublicBrain/Capas de la infraestructura de una red.md",
     "Aprender sobre Redes.md",
@@ -185,11 +190,6 @@
     "PublicBrain/A2-EU.md",
     "PublicBrain/A1-EU.md",
     "PublicBrain/Aprender Idioma Rumano.md",
-    "PublicBrain/A1-RO.md",
-    "PublicBrain/Aprender Idioma Euskera.md",
-    "A1-EU.md",
-    "C2-EU.md",
-    "C1-EU.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

@@ -22,7 +22,7 @@
 
 ## Lenguajes y Herramientas de Programación en IA
 
-- Python en IA
+- [[Python en IA]]
   - Bibliotecas populares (NumPy, pandas, scikit-learn, TensorFlow, PyTorch)
   - Ejemplos de código
 - Entornos de desarrollo (IDEs) para IA

@@ -4,14 +4,10 @@
 
 # Curso: "Altas Capacidades: Comprendiendo y Abordando el Talento Excepcional"
 
-## Introducción al Curso
-- Objetivos del curso
-- Presentación del instructor/a
-
 ## Tema 1: Conceptualización y Marcos Teóricos
 - Definición de altas capacidades
 - Enfoques teóricos relevantes
-- Dimensiones del talento excepcional
+- [[Dimensiones del talento excepcional]]
 
 ## Tema 2: Neurofisiología Cerebral y su Aplicación en la Neuroeducación
 - Funcionamiento cerebral en personas de alta capacidad

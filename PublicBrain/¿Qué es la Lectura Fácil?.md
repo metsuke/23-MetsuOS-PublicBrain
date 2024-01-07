@@ -1,6 +1,6 @@
 # ¿Qué es la Lectura Fácil?
 
-[[Aprender sobre Accesibilidad]]
+[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
 
 La Lectura Fácil es una estrategia de comunicación escrita diseñada para hacer que los textos sean más accesibles y comprensibles para personas con dificultades de lectura. El objetivo principal de la Lectura Fácil es facilitar el acceso a la información y la participación en la sociedad para personas con discapacidades cognitivas, personas que están aprendiendo a leer o personas que tienen un nivel de alfabetización limitado.
 

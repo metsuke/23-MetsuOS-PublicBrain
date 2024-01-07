@@ -8,7 +8,7 @@
 
 - [[Saludos y Presentaciones (A1-GE)]]
 - [[El Alfabeto Alemán (A1-GE)]]
-- Números y Fechas
+- [[Números y Fechas (A1-GE)]]
 - La Hora
 - Expresiones Cotidianas
 

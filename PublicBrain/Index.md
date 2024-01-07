@@ -23,7 +23,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * EN [[Aprender Idioma Inglés]]
 * ES [[Aprender Idioma Español]]
 * EU [[Aprender Idioma Euskera]]
-* FR Aprender Idioma Frances
+* FR [[Aprender Idioma Frances]]
 * GE | [[Aprender Idioma Aleman]]
 * HI [[Aprender Idioma Hindi]]
 * IT [[Aprender Idioma Italiano]]

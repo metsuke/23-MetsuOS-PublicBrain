@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Pronunciación básica (A1-EN).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Pronunciación básica (A1-EN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Pronunciación básica (A1-EN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "Pronunciación básica (A1-EN).md"
               }
             }
           },
@@ -164,10 +164,14 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "PublicBrain/A1-EN.md",
+    "Pronunciación básica (A1-EN).md",
+    "PublicBrain/Aprender Idioma Inglés.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Beneficios de la Lectura Fácil.md",
     "Beneficios de la Lectura Fácil.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/Importancia de la lectura fácil para la accesibilidad.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "PublicBrain/Gramática elemental artículos sustantivos y pronombres (A1-CA).md",
@@ -186,10 +190,6 @@
     "PublicBrain/Modelos de referencia OSI y TCPIP.md",
     "PublicBrain/El Poder de las Historias.md",
     "PublicBrain/Aprender sobre Redes.md",
-    "PublicBrain/Aprender sobre Redes e Internet.md",
-    "PublicBrain/Capas de la infraestructura de una red.md",
-    "Aprender sobre Redes.md",
-    "Modelos de referencia OSI y TCPIP.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

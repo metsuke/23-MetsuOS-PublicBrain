@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-VLC.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-VLC.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-VLC.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-VLC.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
     "PublicBrain/Aprender Idioma Valenciano.md",
+    "Saludos y Presentaciones (A1-VLC).md",
+    "PublicBrain/A1-VLC.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Hindi.md",
     "PublicBrain/Básico HI.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Gramática elemental artículos sustantivos y pronombres (A1-CA).md",
     "Gramática elemental artículos sustantivos y pronombres (A1-CA).md",
     "PublicBrain/Aprender a jugar Ajedrez.md",
-    "PublicBrain/Aprender sobre Naruto.md",
-    "PublicBrain/Masashi Kishimoto.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

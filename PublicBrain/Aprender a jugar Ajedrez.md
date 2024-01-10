@@ -13,7 +13,7 @@
 - **Lección 4:** Movimientos de las piezas
 - **Lección 5:** Capturas y reglas especiales
 - **Lección 6:** Notación algebraica
-
+5
 ## Módulo 3: Estrategia Inicial
 - **Lección 7:** Apertura: principios básicos
 - **Lección 8:** Desarrollo de las piezas

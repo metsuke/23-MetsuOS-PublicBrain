@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Masashi Kishimoto.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Masashi Kishimoto.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Masashi Kishimoto.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Masashi Kishimoto.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,12 +164,16 @@
   },
   "active": "130a1776411032a2",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Naruto.md",
-    "Masashi Kishimoto.md",
-    "PublicBrain/Masashi Kishimoto.md",
-    "PublicBrain/Historia y origen del ajedrez.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/A1-CA.md",
+    "PublicBrain/Gramática elemental artículos sustantivos y pronombres (A1-CA).md",
+    "Gramática elemental artículos sustantivos y pronombres (A1-CA).md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender a jugar Ajedrez.md",
+    "PublicBrain/Aprender sobre Naruto.md",
+    "PublicBrain/Masashi Kishimoto.md",
+    "Masashi Kishimoto.md",
+    "PublicBrain/Historia y origen del ajedrez.md",
     "Historia y origen del ajedrez.md",
     "Home.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
@@ -186,10 +190,6 @@
     "Modelos de referencia OSI y TCPIP.md",
     "PublicBrain/Aprender Idioma Ruso.md",
     "Saludos y presentaciones.md",
-    "PublicBrain/A1-RU.md",
-    "PublicBrain/Niveles Oficiales EU.md",
-    "PublicBrain/Euskera.md",
-    "PublicBrain/C2-EU.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

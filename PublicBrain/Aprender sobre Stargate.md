@@ -6,7 +6,7 @@
 
 ## Stargate SG-1 (1997-2007)
     
-- Esta serie de televisión es una continuación directa de la película original. Comienza cuando un equipo militar liderado por el Coronel Jack O'Neill (interpretado por Richard Dean Anderson) descubre cómo activar y usar la puerta estelar (Stargate) para viajar a otros planetas.
+- Esta serie de televisión es una continuación directa de la película original. Comienza cuando un equipo militar liderado por el [[Coronel Jack O'Neill]] (interpretado por Richard Dean Anderson) descubre cómo activar y usar la puerta estelar (Stargate) para viajar a otros planetas.
 - SG-1 explora la galaxia, se enfrenta a enemigos alienígenas, y trabaja para proteger la Tierra de amenazas extraterrestres. El elenco principal también incluye a Amanda Tapping, Christopher Judge y Michael Shanks.
 
 ## Stargate Atlantis (2004-2009)

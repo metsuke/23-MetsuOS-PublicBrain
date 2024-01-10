@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Nirvana.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Nirvana.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Nirvana.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Nirvana.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,9 +164,12 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Estados Unidos.md",
-    "PublicBrain/Aprender sobre Nirvana.md",
+    "PublicBrain/Aprender sobre Stargate.md",
+    "Coronel Jack O'Neill.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Nirvana.md",
+    "PublicBrain/Estados Unidos.md",
+    "Estados Unidos.md",
     "Home.md",
     "PublicBrain/Aprender Idioma Inglés.md",
     "PublicBrain/A1-EN.md",
@@ -187,9 +190,6 @@
     "PublicBrain/Historia y origen del ajedrez.md",
     "Historia y origen del ajedrez.md",
     "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md",
-    "PublicBrain/Aprender sobre Storytelling.md",
-    "El Poder de las Historias.md",
-    "PublicBrain/Saludos y presentaciones.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

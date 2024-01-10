@@ -53,6 +53,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 ### Musica
 
 * [[Aprender sobre BabyMetal]] (JP)
+* Aprender sobre Evanescence (EN)
 * [[Aprender sobre Mecano]] (ES)
 * [[Aprender sobre Nirvana]] (EN)
 * [[Aprender sobre Rammstein]] (GE)

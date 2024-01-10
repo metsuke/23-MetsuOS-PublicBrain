@@ -6,7 +6,7 @@
 
 ## Módulo 1: Alfabeto Hindi
 - [[Introducción al alfabeto Hindi]]
-- Vocales en Hindi
+- [[Vocales en Hindi]]
 - Consonantes en Hindi
 - Escritura y pronunciación
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/A1-VLC.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/A1-VLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/A1-VLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/A1-VLC.md"
               }
             }
           },
@@ -164,9 +164,13 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Idioma Valenciano.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Hindi.md",
+    "PublicBrain/Básico HI.md",
+    "Vocales en Hindi.md",
     "PublicBrain/Aprender sobre Stargate.md",
     "Coronel Jack O'Neill.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Nirvana.md",
     "PublicBrain/Estados Unidos.md",
     "Estados Unidos.md",
@@ -186,10 +190,6 @@
     "PublicBrain/Aprender a jugar Ajedrez.md",
     "PublicBrain/Aprender sobre Naruto.md",
     "PublicBrain/Masashi Kishimoto.md",
-    "Masashi Kishimoto.md",
-    "PublicBrain/Historia y origen del ajedrez.md",
-    "Historia y origen del ajedrez.md",
-    "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

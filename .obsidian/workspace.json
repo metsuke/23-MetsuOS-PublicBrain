@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4265eb25ef6f84e9",
+        "id": "3bbbb4131c67e16b",
         "type": "tabs",
         "children": [
           {
-            "id": "130a1776411032a2",
+            "id": "5df685fde1f70201",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,13 +162,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "130a1776411032a2",
+  "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "Beneficios de la Lectura Fácil.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Importancia de la lectura fácil para la accesibilidad.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "PublicBrain/Gramática elemental artículos sustantivos y pronombres (A1-CA).md",
     "Gramática elemental artículos sustantivos y pronombres (A1-CA).md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender a jugar Ajedrez.md",
     "PublicBrain/Aprender sobre Naruto.md",
     "PublicBrain/Masashi Kishimoto.md",
@@ -176,7 +179,6 @@
     "PublicBrain/Historia y origen del ajedrez.md",
     "Historia y origen del ajedrez.md",
     "Home.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md",
     "PublicBrain/Aprender sobre Storytelling.md",
     "El Poder de las Historias.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Capas de la infraestructura de una red.md",
     "Aprender sobre Redes.md",
     "Modelos de referencia OSI y TCPIP.md",
-    "PublicBrain/Aprender Idioma Ruso.md",
-    "Saludos y presentaciones.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

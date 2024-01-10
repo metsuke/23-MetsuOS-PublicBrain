@@ -54,7 +54,7 @@
 * [[¿Qué es la Lectura Fácil?]]
 	* [[Definición y objetivos de la lectura fácil]]
 	* [[Importancia de la lectura fácil para la accesibilidad]]
-	* Beneficios de la Lectura Fácil
+	* [[Beneficios de la Lectura Fácil]]
 	* [[Cómo la lectura fácil beneficia a diversas audiencias]]
 	- Mejora de la comprensión y la inclusión
 ### Principios de la Lectura Fácil

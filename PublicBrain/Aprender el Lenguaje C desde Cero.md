@@ -5,8 +5,8 @@
 ## Introducción a C
 
 * [[¿Qué es el Lenguaje C?]]
-	* Historia y relevancia
-	* Comparación con otros lenguajes
+	* [[Historia y relevancia (Aprender C)]]
+	* [[Comparación con otros lenguajes (Aprender C)]]
 * Configuración del Entorno de Desarrollo
 	* Instalación de un compilador C
 	* Configuración de un IDE

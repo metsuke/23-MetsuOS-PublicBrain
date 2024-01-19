@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Entrenamiento de redes neuronales.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Entrenamiento de redes neuronales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Entrenamiento de redes neuronales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "Entrenamiento de redes neuronales.md"
               }
             }
           },
@@ -164,8 +164,11 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Aprender sobre estructura dinamica de incentivos.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "Entrenamiento de redes neuronales.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Tipografía.md",
+    "Aprender sobre estructura dinamica de incentivos.md",
     "PublicBrain/Aprender con Recuenco.md",
     "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/A1-SW.md",
@@ -187,9 +190,6 @@
     "PublicBrain/Aprender a jugar Ajedrez.md",
     "PublicBrain/Aprender Idioma Rumano.md",
     "PublicBrain/A1-RO.md",
-    "PublicBrain/Vocales en Hindi.md",
-    "PublicBrain/Saludos y Presentaciones (A1-VLC).md",
-    "PublicBrain/Coronel Jack O'Neill.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

@@ -17,7 +17,7 @@
 	- [[Algoritmos de aprendizaje automático (regresión, clasificación, clustering)]]
 - [[Redes Neuronales Artificiales]]
 	- [[Estructura y funcionamiento de las  redes neuronales]]
-	- Entrenamiento de redes neuronales
+	- [[Entrenamiento de redes neuronales]]
 	- Aplicaciones de redes neuronales profundas (Deep Learning)
 
 ## Lenguajes y Herramientas de Programación en IA

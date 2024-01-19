@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entrenamiento de redes neuronales.md",
+                "file": "Definición de altas capacidades.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entrenamiento de redes neuronales.md",
+                "file": "Definición de altas capacidades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entrenamiento de redes neuronales.md",
+                "file": "Definición de altas capacidades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entrenamiento de redes neuronales.md"
+                "file": "Definición de altas capacidades.md"
               }
             }
           },
@@ -164,9 +164,11 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "Definición de altas capacidades.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "Entrenamiento de redes neuronales.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Tipografía.md",
     "Aprender sobre estructura dinamica de incentivos.md",
     "PublicBrain/Aprender con Recuenco.md",
@@ -188,8 +190,6 @@
     "Historia y relevancia (Aprender C).md",
     "Comparación con otros lenguajes (Aprender C).md",
     "PublicBrain/Aprender a jugar Ajedrez.md",
-    "PublicBrain/Aprender Idioma Rumano.md",
-    "PublicBrain/A1-RO.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

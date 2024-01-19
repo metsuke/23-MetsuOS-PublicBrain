@@ -5,7 +5,7 @@
 # Curso: "Altas Capacidades: Comprendiendo y Abordando el Talento Excepcional"
 
 ## Tema 1: Conceptualización y Marcos Teóricos
-- Definición de altas capacidades
+- [[Definición de altas capacidades]]
 - Enfoques teóricos relevantes
 - [[Dimensiones del talento excepcional]]
 

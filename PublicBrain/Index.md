@@ -45,7 +45,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 
 [[Textos Religiosos y sus Idiomas de Origen]]
 
-## Aprender libros Texto Cultura
+## Aprender Libros Texto Cultura
 
 ### Peliculas/Manga/OVA
 
@@ -77,6 +77,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Ciencias Sociales
 
 * [[Aprender sobre Economía y Finanzas]]
+* [[Aprender sobre estructura dinamica de incentivos]]
 
 ### Comunicación
 

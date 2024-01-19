@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Días de la semana (A1-SW).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Días de la semana (A1-SW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Días de la semana (A1-SW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "Días de la semana (A1-SW).md"
               }
             }
           },
@@ -164,12 +164,13 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "PublicBrain/Aprender Idioma Euskera.md",
+    "PublicBrain/A1-SW.md",
+    "Días de la semana (A1-SW).md",
+    "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Euskera.md",
     "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/A1-AR.md",
-    "PublicBrain/Aprender Idioma Swahili.md",
-    "PublicBrain/A1-SW.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "PublicBrain/Vocabulario inicial y expresiones comunes (A1-CA).md",
@@ -189,7 +190,6 @@
     "PublicBrain/Aprender Idioma Valenciano.md",
     "Saludos y Presentaciones (A1-VLC).md",
     "PublicBrain/A1-VLC.md",
-    "PublicBrain/Aprender Idioma Hindi.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

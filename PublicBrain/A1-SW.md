@@ -15,7 +15,7 @@
 ### Lección 2: Vocabulario Esencial
 
 - Números del 1 al 10
-- Días de la semana
+- [[Días de la semana (A1-SW)]]
 - [[Meses del año (A1-SW)]]
 
 ## Módulo 2: Conversaciones Cotidianas

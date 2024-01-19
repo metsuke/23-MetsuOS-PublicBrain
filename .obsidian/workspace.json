@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definición de altas capacidades.md",
+                "file": "Mejora de la comprensión y la inclusión.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definición de altas capacidades.md",
+                "file": "Mejora de la comprensión y la inclusión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definición de altas capacidades.md",
+                "file": "Mejora de la comprensión y la inclusión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definición de altas capacidades.md"
+                "file": "Mejora de la comprensión y la inclusión.md"
               }
             }
           },
@@ -164,9 +164,12 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "Mejora de la comprensión y la inclusión.md",
+    "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Definición de altas capacidades.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "Entrenamiento de redes neuronales.md",
     "PublicBrain/Aprender sobre Tipografía.md",
@@ -187,9 +190,6 @@
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "PublicBrain/Historia y relevancia (Aprender C).md",
     "PublicBrain/Comparación con otros lenguajes (Aprender C).md",
-    "Historia y relevancia (Aprender C).md",
-    "Comparación con otros lenguajes (Aprender C).md",
-    "PublicBrain/Aprender a jugar Ajedrez.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

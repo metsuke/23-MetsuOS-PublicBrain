@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mejora de la comprensión y la inclusión.md",
+                "file": "Artículos definidos e indefinidos (A1-AR).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mejora de la comprensión y la inclusión.md",
+                "file": "Artículos definidos e indefinidos (A1-AR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mejora de la comprensión y la inclusión.md",
+                "file": "Artículos definidos e indefinidos (A1-AR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mejora de la comprensión y la inclusión.md"
+                "file": "Artículos definidos e indefinidos (A1-AR).md"
               }
             }
           },
@@ -164,10 +164,17 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "PublicBrain/A1-AR.md",
+    "Artículos definidos e indefinidos (A1-AR).md",
+    "PublicBrain/Aprender Idioma Árabe.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "Mejora de la comprensión y la inclusión.md",
+    "PublicBrain/Mejora de la comprensión y la inclusión.md",
+    "PublicBrain/Entrenamiento de redes neuronales.md",
+    "PublicBrain/Definición de altas capacidades.md",
+    "PublicBrain/Aprender sobre estructura dinamica de incentivos.md",
     "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Definición de altas capacidades.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
@@ -180,16 +187,9 @@
     "Días de la semana (A1-SW).md",
     "PublicBrain/Días de la semana (A1-SW).md",
     "PublicBrain/Aprender Idioma Euskera.md",
-    "PublicBrain/Aprender Idioma Árabe.md",
-    "PublicBrain/A1-AR.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "PublicBrain/Vocabulario inicial y expresiones comunes (A1-CA).md",
-    "Vocabulario inicial y expresiones comunes (A1-CA).md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "PublicBrain/Historia y relevancia (Aprender C).md",
-    "PublicBrain/Comparación con otros lenguajes (Aprender C).md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

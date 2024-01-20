@@ -1,6 +1,6 @@
 # Introducción a Neurología Cerebral y su aplicación en la Neuroeducación
 
-[[Aprender sobre Altas Capacidades]]
+[[Curso "Altas Capacidades Comprendiendo y Abordando el Talento Excepcional"]]
 
 **Tema 2: Neurofisiología Cerebral y su Aplicación en la Neuroeducación**
 

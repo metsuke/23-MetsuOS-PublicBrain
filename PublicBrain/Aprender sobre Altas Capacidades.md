@@ -10,6 +10,7 @@
 - [[Dimensiones del talento excepcional]]
 
 ## Tema 2: Neurofisiología Cerebral y su Aplicación en la Neuroeducación
+* [[Introducción a Neurología Cerebral y su aplicación en la Neuroeducación]]
 - Funcionamiento cerebral en personas de alta capacidad
 - Estrategias neuroeducativas efectivas
 

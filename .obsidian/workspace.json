@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "Introducción a Neurología Cerebral y su aplicación en la Neuroeducación.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "Introducción a Neurología Cerebral y su aplicación en la Neuroeducación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "Introducción a Neurología Cerebral y su aplicación en la Neuroeducación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
+                "file": "Introducción a Neurología Cerebral y su aplicación en la Neuroeducación.md"
               }
             }
           },
@@ -164,10 +164,13 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Introducción a los principios de la Lectura Fácil.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/Importancia de la lectura fácil para la accesibilidad.md",
+    "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "Introducción a Neurología Cerebral y su aplicación en la Neuroeducación.md",
+    "PublicBrain/Dimensiones del talento excepcional.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "Introducción a los principios de la Lectura Fácil.md",
+    "PublicBrain/Importancia de la lectura fácil para la accesibilidad.md",
     "PublicBrain/Definición y objetivos de la lectura fácil.md",
     "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/A1-AR.md",
@@ -179,7 +182,6 @@
     "PublicBrain/Definición de altas capacidades.md",
     "PublicBrain/Aprender sobre estructura dinamica de incentivos.md",
     "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Definición de altas capacidades.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "Entrenamiento de redes neuronales.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Aprender con Recuenco.md",
     "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/A1-SW.md",
-    "Días de la semana (A1-SW).md",
-    "PublicBrain/Días de la semana (A1-SW).md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

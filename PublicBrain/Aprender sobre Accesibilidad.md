@@ -57,8 +57,10 @@
 	* [[Beneficios de la Lectura Fácil]]
 	* [[Cómo la lectura fácil beneficia a diversas audiencias]]
 	- [[Mejora de la comprensión y la inclusión]]
+
 ### Principios de la Lectura Fácil
 
+* [[Introducción a los principios de la Lectura Fácil]]
 * Claridad y Sencillez
 	* Uso de lenguaje claro y simple
 	* Evitar jergas y tecnicismos

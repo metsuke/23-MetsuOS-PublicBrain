@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
               }
             }
           },
@@ -164,12 +164,15 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "Introducción a los principios de la Lectura Fácil.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Importancia de la lectura fácil para la accesibilidad.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Definición y objetivos de la lectura fácil.md",
+    "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/A1-AR.md",
     "Artículos definidos e indefinidos (A1-AR).md",
     "PublicBrain/Artículos definidos e indefinidos (A1-AR).md",
-    "PublicBrain/Aprender Idioma Árabe.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
     "Mejora de la comprensión y la inclusión.md",
     "PublicBrain/Mejora de la comprensión y la inclusión.md",
     "PublicBrain/Entrenamiento de redes neuronales.md",
@@ -187,9 +190,6 @@
     "PublicBrain/A1-SW.md",
     "Días de la semana (A1-SW).md",
     "PublicBrain/Días de la semana (A1-SW).md",
-    "PublicBrain/Aprender Idioma Euskera.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

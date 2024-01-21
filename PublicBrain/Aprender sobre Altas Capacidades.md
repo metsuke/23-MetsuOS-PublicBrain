@@ -1,12 +1,10 @@
-0# Aprender sobre Altas Capacidades
+# Aprender sobre Altas Capacidades
 
 [[Index]]
 
-# Curso: "Altas Capacidades: Comprendiendo y Abordando el Talento Excepcional"
-
 ## Tema 1: Conceptualización y Marcos Teóricos
 - [[Definición de altas capacidades]]
-- Enfoques teóricos relevantes
+- [[Enfoques teóricos relevantes en Altas Capacidades]]
 - [[Dimensiones del talento excepcional]]
 
 ## Tema 2: Neurofisiología Cerebral y su Aplicación en la Neuroeducación

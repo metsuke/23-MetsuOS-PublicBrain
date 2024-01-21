@@ -1,6 +1,6 @@
 # Definición de altas capacidades
 
-[[Curso "Altas Capacidades Comprendiendo y Abordando el Talento Excepcional"]]
+[[Aprender sobre Altas Capacidades]]
 
 **Altas capacidades**, también conocidas como superdotación o talento excepcional, se refieren a la presencia de habilidades intelectuales excepcionales en comparación con la población general. Las personas con altas capacidades muestran un rendimiento intelectual superior en áreas como el cociente intelectual (CI), rendimiento académico, habilidades creativas y talentos específicos.
 

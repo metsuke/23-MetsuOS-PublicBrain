@@ -26,7 +26,7 @@
   - Bibliotecas populares (NumPy, pandas, scikit-learn, TensorFlow, PyTorch)
   - Ejemplos de código
 - Entornos de desarrollo (IDEs) para IA
-  - Jupyter Notebook
+  - [[Jupyter Notebook]]
   - Google Colab
   - IDEs especializados en IA
 

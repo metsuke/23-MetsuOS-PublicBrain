@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Naruto.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Naruto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Naruto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Naruto.md"
               }
             }
           },
@@ -164,12 +164,21 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "manga.md",
+    "PublicBrain/Aprender sobre Naruto.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Akira.md",
+    "Neo-Tokio.md",
+    "PublicBrain/Aprender sobre BabyMetal.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/Letra \"BabyMetal Death\".md",
+    "授かる.md",
+    "PublicBrain/首輪.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Jupyter Notebook.md",
     "Jupyter Notebook.md",
     "PublicBrain/Uso de lenguaje claro y simple.md",
     "PublicBrain/Enfoques teóricos relevantes en Altas Capacidades.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Enfoques teóricos relevantes en Altas Capacidades.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
@@ -181,15 +190,6 @@
     "PublicBrain/Aprender a programar plugins para World of Warcraft.md",
     "Importancia y Aplicaciones en World of Warcraft.md",
     "Aprender a programar plugins para World of Warcraft.md",
-    "PublicBrain/Aplicaciones de redes neuronales profundas (Deep Learning).md",
-    "Aplicaciones de redes neuronales profundas (Deep Learning).md",
-    "PublicBrain/Entrenamiento de redes neuronales.md",
-    "Introducción a Neurología Cerebral y su aplicación en la Neuroeducación.md",
-    "PublicBrain/Introducción a los principios de la Lectura Fácil.md",
-    "PublicBrain/Introducción a Neurología Cerebral y su aplicación en la Neuroeducación.md",
-    "PublicBrain/Dimensiones del talento excepcional.md",
-    "Introducción a los principios de la Lectura Fácil.md",
-    "PublicBrain/Importancia de la lectura fácil para la accesibilidad.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

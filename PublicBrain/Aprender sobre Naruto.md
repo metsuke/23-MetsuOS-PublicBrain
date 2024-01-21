@@ -6,7 +6,7 @@
 
 ## Manga
 
-- **Inicio:** El manga "Naruto" fue serializado por primera vez en la revista Weekly Shonen Jump en 1999 y concluyó en 2014.
+- **Inicio:** El [[manga]] "Naruto" fue serializado por primera vez en la revista Weekly Shonen Jump en 1999 y concluyó en 2014.
 - **Historia:** La historia sigue a Naruto Uzumaki, un joven ninja con el sueño de convertirse en el líder de su aldea, conocido como el Hokage. Naruto lleva en su cuerpo al Zorro de Nueve Colas, Kurama, lo que le valió el rechazo de muchos en la aldea durante su infancia. A medida que crece, Naruto enfrenta desafíos, hace amigos y se embarca en misiones para demostrar su valía.
 
 ## Anime

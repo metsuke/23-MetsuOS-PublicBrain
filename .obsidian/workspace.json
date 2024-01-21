@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,10 +164,15 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Aplicaciones de redes neuronales profundas (Deep Learning).md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Entrenamiento de redes neuronales.md",
+    "PublicBrain/Importancia y Aplicaciones en World of Warcraft.md",
+    "PublicBrain/Aprender a programar plugins para World of Warcraft.md",
+    "Importancia y Aplicaciones en World of Warcraft.md",
     "PublicBrain/Index.md",
+    "Aprender a programar plugins para World of Warcraft.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Aplicaciones de redes neuronales profundas (Deep Learning).md",
+    "Aplicaciones de redes neuronales profundas (Deep Learning).md",
+    "PublicBrain/Entrenamiento de redes neuronales.md",
     "PublicBrain/Curso \"Altas Capacidades Comprendiendo y Abordando el Talento Excepcional\".md",
     "Introducción a Neurología Cerebral y su aplicación en la Neuroeducación.md",
     "PublicBrain/Introducción a los principios de la Lectura Fácil.md",
@@ -185,11 +190,6 @@
     "PublicBrain/Mejora de la comprensión y la inclusión.md",
     "PublicBrain/Definición de altas capacidades.md",
     "PublicBrain/Aprender sobre estructura dinamica de incentivos.md",
-    "PublicBrain/Cómo la lectura fácil beneficia a diversas audiencias.md",
-    "Definición de altas capacidades.md",
-    "Entrenamiento de redes neuronales.md",
-    "PublicBrain/Aprender sobre Tipografía.md",
-    "Aprender sobre estructura dinamica de incentivos.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

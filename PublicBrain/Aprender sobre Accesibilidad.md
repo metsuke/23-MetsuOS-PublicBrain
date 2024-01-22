@@ -61,7 +61,7 @@
 ### Principios de la Lectura Fácil
 
 * [[Introducción a los principios de la Lectura Fácil]]
-* Claridad y Sencillez
+* [[Claridad y Sencillez]]
 	* [[Uso de lenguaje claro y simple]]
 	* Evitar jergas y tecnicismos
 * Estructura y Organización

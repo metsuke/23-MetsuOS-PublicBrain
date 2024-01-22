@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estrategias neuroeducativas efectivas.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estrategias neuroeducativas efectivas.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estrategias neuroeducativas efectivas.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estrategias neuroeducativas efectivas.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
               }
             }
           },
@@ -164,11 +164,14 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "Claridad y Sencillez.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Uso de lenguaje claro y simple.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "PublicBrain/Estrategias neuroeducativas efectivas.md",
     "Estrategias neuroeducativas efectivas.md",
     "PublicBrain/Números y fechas en catalán (A1-CA).md",
-    "PublicBrain/Estrategias neuroeducativas efectivas.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "Números y fechas en catalán (A1-CA).md",
@@ -187,9 +190,6 @@
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Jupyter Notebook.md",
     "Jupyter Notebook.md",
-    "PublicBrain/Uso de lenguaje claro y simple.md",
-    "PublicBrain/Enfoques teóricos relevantes en Altas Capacidades.md",
-    "Enfoques teóricos relevantes en Altas Capacidades.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

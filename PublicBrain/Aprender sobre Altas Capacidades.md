@@ -10,7 +10,7 @@
 ## Tema 2: Neurofisiología Cerebral y su Aplicación en la Neuroeducación
 * [[Introducción a Neurología Cerebral y su aplicación en la Neuroeducación]]
 - Funcionamiento cerebral en personas de alta capacidad
-- Estrategias neuroeducativas efectivas
+- [[Estrategias neuroeducativas efectivas]]
 
 ## Tema 3: Situación Educativa de las AACC en España
 - Panorama actual

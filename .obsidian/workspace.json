@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md"
               }
             }
           },
@@ -164,10 +164,15 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Claridad y Sencillez.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/Uso de lenguaje claro y simple.md",
+    "Configuración del Entorno de Desarrollo para Lenguaje C.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "PublicBrain/Comparación con otros lenguajes (Aprender C).md",
+    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Claridad y Sencillez.md",
+    "Claridad y Sencillez.md",
+    "PublicBrain/Uso de lenguaje claro y simple.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "PublicBrain/Estrategias neuroeducativas efectivas.md",
     "Estrategias neuroeducativas efectivas.md",
@@ -185,11 +190,6 @@
     "PublicBrain/Aprender sobre BabyMetal.md",
     "PublicBrain/BabyMetal Death.md",
     "PublicBrain/Letra \"BabyMetal Death\".md",
-    "授かる.md",
-    "PublicBrain/首輪.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Jupyter Notebook.md",
-    "Jupyter Notebook.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

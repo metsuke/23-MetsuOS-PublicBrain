@@ -14,7 +14,7 @@
 
 ### Lección 2: Vocabulario Esencial
 
-- Números del 1 al 10
+- [[Números del 1 al 10 (A1-SW)]]
 - [[Días de la semana (A1-SW)]]
 - [[Meses del año (A1-SW)]]
 

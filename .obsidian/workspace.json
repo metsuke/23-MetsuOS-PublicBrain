@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/API de World of Warcraft.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/API de World of Warcraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/API de World of Warcraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md"
+                "file": "PublicBrain/API de World of Warcraft.md"
               }
             }
           },
@@ -164,14 +164,18 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "PublicBrain/Aprender a programar plugins para World of Warcraft.md",
+    "API de World of Warcraft.md",
+    "PublicBrain/API de World of Warcraft.md",
+    "PublicBrain/Importancia y Aplicaciones en World of Warcraft.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/WCAG 2.1.md",
     "Pautas de Accesibilidad.md",
     "PublicBrain/Pautas de Accesibilidad.md",
-    "PublicBrain/WCAG 2.1.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Cómo utilizar WCAG 2.0.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "PublicBrain/Configuración del Entorno de Desarrollo para Lenguaje C.md",
@@ -186,10 +190,6 @@
     "PublicBrain/Números y fechas en catalán (A1-CA).md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
-    "Números y fechas en catalán (A1-CA).md",
-    "PublicBrain/Aprender sobre Naruto.md",
-    "PublicBrain/授かる.md",
-    "PublicBrain/manga.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

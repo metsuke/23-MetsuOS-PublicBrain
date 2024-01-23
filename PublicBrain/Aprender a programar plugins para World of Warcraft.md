@@ -8,7 +8,7 @@
 - 1.2 [[Importancia y Aplicaciones en World of Warcraft]]
 - 1.3 Herramientas Necesarias
 	- 1.3.1 Entorno de Desarrollo
-	- 1.3.2 API de World of Warcraft
+	- 1.3.2 [[API de World of Warcraft]]
 
 ## Módulo 2: Fundamentos de Lua
 

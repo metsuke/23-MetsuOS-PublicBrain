@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/API de World of Warcraft.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/API de World of Warcraft.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/API de World of Warcraft.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/API de World of Warcraft.md"
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
               }
             }
           },
@@ -164,11 +164,14 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "PublicBrain/Aprender a programar plugins para World of Warcraft.md",
-    "API de World of Warcraft.md",
-    "PublicBrain/API de World of Warcraft.md",
-    "PublicBrain/Importancia y Aplicaciones en World of Warcraft.md",
+    "Función de activación.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "PublicBrain/Cálculo de la salida de una neurona.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender a programar plugins para World of Warcraft.md",
+    "PublicBrain/API de World of Warcraft.md",
+    "API de World of Warcraft.md",
+    "PublicBrain/Importancia y Aplicaciones en World of Warcraft.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.1.md",
     "Pautas de Accesibilidad.md",
@@ -187,9 +190,6 @@
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "PublicBrain/Estrategias neuroeducativas efectivas.md",
     "Estrategias neuroeducativas efectivas.md",
-    "PublicBrain/Números y fechas en catalán (A1-CA).md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

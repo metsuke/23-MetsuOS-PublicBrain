@@ -11,7 +11,7 @@
 ## Fundamentos de las Neuronas Artificiales
 
 * Modelo de la neurona artificial
-* Función de activación
+* [[Función de activación]]
 * Pesos y bias
 * [[Cálculo de la salida de una neurona]]
 

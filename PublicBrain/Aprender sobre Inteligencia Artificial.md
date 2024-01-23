@@ -28,7 +28,7 @@
 - Entornos de desarrollo (IDEs) para IA
   - [[Jupyter Notebook]]
   - Google Colab
-  - IDEs especializados en IA
+  - [[IDEs especializados en IA]]
 
 ## Recopilación y Preprocesamiento de Datos
 

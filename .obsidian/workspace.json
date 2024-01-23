@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
               }
             }
           },
@@ -164,8 +164,12 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Función de activación.md",
+    "IDEs especializados en IA.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Jupyter Notebook.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "PublicBrain/Las redes neuronales en el contexto de la inteligencia artificial.md",
+    "Función de activación.md",
     "PublicBrain/Cálculo de la salida de una neurona.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender a programar plugins para World of Warcraft.md",
@@ -186,10 +190,6 @@
     "PublicBrain/Comparación con otros lenguajes (Aprender C).md",
     "PublicBrain/Claridad y Sencillez.md",
     "Claridad y Sencillez.md",
-    "PublicBrain/Uso de lenguaje claro y simple.md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
-    "PublicBrain/Estrategias neuroeducativas efectivas.md",
-    "Estrategias neuroeducativas efectivas.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

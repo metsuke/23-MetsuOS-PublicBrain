@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md"
+                "file": "PublicBrain/WCAG 2.1.md"
               }
             }
           },
@@ -164,12 +164,19 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Configuración del Entorno de Desarrollo para Lenguaje C.md",
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "PublicBrain/Comparación con otros lenguajes (Aprender C).md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Index.md",
+    "Pautas de Accesibilidad.md",
+    "PublicBrain/Pautas de Accesibilidad.md",
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Cómo utilizar WCAG 2.0.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "PublicBrain/Configuración del Entorno de Desarrollo para Lenguaje C.md",
+    "Configuración del Entorno de Desarrollo para Lenguaje C.md",
+    "PublicBrain/Comparación con otros lenguajes (Aprender C).md",
     "PublicBrain/Claridad y Sencillez.md",
     "Claridad y Sencillez.md",
     "PublicBrain/Uso de lenguaje claro y simple.md",
@@ -183,13 +190,6 @@
     "PublicBrain/Aprender sobre Naruto.md",
     "PublicBrain/授かる.md",
     "PublicBrain/manga.md",
-    "PublicBrain/Neo-Tokio.md",
-    "manga.md",
-    "PublicBrain/Aprender sobre Akira.md",
-    "Neo-Tokio.md",
-    "PublicBrain/Aprender sobre BabyMetal.md",
-    "PublicBrain/BabyMetal Death.md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

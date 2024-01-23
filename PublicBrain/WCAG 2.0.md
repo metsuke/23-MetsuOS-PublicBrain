@@ -19,7 +19,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
     - [[Operable]]
     - [[Comprensible]]
     - Robusto
-3. **Pautas de Accesibilidad**
+3. [[Pautas de Accesibilidad]]
     - **Pauta 1: Texto Alternativo**
         - 1.1 Texto Alternativo
         - 1.2 Multimedia en tiempo real

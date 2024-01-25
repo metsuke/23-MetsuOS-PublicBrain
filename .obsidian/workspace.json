@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/A1-AR.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/A1-AR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/A1-AR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-CA.md"
+                "file": "PublicBrain/A1-AR.md"
               }
             }
           },
@@ -164,10 +164,13 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Expresiones para describir alimentos y sabores (A1-CA).md",
-    "PublicBrain/A1-CA.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
+    "Vocabulario básico de uso común (A1-AR).md",
+    "PublicBrain/A1-AR.md",
+    "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/A1-CA.md",
+    "Expresiones para describir alimentos y sabores (A1-CA).md",
     "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/A1-SW.md",
     "Números del 1 al 10 (A1-SW).md",
@@ -187,9 +190,6 @@
     "API de World of Warcraft.md",
     "PublicBrain/Importancia y Aplicaciones en World of Warcraft.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/WCAG 2.1.md",
-    "Pautas de Accesibilidad.md",
-    "PublicBrain/Pautas de Accesibilidad.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

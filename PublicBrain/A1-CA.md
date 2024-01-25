@@ -22,7 +22,7 @@
 
 3.1. Vocabulario para ir de compras y en el supermercado.
 3.2. Conversación en el restaurante y pedidos de comida.
-3.3. Expresiones para describir alimentos y sabores.
+3.3. [[Expresiones para describir alimentos y sabores (A1-CA)]]
 3.4. Cuantificadores y cantidades.
 
 ## Módulo 4: Tiempo Libre y Ocio

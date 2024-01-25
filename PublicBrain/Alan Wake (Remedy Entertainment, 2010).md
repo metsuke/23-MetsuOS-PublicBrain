@@ -1,6 +1,6 @@
 # Alan Wake (Remedy Entertainment, 2010)
 
-[[Narrativa y Storytelling en el mundo del videojuego]]
+[[Narrativa y Storytelling en el mundo del videojuego]] | [[Videojuegos a lo largo de la Historia]]
 
 "Alan Wake" es un videojuego desarrollado por [[Remedy Entertainment]] y lanzado en 2010. Es un título de acción y aventuras con elementos de thriller psicológico y horror, conocido por su narrativa envolvente y su atmósfera única. Aquí tienes algunos aspectos destacados de este juego:
 

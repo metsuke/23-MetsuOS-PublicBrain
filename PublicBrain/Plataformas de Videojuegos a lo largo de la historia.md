@@ -43,7 +43,7 @@ Esta es una lista en construcción de plataformas donde se han ejecutado juegos 
 |:----------------:|:--------------:|:-------------:|:--------------:|
 |  Magnavox Odyssey  |      1972      |       8       |   Magnavox    |
 |     [[Atari 2600]]    |      1977      |       8       |     [[Atari, Inc.]]      |
-|    Intellivision   |      1979      |       16      |  Mattel Electronics |
+|    [[Intellivision]]   |      1979      |       16      |  [[Mattel Electronics]] |
 |    ColecoVision   |      1982      |       8       |    Coleco     |
 |     NES (Famicom)    |      1983      |       8       |   Nintendo   |
 |     Sega Master System     |      1985      |       8       |      Sega      |

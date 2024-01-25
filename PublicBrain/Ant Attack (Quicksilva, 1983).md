@@ -1,6 +1,6 @@
 # Ant Attack (Quicksilva, 1983)
 
-[[Narrativa y Storytelling en el mundo del videojuego]]
+[[Narrativa y Storytelling en el mundo del videojuego]] | [[Videojuegos a lo largo de la Historia]]
 
 "Ant Attack" es un videojuego desarrollado por [[Sandy White]] y publicado por [[Quicksilva]] en 1983. 
 

@@ -20,6 +20,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 
 * AR [[Aprender Idioma Árabe]]
 * CA [[Aprender Idioma Catalán]]
+* EL [[Aprender idioma Griego]]
 * EN [[Aprender Idioma Inglés]]
 * ES [[Aprender Idioma Español]]
 * EO Aprender Idioma Esperanto
@@ -101,7 +102,8 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre World of Warcraft]]
 * [[Aprender a programar plugins para World of Warcraft]]
 
-
+* [[Aprender sobre Videojuegos]]
+	
 ### Plena Inclusión
 
 * [[Aprender sobre Accesibilidad]]
@@ -137,7 +139,6 @@ Mis Apuntes medio caóticos
 * [[Aprender sobre Neurología]]
 * [[Aprender sobre Reciclaje]]
 * [[Aprender sobre Tabla Periódica]]
-* [[Aprender sobre Videojuegos]]
 
 ## Open Projects
 

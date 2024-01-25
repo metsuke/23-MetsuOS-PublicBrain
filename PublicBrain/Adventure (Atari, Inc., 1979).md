@@ -1,6 +1,6 @@
 # Adventure (Atari, Inc., 1979)
 
-[[Narrativa y Storytelling en el mundo del videojuego]]
+[[Narrativa y Storytelling en el mundo del videojuego]] | [[Videojuegos a lo largo de la Historia]]
 
 ![Adventure Game - Image from Retrogames.cs](PublicBrain/_resources/Adventure%20(Atari,%201979)/bc2dacefb1a7bf44080049242b9464fa_MD5.gif)
 

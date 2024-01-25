@@ -6,6 +6,10 @@
 
 [ChatGPT](https://chat.openai.com/) | [Whatsapp](https://web.whatsapp.com/)
 
+## Desarrollo Estructura Habilidades-Perfiles-Tareas
+
+* [[Estructurar una Microagencia de Publicidad]]
+
 ## Aprender con ...
 
 Procesos algo caóticos de aprendizaje

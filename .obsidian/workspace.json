@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-AR.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-AR.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-AR.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-AR.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,10 +164,16 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Vocabulario básico de uso común (A1-AR).md",
-    "PublicBrain/A1-AR.md",
-    "PublicBrain/Aprender Idioma Árabe.md",
+    "PublicBrain/Aprender Idioma Turco.md",
+    "PublicBrain/Turco.md",
     "PublicBrain/Index.md",
+    "Turco.md",
+    "PublicBrain/Vocabulario básico de uso común (A1-AR).md",
+    "PublicBrain/Expresiones para describir alimentos y sabores (A1-CA).md",
+    "Aprender Idioma Turco.md",
+    "PublicBrain/Aprender Idioma Árabe.md",
+    "PublicBrain/A1-AR.md",
+    "Vocabulario básico de uso común (A1-AR).md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "Expresiones para describir alimentos y sabores (A1-CA).md",
@@ -184,12 +190,6 @@
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "PublicBrain/Las redes neuronales en el contexto de la inteligencia artificial.md",
     "Función de activación.md",
-    "PublicBrain/Cálculo de la salida de una neurona.md",
-    "PublicBrain/Aprender a programar plugins para World of Warcraft.md",
-    "PublicBrain/API de World of Warcraft.md",
-    "API de World of Warcraft.md",
-    "PublicBrain/Importancia y Aplicaciones en World of Warcraft.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

@@ -33,8 +33,13 @@ $$(am-bm+an-bn)=(am-bm)+(an-bn)=m(a-b)+n(a-b)=(m+n)(a-b)$$
 ### (6ax + 3a + 1 + 2x)
 
 $$(6ax + 3a + 1 + 2x) = (6ax + 3a) + (2x + 1) = 3a(2x + 1) + (2x+1) = (3a + 1)(2x+1)$$
-### 
-### 
+### (3x^2-9ax-x + 3a)
+
+$$(3x^2-9ax-x + 3a)=x(3x-1)-3a(3x+1)=(x-3a)(3x-1)$$
+
+### (2a^2x - 5a^2y + 15by - 6bx)
+
+$$(2a^2x - 5a^2y + 15by - 6bx)=a^2(2x-5y)-3b(2x-5y)=(a^2-3b)(2x-5y)$$
 
 ## Caso 3:Trinomio cuadrado perfecto
 

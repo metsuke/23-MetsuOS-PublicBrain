@@ -17,7 +17,7 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
     - [[Perceptible]]
     - [[Operable]]
     - [[Comprensible]]
-    - Robusto
+    - [[Robusto]]
 3. [[Pautas de Accesibilidad]]
     - **Pauta 1. Texto Alternativo (Mejora)**
         - 1.1.1 Texto Alternativo

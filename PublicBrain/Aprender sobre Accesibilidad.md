@@ -66,7 +66,7 @@
 	* Evitar jergas y tecnicismos
 * Estructura y Organización
 	* Organización lógica del contenido
-	* Uso de encabezados y listas para guiar la lectura
+	* [[Uso de encabezados y listas para guiar la lectura (Lectura Facil)]]
 * Apoyo Visual
 	* Uso de imágenes y gráficos para aclarar conceptos
 	* Uso de espaciado y formato legible

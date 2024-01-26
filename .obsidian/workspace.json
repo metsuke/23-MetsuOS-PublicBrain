@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,11 +164,15 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "PublicBrain/Uso de encabezados y listas para guiar la lectura (Lectura Facil).md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "Uso de encabezados y listas para guiar la lectura (Lectura Facil).md",
+    "PublicBrain/Introducción a los principios de la Lectura Fácil.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Robusto.md",
     "PublicBrain/WCAG 2.0.md",
     "Robusto.md",
     "PublicBrain/WCAG 2.1.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender sobre Hardware Libre.md",
     "Home.md",
@@ -197,10 +201,6 @@
     "Videojuegos a lo largo de la Historia.md",
     "PublicBrain/Adventure (Atari, Inc., 1979).md",
     "ideojuegos a lo largo de la Historia.md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
-    "PublicBrain/Promting Database.md",
-    "PublicBrain/Aprender idioma Griego.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

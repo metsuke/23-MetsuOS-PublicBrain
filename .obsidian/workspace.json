@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
               }
             }
           },
@@ -164,6 +164,9 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Hardware Libre.md",
+    "Home.md",
     "Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
@@ -177,7 +180,6 @@
     "_resources/Estructurar una Microagencia de Publicidad/18dee3159a554bd5846bda85a3973892_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/c943d31b0c184b1cfab208c0c2fd156b_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad",
-    "PublicBrain/Index.md",
     "PublicBrain/Shark! Shark! (Mattel Electronics, 1982).md",
     "PublicBrain/Intellivision.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
@@ -199,8 +201,6 @@
     "Griego.md",
     "Aprender idioma Griego.md",
     "PublicBrain/Aprender Idioma Español.md",
-    "PublicBrain/A1-ES.md",
-    "PublicBrain/Aprender Idioma Turco.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

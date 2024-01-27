@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "Instalación de un compilador C.md",
     "PublicBrain/Index.md",
     "Home.md",
     "PublicBrain/Aprender Idioma Swahili.md",
@@ -199,8 +201,6 @@
     "PublicBrain/Shark! Shark! (Mattel Electronics, 1982).md",
     "PublicBrain/Intellivision.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
-    "Shark! Shark! (Mattel Electronics, 1982).md",
-    "PublicBrain/Videojuegos a lo largo de la Historia.md",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",

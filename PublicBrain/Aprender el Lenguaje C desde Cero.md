@@ -8,7 +8,7 @@
 	* [[Historia y relevancia (Aprender C)]]
 	* [[Comparación con otros lenguajes (Aprender C)]]
 * [[Configuración del Entorno de Desarrollo para Lenguaje C]]
-	* Instalación de un compilador C
+	* [[Instalación de un compilador C]]
 	* Configuración de un IDE
 * Tu Primer Programa en C
 	* Estructura básica de un programa C

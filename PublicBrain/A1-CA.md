@@ -16,7 +16,7 @@
 2.1. [[Conversación sobre la rutina diaria (A1-CA)]]
 2.2. [[Vocabulario relacionado con la casa y la familia (A1-CA)]]
 2.3. [[Números y fechas en catalán (A1-CA)]]
-2.4. Verbos en presente y descripciones simples.
+2.4. [[Verbos en presente y descripciones simples (A1-CA)]]
 
 ## Módulo 3: Compras y Alimentación
 

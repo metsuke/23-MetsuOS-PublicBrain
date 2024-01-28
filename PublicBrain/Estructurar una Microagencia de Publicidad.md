@@ -4,6 +4,20 @@
 
 Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://platzi.com/cursos/estructura-microagencia/) voy a desarrollar mi metodologia sobre habiluiades, perfiles y tareas para MetsuOS.
 
+* Organigrama
+	* Gestión Empresarial
+		* Comercial
+		* Administración
+		* Account Manager
+			* Project Manager
+			* Expertos en Embudos de ventas
+			* Expertos en e-mail marketing
+			* Expertos en PPC
+			* Expertos en SEO
+			* Diseño Gráfico
+			* Redacción publicitaria
+			* Desarrollo web
+* Modelo de Abell (Tecnología, Función de Uso, Cliente)
 * Roles
 	* Dueño
 		* Entender bien necesidades de los clientes.

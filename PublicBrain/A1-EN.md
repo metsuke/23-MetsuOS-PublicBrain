@@ -13,7 +13,7 @@
 
 ## Módulo 2: Vida Cotidiana
 
-2.1. Vocabulario relacionado con la familia.
+2.1. [[Vocabulario relacionado con la familia (A1-EN)]]
 2.2. Descripción de objetos y lugares.
 2.3. Expresiones de cortesía.
 2.4. Hora y fechas básicas.

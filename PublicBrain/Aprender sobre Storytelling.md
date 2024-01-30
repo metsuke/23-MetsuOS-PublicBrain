@@ -8,7 +8,7 @@
 	* [[Definición de Storytelling]]
 	* [[Importancia del Storytelling en diferentes contextos]]
 * Elementos Fundamentales de una Buena Historia
-	* Personajes
+	* [[Personajes en Storytelling]]
 	* Trama
 	* Escenario
 	* Conflicto y resolución

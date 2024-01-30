@@ -17,7 +17,23 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 			* Diseño Gráfico
 			* Redacción publicitaria
 			* Desarrollo web
-* Modelo de Abell (Tecnología, Función de Uso, Cliente)
+* Modelo de Abell (Ejemplos generales no exhaustivos)
+	* Cliente
+		* Autónomos/Solopreneurs (A)
+		* Startups (B)
+		* PyMEs (C)
+		* Grandes Corporaciones (D)
+	* Función de Uso
+		* A - Expandir Cartera Clientes
+		* B - Cracimiento explosivo y exponencial numero usuarios
+		* C - Cubrir carencias de personal
+		* D - Consumir el total del presupuesto asignado
+	* Tecnología
+		* A - Paquete PPC y SEO
+		* B - Conseguir grow hacking embudos
+		* C - Subcontratacion personas por horas
+		* D - Consultoria e implementacion de acciones y campañas
+* Procesos *****
 * Roles
 	* Dueño
 		* Entender bien necesidades de los clientes.

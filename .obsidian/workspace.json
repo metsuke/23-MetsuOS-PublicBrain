@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
               }
             }
           },
@@ -164,13 +164,16 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "Evitar jergas y tecnicismos.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Uso de lenguaje claro y simple.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Pauta 1 - Texto Alternativo.md",
     "PublicBrain/Pauta 1 - Texto Alternativo - Mejora.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/WCAG 2.1.md",
     "Pauta 1 - Texto Alternativo.md",
     "Pauta 1 - Texto Alternativo - Mejora.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/Vocabulario relacionado con la familia (A1-EN).md",
     "PublicBrain/Preguntas frecuentes (A1-AR).md",
@@ -187,9 +190,6 @@
     "Aprender sobre Historia Mundial del Videojuego.md",
     "PublicBrain/Ejemplos de código (Python IA).md",
     "PublicBrain/Aprender sobre Historia Mundial del Videojuego.md",
-    "PublicBrain/Aplicaciones de las redes neuronales en la vida real.md",
-    "PublicBrain/Videojuegos a lo largo de la Historia.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/8f90ba282f04566f600c46c23c5392ac_MD5.jpg",

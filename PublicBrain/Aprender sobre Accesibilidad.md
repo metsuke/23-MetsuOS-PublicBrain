@@ -63,7 +63,7 @@
 * [[Introducción a los principios de la Lectura Fácil]]
 * [[Claridad y Sencillez]]
 	* [[Uso de lenguaje claro y simple]]
-	* Evitar jergas y tecnicismos
+	* [[Evitar jergas y tecnicismos]]
 * Estructura y Organización
 	* Organización lógica del contenido
 	* [[Uso de encabezados y listas para guiar la lectura (Lectura Facil)]]

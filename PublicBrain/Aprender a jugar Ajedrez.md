@@ -38,6 +38,7 @@
 - **Lección 19:** Resolución de problemas tácticos
 - **Lección 20:** Partidas prácticas y análisis personalizado
 - **Lección 21:** Recursos en línea para mejorar
+- [[Los mates más rapidos en ajedrez]]
 
 ## Módulo 8: Preparación para Torneos
 - **Lección 22:** Estrategias de preparación

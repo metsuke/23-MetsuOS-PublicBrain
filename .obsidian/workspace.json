@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelo de la neurona artificial.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelo de la neurona artificial.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modelo de la neurona artificial.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelo de la neurona artificial.md"
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
               }
             }
           },
@@ -164,9 +164,12 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "Modelo de la neurona artificial.md",
+    "PublicBrain/Modelo de la neurona artificial.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Redes Neuronales Artificiales.md",
+    "Modelo de la neurona artificial.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "PublicBrain/Configuración de un IDE para C.md",
@@ -187,9 +190,6 @@
     "PublicBrain/Uso de lenguaje claro y simple.md",
     "Evitar jergas y tecnicismos.md",
     "PublicBrain/Pauta 1 - Texto Alternativo.md",
-    "PublicBrain/Pauta 1 - Texto Alternativo - Mejora.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/WCAG 2.1.md",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/8f90ba282f04566f600c46c23c5392ac_MD5.jpg",

@@ -33,10 +33,29 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 		* B - Conseguir grow hacking embudos
 		* C - Subcontratacion personas por horas
 		* D - Consultoria e implementacion de acciones y campañas
-* Procesos *****
+* Procesos 
+	* Definir la propuesta de valor
+	* Definir el publico objetivo
+	* Identificar recursos clave
+	* Identificar actividades clave
+	* Estimar los costes
+	* Definir estrategia de posicionamiento
+	* Investigar competidores y sustitutos
+	* Planear estrategia de fijación de precios.
+	* Ejecutar el plan y medirlo.
+* Definir
+	* Posicionamiento
+	* Ventajas competitivas
+	* Alianzas estratégicas
 * Roles
 	* Dueño
 		* Entender bien necesidades de los clientes.
+		* Procesos y Definiciones de mas arriba
+	* Account Manager
+* Cursos Recomendados
+	* Introducción a creación empresas y startups
+	* Curso de Bussiness Model Canvas
+	* Curso de Estrategia Comercial.
 * Ejemplo Procesos (No es 100% exhaustivo)
 	* Video Animado
 		* Locución de lo que  sucede (Req: Guión)

@@ -1,5 +1,7 @@
 # Modelo de la neurona artificial
 
+[[Redes Neuronales Artificiales]]
+
 ¡Por supuesto! El modelo de la neurona artificial es fundamental en el estudio de las redes neuronales en inteligencia artificial. Es la unidad básica de procesamiento en una red neuronal artificial y está inspirada en la estructura y funcionamiento de las neuronas biológicas.
 
 Aquí hay una descripción básica del modelo de la neurona artificial:

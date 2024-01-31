@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/A1-SW.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/A1-SW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/A1-SW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/A1-SW.md"
               }
             }
           },
@@ -164,9 +164,12 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "Bebidas comunes (A1-SW).md",
+    "PublicBrain/A1-SW.md",
+    "PublicBrain/Aprender Idioma Swahili.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Storytelling.md",
     "PublicBrain/Personajes en Storytelling.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Tema 3 - Situación Educativa de las AACC en España.md",
     "PublicBrain/Evitar jergas y tecnicismos.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
@@ -187,9 +190,6 @@
     "PublicBrain/Preguntas frecuentes (A1-AR).md",
     "PublicBrain/A1-AR.md",
     "Preguntas frecuentes (A1-AR).md",
-    "PublicBrain/Aprender Idioma Inglés.md",
-    "PublicBrain/A1-EN.md",
-    "Vocabulario relacionado con la familia (A1-EN).md",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/8f90ba282f04566f600c46c23c5392ac_MD5.jpg",

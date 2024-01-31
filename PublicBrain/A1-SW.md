@@ -23,7 +23,7 @@
 ### Lección 3: Comidas y Bebidas
 
 - [[Pedir comida en un restaurante (A1-SW)]]
-- Bebidas comunes
+- [[Bebidas comunes (A1-SW)]]
 - Frases útiles en el restaurante
 
 ### Lección 4: Compras y Mercados

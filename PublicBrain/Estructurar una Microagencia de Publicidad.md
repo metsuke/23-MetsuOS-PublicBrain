@@ -52,6 +52,23 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 		* Entender bien necesidades de los clientes.
 		* Procesos y Definiciones de mas arriba
 	* Account Manager
+		* Objetivo
+			* Mantener a todos los clientes con una sonrisa
+		* Responsabilidades
+			* Mantener una relación comercial a largo plazo con el cliente.
+			* Gestión de la relación del cliente con nuestra organización.
+			* Trabajo mano a mano con cliente. Reuniones (recomendado sean semanales o mensuales dependiendo del aguerdo) seguimiento entregables vs acordado.
+		* Capacidades
+			* Tiene que entender lo que necesita el cliente incluso antes de convertirse en cliente.
+			* Tienen que formular planes de marketing a largo plazo a fin de cumplir con los objetivos marcados.
+			* Calcular pronosticos acciones marketing de modo que pueda prever frustraciones de cliente y suavizarlas, así como diseñar estrategia para cumplir objetivos de agencia y cliente.
+		* Habilidades
+			* Ventas
+			* Marketing
+			* Negociación
+			* Liderazgo
+			* Comunicación
+		* Flujo de trabajo
 * Cursos Recomendados
 	* Introducción a creación empresas y startups
 	* Curso de Bussiness Model Canvas

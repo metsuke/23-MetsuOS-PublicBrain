@@ -1,5 +1,7 @@
 # Aprender a preparar embutidos
 
+[[Index]]
+
 ## Morcilla
 
 * [[Aprender a preparar chorizo]]

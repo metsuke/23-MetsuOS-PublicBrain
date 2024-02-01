@@ -85,6 +85,10 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre Economía y Finanzas]]
 * [[Aprender sobre estructura dinamica de incentivos]]
 
+### Cocina
+
+* [[Aprender a preparar embutidos]]
+
 ### Comunicación
 
 * [[Aprender sobre Storytelling]]

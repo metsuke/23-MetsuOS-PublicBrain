@@ -215,6 +215,11 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 	* [[FFMPEG - Convertir Mpg a Mp4]]
 	* [[FFMPEG - Convertir Wmv a Mp4]]
 
+### Geopolitica
+
+[[Origen del cambio de hora en España]]
+
+
 ### IA
 
 * [[IA Tools Database]]

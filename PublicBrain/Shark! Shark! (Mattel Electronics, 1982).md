@@ -20,3 +20,27 @@ El juego se desarrolla bajo el agua y los jugadores controlan a un pez pequeño 
 El juego ha dejado una marca duradera en la historia de los videojuegos como un ejemplo temprano de juego de supervivencia y estrategia. Su simplicidad y jugabilidad atemporal lo convierten en un título que aún se disfruta entre los entusiastas de los juegos clásicos.
 
 En resumen, "Shark! Shark!" es un juego divertido y desafiante que ha resistido la prueba del tiempo y sigue siendo recordado con cariño por los aficionados a los videojuegos retro.
+
+## Características Tecnicas
+
+| Característica Técnica          | Descripción                                                                                              |
+|---------------------------------|----------------------------------------------------------------------------------------------------------|
+| **Nombre del Juego**            | Shark Shark                                                                                              |
+| **Género**                      | Arcade, Acción                                                                                            |
+| **Plataforma**                  | Intellivision                                                                                            |
+| **Desarrollador**               | Mattel Electronics                                                                                       |
+| **Año de Lanzamiento**          | 1982                                                                                                     |
+| **Modos de Juego**              | Un jugador                                                                                                |
+| **Perspectiva**                 | Vista aérea                                                                                                |
+| **Objetivo**                    | Controlar un pez (tiburón) y comer otros peces más pequeños mientras se evitan los depredadores grandes |
+| **Controles**                   | Joystick                                                                                                  |
+| **Gráficos**                    | 2D, gráficos de píxeles                                                                                   |
+| **Sonido**                      | Efectos de sonido simples                                                                                 |
+| **Dificultad**                  | Aumenta progresivamente con el tiempo y el tamaño del tiburón                                           |
+| **Puntuación**                  | Se basa en la cantidad de peces comidos y los depredadores evitados                                      |
+| **Memoria Requerida**           | Varía dependiendo de la versión del juego y la plataforma                                                |
+| **Compatibilidad**              | Diseñado para funcionar en la consola Intellivision                                                      |
+| **Recepción**                   | Fue bien recibido en su época y es considerado un clásico de Intellivision                                |
+| **Innovaciones**                | Introdujo mecánicas de juego simples pero adictivas para la época                                        |
+
+

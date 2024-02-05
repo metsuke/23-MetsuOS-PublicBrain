@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "Vocabulario para ir de compras y en el supermercado (A1-CA).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "Vocabulario para ir de compras y en el supermercado (A1-CA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "Vocabulario para ir de compras y en el supermercado (A1-CA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Promting Database.md"
+                "file": "Vocabulario para ir de compras y en el supermercado (A1-CA).md"
               }
             }
           },
@@ -164,7 +164,20 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "PublicBrain/A1-CA.md",
+    "Vocabulario para ir de compras y en el supermercado (A1-CA).md",
+    "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Euskera.md",
+    "PublicBrain/Euskera.md",
+    "PublicBrain/A1-EU.md",
+    "PublicBrain/C2-EU.md",
+    "PublicBrain/C1-EU.md",
+    "PublicBrain/B2-EU.md",
+    "PublicBrain/B1-EU.md",
+    "PublicBrain/A2-EU.md",
+    "PublicBrain/Aprender sobre Tabla Periódica.md",
+    "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender sobre productos de temporada.md",
     "Aprender sobre productos de temporada.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
@@ -177,20 +190,7 @@
     "PublicBrain/Shark! Shark! (Mattel Electronics, 1982).md",
     "PublicBrain/Origen del cambio de hora en España.md",
     "Origen del cambio de hora en España.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
     "PublicBrain/Formación de plurales (A1-AR).md",
-    "PublicBrain/Descripción de objetos y lugares (A1-EN).md",
-    "PublicBrain/Conversación en el restaurante y pedidos de comida (A1-CA).md",
-    "PublicBrain/Aprender a preparar salchichón.md",
-    "PublicBrain/Aprender a preparar salchicas.md",
-    "PublicBrain/Aprender a preparar lomo.md",
-    "Conversación en el restaurante y pedidos de comida (A1-CA).md",
-    "PublicBrain/Aprender Idioma Inglés.md",
-    "PublicBrain/A1-EN.md",
-    "Descripción de objetos y lugares (A1-EN).md",
-    "PublicBrain/Aprender Idioma Árabe.md",
-    "PublicBrain/A1-AR.md",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/8f90ba282f04566f600c46c23c5392ac_MD5.jpg",

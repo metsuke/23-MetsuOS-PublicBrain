@@ -4,7 +4,7 @@
 
 ## Aprender Crear Cursos
 
-* En el contexto de "CONTEXTO" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "TEMA". Dámelo en markdown , con encabezados ## para los modulos , todo dentro de un bloque code html para copiarlo, pero no crees un documento html, solo la etiqueta. Tras cada ## debe haber una linea en blanco. Por favor no incluyas la palabra Leccion en los puntos de las lecciones. Desarrolla el contenido de cada modulo de forma exhaustiva y detallada
+* En el contexto de "CONTEXTO" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "TEMA". Dámelo en markdown para poder copiarlo , con encabezados ## para los modulos. Tras cada ## debe haber una linea en blanco. Por favor no incluyas la palabra Leccion en los puntos de las lecciones. Desarrolla el contenido de cada modulo de forma exhaustiva y detallada
 * En el contexto de "CONTEXTO" puedes hablarme sobre "TEMA".
 ## Aprender Idiomas
 

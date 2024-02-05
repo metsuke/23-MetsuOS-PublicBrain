@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre productos de temporada.md",
+                "file": "PublicBrain/Promting Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre productos de temporada.md",
+                "file": "PublicBrain/Promting Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre productos de temporada.md",
+                "file": "PublicBrain/Promting Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre productos de temporada.md"
+                "file": "PublicBrain/Promting Database.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
     "PublicBrain/Index.md",
-    "Aprender sobre productos de temporada.md",
     "PublicBrain/Aprender sobre productos de temporada.md",
+    "Aprender sobre productos de temporada.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "index.html",
     "Home copia.md",

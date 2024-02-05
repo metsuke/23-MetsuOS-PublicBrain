@@ -88,6 +88,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Cocina
 
 * [[Aprender a preparar embutidos]]
+* [[Aprender sobre productos de temporada]]
 
 ### Comunicación
 

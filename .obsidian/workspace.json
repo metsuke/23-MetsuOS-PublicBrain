@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/Aprender sobre productos de temporada.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/Aprender sobre productos de temporada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/Aprender sobre productos de temporada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
+                "file": "PublicBrain/Aprender sobre productos de temporada.md"
               }
             }
           },
@@ -165,6 +165,11 @@
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
     "PublicBrain/Index.md",
+    "Aprender sobre productos de temporada.md",
+    "PublicBrain/Aprender sobre productos de temporada.md",
+    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+    "index.html",
+    "Home copia.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/Alan Wake (Remedy Entertainment, 2010).md",
@@ -186,10 +191,6 @@
     "Descripción de objetos y lugares (A1-EN).md",
     "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/A1-AR.md",
-    "Formación de plurales (A1-AR).md",
-    "PublicBrain/Aprender a preparar embutidos.md",
-    "Aprender a preparar lomo.md",
-    "Aprender a preparar salchichón.md",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/8f90ba282f04566f600c46c23c5392ac_MD5.jpg",
@@ -209,7 +210,6 @@
     "PublicBrain/_resources/Remedy Entertainment",
     "PublicBrain/_resources/Aprender sobre Rammstein",
     "PublicBrain/_resources/Adventure (Atari, 1979)",
-    "PublicBrain/_resources/Atari, Inc.",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"
   ]

@@ -64,7 +64,7 @@
 * [[Claridad y Sencillez]]
 	* [[Uso de lenguaje claro y simple]]
 	* [[Evitar jergas y tecnicismos]]
-* Estructura y Organización
+* [[Estructura y Organización (Lectura Facil)]]
 	* Organización lógica del contenido
 	* [[Uso de encabezados y listas para guiar la lectura (Lectura Facil)]]
 * Apoyo Visual

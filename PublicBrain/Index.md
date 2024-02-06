@@ -26,8 +26,8 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * CA [[Aprender Idioma Catalán]]
 * EL [[Aprender idioma Griego]]
 * EN [[Aprender Idioma Inglés]]
+* EO [[Aprender Idioma Esperanto]]
 * ES [[Aprender Idioma Español]]
-* EO Aprender Idioma Esperanto
 * EU [[Aprender Idioma Euskera]]
 * FI [[Aprender Idioma Finlandes]]
 * FR [[Aprender Idioma Frances]]

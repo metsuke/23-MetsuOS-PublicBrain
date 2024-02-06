@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprender Idioma Polaco.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprender Idioma Polaco.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprender Idioma Polaco.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprender Idioma Polaco.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,9 +164,15 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Polaco.md",
-    "Aprender Idioma Polaco.md",
+    "PublicBrain/Aprender Idioma Coreano.md",
+    "Coreano.md",
     "PublicBrain/Index.md",
+    "Aprender Idioma Coreano.md",
+    "PublicBrain/Polaco.md",
+    "PublicBrain/Los pronombres personales (A1-AR).md",
+    "PublicBrain/Aprender Idioma Polaco.md",
+    "Aprender Idioma Polaco.md",
+    "Polaco.md",
     "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/A1-AR.md",
     "Los pronombres personales (A1-AR).md",
@@ -184,12 +190,6 @@
     "Hacer compras en el mercado (A1-SW).md",
     "PublicBrain/Niveles Oficiales SW.md",
     "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
-    "Vocabulario para ir de compras y en el supermercado (A1-CA).md",
-    "PublicBrain/Vocabulario para ir de compras y en el supermercado (A1-CA).md",
-    "PublicBrain/Aprender Idioma Euskera.md",
-    "PublicBrain/Euskera.md",
-    "PublicBrain/A1-EU.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

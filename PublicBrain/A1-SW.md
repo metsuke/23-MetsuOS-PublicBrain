@@ -28,7 +28,7 @@
 
 ### Lección 4: Compras y Mercados
 
-- Hacer compras en el mercado
+- [[Hacer compras en el mercado (A1-SW)]]
 - Preguntar por precios
 - Negociar en Swahili
 

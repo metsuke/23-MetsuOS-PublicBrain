@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md"
+                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
               }
             }
           },
@@ -164,13 +164,15 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "Entornos de desarrollo (IDEs) para IA.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/WCAG 2.1.md",
     "Pauta 2 - Control del Teclado.md",
     "PublicBrain/Pauta 2 - Control del Teclado.md",
-    "PublicBrain/WCAG 2.1.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Objetivo de WCAG 2.0.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "Pesos y bias (Redes Neuronales).md",
     "PublicBrain/Pesos y bias (Redes Neuronales).md",
@@ -181,7 +183,6 @@
     "PublicBrain/Modelo de la neurona artificial.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Mejores prácticas educativas (Educativa de las AACC en España).md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
     "Estructura y Organización (Lectura Facil).md",
     "PublicBrain/Claridad y Sencillez.md",
     "PublicBrain/Checo.md",
@@ -189,7 +190,6 @@
     "Aprender Idioma Checo.md",
     "Checo.md",
     "PublicBrain/().md",
-    "PublicBrain/Aprender Idioma Gallego.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

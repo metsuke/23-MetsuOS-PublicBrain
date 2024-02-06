@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,10 +164,12 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Estructura y Organización (Lectura Facil).md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/Claridad y Sencillez.md",
+    "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "Mejores prácticas educativas (Educativa de las AACC en España).md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "Estructura y Organización (Lectura Facil).md",
+    "PublicBrain/Claridad y Sencillez.md",
     "PublicBrain/Checo.md",
     "PublicBrain/Aprender Idioma Checo.md",
     "Aprender Idioma Checo.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Aprender Idioma Coreano.md",
     "Coreano.md",
     "Aprender Idioma Coreano.md",
-    "PublicBrain/Polaco.md",
-    "PublicBrain/Los pronombres personales (A1-AR).md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

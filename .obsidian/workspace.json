@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Italiano.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Italiano.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Italiano.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Italiano.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,9 +164,17 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "Niveles Oficiales IT.md",
-    "PublicBrain/Aprender Idioma Italiano.md",
+    "PublicBrain/Aprender Idioma Gallego.md",
+    "PublicBrain/Gallego.md",
     "PublicBrain/Index.md",
+    "Gallego.md",
+    "PublicBrain/Niveles Oficiales IT.md",
+    "PublicBrain/Esperanto.md",
+    "PublicBrain/Coreano.md",
+    "PublicBrain/Aprender Idioma Esperanto.md",
+    "Aprender Idioma Gallego.md",
+    "PublicBrain/Aprender Idioma Italiano.md",
+    "Niveles Oficiales IT.md",
     "Aprender Idioma Esperanto.md",
     "Esperanto.md",
     "PublicBrain/Aprender Idioma Coreano.md",
@@ -182,14 +190,6 @@
     "Los pronombres personales (A1-AR).md",
     "PublicBrain/Hora y fechas básicas (A1-EN).md",
     "PublicBrain/Hacer compras en el mercado (A1-SW).md",
-    "PublicBrain/Estructuras de oraciones simples en japonés (N5-JP).md",
-    "PublicBrain/Aprender Idioma Inglés.md",
-    "PublicBrain/A1-EN.md",
-    "Hora y fechas básicas (A1-EN).md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/N5-JP.md",
-    "Estructuras de oraciones simples en japonés (N5-JP).md",
-    "PublicBrain/Aprender Idioma Swahili.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

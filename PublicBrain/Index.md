@@ -32,6 +32,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * FI [[Aprender Idioma Finlandes]]
 * FR [[Aprender Idioma Frances]]
 * GE | [[Aprender Idioma Aleman]]
+* GL | [[Aprender Idioma Gallego]]
 * HI [[Aprender Idioma Hindi]]
 * IT [[Aprender Idioma Italiano]]
 * KO [[Aprender Idioma Coreano]]

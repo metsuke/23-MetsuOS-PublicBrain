@@ -16,7 +16,7 @@
 - [[Artículos definidos e indefinidos (A1-AR)]]
 - Género y número de sustantivos
 - [[Formación de plurales (A1-AR)]]
-- Los pronombres personales
+- [[Los pronombres personales (A1-AR)]]
 
 ## Módulo 3: Expresiones Cotidianas
 

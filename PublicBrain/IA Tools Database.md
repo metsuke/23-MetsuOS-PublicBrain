@@ -32,6 +32,10 @@
 
 * [Vectorizer.AI](https://vectorizer.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia)
 
+## Video 2 Text
+
+* [Fireflies.ai](https://fireflies.ai)
+
 ---
 
 ## Directorio IA

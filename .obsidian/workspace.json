@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/IA Tools Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/IA Tools Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/IA Tools Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/IA Tools Database.md"
               }
             }
           },
@@ -164,10 +164,10 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Entornos de desarrollo (IDEs) para IA.md",
     "Entornos de desarrollo (IDEs) para IA.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.1.md",
     "Pauta 2 - Control del Teclado.md",

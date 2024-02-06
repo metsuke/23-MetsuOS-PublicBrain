@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pesos y bias (Redes Neuronales).md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pesos y bias (Redes Neuronales).md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pesos y bias (Redes Neuronales).md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pesos y bias (Redes Neuronales).md"
+                "file": "PublicBrain/WCAG 2.1.md"
               }
             }
           },
@@ -164,13 +164,21 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "PublicBrain/Función de activación.md",
+    "Pauta 2 - Control del Teclado.md",
+    "PublicBrain/Pauta 2 - Control del Teclado.md",
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Objetivo de WCAG 2.0.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Pesos y bias (Redes Neuronales).md",
+    "PublicBrain/Pesos y bias (Redes Neuronales).md",
+    "PublicBrain/Mejores prácticas educativas (Educativa de las AACC en España).md",
+    "PublicBrain/Estructura y Organización (Lectura Facil).md",
+    "PublicBrain/Función de activación.md",
     "PublicBrain/Redes Neuronales Artificiales.md",
     "PublicBrain/Modelo de la neurona artificial.md",
-    "Pesos y bias (Redes Neuronales).md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Mejores prácticas educativas (Educativa de las AACC en España).md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
@@ -182,14 +190,6 @@
     "Checo.md",
     "PublicBrain/().md",
     "PublicBrain/Aprender Idioma Gallego.md",
-    "PublicBrain/Gallego.md",
-    "Gallego.md",
-    "PublicBrain/Niveles Oficiales IT.md",
-    "PublicBrain/Esperanto.md",
-    "PublicBrain/Coreano.md",
-    "PublicBrain/Aprender Idioma Esperanto.md",
-    "Aprender Idioma Gallego.md",
-    "PublicBrain/Aprender Idioma Italiano.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

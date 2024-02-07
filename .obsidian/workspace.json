@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/IA Tools Database.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/IA Tools Database.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/IA Tools Database.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/IA Tools Database.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,7 +164,10 @@
   },
   "active": "5df685fde1f70201",
   "lastOpenFiles": [
+    "Aprender Idioma Hebreo.md",
+    "Hebreo.md",
     "PublicBrain/Index.md",
+    "PublicBrain/IA Tools Database.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Entornos de desarrollo (IDEs) para IA.md",
     "Entornos de desarrollo (IDEs) para IA.md",
@@ -187,9 +190,6 @@
     "Estructura y Organización (Lectura Facil).md",
     "PublicBrain/Claridad y Sencillez.md",
     "PublicBrain/Checo.md",
-    "PublicBrain/Aprender Idioma Checo.md",
-    "Aprender Idioma Checo.md",
-    "Checo.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

@@ -8,7 +8,7 @@ Estructura de la Web en proceso de creacion
 * Productividad
 * Videojuegos
 
-* [[PublicBrain/Index]]
+* [[Index]]
 
 [![volver a la Home](_resources/Home/d127e8f844e447284700247bb17d2e79_MD5.png)](https://metsuke.com/)
 

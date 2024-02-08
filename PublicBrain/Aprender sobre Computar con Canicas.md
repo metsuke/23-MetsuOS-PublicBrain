@@ -1,8 +1,6 @@
-# Aprender sobre computar con canicas
+# Aprender sobre Computar con Canicas
 
 [[Index]]
-
-# Curso de Computación con Canicas
 
 ## Módulo 1: Introducción a la Computación con Canicas
 - Lección 1: ¿Qué es la Computación con Canicas?

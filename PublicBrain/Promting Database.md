@@ -2,6 +2,10 @@
 
 [[Index]]
 
+## Analisis Videojuegos
+
+necesito una tabla detallada y exhaustiva de características técnicas del videojuego Shark Shark. Damelo en marldown para poder copiarlo
+
 ## Aprender Crear Cursos
 
 * En el contexto de "CONTEXTO" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "TEMA". Dámelo en markdown para poder copiarlo , con encabezados ## para los modulos. Tras cada ## debe haber una linea en blanco. Por favor no incluyas la palabra Leccion en los puntos de las lecciones. Desarrolla el contenido de cada modulo de forma exhaustiva y detallada

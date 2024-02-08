@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprender sobre computar con canicas.md",
+                "file": "PublicBrain/Videojuegos a lo largo de la Historia.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprender sobre computar con canicas.md",
+                "file": "PublicBrain/Videojuegos a lo largo de la Historia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprender sobre computar con canicas.md",
+                "file": "PublicBrain/Videojuegos a lo largo de la Historia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprender sobre computar con canicas.md"
+                "file": "PublicBrain/Videojuegos a lo largo de la Historia.md"
               }
             }
           },
@@ -164,7 +164,13 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "Asteroids (Atari, 1979-1980).md",
+    "PublicBrain/Videojuegos a lo largo de la Historia.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "Assassin's Creed IV (Ubusift, 2013).md",
     "PublicBrain/Index.md",
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
     "Aprender sobre computar con canicas.md",
     "PublicBrain/Aprender sobre Hardware Libre.md",
     "PublicBrain/Hardware Libre - Memoria Volatil.md",
@@ -184,12 +190,6 @@
     "Pauta 2 - Control del Teclado.md",
     "PublicBrain/Pauta 2 - Control del Teclado.md",
     "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Objetivo de WCAG 2.0.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "Pesos y bias (Redes Neuronales).md",
-    "PublicBrain/Pesos y bias (Redes Neuronales).md",
-    "PublicBrain/Mejores prácticas educativas (Educativa de las AACC en España).md",
-    "PublicBrain/Estructura y Organización (Lectura Facil).md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

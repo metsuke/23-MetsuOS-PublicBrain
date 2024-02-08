@@ -4,20 +4,23 @@
 
 Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://platzi.com/cursos/estructura-microagencia/) voy a desarrollar mi metodologia sobre habiluiades, perfiles y tareas para MetsuOS.
 
-* Organigrama
-	* Gestión Empresarial
-		* Comercial
-		* Administración
-		* Account Manager
-			* Project Manager
-			* Expertos en Embudos de ventas
-			* Expertos en e-mail marketing
-			* Expertos en PPC
-			* Expertos en SEO
-			* Diseño Gráfico
-			* Redacción publicitaria
-			* Desarrollo web
-* Modelo de Abell (Ejemplos generales no exhaustivos)
+## Organigrama
+
+* Gestión Empresarial
+	* Comercial
+	* Administración
+	* Account Manager
+		* Project Manager
+		* Expertos en Embudos de ventas
+		* Expertos en e-mail marketing
+		* Expertos en PPC
+		* Expertos en SEO
+		* Diseño Gráfico
+		* Redacción publicitaria
+		* Desarrollo web
+## Modelo de Abell
+
+* Ejemplos generales no exhaustivos
 	* Cliente
 		* Autónomos/Solopreneurs (A)
 		* Startups (B)
@@ -33,25 +36,31 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 		* B - Conseguir grow hacking embudos
 		* C - Subcontratacion personas por horas
 		* D - Consultoria e implementacion de acciones y campañas
-* Procesos 
-	* Definir la propuesta de valor
-	* Definir el publico objetivo
-	* Identificar recursos clave
-	* Identificar actividades clave
-	* Estimar los costes
-	* Definir estrategia de posicionamiento
-	* Investigar competidores y sustitutos
-	* Planear estrategia de fijación de precios.
-	* Ejecutar el plan y medirlo.
-* Definir
-	* Posicionamiento
-	* Ventajas competitivas
-	* Alianzas estratégicas
-* Roles
-	* Dueño
-		* Entender bien necesidades de los clientes.
-		* Procesos y Definiciones de mas arriba
-	* Account Manager
+
+## Procesos 
+* Definir la propuesta de valor
+* Definir el publico objetivo
+* Identificar recursos clave
+* Identificar actividades clave
+* Estimar los costes
+* Definir estrategia de posicionamiento
+* Investigar competidores y sustitutos
+* Planear estrategia de fijación de precios.
+* Ejecutar el plan y medirlo.
+
+## Definir
+
+* Posicionamiento
+* Ventajas competitivas
+* Alianzas estratégicas
+ 
+## Roles
+### Dueño
+
+* Entender bien necesidades de los clientes.
+* Procesos y Definiciones de mas arriba
+
+### Account Manager
 		* Objetivo
 			* Mantener a todos los clientes con una sonrisa
 		* Responsabilidades Generales
@@ -100,7 +109,6 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 			* Liderazgo para Equipos Creativos
 			* Liderazgo para Equipos de Marketing.
 			* Escuela de Marketing Digital.
-			* 
 		* Flujo de trabajo
 			* Puesta en marcha.
 				* Primera reunión de venta.
@@ -109,11 +117,16 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 			* Proyecto en marcha
 				* Reuniones de avance
 				* Presentación de resultados.
-* Cursos Recomendados
-	* Introducción a creación empresas y startups
-	* Curso de Bussiness Model Canvas
-	* Curso de Estrategia Comercial.
-* Ejemplo Procesos (No es 100% exhaustivo)
+
+## Cursos Recomendados
+
+* Introducción a creación empresas y startups
+* Curso de Bussiness Model Canvas
+* Curso de Estrategia Comercial.
+
+## Ejemplo Procesos 
+
+* No es 100% exhaustivo
 	* Video Animado
 		* Locución de lo que  sucede (Req: Guión)
 		* Animación del Personaje Protagonista (Req: Guión)

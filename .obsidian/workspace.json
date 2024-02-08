@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3bbbb4131c67e16b",
+        "id": "bdd7083df9de16cf",
         "type": "tabs",
         "children": [
           {
-            "id": "5df685fde1f70201",
+            "id": "fea3863f0dec54d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Hardware Libre.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Hardware Libre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Hardware Libre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Hardware Libre.md"
               }
             }
           },
@@ -162,13 +162,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5df685fde1f70201",
+  "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Index.md",
+    "PublicBrain/Hardware Libre - Memoria Volatil.md",
+    "Hardware Libre - Memoria Volatil.md",
+    "PublicBrain/Aprender sobre Hardware Libre.md",
+    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+    "Home.md",
     "PublicBrain/Hebreo.md",
     "PublicBrain/Aprender Idioma Hebreo.md",
     "Aprender Idioma Hebreo.md",
     "Hebreo.md",
-    "PublicBrain/Index.md",
     "PublicBrain/IA Tools Database.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Entornos de desarrollo (IDEs) para IA.md",
@@ -185,11 +190,6 @@
     "PublicBrain/Mejores prácticas educativas (Educativa de las AACC en España).md",
     "PublicBrain/Estructura y Organización (Lectura Facil).md",
     "PublicBrain/Función de activación.md",
-    "PublicBrain/Redes Neuronales Artificiales.md",
-    "PublicBrain/Modelo de la neurona artificial.md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
-    "Mejores prácticas educativas (Educativa de las AACC en España).md",
-    "Estructura y Organización (Lectura Facil).md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

@@ -133,6 +133,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Aprender sobre GNU Linux]]
 * [[Aprender sobre Hardware Libre]] 
+	* [[Hardware Libre - Memoria Volatil]]
 	* [[Hardware Libre - Microprocesadores]]
 * [[Aprender sobre Inteligencia Artificial]]
 	* Aprender sobre [[Estructura y funcionamiento de las  redes neuronales]]

@@ -2,50 +2,30 @@
 
 [[Index]]
 
-# Índice de Contenidos - Software Libre
+# Curso sobre Hardware Libre
 
-1. ## Introducción
-   1.1 ¿Qué es el Software Libre?
-   1.2 Historia del Movimiento del Software Libre
-   1.3 Principios Fundamentales
+## Módulo 1: Introducción al Hardware Libre
+- Lección 1: ¿Qué es el Hardware Libre?
+- Lección 2: Principios y filosofía del Hardware Libre
+- Lección 3: Historia del movimiento del Hardware Libre
+- Lección 4: Licencias de Hardware Libre
 
-2. ## Licencias de Software
-   2.1 Licencias de Código Abierto vs. Licencias Propietarias
-   2.2 Ejemplos de Licencias de Software Libre
-   2.3 Efectos de las Licencias en el Uso y Distribución
+## Módulo 2: Plataformas de Hardware Libre
+- Lección 1: Arduino y sus aplicaciones
+- Lección 2: Raspberry Pi y sus aplicaciones
+- Lección 3: Otras plataformas de Hardware Libre
 
-3. ## Beneficios del Software Libre
-   3.1 Libertad del Usuario
-   3.2 Transparencia y Colaboración
-   3.3 Costos y Eficiencia
+## Módulo 3: Diseño de Hardware Libre
+- Lección 1: Herramientas de diseño de circuitos impresos (PCB)
+- Lección 2: Introducción a KiCad
+- Lección 3: Diseño de esquemáticos y PCBs con KiCad
+- Lección 4: Verificación y simulación de circuitos
 
-4. ## Ejemplos Prácticos
-   4.1 Herramientas y Sistemas Operativos de Código Abierto
-   4.2 Alternativas Libres a Software Propietario
-   4.3 Casos de Éxito en la Implementación de Software Libre
+## Módulo 4: Programación de Hardware Libre
+- Lección 1: Programación para Arduino
+- Lección 2: Programación para Raspberry Pi
+- Lección 3: Introducción a la programación en microcontroladores
+- Lección 4: Integración de sensores y actuadores
 
-5. ## Desafíos y Consideraciones
-   5.1 Retos en la Adopción de Software Libre
-   5.2 Seguridad y Mantenimiento
-   5.3 Estrategias para Superar Obstáculos
-
-6. ## Aplicación Práctica en el Día a Día
-   6.1 Consejos para Integrar Software Libre en tu Rutina
-   6.2 Recursos y Comunidades de Apoyo
-   6.3 Experiencias Personales de Adoptar Software Libre
-
-7. ## Movimientos y Organizaciones
-   7.1 Free Software Foundation (FSF)
-   7.2 Open Source Initiative (OSI)
-   7.3 Open Source Hardware Association (OSHWA)
-
-8. ## Conclusiones
-   8.1 Resumen de los Principales Conceptos
-   8.2 Pasos para Promover el Software Libre en tu Entorno
-
-9. ## Recursos Adicionales
-   9.1 Lecturas Recomendadas
-   9.2 Sitios Web y Foros Relevantes
-
-10. ## Glosario
-    10.1 Términos Clave Relacionados con el Software Libre
+## Módulo 5: Proyectos Prácticos de Hardware Libre
+- Lección: Creación de proyectos prácticos

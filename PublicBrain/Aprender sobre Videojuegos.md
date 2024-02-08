@@ -12,5 +12,4 @@
 ## Misc
 
 * [[Narrativa y Storytelling en el mundo del videojuego]]
-
 * [[Inventario de Emuladores escritos en Javascript]] 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Videojuegos a lo largo de la Historia.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Videojuegos a lo largo de la Historia.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Videojuegos a lo largo de la Historia.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Videojuegos a lo largo de la Historia.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,18 +164,22 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "Asteroids (Atari, 1979-1980).md",
-    "PublicBrain/Videojuegos a lo largo de la Historia.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "Assassin's Creed IV (Ubusift, 2013).md",
+    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Videojuegos a lo largo de la Historia.md",
+    "PublicBrain/Manic Miner (Mathew Smith, 1983).md",
+    "Manic Miner (Mathew Smith, 1983).md",
+    "PublicBrain/Asteroids (Atari, 1979-1980).md",
+    "PublicBrain/Assassin's Creed IV (Ubusift, 2013).md",
+    "Asteroids (Atari, 1979-1980).md",
+    "Assassin's Creed IV (Ubusift, 2013).md",
     "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "Aprender sobre computar con canicas.md",
     "PublicBrain/Aprender sobre Hardware Libre.md",
     "PublicBrain/Hardware Libre - Memoria Volatil.md",
     "Hardware Libre - Memoria Volatil.md",
-    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "Home.md",
     "PublicBrain/Hebreo.md",
     "PublicBrain/Aprender Idioma Hebreo.md",
@@ -186,10 +190,6 @@
     "PublicBrain/Entornos de desarrollo (IDEs) para IA.md",
     "Entornos de desarrollo (IDEs) para IA.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/WCAG 2.1.md",
-    "Pauta 2 - Control del Teclado.md",
-    "PublicBrain/Pauta 2 - Control del Teclado.md",
-    "PublicBrain/WCAG 2.0.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

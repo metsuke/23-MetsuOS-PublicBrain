@@ -123,6 +123,8 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre Accesibilidad]]
 	* [[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
 	* Aprender sobre [[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas]] ([[WCAG 2.0]] | [[WCAG 2.1]])
+	* Aprender sobre Accesibilidad en ELearining
+	* [[Aprender sobre Accesibilidad en Videojuegos]]
 * [[Aprender sobre Altas Capacidades]]
 
 ### Productividad

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulario para hablar de deportes y hobbies (A1-CA).md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulario para hablar de deportes y hobbies (A1-CA).md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulario para hablar de deportes y hobbies (A1-CA).md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulario para hablar de deportes y hobbies (A1-CA).md"
+                "file": "PublicBrain/WCAG 2.0.md"
               }
             }
           },
@@ -164,10 +164,17 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "Accesibilidad del teclado.md",
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/Pauta 2 - Control del Teclado.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Pauta 1 - Texto Alternativo.md",
+    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "Vocabulario para hablar de deportes y hobbies (A1-CA).md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/Index.md",
+    "PublicBrain/Vocabulario para hablar de deportes y hobbies (A1-CA).md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "PublicBrain/Lección 1 - Qué es la Computación con Canicas.md",
     "Lección 1 - Qué es la Computación con Canicas.md",
@@ -183,13 +190,6 @@
     "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Videojuegos a lo largo de la Historia.md",
     "PublicBrain/Manic Miner (Mathew Smith, 1983).md",
-    "Manic Miner (Mathew Smith, 1983).md",
-    "PublicBrain/Asteroids (Atari, 1979-1980).md",
-    "PublicBrain/Assassin's Creed IV (Ubusift, 2013).md",
-    "Asteroids (Atari, 1979-1980).md",
-    "Assassin's Creed IV (Ubusift, 2013).md",
-    "PublicBrain/Promting Database.md",
-    "Aprender sobre computar con canicas.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

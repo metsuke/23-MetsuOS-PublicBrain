@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "Niveles Oficiales SV.md",
+    "PublicBrain/Niveles Oficiales SV.md",
+    "PublicBrain/Escritura y pronunciación (HI Basico).md",
     "PublicBrain/Aprender Idioma Sueco.md",
+    "Niveles Oficiales SV.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Hindi.md",
     "Escritura y pronunciación (HI Basico).md",
@@ -188,8 +190,6 @@
     "Vocabulario para hablar de deportes y hobbies (A1-CA).md",
     "PublicBrain/Vocabulario para hablar de deportes y hobbies (A1-CA).md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
-    "PublicBrain/Lección 1 - Qué es la Computación con Canicas.md",
-    "Lección 1 - Qué es la Computación con Canicas.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

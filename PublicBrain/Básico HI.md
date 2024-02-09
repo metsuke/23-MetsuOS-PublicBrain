@@ -8,7 +8,7 @@
 - [[Introducción al alfabeto Hindi]]
 - [[Vocales en Hindi]]
 - Consonantes en Hindi
-- Escritura y pronunciación
+- [[Escritura y pronunciación (HI Basico)]]
 
 ## Módulo 2: Números y Contar
 - Números del 1 al 10

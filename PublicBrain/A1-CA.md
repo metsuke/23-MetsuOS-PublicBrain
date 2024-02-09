@@ -28,7 +28,7 @@
 ## Módulo 4: Tiempo Libre y Ocio
 
 4.1. Conversación sobre pasatiempos y actividades de ocio.
-4.2. Vocabulario para hablar de deportes y hobbies.
+4.2. [[Vocabulario para hablar de deportes y hobbies (A1-CA)]]
 4.3. Verbos en futuro simple y planes de futuro.
 4.4. Conversaciones sobre eventos y actividades sociales.
 

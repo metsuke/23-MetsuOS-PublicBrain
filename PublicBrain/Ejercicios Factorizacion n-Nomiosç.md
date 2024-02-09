@@ -43,4 +43,8 @@ $$(2a^2x - 5a^2y + 15by - 6bx)=a^2(2x-5y)-3b(2x-5y)=(a^2-3b)(2x-5y)$$
 
 ## Caso 3:Trinomio cuadrado perfecto
 
-### 
+### (1+14x^2y+49x^4*y^2)
+
+$$(1+14x^2y+49x^4*y^2)=(1+7x^2y)^2$$
+
+$$$$

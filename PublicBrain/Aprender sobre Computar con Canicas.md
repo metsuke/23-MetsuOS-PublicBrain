@@ -3,7 +3,7 @@
 [[Index]]
 
 ## Módulo 1: Introducción a la Computación con Canicas
-- Lección 1: ¿Qué es la Computación con Canicas?
+- [[Lección 1 - Qué es la Computación con Canicas]]
 - Lección 2: Historia y antecedentes
 - Lección 3: Principios fundamentales
 - Lección 4: Aplicaciones y relevancia actual

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,13 +164,17 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "Organización lógica del contenido (Lectura Facil).md",
+    "PublicBrain/Evitar jergas y tecnicismos.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Accesibilidad del teclado.md",
     "Accesibilidad del teclado.md",
     "PublicBrain/WCAG 2.1.md",
     "PublicBrain/Pauta 2 - Control del Teclado.md",
-    "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Pauta 1 - Texto Alternativo.md",
     "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "Vocabulario para hablar de deportes y hobbies (A1-CA).md",
@@ -186,10 +190,6 @@
     "Home.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "Aprender sobre Accesibilidad en Videojuegos.md",
-    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Videojuegos a lo largo de la Historia.md",
-    "PublicBrain/Manic Miner (Mathew Smith, 1983).md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

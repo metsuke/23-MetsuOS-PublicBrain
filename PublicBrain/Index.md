@@ -39,7 +39,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * IT [[Aprender Idioma Italiano]]
 * KO [[Aprender Idioma Coreano]]
 * JP [[Aprender Idioma Japones]]
-* NO Aprender Idioma Noruego
+* NO [[Aprender Idioma Noruego]]
 * PL [[Aprender Idioma Polaco]]
 * RO [[Aprender Idioma Rumano]]
 * RU [[Aprender Idioma Ruso]]

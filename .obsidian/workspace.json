@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprender sobre la Relación entre Ciencia y Arte.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprender sobre la Relación entre Ciencia y Arte.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprender sobre la Relación entre Ciencia y Arte.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprender sobre la Relación entre Ciencia y Arte.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "PublicBrain/Index.md",
+    "PublicBrain/Organización lógica del contenido (Lectura Facil).md",
+    "PublicBrain/Aprender sobre la Relación entre Ciencia y Arte.md",
     "Aprender sobre la Relación entre Ciencia y Arte.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "Organización lógica del contenido (Lectura Facil).md",
     "PublicBrain/Evitar jergas y tecnicismos.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Nivel Principiante.md",
     "PublicBrain/Aprender sobre World of Warcraft.md",
     "PublicBrain/Aprender sobre el Lore de World of Warcraft.md",
-    "Home.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

@@ -81,6 +81,10 @@ AR/CA/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALM
 
 Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elaborados.
 
+### Ciencia General
+
+* [[Aprender sobre la Relación entre Ciencia y Arte]]
+
 # Ciencias Formales
 
 * [[Aprender sobre Matemáticas]]

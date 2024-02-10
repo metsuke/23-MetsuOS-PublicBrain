@@ -23,7 +23,7 @@
 * Funciones de activación comunes (Sigmoid, ReLU, Tanh)
 * Backpropagation y optimización de pesos
 
-## Diseño y Entrenamiento de Redes Neuronales
+## [[Diseño y Entrenamiento de Redes Neuronales]]
 
 * Recopilación y preparación de datos
 * División de datos en conjuntos de entrenamiento, validación y prueba

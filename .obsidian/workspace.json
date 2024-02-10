@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
               }
             }
           },
@@ -164,10 +164,11 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "Diseño y Entrenamiento de Redes Neuronales.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "PublicBrain/Cálculo de la salida de una neurona.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Diseño y Entrenamiento de Redes Neuronales.md",
+    "PublicBrain/Cálculo de la salida de una neurona.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "Lección 3 - Principios fundamentales de la computación con canicas.md",
     "PublicBrain/Lección 3 - Principios fundamentales de la computación con canicas.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Aprender Idioma Noruego.md",
     "Aprender Idioma Noruego.md",
     "Noruego.md",
-    "PublicBrain/Aprender a programar plugins para World of Warcraft.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

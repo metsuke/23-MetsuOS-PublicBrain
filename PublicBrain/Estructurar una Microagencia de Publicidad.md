@@ -55,11 +55,14 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 * Alianzas estratégicas
  
 ## Roles
+
+---
 ### Dueño
 
 * Entender bien necesidades de los clientes.
 * Procesos y Definiciones de mas arriba
 
+---
 ### Account Manager
 
 #### Objetivo
@@ -124,9 +127,27 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 	* Reuniones de avance
 	* Presentación de resultados.
 
+---
 ### Project Manager
 
-xxx
+#### Objetivo
+
+* Asegurar la ejecución del proyecto.
+
+#### Tareas y Responsabilidades
+
+* Gestion de tiempo y recursos para la consecueción de objetivos del proyecto.
+* TODO: SEGUIR AQUI
+
+#### Procesos
+
+* Reunión con Account Managers
+* Definir objetivos y métricas
+* Define y reune al equipo (incluso si tiene que contratar debe coordinar dicha contratación)
+* Planifica la ruta (camino crítico)
+* Realiza seguimiento de avances
+* Controla la calidad de entregables
+* Ofrece retroalimentación y aprendizaje
 
 ## Cursos Recomendados
 

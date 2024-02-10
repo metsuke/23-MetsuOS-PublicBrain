@@ -15,7 +15,7 @@
 
 2.1. [[Vocabulario relacionado con la familia (A1-EN)]]
 2.2. [[Descripción de objetos y lugares (A1-EN)]]
-2.3. Expresiones de cortesía.
+2.3. [[Expresiones de cortesía (A1-EN)]]
 2.4. [[Hora y fechas básicas (A1-EN)]]
 
 ## Módulo 3: Comunicación

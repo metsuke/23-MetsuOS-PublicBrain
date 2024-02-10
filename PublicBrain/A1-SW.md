@@ -30,7 +30,7 @@
 
 - [[Hacer compras en el mercado (A1-SW)]]
 - Preguntar por precios
-- Negociar en Swahili
+- [[Negociar en Swahili (A1-SW)]]
 
 ## Módulo 3: Vida Diaria
 

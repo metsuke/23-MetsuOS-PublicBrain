@@ -1,6 +1,7 @@
 # Aprender sobre Accesibilidad en Videojuegos
 
-[[Index]]
+[[Index#Plena Inclusión]]
+
 
 ## I. Introducción a la Accesibilidad en Videojuegos
    - ¿Qué es la accesibilidad en videojuegos?
@@ -62,4 +63,4 @@
    - Recursos, herramientas y comunidades de apoyo.
    - Próximos pasos para seguir aprendiendo y contribuyendo.
 
-¡Disfruta aprendiendo sobre accesibilidad en videojuegos!
+

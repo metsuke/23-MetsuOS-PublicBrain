@@ -14,7 +14,7 @@
 ## Módulo 2: Gramática Básica
 
 - [[Artículos definidos e indefinidos (A1-AR)]]
-- Género y número de sustantivos
+- [[Género y número de sustantivos (A1-AR)]]
 - [[Formación de plurales (A1-AR)]]
 - [[Los pronombres personales (A1-AR)]]
 

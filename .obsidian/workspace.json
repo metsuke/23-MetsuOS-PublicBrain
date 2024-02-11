@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,15 +164,22 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "Bibliotecas populares (NumPy, pandas, scikit-learn, TensorFlow, PyTorch).md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "Lección 4 - Aplicaciones y relevancia actual.md",
+    "PublicBrain/Lección 1 - Qué es la Computación con Canicas.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Árabe.md",
+    "PublicBrain/A1-AR.md",
+    "PublicBrain/Género y número de sustantivos (A1-AR).md",
+    "PublicBrain/Bibliotecas populares (NumPy, pandas, scikit-learn, TensorFlow, PyTorch).md",
+    "Género y número de sustantivos (A1-AR).md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "Bibliotecas populares (NumPy, pandas, scikit-learn, TensorFlow, PyTorch).md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Diseño y Entrenamiento de Redes Neuronales.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "Diseño y Entrenamiento de Redes Neuronales.md",
     "PublicBrain/Cálculo de la salida de una neurona.md",
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
     "Lección 3 - Principios fundamentales de la computación con canicas.md",
     "PublicBrain/Lección 3 - Principios fundamentales de la computación con canicas.md",
     "PublicBrain/Aprender Idioma Japones.md",
@@ -183,13 +190,6 @@
     "Partículas gramaticales y su uso (N5-JP).md",
     "PublicBrain/Aprender Idioma Inglés.md",
     "PublicBrain/A1-EN.md",
-    "Expresiones de cortesía (A1-EN).md",
-    "Home.md",
-    "PublicBrain/Aprender Idioma Swahili.md",
-    "PublicBrain/A1-SW.md",
-    "Negociar en Swahili (A1-SW).md",
-    "PublicBrain/Noruego.md",
-    "PublicBrain/Entorno de Desarrollo Plugins World of Warcraft.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

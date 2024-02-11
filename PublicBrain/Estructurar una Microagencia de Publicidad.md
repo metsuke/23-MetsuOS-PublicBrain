@@ -137,7 +137,12 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 #### Tareas y Responsabilidades
 
 * Gestion de tiempo y recursos para la consecueción de objetivos del proyecto.
-* TODO: SEGUIR AQUI
+* Equilibrar multiples prioridades de ritmo rápido.
+* Definir fechas de entrega, alcance y objetivos.
+* Delegar y reasignar tareas.
+* Actualizacion y riesgos del proyecto.
+* Decidir entre prioridades que compiten.
+* Control de Calidad
 
 #### Procesos
 
@@ -149,6 +154,11 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 * Controla la calidad de entregables
 * Ofrece retroalimentación y aprendizaje
 
+#### Perfiles más buscados
+
+TODO: Seguir acá
+
+---
 ## Cursos Recomendados
 
 * Introducción a creación empresas y startups

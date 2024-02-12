@@ -110,6 +110,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Física
 
 * [[Aprender más allá del orden del tiempo]]
+* [[Aprender sobre estructuras Kirigami]]
 
 ### Juegos
 

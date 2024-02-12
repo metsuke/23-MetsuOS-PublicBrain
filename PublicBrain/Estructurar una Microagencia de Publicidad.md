@@ -90,6 +90,7 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 * Negociación
 * Liderazgo
 * Comunicación
+
 #### Perfiles que se buscan
 * Rol Jerárquico
 * Formación en Marketing o experiencia práctica equivalente.
@@ -156,7 +157,34 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 
 #### Perfiles más buscados
 
-TODO: Seguir acá
+* Formación en marketing, Gestion de negocios o años de experiencia equivalentes.
+* Solida experiencia en gestion de proyectos.
+* Experiencia coordinando equipos de trabajo.
+* Diagramas de Gantt (MS Project, Notion, Monday, etc)
+* Slack u otras herramientas de comunicación de equipos.
+* Haber llevado adelante y completado proyectos dentro de los tiempos, especificaciones y presupuestos dados.
+* Conocimientos de marketing.
+* Habilidades blandas
+	* Detallista.
+	* Liderezgo, negociacion, influencia y facilitacion.
+	* Buena comunicacion escrita y verbal.
+	* Organización.
+	* Multitarea.
+	* Flexibilidad
+	* Habilidades interpersonales.
+	* Habilidades analíticas de resolución de problemas, priorizacion toma de decisiones.
+
+### Cursos Recomendados
+
+* Curso Básico de Digital Project Management.
+* Curso de Fundamentos de Project Management.
+* Curso Práctico de Project Management.
+* Escuela de Marketing Digital.
+
+---
+## Comercial o Ventas.
+
+* TODO: SEGUIR AQUI.
 
 ---
 ## Cursos Recomendados

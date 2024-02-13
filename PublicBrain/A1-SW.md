@@ -24,7 +24,7 @@
 
 - [[Pedir comida en un restaurante (A1-SW)]]
 - [[Bebidas comunes (A1-SW)]]
-- Frases útiles en el restaurante
+- [[Frases útiles en el restaurante (A1-SW)]]
 
 ### Lección 4: Compras y Mercados
 

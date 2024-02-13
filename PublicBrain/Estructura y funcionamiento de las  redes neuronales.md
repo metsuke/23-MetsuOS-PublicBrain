@@ -21,7 +21,7 @@
 * Capas ocultas y capa de salida
 * Forward propagation
 * Funciones de activación comunes (Sigmoid, ReLU, Tanh)
-* Backpropagation y optimización de pesos
+* [[Backpropagation y optimización de pesos]]
 
 ## [[Diseño y Entrenamiento de Redes Neuronales]]
 

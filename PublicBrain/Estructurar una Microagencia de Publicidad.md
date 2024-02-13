@@ -184,7 +184,17 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 ---
 ## Comercial o Ventas.
 
-* TODO: SEGUIR AQUI.
+Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
+
+## Objetivos
+
+* Captar calificar y desarrollar leads.
+
+## ¿Qué hacem?
+
+* Se conectan con p9otenciales clientes y aprenden sobre sus negocios y necesidades.
+* Si un cliente potencial parecer una **buena opcion** progreama una reunión de ventas con los gerentes de cuenta.
+* Obtiene un primer contacto con ese cliente y lo lleva hasta la primera reunión con el Account Manager.
 
 ---
 ## Cursos Recomendados

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
               }
             }
           },
@@ -164,9 +164,11 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Desafíos y oportunidades (Educativa de las AACC en España).md",
+    "PublicBrain/Backpropagation y optimización de pesos.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Desafíos y oportunidades (Educativa de las AACC en España).md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "Backpropagation y optimización de pesos.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/WCAG 2.1.md",
-    "Sin trampas de teclado.md",
-    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

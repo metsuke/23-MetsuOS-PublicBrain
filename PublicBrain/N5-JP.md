@@ -15,7 +15,7 @@
 
 2.1. [[Estructuras de oraciones simples en japonés (N5-JP)]]
 2.2. [[Partículas gramaticales y su uso (N5-JP)]]
-2.3. Verbos de acción y verbos de estado básicos.
+2.3. [[Verbos de acción y verbos de estado básicos (N5-JP)]]
 2.4. [[Preguntas y respuestas en situaciones comunes (N5-JP)]]
 
 ## Módulo 3: Vida Cotidiana

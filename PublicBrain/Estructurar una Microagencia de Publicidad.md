@@ -186,15 +186,25 @@ Inspirado en este [curso de Platzi sobre la creacion de Microagencias](https://p
 
 Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 
-## Objetivos
+### Objetivos
 
 * Captar calificar y desarrollar leads.
 
-## ¿Qué hacem?
+### ¿Qué hacem?
 
 * Se conectan con p9otenciales clientes y aprenden sobre sus negocios y necesidades.
 * Si un cliente potencial parecer una **buena opcion** progreama una reunión de ventas con los gerentes de cuenta.
 * Obtiene un primer contacto con ese cliente y lo lleva hasta la primera reunión con el Account Manager.
+
+### Procesos
+
+* Planificar eventos, visitar negocios, contactar a los posibles interesados.
+* **Calificar leads**: Capacidad de pago, necesidades a cubrir
+* Agendar y realizar una primera reunión de venta con la/el account manager.
+
+### Tareas y responsabilidades
+
+* TODO: Seguir aqui.
 
 ---
 ## Cursos Recomendados

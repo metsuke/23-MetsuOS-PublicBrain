@@ -22,7 +22,7 @@
 
 3.1. Frases para pedir y dar información personal.
 3.2. Preguntas básicas.
-3.3. Expresar preferencias y gustos.
+3.3. [[Expresar preferencias y gustos (A1-EN)]]
 3.4. Pedir ayuda y direcciones.
 
 ## Módulo 4: Comida y Bebida

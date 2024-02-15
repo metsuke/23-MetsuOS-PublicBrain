@@ -9,9 +9,9 @@
 - [[Lección 4 - Aplicaciones y relevancia actual]]
 
 ## Módulo 2: Lógica y Algoritmos con Canicas
-- Lección 1: Representación de datos y operaciones básicas
-- Lección 2: Algoritmos simples con canicas
-- Lección 3: Circuitos lógicos y compuertas
+- [[Lección 1 - Representación de datos y operaciones básicas]]
+- Lección 2 - Algoritmos simples con canicas
+- [[Lección 3 - Circuitos lógicos y compuertas]]
 - [[Lección 4 - Diseño de algoritmos más complejos]]
 
 ## Módulo 3: Modelado y Simulación con Canicas

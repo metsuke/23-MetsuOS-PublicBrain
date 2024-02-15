@@ -29,7 +29,7 @@
 ### Lección 4: Compras y Mercados
 
 - [[Hacer compras en el mercado (A1-SW)]]
-- Preguntar por precios
+- [[Preguntar por precios (A1-SW)]]
 - [[Negociar en Swahili (A1-SW)]]
 
 ## Módulo 3: Vida Diaria

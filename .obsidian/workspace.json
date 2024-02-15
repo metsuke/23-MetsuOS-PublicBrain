@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md"
               }
             }
           },
@@ -164,11 +164,19 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "Estructura básica de un programa C.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Index.md",
+    "Aprender sobre Proto Cuneiforme.md",
+    "PublicBrain/Conversaciones sobre eventos y actividades sociales (A1-CA).md",
+    "PublicBrain/Aprender sobre Proto Cuneiforme.md",
+    "PublicBrain/Adaptación de contenido.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.1.md",
     "Adaptación de contenido.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Comprensible.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "Conversaciones sobre eventos y actividades sociales (A1-CA).md",
@@ -182,14 +190,6 @@
     "PublicBrain/Expresar preferencias y gustos (A1-EN).md",
     "Expresar preferencias y gustos (A1-EN).md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
-    "PublicBrain/Beneficios de hacer videojuegos accesibles.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "Beneficios de hacer videojuegos accesibles.md",
-    "Home.md",
-    "PublicBrain/Lección 4 - Diseño de algoritmos más complejos.md",
-    "Lección 4 - Diseño de algoritmos más complejos.md",
-    "PublicBrain/Aprender Idioma Swahili.md",
-    "PublicBrain/Frases útiles en el restaurante (A1-SW).md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

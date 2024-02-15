@@ -11,7 +11,7 @@
 	* [[Instalación de un compilador C]]
 	* [[Configuración de un IDE para C]]
 * [[Tu Primer Programa en C]]
-	* Estructura básica de un programa C
+	* [[Estructura básica de un programa C]]
 	* Compilación y ejecución
 ## Fundamentos de C
 

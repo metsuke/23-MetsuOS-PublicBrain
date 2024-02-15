@@ -56,6 +56,10 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 
 [[Textos Religiosos y sus Idiomas de Origen]]
 
+## Aprender sobre Sistemas de Escritura
+
+* [[Aprender sobre Proto Cuneiforme]]
+
 ## Aprender Libros Texto Cultura
 
 ### Peliculas/Manga/OVA

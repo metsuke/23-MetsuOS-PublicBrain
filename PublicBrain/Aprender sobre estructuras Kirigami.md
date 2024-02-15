@@ -8,7 +8,7 @@
 - Introducción al arte del kirigami.
 - Historia y evolución del kirigami.
 - Principios básicos de cortes y pliegues en kirigami.
-- Materiales y herramientas necesarios para practicar kirigami.
+- [[Materiales y herramientas necesarios para practicar kirigami]]
 
 ## Módulo 2: Fundamentos del Diseño en Kirigami
 - Principios de diseño en kirigami.

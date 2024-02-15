@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Catalán.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Catalán.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Catalán.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Catalán.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
               }
             }
           },
@@ -164,12 +164,16 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/WCAG 2.1.md",
+    "Adaptación de contenido.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Comprensible.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "Conversaciones sobre eventos y actividades sociales (A1-CA).md",
     "PublicBrain/Lección 3 - Circuitos lógicos y compuertas.md",
     "PublicBrain/Lección 1 - Representación de datos y operaciones básicas.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "Lección 1 - Representación de datos y operaciones básicas.md",
     "Lección 3 - Circuitos lógicos y compuertas.md",
@@ -186,10 +190,6 @@
     "Lección 4 - Diseño de algoritmos más complejos.md",
     "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/Frases útiles en el restaurante (A1-SW).md",
-    "PublicBrain/A1-SW.md",
-    "Frases útiles en el restaurante (A1-SW).md",
-    "PublicBrain/Desafíos y oportunidades (Educativa de las AACC en España).md",
-    "PublicBrain/Backpropagation y optimización de pesos.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

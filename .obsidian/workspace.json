@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md"
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
               }
             }
           },
@@ -164,10 +164,14 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "Estructura básica de un programa C.md",
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "PublicBrain/Aprender sobre Programación.md",
+    "Capas ocultas y capa de salida.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "PublicBrain/Backpropagation y optimización de pesos.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "PublicBrain/Estructura básica de un programa C.md",
+    "Estructura básica de un programa C.md",
     "Aprender sobre Proto Cuneiforme.md",
     "PublicBrain/Conversaciones sobre eventos y actividades sociales (A1-CA).md",
     "PublicBrain/Aprender sobre Proto Cuneiforme.md",
@@ -186,10 +190,6 @@
     "Lección 1 - Representación de datos y operaciones básicas.md",
     "Lección 3 - Circuitos lógicos y compuertas.md",
     "PublicBrain/Aprender Idioma Inglés.md",
-    "PublicBrain/A1-EN.md",
-    "PublicBrain/Expresar preferencias y gustos (A1-EN).md",
-    "Expresar preferencias y gustos (A1-EN).md",
-    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

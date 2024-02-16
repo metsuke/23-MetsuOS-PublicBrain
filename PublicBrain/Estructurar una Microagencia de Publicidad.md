@@ -204,6 +204,37 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 
 ### Tareas y responsabilidades
 
+* Desarrollar Leads que ya mostraron interes.
+* Llamadas en frio.
+* Manejo de Objecciones.
+* Preparación y análisis de informe de ventas.
+* Identificar y desarrollar nuevos canales.
+* Generar alianzas estratégicas.
+
+### Perfiles más buscados.
+
+* Al menos un año de experiencia en roles de ventas.
+* Uso de CRM con pipelines (Salesforce,HubSpot, etc)
+* Habilidades blandas:
+	* Negociación.
+	* Análisis.
+	* Comunicación
+	* Resolución de problemas.
+	* Orientación a resultados.
+	* Confiable.
+	* Investigación.
+	* Empatía
+	* Creatividad para desarrollar redes de contactos.
+
+### Cursos recoemendados
+
+* Curso de Estrategia Comercial B2B.
+* Curso de Ventas práctico.
+* Curso de Estrategia Comercial.
+
+---
+## Administración
+
 * TODO: Seguir aqui.
 
 ---

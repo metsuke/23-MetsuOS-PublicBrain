@@ -2,10 +2,9 @@
 
 [[PublicBrain/Index#Plena Inclusión]]
 
-# Índice del Curso: Accesibilidad en E-Learning
-
 ## Introducción a la Accesibilidad en E-Learning
-- ¿Qué es la accesibilidad en E-Learning?
+
+- [[¿Qué es la accesibilidad en E-Learning?]]
 - Importancia de la accesibilidad en el aprendizaje en línea
 - Beneficios de la accesibilidad para usuarios con discapacidad
 

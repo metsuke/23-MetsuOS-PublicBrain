@@ -1,4 +1,4 @@
-# Fins ara
+index# Fins ara
 
 "Fins ara" es una expresión en [[catalán]] que se puede traducir como "hasta ahora" o "hasta pronto". Es una frase comúnmente utilizada para despedirse o cerrar una conversación.
 

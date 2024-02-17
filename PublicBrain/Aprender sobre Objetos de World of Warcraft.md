@@ -1,5 +1,5 @@
 # Aprender sobre Objetos de World of Warcraft
 
-[[Index]]
+[[PublicBrain/Index]]
 
 * [[Catalizador Alquimico (Objeto WOW)]]

@@ -1,6 +1,6 @@
 # Aprender sobre la Relación entre Ciencia y Arte
 
-[[Index]]
+[[PublicBrain/Index]]
 
 # Curso: Explorando la Relación entre Ciencia y Arte
 

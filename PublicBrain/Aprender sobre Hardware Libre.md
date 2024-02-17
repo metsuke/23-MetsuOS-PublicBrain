@@ -1,6 +1,6 @@
 # Aprender sobre Hardware Libre
 
-[[Index]]
+[[PublicBrain/Index]]
 
 # Curso sobre Hardware Libre
 

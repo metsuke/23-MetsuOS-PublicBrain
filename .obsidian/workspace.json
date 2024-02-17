@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Japones.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Japones.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Japones.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Japones.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,11 +163,19 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "Index.md",
+    "PublicBrain/Index.md",
+    "Home.md",
+    "PublicBrain/Ingles.md",
+    "PublicBrain/Fins ara.md",
+    "El Proyecto.md",
+    "_index.html",
+    "PublicBrain/Aprender sobre Proto Cuneiforme.md",
+    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/Direcciones y ubicaciones (N5-JP).md",
     "PublicBrain/N5-JP.md",
     "Direcciones y ubicaciones (N5-JP).md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "Lección 2 - Algoritmos simples con canicas.md",
     "PublicBrain/Materiales y herramientas necesarios para practicar kirigami.md",
@@ -183,13 +190,6 @@
     "Preguntar por precios (A1-SW).md",
     "PublicBrain/Aprender a preparar embutidos.md",
     "PublicBrain/Aprender a preparar morcilla blanca.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "Capas ocultas y capa de salida.md",
-    "PublicBrain/Backpropagation y optimización de pesos.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "PublicBrain/Estructura básica de un programa C.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",
@@ -209,7 +209,6 @@
     "PublicBrain/_resources/Alan Wake (Remedy Entertainment, 2010)",
     "PublicBrain/_resources/Remedy Entertainment",
     "PublicBrain/_resources/Aprender sobre Rammstein",
-    "PublicBrain/_resources/Adventure (Atari, 1979)",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"
   ]

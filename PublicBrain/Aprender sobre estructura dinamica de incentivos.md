@@ -1,6 +1,6 @@
 # Aprender sobre estructura dinamica de incentivos
 
-[[Index]]
+[[PublicBrain/Index]]
 
 # Curso sobre Estructura Dinámica de Incentivos
 

@@ -1,6 +1,6 @@
 # Ruso
 
-[[Index#Aprender Idiomas]] | [[Aprender Idioma Ruso]]
+[[PublicBrain/Index#Aprender Idiomas]] | [[Aprender Idioma Ruso]]
 
 **El ruso es un idioma eslavo oriental ampliamente hablado en Rusia y otros países de Europa del Este y Asia Central.**
 

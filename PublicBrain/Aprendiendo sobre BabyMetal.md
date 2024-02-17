@@ -1,5 +1,5 @@
 # Aprendiendo sobre BabyMetal
 
-[[Index]]
+[[PublicBrain/Index]]
 
 Véase [[Aprender sobre BabyMetal]]

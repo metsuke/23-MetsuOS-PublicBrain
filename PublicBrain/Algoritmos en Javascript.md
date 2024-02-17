@@ -1,6 +1,6 @@
 # Algoritmos en Javascript
 
-[[Index]]
+[[PublicBrain/Index]]
 
 * [[Generar numeros primos en Javascript]]
 

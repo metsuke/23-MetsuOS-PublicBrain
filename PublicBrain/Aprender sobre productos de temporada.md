@@ -1,6 +1,6 @@
 # Aprender sobre productos de temporada
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Introducción a los Productos de Temporada en Cocina
 

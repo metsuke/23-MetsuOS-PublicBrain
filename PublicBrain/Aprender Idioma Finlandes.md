@@ -1,6 +1,6 @@
 # Aprender Idioma Finlandes
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * FI | Finlandes
 	* Niveles Oficiales FI

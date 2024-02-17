@@ -1,6 +1,6 @@
 # Aprender idioma Griego
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * EL | [[Griego]]
 * Niveles Oficiales EL

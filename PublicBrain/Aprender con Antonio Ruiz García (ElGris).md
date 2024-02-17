@@ -1,6 +1,6 @@
 # Aprender con Antonio Ruiz García (ElGris)
 
-[[Index]]
+[[PublicBrain/Index]]
 
 * *[[Narrativa y Storytelling en el mundo del videojuego]]
 ## Recursos

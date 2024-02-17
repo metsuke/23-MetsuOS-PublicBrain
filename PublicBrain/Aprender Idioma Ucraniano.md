@@ -1,6 +1,6 @@
 # Aprender Idioma Ucraniano
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * UK | [[Ucraniano]] 
 	* [[Niveles Oficiales UK]]

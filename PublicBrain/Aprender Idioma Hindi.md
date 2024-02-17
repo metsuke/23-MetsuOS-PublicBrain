@@ -1,6 +1,6 @@
 # Aprender Idioma Hindi
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * HI | [[Hindi]] | Niveles Oficiales HI
 	* [[Niveles Oficiales HI]]

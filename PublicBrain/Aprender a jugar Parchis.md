@@ -1,6 +1,6 @@
 # Aprender a jugar Parchis
 
-[[Index]]
+[[PublicBrain/Index]]
 
 # Curso: Aprender Parchís, de cero a pro
 

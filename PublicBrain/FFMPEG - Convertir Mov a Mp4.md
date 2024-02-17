@@ -1,6 +1,6 @@
 # FFMPEG - Convertir Mov a Mp4
 
-[[Index]]
+[[PublicBrain/Index]]
 
 Para convertir un archivo de video MOV a formato MP4 utilizando FFmpeg en la línea de comandos:
 

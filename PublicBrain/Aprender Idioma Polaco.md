@@ -1,6 +1,6 @@
 # Aprender Idioma Polaco
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
   
 * PL | [[Polaco]]

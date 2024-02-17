@@ -1,6 +1,6 @@
 # Aprender sobre Accesibilidad
 
-[[Index#Plena Inclusión]]
+[[PublicBrain/Index#Plena Inclusión]]
 
 ## Introducción a la Accesibilidad
 

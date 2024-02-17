@@ -1,6 +1,6 @@
 # Emails Temporales
 
-[[Index]]
+[[PublicBrain/Index]]
 
 
 Aquí está una lista de 25 dominios de correo electrónico temporales, anónimos o descartables:

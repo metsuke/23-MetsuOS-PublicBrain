@@ -1,6 +1,6 @@
 # Aprender sobre Naruto
 
-[[Index]]
+[[PublicBrain/Index]]
 
 "Naruto" es una popular serie de manga y anime japonesa creada por [[Masashi Kishimoto]].
 

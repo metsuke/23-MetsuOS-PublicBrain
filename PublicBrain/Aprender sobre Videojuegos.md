@@ -1,6 +1,6 @@
 # Aprender sobre Videojuegos
 
-[[Index]]
+[[PublicBrain/Index]]
 
 * [[Aprender sobre Historia Mundial del Videojuego]]
 

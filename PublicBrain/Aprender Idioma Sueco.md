@@ -1,6 +1,6 @@
 # Aprender Idioma Sueco
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * SV | [[Sueco]] 
 	* [[Niveles Oficiales SV]]

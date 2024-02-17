@@ -1,6 +1,6 @@
 # Aprender sobre Mecano
 
-[[Index]] | [[Discografía de Mecano]]
+[[PublicBrain/Index]] | [[Discografía de Mecano]]
 
 Iniciamos, siguiendo la estela del proyecto [[Aprender sobre BabyMetal]], el proceso de aprendizaje en torno al grupo Mecano.
 

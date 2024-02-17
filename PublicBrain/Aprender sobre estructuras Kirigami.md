@@ -1,6 +1,6 @@
 # Aprender sobre estructuras Kirigami
 
-[[Index]]
+[[PublicBrain/Index]]
 
 # Curso de Aprendizaje sobre Estructuras Kirigami
 

@@ -1,6 +1,6 @@
 # Aprender sobre Redes e Internet
 
-[[Index]] |  [[Capas de la infraestructura de una red]]
+[[PublicBrain/Index]] |  [[Capas de la infraestructura de una red]]
 
 ## **Introducción a las Redes Informáticas**
 

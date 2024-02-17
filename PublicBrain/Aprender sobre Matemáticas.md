@@ -1,6 +1,6 @@
 # Aprender sobre Matemáticas
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Bases del conocimiento Matemático: Demostraciones
 

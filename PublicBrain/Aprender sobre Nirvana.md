@@ -1,6 +1,6 @@
 # Aprender sobre Nirvana
 
-[[Index]]
+[[PublicBrain/Index]]
 
 Siguiendo la estela del proyecto [[Aprender sobre BabyMetal]], iniciamos el proyecto equivalente con el grupo Nirvana.
 

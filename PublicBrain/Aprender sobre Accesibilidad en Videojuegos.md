@@ -1,6 +1,6 @@
 # Aprender sobre Accesibilidad en Videojuegos
 
-[[Index#Plena Inclusión]]
+[[PublicBrain/Index#Plena Inclusión]]
 
 
 ## I. Introducción a la Accesibilidad en Videojuegos

@@ -1,6 +1,6 @@
 # Aprender sobre Neurología
 
-[[Index]]
+[[PublicBrain/Index]]
 ## Cerebro 
 
 - Luz laser para mejorar procesos mentales

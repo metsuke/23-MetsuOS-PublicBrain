@@ -1,6 +1,6 @@
 # Aprender Idioma Ruso
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * RU | [[Ruso]]
 	*  [[Niveles Oficiales RU]]

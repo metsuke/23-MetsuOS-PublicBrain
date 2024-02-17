@@ -1,6 +1,6 @@
 # FFMPEG - Convertir Avi a Mp4
 
-[[Index]]
+[[PublicBrain/Index]]
 
 Puedes utilizar la herramienta FFMPEG para convertir un archivo .avi a .mp4. FFMPEG es una potente utilidad de línea de comandos que permite manipular y convertir varios formatos de archivos multimedia. A continuación, te proporciono el comando que puedes utilizar:
 

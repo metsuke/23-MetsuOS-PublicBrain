@@ -1,6 +1,6 @@
 # Promting Database
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Analisis Videojuegos
 

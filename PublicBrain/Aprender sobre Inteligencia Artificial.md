@@ -1,6 +1,6 @@
 # Aprender sobre Inteligencia Artificial
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Introducción a la Inteligencia Artificial
 

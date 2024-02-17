@@ -1,6 +1,6 @@
 # Aprender Idioma Árabe
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * AR | [[Árabe]] 
 	* [[Niveles Oficiales AR]]

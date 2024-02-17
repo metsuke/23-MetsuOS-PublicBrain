@@ -1,6 +1,6 @@
 # Aprender sobre Economía y Finanzas
 
-[[Index]]
+[[PublicBrain/Index]]
 
 Aprender sobre Economía
 Aprender sobre Finanzas Empresariales

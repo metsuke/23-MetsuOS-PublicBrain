@@ -1,6 +1,6 @@
 # FFMPEG - Convertir Flac a Mp3
 
-[[Index]]
+[[PublicBrain/Index]]
 
   
 Para convertir archivos FLAC a MP3 utilizando FFmpeg, sigue estos pasos:

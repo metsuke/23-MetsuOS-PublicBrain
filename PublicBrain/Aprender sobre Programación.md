@@ -1,7 +1,7 @@
 
 # Aprender sobre Programación
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Programación General
 

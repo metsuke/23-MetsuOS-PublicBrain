@@ -1,6 +1,6 @@
 # Aprender Idioma Checo
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * CS | [[Checo]]
 	* Niveles Oficiales CS

@@ -1,6 +1,6 @@
 # Aprender Idioma Catalán
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * CA | [[Catalán]] 
 	* [[Niveles Oficiales CA]]

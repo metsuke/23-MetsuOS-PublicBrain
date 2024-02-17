@@ -1,6 +1,6 @@
 # Aprender sobre Bases de Datos
 
-[[Index]]
+[[PublicBrain/Index]]
 
 * [[Bases de Datos Relacionales]]
 * [[Bases de Datos No Relacionales]]

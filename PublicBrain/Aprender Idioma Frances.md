@@ -1,6 +1,6 @@
 # Aprender Idioma Frances
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * FR | Francés
 	* Niveles Oficiales FR

@@ -1,6 +1,6 @@
 # FFMPEG - Convertir Flv a Mp4
 
-[[Index]]
+[[PublicBrain/Index]]
 
 Para convertir archivos FLV a MP4 utilizando FFmpeg, puedes seguir estos pasos en la línea de comandos de tu sistema operativo:
 

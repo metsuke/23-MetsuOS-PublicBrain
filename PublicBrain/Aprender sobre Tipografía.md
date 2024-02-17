@@ -1,6 +1,6 @@
 # Aprender sobre Tipografía
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Introducción a la Tipografía
 

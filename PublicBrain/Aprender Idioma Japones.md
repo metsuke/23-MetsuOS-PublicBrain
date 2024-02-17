@@ -1,6 +1,6 @@
 # Aprender Idioma Japones
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * JP | [[Japonés]] 
 	* [[Niveles Oficiales JP]]

@@ -1,6 +1,6 @@
 # Aprender sobre Accesibilidad en ELearining
 
-[[Index#Plena Inclusión]]
+[[PublicBrain/Index#Plena Inclusión]]
 
 # Índice del Curso: Accesibilidad en E-Learning
 

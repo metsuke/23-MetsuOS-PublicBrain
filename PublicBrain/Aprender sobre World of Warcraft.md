@@ -1,5 +1,5 @@
 # Aprender sobre World of Warcraft
 
-[[Index]]
+[[PublicBrain/Index]]
 
 * [[Aprender sobre el Lore de World of Warcraft]]

@@ -1,6 +1,6 @@
 # Aprender a programar plugins para World of Warcraft
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Módulo 1: Introducción a la Creación de Plugins
 

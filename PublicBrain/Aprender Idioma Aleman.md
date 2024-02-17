@@ -1,6 +1,6 @@
 # Aprender Idioma Aleman
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * GE | [[Alemán]] 
 	* [[Niveles Oficiales GE]] 

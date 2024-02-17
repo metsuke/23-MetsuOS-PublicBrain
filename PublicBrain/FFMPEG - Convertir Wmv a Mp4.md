@@ -1,6 +1,6 @@
 # FFMPEG - Convertir Wmv a Mp4
 
-[[Index]]
+[[PublicBrain/Index]]
 
 Para convertir un archivo de video WMV a formato MP4 utilizando FFmpeg en la línea de comandos, puedes seguir estos pasos:
 

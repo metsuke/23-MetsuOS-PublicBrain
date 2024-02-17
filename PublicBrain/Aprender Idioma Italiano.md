@@ -1,6 +1,6 @@
 # Aprender Idioma Italiano
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
   
 * IT | [[Italiano]]
 	* [[Niveles Oficiales IT]]

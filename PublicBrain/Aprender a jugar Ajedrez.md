@@ -1,6 +1,6 @@
 # Aprender a jugar Ajedrez
 
-[[Index]]
+[[PublicBrain/Index]]
 
 # Curso: Aprender Ajedrez, de cero a pro
 

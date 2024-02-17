@@ -1,6 +1,6 @@
 # Aprender sobre GNU Linux
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Introducción a GNU/Linux
 

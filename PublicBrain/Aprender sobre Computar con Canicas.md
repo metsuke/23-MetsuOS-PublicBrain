@@ -1,6 +1,6 @@
 # Aprender sobre Computar con Canicas
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Módulo 1: Introducción a la Computación con Canicas
 - [[Lección 1 - Qué es la Computación con Canicas]]

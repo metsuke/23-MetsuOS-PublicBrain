@@ -1,6 +1,6 @@
 # Aprender con SizeMatters
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Nanociencia
 

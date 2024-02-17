@@ -1,6 +1,6 @@
 # Aprender Idioma Noruego
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * NO | [[Noruego]]
 	* Niveles Oficiales NO

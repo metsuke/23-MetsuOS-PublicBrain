@@ -1,6 +1,6 @@
 # Index
 
-[[Home]] | [[Promting Database]]
+[[Index]] | [[Promting Database]]
 
 #Quick Links
 

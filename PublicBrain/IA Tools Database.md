@@ -1,6 +1,6 @@
 # IA Tools Database
 
-[[Index]]
+[[PublicBrain/Index]]
 
 
 ## Color Palette

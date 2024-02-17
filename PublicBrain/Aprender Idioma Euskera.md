@@ -1,6 +1,6 @@
 # Aprender Idioma Euskera
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * EU | [[Euskera]]
 	* [[Niveles Oficiales EU]]

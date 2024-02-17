@@ -1,6 +1,6 @@
 # Aprender Idioma Turco
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * TR | [[Turco]]
 	* Niveles Oficiales TR

@@ -1,6 +1,6 @@
 # Aprender más allá del orden del tiempo
 
-[[Index]]
+[[PublicBrain/Index]]
 
 **Módulo 1: Fundamentos de Física Clásica**
 

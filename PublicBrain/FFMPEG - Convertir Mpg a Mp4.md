@@ -1,6 +1,6 @@
 # FFMPEG - Convertir Mpg a Mp4
 
-[[Index]]
+[[PublicBrain/Index]]
 
 Para convertir un archivo de video MPG a formato MP4 utilizando la herramienta FFmpeg en la línea de comandos, puedes seguir estos pasos:
 

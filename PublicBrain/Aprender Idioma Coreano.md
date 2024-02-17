@@ -1,6 +1,6 @@
 # Aprender Idioma Coreano
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * KO | [[Coreano]]
 	* Niveles Oficiales KO

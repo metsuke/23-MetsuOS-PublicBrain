@@ -1,6 +1,6 @@
 # Aprender Idioma Rumano
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * RO | [[Rumano]] 
 	* [[Niveles Oficiales RO]]

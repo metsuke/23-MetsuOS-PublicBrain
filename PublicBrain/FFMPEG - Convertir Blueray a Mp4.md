@@ -1,6 +1,6 @@
 # FFMPEG - Convertir Blueray a Mp4
 
-[[Index]]
+[[PublicBrain/Index]]
 
 La conversión de un archivo de imagen de Blu-ray (archivo .iso) a un archivo MP4 utilizando FFmpeg puede ser un proceso más complejo que la conversión de un DVD, ya que los Blu-rays a menudo contienen contenido protegido por derechos de autor y su estructura es más compleja. Para realizar esta conversión, debes tener en cuenta los siguientes pasos generales:
 

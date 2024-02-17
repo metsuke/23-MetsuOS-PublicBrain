@@ -1,6 +1,6 @@
 # Aprender a jugar GO
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ### Nivel Principiante
 

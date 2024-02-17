@@ -1,4 +1,4 @@
 # Aprender sobre Proto Cuneiforme
 
-[[Index]] | [Worlds Writing Systems](https://www.worldswritingsystems.org)
+[[PublicBrain/Index]] | [Worlds Writing Systems](https://www.worldswritingsystems.org)
 

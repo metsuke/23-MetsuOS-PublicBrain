@@ -1,6 +1,6 @@
 # Aprender a preparar embutidos
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Morcilla
 

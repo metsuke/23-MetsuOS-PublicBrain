@@ -1,6 +1,6 @@
 # Entornos Virtuales con Python
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## ¿Que python y pip se ejecuta?
 

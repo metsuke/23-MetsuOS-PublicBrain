@@ -1,6 +1,6 @@
 # Estadísticas sobre Idiomas
 
-[[Index]]
+[[PublicBrain/Index]]
 
 Diferentes estadísticas de referencia sobre idiomas, hablantes, volumen de negocio y DD. HH.
 

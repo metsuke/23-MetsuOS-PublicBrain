@@ -1,6 +1,6 @@
 # Aprender sobre Storytelling
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Introducción al Storytelling
 

@@ -1,6 +1,6 @@
 # Aprender sobre Altas Capacidades
 
-[[Index]]
+[[PublicBrain/Index]]
 
 ## Tema 1: Conceptualización y Marcos Teóricos
 - [[Definición de altas capacidades]]

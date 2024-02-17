@@ -1,6 +1,6 @@
 # Apnreder Idioma Tailandés
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * TH | [[Tailandés]]
 	* [[Niveles Oficiales TH]]

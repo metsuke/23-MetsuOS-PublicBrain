@@ -1,6 +1,6 @@
 # Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios
 
-[[Index]]
+[[PublicBrain/Index]]
 
 Huelga decir que este es mi cuaderno de trabajo, puede contener (Y MUY PROBABLEMENTE CONTENGA) errores así que tómeses con mayor cautela aún.
 ## Mi libro de ejercicios

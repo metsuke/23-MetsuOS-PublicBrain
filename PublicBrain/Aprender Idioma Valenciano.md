@@ -1,6 +1,6 @@
 # Aprender Idioma Valenciano
 
-[[Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas]]
 
 * VLC | [[Valenciano]]
 	* [[Niveles Oficiales VLC]]

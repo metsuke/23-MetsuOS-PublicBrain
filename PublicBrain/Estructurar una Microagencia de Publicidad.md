@@ -235,7 +235,33 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 ---
 ## Administración
 
-* TODO: Seguir aqui.
+* Gestión de recursos
+
+### Objetivos
+
+* Controlar y asignar todos los recursos disponibles.
+
+### ¿Qué hacen?
+
+* Aprueban compras a proveedores
+* Emiten facturas a clientes
+* Envian las formas y contratos
+* Gestionan la nomina de empleados.
+* Gestionan impuestos
+* Gestionan tramites y cualquier otro documentacion que necesite el negocio.
+
+### Procesos
+
+* Altas de clientes, envio de contrato y factura inicial.
+* Envio de facturas y contratos por renovacion.
+* Envio de pagos y contratos del personal.
+* Pagos a proveedores.
+* Contabilidad y declaración de impuestos.
+* Confección de documentación interna o para presentar ante diferentes entidades.
+
+### Tareas y Responsabilidades.
+
+* TODO : Seguir aqui.
 
 ---
 ## Cursos Recomendados

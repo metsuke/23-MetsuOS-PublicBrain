@@ -17,8 +17,8 @@
 ## Módulo 3: Modelado y Simulación con Canicas
 - Lección 1 - Modelado de sistemas físicos con canicas
 - [[Lección 2 - Simulación de procesos y fenómenos]]
-- Lección 3: Análisis de sistemas dinámicos
-- Lección 4: Aplicaciones en ciencia e ingeniería
+- Lección 3 - Análisis de sistemas dinámicos
+- [[Lección 4 - Aplicaciones en ciencia e ingeniería]]
 
 ## Módulo 4: Computación Cuántica con Canicas
 - Lección 1: Introducción a la computación cuántica

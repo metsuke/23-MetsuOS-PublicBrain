@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Computar con Canicas.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -163,6 +163,9 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "Lección 4 - Aplicaciones en ciencia e ingeniería.md",
+    "PublicBrain/Texto Alternativo.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.0.md",
@@ -186,9 +189,6 @@
     "PublicBrain/Verbos de acción y verbos de estado básicos (N5-JP).md",
     "PublicBrain/Cuantificadores y cantidades (A1-CA).md",
     "PublicBrain/Direcciones y ubicaciones (N5-JP).md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
-    "Cuantificadores y cantidades (A1-CA).md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

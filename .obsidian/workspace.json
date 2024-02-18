@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Catalán.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Catalán.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Catalán.md",
+                "file": "PublicBrain/Aprender sobre Programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Catalán.md"
+                "file": "PublicBrain/Aprender sobre Programación.md"
               }
             }
           },
@@ -163,10 +163,19 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "Compilación y ejecución en lenguaje C.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Index.md",
+    "Aprender sobre Buenas P´racticas y Código Limpio en Programación.md",
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/N5-JP.md",
+    "PublicBrain/Verbos de acción y verbos de estado básicos (N5-JP).md",
+    "PublicBrain/Cuantificadores y cantidades (A1-CA).md",
+    "PublicBrain/Direcciones y ubicaciones (N5-JP).md",
+    "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "Cuantificadores y cantidades (A1-CA).md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "¿Qué es la accesibilidad en videojuegos?.md",
@@ -180,16 +189,7 @@
     "PublicBrain/Lección 2 - Historia y antecedentes.md",
     "Index.md",
     "Home.md",
-    "El Proyecto.md",
-    "PublicBrain/Ingles.md",
-    "PublicBrain/Fins ara.md",
     "_index.html",
-    "PublicBrain/Aprender sobre Proto Cuneiforme.md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/Direcciones y ubicaciones (N5-JP).md",
-    "PublicBrain/N5-JP.md",
-    "Direcciones y ubicaciones (N5-JP).md",
-    "Lección 2 - Algoritmos simples con canicas.md",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",

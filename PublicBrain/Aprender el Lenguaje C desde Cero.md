@@ -12,7 +12,7 @@
 	* [[Configuración de un IDE para C]]
 * [[Tu Primer Programa en C]]
 	* [[Estructura básica de un programa C]]
-	* Compilación y ejecución
+	* [[Compilación y ejecución en lenguaje C]]
 ## Fundamentos de C
 
 * Variables y Tipos de Datos

@@ -16,6 +16,7 @@ Procesos algo caóticos de aprendizaje
 
 * [[Aprender con Antonio Ruiz García (ElGris)]]
 * [[Aprender con Recuenco]]
+* [[Aprender con Sani Ladam]]
 * [[Aprender con SizeMatters]]
 
 ## Aprender Idiomas
@@ -115,6 +116,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Aprender más allá del orden del tiempo]]
 * [[Aprender sobre estructuras Kirigami]]
+* [[Aprender a radiografiar un átomo]]
 
 ### Juegos
 

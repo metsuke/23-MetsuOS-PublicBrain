@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md",
+                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Programación.md"
+                "file": "PublicBrain/Aprender sobre Computar con Canicas.md"
               }
             }
           },
@@ -163,10 +163,23 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/WCAG 2.0.md",
+    "Texto Alternativo.md",
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/Pauta 1 - Texto Alternativo.md",
+    "PublicBrain/Pautas de Accesibilidad.md",
+    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
+    "PublicBrain/Aprender con Sani Ladam.md",
+    "Aprender con Sani Ladam.md",
+    "PublicBrain/Aprender a radiografiar un átomo.md",
+    "Aprender a radiografiar un átomo.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Compilación y ejecución en lenguaje C.md",
+    "PublicBrain/Aprender sobre Buenas P´racticas y Código Limpio en Programación.md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "Compilación y ejecución en lenguaje C.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Index.md",
     "Aprender sobre Buenas P´racticas y Código Limpio en Programación.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/N5-JP.md",
@@ -176,19 +189,6 @@
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "Cuantificadores y cantidades (A1-CA).md",
-    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "¿Qué es la accesibilidad en videojuegos?.md",
-    "PublicBrain/Lección 2 - Simulación de procesos y fenómenos.md",
-    "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
-    "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
-    "¿Qué es la accesibilidad en E-Learning?.md",
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
-    "Lección 2 - Simulación de procesos y fenómenos.md",
-    "PublicBrain/Lección 2 - Historia y antecedentes.md",
-    "Index.md",
-    "Home.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

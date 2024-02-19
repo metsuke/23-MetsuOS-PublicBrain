@@ -21,7 +21,7 @@
 ## Módulo 3: Vida Cotidiana
 
 3.1. Descripción de objetos y lugares.
-3.2. Compras y transacciones en japonés.
+3.2. [[Compras y transacciones en japonés (N5-JP)]]
 3.3. [[Direcciones y ubicaciones (N5-JP)]]
 3.4. Horarios y citas.
 

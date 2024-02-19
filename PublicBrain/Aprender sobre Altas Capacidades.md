@@ -13,7 +13,7 @@
 - [[Estrategias neuroeducativas efectivas]]
 
 ## [[Tema 3 - Situación Educativa de las AACC en España]]
-- Panorama actual (Educativa de las AACC en España)
+- [[Panorama actual (Educativa de las AACC en España)]]
 - [[Desafíos y oportunidades (Educativa de las AACC en España)]]
 - [[Mejores prácticas educativas (Educativa de las AACC en España)]]
 

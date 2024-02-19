@@ -261,7 +261,39 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 
 ### Tareas y Responsabilidades.
 
-* TODO : Seguir aqui.
+* Contribuir a la solución del problema.
+* Gestión de información y bases de datos.
+* Facilitar la operación interna.
+* Responsable de compras y renovación con proveedores.
+* Responsable del control contable.
+* Gestión de agenda y reuniones.
+
+### Experiencia Relevante
+
+* 1 a 2 años de experiencia en roles de administración o marketing.
+* Hoja de cálculo.
+* Bases de datos
+* Habilidades blandas:
+	* Alto grado de profesionalidad.
+	* Razonamiento deductivo.
+	* Buenas habilidades de comunicación oral y escrita.
+	* Adaptable a cambios rapidos de prioridades.
+	* Trabajo en equipo.
+	* Detallista.
+	* Mantener la calma en situaciones de presión.
+
+### Cursos recomendados
+
+* Curso de SalesForce para administradores.
+* Curso de Excel básico.
+* Curso de Facturación Electrónica con Siigo para Colombia.
+
+---
+## Experto en Embudos de Venta
+
+En ing. Sales Funnel Expert
+
+* TODO: Seguir aquí.
 
 ---
 ## Cursos Recomendados

@@ -5,7 +5,7 @@
 Bien, es hora de definir el Roadmap para estudiar economía, a falta de revisar el itinerario que propone la [IE](\"https://www.ie.edu/university/studies/academic-programs/bachelor-economics/study-plan/#program-menu\") con [Juan Ramón Rallo](\"https://www.linkedin.com/in/juan-ram%C3%B3n-rallo-juli%C3%A1n-544b6b57/\") en su equipo, y del [temario de economía de la UOC](\"https://estudios.uoc.edu/es/grados/economia/plan-estudios\"), desde el desconocimiento dos aproximaciones que se me antojan opuestas y complementarias, para crear mi particular roadmap.
 
 - Fundamentos de Economía
-	- Matemáticas para economistas 
+	- [[Matemáticas para economistas]] 
 	- Principios de Microeconomía
 	- Principios de Macroeconomía
 	- Sociología para economistas.

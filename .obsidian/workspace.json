@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Redes e Internet.md"
               }
             }
           },
@@ -163,9 +163,13 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Ethernet y tecnologías de cableado.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "Ethernet y tecnologías de cableado.md",
+    "PublicBrain/Panorama actual (Educativa de las AACC en España).md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Panorama actual (Educativa de las AACC en España).md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Stargate.md",
     "PublicBrain/Franquicia.md",
     "PublicBrain/Década de 1990.md",
@@ -185,10 +189,6 @@
     "PublicBrain/Pauta 1 - Texto Alternativo.md",
     "PublicBrain/Pautas de Accesibilidad.md",
     "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
-    "PublicBrain/Aprender con Sani Ladam.md",
-    "Aprender con Sani Ladam.md",
-    "PublicBrain/Aprender a radiografiar un átomo.md",
-    "Aprender a radiografiar un átomo.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

@@ -18,9 +18,9 @@
 * Subredes y enrutamiento básico
 ## **Tecnologías y Dispositivos de Red**
 
-* Ethernet y tecnologías de cableado
+* [[Ethernet y tecnologías de cableado]]
 * Redes inalámbricas: Wi-Fi y estándares
-* Dispositivos de red: routers, switches, hubs, firewalls
+* Dispositivos de red -  routers, switches, hubs, firewalls
 * Seguridad en redes: cortafuegos, VPNs, autenticación
 ## **Internet y su Funcionamiento**
 

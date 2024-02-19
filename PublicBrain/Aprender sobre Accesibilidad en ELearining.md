@@ -5,7 +5,7 @@
 ## Introducción a la Accesibilidad en E-Learning
 
 - [[¿Qué es la accesibilidad en E-Learning?]]
-- Importancia de la accesibilidad en el aprendizaje en línea
+- [[Importancia de la accesibilidad en el aprendizaje en línea]]
 - Beneficios de la accesibilidad para usuarios con discapacidad
 
 ## Normativas y Estándares de Accesibilidad

@@ -11,7 +11,7 @@
 
 ## II. Principios Básicos de Accesibilidad
    - Conceptos fundamentales de accesibilidad.
-   - Normativas y estándares internacionales.
+   - [[Normativas y estándares internacionales (A11Y Videojuegos)]]
    - Diversidad funcional y necesidades de diferentes usuarios.
 
 ## III. Diseño Inclusivo en Videojuegos

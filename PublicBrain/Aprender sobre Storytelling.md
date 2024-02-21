@@ -9,7 +9,7 @@
 	* [[Importancia del Storytelling en diferentes contextos]]
 * Elementos Fundamentales de una Buena Historia
 	* [[Personajes en Storytelling]]
-	* Trama
+	* [[Trama en Storytelling]]
 	* Escenario
 	* Conflicto y resolución
 * [[El Poder de las Historias]]

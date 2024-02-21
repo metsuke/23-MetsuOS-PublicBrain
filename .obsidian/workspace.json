@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción al arte del kirigami.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción al arte del kirigami.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introducción al arte del kirigami.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introducción al arte del kirigami.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,9 +164,13 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "Trama en Storytelling.md",
+    "PublicBrain/Aprender sobre Storytelling.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Buenas Prácticas y Código Limpio en Programación.md",
     "PublicBrain/Aprender sobre estructuras Kirigami.md",
     "Introducción al arte del kirigami.md",
-    "PublicBrain/Index.md",
+    "PublicBrain/Introducción al arte del kirigami.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "PublicBrain/Lección 3 - Análisis de sistemas dinámicos.md",
@@ -186,10 +190,6 @@
     "Matemáticas para economistas.md",
     "PublicBrain/Roadmap para aprender economía.md",
     "PublicBrain/Aprender sobre Redes e Internet.md",
-    "PublicBrain/Ethernet y tecnologías de cableado.md",
-    "Ethernet y tecnologías de cableado.md",
-    "PublicBrain/Panorama actual (Educativa de las AACC en España).md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

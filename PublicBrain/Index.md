@@ -153,7 +153,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre Inteligencia Artificial]]
 	* Aprender sobre [[Estructura y funcionamiento de las  redes neuronales]]
 * [[Aprender sobre Programación]]
-	* [[Aprender sobre Buenas P´racticas y Código Limpio en Programación]]
+	* [[Aprender sobre Buenas Prácticas y Código Limpio en Programación]]
 * [[Aprender sobre Redes e Internet]]
 
 ## Aprender sobre ...

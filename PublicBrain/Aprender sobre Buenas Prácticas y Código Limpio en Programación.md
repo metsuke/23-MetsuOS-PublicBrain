@@ -1,4 +1,4 @@
-# Aprender sobre Buenas P´racticas y Código Limpio en Programación
+# Aprender sobre Buenas Prácticas y Código Limpio en Programación
 
 [[PublicBrain/Index]]
 

@@ -291,9 +291,54 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 ---
 ## Experto en Embudos de Venta
 
-En ing. Sales Funnel Expert
+En ing. Sales Funnel Expert. Diseña la estrategia de marketing para el cliente.
+
+### Objetivos
+
+* Generar conversiones para el cliente.
+
+### Procesos
+
+* Definir la estrategia (conocimiento, interés, decisión, acción).
+* Definir requerimientos para una landing page.
+* Definir la oferta de valor (lead magnet)
+* Nutrir la relación con los potenciales clientes.
+* Definir la mejor oferta (para cerrar la venta)
+* Medir y optimizar.
+* Generar estrategias alternativas.
+
+### Tareas
+
+* Diseñar la estrategia y parsos del embudo
+* Definir KPIs y tableros de comando.
+* Encontrar nuevas formas de capturar datos.
+
+### Perfiles más buscados
+
+* Formación en administración de empresa, marketing o finanzas.
+* Experiencia en análisis de finanzas.
+* Manejo de Tableau, Data Studio o similar.
+* Conocimientos de Wordpress.
+* Conocimientos de ClickFunnels o ConvertFlow.
+* Habilidades Blandas:
+	* Trabajo con mínima supervisión.
+	* Foco en mejora continua.
+	* Trabajo en equipo.
+	* Positividad y foco en la solución.
+	* Multitarea, multiples proyectos en simultáneo.
+	* Organización y gestión del tiempo.
+
+### Cursos recomendados para este rol
+
+* Curso para Crear Embudos de Venta.
+* Curso de Automatización de Embudos de Venta.
+* Data Marketer.
+
+---
+## Diseño Gráfico.
 
 * TODO: Seguir aquí.
+
 
 ---
 ## Cursos Recomendados

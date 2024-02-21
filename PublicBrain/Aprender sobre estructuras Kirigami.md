@@ -5,7 +5,7 @@
 # Curso de Aprendizaje sobre Estructuras Kirigami
 
 ## Módulo 1: Introducción al Kirigami
-- Introducción al arte del kirigami.
+- [[Introducción al arte del kirigami]]
 - Historia y evolución del kirigami.
 - Principios básicos de cortes y pliegues en kirigami.
 - [[Materiales y herramientas necesarios para practicar kirigami]]

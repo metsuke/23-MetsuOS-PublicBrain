@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Introducción al arte del kirigami.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "8bit",
+                "query": "kirigami",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Introducción al arte del kirigami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Introducción al arte del kirigami.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "Introducción al arte del kirigami.md"
               }
             }
           },
@@ -163,16 +164,23 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre estructuras Kirigami.md",
+    "Introducción al arte del kirigami.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "PublicBrain/Lección 3 - Análisis de sistemas dinámicos.md",
+    "Lección 3 - Análisis de sistemas dinámicos.md",
+    "PublicBrain/Normativas y estándares internacionales (A11Y Videojuegos).md",
+    "PublicBrain/Importancia de la accesibilidad en el aprendizaje en línea.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "Normativas y estándares internacionales (A11Y Videojuegos).md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "Importancia de la accesibilidad en el aprendizaje en línea.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/Compras y transacciones en japonés (N5-JP).md",
     "PublicBrain/N5-JP.md",
     "Compras y transacciones en japonés (N5-JP).md",
-    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Matemáticas para economistas.md",
     "PublicBrain/Aprender sobre Economía y Finanzas.md",
     "Matemáticas para economistas.md",
@@ -182,13 +190,6 @@
     "Ethernet y tecnologías de cableado.md",
     "PublicBrain/Panorama actual (Educativa de las AACC en España).md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
-    "Panorama actual (Educativa de las AACC en España).md",
-    "PublicBrain/Aprender sobre Stargate.md",
-    "PublicBrain/Franquicia.md",
-    "PublicBrain/Década de 1990.md",
-    "Franquicia.md",
-    "PublicBrain/Aprender sobre Nirvana.md",
-    "Década de 1990.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
               }
             }
           },
@@ -164,11 +164,15 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/WCAG 2.0.md",
+    "Multimedia en tiempo real.md",
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/Aprender sobre estructuras Kirigami.md",
+    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
+    "PublicBrain/Index.md",
     "Trama en Storytelling.md",
     "PublicBrain/Aprender sobre Storytelling.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Buenas Prácticas y Código Limpio en Programación.md",
-    "PublicBrain/Aprender sobre estructuras Kirigami.md",
     "Introducción al arte del kirigami.md",
     "PublicBrain/Introducción al arte del kirigami.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
@@ -186,10 +190,6 @@
     "PublicBrain/N5-JP.md",
     "Compras y transacciones en japonés (N5-JP).md",
     "PublicBrain/Matemáticas para economistas.md",
-    "PublicBrain/Aprender sobre Economía y Finanzas.md",
-    "Matemáticas para economistas.md",
-    "PublicBrain/Roadmap para aprender economía.md",
-    "PublicBrain/Aprender sobre Redes e Internet.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

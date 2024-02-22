@@ -14,7 +14,7 @@
 ## Módulo 2: Saludos y Conversación Básica
 
 - Saludos y presentaciones
-- Preguntar y dar información personal
+- [[Preguntar y dar información personal (HSK1-ZH)]]
 - Expresar agradecimiento y disculpa
 - Números y fechas en chino
 

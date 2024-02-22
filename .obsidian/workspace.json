@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Variables y Tipos de Datos.md",
+                "file": "Preguntar y dar información personal (HSK1-ZH).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Variables y Tipos de Datos.md",
+                "file": "Preguntar y dar información personal (HSK1-ZH).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Variables y Tipos de Datos.md",
+                "file": "Preguntar y dar información personal (HSK1-ZH).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Variables y Tipos de Datos.md"
+                "file": "Preguntar y dar información personal (HSK1-ZH).md"
               }
             }
           },
@@ -176,13 +176,18 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "Variables y Tipos de Datos.md",
-    "PublicBrain/Variables y Tipos de Datos.md",
-    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/HSK1-ZH.md",
+    "Preguntar y dar información personal (HSK1-ZH).md",
+    "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
+    "Index.md",
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "PublicBrain/Variables y Tipos de Datos.md",
     "PublicBrain/A1-CA.md",
+    "Variables y Tipos de Datos.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/Conversaciones sobre eventos y actividades sociales (A1-CA).md",
     "PublicBrain/Conversación sobre pasatiempos y actividades de ocio.md",
     "Conversación sobre pasatiempos y actividades de ocio.md",
@@ -197,11 +202,6 @@
     "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
     "Trama en Storytelling.md",
     "PublicBrain/Aprender sobre Storytelling.md",
-    "PublicBrain/Aprender sobre Buenas Prácticas y Código Limpio en Programación.md",
-    "Introducción al arte del kirigami.md",
-    "PublicBrain/Introducción al arte del kirigami.md",
-    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rutina diaria (A1-SW).md",
+                "file": "Introducción al Chorizo.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rutina diaria (A1-SW).md",
+                "file": "Introducción al Chorizo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rutina diaria (A1-SW).md",
+                "file": "Introducción al Chorizo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rutina diaria (A1-SW).md"
+                "file": "Introducción al Chorizo.md"
               }
             }
           },
@@ -176,10 +176,13 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Aprender a preparar chorizo.md",
+    "Introducción al Chorizo.md",
+    "PublicBrain/Aprender a preparar embutidos.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/A1-SW.md",
     "Rutina diaria (A1-SW).md",
-    "PublicBrain/Aprender Idioma Swahili.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/HSK1-ZH.md",
     "Preguntar y dar información personal (HSK1-ZH).md",
@@ -199,9 +202,6 @@
     "PublicBrain/Trama en Storytelling.md",
     "PublicBrain/Multimedia en tiempo real.md",
     "PublicBrain/WCAG 2.0.md",
-    "Multimedia en tiempo real.md",
-    "PublicBrain/WCAG 2.1.md",
-    "PublicBrain/Aprender sobre estructuras Kirigami.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

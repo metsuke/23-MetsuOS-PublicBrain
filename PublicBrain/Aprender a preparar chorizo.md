@@ -4,7 +4,7 @@
 
 ## Índice
 
-1. Introducción al Chorizo
+1. [[Introducción al Chorizo]]
 2. Historia y Origen del Chorizo
 3. Ingredientes Necesarios
 4. Utensilios y Equipos

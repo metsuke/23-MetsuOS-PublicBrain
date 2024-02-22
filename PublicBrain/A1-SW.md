@@ -37,7 +37,7 @@
 ### Lección 5: Describiendo Actividades Diarias
 
 - Verbos comunes para actividades diarias
-- Rutina diaria
+- [[Rutina diaria (A1-SW)]]
 - Expresar gustos y preferencias
 
 ### Lección 6: Transporte y Direcciones

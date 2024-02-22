@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preguntar y dar información personal (HSK1-ZH).md",
+                "file": "Rutina diaria (A1-SW).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preguntar y dar información personal (HSK1-ZH).md",
+                "file": "Rutina diaria (A1-SW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preguntar y dar información personal (HSK1-ZH).md",
+                "file": "Rutina diaria (A1-SW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preguntar y dar información personal (HSK1-ZH).md"
+                "file": "Rutina diaria (A1-SW).md"
               }
             }
           },
@@ -176,10 +176,13 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/A1-SW.md",
+    "Rutina diaria (A1-SW).md",
+    "PublicBrain/Aprender Idioma Swahili.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/HSK1-ZH.md",
     "Preguntar y dar información personal (HSK1-ZH).md",
-    "PublicBrain/Aprender Idioma Chino.md",
-    "PublicBrain/Index.md",
     "Index.md",
     "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender sobre Programación.md",
@@ -199,9 +202,6 @@
     "Multimedia en tiempo real.md",
     "PublicBrain/WCAG 2.1.md",
     "PublicBrain/Aprender sobre estructuras Kirigami.md",
-    "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
-    "Trama en Storytelling.md",
-    "PublicBrain/Aprender sobre Storytelling.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

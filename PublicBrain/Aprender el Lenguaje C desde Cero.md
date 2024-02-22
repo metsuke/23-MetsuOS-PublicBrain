@@ -13,9 +13,10 @@
 * [[Tu Primer Programa en C]]
 	* [[Estructura básica de un programa C]]
 	* [[Compilación y ejecución en lenguaje C]]
+
 ## Fundamentos de C
 
-* Variables y Tipos de Datos
+* [[Variables y Tipos de Datos]]
 	* Tipos básicos: int, float, char
 	* Declaración de variables y asignación
 * Operadores y Expresiones

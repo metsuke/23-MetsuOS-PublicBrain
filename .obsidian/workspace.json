@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conversación sobre pasatiempos y actividades de ocio.md",
+                "file": "PublicBrain/Variables y Tipos de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/Variables y Tipos de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/Variables y Tipos de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-CA.md"
+                "file": "PublicBrain/Variables y Tipos de Datos.md"
               }
             }
           },
@@ -175,13 +174,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "23966355a8b949ed",
+  "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "Conversación sobre pasatiempos y actividades de ocio.md",
-    "PublicBrain/A1-CA.md",
-    "PublicBrain/Conversación sobre la rutina diaria (A1-CA).md",
-    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "Variables y Tipos de Datos.md",
+    "PublicBrain/Variables y Tipos de Datos.md",
+    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/A1-CA.md",
+    "PublicBrain/Conversaciones sobre eventos y actividades sociales (A1-CA).md",
+    "PublicBrain/Conversación sobre pasatiempos y actividades de ocio.md",
+    "Conversación sobre pasatiempos y actividades de ocio.md",
+    "PublicBrain/Conversación sobre la rutina diaria (A1-CA).md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/Trama en Storytelling.md",
     "PublicBrain/Multimedia en tiempo real.md",
@@ -197,12 +202,6 @@
     "PublicBrain/Introducción al arte del kirigami.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
-    "PublicBrain/Lección 3 - Análisis de sistemas dinámicos.md",
-    "Lección 3 - Análisis de sistemas dinámicos.md",
-    "PublicBrain/Normativas y estándares internacionales (A11Y Videojuegos).md",
-    "PublicBrain/Importancia de la accesibilidad en el aprendizaje en línea.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "Normativas y estándares internacionales (A11Y Videojuegos).md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

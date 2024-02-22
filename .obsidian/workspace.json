@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "Conversación sobre pasatiempos y actividades de ocio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23966355a8b949ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/A1-CA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/A1-CA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/A1-CA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
+                "file": "PublicBrain/A1-CA.md"
               }
             }
           },
@@ -162,8 +175,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fea3863f0dec54d5",
+  "active": "23966355a8b949ed",
   "lastOpenFiles": [
+    "Conversación sobre pasatiempos y actividades de ocio.md",
+    "PublicBrain/A1-CA.md",
+    "PublicBrain/Conversación sobre la rutina diaria (A1-CA).md",
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/Trama en Storytelling.md",
     "PublicBrain/Multimedia en tiempo real.md",
     "PublicBrain/WCAG 2.0.md",
@@ -171,7 +190,6 @@
     "PublicBrain/WCAG 2.1.md",
     "PublicBrain/Aprender sobre estructuras Kirigami.md",
     "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
-    "PublicBrain/Index.md",
     "Trama en Storytelling.md",
     "PublicBrain/Aprender sobre Storytelling.md",
     "PublicBrain/Aprender sobre Buenas Prácticas y Código Limpio en Programación.md",
@@ -185,11 +203,6 @@
     "PublicBrain/Importancia de la accesibilidad en el aprendizaje en línea.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "Normativas y estándares internacionales (A11Y Videojuegos).md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
-    "Importancia de la accesibilidad en el aprendizaje en línea.md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/Compras y transacciones en japonés (N5-JP).md",
-    "PublicBrain/N5-JP.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

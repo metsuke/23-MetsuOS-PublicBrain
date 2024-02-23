@@ -23,7 +23,7 @@
 3.1. Descripción de objetos y lugares.
 3.2. [[Compras y transacciones en japonés (N5-JP)]]
 3.3. [[Direcciones y ubicaciones (N5-JP)]]
-3.4. Horarios y citas.
+3.4. [[Horarios y citas (N5-JP)]]
 
 ## Módulo 4: Cultura y Sociedad Japonesa
 

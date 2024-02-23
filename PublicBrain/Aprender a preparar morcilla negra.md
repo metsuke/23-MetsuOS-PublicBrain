@@ -4,7 +4,7 @@
 
 ## Índice
 
-1. Introducción a la Morcilla Negra
+1. [[Introducción a la Morcilla Negra]]
 2. Historia y Origen de la Morcilla Negra
 3. Ingredientes Necesarios
 4. Utensilios y Equipos

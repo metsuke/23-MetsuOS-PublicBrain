@@ -146,6 +146,8 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Tecnología
 
 * [[Aprender sobre Computar con Canicas]]
+* Aprender sobre CSS
+	* [[Aprender sobre CSS-Grid]]
 * [[Aprender sobre GNU Linux]]
 * [[Aprender sobre Hardware Libre]] 
 	* [[Hardware Libre - Memoria Volatil]]

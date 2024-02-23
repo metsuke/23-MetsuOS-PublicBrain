@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assassin's Creed (Ubisoft Montreal, 2007).md",
+                "file": "PublicBrain/Introducción a la Morcilla Negra.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "fce1499248993cb9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           },
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assassin's Creed (Ubisoft Montreal, 2007).md",
+                "file": "PublicBrain/Introducción a la Morcilla Negra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assassin's Creed (Ubisoft Montreal, 2007).md",
+                "file": "PublicBrain/Introducción a la Morcilla Negra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assassin's Creed (Ubisoft Montreal, 2007).md"
+                "file": "PublicBrain/Introducción a la Morcilla Negra.md"
               }
             }
           },
@@ -176,15 +186,25 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Aprender a preparar morcilla negra.md",
+    "PublicBrain/Aprender a preparar embutidos.md",
+    "PublicBrain/Introducción a la Morcilla Negra.md",
+    "Introducción a la Morcilla Negra.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender Lenguaje Swift.md",
+    "Aprender sobre CSS-Grid.md",
+    "PublicBrain/ssassin's Creed (Ubisoft Montreal, 2007).md",
+    "PublicBrain/Assassin's Creed (Ubisoft Montreal, 2007).md",
+    "PublicBrain/Aprender sobre CSS-Grid.md",
+    "Index.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "Assassin's Creed (Ubisoft Montreal, 2007).md",
     "ssassin's Creed (Ubisoft Montreal, 2007).md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Aprender sobre Historia Mundial del Videojuego.md",
     "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Promting Database.md",
-    "PublicBrain/Aprender a preparar embutidos.md",
     "PublicBrain/Aprender a preparar chorizo.md",
     "Introducción al Chorizo.md",
     "PublicBrain/Rutina diaria (A1-SW).md",
@@ -192,16 +212,6 @@
     "PublicBrain/Introducción al Chorizo.md",
     "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/A1-SW.md",
-    "Rutina diaria (A1-SW).md",
-    "PublicBrain/Aprender Idioma Chino.md",
-    "PublicBrain/HSK1-ZH.md",
-    "Preguntar y dar información personal (HSK1-ZH).md",
-    "Index.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "PublicBrain/Variables y Tipos de Datos.md",
-    "PublicBrain/A1-CA.md",
-    "Variables y Tipos de Datos.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

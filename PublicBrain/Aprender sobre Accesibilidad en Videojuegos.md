@@ -10,7 +10,7 @@
    - [[Beneficios de hacer videojuegos accesibles]]
 
 ## II. Principios Básicos de Accesibilidad
-   - Conceptos fundamentales de accesibilidad.
+   - [[Conceptos fundamentales de accesibilidad (A11Y Videojuegos)]]
    - [[Normativas y estándares internacionales (A11Y Videojuegos)]]
    - Diversidad funcional y necesidades de diferentes usuarios.
 

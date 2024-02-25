@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Altas Capacidades.md"
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md"
               }
             }
           },
@@ -186,9 +186,15 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "Funcionamiento cerebral en personas de alta capacidad.md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "Tipos básicos - int, float, char en Lenguaje C.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "PublicBrain/Planificación de viajes y reservas (A1-CA).md",
+    "PublicBrain/Interrupción del contenido que parpadea.md",
+    "PublicBrain/Funcionamiento cerebral en personas de alta capacidad.md",
+    "Funcionamiento cerebral en personas de alta capacidad.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.1.md",
     "Interrupción del contenido que parpadea.md",
@@ -206,12 +212,6 @@
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "Conceptos fundamentales de accesibilidad (A11Y Videojuegos).md",
     "PublicBrain/Conceptos fundamentales de accesibilidad (A11Y Videojuegos).md",
-    "PublicBrain/Lección 1 - Modelado de sistemas físicos con canicas.md",
-    "PublicBrain/Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad.md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
-    "Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad.md",
-    "Lección 1 - Modelado de sistemas físicos con canicas.md",
-    "PublicBrain/Horarios y citas (N5-JP).md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

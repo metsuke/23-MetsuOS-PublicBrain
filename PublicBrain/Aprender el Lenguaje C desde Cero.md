@@ -17,7 +17,7 @@
 ## Fundamentos de C
 
 * [[Variables y Tipos de Datos]]
-	* Tipos básicos: int, float, char
+	* [[Tipos básicos - int, float, char en Lenguaje C]]
 	* Declaración de variables y asignación
 * Operadores y Expresiones
 	* Operadores aritméticos, lógicos y de asignación

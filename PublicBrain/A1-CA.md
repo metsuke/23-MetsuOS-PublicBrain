@@ -35,7 +35,7 @@
 
 ## Módulo 5: Viajes y Turismo
 
-5.1. Planificación de viajes y reservas.
+5.1. [[Planificación de viajes y reservas (A1-CA)]]
 5.2. Conversación en hoteles y aeropuertos.
 5.3. Descripción de lugares turísticos y monumentos.
 5.4. Uso de indicaciones y direcciones en catalán.

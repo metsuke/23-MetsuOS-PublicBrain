@@ -6,7 +6,7 @@
 
 ## Introducción a CSS Grid
 - ¿Qué es CSS Grid?
-- Ventajas de CSS Grid sobre otros sistemas de diseño.
+- [[Ventajas de CSS Grid sobre otros sistemas de diseño]]
 - Historia y evolución de CSS Grid.
 
 ## Fundamentos de CSS Grid

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lección 1 - Introducción a la computación cuántica.md",
+                "file": "Historia y evolución del kirigami.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lección 1 - Introducción a la computación cuántica.md",
+                "file": "Historia y evolución del kirigami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lección 1 - Introducción a la computación cuántica.md",
+                "file": "Historia y evolución del kirigami.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lección 1 - Introducción a la computación cuántica.md"
+                "file": "Historia y evolución del kirigami.md"
               }
             }
           },
@@ -186,10 +186,14 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
-    "Lección 1 - Introducción a la computación cuántica.md",
+    "PublicBrain/Aprender sobre estructuras Kirigami.md",
+    "Historia y evolución del kirigami.md",
     "PublicBrain/Index.md",
     "Index.md",
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "Lección 1 - Introducción a la computación cuántica.md",
+    "PublicBrain/Lección 1 - Introducción a la computación cuántica.md",
     "PublicBrain/CPS Framework de Javier G. Recuenco.md",
     "PublicBrain/Aprender con Javier G. Recuenco.md",
     "CPS Framework de Javier G. Recuenco.md",
@@ -208,10 +212,6 @@
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Pauta 2 - Control del Teclado.md",
     "PublicBrain/Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
-    "Planificación de viajes y reservas (A1-CA).md",
-    "PublicBrain/Conversación sobre pasatiempos y actividades de ocio.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

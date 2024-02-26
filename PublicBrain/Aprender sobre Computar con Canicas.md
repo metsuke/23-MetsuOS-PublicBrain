@@ -22,16 +22,17 @@
 
 ## Módulo 4: Computación Cuántica con Canicas
 
-- Lección 1 - Introducción a la computación cuántica
+- [[Lección 1 - Introducción a la computación cuántica]]
 - Lección 2 - Modelado cuántico con canicas
 - Lección 3 - Algoritmos cuánticos básicos
 - [[Lección 4 - Aplicaciones y desafíos de la computación cuántica mecanica con canicas]]
 
 ## Módulo 5: Proyectos Prácticos
-- Lección 1: Diseño de sistemas con canicas
-- Lección 2: Implementación de algoritmos con canicas
-- Lección 3: Simulación de fenómenos físicos
-- Lección 4: Exploración de la computación cuántica
+
+- Lección 1 - Diseño de sistemas con canicas
+- Lección 2 - Implementación de algoritmos con canicas
+- Lección 3 - Simulación de fenómenos físicos
+- Lección 4 - Exploración de la computación cuántica
 
 ## Módulo 6: Perspectivas Futuras
 - Lección 1: Avances y tendencias en computación con canicas

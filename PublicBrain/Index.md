@@ -15,7 +15,7 @@
 Procesos algo caóticos de aprendizaje
 
 * [[Aprender con Antonio Ruiz García (ElGris)]]
-* [[Aprender con Recuenco]]
+* [[Aprender con Javier G. Recuenco]]
 * [[Aprender con Sani Ladam]]
 * [[Aprender con SizeMatters]]
 

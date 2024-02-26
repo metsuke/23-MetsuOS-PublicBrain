@@ -1,6 +1,6 @@
 # Claridad
 
-[[Aprender con Recuenco]]
+[[Aprender con Javier G. Recuenco]]
 
 En el contexto de la comunicación y el diseño de interfaces, se refiere a la cualidad de un mensaje o una interfaz de ser claro, comprensible y fácil de entender para los usuarios. Es la capacidad de transmitir información de manera efectiva, minimizando la ambigüedad, la confusión y la posibilidad de interpretaciones erróneas.
 

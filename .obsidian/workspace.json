@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "Lección 1 - Introducción a la computación cuántica.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "Lección 1 - Introducción a la computación cuántica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "Lección 1 - Introducción a la computación cuántica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md"
+                "file": "Lección 1 - Introducción a la computación cuántica.md"
               }
             }
           },
@@ -186,10 +186,17 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "Tipos básicos - int, float, char en Lenguaje C.md",
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "Lección 1 - Introducción a la computación cuántica.md",
     "PublicBrain/Index.md",
+    "Index.md",
+    "PublicBrain/CPS Framework de Javier G. Recuenco.md",
+    "PublicBrain/Aprender con Javier G. Recuenco.md",
+    "CPS Framework de Javier G. Recuenco.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "PublicBrain/Tipos básicos - int, float, char en Lenguaje C.md",
+    "Tipos básicos - int, float, char en Lenguaje C.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "PublicBrain/Planificación de viajes y reservas (A1-CA).md",
     "PublicBrain/Interrupción del contenido que parpadea.md",
@@ -205,13 +212,6 @@
     "PublicBrain/A1-CA.md",
     "Planificación de viajes y reservas (A1-CA).md",
     "PublicBrain/Conversación sobre pasatiempos y actividades de ocio.md",
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
-    "PublicBrain/Lección 4 - Aplicaciones y desafíos de la computación cuántica mecanica con canicas.md",
-    "Lección 4 - Aplicaciones y desafíos de la computación cuántica mecanica con canicas.md",
-    "Index.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "Conceptos fundamentales de accesibilidad (A11Y Videojuegos).md",
-    "PublicBrain/Conceptos fundamentales de accesibilidad (A11Y Videojuegos).md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

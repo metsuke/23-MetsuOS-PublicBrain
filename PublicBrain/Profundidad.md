@@ -1,6 +1,6 @@
 # Profundidad
 
-[[Aprender con Recuenco]]
+[[Aprender con Javier G. Recuenco]]
   
 La profundidad es un concepto que puede aplicarse en diferentes contextos y tiene múltiples significados dependiendo del contexto en el que se utilice. Aquí te presentaré algunos ejemplos de cómo se puede entender la profundidad en diferentes ámbitos:
 

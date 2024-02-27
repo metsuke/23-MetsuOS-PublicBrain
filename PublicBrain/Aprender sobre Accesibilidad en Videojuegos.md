@@ -9,7 +9,7 @@
    - Importancia de la accesibilidad en la industria del gaming.
    - [[Beneficios de hacer videojuegos accesibles]]
 
-## II. Principios Básicos de Accesibilidad
+## II. [[Principios Básicos de Accesibilidad en Videojuegos]]
    - [[Conceptos fundamentales de accesibilidad (A11Y Videojuegos)]]
    - [[Normativas y estándares internacionales (A11Y Videojuegos)]]
    - Diversidad funcional y necesidades de diferentes usuarios.

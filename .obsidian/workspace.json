@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requisitos legales y responsabilidades (A11Y ELearning)).md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requisitos legales y responsabilidades (A11Y ELearning)).md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Requisitos legales y responsabilidades (A11Y ELearning)).md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Requisitos legales y responsabilidades (A11Y ELearning)).md"
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
               }
             }
           },
@@ -186,10 +186,14 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "Principios Básicos de Accesibilidad en Videojuegos.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "Requisitos legales y responsabilidades (A11Y ELearning)).md",
     "Principales normativas y estándares de accesibilidad (por ejemplo, WCAG, ADA, Section 508).md",
-    "PublicBrain/Index.md",
     "Index.md",
     "PublicBrain/Ventajas de CSS Grid sobre otros sistemas de diseño.md",
     "PublicBrain/Historia y evolución del kirigami.md",
@@ -208,10 +212,6 @@
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "PublicBrain/Tipos básicos - int, float, char en Lenguaje C.md",
     "Tipos básicos - int, float, char en Lenguaje C.md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
-    "PublicBrain/Planificación de viajes y reservas (A1-CA).md",
-    "PublicBrain/Interrupción del contenido que parpadea.md",
-    "PublicBrain/Funcionamiento cerebral en personas de alta capacidad.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

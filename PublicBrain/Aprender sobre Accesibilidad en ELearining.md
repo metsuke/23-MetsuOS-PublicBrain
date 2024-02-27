@@ -9,7 +9,7 @@
 - [[Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad]]
 
 ## Normativas y Estándares de Accesibilidad
-- Principales normativas y estándares de accesibilidad (por ejemplo, WCAG, ADA, Section 508)
+- [[Principales normativas y estándares de accesibilidad (por ejemplo, WCAG, ADA, Section 508)]]
 - Requisitos legales y responsabilidades
 
 ## Barreras de Accesibilidad en E-Learning

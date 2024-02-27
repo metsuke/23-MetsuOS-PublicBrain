@@ -337,11 +337,59 @@ En ing. Sales Funnel Expert. Diseña la estrategia de marketing para el cliente.
 ---
 ## Diseño Gráfico.
 
-* TODO: Seguir aquí.
+### Objetivos
 
+* Traducir los mensajes al lenguaje visual.
+
+### ¿Qué hacen?
+
+* Desde diseño de logo y branding hasta banners para campañas de publicidad.
+* Diseño de elementos gráficos para: web, pieszas impresas, packaging, videos y hasta ilustración de personajes para marcas.
+
+### Procesos
+
+* Reunión con gerente de cuenta
+* Investigación
+* Bocetado en papel
+* Selección de imágenes colores y tipografias.
+* Bocetado digital.
+* Presentación del primer boceto (usualmente tres opciones)
+* Iteración del boceto.
+* Entrega de piezas por formato.
+
+### Tareas y responsabilidades
+
+* Comunicación de ideas de diseño
+* Diseño de piezas gráficas
+* Presentación de ideas a clientes.
+* Soporte interno.
+
+### Perfiles mas buscados.
+
+* Competencia en sofware de diseño grafico (principalmente Adobe Illustrator y Adobe Photoshop)
+* Habilidades demostrables de diseño.
+* Habilidades de diseño de interacción usuario-sistema.
+* Habilidades blandas.
+	* Creativividad
+	* Adaptable.
+	* Habilidades de comunicación.
+	* Habilidades para resolver problemas.
+	* Formación continua.
+### Cursos recomendados
+
+* Curso de Ilustración Digital con Vectores.
+* Curso de Diseño Básico para el Marketing.
+* Curso de Diseño para Ads.
+* Curso de Introducción al Diseño.
+* Curso de Uso y Manejo del color.
+* Marketing Designer.
+---
+## Redactor  Publicitario.
+
+* TODO: Seguir aqui.
 
 ---
-## Cursos Recomendados
+## Cursos Recomendados a niveld e agencia.
 
 * Introducción a creación empresas y startups
 * Curso de Bussiness Model Canvas

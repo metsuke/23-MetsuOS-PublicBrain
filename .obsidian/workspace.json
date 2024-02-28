@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md"
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
               }
             }
           },
@@ -186,10 +186,17 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "Tres destellos o más.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/Funciones de activación comunes (Sigmoid, ReLU, Tanh).md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Funciones de activación comunes (Sigmoid, ReLU, Tanh).md",
+    "PublicBrain/Tres destellos o más.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Redes Neuronales Artificiales.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/WCAG 2.0.md",
+    "Tres destellos o más.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "Lección 2 - Modelado cuántico con canicas.md",
     "PublicBrain/Lección 2 - Modelado cuántico con canicas.md",
@@ -205,13 +212,6 @@
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Requisitos legales y responsabilidades (A11Y ELearning)).md",
     "PublicBrain/Principios Básicos de Accesibilidad en Videojuegos.md",
-    "PublicBrain/Principales normativas y estándares de accesibilidad (por ejemplo, WCAG, ADA, Section 508).md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "Principios Básicos de Accesibilidad en Videojuegos.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
-    "Requisitos legales y responsabilidades (A11Y ELearning)).md",
-    "Principales normativas y estándares de accesibilidad (por ejemplo, WCAG, ADA, Section 508).md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

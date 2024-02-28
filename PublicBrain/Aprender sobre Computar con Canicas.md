@@ -23,7 +23,7 @@
 ## Módulo 4: Computación Cuántica con Canicas
 
 - [[Lección 1 - Introducción a la computación cuántica]]
-- Lección 2 - Modelado cuántico con canicas
+- [[Lección 2 - Modelado cuántico con canicas]]
 - [[Lección 3 - Algoritmos cuánticos básicos]]
 - [[Lección 4 - Aplicaciones y desafíos de la computación cuántica mecanica con canicas]]
 

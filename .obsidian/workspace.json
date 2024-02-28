@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Descripción de lugares turísticos y monumentos (A1-CA).md",
+                "file": "Lección 2 - Modelado cuántico con canicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Descripción de lugares turísticos y monumentos (A1-CA).md",
+                "file": "Lección 2 - Modelado cuántico con canicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Descripción de lugares turísticos y monumentos (A1-CA).md",
+                "file": "Lección 2 - Modelado cuántico con canicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Descripción de lugares turísticos y monumentos (A1-CA).md"
+                "file": "Lección 2 - Modelado cuántico con canicas.md"
               }
             }
           },
@@ -186,14 +186,17 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "Lección 2 - Modelado cuántico con canicas.md",
+    "PublicBrain/Lección 2 - Simulación de procesos y fenómenos.md",
+    "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md",
     "PublicBrain/A1-CA.md",
     "Descripción de lugares turísticos y monumentos (A1-CA).md",
+    "PublicBrain/Descripción de lugares turísticos y monumentos (A1-CA).md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/Index.md",
     "Index.md",
     "PublicBrain/Aprender sobre estructuras Kirigami.md",
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
-    "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md",
     "Lección 3 - Algoritmos cuánticos básicos.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Requisitos legales y responsabilidades (A11Y ELearning)).md",
@@ -209,9 +212,6 @@
     "PublicBrain/Historia y evolución del kirigami.md",
     "PublicBrain/Aprender sobre CSS-Grid.md",
     "Ventajas de CSS Grid sobre otros sistemas de diseño.md",
-    "Historia y evolución del kirigami.md",
-    "PublicBrain/Promting Database.md",
-    "Lección 1 - Introducción a la computación cuántica.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

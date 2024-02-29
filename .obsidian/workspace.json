@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/A1-RO.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/A1-RO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/A1-RO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
+                "file": "PublicBrain/A1-RO.md"
               }
             }
           },
@@ -186,13 +186,16 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "PublicBrain/Funciones de activación comunes (Sigmoid, ReLU, Tanh).md",
+    "Saludos y presentaciones (A1-RO).md",
+    "PublicBrain/A1-RO.md",
+    "PublicBrain/Aprender Idioma Rumano.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "PublicBrain/Funciones de activación comunes (Sigmoid, ReLU, Tanh).md",
     "Funciones de activación comunes (Sigmoid, ReLU, Tanh).md",
     "PublicBrain/Tres destellos o más.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Redes Neuronales Artificiales.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.1.md",
     "PublicBrain/WCAG 2.0.md",
@@ -209,9 +212,6 @@
     "Index.md",
     "PublicBrain/Aprender sobre estructuras Kirigami.md",
     "Lección 3 - Algoritmos cuánticos básicos.md",
-    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
-    "PublicBrain/Requisitos legales y responsabilidades (A11Y ELearning)).md",
-    "PublicBrain/Principios Básicos de Accesibilidad en Videojuegos.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

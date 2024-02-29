@@ -15,7 +15,7 @@ En un futuro es más que probable que esta lista que inicio aquí se convierta e
 * Assassin's Creed IV: Black Flag (Ubisoft Montreal, 2013). 
 * Battlefield 4 (EA Digital Illusions CE, 2013). 
 * Beyond: Two Souls (Quantic Dream, 2013). 
-* Bioshock (2K Games, 2007). 
+* [[Bioshock (2K Games, 2007)]]. 
 * Bioshock Infinite (Irrational Games, 2013). 
 * Borderlands (Gearbox Software, 2009). 
 * Braid (Number None, Inc. 2008). 

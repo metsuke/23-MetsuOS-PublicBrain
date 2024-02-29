@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PlayStation 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PlayStation 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PlayStation 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PlayStation 4.md"
               }
             }
           },
@@ -186,6 +186,19 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "PublicBrain/Alan Wake (Remedy Entertainment, 2010).md",
+    "PlayStation 4.md",
+    "Xbox One.md",
+    "PublicBrain/Xbox 360.md",
+    "Microsoft Windows.md",
+    "Xbox 360.md",
+    "PublicBrain/Bioshock (2K Games, 2007).md",
+    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
+    "Bioshock (2K Games, 2007).md",
+    "PublicBrain/Videojuegos a lo largo de la Historia.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Lección 3 - Simulación de fenómenos físicos.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "Lección 3 - Simulación de fenómenos físicos.md",
@@ -193,25 +206,12 @@
     "PublicBrain/Saludos y presentaciones (A1-RO).md",
     "Saludos y presentaciones (A1-RO).md",
     "PublicBrain/Aprender Idioma Rumano.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "PublicBrain/Funciones de activación comunes (Sigmoid, ReLU, Tanh).md",
     "Funciones de activación comunes (Sigmoid, ReLU, Tanh).md",
     "PublicBrain/Tres destellos o más.md",
     "PublicBrain/Redes Neuronales Artificiales.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/WCAG 2.1.md",
-    "PublicBrain/WCAG 2.0.md",
-    "Tres destellos o más.md",
-    "Lección 2 - Modelado cuántico con canicas.md",
-    "PublicBrain/Lección 2 - Modelado cuántico con canicas.md",
-    "PublicBrain/Lección 2 - Simulación de procesos y fenómenos.md",
-    "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md",
-    "PublicBrain/A1-CA.md",
-    "Descripción de lugares turísticos y monumentos (A1-CA).md",
-    "PublicBrain/Descripción de lugares turísticos y monumentos (A1-CA).md",
-    "PublicBrain/Aprender Idioma Catalán.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

@@ -2,6 +2,8 @@
 
 [[Narrativa y Storytelling en el mundo del videojuego]] | [[Videojuegos a lo largo de la Historia]]
 
+
+
 "Alan Wake" es un videojuego desarrollado por [[Remedy Entertainment]] y lanzado en 2010. Es un título de acción y aventuras con elementos de thriller psicológico y horror, conocido por su narrativa envolvente y su atmósfera única. Aquí tienes algunos aspectos destacados de este juego:
 
 ![Alan Wake Game - From Reddit](PublicBrain/_resources/Alan%20Wake%20(Remedy%20Entertainment,%202010)/2ebc1a4c83ef0aff6379aa77eb6af453_MD5.png)
@@ -34,22 +36,22 @@ En resumen, "Alan Wake" es un videojuego que se destaca por su enfoque en la nar
 
 ## Características Técnicas
 
-| Característica Técnica          | Descripción                                                                                              |
-|---------------------------------|----------------------------------------------------------------------------------------------------------|
-| **Nombre del Juego**            | Alan Wake                                                                                                |
-| **Género**                      | Survival horror, Acción-aventura                                                                          |
-| **Plataforma**                  | Xbox 360, Microsoft Windows, Xbox One, PlayStation 4 (Remastered)                                         |
-| **Desarrollador**               | Remedy Entertainment                                                                                     |
-| **Año de Lanzamiento**          | 2010                                                                                                     |
-| **Modos de Juego**              | Un jugador, modo historia                                                                                |
-| **Perspectiva**                 | Tercera persona                                                                                           |
-| **Historia**                    | Alan Wake, un escritor, viaja a una pequeña ciudad para buscar a su esposa desaparecida, enfrentándose a fuerzas oscuras y misteriosas |
-| **Mecánicas de Juego**          | Uso de luz como arma contra enemigos, exploración de entornos oscuros, resolución de puzles               |
-| **Gráficos**                    | Gráficos 3D de alta calidad                                                                              |
-| **Sonido**                      | Banda sonora inmersiva, efectos de sonido detallados                                                      |
-| **Actuación de Voz**            | Actuación de voz de alta calidad para personajes principales                                               |
-| **Duración del Juego**          | Alrededor de 10-15 horas para completar la historia principal                                             |
-| **Recepción**                   | Recibió críticas generalmente positivas por su narrativa, atmósfera y jugabilidad                         |
-| **Premios**                     | Ganador de varios premios, incluidos BAFTA y VGX                                                          |
-| **Reediciones/Remasterizaciones**| Alan Wake Remastered para PlayStation 4, Xbox One                                                          |
-| **Compatibilidad**              | Originalmente lanzado para Xbox 360 y Microsoft Windows, ahora disponible en varias plataformas           |
+| Característica Técnica            | Descripción                                                                                                                            |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nombre del Juego**              | Alan Wake                                                                                                                              |
+| **Género**                        | Survival horror, Acción-aventura                                                                                                       |
+| **Plataforma**                    | [[Xbox 360]], [[Microsoft Windows]], [[Xbox One]], [[PlayStation 4]] (Remastered)                                                      |
+| **Desarrollador**                 | Remedy Entertainment                                                                                                                   |
+| **Año de Lanzamiento**            | 2010                                                                                                                                   |
+| **Modos de Juego**                | Un jugador, modo historia                                                                                                              |
+| **Perspectiva**                   | Tercera persona                                                                                                                        |
+| **Historia**                      | Alan Wake, un escritor, viaja a una pequeña ciudad para buscar a su esposa desaparecida, enfrentándose a fuerzas oscuras y misteriosas |
+| **Mecánicas de Juego**            | Uso de luz como arma contra enemigos, exploración de entornos oscuros, resolución de puzles                                            |
+| **Gráficos**                      | Gráficos 3D de alta calidad                                                                                                            |
+| **Sonido**                        | Banda sonora inmersiva, efectos de sonido detallados                                                                                   |
+| **Actuación de Voz**              | Actuación de voz de alta calidad para personajes principales                                                                           |
+| **Duración del Juego**            | Alrededor de 10-15 horas para completar la historia principal                                                                          |
+| **Recepción**                     | Recibió críticas generalmente positivas por su narrativa, atmósfera y jugabilidad                                                      |
+| **Premios**                       | Ganador de varios premios, incluidos BAFTA y VGX                                                                                       |
+| **Reediciones/Remasterizaciones** | Alan Wake Remastered para PlayStation 4, Xbox One                                                                                      |
+| **Compatibilidad**                | Originalmente lanzado para Xbox 360 y Microsoft Windows, ahora disponible en varias plataformas                                        |

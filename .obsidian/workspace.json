@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md"
+                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md"
               }
             }
           },
@@ -186,8 +186,12 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "Técnicas para mejorar la experiencia del usuario con discapacidad.md",
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "Importancia de la accesibilidad en la industria del gaming.md",
+    "PublicBrain/Técnicas para mejorar la experiencia del usuario con discapacidad.md",
+    "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "Técnicas para mejorar la experiencia del usuario con discapacidad.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "Lección 4 - Exploración de la computación cuántica.md",
     "PublicBrain/Lección 4 - Exploración de la computación cuántica.md",
@@ -208,10 +212,6 @@
     "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Index.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
-    "PublicBrain/Lección 3 - Simulación de fenómenos físicos.md",
-    "Lección 3 - Simulación de fenómenos físicos.md",
-    "PublicBrain/A1-RO.md",
-    "PublicBrain/Saludos y presentaciones (A1-RO).md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

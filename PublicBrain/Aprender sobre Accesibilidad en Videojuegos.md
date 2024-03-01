@@ -6,7 +6,7 @@
 ## I. Introducción a la Accesibilidad en Videojuegos
 
    - [[¿Qué es la accesibilidad en videojuegos?]]
-   - Importancia de la accesibilidad en la industria del gaming.
+   - [[Importancia de la accesibilidad en la industria del gaming]].
    - [[Beneficios de hacer videojuegos accesibles]]
 
 ## II. [[Principios Básicos de Accesibilidad en Videojuegos]]

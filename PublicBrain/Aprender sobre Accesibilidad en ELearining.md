@@ -19,7 +19,7 @@
 ## Diseño Centrado en el Usuario
 - Principios del diseño centrado en el usuario
 - Enfoque inclusivo en el diseño de cursos en línea
-- Técnicas para mejorar la experiencia del usuario con discapacidad
+- [[Técnicas para mejorar la experiencia del usuario con discapacidad]]
 
 ## Herramientas y Tecnologías Accesibles
 - Herramientas y recursos para evaluar y mejorar la accesibilidad en E-Learning

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PlayStation 4.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PlayStation 4.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PlayStation 4.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PlayStation 4.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md"
               }
             }
           },
@@ -186,8 +186,17 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
+    "Técnicas para mejorar la experiencia del usuario con discapacidad.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "Lección 4 - Exploración de la computación cuántica.md",
+    "PublicBrain/Lección 4 - Exploración de la computación cuántica.md",
+    "PublicBrain/Lección 4 - Aplicaciones y desafíos de la computación cuántica mecanica con canicas.md",
     "PublicBrain/Alan Wake (Remedy Entertainment, 2010).md",
     "PlayStation 4.md",
+    "PublicBrain/Xbox One.md",
+    "PublicBrain/PlayStation 4.md",
+    "PublicBrain/Microsoft Windows.md",
     "Xbox One.md",
     "PublicBrain/Xbox 360.md",
     "Microsoft Windows.md",
@@ -200,18 +209,9 @@
     "PublicBrain/Index.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Lección 3 - Simulación de fenómenos físicos.md",
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
     "Lección 3 - Simulación de fenómenos físicos.md",
     "PublicBrain/A1-RO.md",
     "PublicBrain/Saludos y presentaciones (A1-RO).md",
-    "Saludos y presentaciones (A1-RO).md",
-    "PublicBrain/Aprender Idioma Rumano.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "PublicBrain/Funciones de activación comunes (Sigmoid, ReLU, Tanh).md",
-    "Funciones de activación comunes (Sigmoid, ReLU, Tanh).md",
-    "PublicBrain/Tres destellos o más.md",
-    "PublicBrain/Redes Neuronales Artificiales.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

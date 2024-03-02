@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-CA.md"
+                "file": "PublicBrain/WCAG 2.0.md"
               }
             }
           },
@@ -186,15 +186,19 @@
   },
   "active": "fea3863f0dec54d5",
   "lastOpenFiles": [
-    "Uso de indicaciones y direcciones en catalán (A1-CA).md",
+    "Contenido moviéndose automáticamente.md",
+    "PublicBrain/WCAG 2.0.md",
+    "Lección 1 - Diseño de sistemas con canicas.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
     "PublicBrain/A1-CA.md",
+    "PublicBrain/Uso de indicaciones y direcciones en catalán (A1-CA).md",
+    "Uso de indicaciones y direcciones en catalán (A1-CA).md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
     "Importancia de la accesibilidad en la industria del gaming.md",
     "PublicBrain/Técnicas para mejorar la experiencia del usuario con discapacidad.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "Técnicas para mejorar la experiencia del usuario con discapacidad.md",
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
     "Lección 4 - Exploración de la computación cuántica.md",
     "PublicBrain/Lección 4 - Exploración de la computación cuántica.md",
     "PublicBrain/Lección 4 - Aplicaciones y desafíos de la computación cuántica mecanica con canicas.md",
@@ -208,10 +212,6 @@
     "Microsoft Windows.md",
     "Xbox 360.md",
     "PublicBrain/Bioshock (2K Games, 2007).md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "Bioshock (2K Games, 2007).md",
-    "PublicBrain/Videojuegos a lo largo de la Historia.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

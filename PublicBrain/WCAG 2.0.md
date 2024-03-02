@@ -31,7 +31,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
     - **Pauta 3: Contenido que parpadea, se desplaza o se mueve automáticamente**
         - 3.1 [[Interrupción del contenido que parpadea]]
         - 3.2 [[Tres destellos o más]]
-        - 3.3 Contenido moviéndose automáticamente
+        - 3.3 [[Contenido moviéndose automáticamente]]
     - **Pauta 4: Compatible**
         - 4.1 Interpretación de la información
         - 4.2 Nombre, función, valor

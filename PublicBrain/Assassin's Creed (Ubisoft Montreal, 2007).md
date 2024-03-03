@@ -1,11 +1,12 @@
 # Assassin's Creed (Ubisoft Montreal, 2007)
 
-[[Narrativa y Storytelling en el mundo del videojuego]]
+[[Narrativa y Storytelling en el mundo del videojuego]] | [[Videojuegos a lo largo de la Historia]]
+
 
 | Característica              | Detalles                                                             |
 | --------------------------- | -------------------------------------------------------------------- |
-| **Desarrollador**           | Ubisoft Montreal                                                     |
-| **Distribuidor**            | Ubisoft                                                              |
+| **Desarrollador**           | [[Ubisoft Montreal]]                                                 |
+| **Distribuidor**            | [[Ubisoft]]                                                          |
 | **Plataformas**             | [[PlayStation]], [[Xbox]], [[Microsoft Windows]], [[macOS]], [[iOS]] |
 | **Género**                  | Acción-aventura, sigilo                                              |
 | **Modos de juego**          | Un jugador                                                           |

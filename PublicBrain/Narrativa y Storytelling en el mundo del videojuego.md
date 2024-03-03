@@ -12,7 +12,7 @@ En un futuro es más que probable que esta lista que inicio aquí se convierta e
 * [[Alan Wake (Remedy Entertainment, 2010)]]. 
 * [[Ant Attack (Quicksilva, 1983)]]. 
 * [[Assassin's Creed (Ubisoft Montreal, 2007)]]. 
-* Assassin's Creed IV: Black Flag (Ubisoft Montreal, 2013). 
+* [[Assassin's Creed IV - Black Flag (Ubisoft Montreal, 2013).]] 
 * Battlefield 4 (EA Digital Illusions CE, 2013). 
 * [[Beyond - Two Souls (Quantic Dream, 2013)]].
 * [[Bioshock (2K Games, 2007)]]. 
@@ -51,7 +51,7 @@ En un futuro es más que probable que esta lista que inicio aquí se convierta e
 * Grim Fandango (LucasArts, 1998). 
 * Guild Wars (ArenaNet, 2005). 
 * Gungrave: Overdose (Ikusabune / Co. Ltd. / Mastiff, 2004). 
-* Halo: Combat Evolved (Bungie Studios, 2001). 
+* Halo - Combat Evolved (Bungie Studios, 2001). 
 * Half-Life (Valve Software / Sierra Entertainment, 1998). 
 * Half-Life 2 (Valve Corporation, 2004). 
 * Heavy Rain (Quantic Dream, 2010). 

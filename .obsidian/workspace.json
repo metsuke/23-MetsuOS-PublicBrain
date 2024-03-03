@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forward propagation.md",
+                "file": "PublicBrain/Aprender sobre Tipografía.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forward propagation.md",
+                "file": "PublicBrain/Aprender sobre Tipografía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forward propagation.md",
+                "file": "PublicBrain/Aprender sobre Tipografía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forward propagation.md"
+                "file": "PublicBrain/Aprender sobre Tipografía.md"
               }
             }
           },
@@ -164,10 +164,15 @@
   },
   "active": "23966355a8b949ed",
   "lastOpenFiles": [
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "PublicBrain/Historia y evolución de las redes neuronales.md",
-    "Forward propagation.md",
+    "Introducción a la Tipografía.md",
+    "PublicBrain/Introducción a la Tipografía.md",
+    "PublicBrain/Forward propagation.md",
+    "PublicBrain/Aprender sobre Tipografía.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Forward propagation.md",
+    "PublicBrain/Historia y evolución de las redes neuronales.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Videojuegos a lo largo de la Historia.md",
     "Halo 3 (Bungie Studios, 2007).md",
@@ -185,11 +190,6 @@
     "PublicBrain/PlayStation.md",
     "PublicBrain/Assassin's Creed IV - Black Flag (Ubisoft Montreal, 2013)..md",
     "Assassin's Creed IV - Black Flag (Ubisoft Montreal, 2013)..md",
-    "Xbox.md",
-    "PlayStation.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
-    "Aprender con Coronel Baños.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

@@ -8,34 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fea3863f0dec54d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Borderlands (Gearbox Software, 2009).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fce1499248993cb9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
             "id": "23966355a8b949ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/Assassin's Creed (Ubisoft Montreal, 2007).md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Borderlands (Gearbox Software, 2009).md",
+                "file": "PublicBrain/Assassin's Creed (Ubisoft Montreal, 2007).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Borderlands (Gearbox Software, 2009).md",
+                "file": "PublicBrain/Assassin's Creed (Ubisoft Montreal, 2007).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Borderlands (Gearbox Software, 2009).md"
+                "file": "PublicBrain/Assassin's Creed (Ubisoft Montreal, 2007).md"
               }
             }
           },
@@ -184,34 +162,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fea3863f0dec54d5",
+  "active": "23966355a8b949ed",
   "lastOpenFiles": [
+    "Xbox.md",
+    "PublicBrain/Assassin's Creed (Ubisoft Montreal, 2007).md",
+    "PlayStation.md",
+    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
+    "PublicBrain/Alan Wake (Remedy Entertainment, 2010).md",
     "PublicBrain/Videojuegos a lo largo de la Historia.md",
-    "Borderlands (Gearbox Software, 2009).md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/A1-CA.md",
+    "Aprender con Coronel Baños.md",
+    "PublicBrain/Aprender con Coronel Baños.md",
+    "PublicBrain/¿Qué es Geopolítica? (Coronel Baños).md",
+    "¿Qué es Geopolítica? (Coronel Baños).md",
     "PublicBrain/Borderlands (Gearbox Software, 2009).md",
+    "Borderlands (Gearbox Software, 2009).md",
     "PublicBrain/Beyond - Two Souls (Quantic Dream, 2013).md",
     "Beyond - Two Souls (Quantic Dream, 2013).md",
     "PublicBrain/Manic Miner (Mathew Smith, 1983).md",
     "PublicBrain/Asteroids (Atari, 1979-1980).md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Bioshock (2K Games, 2007).md",
     "PublicBrain/Adventure (Atari, Inc., 1979).md",
     "PublicBrain/Aprender a preparar salchichón.md",
     "PublicBrain/Lavado y Preparación de Ingredientes (Morcilla Blanca).md",
     "PublicBrain/Exploración de los beneficios nutricionales y gastronómicos de los productos de temporada.md",
     "PublicBrain/Aprender a preparar embutidos.md",
-    "PublicBrain/Aprender a preparar salchicas.md",
-    "PublicBrain/Aprender a preparar morcilla blanca.md",
-    "Lavado y Preparación de Ingredientes (Morcilla Blanca).md",
-    "PublicBrain/Aprender sobre productos de temporada.md",
-    "Exploración de los beneficios nutricionales y gastronómicos de los productos de temporada.md",
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
-    "PublicBrain/Lección 1 - Avances y tendencias en computación con canicas.md",
-    "Lección 1 - Avances y tendencias en computación con canicas.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Lección 1 - Diseño de sistemas con canicas.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

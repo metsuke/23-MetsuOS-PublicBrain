@@ -35,10 +35,8 @@
 - [[Lección 4 - Exploración de la computación cuántica]]
 
 ## Módulo 6: Perspectivas Futuras
-- Lección 1: Avances y tendencias en computación con canicas
-- Lección 2: Retos y oportunidades
-- Lección 3: Integración con otras disciplinas
-- Lección 4: Reflexión sobre el impacto social y ético
+-[[ Lección 1 - Avances y tendencias en computación con canicas]]
+- Lección 2 - Retos y oportunidades
+- Lección 3 - Integración con otras disciplinas
+- Lección 4 - Reflexión sobre el impacto social y ético
 
-## Módulo 7: Proyecto Final
-- Lección: Presentación y evaluación de proyectos finales

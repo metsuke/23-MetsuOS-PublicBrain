@@ -8,7 +8,9 @@
 * [[Ant Attack (Quicksilva, 1983)]]. 
 * [[Assassin's Creed IV (Ubusift, 2013)]]
 * [[Asteroids (Atari, 1979-1980)]]
+* [[Beyond - Two Souls (Quantic Dream, 2013)]]
 * [[Bioshock (2K Games, 2007)]]
+* [[Borderlands (Gearbox Software, 2009)]]
 * [[Manic Miner (Mathew Smith, 1983)]]
 
 ## G-N

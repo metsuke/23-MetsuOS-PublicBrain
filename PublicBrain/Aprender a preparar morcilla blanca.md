@@ -9,7 +9,7 @@
 3. Ingredientes Necesarios
 4. Utensilios y Equipos
 5. Proceso de Preparación
-   - 5.1. Lavado y Preparación de Ingredientes
+   - 5.1. [[Lavado y Preparación de Ingredientes (Morcilla Blanca)]]
    - 5.2. Mezcla y Condimentación
    - 5.3. Embutido y Atado
    - 5.4. Cocción

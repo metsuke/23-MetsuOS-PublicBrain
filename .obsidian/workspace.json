@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Tipografía.md",
+                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Tipografía.md",
+                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Tipografía.md",
+                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Tipografía.md"
+                "file": "PublicBrain/Aprender sobre Computar con Canicas.md"
               }
             }
           },
@@ -164,11 +164,21 @@
   },
   "active": "23966355a8b949ed",
   "lastOpenFiles": [
+    "Lección 2 - Implementación de algoritmos con canicas.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "PublicBrain/Aprender sobre Hardware Libre.md",
+    "PublicBrain/PublicIndex/Index.md",
+    "PublicBrain/PublicIndex",
+    "PublicBrain/Aprender sobre computación mecánica.md",
+    "PublicBrain/Index.md",
+    "Index.md",
+    "Aprender sobre computación mecánica.md",
+    "PublicIndex/Index.md",
+    "PublicIndex",
+    "PublicBrain/Aprender sobre Tipografía.md",
     "Introducción a la Tipografía.md",
     "PublicBrain/Introducción a la Tipografía.md",
     "PublicBrain/Forward propagation.md",
-    "PublicBrain/Aprender sobre Tipografía.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "Forward propagation.md",
@@ -182,14 +192,6 @@
     "Astrosmash (Studios Galactic, 2022).md",
     "PublicBrain/Alan Wake (Remedy Entertainment, 2010).md",
     "PublicBrain/Asteroids (Atari, 1979-1980).md",
-    "PublicBrain/Microsoft Windows.md",
-    "PublicBrain/Assassin's Creed (Ubisoft Montreal, 2007).md",
-    "PublicBrain/Assassin's Creed IV (Ubisoft, 2013).md",
-    "PublicBrain/Bioshock (2K Games, 2007).md",
-    "PublicBrain/Xbox.md",
-    "PublicBrain/PlayStation.md",
-    "PublicBrain/Assassin's Creed IV - Black Flag (Ubisoft Montreal, 2013)..md",
-    "Assassin's Creed IV - Black Flag (Ubisoft Montreal, 2013)..md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
@@ -208,8 +210,6 @@
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",
     "PublicBrain/_resources/Alan Wake (Remedy Entertainment, 2010)",
-    "PublicBrain/_resources/Remedy Entertainment",
-    "PublicBrain/_resources/Aprender sobre Rammstein",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"
   ]

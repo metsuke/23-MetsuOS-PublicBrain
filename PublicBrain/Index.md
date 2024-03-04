@@ -146,6 +146,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Tecnología
 
+* [[Aprender sobre computación mecánica]]
 * [[Aprender sobre Computar con Canicas]]
 * Aprender sobre CSS
 	* [[Aprender sobre CSS-Grid]]

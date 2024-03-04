@@ -30,7 +30,7 @@
 ## Módulo 5: Proyectos Prácticos
 
 - [[Lección 1 - Diseño de sistemas con canicas]]
-- Lección 2 - Implementación de algoritmos con canicas
+- [[Lección 2 - Implementación de algoritmos con canicas]]
 - [[Lección 3 - Simulación de fenómenos físicos]]
 - [[Lección 4 - Exploración de la computación cuántica]]
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
+                "file": "Conversación en hoteles y aeropuertos (A1-CA).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
+                "file": "Conversación en hoteles y aeropuertos (A1-CA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Computar con Canicas.md",
+                "file": "Conversación en hoteles y aeropuertos (A1-CA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Computar con Canicas.md"
+                "file": "Conversación en hoteles y aeropuertos (A1-CA).md"
               }
             }
           },
@@ -164,8 +164,11 @@
   },
   "active": "23966355a8b949ed",
   "lastOpenFiles": [
-    "Lección 3 - Integración con otras disciplinas.md",
+    "PublicBrain/A1-CA.md",
+    "Conversación en hoteles y aeropuertos (A1-CA).md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "PublicBrain/Lección 3 - Integración con otras disciplinas.md",
+    "Lección 3 - Integración con otras disciplinas.md",
     "Lección 4 - Reflexión sobre el impacto social y ético.md",
     "PublicBrain/Lección 4 - Reflexión sobre el impacto social y ético.md",
     "Lección 2 - Retos y oportunidades.md",
@@ -189,9 +192,6 @@
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "Forward propagation.md",
     "PublicBrain/Historia y evolución de las redes neuronales.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Videojuegos a lo largo de la Historia.md",
-    "Halo 3 (Bungie Studios, 2007).md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

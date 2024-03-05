@@ -37,6 +37,6 @@
 ## Módulo 6: Perspectivas Futuras
 -[[ Lección 1 - Avances y tendencias en computación con canicas]]
 - [[Lección 2 - Retos y oportunidades]]
-- Lección 3 - Integración con otras disciplinas
+- [[Lección 3 - Integración con otras disciplinas]]
 - [[Lección 4 - Reflexión sobre el impacto social y ético]]
 

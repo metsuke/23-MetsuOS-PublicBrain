@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conversación en hoteles y aeropuertos (A1-CA).md",
+                "file": "PublicBrain/Aprender Idioma Esperanto.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conversación en hoteles y aeropuertos (A1-CA).md",
+                "file": "PublicBrain/Aprender Idioma Esperanto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conversación en hoteles y aeropuertos (A1-CA).md",
+                "file": "PublicBrain/Aprender Idioma Esperanto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conversación en hoteles y aeropuertos (A1-CA).md"
+                "file": "PublicBrain/Aprender Idioma Esperanto.md"
               }
             }
           },
@@ -164,8 +164,22 @@
   },
   "active": "23966355a8b949ed",
   "lastOpenFiles": [
+    "C2-EO.md",
+    "PublicBrain/A1-EO.md",
+    "PublicBrain/A2-EO.md",
+    "B1-EO.md",
+    "B2-EO.md",
+    "C1-EO.md",
+    "PublicBrain/Aprender Idioma Esperanto.md",
+    "A2-EO.md",
+    "PublicBrain/Niveles Oficiales EO.md",
+    "A1-EO.md",
+    "Niveles Oficiales EO.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "Conversación en hoteles y aeropuertos (A1-CA).md",
+    "PublicBrain/Conversación en hoteles y aeropuertos (A1-CA).md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "PublicBrain/Lección 3 - Integración con otras disciplinas.md",
     "Lección 3 - Integración con otras disciplinas.md",
@@ -176,22 +190,8 @@
     "PublicBrain/Lección 2 - Implementación de algoritmos con canicas.md",
     "Lección 2 - Implementación de algoritmos con canicas.md",
     "PublicBrain/Aprender sobre Hardware Libre.md",
-    "PublicBrain/PublicIndex/Index.md",
     "PublicBrain/PublicIndex",
-    "PublicBrain/Aprender sobre computación mecánica.md",
-    "PublicBrain/Index.md",
-    "Index.md",
-    "Aprender sobre computación mecánica.md",
-    "PublicIndex/Index.md",
     "PublicIndex",
-    "PublicBrain/Aprender sobre Tipografía.md",
-    "Introducción a la Tipografía.md",
-    "PublicBrain/Introducción a la Tipografía.md",
-    "PublicBrain/Forward propagation.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "Forward propagation.md",
-    "PublicBrain/Historia y evolución de las redes neuronales.md",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",

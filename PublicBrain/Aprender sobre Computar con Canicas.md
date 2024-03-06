@@ -2,6 +2,8 @@
 
 [[PublicBrain/Index]]
 
+NdA: Esta primera iteración no me convence mucho, no parece que haya sido capaz de guiar a ChatGPT para "imaginar" todo esto. TODO: Usar esta oportunidad para diseñar un proceso "de la idea general al enfoque particular" para explicar a IA en el futuro lo que realmente pretendo de un modo sencillo y predecible, sin perdere el control del modelo IA en ningun momento.
+
 ## Módulo 1: Introducción a la Computación con Canicas
 - [[Lección 1 - Qué es la Computación con Canicas]]
 - [[Lección 2 - Historia y antecedentes]]

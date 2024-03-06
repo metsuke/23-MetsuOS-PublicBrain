@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre computación mecánica.md",
-                "mode": "source",
-                "source": false
+                "file": "PublicBrain/Index.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre computación mecánica.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre computación mecánica.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre computación mecánica.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,9 +164,10 @@
   },
   "active": "6e1fbf15a1d0fb8e",
   "lastOpenFiles": [
-    "PublicBrain/Index.md",
     "Index.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "PublicBrain/Aprender sobre computación mecánica.md",
     "PublicBrain/Videojuegos a lo largo de la Historia.md",
     "Space Battle.md",
     "PublicBrain/Space Battle.md",
@@ -189,7 +190,6 @@
     "PublicBrain/TOPIK N1 KO.md",
     "PublicBrain/Niveles Oficiales KO.md",
     "Aprender Idioma Danés.md",
-    "PublicBrain/Aprender Idioma Coreano.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

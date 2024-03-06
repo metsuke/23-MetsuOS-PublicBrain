@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Danés.md",
+                "file": "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Danés.md",
+                "file": "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Danés.md",
+                "file": "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Danés.md"
+                "file": "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md"
               }
             }
           },
@@ -164,10 +164,14 @@
   },
   "active": "6e1fbf15a1d0fb8e",
   "lastOpenFiles": [
-    "PublicBrain/Aprendere idioma Danés.md",
-    "PublicBrain/Aprender Idioma Danés.md",
+    "NES (Famicom).md",
+    "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Index.md",
+    "Index.md",
+    "PublicBrain/Aprender Idioma Danés.md",
     "PublicBrain/Danés.md",
+    "PublicBrain/Aprendere idioma Danés.md",
     "Aprendere idioma Danés.md",
     "PublicBrain/TOPIK N6.md",
     "PublicBrain/TOPIK N6 KO.md",
@@ -186,10 +190,6 @@
     "TOPIK N3 KO.md",
     "TOPIK N4 KO.md",
     "TOPIK N5 KO.md",
-    "TOPIK N6.md",
-    "Niveles Oficiales KO.md",
-    "Index.md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

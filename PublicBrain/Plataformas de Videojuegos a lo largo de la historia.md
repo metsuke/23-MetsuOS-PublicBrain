@@ -39,29 +39,29 @@ Esta es una lista en construcción de plataformas donde se han ejecutado juegos 
 
 ## Consolas (WIP)
 
-|    Plataforma    | Año Lanzamiento | Número de Bits |    Empresa     |
-|:----------------:|:--------------:|:-------------:|:--------------:|
-|  Magnavox Odyssey  |      1972      |       8       |   Magnavox    |
-|     [[Atari 2600]]    |      1977      |       8       |     [[Atari, Inc.]]      |
-|    [[Intellivision]]   |      1979      |       16      |  [[Mattel Electronics]] |
-|    ColecoVision   |      1982      |       8       |    Coleco     |
-|     NES (Famicom)    |      1983      |       8       |   Nintendo   |
-|     Sega Master System     |      1985      |       8       |      Sega      |
-|    Super NES (Super Famicom)   |      1990      |       16      |   Nintendo    |
-|   Sega Genesis (Mega Drive)   |      1988      |       16      |      Sega      |
-|   PlayStation     |      1994      |       32      |    Sony    |
-|  Nintendo 64    |      1996      |       64      |   Nintendo    |
-|    Sega Saturn   |      1994      |       32      |      Sega      |
-|    Dreamcast   |      1998      |       128      |      Sega      |
-|    PlayStation 2    |      2000      |       128      |    Sony    |
-|    Xbox    |      2001      |       32      |   Microsoft    |
-|    GameCube   |      2001      |       128      |   Nintendo   |
-|    PlayStation 3    |      2006      |       256      |    Sony    |
-|    Xbox 360    |      2005      |       256      |   Microsoft   |
-|    Wii    |      2006      |       512      |   Nintendo   |
-|    PlayStation 4    |      2013      |       64      |    Sony    |
-|    Xbox One    |      2013      |       64      |   Microsoft   |
-|    Nintendo Switch    |      2017      |       32      |   Nintendo    |
+|        Plataforma         | Año Lanzamiento | Número de Bits |        Empresa         |
+| :-----------------------: | :-------------: | :------------: | :--------------------: |
+|     Magnavox Odyssey      |      1972       |       8        |        Magnavox        |
+|      [[Atari 2600]]       |      1977       |       8        |    [[Atari, Inc.]]     |
+|     [[Intellivision]]     |      1979       |       16       | [[Mattel Electronics]] |
+|       ColecoVision        |      1982       |       8        |         Coleco         |
+|     [[NES (Famicom)]]     |      1983       |       8        |        Nintendo        |
+|    Sega Master System     |      1985       |       8        |          Sega          |
+| Super NES (Super Famicom) |      1990       |       16       |        Nintendo        |
+| Sega Genesis (Mega Drive) |      1988       |       16       |          Sega          |
+|        PlayStation        |      1994       |       32       |          Sony          |
+|        Nintendo 64        |      1996       |       64       |        Nintendo        |
+|        Sega Saturn        |      1994       |       32       |          Sega          |
+|         Dreamcast         |      1998       |      128       |          Sega          |
+|       PlayStation 2       |      2000       |      128       |          Sony          |
+|           Xbox            |      2001       |       32       |       Microsoft        |
+|         GameCube          |      2001       |      128       |        Nintendo        |
+|       PlayStation 3       |      2006       |      256       |          Sony          |
+|         Xbox 360          |      2005       |      256       |       Microsoft        |
+|            Wii            |      2006       |      512       |        Nintendo        |
+|       PlayStation 4       |      2013       |       64       |          Sony          |
+|         Xbox One          |      2013       |       64       |       Microsoft        |
+|      Nintendo Switch      |      2017       |       32       |        Nintendo        |
 
 ## Microordenadores  (WIP)
 

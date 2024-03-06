@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md"
+                "file": "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md"
               }
             }
           },
@@ -158,15 +158,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "publish:Publish changes...": false
     }
   },
   "active": "6e1fbf15a1d0fb8e",
   "lastOpenFiles": [
+    "Principios del diseño centrado en el usuario.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Pauta 4 - Compatible.md",
     "Pauta 4 - Compatible.md",
     "PublicBrain/WCAG 2.1.md",
-    "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Astrosmash (Studios Galactic, 2022).md",
     "PublicBrain/Videojuegos a lo largo de la Historia.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
@@ -187,9 +189,6 @@
     "A2-EO.md",
     "PublicBrain/Niveles Oficiales EO.md",
     "A1-EO.md",
-    "Niveles Oficiales EO.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

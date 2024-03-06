@@ -17,7 +17,7 @@
 - Ejemplos de barreras visuales, auditivas, motoras y cognitivas
 
 ## Diseño Centrado en el Usuario
-- Principios del diseño centrado en el usuario
+- [[Principios del diseño centrado en el usuario]]
 - Enfoque inclusivo en el diseño de cursos en línea
 - [[Técnicas para mejorar la experiencia del usuario con discapacidad]]
 

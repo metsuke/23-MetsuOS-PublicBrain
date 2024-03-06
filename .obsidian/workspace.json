@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
+                "file": "Fundamentos del diseño inclusivo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
+                "file": "Fundamentos del diseño inclusivo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
+                "file": "Fundamentos del diseño inclusivo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md"
+                "file": "Fundamentos del diseño inclusivo.md"
               }
             }
           },
@@ -158,11 +158,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "6e1fbf15a1d0fb8e",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "Fundamentos del diseño inclusivo.md",
+    "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
     "Principios del diseño centrado en el usuario.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "PublicBrain/WCAG 2.0.md",
@@ -186,9 +190,6 @@
     "B1-EO.md",
     "B2-EO.md",
     "C1-EO.md",
-    "A2-EO.md",
-    "PublicBrain/Niveles Oficiales EO.md",
-    "A1-EO.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

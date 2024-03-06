@@ -15,7 +15,7 @@
    - Diversidad funcional y necesidades de diferentes usuarios.
 
 ## III. Diseño Inclusivo en Videojuegos
-   - Fundamentos del diseño inclusivo.
+   - [[Fundamentos del diseño inclusivo]].
    - Consideraciones para el diseño de personajes.
    - Interfaz de usuario accesible.
 

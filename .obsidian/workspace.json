@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Space Battle.md",
+                "file": "PublicBrain/Aprender sobre computación mecánica.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Space Battle.md",
+                "file": "PublicBrain/Aprender sobre computación mecánica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Space Battle.md",
+                "file": "PublicBrain/Aprender sobre computación mecánica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Space Battle.md"
+                "file": "PublicBrain/Aprender sobre computación mecánica.md"
               }
             }
           },
@@ -164,15 +164,17 @@
   },
   "active": "6e1fbf15a1d0fb8e",
   "lastOpenFiles": [
-    "PublicBrain/NES (Famicom).md",
-    "Space Battle.md",
+    "PublicBrain/Index.md",
+    "Index.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
     "PublicBrain/Videojuegos a lo largo de la Historia.md",
+    "Space Battle.md",
+    "PublicBrain/Space Battle.md",
+    "PublicBrain/NES (Famicom).md",
     "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
     "NES (Famicom).md",
-    "PublicBrain/Index.md",
-    "Index.md",
     "PublicBrain/Aprender Idioma Danés.md",
     "PublicBrain/Danés.md",
     "PublicBrain/Aprendere idioma Danés.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Niveles Oficiales KO.md",
     "Aprender Idioma Danés.md",
     "PublicBrain/Aprender Idioma Coreano.md",
-    "TOPIK N6 KO.md",
-    "TOPIK N1 KO.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

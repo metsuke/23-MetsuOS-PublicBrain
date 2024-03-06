@@ -19,7 +19,7 @@
 
 ## Tema 4: Cambio de Mirada
 - Superando estereotipos
-- Reconociendo el potencial en la diversidad
+- [[Reconociendo el potencial en la diversidad]]
 
 ## Tema 5: Consecuencias de la Desatención
 - Impacto en el rendimiento académico y emocional

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos del diseño inclusivo.md",
+                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos del diseño inclusivo.md",
+                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos del diseño inclusivo.md",
+                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos del diseño inclusivo.md"
+                "file": "PublicBrain/Aprender sobre Altas Capacidades.md"
               }
             }
           },
@@ -164,7 +164,12 @@
   },
   "active": "6e1fbf15a1d0fb8e",
   "lastOpenFiles": [
+    "Reconociendo el potencial en la diversidad.md",
+    "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "PublicBrain/Principios del diseño centrado en el usuario.md",
+    "PublicBrain/Fundamentos del diseño inclusivo.md",
     "Fundamentos del diseño inclusivo.md",
     "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
     "Principios del diseño centrado en el usuario.md",
@@ -176,7 +181,6 @@
     "PublicBrain/Astrosmash (Studios Galactic, 2022).md",
     "PublicBrain/Videojuegos a lo largo de la Historia.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Index.md",
     "Index.md",
     "PublicBrain/Assassin's Creed (Ubisoft Montreal, 2007).md",
     "PublicBrain/Aprender Idioma Esperanto.md",
@@ -186,10 +190,6 @@
     "PublicBrain/B1-EO.md",
     "C2-EO.md",
     "PublicBrain/A1-EO.md",
-    "PublicBrain/A2-EO.md",
-    "B1-EO.md",
-    "B2-EO.md",
-    "C1-EO.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

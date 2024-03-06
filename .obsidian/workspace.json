@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
+                "file": "Space Battle.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
+                "file": "Space Battle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
+                "file": "Space Battle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md"
+                "file": "Space Battle.md"
               }
             }
           },
@@ -164,9 +164,13 @@
   },
   "active": "6e1fbf15a1d0fb8e",
   "lastOpenFiles": [
-    "NES (Famicom).md",
-    "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
+    "PublicBrain/NES (Famicom).md",
+    "Space Battle.md",
+    "PublicBrain/Videojuegos a lo largo de la Historia.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
+    "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
+    "NES (Famicom).md",
     "PublicBrain/Index.md",
     "Index.md",
     "PublicBrain/Aprender Idioma Danés.md",
@@ -186,10 +190,6 @@
     "PublicBrain/Aprender Idioma Coreano.md",
     "TOPIK N6 KO.md",
     "TOPIK N1 KO.md",
-    "TOPIK N2 KO.md",
-    "TOPIK N3 KO.md",
-    "TOPIK N4 KO.md",
-    "TOPIK N5 KO.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

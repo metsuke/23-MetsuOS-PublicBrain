@@ -5,10 +5,10 @@
 
 | Característica              | Detalles                                                             |
 | --------------------------- | -------------------------------------------------------------------- |
-| **Desarrollador**           | [[Ubisoft Montreal]]                                                 |
-| **Distribuidor**            | [[Ubisoft]]                                                          |
-| **Plataformas**             | [[PlayStation]], [[Xbox]], [[Microsoft Windows]], [[macOS]], [[iOS]] |
-| **Género**                  | Acción-aventura, sigilo                                              |
+| **[[Desarrollador]]**       | [[Ubisoft Montreal]]                                                 |
+| **[[Distribuidor]]**        | [[Ubisoft]]                                                          |
+| **[[Plataformas]]**         | [[PlayStation]], [[Xbox]], [[Microsoft Windows]], [[macOS]], [[iOS]] |
+| **[[Género]]**              | [[Acción-aventura]], [[sigilo]]                                      |
 | **Modos de juego**          | Un jugador                                                           |
 | **Motor gráfico**           | Anvil                                                                |
 | **Fecha de lanzamiento**    | Noviembre de 2007                                                    |

@@ -4,9 +4,9 @@
 
 | Característica          | Descripción                                           |
 | ----------------------- | ----------------------------------------------------- |
-| Plataforma              | Consola                                               |
-| Desarrollador           | Studios Galactic                                      |
-| Publicador              | Universe Games                                        |
+| [[Plataforma]]          | [[Consola]]                                           |
+| [[Desarrollador]]       | [[Studios Galactic]]                                  |
+| [[Publicador]]          | [[Universe Games]]                                    |
 | Género                  | Arcade, Shooter                                       |
 | Modos de juego          | Un jugador, multijugador                              |
 | Motor de juego          | AstroEngine                                           |

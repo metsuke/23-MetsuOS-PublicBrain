@@ -27,6 +27,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * AR [[Aprender Idioma Árabe]]
 * CA [[Aprender Idioma Catalán]]
 * CS [[Aprender Idioma Checo]]
+* DA [[Aprender Idioma Danés]]
 * EL [[Aprender idioma Griego]]
 * EN [[Aprender Idioma Inglés]]
 * EO [[Aprender Idioma Esperanto]]

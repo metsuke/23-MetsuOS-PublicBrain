@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
-                "mode": "preview",
+                "file": "PublicBrain/Aprender Idioma Turco.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,11 +86,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender Idioma Turco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender Idioma Turco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender Idioma Turco.md"
               }
             }
           },
@@ -163,11 +163,19 @@
   },
   "active": "069c0b3c31acd836",
   "lastOpenFiles": [
+    "B1-TR.md",
+    "PublicBrain/Aprender Idioma Turco.md",
+    "A2-TR.md",
+    "A1-TR.md",
+    "B2-TR.md",
+    "C1-TR.md",
+    "C2-TR.md",
+    "Niveles Oficiales TR.md",
+    "PublicBrain/Index.md",
     "Index.md",
     "Dar direcciones (A1-AR).md",
     "PublicBrain/A1-AR.md",
     "PublicBrain/Aprender Idioma Árabe.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/Evaluación final del nivel A1 de catalán (A1-CA).md",
     "PublicBrain/A1-CA.md",
@@ -181,14 +189,6 @@
     "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
-    "NES (Famicom).md",
-    "PublicBrain/Aprender Idioma Danés.md",
-    "PublicBrain/Danés.md",
-    "PublicBrain/Aprendere idioma Danés.md",
-    "Aprendere idioma Danés.md",
-    "PublicBrain/TOPIK N6.md",
-    "PublicBrain/TOPIK N6 KO.md",
-    "Danés.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

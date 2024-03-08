@@ -1,4 +1,3 @@
-
 # A1-CA
 
 [[Aprender Idioma Catalán]]
@@ -45,7 +44,7 @@
 6.1. Pruebas de vocabulario y gramática.
 6.2. Ejercicios de comprensión de lectura y escucha.
 6.3. Diálogos y actividades de expresión oral.
-6.4. Evaluación final del nivel A1 de catalán.
+6.4. [[Evaluación final del nivel A1 de catalán (A1-CA)]].
 
 
 

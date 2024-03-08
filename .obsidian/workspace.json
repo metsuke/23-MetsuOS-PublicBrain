@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "42695bd58afaf23f",
+        "id": "cdb862bbef422065",
         "type": "tabs",
         "children": [
           {
-            "id": "6e1fbf15a1d0fb8e",
+            "id": "069c0b3c31acd836",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "PublicBrain/Index.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,14 +161,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6e1fbf15a1d0fb8e",
+  "active": "069c0b3c31acd836",
   "lastOpenFiles": [
-    "PublicBrain/Evaluación final del nivel A1 de catalán (A1-CA).md",
+    "Index.md",
+    "Dar direcciones (A1-AR).md",
+    "PublicBrain/A1-AR.md",
+    "PublicBrain/Aprender Idioma Árabe.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/Evaluación final del nivel A1 de catalán (A1-CA).md",
     "PublicBrain/A1-CA.md",
     "Evaluación final del nivel A1 de catalán (A1-CA).md",
-    "Index.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "PublicBrain/Aprender sobre computación mecánica.md",
     "PublicBrain/Videojuegos a lo largo de la Historia.md",
@@ -187,9 +189,6 @@
     "PublicBrain/TOPIK N6.md",
     "PublicBrain/TOPIK N6 KO.md",
     "Danés.md",
-    "PublicBrain/TOPIK N5 KO.md",
-    "PublicBrain/TOPIK N4 KO.md",
-    "PublicBrain/TOPIK N3 KO.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

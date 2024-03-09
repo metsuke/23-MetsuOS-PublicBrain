@@ -27,7 +27,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
     - [[Pauta 2 - Control del Teclado]]
         - 2.1 [[Accesibilidad del teclado]]
         - 2.2 [[Sin trampas de teclado]]
-        - 2.3 Teclado (sin excepciones)
+        - 2.3 [[Teclado (sin excepciones)]]
     - **Pauta 3: Contenido que parpadea, se desplaza o se mueve automáticamente**
         - 3.1 [[Interrupción del contenido que parpadea]]
         - 3.2 [[Tres destellos o más]]

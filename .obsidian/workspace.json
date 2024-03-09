@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Turco.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Turco.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Turco.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Turco.md"
+                "file": "PublicBrain/WCAG 2.0.md"
               }
             }
           },
@@ -163,8 +163,20 @@
   },
   "active": "069c0b3c31acd836",
   "lastOpenFiles": [
-    "B1-TR.md",
+    "PublicBrain/Teclado (sin excepciones).md",
+    "Teclado (sin excepciones).md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/WCAG 2.1.md",
     "PublicBrain/Aprender Idioma Turco.md",
+    "PublicBrain/Niveles Oficiales TR.md",
+    "PublicBrain/Dar direcciones (A1-AR).md",
+    "PublicBrain/C2-TR.md",
+    "PublicBrain/C1-TR.md",
+    "PublicBrain/B2-TR.md",
+    "PublicBrain/B1-TR.md",
+    "PublicBrain/A2-TR.md",
+    "PublicBrain/A1-TR.md",
+    "B1-TR.md",
     "A2-TR.md",
     "A1-TR.md",
     "B2-TR.md",
@@ -177,18 +189,6 @@
     "PublicBrain/A1-AR.md",
     "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/Evaluación final del nivel A1 de catalán (A1-CA).md",
-    "PublicBrain/A1-CA.md",
-    "Evaluación final del nivel A1 de catalán (A1-CA).md",
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
-    "PublicBrain/Aprender sobre computación mecánica.md",
-    "PublicBrain/Videojuegos a lo largo de la Historia.md",
-    "Space Battle.md",
-    "PublicBrain/Space Battle.md",
-    "PublicBrain/NES (Famicom).md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/Plataformas de Videojuegos a lo largo de la historia.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

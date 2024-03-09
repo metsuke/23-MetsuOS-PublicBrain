@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "Enfoque inclusivo en el diseño de cursos en línea.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "Enfoque inclusivo en el diseño de cursos en línea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "Enfoque inclusivo en el diseño de cursos en línea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md"
+                "file": "Enfoque inclusivo en el diseño de cursos en línea.md"
               }
             }
           },
@@ -163,9 +163,11 @@
   },
   "active": "069c0b3c31acd836",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "Enfoque inclusivo en el diseño de cursos en línea.md",
+    "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Teclado (sin excepciones).md",
     "Teclado (sin excepciones).md",
-    "PublicBrain/WCAG 2.0.md",
     "PublicBrain/WCAG 2.1.md",
     "PublicBrain/Aprender Idioma Turco.md",
     "PublicBrain/Niveles Oficiales TR.md",
@@ -187,8 +189,6 @@
     "Index.md",
     "Dar direcciones (A1-AR).md",
     "PublicBrain/A1-AR.md",
-    "PublicBrain/Aprender Idioma Árabe.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

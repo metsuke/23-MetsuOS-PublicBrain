@@ -18,7 +18,7 @@
 
 ## Diseño Centrado en el Usuario
 - [[Principios del diseño centrado en el usuario]]
-- Enfoque inclusivo en el diseño de cursos en línea
+- [[Enfoque inclusivo en el diseño de cursos en línea]]
 - [[Técnicas para mejorar la experiencia del usuario con discapacidad]]
 
 ## Herramientas y Tecnologías Accesibles

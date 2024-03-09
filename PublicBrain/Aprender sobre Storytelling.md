@@ -10,7 +10,7 @@
 * Elementos Fundamentales de una Buena Historia
 	* [[Personajes en Storytelling]]
 	* [[Trama en Storytelling]]
-	* Escenario
+	* [[Escenario]]
 	* Conflicto y resolución
 * [[El Poder de las Historias]]
 	* Impacto emocional y psicológico de las historias

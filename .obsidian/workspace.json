@@ -11,8 +11,12 @@
             "id": "e6eca285405d866b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Aprender sobre Storytelling.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adve",
+                "query": "story",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PublicBrain/Aprender sobre Storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PublicBrain/Aprender sobre Storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PublicBrain/Aprender sobre Storytelling.md"
+              }
             }
           },
           {
@@ -155,6 +163,9 @@
   },
   "active": "e6eca285405d866b",
   "lastOpenFiles": [
+    "Escenario.md",
+    "PublicBrain/Aprender sobre Storytelling.md",
+    "PublicBrain/¿Qué es el Storytelling?.md",
     "Arquitectura de las redes feedforward.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "Index.md",
@@ -178,9 +189,6 @@
     "PublicBrain/A2-TR.md",
     "PublicBrain/A1-TR.md",
     "B1-TR.md",
-    "A2-TR.md",
-    "A1-TR.md",
-    "B2-TR.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

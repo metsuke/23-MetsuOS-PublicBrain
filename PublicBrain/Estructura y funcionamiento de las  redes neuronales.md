@@ -17,7 +17,7 @@
 
 ## Redes Neuronales Feedforward
 
-* Arquitectura de las redes feedforward
+* [[Arquitectura de las redes feedforward]]
 * [[Capas ocultas y capa de salida]]
 * [[Forward propagation]]
 * [[Funciones de activación comunes (Sigmoid, ReLU, Tanh)]]

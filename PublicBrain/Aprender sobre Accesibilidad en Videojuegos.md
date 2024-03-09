@@ -1,4 +1,4 @@
-# Aprender sobre Accesibilidad en Videojuegos
+q# Aprender sobre Accesibilidad en Videojuegos
 
 [[PublicBrain/Index#Plena Inclusión]]
 
@@ -20,7 +20,7 @@
    - Interfaz de usuario accesible.
 
 ## IV. Accesibilidad Visual
-   - Ajustes de contraste y color.
+   - [[Ajustes de contraste y color]]
    - Tamaño de fuente y legibilidad.
    - Ayudas visuales y marcadores.
 

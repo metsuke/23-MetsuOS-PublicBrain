@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enfoque inclusivo en el diseño de cursos en línea.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enfoque inclusivo en el diseño de cursos en línea.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enfoque inclusivo en el diseño de cursos en línea.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enfoque inclusivo en el diseño de cursos en línea.md"
+                "file": "Index.md"
               }
             }
           },
@@ -163,8 +163,11 @@
   },
   "active": "069c0b3c31acd836",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "Ajustes de contraste y color.md",
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "PublicBrain/Enfoque inclusivo en el diseño de cursos en línea.md",
     "Enfoque inclusivo en el diseño de cursos en línea.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Teclado (sin excepciones).md",
     "Teclado (sin excepciones).md",
@@ -186,9 +189,6 @@
     "C2-TR.md",
     "Niveles Oficiales TR.md",
     "PublicBrain/Index.md",
-    "Index.md",
-    "Dar direcciones (A1-AR).md",
-    "PublicBrain/A1-AR.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

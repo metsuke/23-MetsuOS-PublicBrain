@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Hardware Libre - Memoria Volatil.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Hardware Libre - Memoria Volatil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Hardware Libre - Memoria Volatil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Hardware Libre - Memoria Volatil.md"
               }
             }
           },
@@ -163,8 +163,13 @@
   },
   "active": "e6eca285405d866b",
   "lastOpenFiles": [
-    "Aprender sobre OwnCloud.md",
+    "PublicBrain/Aprender sobre ArduRAM.md",
+    "PublicBrain/Hardware Libre - Memoria Volatil.md",
+    "PublicBrain/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
+    "PublicBrain/Aprender sobre OwnCloud.md",
+    "Aprender sobre ArduRAM.md",
     "PublicBrain/Index.md",
+    "Aprender sobre OwnCloud.md",
     "PublicBrain/Aprender sobre Computación Mecánica.md",
     "Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
     "PublicBrain/Aprender Idiomas.md",
@@ -184,11 +189,6 @@
     "Aprender sobre CPS (Complex Problem Solving).md",
     "PublicBrain/Arquitectura de Incentivos.md",
     "PublicBrain/Arquitectura Dinámica de Incentivos.md",
-    "PublicBrain/Aprender sobre Storytelling.md",
-    "PublicBrain/Escenario.md",
-    "PublicBrain/Arquitectura de las redes feedforward.md",
-    "Escenario.md",
-    "PublicBrain/¿Qué es el Storytelling?.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

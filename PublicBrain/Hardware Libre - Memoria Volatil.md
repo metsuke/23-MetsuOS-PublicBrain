@@ -18,7 +18,7 @@ Es importante tener en cuenta que, aunque las memorias volátiles son esenciales
 
 En el ámbito del hardware libre, hay varios proyectos interesantes relacionados con memorias volátiles. Estos proyectos suelen tener como objetivo explorar nuevas tecnologías, reducir costos o mejorar la accesibilidad al conocimiento y la tecnología. Aquí hay algunos ejemplos:
 
-1. **ArduRAM**: Este proyecto se centra en la creación de una memoria RAM basada en Arduino, una plataforma de hardware libre muy popular entre los entusiastas y los desarrolladores. ArduRAM utiliza componentes accesibles y económicos para construir una memoria RAM que puede ser utilizada en proyectos de electrónica, robótica y otros campos.
+1. **[[Aprender sobre ArduRAM|ArduRAM]]**: Este proyecto se centra en la creación de una memoria RAM basada en Arduino, una plataforma de hardware libre muy popular entre los entusiastas y los desarrolladores. ArduRAM utiliza componentes accesibles y económicos para construir una memoria RAM que puede ser utilizada en proyectos de electrónica, robótica y otros campos.
 
 2. **OpenRAM**: OpenRAM es un proyecto de investigación que tiene como objetivo desarrollar una implementación de memoria RAM completamente libre y abierta. Este proyecto se basa en herramientas de diseño de circuitos integrados de código abierto y se enfoca en crear una memoria RAM de alto rendimiento que pueda ser utilizada en aplicaciones de computación avanzada.
 

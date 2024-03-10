@@ -7,7 +7,7 @@
 ## Módulo 1: Introducción al Ajedrez
 - [[Historia y origen del ajedrez]]
 - [[Configuración del tablero y piezas en ajedrez]]
-- **Lección 3:** Reglas básicas del juego
+- **Lección 3** Reglas básicas del juego en ajedrez
 
 ## Módulo 2: Movimientos y Capturas
 - **Lección 4:** Movimientos de las piezas
@@ -16,7 +16,7 @@
 5
 ## Módulo 3: Estrategia Inicial
 - **Lección 7:** Apertura: principios básicos
-- **Lección 8:** Desarrollo de las piezas
+- **Lección 8:** [[Desarrollo de las piezas en ajedrez]]
 - **Lección 9:** Control del centro del tablero
 
 ## Módulo 4: Tácticas y Jugadas Especiales

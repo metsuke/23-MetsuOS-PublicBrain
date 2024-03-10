@@ -15,11 +15,7 @@ tags: []
 # Index
 
 
-[[Index]] | [[Promting Database]]
-
-#Quick Links
-
-[ChatGPT](https://chat.openai.com/) | [Whatsapp](https://web.whatsapp.com/)
+[[Index]] | [[Promting Database]] | [ChatGPT](https://chat.openai.com/) | [Whatsapp](https://web.whatsapp.com/)
 
 ## Desarrollo Estructura Habilidades-Perfiles-Tareas
 
@@ -29,11 +25,9 @@ tags: []
 
 * [[Aprender Idiomas]]
 * [[Aorender sobre sistemas de escritura]]
-* [[Aprender sobre cultura internacional a traves de los idiomas]]
+* [[Aprender sobre cultura internacional a través de los idiomas]]
 
 ## Aprender con ...
-
-Procesos algo caóticos de aprendizaje
 
 * [[Aprender con Antonio Ruiz García (ElGris)]]
 * [[Aprender con Coronel Baños]]
@@ -43,7 +37,7 @@ Procesos algo caóticos de aprendizaje
 
 ## Aprender sobre ...
 
-Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elaborados.
+Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elaborados. En primera fase se basan en uso de IA, posteriormente busco desarrollar un método de validación y comprobación tanto de contenido como de accesibilidad... a poc a poc ;)
 
 ### Ciencia General
 

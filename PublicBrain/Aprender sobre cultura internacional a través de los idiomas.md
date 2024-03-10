@@ -1,4 +1,4 @@
-# Aprender sobre cultura internacional a traves de los idiomas
+# Aprender sobre cultura internacional a través de los idiomas
 
 [[PublicBrain/index]]
 

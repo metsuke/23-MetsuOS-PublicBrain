@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -163,15 +163,19 @@
   },
   "active": "e6eca285405d866b",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre cultura internacional a traves de los idiomas.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Aorender sobre sistemas de escritura.md",
+    "PublicBrain/Aprender a jugar Ajedrez.md",
+    "PublicBrain/Desarrollo de las piezas en ajedrez.md",
+    "Desarrollo de las piezas en ajedrez.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Proto Cuneiforme.md",
+    "PublicBrain/Aorender sobre sistemas de escritura.md",
+    "PublicBrain/Aprender sobre cultura internacional a través de los idiomas.md",
+    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
+    "PublicBrain/Aprender Idiomas.md",
     "Aprender sobre cultura internacional a traves de los idiomas.md",
     "Aorender sobre sistemas de escritura.md",
     "PublicBrain/PublicIndex/Index.md",
     "Aprender Idiomas.md",
-    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
     "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
     "PublicBrain/Aprender con Javier G. Recuenco.md",
     "Aprender sobre CPS (Complex Problem Solving).md",
@@ -185,10 +189,6 @@
     "Arquitectura de las redes feedforward.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "Index.md",
-    "PublicBrain/Ajustes de contraste y color.md",
-    "Ajustes de contraste y color.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "PublicBrain/Enfoque inclusivo en el diseño de cursos en línea.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

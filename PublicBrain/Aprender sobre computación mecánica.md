@@ -1,4 +1,4 @@
-# Aprender sobre computación mecánica
+# Aprender sobre Computación Mecánica
 
 [[PublicBrain/Index]]
 

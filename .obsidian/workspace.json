@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Storytelling.md",
+                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Storytelling.md",
+                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Storytelling.md",
+                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Storytelling.md"
+                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md"
               }
             }
           },
@@ -163,8 +163,24 @@
   },
   "active": "e6eca285405d866b",
   "lastOpenFiles": [
-    "Escenario.md",
+    "PublicBrain/Aprender sobre cultura internacional a traves de los idiomas.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aorender sobre sistemas de escritura.md",
+    "PublicBrain/Index.md",
+    "Aprender sobre cultura internacional a traves de los idiomas.md",
+    "Aorender sobre sistemas de escritura.md",
+    "PublicBrain/PublicIndex/Index.md",
+    "Aprender Idiomas.md",
+    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
+    "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
+    "PublicBrain/Aprender con Javier G. Recuenco.md",
+    "Aprender sobre CPS (Complex Problem Solving).md",
+    "PublicBrain/Arquitectura de Incentivos.md",
+    "PublicBrain/Arquitectura Dinámica de Incentivos.md",
     "PublicBrain/Aprender sobre Storytelling.md",
+    "PublicBrain/Escenario.md",
+    "PublicBrain/Arquitectura de las redes feedforward.md",
+    "Escenario.md",
     "PublicBrain/¿Qué es el Storytelling?.md",
     "Arquitectura de las redes feedforward.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
@@ -173,22 +189,6 @@
     "Ajustes de contraste y color.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "PublicBrain/Enfoque inclusivo en el diseño de cursos en línea.md",
-    "Enfoque inclusivo en el diseño de cursos en línea.md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Teclado (sin excepciones).md",
-    "Teclado (sin excepciones).md",
-    "PublicBrain/WCAG 2.1.md",
-    "PublicBrain/Aprender Idioma Turco.md",
-    "PublicBrain/Niveles Oficiales TR.md",
-    "PublicBrain/Dar direcciones (A1-AR).md",
-    "PublicBrain/C2-TR.md",
-    "PublicBrain/C1-TR.md",
-    "PublicBrain/B2-TR.md",
-    "PublicBrain/B1-TR.md",
-    "PublicBrain/A2-TR.md",
-    "PublicBrain/A1-TR.md",
-    "B1-TR.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

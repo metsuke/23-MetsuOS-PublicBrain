@@ -25,6 +25,12 @@ tags: []
 
 * [[Estructurar una Microagencia de Publicidad]]
 
+## Aprender Idiomas y Cultura
+
+* [[Aprender Idiomas]]
+* [[Aorender sobre sistemas de escritura]]
+* [[Aprender sobre cultura internacional a traves de los idiomas]]
+
 ## Aprender con ...
 
 Procesos algo caóticos de aprendizaje
@@ -35,71 +41,7 @@ Procesos algo caóticos de aprendizaje
 * [[Aprender con Sani Ladam]]
 * [[Aprender con SizeMatters]]
 
-## Aprender Idiomas
-
-Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una prioridad diferente y está en una fase distinta del proceso.
-
-* AR [[Aprender Idioma Árabe]]
-* CA [[Aprender Idioma Catalán]]
-* CS [[Aprender Idioma Checo]]
-* DA [[Aprender Idioma Danés]]
-* EL [[Aprender idioma Griego]]
-* EN [[Aprender Idioma Inglés]]
-* EO [[Aprender Idioma Esperanto]]
-* ES [[Aprender Idioma Español]]
-* EU [[Aprender Idioma Euskera]]
-* FI [[Aprender Idioma Finlandes]]
-* FR [[Aprender Idioma Frances]]
-* GE | [[Aprender Idioma Aleman]]
-* GL [[Aprender Idioma Gallego]]
-* HE [[Aprender Idioma Hebreo]]
-* HI [[Aprender Idioma Hindi]]
-* IT [[Aprender Idioma Italiano]]
-* KO [[Aprender Idioma Coreano]]
-* JP [[Aprender Idioma Japones]]
-* NO [[Aprender Idioma Noruego]]
-* PL [[Aprender Idioma Polaco]]
-* RO [[Aprender Idioma Rumano]]
-* RU [[Aprender Idioma Ruso]]
-* SV [[Aprender Idioma Sueco]]
-* SW [[Aprender Idioma Swahili]]
-* TH [[Apnreder Idioma Tailandés]]
-* TR [[Aprender Idioma Turco]]
-* UK [[Aprender Idioma Ucraniano]]
-* VLC [[Aprender Idioma Valenciano]]
-* ZH [[Aprender Idioma Chino]]
-
- * [[Estadísticas sobre Idiomas]]
- * [Sistemas de escritura del mundo](https://www.worldswritingsystems.org/)
-
-[[Textos Religiosos y sus Idiomas de Origen]]
-
-## Aprender sobre Sistemas de Escritura
-
-* [[Aprender sobre Proto Cuneiforme]]
-
-## Aprender Libros Texto Cultura
-
-### Peliculas/Manga/OVA
-
-* [[Aprender sobre Akira]] (JP)
-
-### Musica
-
-* [[Aprender sobre BabyMetal]] (JP)
-* [[Aprender sobre Evanescence]] (EN)
-* [[Aprender sobre Mecano]] (ES)
-* [[Aprender sobre Nirvana]] (EN)
-* [[Aprender sobre Rammstein]] (GE)
-
-AR/CA/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALMENTE la pena para hacer lo propio) [[TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT]]
-
-### Series/Manga/Anime
-
-* [[Aprender sobre Naruto]] (JP)
-* [[Aprender sobre Stargate]] (EN)
-
-## Aprender: mis Libros de Texto
+## Aprender sobre ...
 
 Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elaborados.
 
@@ -114,6 +56,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Ciencias Sociales
 
 * [[Aprender sobre Economía y Finanzas]]
+* [[Aprender sobre CPS (Complex Problem Solving)]]
 * [[Aprender sobre estructura dinamica de incentivos]]
 
 ### Cocina
@@ -176,7 +119,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	* [[Aprender sobre Buenas Prácticas y Código Limpio en Programación]]
 * [[Aprender sobre Redes e Internet]]
 
-## Aprender sobre ...
+## En proceso de inventario ...
 
 Mis Apuntes medio caóticos
 

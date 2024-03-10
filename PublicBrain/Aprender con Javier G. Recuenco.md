@@ -1,19 +1,19 @@
 # Aprender con Javier G. Recuenco
 
-[[PublicBrain/Index]]
+[[PublicBrain/Index]] | [[Aprender sobre CPS (Complex Problem Solving)]]
 
 En este proyecto tomo los "hilos turra" de [Javier G. Recuenco](https://www.linkedin.com/in/javier-g-recuenco-70a708/?originalSubdomain=es) en Twitter como apuntes de trabajo y exploro en base a ellos.
 
 ## WIP
 
-* [[CPS Framework de Javier G. Recuenco]]
+* [[Vision del CPS de Javier G. Recuenco]]
 
 ## Review
 
 * [El Turrero Post - Las turras de Javier G. Recuenco](https://turrero.vercel.app/)
 * [karliky/turrero (github.com)](https://github.com/karliky/turrero)
 
-## Zettelturren
+## Old Zettelturren (Esta seccion podria desaparecer por cambio de enfoque)
 
 * [[Arquitectura de Incentivos]]
 * [[Claridad]]

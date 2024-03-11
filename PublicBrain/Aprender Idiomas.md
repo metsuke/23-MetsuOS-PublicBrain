@@ -19,6 +19,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * GL [[Aprender Idioma Gallego]]
 * HE [[Aprender Idioma Hebreo]]
 * HI [[Aprender Idioma Hindi]]
+* ID [[Aprender Idioma Indonesio]]
 * IT [[Aprender Idioma Italiano]]
 * KO [[Aprender Idioma Coreano]]
 * JP [[Aprender Idioma Japones]]

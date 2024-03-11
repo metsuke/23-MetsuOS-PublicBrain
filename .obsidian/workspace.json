@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Alfabeto y pronunciación (A1-ES).md",
+                "file": "PublicBrain/Aprender Idiomas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Alfabeto y pronunciación (A1-ES).md",
+                "file": "PublicBrain/Aprender Idiomas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Alfabeto y pronunciación (A1-ES).md",
+                "file": "PublicBrain/Aprender Idiomas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Alfabeto y pronunciación (A1-ES).md"
+                "file": "PublicBrain/Aprender Idiomas.md"
               }
             }
           },
@@ -164,11 +164,12 @@
   },
   "active": "7e75e5d91d524183",
   "lastOpenFiles": [
-    "PublicBrain/A1-ES.md",
-    "Alfabeto y pronunciación (A1-ES).md",
-    "PublicBrain/Alfabeto y pronunciación (A1-ES).md",
-    "PublicBrain/Aprender Idioma Español.md",
+    "Aprender Idioma Indonesio.md",
     "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Español.md",
+    "PublicBrain/A1-ES.md",
+    "PublicBrain/Alfabeto y pronunciación (A1-ES).md",
+    "Alfabeto y pronunciación (A1-ES).md",
     "PublicBrain/Aprender Idioma Gallego.md",
     "PublicBrain/A1-GL.md",
     "PublicBrain/Index.md",
@@ -189,7 +190,6 @@
     "A2-GL.md",
     "Niveles Oficiales GL.md",
     "PublicBrain/Aprender Idioma Sueco.md",
-    "PublicBrain/A1-SV.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

@@ -1,6 +1,6 @@
 # Aprender Idioma Español
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * ES | [[Español]] 
 	* [[Niveles Oficiales ES ]]

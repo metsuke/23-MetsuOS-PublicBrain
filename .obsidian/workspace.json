@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md",
+                "file": "PublicBrain/Aprender Idioma Sueco.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md",
+                "file": "PublicBrain/Aprender Idioma Sueco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md",
+                "file": "PublicBrain/Aprender Idioma Sueco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Árabe.md"
+                "file": "PublicBrain/Aprender Idioma Sueco.md"
               }
             }
           },
@@ -164,32 +164,32 @@
   },
   "active": "e6eca285405d866b",
   "lastOpenFiles": [
+    "PublicBrain/A1-SV.md",
+    "PublicBrain/A2-SV.md",
+    "PublicBrain/B1-SV.md",
+    "PublicBrain/B2-SV.md",
+    "C1-SV.md",
+    "C2-SV.md",
+    "PublicBrain/Aprender Idioma Sueco.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Index.md",
+    "Index.md",
+    "B2-SV.md",
+    "PublicBrain/Pruebas de vocabulario y gramática (A1-CA).md",
+    "PublicBrain/Preguntas básicas (A1-EN).md",
+    "PublicBrain/En el restaurante (A1-AR).md",
+    "B1-SV.md",
+    "A2-SV.md",
+    "A1-SV.md",
+    "PublicBrain/Niveles Oficiales SV.md",
+    "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/A1-AR.md",
     "En el restaurante (A1-AR).md",
     "PublicBrain/A1-EN.md",
     "Preguntas básicas (A1-EN).md",
     "PublicBrain/Aprender Idioma Inglés.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/A1-SW.md",
-    "PublicBrain/Rutina diaria (A1-SW).md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
-    "Pruebas de vocabulario y gramática (A1-CA).md",
-    "PublicBrain/Hardware Libre - Microprocesadores.md",
-    "PublicBrain/Libre-SOC.md",
-    "PublicBrain/Hardware Libre - Memoria Volatil.md",
-    "PublicBrain/Aprender sobre ArduRAM.md",
-    "PublicBrain/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
-    "PublicBrain/Aprender sobre OwnCloud.md",
-    "Aprender sobre ArduRAM.md",
-    "Aprender sobre OwnCloud.md",
-    "PublicBrain/Aprender sobre Computación Mecánica.md",
-    "Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
-    "PublicBrain/Aprender a jugar Ajedrez.md",
-    "PublicBrain/Desarrollo de las piezas en ajedrez.md",
-    "Desarrollo de las piezas en ajedrez.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

@@ -7,7 +7,7 @@
 ## Módulo 1: Introducción al Español
 
 1.1. [[Saludos y presentaciones básicas (A1-ES)]]
-1.2. Alfabeto y pronunciación.
+1.2. [[Alfabeto y pronunciación (A1-ES)]]
 1.3. Los números y las fechas.
 1.4. Expresiones de cortesía.
 

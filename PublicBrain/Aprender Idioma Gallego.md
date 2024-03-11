@@ -1,6 +1,6 @@
 # Aprender Idioma Gallego
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
   
 * GL | [[Gallego]]
 	* [[Niveles Oficiales GL]]

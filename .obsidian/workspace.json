@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/A1-SW.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/A1-SW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/A1-SW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-CA.md"
+                "file": "PublicBrain/A1-SW.md"
               }
             }
           },
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,11 +164,16 @@
   },
   "active": "e6eca285405d866b",
   "lastOpenFiles": [
-    "Pruebas de vocabulario y gramática (A1-CA).md",
+    "PublicBrain/Rutina diaria (A1-SW).md",
+    "PublicBrain/A1-SW.md",
+    "PublicBrain/Aprender Idioma Swahili.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
+    "Pruebas de vocabulario y gramática (A1-CA).md",
     "PublicBrain/Hardware Libre - Microprocesadores.md",
     "PublicBrain/Libre-SOC.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Hardware Libre - Memoria Volatil.md",
     "PublicBrain/Aprender sobre ArduRAM.md",
     "PublicBrain/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
@@ -176,7 +182,6 @@
     "Aprender sobre OwnCloud.md",
     "PublicBrain/Aprender sobre Computación Mecánica.md",
     "Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
-    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender a jugar Ajedrez.md",
     "PublicBrain/Desarrollo de las piezas en ajedrez.md",
     "Desarrollo de las piezas en ajedrez.md",
@@ -185,10 +190,6 @@
     "PublicBrain/Aprender sobre cultura internacional a través de los idiomas.md",
     "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
     "Aprender sobre cultura internacional a traves de los idiomas.md",
-    "Aorender sobre sistemas de escritura.md",
-    "PublicBrain/PublicIndex/Index.md",
-    "Aprender Idiomas.md",
-    "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

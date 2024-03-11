@@ -19,3 +19,25 @@ La rutina diaria en suajili se puede expresar de la siguiente manera:
 13. Kulala: Dormir
 
 Estas son algunas de las actividades que podrían formar parte de la rutina diaria en suajili. ¡Espero que esta información te sea útil para aprender más sobre este idioma!
+ 
+---
+
+En Swahili, la rutina diaria se llama "mila za kila siku" o "mtindo wa maisha." Aquí tienes ejemplos de frases relacionadas con la rutina diaria en Swahili:
+
+1. Asubuhi:
+- Ninapoamka, mimi hupiga mswaki.
+(Marabi, mimi huchapa maabara.)
+
+2. Mchana:
+- Huenda kazini saa kumi asubuhi.
+(Henda kazini saa tano mchana.)
+
+3. Jioni:
+- Baada ya kazi, mimi hupika chakula cha jioni.
+(Baada ya kazi, mimi hupika chakula cha jioni.)
+
+4. Usiku:
+- Kabla ya kulala, mimi husoma kitabu kidogo.
+(Kabla ya kulala, mimi hupiga simu rafiki zangu.)
+
+Espero que te sean de utilidad estos ejemplos para hablar sobre tu rutina diaria en Swahili. ¡Buena suerte con tu aprendizaje del idioma!

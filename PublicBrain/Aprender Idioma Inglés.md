@@ -1,6 +1,6 @@
 # Aprender Idioma Inglés
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * EN | [[Inglés]] 
 	* [[Niveles Oficiales EN]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-SW.md",
+                "file": "PublicBrain/A1-EN.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-SW.md",
+                "file": "PublicBrain/A1-EN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-SW.md",
+                "file": "PublicBrain/A1-EN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-SW.md"
+                "file": "PublicBrain/A1-EN.md"
               }
             }
           },
@@ -164,11 +164,14 @@
   },
   "active": "e6eca285405d866b",
   "lastOpenFiles": [
-    "PublicBrain/Rutina diaria (A1-SW).md",
-    "PublicBrain/A1-SW.md",
-    "PublicBrain/Aprender Idioma Swahili.md",
+    "Preguntas básicas (A1-EN).md",
+    "PublicBrain/A1-EN.md",
+    "PublicBrain/Aprender Idioma Inglés.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Swahili.md",
+    "PublicBrain/A1-SW.md",
+    "PublicBrain/Rutina diaria (A1-SW).md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "Pruebas de vocabulario y gramática (A1-CA).md",
@@ -187,9 +190,6 @@
     "Desarrollo de las piezas en ajedrez.md",
     "PublicBrain/Aprender sobre Proto Cuneiforme.md",
     "PublicBrain/Aorender sobre sistemas de escritura.md",
-    "PublicBrain/Aprender sobre cultura internacional a través de los idiomas.md",
-    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
-    "Aprender sobre cultura internacional a traves de los idiomas.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

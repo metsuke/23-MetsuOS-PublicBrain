@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-10T00:24:55.724Z
+modified: 2024-03-11T23:13:46.977Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Partículas gramaticales y su uso (N5-JP)
 
 [[N5-JP]]

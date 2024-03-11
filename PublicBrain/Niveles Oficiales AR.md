@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-12T07:09:42.000Z
+modified: 2024-03-11T23:13:47.042Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Niveles Oficiales AR
 
 [[Aprender Idioma Árabe]] | [[Niveles y Exámenes Adicionales AR]]

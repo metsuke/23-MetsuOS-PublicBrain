@@ -3,11 +3,11 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2023-08-30T00:54:00
-modified: 2024-03-06T23:35:00
+created: 2023-09-13T02:30:48.000Z
+modified: 2024-03-11T23:13:46.781Z
 ver_major: 0
-ver_minor: "0"
-ver_rev: "0"
+ver_minor: 1
+ver_rev: 20
 nav_primary: []
 nav_secondary: []
 tags: []

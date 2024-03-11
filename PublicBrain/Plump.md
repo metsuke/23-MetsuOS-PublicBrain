@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:00.000Z
+modified: 2024-03-11T23:13:46.971Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Plump
 
 La palabra "plump" es un adjetivo en [[inglés]] que se utiliza para describir algo o alguien que es rechoncho o regordete. Se refiere a una persona o cosa que tiene una forma redonda, suave y llena, generalmente asociada con un poco de sobrepeso o gordura saludable.

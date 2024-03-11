@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-18T20:16:19.581Z
+modified: 2024-03-11T23:13:47.430Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # C2-RU
 
 [[Aprender Idioma Ruso]]

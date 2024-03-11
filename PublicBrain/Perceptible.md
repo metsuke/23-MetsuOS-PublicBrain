@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-10-26T17:55:00.427Z
+modified: 2024-03-11T23:13:46.974Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Perceptible
 
 [[WCAG 2.0]] | [[WCAG 2.1]]

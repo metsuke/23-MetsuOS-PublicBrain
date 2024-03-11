@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-26T18:19:41.286Z
+modified: 2024-03-11T23:13:46.897Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Ventajas de CSS Grid sobre otros sistemas de diseño
 
 [[Aprender sobre CSS-Grid]]

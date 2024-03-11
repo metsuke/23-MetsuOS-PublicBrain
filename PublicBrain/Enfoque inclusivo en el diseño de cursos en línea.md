@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-09T10:57:49.436Z
+modified: 2024-03-11T23:13:47.341Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Enfoque inclusivo en el diseño de cursos en línea
 
 [[Aprender sobre Accesibilidad en ELearining]]

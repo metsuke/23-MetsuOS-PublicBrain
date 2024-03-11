@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-11T19:53:28.696Z
+modified: 2024-03-11T23:13:46.969Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Preguntas básicas (A1-EN)
 
 [[A1-EN]]

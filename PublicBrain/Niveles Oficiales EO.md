@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-05T22:12:13.183Z
+modified: 2024-03-11T23:13:47.041Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Niveles Oficiales EO
 
 [[Aprender Idioma Esperanto]]

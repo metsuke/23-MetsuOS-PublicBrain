@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-22T15:09:16.561Z
+modified: 2024-03-11T23:13:47.475Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Aprender sobre CSS-Grid
 
 [[PublicBrain/Index]] | [Tutorial sobre CSS-Grid](https://www.coltsteele.com/tutorials/mastering-css-grid)

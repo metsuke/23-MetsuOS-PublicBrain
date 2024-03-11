@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:58.000Z
+modified: 2024-03-11T23:13:47.081Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Mellifluous
 
 Mellifluous" es una palabra en [[inglés]] que se utiliza para describir algo, como un sonido o una voz, que es agradablemente suave, dulce y musical para el oído. Se utiliza para describir un tono o una melodía rica y fluida que es relajante y agradable.

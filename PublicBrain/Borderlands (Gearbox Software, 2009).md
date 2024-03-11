@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-03T12:29:20.469Z
+modified: 2024-03-11T23:13:47.439Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Borderlands (Gearbox Software, 2009)
 
 [[Narrativa y Storytelling en el mundo del videojuego]] | [[Videojuegos a lo largo de la Historia]]

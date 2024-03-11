@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-05T23:08:54.843Z
+modified: 2024-03-11T23:13:46.879Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Vocabulario para ir de compras y en el supermercado (A1-CA)
 
 [[A1-CA]]

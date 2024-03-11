@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-21T18:50:44.737Z
+modified: 2024-03-11T23:13:47.449Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # B2-RO
 
 [[Aprender Idioma Rumano]]

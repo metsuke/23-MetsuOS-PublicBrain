@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-01-28T01:55:39.379Z
+modified: 2024-03-11T23:13:47.471Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Aprender sobre Historia Mundial del Videojuego
 
 [[Aprender sobre Videojuegos]]

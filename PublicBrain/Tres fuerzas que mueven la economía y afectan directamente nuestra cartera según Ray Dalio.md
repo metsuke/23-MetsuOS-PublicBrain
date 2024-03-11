@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:02.000Z
+modified: 2024-03-11T23:13:46.906Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Tres fuerzas que mueven la economía y afectan directamente nuestra cartera según Ray Dalio
 
 Según Ray Dalio, fundador de Bridgewater Associates y uno de los inversores más exitosos del mundo, las tres fuerzas que mueven la economía y afectan directamente nuestra cartera son:

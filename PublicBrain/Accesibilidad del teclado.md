@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-09T00:53:23.814Z
+modified: 2024-03-11T23:13:47.506Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Accesibilidad del teclado
 
 [[WCAG 2.0]] | [[WCAG 2.1]]

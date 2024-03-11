@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-12-17T15:35:25.794Z
+modified: 2024-03-11T23:13:47.463Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Aprender sobre el Lore de World of Warcraft
 
 [[Aprender sobre World of Warcraft]]

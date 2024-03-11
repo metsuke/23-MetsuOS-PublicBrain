@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-26T21:36:43.191Z
+modified: 2024-03-11T23:13:47.296Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Exámenes de la Universidad de Banaras Hindu (BHU)
 
 [[Aprender Idioma Hindi]]

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:01.000Z
+modified: 2024-03-11T23:13:46.931Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Soak (to)
 
 "to soak" es un verbo en [[inglés]] que se utiliza para describir el acto de sumergir completamente algo en un líquido, generalmente con el propósito de permitir que ese objeto absorba o se empape de dicho líquido. Aquí tienes algunos usos comunes de "to soak":

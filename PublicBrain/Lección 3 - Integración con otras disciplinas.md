@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-05T10:43:50.483Z
+modified: 2024-03-11T23:13:47.112Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Lección 3 - Integración con otras disciplinas
 
 [[Aprender sobre Computar con Canicas]]

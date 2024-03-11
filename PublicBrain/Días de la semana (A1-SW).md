@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-01-19T22:19:07.277Z
+modified: 2024-03-11T23:13:47.350Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Días de la semana (A1-SW)
 
 [[A1-SW]]

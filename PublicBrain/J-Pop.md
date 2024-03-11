@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:57.000Z
+modified: 2024-03-11T23:13:47.132Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # J-Pop
 
 J-Pop es el término abreviado utilizado para referirse a la música pop japonesa. Es un género musical popular en Japón que combina elementos de la música pop occidental con influencias culturales japonesas. El J-Pop abarca una amplia variedad de estilos y subgéneros, y ha ganado popularidad tanto en Japón como a nivel internacional.

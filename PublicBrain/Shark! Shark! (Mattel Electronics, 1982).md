@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-01-25T19:08:38.122Z
+modified: 2024-03-11T23:13:46.933Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Shark! Shark! (Mattel Electronics, 1982)
 
 [[Aprender sobre Videojuegos]] | [[Videojuegos a lo largo de la Historia]]

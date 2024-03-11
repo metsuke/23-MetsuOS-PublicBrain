@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-12-28T21:47:32.846Z
+modified: 2024-03-11T23:13:47.080Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Meses del año (A1-SW)
 
 [[A1-SW]]

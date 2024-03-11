@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:01.000Z
+modified: 2024-03-11T23:13:46.924Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Startup
 
 Una startup es una empresa emergente que se dedica a desarrollar un producto o servicio innovador, con un modelo de negocio escalable y que busca un rápido crecimiento en el mercado. Las startups suelen ser empresas jóvenes, fundadas por emprendedores, que buscan aprovechar las nuevas tecnologías y tendencias para crear soluciones innovadoras.

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:02.000Z
+modified: 2024-03-11T23:13:46.894Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Verbo kuwa (ser) en Swahili
 
 En [[Swahili]], el verbo "ser" se traduce como "kuwa". Este verbo es muy importante en el idioma swahili ya que se utiliza para expresar la identidad, la existencia y el estado de ánimo.

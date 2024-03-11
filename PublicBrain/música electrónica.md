@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:05.000Z
+modified: 2024-03-11T23:13:46.857Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # música electrónica
 
 La música electrónica es un género musical que se caracteriza por el uso predominante de instrumentos y sonidos electrónicos, así como por la manipulación de sonidos a través de la tecnología. Se basa en la producción y composición de música utilizando dispositivos electrónicos, como sintetizadores, cajas de ritmos, samplers y computadoras.

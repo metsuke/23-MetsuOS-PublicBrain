@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:58.000Z
+modified: 2024-03-11T23:13:47.077Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Metalizm
 
 * [(1) Metalizm: BABYMETAL reaction/walkthrough #37 with AJ Hartley and musicologist, Dr. Kelsey Klotz - YouTube](https://www.youtube.com/watch?v=1RKTmh2zBJ0&list=PLbMSceCLFM-S8CORnK0CqGFCgdb2HKsU6&index=59&ab_channel=AndrewHartley)

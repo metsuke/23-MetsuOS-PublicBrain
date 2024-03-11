@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-29T20:15:21.981Z
+modified: 2024-03-11T23:13:47.440Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Bioshock (2K Games, 2007)
 
 [[Narrativa y Storytelling en el mundo del videojuego]] | [[Videojuegos a lo largo de la Historia]]

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-03T22:17:03.633Z
+modified: 2024-03-11T23:13:47.258Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Forward propagation
 
 [[Estructura y funcionamiento de las  redes neuronales]]

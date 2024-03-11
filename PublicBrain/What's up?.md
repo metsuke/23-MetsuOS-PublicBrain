@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:02.000Z
+modified: 2024-03-11T23:13:46.876Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # What's up?
 
 "What's up?" es una expresión en [[inglés]] muy común que se utiliza como saludo informal o pregunta sobre el estado o situación de una persona. Puede traducirse de manera aproximada como "¿Qué tal?" o "¿Qué pasa?" en español.

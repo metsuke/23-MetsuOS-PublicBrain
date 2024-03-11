@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:55.000Z
+modified: 2024-03-11T23:13:47.277Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Formas de despedirse en Inglés
 
 En [[inglés]], hay varias formas comunes de despedirse. Aquí tienes algunas opciones:

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-12T10:13:50.000Z
+modified: 2024-03-11T23:13:47.306Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Examen de Lengua Árabe del Instituto del Mundo Árabe
 
 [[Aprender Idioma Árabe]]

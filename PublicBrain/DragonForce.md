@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:54.000Z
+modified: 2024-03-11T23:13:47.351Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # DragonForce
 
 DragonForce es una banda británica de power metal que se formó en 1999 en Londres. Son conocidos por su estilo de música rápido, virtuoso y lleno de energía, con letras épicas y melódicas. La banda ha sido influenciada por el metal neoclásico y el speed metal, y ha logrado un gran éxito en la escena del metal internacional.

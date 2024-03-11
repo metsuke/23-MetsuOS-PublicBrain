@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:05.000Z
+modified: 2024-03-11T23:13:46.861Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # heavy metal
 
 El heavy metal es un género musical que se caracteriza por su sonido pesado, agresivo y potente. Surgió a finales de la década de 1960 y principios de la década de 1970, principalmente en el Reino Unido y los Estados Unidos, y desde entonces se ha expandido a nivel mundial.

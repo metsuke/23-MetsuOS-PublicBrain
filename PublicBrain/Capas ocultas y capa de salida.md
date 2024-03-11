@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-15T23:38:20.378Z
+modified: 2024-03-11T23:13:47.428Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Capas ocultas y capa de salida
 
 [[Estructura y funcionamiento de las  redes neuronales]]

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-09T00:10:18.516Z
+modified: 2024-03-11T23:13:47.116Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Lección 1 - Qué es la Computación con Canicas
 
 [[Aprender sobre Computar con Canicas]]

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-12T14:33:19.297Z
+modified: 2024-03-11T23:13:46.894Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Verbos en futuro simple y planes de futuro (A1-CA)
 
 [[A1-CA]]

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-11-13T10:13:34.176Z
+modified: 2024-03-11T23:13:47.130Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # José María Cano
 
 [[Aprender sobre Mecano]]

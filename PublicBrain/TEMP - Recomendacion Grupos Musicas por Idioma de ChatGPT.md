@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:02.000Z
+modified: 2024-03-11T23:13:46.920Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT
 
 Hasta ahora he elegido BabyMetal en JP, Rammstein en GE como grupos sobre los que aprender idioma y cultura a largo plazo, me gustaria hacer lo mismo para AR/CA/ES/HI/RO/SW/ZH ¿me puedes recomendar los 5 mejores grupos para ello en cada idioma?

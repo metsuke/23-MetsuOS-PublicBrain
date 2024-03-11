@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:55.000Z
+modified: 2024-03-11T23:13:47.282Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Formas de decir "yo" en japones
 
 En [[Japonés]], hay varios kanji que se utilizan para representar el pronombre personal "yo". A continuación, te proporciono tres de los kanji más comunes que se utilizan para este propósito:

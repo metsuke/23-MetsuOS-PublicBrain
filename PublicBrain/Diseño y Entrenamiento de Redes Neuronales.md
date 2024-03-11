@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-10T19:46:29.497Z
+modified: 2024-03-11T23:13:47.356Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Diseño y Entrenamiento de Redes Neuronales
 
 [[Estructura y funcionamiento de las  redes neuronales]]

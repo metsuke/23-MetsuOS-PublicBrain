@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:54.000Z
+modified: 2024-03-11T23:13:47.414Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Curs de Català per a l'Administració (Curso de Catalán para la Administración)
 
 [[Aprender Idioma Catalán]]

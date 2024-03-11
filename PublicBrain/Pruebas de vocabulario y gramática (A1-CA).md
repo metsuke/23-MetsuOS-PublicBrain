@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-11T19:47:01.824Z
+modified: 2024-03-11T23:13:46.964Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Pruebas de vocabulario y gramática (A1-CA)
 
 [[A1-CA]]

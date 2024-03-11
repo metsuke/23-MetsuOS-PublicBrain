@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-06T07:17:18.454Z
+modified: 2024-03-11T23:13:47.252Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Fundamentos del diseño inclusivo
 
 [[Aprender sobre Accesibilidad en Videojuegos]]

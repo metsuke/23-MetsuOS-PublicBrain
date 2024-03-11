@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:51.000Z
+modified: 2024-03-11T23:13:47.465Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Aprender sobre Redes e Internet
 
 [[PublicBrain/Index]] |  [[Capas de la infraestructura de una red]]
@@ -40,7 +54,7 @@
 * Diagnóstico y resolución de problemas de red
 * Monitorización de redes y tráfico
 * Backup y recuperación de datos en red
-## **Tendencias Futuras en Redes e Internet (2024-2030**
+## **Tendencias Futuras en Redes e Internet (2026-2030**
 
 * Internet de las cosas (IoT)
 * Redes 5G y velocidades ultra altas

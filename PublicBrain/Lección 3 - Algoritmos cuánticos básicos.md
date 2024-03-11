@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-27T21:29:10.699Z
+modified: 2024-03-11T23:13:47.113Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Lección 3 - Algoritmos cuánticos básicos
 
 [[Aprender sobre Computar con Canicas]]

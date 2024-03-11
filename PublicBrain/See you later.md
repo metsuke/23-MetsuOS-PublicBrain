@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:01.000Z
+modified: 2024-03-11T23:13:46.935Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # See you later
 
 [[Formas de despedirse en Inglés]]  | [[Saludos y presentaciones (A1-EN)]]

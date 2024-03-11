@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-01-10T10:47:22.404Z
+modified: 2024-03-11T23:13:47.243Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Gramática elemental artículos sustantivos y pronombres (A1-CA)
 
 [[A1-CA]]

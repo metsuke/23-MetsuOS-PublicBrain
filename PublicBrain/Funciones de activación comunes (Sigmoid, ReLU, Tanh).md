@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-28T16:30:24.151Z
+modified: 2024-03-11T23:13:47.252Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Funciones de activación comunes (Sigmoid, ReLU, Tanh)
 
 [[Estructura y funcionamiento de las  redes neuronales]]

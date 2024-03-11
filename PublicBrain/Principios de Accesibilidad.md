@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-18T13:45:00.782Z
+modified: 2024-03-11T23:13:46.967Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Principios de Accesibilidad
 
 [[Aprender sobre Accesibilidad]]] | [[WCAG 2.0]] | [[WCAG 2.1]]

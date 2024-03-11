@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:01.000Z
+modified: 2024-03-11T23:13:46.951Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Salient
 
 "Salient" es una palabra en [[inglés]] que se utiliza para describir algo que es notable, prominente o destacado. Se refiere a características o aspectos que sobresalen y capturan la atención.

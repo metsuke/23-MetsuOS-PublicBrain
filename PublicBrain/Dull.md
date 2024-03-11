@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:54.000Z
+modified: 2024-03-11T23:13:47.351Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Dull
 
 "Dull" es un adjetivo en [[inglés]] que se utiliza para describir algo que carece de interés, emoción o viveza. Al referirse a una persona, puede indicar falta de inteligencia o creatividad. Algunos sinónimos de "dull" incluyen "aburrido", "monótono", "insípido" o "soso".

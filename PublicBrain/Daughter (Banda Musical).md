@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:54.000Z
+modified: 2024-03-11T23:13:47.409Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Daughter (Banda Musical)
 
 [[Daughter]] es una banda de indie folk inglesa que se formó en 2010. La banda está compuesta por Elena Tonra (voz, guitarra), Igor Haefeli (guitarra) y Remi Aguilella (batería). Ganaron una atención significativa y aclamación crítica con el lanzamiento de su álbum debut, "If You Leave", en 2013.

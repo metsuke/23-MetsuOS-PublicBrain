@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-11-17T12:20:00.463Z
+modified: 2024-03-11T23:13:46.878Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Vocabulario relacionado con la casa y la familia (A1-CA)
 
 [[A1-CA]]

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-26T21:11:00.979Z
+modified: 2024-03-11T23:13:47.037Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Niveles Oficiales HI
 
 [[Aprender Idioma Hindi]] | [[Niveles y Exámenes Adicionales HI]]

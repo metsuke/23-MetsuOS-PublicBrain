@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-10-23T22:57:31.328Z
+modified: 2024-03-11T23:13:47.436Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # C1-Administratiu (Mitjà)
 
 [[Aprender Idioma Valenciano]]

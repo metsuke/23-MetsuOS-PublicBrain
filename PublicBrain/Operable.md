@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-11-29T06:32:06.531Z
+modified: 2024-03-11T23:13:46.982Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Operable
 
 [[WCAG 2.0]] | [[WCAG 2.1]]

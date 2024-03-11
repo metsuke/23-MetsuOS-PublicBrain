@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:48.000Z
+modified: 2024-03-11T23:13:46.783Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # El Proyecto
 
 [![volver a la Home](_resources/El%20Proyecto/d127e8f844e447284700247bb17d2e79_MD5.png)](https://metsuke.com/)

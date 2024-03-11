@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-23T07:07:29.738Z
+modified: 2024-03-11T23:13:47.194Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Horarios y citas (N5-JP)
 
 [[N5-JP]]

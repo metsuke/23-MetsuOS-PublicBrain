@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-10-22T12:33:59.288Z
+modified: 2024-03-11T23:13:46.848Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # ¿Qué es el chino mandarín? (HSJ1-ZH)
 
 [[HSK1-ZH]]

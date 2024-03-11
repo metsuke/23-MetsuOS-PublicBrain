@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:01.000Z
+modified: 2024-03-11T23:13:46.935Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Seldom
 
 Seldom" es un adverbio de tiempo frecuencia en [[inglés]] que se utiliza para describir algo que ocurre raramente o con poca frecuencia. Es una palabra que se usa comúnmente en el lenguaje escrito y hablado y su significado es similar a "raramente", "pocas veces" o "casi nunca".

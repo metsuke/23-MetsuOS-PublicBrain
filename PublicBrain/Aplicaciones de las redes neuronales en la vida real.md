@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-01-28T01:51:13.140Z
+modified: 2024-03-11T23:13:47.501Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Aplicaciones de las redes neuronales en la vida real
 
 [[Estructura y funcionamiento de las  redes neuronales]]

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-06T07:23:18.632Z
+modified: 2024-03-11T23:13:46.960Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Reconociendo el potencial en la diversidad
 
 [[Aprender sobre Altas Capacidades]]

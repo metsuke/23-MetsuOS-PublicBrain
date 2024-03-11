@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-19T05:31:57.486Z
+modified: 2024-03-11T23:13:47.350Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Década de 1980
 
 [[Aprender sobre Nirvana]]

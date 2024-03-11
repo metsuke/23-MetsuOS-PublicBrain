@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:58.000Z
+modified: 2024-03-11T23:13:47.101Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # MPL Chess
 
 Este proyecto se nutre, como inspiración y guía báse, del libro Ajedrez en C (Kindle), y me servirá como medio para articular [[MPL (Metsuke Programming Languaje)]], en si mismo MPL Chess es un juego de ajedrez con IA, creado desde cero siguiendo el libro descrito.

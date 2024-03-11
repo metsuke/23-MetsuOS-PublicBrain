@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-03T16:51:12.987Z
+modified: 2024-03-11T23:13:47.219Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Halo 3 (Bungie Studios, 2007)
 
 [[Videojuegos a lo largo de la Historia]]

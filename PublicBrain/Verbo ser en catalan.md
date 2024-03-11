@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:02.000Z
+modified: 2024-03-11T23:13:46.894Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Verbo ser en catalan
 
 En [[catalán]], el verbo "ser" se traduce como "ser" o "estar" dependiendo del contexto. "Ser" se utiliza para describir características permanentes, mientras que "estar" se utiliza para describir características temporales o estados de ánimo.

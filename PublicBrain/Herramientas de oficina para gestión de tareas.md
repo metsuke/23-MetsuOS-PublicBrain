@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-18T15:07:10.802Z
+modified: 2024-03-11T23:13:47.213Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Herramientas de oficina para gestión de tareas
 
 [[Aprender sobre Gestión de Tareas]]

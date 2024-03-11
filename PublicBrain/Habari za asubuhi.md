@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:56.000Z
+modified: 2024-03-11T23:13:47.221Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Habari za asubuhi
 
 "Habari za asubuhi" es una expresión en [[swahili]] que se utiliza para dar los buenos días o preguntar cómo está alguien por la mañana. En swahili, "[[habari]]" significa "noticias" o "saludos", "za" es una partícula que indica posesión o pertenencia, y "asubuhi" significa "mañana".

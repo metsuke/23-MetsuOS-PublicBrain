@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-15T23:58:02.122Z
+modified: 2024-03-11T23:13:47.116Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Lección 2 - Algoritmos simples con canicas
 
 [[Aprender sobre Computar con Canicas]]

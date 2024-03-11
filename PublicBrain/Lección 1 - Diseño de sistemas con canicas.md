@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-02T00:00:07.184Z
+modified: 2024-03-11T23:13:47.118Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Lección 1 - Diseño de sistemas con canicas
 
 [[Aprender sobre Computar con Canicas]]

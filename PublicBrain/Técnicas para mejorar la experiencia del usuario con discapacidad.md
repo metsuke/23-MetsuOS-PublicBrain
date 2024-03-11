@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-01T02:29:44.673Z
+modified: 2024-03-11T23:13:46.903Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Técnicas para mejorar la experiencia del usuario con discapacidad
 
 [[Aprender sobre Accesibilidad en ELearining]]

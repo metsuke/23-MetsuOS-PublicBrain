@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-01-05T21:02:21.143Z
+modified: 2024-03-11T23:13:47.413Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Cómo la lectura fácil beneficia a diversas audiencias
 
 [[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]

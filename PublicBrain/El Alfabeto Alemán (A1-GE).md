@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-11-04T21:49:36.599Z
+modified: 2024-03-11T23:13:47.347Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # El Alfabeto Alemán (A1-GE)
 
 [[A1-GE]]

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-06T06:36:42.454Z
+modified: 2024-03-11T23:13:47.220Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Hacer compras en el mercado (A1-SW)
 
 [[A1-SW]]

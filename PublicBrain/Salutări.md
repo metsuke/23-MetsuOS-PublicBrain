@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:01.000Z
+modified: 2024-03-11T23:13:46.937Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 [[Formas de saludar en Rumano]]
 
 "Salutări" es una palabra en [[rumano]] que se traduce al español como "saludos" o "saludos cordiales". Es una expresión comúnmente utilizada para saludar o despedirse de alguien de manera amistosa y cortés.

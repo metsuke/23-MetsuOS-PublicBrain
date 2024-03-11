@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:53.000Z
+modified: 2024-03-11T23:13:47.446Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # BabyMetal - Vestuario
 
 * [A BABYMETAL costume history. Part 1: Beginnings to "Karate." AJ, Maggie (BMPC) and Prof. Aly Amidei. - YouTube](https://www.youtube.com/watch?v=a5VTBjoyWL4&list=PLbMSceCLFM-S8CORnK0CqGFCgdb2HKsU6&index=6&ab_channel=AndrewHartley)

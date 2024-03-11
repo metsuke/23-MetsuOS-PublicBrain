@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-10-28T01:18:13.230Z
+modified: 2024-03-11T23:13:46.950Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Saludos y Presentaciones (A1-GE)
 
 [[A1-GE]]

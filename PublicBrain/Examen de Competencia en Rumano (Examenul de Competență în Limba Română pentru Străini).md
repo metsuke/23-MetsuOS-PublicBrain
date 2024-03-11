@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-21T18:49:40.418Z
+modified: 2024-03-11T23:13:47.308Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Examen de Competencia en Rumano (Examenul de Competență în Limba Română pentru Străini)
 
 [[Aprender Idioma Rumano]]

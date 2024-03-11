@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-01-10T22:31:12.572Z
+modified: 2024-03-11T23:13:47.328Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Estados Unidos
 
 [[Aprender sobre Nirvana]]

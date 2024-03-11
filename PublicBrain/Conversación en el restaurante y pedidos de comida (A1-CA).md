@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-01T20:32:30.071Z
+modified: 2024-03-11T23:13:47.418Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Conversación en el restaurante y pedidos de comida (A1-CA)
 
 [[A1-CA]]

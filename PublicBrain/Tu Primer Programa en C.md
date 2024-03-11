@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-09T23:24:57.268Z
+modified: 2024-03-11T23:13:46.904Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Tu Primer Programa en C
 
 [[Aprender el Lenguaje C desde Cero]]

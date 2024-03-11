@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-11T11:38:13.266Z
+modified: 2024-03-11T23:13:47.427Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Catalizador Alquimico (Objeto WOW)
 
 [[Aprender sobre Objetos de World of Warcraft]]

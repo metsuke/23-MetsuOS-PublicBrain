@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:59.000Z
+modified: 2024-03-11T23:13:47.005Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Números en [[Japonés]]
 
 En japonés, los números se pueden escribir de varias formas, dependiendo del contexto y del tipo de escritura que se esté utilizando. Aquí te proporciono las diferentes formas en que se escriben los números en japonés:

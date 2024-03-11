@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-10-22T12:38:57.648Z
+modified: 2024-03-11T23:13:47.136Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Introducción al alfabeto tailandés  (Principiante TH)
 
 [[Nivel Principiante TH]]

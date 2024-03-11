@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-27T17:13:16.822Z
+modified: 2024-03-11T23:13:46.958Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Requisitos legales y responsabilidades (A11Y ELearning))
 
 [[Aprender sobre Accesibilidad en ELearining]]]

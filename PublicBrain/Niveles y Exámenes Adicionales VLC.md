@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-10-23T22:55:30.504Z
+modified: 2024-03-11T23:13:47.012Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Niveles y Exámenes Adicionales VLC
 
 [[Aprender Idioma Valenciano]] | [[C1-Administratiu (Mitjà)]]

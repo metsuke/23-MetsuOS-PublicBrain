@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-12-12T01:39:45.814Z
+modified: 2024-03-11T23:13:47.303Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Expresar agradecimiento (A1-SW)
 
 [[A1-SW]]

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-04T20:58:34.400Z
+modified: 2024-03-11T23:13:47.115Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Lección 2 - Implementación de algoritmos con canicas
 
 [[Aprender sobre Computar con Canicas]]

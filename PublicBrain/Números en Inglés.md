@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:59.000Z
+modified: 2024-03-11T23:13:47.006Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Números en Inglés
 
 Los números en [[inglés]] son muy similares a los números en [[español]], pero hay algunas diferencias. Aquí te dejo una lista de los números del 0 al 20:

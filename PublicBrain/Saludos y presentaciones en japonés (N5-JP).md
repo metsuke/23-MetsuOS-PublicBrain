@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-11-01T21:22:53.881Z
+modified: 2024-03-11T23:13:46.943Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Saludos y presentaciones en japonés (N5-JP)
 
 [[N5-JP]] | [[Formas de saludar en Japonés]]

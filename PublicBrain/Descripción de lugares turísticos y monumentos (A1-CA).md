@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-28T15:59:02.452Z
+modified: 2024-03-11T23:13:47.368Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Descripción de lugares turísticos y monumentos (A1-CA)
 
 [[A1-CA]]

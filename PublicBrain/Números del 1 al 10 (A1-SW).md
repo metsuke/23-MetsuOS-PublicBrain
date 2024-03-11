@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-01-23T22:58:22.681Z
+modified: 2024-03-11T23:13:47.005Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Números del 1 al 10 (A1-SW)
 
 [[A1-SW]]

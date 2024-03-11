@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-10-29T17:40:54.021Z
+modified: 2024-03-11T23:13:46.913Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Textos Religiosos y sus Idiomas de Origen
 
 (No se si será viable, pero pretendo sacar factor común de todos ellos leyendo y analizando el original, partiendo de los D. D. H. H. como tabla de la ley en la que deben encajar el resto. Ni siquiera se si me queda vida para aprender todos esos idiomas, pero si pretendo combatir el fanatismo religioso debe ser desde la comprensión de cada uno y transformando dogmas en decisiones personales...)

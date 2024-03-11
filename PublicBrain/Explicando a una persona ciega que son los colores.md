@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:55.000Z
+modified: 2024-03-11T23:13:47.304Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Explicando a una persona ciega que son los colores
 
 PRONT: debes adoptar el rol de un equipo multidisciplinar formado por un físico, un matemmático, un pedagogo, un psicologo, un músuco y un pintor. Explica a una persona ciega de 30 años que jamás ha visto que son los colores, en terminos que esa persona pueda comprender.

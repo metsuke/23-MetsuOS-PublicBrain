@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-10-23T00:57:54.247Z
+modified: 2024-03-11T23:13:47.210Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Hiragana y Katakana - Lectura y escritura básica (N5-JP)
 
 [[N5-JP]] | [[Hiragana]] | [[Katakana]] | [[Sistemas de escritura japoneses]]

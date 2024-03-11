@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:56.000Z
+modified: 2024-03-11T23:13:47.211Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Hikaru Utada
 
 Hikaru Utada es una cantante y compositora japonesa conocida como una de las artistas más exitosas y populares del J-Pop. Nació el 19 de enero de 1983 en Nueva York, Estados Unidos, y es hija de padres japoneses, el productor de música Teruzane Utada y la cantante Keiko Fuji.

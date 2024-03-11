@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-01-19T22:59:21.571Z
+modified: 2024-03-11T23:13:47.093Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Mejora de la comprensión y la inclusión
 
 [[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]

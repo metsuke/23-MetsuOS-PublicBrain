@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-01T02:06:36.014Z
+modified: 2024-03-11T23:13:47.109Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Lección 4 - Exploración de la computación cuántica
 
 [[Aprender sobre Computar con Canicas]]

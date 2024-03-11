@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:05.000Z
+modified: 2024-03-11T23:13:46.856Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # sokuon
 
 El sokuon es un pequeño signo que se utiliza en la escritura del idioma [[Japonés]] para indicar que una consonante debe ser pronunciada de manera más corta y enfática. El sokuon se representa gráficamente con un pequeño círculo que se coloca en la parte superior derecha de la consonante que se quiere enfatizar.

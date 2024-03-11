@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-23T07:33:37.100Z
+modified: 2024-03-11T23:13:47.442Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad
 
 [[Aprender sobre Accesibilidad en ELearining]]

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-11-01T15:15:33.821Z
+modified: 2024-03-11T23:13:47.411Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Cómo utilizar WCAG 2.0
 
 [[WCAG 2.0]] | [[WCAG 2.1]]

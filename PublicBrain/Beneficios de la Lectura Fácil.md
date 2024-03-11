@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-01-10T19:00:18.537Z
+modified: 2024-03-11T23:13:47.442Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Beneficios de la Lectura Fácil
 
 [[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]

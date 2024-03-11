@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:55.000Z
+modified: 2024-03-11T23:13:47.272Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Formas de despedirse en catalán
 
 En [[catalán]], existen varias formas de despedirse que se utilizan en diferentes situaciones y niveles de formalidad. Aquí tienes algunas formas comunes de despedirse en catalán:

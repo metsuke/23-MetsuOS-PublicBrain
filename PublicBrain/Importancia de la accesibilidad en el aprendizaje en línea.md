@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-19T23:53:58.698Z
+modified: 2024-03-11T23:13:47.175Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Importancia de la accesibilidad en el aprendizaje en línea
 
 [[Aprender sobre Accesibilidad en ELearining]]

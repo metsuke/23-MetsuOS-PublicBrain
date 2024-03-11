@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-02-11T00:14:38.638Z
+modified: 2024-03-11T23:13:47.440Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Bibliotecas populares (NumPy, pandas, scikit-learn, TensorFlow, PyTorch)
 
 [[Aprender sobre Inteligencia Artificial]]

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-04T22:38:27.663Z
+modified: 2024-03-11T23:13:47.114Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Lección 2 - Retos y oportunidades
 
 [[Aprender sobre Computar con Canicas]]

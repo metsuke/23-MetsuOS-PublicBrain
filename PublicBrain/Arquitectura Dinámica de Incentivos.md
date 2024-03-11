@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:53.000Z
+modified: 2024-03-11T23:13:47.460Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Arquitectura Dinámica de Incentivos
 
 La Arquitectura Dinámica de Incentivos (ADI) es un enfoque innovador en la gestión de incentivos que se basa en adaptar y ajustar los incentivos a medida que evoluciona la situación o el contexto en el que se aplican. A diferencia de los sistemas tradicionales de incentivos estáticos, la ADI reconoce que las circunstancias y las metas pueden cambiar con el tiempo, y busca alinear de manera más efectiva los incentivos con los objetivos cambiantes.

@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:30:52.000Z
+modified: 2024-03-11T23:13:47.460Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Arkadia
 
 * [BABYMETAL Arkadia. AJ's final Metal Galaxy discussion. BM walk-through chat #29 - YouTube](https://www.youtube.com/watch?v=kUSh8fL-oeE&list=PLbMSceCLFM-S8CORnK0CqGFCgdb2HKsU6&index=4&ab_channel=AndrewHartley)

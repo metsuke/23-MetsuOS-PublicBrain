@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:05.000Z
+modified: 2024-03-11T23:13:46.861Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # cinco vocales básicas del idioma japonés
 
 Las cinco vocales básicas del idioma [[Japonés]] son "a", "i", "u", "e" y "o", y se escriben en hiragana como "[[あ]]" (a), "[[い]]" (i), "[[う]]" (u), "[[え]]" (e) y "[[お]]" (o).

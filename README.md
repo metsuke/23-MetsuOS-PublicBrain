@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-09-13T02:31:08.000Z
+modified: 2024-03-11T23:13:46.780Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 20
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # 23-MetsuOS-PublicBrain
 
 Bueno, ya es oficial, dejo este repo en abierto, por si alguien quiere juguetear, sugerir correcciones o mejoras y como medio de aprendizaje.

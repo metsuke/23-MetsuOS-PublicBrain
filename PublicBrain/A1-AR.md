@@ -22,7 +22,7 @@
 
 - [[Preguntas frecuentes (A1-AR)]]
 - [[Dar direcciones (A1-AR)]]
-- En el restaurante
+- [[En el restaurante (A1-AR)]]
 - En la tienda
 
 ## Módulo 4: Tiempo y Fechas

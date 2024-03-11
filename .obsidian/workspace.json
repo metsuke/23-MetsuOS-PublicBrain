@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Hardware Libre - Memoria Volatil.md",
+                "file": "PublicBrain/A1-CA.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Hardware Libre - Memoria Volatil.md",
+                "file": "PublicBrain/A1-CA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Hardware Libre - Memoria Volatil.md",
+                "file": "PublicBrain/A1-CA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Hardware Libre - Memoria Volatil.md"
+                "file": "PublicBrain/A1-CA.md"
               }
             }
           },
@@ -163,12 +163,16 @@
   },
   "active": "e6eca285405d866b",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre ArduRAM.md",
+    "Pruebas de vocabulario y gramática (A1-CA).md",
+    "PublicBrain/A1-CA.md",
+    "PublicBrain/Hardware Libre - Microprocesadores.md",
+    "PublicBrain/Libre-SOC.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Hardware Libre - Memoria Volatil.md",
+    "PublicBrain/Aprender sobre ArduRAM.md",
     "PublicBrain/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
     "PublicBrain/Aprender sobre OwnCloud.md",
     "Aprender sobre ArduRAM.md",
-    "PublicBrain/Index.md",
     "Aprender sobre OwnCloud.md",
     "PublicBrain/Aprender sobre Computación Mecánica.md",
     "Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
@@ -185,10 +189,6 @@
     "PublicBrain/PublicIndex/Index.md",
     "Aprender Idiomas.md",
     "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
-    "PublicBrain/Aprender con Javier G. Recuenco.md",
-    "Aprender sobre CPS (Complex Problem Solving).md",
-    "PublicBrain/Arquitectura de Incentivos.md",
-    "PublicBrain/Arquitectura Dinámica de Incentivos.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

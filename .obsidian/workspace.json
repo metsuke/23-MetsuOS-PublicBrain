@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-EN.md",
+                "file": "PublicBrain/A1-AR.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-EN.md",
+                "file": "PublicBrain/A1-AR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-EN.md",
+                "file": "PublicBrain/A1-AR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-EN.md"
+                "file": "PublicBrain/A1-AR.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "7e75e5d91d524183",
   "lastOpenFiles": [
-    "Frases para pedir y dar información personal (A1-EN).md",
+    "Los días de la semana (A1-AR).md",
+    "PublicBrain/A1-AR.md",
     "PublicBrain/A1-EN.md",
+    "Frases para pedir y dar información personal (A1-EN).md",
     "PublicBrain/A1-SW.md",
     "Verbos comunes para actividades diarias (A1-SW.md",
     "Diálogos y actividades de expresión oral (A1-CA).md",
@@ -188,8 +190,6 @@
     "PublicBrain/A2-PL.md",
     "PublicBrain/A1-PL.md",
     "C2-PL.md",
-    "C1-PL.md",
-    "B2-PL.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

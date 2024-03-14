@@ -52,7 +52,7 @@ tags: []
 
 ### Lección 5: Describiendo Actividades Diarias
 
-- Verbos comunes para actividades diarias
+- [[Verbos comunes para actividades diarias (A1-SW]])
 - [[Rutina diaria (A1-SW)]]
 - Expresar gustos y preferencias
 

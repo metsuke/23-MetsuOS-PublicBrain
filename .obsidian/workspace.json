@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diálogos y actividades de expresión oral (A1-CA).md",
+                "file": "PublicBrain/A1-SW.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diálogos y actividades de expresión oral (A1-CA).md",
+                "file": "PublicBrain/A1-SW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diálogos y actividades de expresión oral (A1-CA).md",
+                "file": "PublicBrain/A1-SW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diálogos y actividades de expresión oral (A1-CA).md"
+                "file": "PublicBrain/A1-SW.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "7e75e5d91d524183",
   "lastOpenFiles": [
-    "PublicBrain/A1-CA.md",
+    "Verbos comunes para actividades diarias (A1-SW.md",
+    "PublicBrain/A1-SW.md",
     "Diálogos y actividades de expresión oral (A1-CA).md",
+    "PublicBrain/A1-CA.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Index.md",
@@ -188,8 +190,6 @@
     "B2-PL.md",
     "B1-PL.md",
     "A2-PL.md",
-    "A1-PL.md",
-    "Niveles Oficiales PL.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

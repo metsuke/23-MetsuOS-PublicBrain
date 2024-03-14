@@ -1,16 +1,17 @@
 ---
+iaStatus: 3
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:48.000Z
-modified: 2024-03-11T23:13:47.514Z
+modified: 2024-03-13T20:48:21.413Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 20
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 24
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # A1-CA
 
@@ -57,7 +58,7 @@ tags: []
 
 6.1. [[Pruebas de vocabulario y gramática (A1-CA)]]
 6.2. Ejercicios de comprensión de lectura y escucha.
-6.3. Diálogos y actividades de expresión oral.
+6.3. [[Diálogos y actividades de expresión oral (A1-CA)]]
 6.4. [[Evaluación final del nivel A1 de catalán (A1-CA)]].
 
 

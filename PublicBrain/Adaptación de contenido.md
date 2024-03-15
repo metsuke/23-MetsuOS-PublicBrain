@@ -1,15 +1,14 @@
 ---
 iaStatus: 0
-iaStatus: 0
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-02-15T01:00:22.599Z
-modified: 2024-03-13T14:33:29.920Z
+modified: 2024-03-14T21:53:36.380Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 21
+ver_rev: 22
 nav_primary: []
 nav_secondary: []
 tags: []

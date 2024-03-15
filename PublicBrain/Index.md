@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-13T20:48:21.383Z
+modified: 2024-03-14T22:11:57.616Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 24
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -107,6 +107,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	* [[Aprender sobre CSS-Grid]]
 * [[Aprender sobre GNU Linux]]
 * [[Aprender sobre Hardware Libre]] 
+	* [[Hardware Libre - Almacenamiento]]
 	* [[Hardware Libre - Memoria Volatil]]
 	* [[Hardware Libre - Microprocesadores]]
 * [[Aprender sobre Inteligencia Artificial]]

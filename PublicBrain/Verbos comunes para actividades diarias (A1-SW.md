@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-14T17:53:47.523Z
+modified: 2024-03-14T20:06:50.008Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Verbos comunes para actividades diarias (A1-SW
 
 [[A1-SW]]

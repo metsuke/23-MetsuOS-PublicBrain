@@ -1,17 +1,17 @@
 ---
-iaStatus: 0
+iaStatus: 3
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:56.000Z
-modified: 2024-03-14T21:53:36.120Z
+modified: 2024-03-16T16:30:04.372Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 24
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # HSK1-ZH
 
@@ -28,7 +28,7 @@ tags: []
 
 ## Módulo 2: Saludos y Conversación Básica
 
-- Saludos y presentaciones
+- [[Saludos y presentaciones (HSK1-ZH)]]
 - [[Preguntar y dar información personal (HSK1-ZH)]]
 - Expresar agradecimiento y disculpa
 - Números y fechas en chino

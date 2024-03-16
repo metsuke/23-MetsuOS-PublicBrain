@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/N5-JP.md",
+                "file": "PublicBrain/Saludos y presentaciones (HSK1-ZH).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/N5-JP.md",
+                "file": "PublicBrain/Saludos y presentaciones (HSK1-ZH).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/N5-JP.md",
+                "file": "PublicBrain/Saludos y presentaciones (HSK1-ZH).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/N5-JP.md"
+                "file": "PublicBrain/Saludos y presentaciones (HSK1-ZH).md"
               }
             }
           },
@@ -164,11 +164,16 @@
   },
   "active": "c858cd84c64dcdde",
   "lastOpenFiles": [
-    "Descripción de objetos y lugares (N5-JP).md",
-    "PublicBrain/N5-JP.md",
-    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/HSK1-ZH.md",
+    "PublicBrain/Saludos y presentaciones (HSK1-ZH).md",
+    "Saludos y presentaciones (HSK1-ZH).md",
+    "PublicBrain/Descripción de objetos y lugares (N5-JP).md",
+    "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/Index.md",
+    "PublicBrain/N5-JP.md",
+    "Descripción de objetos y lugares (N5-JP).md",
     "PublicBrain/晶.md",
     "PublicBrain/Kanji.md",
     "晶.md",
@@ -185,11 +190,6 @@
     "PublicBrain/Kanji - Grado 2.md",
     "PublicBrain/明.md",
     "PublicBrain/Kanji - Grado 1.md",
-    "PublicBrain/Aprender con Javier G. Recuenco.md",
-    "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
-    "PublicBrain/Visión del concepto de Relato de Havier G. Recuenco.md",
-    "Visión del concepto de Relato de Havier G. Recuenco.md",
-    "Index.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

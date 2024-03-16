@@ -5,17 +5,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:49.000Z
-modified: 2024-03-16T07:07:06.013Z
+modified: 2024-03-16T14:32:18.417Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 23
+ver_rev: 24
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender Idioma Japones
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * JP | [[Japonés]] 
 	* [[Sistemas de escritura japoneses]]

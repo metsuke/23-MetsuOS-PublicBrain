@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-16T17:52:28.920Z
+modified: 2024-03-16T18:00:01.455Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Consonantes en Hindi (Basico-HI)
 
 [[Básico HI]]

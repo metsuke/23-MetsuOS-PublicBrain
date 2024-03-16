@@ -24,7 +24,7 @@ tags: []
 - [[Introducción al alfabeto tailandés  (Principiante TH)]]
 - [[Saludos y presentaciones (Principiante TH)]]
 - [[Los números en tailandés  (Principiante TH)]]
-- Expresiones básicas de cortesía
+- [[Expresiones básicas de cortesía (Principiante TH)]]
 
 ## Módulo 2: Vocabulario Esencial
 

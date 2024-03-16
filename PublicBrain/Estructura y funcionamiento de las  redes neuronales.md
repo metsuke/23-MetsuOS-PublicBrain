@@ -30,7 +30,7 @@ tags: []
 * [[Pesos y bias (Redes Neuronales)]]
 * [[Cálculo de la salida de una neurona]]
 
-## Redes Neuronales Feedforward
+## [[Redes Neuronales Feedforward]]
 
 * [[Arquitectura de las redes feedforward]]
 * [[Capas ocultas y capa de salida]]

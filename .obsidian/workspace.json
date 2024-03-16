@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,8 +164,11 @@
   },
   "active": "7e75e5d91d524183",
   "lastOpenFiles": [
-    "Interfaz de usuario accesible.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Redes Neuronales Feedforward.md",
+    "PublicBrain/Arquitectura de las redes feedforward.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "Interfaz de usuario accesible.md",
     "PublicBrain/Normativas y estándares internacionales (A11Y Videojuegos).md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
@@ -187,9 +190,6 @@
     "Index.md",
     "PublicBrain/Aprender Idioma Noruego.md",
     "A1-NO.md",
-    "A2-NO.md",
-    "B1-NO.md",
-    "B2-NO.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

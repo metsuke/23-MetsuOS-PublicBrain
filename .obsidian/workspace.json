@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
+                "file": "Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md"
               }
             }
           },
@@ -164,8 +164,11 @@
   },
   "active": "7e75e5d91d524183",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "PublicBrain/WCAG 2.0.md",
+    "Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md",
+    "PublicBrain/Accesibilidad del teclado.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
     "PublicBrain/Index.md",
     "Hardware Libre - Almacenamiento.md",
     "PublicBrain/Niveles Oficiales NO.md",
@@ -187,9 +190,6 @@
     "C2-NO.md",
     "Niveles Oficiales NO.md",
     "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Letra \"BabyMetal Death\".md",
-    "PublicBrain/首輪.md",
-    "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

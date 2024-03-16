@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Saludos y presentaciones (HSK1-ZH).md",
+                "file": "PublicBrain/Aprender Idioma Hindi.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Saludos y presentaciones (HSK1-ZH).md",
+                "file": "PublicBrain/Aprender Idioma Hindi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Saludos y presentaciones (HSK1-ZH).md",
+                "file": "PublicBrain/Aprender Idioma Hindi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Saludos y presentaciones (HSK1-ZH).md"
+                "file": "PublicBrain/Aprender Idioma Hindi.md"
               }
             }
           },
@@ -164,12 +164,19 @@
   },
   "active": "c858cd84c64dcdde",
   "lastOpenFiles": [
+    "PublicBrain/Básico HI.md",
+    "Consonantes en Hindi (Basico-HI).md",
+    "PublicBrain/Introducción al alfabeto Hindi (Basico-HI).md",
+    "Básico-HI.md",
+    "PublicBrain/Aprender Idioma Hindi.md",
+    "PublicBrain/Escritura y pronunciación (Basico-HI).md",
+    "PublicBrain/Vocales en Hindi (Basico-HI).md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/HSK1-ZH.md",
     "PublicBrain/Saludos y presentaciones (HSK1-ZH).md",
     "Saludos y presentaciones (HSK1-ZH).md",
     "PublicBrain/Descripción de objetos y lugares (N5-JP).md",
-    "PublicBrain/Aprender Idioma Chino.md",
-    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/Index.md",
     "PublicBrain/N5-JP.md",
@@ -183,13 +190,6 @@
     "PublicBrain/Jinmeiyō-kanji.md",
     "PublicBrain/Kanji - Grado 7 - Jôyô kanji.md",
     "PublicBrain/Kanji - Grado 6 - Jôyô kanji.md",
-    "PublicBrain/Kanji - Grado 5 - Jôyô kanji.md",
-    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
-    "PublicBrain/唱.md",
-    "PublicBrain/Kanji - Grado 3.md",
-    "PublicBrain/Kanji - Grado 2.md",
-    "PublicBrain/明.md",
-    "PublicBrain/Kanji - Grado 1.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

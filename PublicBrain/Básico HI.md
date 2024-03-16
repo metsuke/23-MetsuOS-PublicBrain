@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-26T21:35:34.089Z
-modified: 2024-03-14T21:53:36.265Z
+modified: 2024-03-16T17:52:06.368Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,10 +20,10 @@ tags: []
 ## Introducción al Hindi
 
 ## Módulo 1: Alfabeto Hindi
-- [[Introducción al alfabeto Hindi]]
-- [[Vocales en Hindi]]
-- Consonantes en Hindi
-- [[Escritura y pronunciación (HI Basico)]]
+- [[Introducción al alfabeto Hindi (Basico-HI)]]
+- [[Vocales en Hindi (Basico-HI)]]
+- [[Consonantes en Hindi (Basico-HI)]]
+- [[Escritura y pronunciación (Basico-HI)]]
 
 ## Módulo 2: Números y Contar
 - Números del 1 al 10

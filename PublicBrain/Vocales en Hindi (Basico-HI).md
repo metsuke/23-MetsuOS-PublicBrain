@@ -5,15 +5,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-10T22:40:31.919Z
-modified: 2024-03-14T21:53:35.799Z
+modified: 2024-03-16T17:51:48.272Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Vocales en Hindi
+# Vocales en Hindi (Basico-HI)
 
 [[Básico HI]]
 

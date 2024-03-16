@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expresiones básicas de cortesía (Principiante TH).md",
+                "file": "PublicBrain/Nivel Principiante TH.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expresiones básicas de cortesía (Principiante TH).md",
+                "file": "PublicBrain/Nivel Principiante TH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expresiones básicas de cortesía (Principiante TH).md",
+                "file": "PublicBrain/Nivel Principiante TH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expresiones básicas de cortesía (Principiante TH).md"
+                "file": "PublicBrain/Nivel Principiante TH.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "c16d2355b70c5788",
   "lastOpenFiles": [
-    "PublicBrain/Nivel Principiante TH.md",
     "Expresiones básicas de cortesía (Principiante TH).md",
+    "PublicBrain/Expresiones básicas de cortesía (Principiante TH).md",
+    "PublicBrain/Nivel Principiante TH.md",
     "PublicBrain/Introducción al alfabeto tailandés  (Principiante TH).md",
     "PublicBrain/Apnreder Idioma Tailandés.md",
     "PublicBrain/Aprender Idiomas.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Descripción de objetos y lugares (N5-JP).md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/N5-JP.md",
-    "Descripción de objetos y lugares (N5-JP).md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

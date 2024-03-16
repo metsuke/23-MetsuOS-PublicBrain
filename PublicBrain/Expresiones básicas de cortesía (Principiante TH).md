@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-16T22:19:23.727Z
+modified: 2024-03-16T22:23:38.893Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Expresiones básicas de cortesía (Principiante TH)
 
 [[Nivel Principiante TH]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "晶.md",
+                "file": "PublicBrain/N5-JP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "晶.md",
+                "file": "PublicBrain/N5-JP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "晶.md",
+                "file": "PublicBrain/N5-JP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "晶.md"
+                "file": "PublicBrain/N5-JP.md"
               }
             }
           },
@@ -164,8 +164,15 @@
   },
   "active": "c858cd84c64dcdde",
   "lastOpenFiles": [
-    "PublicBrain/Kanji - Grado 8 - Jôyô kanji.md",
+    "Descripción de objetos y lugares (N5-JP).md",
+    "PublicBrain/N5-JP.md",
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/晶.md",
+    "PublicBrain/Kanji.md",
     "晶.md",
+    "PublicBrain/Kanji - Grado 8 - Jôyô kanji.md",
     "PublicBrain/巡.md",
     "PublicBrain/Kanji - Grado 9 - Jôyô kanji.md",
     "PublicBrain/Jinmeiyō-kanji.md",
@@ -178,18 +185,11 @@
     "PublicBrain/Kanji - Grado 2.md",
     "PublicBrain/明.md",
     "PublicBrain/Kanji - Grado 1.md",
-    "PublicBrain/Kanji.md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender con Javier G. Recuenco.md",
     "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
     "PublicBrain/Visión del concepto de Relato de Havier G. Recuenco.md",
     "Visión del concepto de Relato de Havier G. Recuenco.md",
     "Index.md",
-    "PublicBrain/Katakana.md",
-    "PublicBrain/Hiragana.md",
-    "PublicBrain/N5-JP.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

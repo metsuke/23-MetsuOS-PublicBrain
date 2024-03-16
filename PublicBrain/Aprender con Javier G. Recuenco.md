@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:49.000Z
-modified: 2024-03-14T21:53:36.342Z
+modified: 2024-03-16T08:10:43.697Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -22,6 +22,7 @@ En este proyecto tomo los "hilos turra" de [Javier G. Recuenco](https://www.link
 ## WIP
 
 * [[Vision del CPS de Javier G. Recuenco]]
+* [[Visión del concepto de Relato de Havier G. Recuenco]]
 
 ## Review
 

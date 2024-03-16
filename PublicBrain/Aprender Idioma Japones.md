@@ -1,23 +1,25 @@
 ---
-iaStatus: 0
+iaStatus: 1
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:49.000Z
-modified: 2024-03-14T21:53:36.362Z
+modified: 2024-03-16T07:07:06.013Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 23
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender Idioma Japones
 
 [[PublicBrain/Index#Aprender Idiomas]]
 
 * JP | [[Japonés]] 
+	* [[Sistemas de escritura japoneses]]
+		* [[Hiragana]] | [[Katakana]] | [[Kanji]]
 	* [[Niveles Oficiales JP]]
 		* [[N5-JP]] | [[N4-JP]] | [[N3-JP]] | [[N2-JP]] | [[N1-JP]]
 	* [[Niveles y Exámenes Adicionales JP]]

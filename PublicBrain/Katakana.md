@@ -5,19 +5,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:57.000Z
-modified: 2024-03-14T21:53:36.059Z
+modified: 2024-03-16T07:34:41.564Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Katakana
 
-[[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
+[[Aprender Idioma Japones]] | [[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
 
-[[Hiragana]] | [[Katakana]] | [[Kanji]] | [[Sistemas de escritura japoneses]]
+[[Hiragana]] | [[Kanji]] | [[Sistemas de escritura japoneses]]
 
 El katakana es uno de los [[Sistemas de escritura japoneses]]. Es un silabario compuesto por 46 caracteres que representan sílabas o sonidos básicos del idioma japonés. A diferencia del hiragana, que se utiliza principalm[[sistemas de escritura japoneses]]ente para palabras japonesas nativas, el katakana se emplea para transcribir palabras extranjeras, nombres extranjeros y términos técnicos.
 

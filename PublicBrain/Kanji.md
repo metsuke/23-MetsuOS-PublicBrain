@@ -1,23 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 2
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:57.000Z
-modified: 2024-03-14T21:53:36.060Z
+modified: 2024-03-16T07:35:08.789Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
-nav_primary: []
+ver_rev: 23
+nav_primary: 
 nav_secondary: []
-tags: []
+tags:
 ---
 # Kanji
 
-[[Japonés]]
+[[Aprender Idioma Japones]] | [[Japonés]]
 
-[[Hiragana]] | [[Katakana]] | [[Kanji]] | [[Sistemas de escritura japoneses]]
+[[Hiragana]] | [[Katakana]] | [[Sistemas de escritura japoneses]]
 
 Los kanji son caracteres chinos que se adoptaron en Japón y se convirtieron en parte integral de los [[Sistemas de escritura japoneses]]. Son logogramas, lo que significa que cada carácter representa una palabra, un concepto o una idea en lugar de una sílaba o sonido individual.
 

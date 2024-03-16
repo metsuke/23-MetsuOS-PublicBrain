@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-16T06:47:39.907Z
+modified: 2024-03-16T06:49:28.543Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Redes Neuronales Feedforward
 
 [[Estructura y funcionamiento de las  redes neuronales]]

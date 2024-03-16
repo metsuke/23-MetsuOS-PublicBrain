@@ -5,14 +5,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:57.000Z
-modified: 2024-03-14T21:53:36.065Z
+modified: 2024-03-16T08:29:07.883Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
+# Kanji - Grado 2
  # Kanji - Grado 2
 
 [[Kanji]] | [Segundo año de la escuela primaria](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_2 "Japonés/Kanji/Grado 2")

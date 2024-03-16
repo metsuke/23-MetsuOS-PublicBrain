@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visión del concepto de Relato de Havier G. Recuenco.md",
+                "file": "晶.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "首輪",
+                "query": "晶",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visión del concepto de Relato de Havier G. Recuenco.md",
+                "file": "晶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visión del concepto de Relato de Havier G. Recuenco.md",
+                "file": "晶.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visión del concepto de Relato de Havier G. Recuenco.md"
+                "file": "晶.md"
               }
             }
           },
@@ -164,32 +164,32 @@
   },
   "active": "c858cd84c64dcdde",
   "lastOpenFiles": [
-    "PublicBrain/Aprender con Javier G. Recuenco.md",
-    "Visión del concepto de Relato de Havier G. Recuenco.md",
-    "PublicBrain/Index.md",
-    "Index.md",
+    "PublicBrain/Kanji - Grado 8 - Jôyô kanji.md",
+    "晶.md",
+    "PublicBrain/巡.md",
+    "PublicBrain/Kanji - Grado 9 - Jôyô kanji.md",
+    "PublicBrain/Jinmeiyō-kanji.md",
+    "PublicBrain/Kanji - Grado 7 - Jôyô kanji.md",
+    "PublicBrain/Kanji - Grado 6 - Jôyô kanji.md",
+    "PublicBrain/Kanji - Grado 5 - Jôyô kanji.md",
+    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/唱.md",
+    "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/明.md",
+    "PublicBrain/Kanji - Grado 1.md",
     "PublicBrain/Kanji.md",
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender con Javier G. Recuenco.md",
+    "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
+    "PublicBrain/Visión del concepto de Relato de Havier G. Recuenco.md",
+    "Visión del concepto de Relato de Havier G. Recuenco.md",
+    "Index.md",
     "PublicBrain/Katakana.md",
     "PublicBrain/Hiragana.md",
     "PublicBrain/N5-JP.md",
-    "PublicBrain/え.md",
-    "PublicBrain/あ.md",
-    "え.md",
-    "PublicBrain/お.md",
-    "PublicBrain/う.md",
-    "PublicBrain/い.md",
-    "PublicBrain/と.md",
-    "PublicBrain/ゆ.md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/Sistemas de escritura japoneses.md",
-    "PublicBrain/japonés.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Redes Neuronales Feedforward.md",
-    "PublicBrain/Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md",
-    "PublicBrain/Interfaz de usuario accesible.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "Redes Neuronales Feedforward.md",
-    "PublicBrain/Arquitectura de las redes feedforward.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

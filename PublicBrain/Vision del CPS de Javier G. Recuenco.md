@@ -1,17 +1,17 @@
 ---
-iaStatus: 0
+iaStatus: 1
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-02-25T14:31:45.652Z
-modified: 2024-03-14T21:53:35.813Z
+modified: 2024-03-16T08:28:03.703Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 23
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Vision del CPS de Javier G. Recuenco
 

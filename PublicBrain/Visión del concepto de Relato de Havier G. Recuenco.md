@@ -1,5 +1,5 @@
 ---
-iaStatus: 0
+iaStatus: 1
 a11y: 0
 checked: 0
 lang: ES
@@ -9,9 +9,9 @@ modified: 2024-03-16T08:13:24.349Z
 ver_major: 0
 ver_minor: "0"
 ver_rev: 1
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Visión del concepto de Relato de Havier G. Recuenco
 

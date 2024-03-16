@@ -1,3 +1,17 @@
+---
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-16T06:41:14.373Z
+modified: 2024-03-16T06:45:02.469Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente
 
 [[WCAG 2.0]] | [[WCAG 2.1]]

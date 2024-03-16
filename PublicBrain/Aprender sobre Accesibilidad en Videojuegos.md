@@ -13,6 +13,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
+# Aprender sobre Accesibilidad en Videojuegos
 q# Aprender sobre Accesibilidad en Videojuegos
 
 [[PublicBrain/Index#Plena Inclusión]]
@@ -32,7 +33,7 @@ q# Aprender sobre Accesibilidad en Videojuegos
 ## III. Diseño Inclusivo en Videojuegos
    - [[Fundamentos del diseño inclusivo]].
    - Consideraciones para el diseño de personajes.
-   - Interfaz de usuario accesible.
+   - [[Interfaz de usuario accesible]].
 
 ## IV. Accesibilidad Visual
    - [[Ajustes de contraste y color]]

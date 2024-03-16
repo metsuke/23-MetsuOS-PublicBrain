@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md"
               }
             }
           },
@@ -164,12 +164,16 @@
   },
   "active": "7e75e5d91d524183",
   "lastOpenFiles": [
+    "Interfaz de usuario accesible.md",
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "PublicBrain/Normativas y estándares internacionales (A11Y Videojuegos).md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.0.md",
     "Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md",
     "PublicBrain/Accesibilidad del teclado.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
-    "PublicBrain/Index.md",
     "Hardware Libre - Almacenamiento.md",
     "PublicBrain/Niveles Oficiales NO.md",
     "PublicBrain/Hardware Libre - Almacenamiento.md",
@@ -186,10 +190,6 @@
     "A2-NO.md",
     "B1-NO.md",
     "B2-NO.md",
-    "C1-NO.md",
-    "C2-NO.md",
-    "Niveles Oficiales NO.md",
-    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

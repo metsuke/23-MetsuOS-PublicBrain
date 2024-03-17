@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender con G-L.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender con G-L.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender con G-L.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender con G-L.md"
               }
             }
           },
@@ -164,9 +164,17 @@
   },
   "active": "c16d2355b70c5788",
   "lastOpenFiles": [
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender con Q-Z.md",
+    "PublicBrain/Aprender con M-P.md",
+    "PublicBrain/Aprender con G-L.md",
+    "PublicBrain/Aprender con A-F.md",
+    "Aprender con A-F.md",
+    "Aprender con Q-Z.md",
+    "Aprender con M-P.md",
+    "Aprender con G-L.md",
     "PublicBrain/Aprender con Beatriz Martín.md",
     "Aprender con Beatriz Martín.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Inglés.md",
     "PublicBrain/Aprender sobre sistemas de escritura.md",
@@ -182,14 +190,6 @@
     "PublicBrain/Aprender con Javier G. Recuenco.md",
     "PublicBrain/Promting Database.md",
     "PublicBrain/Apnreder Idioma Tailandés.md",
-    "PublicBrain/Nivel Principiante TH.md",
-    "Expresiones básicas de cortesía (Principiante TH).md",
-    "PublicBrain/Expresiones básicas de cortesía (Principiante TH).md",
-    "PublicBrain/Introducción al alfabeto tailandés  (Principiante TH).md",
-    "¿Qué es el chino mandarín? (HSK1-ZH).md",
-    "PublicBrain/HSK1-ZH.md",
-    "PublicBrain/¿Qué es el chino mandarín? (HSK1-ZH).md",
-    "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

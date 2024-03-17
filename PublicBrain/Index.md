@@ -31,17 +31,56 @@ tags:
 
 Por el momento vemos que podemos aprender de cada uno de ellos, de temas relacionados con temas absolutamente diversos,y, en algunos casos, expertos en temáticas que se prestan al trabajo que pretendo con las realidades probabilísticas y su gestión en busca de una aproximación multidimensional a la """verdad""".
 
+No estoy de acuerdo con todo lo que dicen todos, mas todos ellos aportan una visión unica sobre aquello de que hablan.
+
 * [[Aprender con Antonio Ruiz García (ElGris)]]
+* Aprender con Ángel Rodríguez Lozano
+* Aprener con Antonio Claret
+* Aprender con Daniel Aragay Esteban
+* Aprender con Arturo Pérez Reverte
+* Aprender con Avelino Vicente
 * [[Aprender con Beatriz Martín]]
+* Aprender con Birgit Linda Emberger
+* Aprendercon Clara Galán
 * [[Aprender con Coronel Baños]]
 * Aprender con Cris Carrascosa
-* Aprender con Doctora Lujan Comas
+* Aprender con Daniel Iván Reyes
+* Aprender con Diego Marañon
+* Aprender con Doctor José Cabrera
 * Aprender con Doctor Jose Miguel Gaona
+* Aprender con Doctora Lujan Comas
+* Aprender con Eduardo Sáenz de Cabezón
+* Aprender con Enrique de Vicente
+* Aprender con Fabián González Rivas
+* Aprender con Felix Rodriguez de la Fuente
+* Aprender con Gerardo Sanz
+* Aprender con Germán Fernández Sánchez
+* Aprender con Ignasi Díaz Ferrando
 * Aprender con Iker Jiménez
 * Aprender con Isaac Asimov
+* Aprender con Jackes Cousteau
 * [[Aprender con Javier G. Recuenco]]
+* Aprender con Jéssica Arribas Arranz
+* Aprener con Joaquín Sánchez Aguilar
+* Aprender con Jon Sistiaga
+* Aprender con Jorge Laborda Fernández
+* Aprender con José Juan Sanchez García
+* Aprender con Jose Luis Guardeño López
+* Aprender con José Rafael Esteban Durán
+* Aprender con José María Cánovas
+* Aprender con Josefina Cano
+* Aprener con Juanjo Navarro Mínguez
+* Aprender con Luis Quevedo
+* Aprender con Manuel Diez Minguito
+* Aprender con Operador Nuclear
+* Aprender con Pablo Fuente
 * [[Aprender con Pablo Grueso]]
-* Aprender con Paula
+* Aprender con Rafael Vázquez Peña
+* Aprender con Raquel Ubàguls Galán
+* Aprender con Roger Antonsen
+* Aprender con Rosa Lencero Guillermo
+* Aprender con Rosana de Matos Silveira
+* Aprender con Tomás Pedraza Jiménez
 * [[Aprender con Sani Ladam]]
 * [[Aprender con SizeMatters]]
 

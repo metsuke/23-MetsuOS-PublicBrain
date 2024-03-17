@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,10 +164,15 @@
   },
   "active": "c16d2355b70c5788",
   "lastOpenFiles": [
-    "Identificación de barreras comunes para usuarios con discapacidad.md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "Aprender con Beatriz Martín.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Inglés.md",
+    "PublicBrain/Aprender sobre sistemas de escritura.md",
     "PublicBrain/Tools Database.md",
+    "PublicBrain/Identificación de barreras comunes para usuarios con discapacidad.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "Identificación de barreras comunes para usuarios con discapacidad.md",
     "PublicBrain/Aprender con Pablo Grueso.md",
     "Tools Database.md",
     "PublicBrain/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
@@ -180,16 +185,11 @@
     "Expresiones básicas de cortesía (Principiante TH).md",
     "PublicBrain/Expresiones básicas de cortesía (Principiante TH).md",
     "PublicBrain/Introducción al alfabeto tailandés  (Principiante TH).md",
-    "PublicBrain/Aprender Idiomas.md",
     "¿Qué es el chino mandarín? (HSK1-ZH).md",
     "PublicBrain/HSK1-ZH.md",
     "PublicBrain/¿Qué es el chino mandarín? (HSK1-ZH).md",
     "PublicBrain/Aprender Idioma Chino.md",
     "Index.md",
-    "PublicBrain/Consonantes en Hindi (Basico-HI).md",
-    "PublicBrain/Básico-HI.md",
-    "PublicBrain/Aprender Idioma Hindi.md",
-    "PublicBrain/Básico HI.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

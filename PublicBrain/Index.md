@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-16T23:58:37.936Z
+modified: 2024-03-17T21:18:54.677Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 27
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,15 +24,24 @@ tags:
 ## Aprender Idiomas y Cultura
 
 * [[Aprender Idiomas]]
-* [[Aorender sobre sistemas de escritura]]
+* [[Aprender sobre sistemas de escritura]]
 * [[Aprender sobre cultura internacional a través de los idiomas]]
 
 ## Aprender con ...
 
+Por el momento vemos que podemos aprender de cada uno de ellos, de temas relacionados con temas absolutamente diversos,y, en algunos casos, expertos en temáticas que se prestan al trabajo que pretendo con las realidades probabilísticas y su gestión en busca de una aproximación multidimensional a la """verdad""".
+
 * [[Aprender con Antonio Ruiz García (ElGris)]]
+* [[Aprender con Beatriz Martín]]
 * [[Aprender con Coronel Baños]]
+* Aprender con Cris Carrascosa
+* Aprender con Doctora Lujan Comas
+* Aprender con Doctor Jose Miguel Gaona
+* Aprender con Iker Jiménez
+* Aprender con Isaac Asimov
 * [[Aprender con Javier G. Recuenco]]
 * [[Aprender con Pablo Grueso]]
+* Aprender con Paula
 * [[Aprender con Sani Ladam]]
 * [[Aprender con SizeMatters]]
 

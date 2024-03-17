@@ -5,15 +5,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-10T05:25:38.278Z
-modified: 2024-03-14T21:53:36.373Z
+modified: 2024-03-17T08:12:34.505Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Aorender sobre sistemas de escritura
+# Aprender sobre sistemas de escritura
 
 [[PublicBrain/index]]
 

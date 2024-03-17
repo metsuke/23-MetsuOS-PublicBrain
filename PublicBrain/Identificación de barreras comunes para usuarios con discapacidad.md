@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-17T00:17:45.062Z
+modified: 2024-03-17T00:21:53.667Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Identificación de barreras comunes para usuarios con discapacidad
 
 [[Aprender sobre Accesibilidad en ELearining]]

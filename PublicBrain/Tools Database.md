@@ -19,4 +19,5 @@ tags:
 
 * [Buscador caracteres UTF](https://www.amp-what.com/unicode/search/square)
 * [ChatGPT](https://chat.openai.com/)
+* [OpenAI](https://openai.com/)
 * [Whatsapp Web](https://web.whatsapp.com/)

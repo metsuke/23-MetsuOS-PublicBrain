@@ -5,17 +5,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-10T05:24:41.332Z
-modified: 2024-03-14T20:13:51.613Z
+modified: 2024-03-17T08:20:24.367Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender Idiomas
 
-[[PublicBrain/Index]]
+[[PublicBrain/Index|Index]]
 
 Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una prioridad diferente y está en una fase distinta del proceso.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md"
               }
             }
           },
@@ -164,8 +164,12 @@
   },
   "active": "c16d2355b70c5788",
   "lastOpenFiles": [
-    "Tools Database.md",
+    "Identificación de barreras comunes para usuarios con discapacidad.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Tools Database.md",
+    "PublicBrain/Aprender con Pablo Grueso.md",
+    "Tools Database.md",
     "PublicBrain/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
     "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
     "Aprender con Pablo Grueso.md",
@@ -186,10 +190,6 @@
     "PublicBrain/Básico-HI.md",
     "PublicBrain/Aprender Idioma Hindi.md",
     "PublicBrain/Básico HI.md",
-    "Consonantes en Hindi (Basico-HI).md",
-    "PublicBrain/Introducción al alfabeto Hindi (Basico-HI).md",
-    "Básico-HI.md",
-    "PublicBrain/Escritura y pronunciación (Basico-HI).md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

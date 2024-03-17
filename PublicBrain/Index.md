@@ -77,6 +77,7 @@ No estoy de acuerdo con todo lo que dicen todos, mas todos ellos aportan una vis
 * [[Aprender con Pablo Grueso]]
 * Aprender con Rafael Vázquez Peña
 * Aprender con Raquel Ubàguls Galán
+* Aprender con Ricardo Moure
 * Aprender con Roger Antonsen
 * Aprender con Rosa Lencero Guillermo
 * Aprender con Rosana de Matos Silveira

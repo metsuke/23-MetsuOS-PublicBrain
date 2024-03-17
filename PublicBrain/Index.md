@@ -5,17 +5,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-14T22:11:57.616Z
+modified: 2024-03-16T23:58:37.936Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Index
 
-[[Index]] | [[Promting Database]] | [ChatGPT](https://chat.openai.com/) | [Whatsapp](https://web.whatsapp.com/)
+[[Index]] | [[Promting Database]] | [[Tools Database]]
 
 ## Desarrollo Estructura Habilidades-Perfiles-Tareas 
 
@@ -32,6 +32,7 @@ tags:
 * [[Aprender con Antonio Ruiz García (ElGris)]]
 * [[Aprender con Coronel Baños]]
 * [[Aprender con Javier G. Recuenco]]
+* [[Aprender con Pablo Grueso]]
 * [[Aprender con Sani Ladam]]
 * [[Aprender con SizeMatters]]
 

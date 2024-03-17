@@ -1,17 +1,17 @@
 ---
-iaStatus: 0
+iaStatus: 1
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-03-10T06:06:45.648Z
-modified: 2024-03-14T21:53:36.013Z
+modified: 2024-03-17T00:09:39.234Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 23
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)
 
@@ -159,6 +159,3 @@ De momento tomo notas, aunque eventualmente quisiera ver como crear un método p
 		* VIA ciencia@mastodon.social [https://mastodon.social/@ciencia/110870413024140555](https://mastodon.social/@ciencia/110870413024140555)
 			* PAPER fuente de 1: [Many-body chemical reactions in a quantum degenerate gas](https://www.nature.com/articles/s41567-023-02139-8)
 
-### UTF
-
-* [Buscador caracteres UTF](https://www.amp-what.com/unicode/search/square)

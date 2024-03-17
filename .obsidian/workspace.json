@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Nivel Principiante TH.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Nivel Principiante TH.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Nivel Principiante TH.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Nivel Principiante TH.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,13 +164,19 @@
   },
   "active": "c16d2355b70c5788",
   "lastOpenFiles": [
+    "Tools Database.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
+    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
+    "Aprender con Pablo Grueso.md",
+    "PublicBrain/Aprender con Javier G. Recuenco.md",
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Apnreder Idioma Tailandés.md",
+    "PublicBrain/Nivel Principiante TH.md",
     "Expresiones básicas de cortesía (Principiante TH).md",
     "PublicBrain/Expresiones básicas de cortesía (Principiante TH).md",
-    "PublicBrain/Nivel Principiante TH.md",
     "PublicBrain/Introducción al alfabeto tailandés  (Principiante TH).md",
-    "PublicBrain/Apnreder Idioma Tailandés.md",
     "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Index.md",
     "¿Qué es el chino mandarín? (HSK1-ZH).md",
     "PublicBrain/HSK1-ZH.md",
     "PublicBrain/¿Qué es el chino mandarín? (HSK1-ZH).md",
@@ -184,12 +190,6 @@
     "PublicBrain/Introducción al alfabeto Hindi (Basico-HI).md",
     "Básico-HI.md",
     "PublicBrain/Escritura y pronunciación (Basico-HI).md",
-    "PublicBrain/Vocales en Hindi (Basico-HI).md",
-    "PublicBrain/Saludos y presentaciones (HSK1-ZH).md",
-    "Saludos y presentaciones (HSK1-ZH).md",
-    "PublicBrain/Descripción de objetos y lugares (N5-JP).md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/N5-JP.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

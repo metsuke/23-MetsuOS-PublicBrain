@@ -37,3 +37,4 @@ tags:
 * Aprender con Enrique de Vicente
 * Aprender con Fabián González Rivas
 * Aprender con Felix Rodriguez de la Fuente
+* Aprender con Francisco José Fernandez-Cruz Segura

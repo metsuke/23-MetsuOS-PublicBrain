@@ -5,17 +5,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-18T06:36:35.441Z
+modified: 2024-03-19T21:18:00.054Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 31
+ver_rev: 32
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Index
 
-[[Index]] | [[Promting Database]] | [[Tools Database]]
+[[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] | [[Promting Database]] | [[Tools Database]]
 
 ## Desarrollo Estructura Habilidades-Perfiles-Tareas 
 

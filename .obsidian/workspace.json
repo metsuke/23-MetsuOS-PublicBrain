@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Esperanto.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Esperanto.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Esperanto.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Esperanto.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,7 +164,10 @@
   },
   "active": "c16d2355b70c5788",
   "lastOpenFiles": [
+    "Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos..md",
+    "PublicBrain/Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos..md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Esperanto.md",
     "PublicBrain/Niveles y Exámenes Adicionales EO.md",
     "PublicBrain/C2-IT.md",
     "PublicBrain/C1-IT.md",
@@ -172,7 +175,6 @@
     "PublicBrain/B1-IT.md",
     "PublicBrain/A2-IT.md",
     "PublicBrain/A1-IT.md",
-    "PublicBrain/Aprender Idioma Esperanto.md",
     "Niveles y Exámenes Adicionales EO.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Promting Database.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Interpretación de la información.md",
     "PublicBrain/Consideraciones para el diseño de personajes.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "Consideraciones para el diseño de personajes.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

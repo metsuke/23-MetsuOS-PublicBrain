@@ -44,7 +44,7 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
         - 3.2.6 Tres destellos o más (Mejora)
         - 3.3.5 Cambios en movimiento (Mejora)
     - **[[Pauta 4 - Compatible]] (Mejora)**
-        - 4.1.3 Interpretación de la información (Mejora)
+        - 4.1.3 [[Interpretación de la información]] (Mejora)
     - **Pauta 5. Flexibilidad y manejo de errores (Mejora)**
         - 5.1.3 Ayuda (Mejora)
     - **Pauta 6. Entrada y navegación (Mejora)**

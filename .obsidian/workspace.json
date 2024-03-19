@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender con G-L.md",
+                "file": "Interpretación de la información.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender con G-L.md",
+                "file": "Interpretación de la información.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender con G-L.md",
+                "file": "Interpretación de la información.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender con G-L.md"
+                "file": "Interpretación de la información.md"
               }
             }
           },
@@ -164,10 +164,16 @@
   },
   "active": "c16d2355b70c5788",
   "lastOpenFiles": [
+    "PublicBrain/WCAG 2.0.md",
+    "Interpretación de la información.md",
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/Interrupción del contenido que parpadea.md",
+    "PublicBrain/Aprender sobre Economía y Finanzas.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+    "PublicBrain/Aprender con G-L.md",
     "PublicBrain/Aprender con Q-Z.md",
     "PublicBrain/Aprender con M-P.md",
-    "PublicBrain/Aprender con G-L.md",
     "PublicBrain/Aprender con A-F.md",
     "Aprender con A-F.md",
     "Aprender con Q-Z.md",
@@ -184,12 +190,6 @@
     "Identificación de barreras comunes para usuarios con discapacidad.md",
     "PublicBrain/Aprender con Pablo Grueso.md",
     "Tools Database.md",
-    "PublicBrain/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
-    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
-    "Aprender con Pablo Grueso.md",
-    "PublicBrain/Aprender con Javier G. Recuenco.md",
-    "PublicBrain/Promting Database.md",
-    "PublicBrain/Apnreder Idioma Tailandés.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

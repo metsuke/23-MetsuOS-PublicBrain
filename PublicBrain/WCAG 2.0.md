@@ -1,17 +1,17 @@
 ---
-iaStatus: 0
+iaStatus: 3
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:31:02.000Z
-modified: 2024-03-16T06:41:13.296Z
+modified: 2024-03-19T06:19:44.173Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 23
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 24
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # WCAG 2.0
 
@@ -48,7 +48,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
         - 3.2 [[Tres destellos o más]]
         - 3.3 [[Contenido moviéndose automáticamente]]
     - **[[Pauta 4 - Compatible]]**
-        - 4.1 Interpretación de la información
+        - 4.1 [[Interpretación de la información]]
         - 4.2 Nombre, función, valor
     - **Pauta 5: Flexibilidad y manejo de errores**
         - 5.1 Manejo de errores

@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-17T21:18:54.677Z
+modified: 2024-03-18T06:36:35.441Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 30
+ver_rev: 31
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,10 +33,10 @@ Por el momento vemos que podemos aprender de cada uno de ellos, de temas relacio
 
 No estoy de acuerdo con todo lo que dicen todos, mas todos ellos aportan una visión unica sobre aquello de que hablan.
 
-[[Aprender con A-F]]
-[[Aprender con G-L]]
-[[Aprender con M-P]]
-[[Aprender con Q-Z]]
+* [[Aprender con A-F]]
+* [[Aprender con G-L]]
+* [[Aprender con M-P]]
+* [[Aprender con Q-Z]]
 
 ## Aprender sobre ...
 

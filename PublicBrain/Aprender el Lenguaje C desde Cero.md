@@ -33,7 +33,7 @@ tags: []
 
 * [[Variables y Tipos de Datos]]
 	* [[Tipos básicos - int, float, char en Lenguaje C]]
-	* Declaración de variables y asignación
+	* [[Declaración de variables y asignación en Lenguaje C]]
 * Operadores y Expresiones
 	* Operadores aritméticos, lógicos y de asignación
 	* Precedencia de operadores

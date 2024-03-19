@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md"
               }
             }
           },
@@ -164,8 +164,11 @@
   },
   "active": "c16d2355b70c5788",
   "lastOpenFiles": [
-    "PublicBrain/Aprender con A-F.md",
+    "Declaración de variables y asignación en Lenguaje C.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender con A-F.md",
     "Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos..md",
     "PublicBrain/Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos..md",
     "PublicBrain/Aprender Idioma Esperanto.md",
@@ -187,9 +190,6 @@
     "C1-IT.md",
     "B2-IT.md",
     "B1-IT.md",
-    "A2-IT.md",
-    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
-    "PublicBrain/Interpretación de la información.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

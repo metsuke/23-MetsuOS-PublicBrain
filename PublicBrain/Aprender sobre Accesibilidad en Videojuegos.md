@@ -32,7 +32,7 @@ q# Aprender sobre Accesibilidad en Videojuegos
 
 ## III. Diseño Inclusivo en Videojuegos
    - [[Fundamentos del diseño inclusivo]].
-   - Consideraciones para el diseño de personajes.
+   - [[Consideraciones para el diseño de personajes]].
    - [[Interfaz de usuario accesible]].
 
 ## IV. Accesibilidad Visual

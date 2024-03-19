@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-19T06:22:48.455Z
+modified: 2024-03-19T06:25:07.764Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Consideraciones para el diseño de personajes
 
 [[Aprender sobre Accesibilidad en Videojuegos]]

@@ -1,17 +1,17 @@
 ---
-iaStatus: 0
+iaStatus: 1
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-01-25T19:25:05.642Z
-modified: 2024-03-16T06:25:14.705Z
+modified: 2024-03-19T06:30:23.031Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 28
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 29
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Estructurar una Microagencia de Publicidad
 
@@ -597,8 +597,60 @@ En ing. Sales Funnel Expert. Diseña la estrategia de marketing para el cliente.
 ---
 ## Especialista en SEO
 
-* TODO: Seguir aqui.
+### Objetivos
 
+* Mejorar la posición realativa en la página de resultados de los motores de búsqueda.
+
+### ¿Qué hacen?
+
+* Realiza acciones dentro y fuera de la página con el objetivo de mejorar el posicionamiento en los resultados cuando los usuarios ingresan ciertas palabras clave en los motores de búsqueda.
+
+### Procesos
+
+* Reunión con gerente de cuenta.
+* Investigación de palabras clave.
+* Solicitar piezas a redactores.
+* Optimizaciones on-site.
+* Optimizaciones off-site.
+* Análisis y elaboración de informes de resultados.
+
+### Tareas y Responsabilidades
+
+* Construir y administrar la hoja de ruta de SEO.
+* Evaluar el rendimiento de SEO en función de los indicadores clave de rendimiento (KPI)
+* Gestionar la estrategia de backlink.
+* Establecer un sistema para monitorear redireccionamientos de sitios web, etiquetas canónicas y otros problemas técnicos.
+* Gestionar los contenidos según keywords.
+
+### Perfiles más buscados
+
+* Conocimiento de las actualizaciones de algoritmos/criterios de motores de búsqueda.
+* Comprensión básica de HTML, CSS y JS.
+* Certificaciones en Google Analytics.
+* Fuertes conocimientos de SEO técnico, optimización de contenido on-site,. enlaces entrantes y desarrollo de autoridad.
+* Habilidades blandas:
+	* Habilidades de comunicación escrita y verbal.
+	* Habilidades de organización y gestión del tiempo.
+	* Atención al detalle y la capacidad de concentración bajo presión.
+	* La capacidad de identificar obstáculos y derribar barreras rápidamente.
+	* Ser capaz de trabajar con varios grupos para resolver conflictos en un entorno acelerado.
+	* Habilidad para lidiar con la ambigüedad.
+
+### Cursos recomendados para el Rol
+
+* Curso de Introducción a SEO: Posicionamiento en buscadores.
+* Curso de Buenas Prácticas de SEO.
+* Curso de SEO Técnico.
+* Curso de Recolección y Análisis de datos SEO.
+* Curso de SEO para B2B con Semrush.
+* Curso de SEO para Ecommerce con Semrush.
+* Especialista en SEO.
+
+---
+
+## Ecommerce UX & conversion optimization expert
+
+* TODO: Seguir aquí.
 ---
 ## Cursos Recomendados a niveld e agencia.
 

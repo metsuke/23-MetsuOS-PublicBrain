@@ -1,20 +1,19 @@
 ---
-iaStatus: 0
+iaStatus: 3
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-02-08T22:27:59.793Z
-modified: 2024-03-16T06:45:46.425Z
+modified: 2024-03-19T06:23:43.290Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 23
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 24
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre Accesibilidad en Videojuegos
-q# Aprender sobre Accesibilidad en Videojuegos
 
 [[PublicBrain/Index#Plena Inclusión]]
 

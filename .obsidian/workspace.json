@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Altas Capacidades.md"
               }
             }
           },
@@ -164,6 +164,9 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
+    "Impacto en el rendimiento académico y emocional.md",
+    "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "Ejemplos de barreras visuales, auditivas, motoras y cognitivas.md",
     "PublicBrain/A1-VLC.md",
@@ -174,7 +177,6 @@
     "El alfabeto rumano (A1-RO).md",
     "PublicBrain/Aprender Idioma Valenciano.md",
     "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Index.md",
     "PublicBrain/A1-NO.md",
     "PublicBrain/A1-RU.md",
     "Home.md",
@@ -188,8 +190,6 @@
     "PublicBrain/A1-AR.md",
     "El Proyecto.md",
     "PublicBrain/Aprender con G-L.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

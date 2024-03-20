@@ -37,7 +37,7 @@ tags: []
 - [[Reconociendo el potencial en la diversidad]]
 
 ## Tema 5: Consecuencias de la Desatención
-- Impacto en el rendimiento académico y emocional
+- [[Impacto en el rendimiento académico y emocional]]
 - Estrategias de intervención
 
 ## Tema 6: Identificación

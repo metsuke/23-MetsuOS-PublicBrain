@@ -1,8 +1,8 @@
-# Unidad 4 - Pronombres Personales
+# Pronombres Personales (A1-VLC)
 
 [[A1-VLC]]
 
-En la Unidad 4 del nivel A1 de aprendizaje de idioma valenciano, se estudian los pronombres personales. Estos pronombres son palabras que sustituyen a los nombres de las personas en una oración.
+Los pronombres son palabras que sustituyen a los nombres de las personas en una oración.
 
 En valenciano, los pronombres personales son:
 

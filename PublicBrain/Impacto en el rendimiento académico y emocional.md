@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-20T05:08:56.092Z
+modified: 2024-03-20T05:31:02.031Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Impacto en el rendimiento académico y emocional
 
 [[Aprender sobre Altas Capacidades]]

@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-20T05:10:52.982Z
+modified: 2024-03-20T05:31:02.153Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # División de datos en conjuntos de entrenamiento, validación y prueba
 
 

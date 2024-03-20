@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37585fe57a0a8dd6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1900b9383bf761d2",
+  "active": "37585fe57a0a8dd6",
   "lastOpenFiles": [
     "PublicBrain/Index.md",
     "PublicBrain/Aprender con Javier G. Recuenco.md",

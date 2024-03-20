@@ -41,7 +41,7 @@ tags: []
 ## [[Diseño y Entrenamiento de Redes Neuronales]]
 
 * Recopilación y preparación de datos
-* División de datos en conjuntos de entrenamiento, validación y prueba
+* [[División de datos en conjuntos de entrenamiento, validación y prueba]]
 * Inicialización de pesos
 * Regularización (Dropout, L2, L1)
 * Entrenamiento y ajuste de hiperparámetros

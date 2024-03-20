@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
+                "file": "División de datos en conjuntos de entrenamiento, validación y prueba.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
+                "file": "División de datos en conjuntos de entrenamiento, validación y prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Altas Capacidades.md",
+                "file": "División de datos en conjuntos de entrenamiento, validación y prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Altas Capacidades.md"
+                "file": "División de datos en conjuntos de entrenamiento, validación y prueba.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
-    "Impacto en el rendimiento académico y emocional.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "División de datos en conjuntos de entrenamiento, validación y prueba.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "Impacto en el rendimiento académico y emocional.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "Ejemplos de barreras visuales, auditivas, motoras y cognitivas.md",
@@ -188,8 +190,6 @@
     "PublicBrain/A1-EO.md",
     "PublicBrain/A1-EN.md",
     "PublicBrain/A1-AR.md",
-    "El Proyecto.md",
-    "PublicBrain/Aprender con G-L.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

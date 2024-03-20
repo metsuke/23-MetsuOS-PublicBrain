@@ -29,7 +29,7 @@ tags: []
 
 ## Barreras de Accesibilidad en E-Learning
 - [[Identificación de barreras comunes para usuarios con discapacidad]]
-- Ejemplos de barreras visuales, auditivas, motoras y cognitivas
+- [[Ejemplos de barreras visuales, auditivas, motoras y cognitivas]]
 
 ## Diseño Centrado en el Usuario
 - [[Principios del diseño centrado en el usuario]]

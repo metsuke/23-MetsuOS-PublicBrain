@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-20T00:39:08.639Z
+modified: 2024-03-20T00:46:16.082Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Pronombres Personales (A1-VLC)
 
 [[A1-VLC]]

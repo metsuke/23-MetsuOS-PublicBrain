@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-20T00:41:21.716Z
+modified: 2024-03-20T00:46:16.124Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # El alfabeto rumano (A1-RO)
 
 [[A1-RO]]

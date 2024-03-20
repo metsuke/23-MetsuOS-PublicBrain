@@ -17,6 +17,8 @@ tags:
 
 [[PublicBrain/Index]] | [[Aprender sobre CPS (Complex Problem Solving)]]
 
+* [Javier G. Recuenco | LinkedIn](https://www.linkedin.com/in/javier-g-recuenco-70a708/?originalSubdomain=es)
+
 En este proyecto tomo los "hilos turra" de [Javier G. Recuenco](https://www.linkedin.com/in/javier-g-recuenco-70a708/?originalSubdomain=es) en Twitter como apuntes de trabajo y exploro en base a ellos.
 
 ## WIP

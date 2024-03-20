@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "División de datos en conjuntos de entrenamiento, validación y prueba.md",
+                "file": "PublicBrain/Aprender con Javier G. Recuenco.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "División de datos en conjuntos de entrenamiento, validación y prueba.md",
+                "file": "PublicBrain/Aprender con Javier G. Recuenco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "División de datos en conjuntos de entrenamiento, validación y prueba.md",
+                "file": "PublicBrain/Aprender con Javier G. Recuenco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "División de datos en conjuntos de entrenamiento, validación y prueba.md"
+                "file": "PublicBrain/Aprender con Javier G. Recuenco.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "División de datos en conjuntos de entrenamiento, validación y prueba.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Impacto en el rendimiento académico y emocional.md",
     "PublicBrain/Index.md",

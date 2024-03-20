@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-10-23T22:50:29.401Z
-modified: 2024-03-14T21:53:36.389Z
+modified: 2024-03-20T00:39:01.745Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -23,8 +23,8 @@ tags: []
 
 - [[Saludos y Presentaciones (A1-VLC)]]
 - [[Números y Fechas (A1-VLC)]]
-- Unidad 3: El Abecedario
-- Unidad 4: Pronombres Personales
+- Unidad 3 - El Abecedario
+- [[Unidad 4 - Pronombres Personales]]
 
 ## Módulo 2: Vida Cotidiana
 

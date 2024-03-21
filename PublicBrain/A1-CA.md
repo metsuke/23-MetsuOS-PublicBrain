@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:48.000Z
-modified: 2024-03-14T20:06:57.903Z
+modified: 2024-03-21T16:03:25.695Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -57,7 +57,7 @@ tags:
 ## Módulo 6: Evaluación y Pruebas Finales
 
 6.1. [[Pruebas de vocabulario y gramática (A1-CA)]]
-6.2. Ejercicios de comprensión de lectura y escucha.
+6.2. [[Ejercicios de comprensión de lectura y escucha (A1-CA)]]
 6.3. [[Diálogos y actividades de expresión oral (A1-CA)]]
 6.4. [[Evaluación final del nivel A1 de catalán (A1-CA)]].
 

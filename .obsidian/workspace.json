@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/A1-CA.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/A1-CA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/A1-CA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
+                "file": "PublicBrain/A1-CA.md"
               }
             }
           },
@@ -177,6 +177,9 @@
   },
   "active": "37585fe57a0a8dd6",
   "lastOpenFiles": [
+    "Ejercicios de comprensión de lectura y escucha (A1-CA).md",
+    "PublicBrain/A1-CA.md",
+    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender con Javier G. Recuenco.md",
     "PublicBrain/Impacto en el rendimiento académico y emocional.md",
@@ -200,9 +203,6 @@
     "PublicBrain/A1-RU.md",
     "Home.md",
     "PublicBrain/A1-IT.md",
-    "PublicBrain/A1-GE.md",
-    "PublicBrain/A1-EU.md",
-    "PublicBrain/().md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

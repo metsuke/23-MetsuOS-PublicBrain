@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-25T19:25:05.642Z
-modified: 2024-03-19T06:30:23.031Z
+modified: 2024-03-21T12:16:27.731Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 29
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
@@ -650,7 +650,57 @@ En ing. Sales Funnel Expert. Diseña la estrategia de marketing para el cliente.
 
 ## Ecommerce UX & conversion optimization expert
 
-* TODO: Seguir aquí.
+### Objetivo
+
+* Aumentar la tasa de conversión dentro de la tienda con el tráfico actual.
+
+### ¿Qué hacen?
+
+* Mejoran la tasa de conversión planteando hipótesis desde la posición, tamaó y colores de los botones hasta el precio de un producto y luego haciendo pruebas A/B y cambios dentro de la tienda hasta lograr resultados.
+
+### Procesos
+
+* Reunión con el experto en embidos de conversión.
+* Selección de métricas.
+* Pkanteo de hipótesis.
+* Implementación de un cambio o prueba A/B.
+* Mediación de la métrica objetivo.
+* Iteración (proceso de mejora continua)
+* Confección de informes de resultados.
+
+### Tareas y Responsabilidades
+
+* Investigación de clientes.
+* Creación de estrategias de A/B testing.
+
+### Perfiles más buscados.
+
+* Conocimiento de herramientas de análisis estadístico.
+* Tener criterio para el buen diseño digital.
+* Experiencia en investigación de clientes.
+* Experiencia en generación y desarrollo de informes.
+* Habilidades blandas:
+	* Pasión por definir procesos, sistemas y documentación.
+	* Entfoque analítico basado en datos.
+	* Detallista.
+	* Capacidad para trabajar de forma independiente y rápida.
+	* Habilidades de trabajo en equipo.
+	* Capacidad para pensar estratégicamente.
+
+### Cursos recomendados para el rol
+
+* Curso de Usabilidad.
+* Clase Optimización de la conversión (Sumone)
+* Audioglosario Métrica para Marketing Digital.
+
+---
+
+## Cierre de Ventas
+
+### Propuesta para cliente.
+
+* TODO: Seguir aqui.
+
 ---
 ## Cursos Recomendados a niveld e agencia.
 

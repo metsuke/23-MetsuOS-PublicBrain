@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-21T16:03:30.701Z
+modified: 2024-03-21T16:08:43.642Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Ejercicios de comprensión de lectura y escucha (A1-CA)
 
 [[A1-CA]]

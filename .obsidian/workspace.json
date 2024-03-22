@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/Aprender con Q-Z.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/Aprender con Q-Z.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/Aprender con Q-Z.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-CA.md"
+                "file": "PublicBrain/Aprender con Q-Z.md"
               }
             }
           },
@@ -177,12 +177,16 @@
   },
   "active": "37585fe57a0a8dd6",
   "lastOpenFiles": [
+    "Aprender con Selva Orejón.md",
+    "PublicBrain/Aprender con Selva Orejón.md",
+    "PublicBrain/Aprender con Q-Z.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/A1-CA.md",
     "PublicBrain/A2-CA.md",
     "PublicBrain/Ejercicios de comprensión de lectura y escucha (A1-CA).md",
-    "PublicBrain/A1-CA.md",
     "Ejercicios de comprensión de lectura y escucha (A1-CA).md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender con Javier G. Recuenco.md",
     "PublicBrain/Impacto en el rendimiento académico y emocional.md",
     "PublicBrain/Ejemplos de barreras visuales, auditivas, motoras y cognitivas.md",
@@ -199,10 +203,6 @@
     "Pronombres Personales (A1-VLC).md",
     "PublicBrain/A1-RO.md",
     "El alfabeto rumano (A1-RO).md",
-    "PublicBrain/Aprender Idioma Valenciano.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/A1-NO.md",
-    "PublicBrain/A1-RU.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

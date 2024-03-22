@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-17T22:04:51.097Z
-modified: 2024-03-17T22:06:55.022Z
+modified: 2024-03-22T00:34:55.029Z
 ver_major: 0
 ver_minor: "0"
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,4 +25,5 @@ tags:
 * Aprender con Rosana de Matos Silveira
 * Aprender con Tomás Pedraza Jiménez
 * [[Aprender con Sani Ladam]]
+* [[Aprender con Selva Orejón]]
 * [[Aprender con SizeMatters]]

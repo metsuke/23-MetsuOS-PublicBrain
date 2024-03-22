@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-22T09:54:18.270Z
+modified: 2024-03-22T17:45:07.939Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 33
+ver_rev: 34
 nav_primary: 
 nav_secondary: 
 tags:
@@ -16,6 +16,8 @@ tags:
 # Index
 
 [[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] | [[Promting Database]] | [[Tools Database]]
+
+DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo frío y "aburrido", pero recuerden, una vez establecido el contenido, comprobado y gestionado por parte de un humano en fases subsiguientes, la calidez y empatía de la forma de comunicarlo puede modularse dinámicamente y el mensaje ser personalizado, mediante IA, tomando en cuenta todo tipo de parámetros.
 
 ## Desarrollo Estructura Habilidades-Perfiles-Tareas 
 

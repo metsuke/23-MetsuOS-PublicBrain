@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-17T22:04:51.097Z
-modified: 2024-03-22T00:34:55.029Z
+modified: 2024-03-22T22:14:15.044Z
 ver_major: 0
 ver_minor: "0"
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,6 +24,7 @@ tags:
 * Aprender con Rosa Lencero Guillermo
 * Aprender con Rosana de Matos Silveira
 * Aprender con Tomás Pedraza Jiménez
+* [[Aprender con Rodrigo Taramona]]
 * [[Aprender con Sani Ladam]]
 * [[Aprender con Selva Orejón]]
 * [[Aprender con SizeMatters]]

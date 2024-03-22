@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/Aprender con Q-Z.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/Aprender con Q-Z.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/Aprender con Q-Z.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
+                "file": "PublicBrain/Aprender con Q-Z.md"
               }
             }
           },
@@ -164,7 +164,15 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
+    "Aprender con Rodrigo Taramona.md",
+    "PublicBrain/Aprender con Rodrigo Taramona.md",
+    "PublicBrain/Aprender con Q-Z.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Ayuda.md",
+    "PublicBrain/WCAG 2.1.md",
+    "Ayuda.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "Interacción Digital Remota mediante API con Dropbox.md",
@@ -177,19 +185,11 @@
     "Aprender sobre Interacción Digital Remota mediante API.md",
     "Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/PublicIndex/Index.md",
-    "PublicBrain/Aprender con Q-Z.md",
     "Aprender con Selva Orejón.md",
     "PublicBrain/Aprender con Selva Orejón.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/A1-CA.md",
     "PublicBrain/A2-CA.md",
-    "PublicBrain/Ejercicios de comprensión de lectura y escucha (A1-CA).md",
-    "Ejercicios de comprensión de lectura y escucha (A1-CA).md",
-    "PublicBrain/Aprender con Javier G. Recuenco.md",
-    "PublicBrain/Impacto en el rendimiento académico y emocional.md",
-    "PublicBrain/Ejemplos de barreras visuales, auditivas, motoras y cognitivas.md",
-    "PublicBrain/División de datos en conjuntos de entrenamiento, validación y prueba.md",
-    "División de datos en conjuntos de entrenamiento, validación y prueba.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

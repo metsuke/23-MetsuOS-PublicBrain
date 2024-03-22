@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-19T21:18:00.054Z
+modified: 2024-03-22T09:54:18.270Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 32
+ver_rev: 33
 nav_primary: 
 nav_secondary: 
 tags:
@@ -115,6 +115,8 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	* [[Hardware Libre - Microprocesadores]]
 * [[Aprender sobre Inteligencia Artificial]]
 	* Aprender sobre [[Estructura y funcionamiento de las  redes neuronales]]
+* [[Aprender sobre Interacción Digital Remota]]
+	* [[Aprender sobre Interacción Digital Remota mediante API]]
 * [[Aprender sobre Programación]]
 	* [[Aprender sobre Buenas Prácticas y Código Limpio en Programación]]
 * [[Aprender sobre Redes e Internet]]

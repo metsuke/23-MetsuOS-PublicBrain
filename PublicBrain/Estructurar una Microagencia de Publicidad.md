@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-25T19:25:05.642Z
-modified: 2024-03-21T12:16:27.731Z
+modified: 2024-03-22T17:12:13.275Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 30
+ver_rev: 33
 nav_primary: 
 nav_secondary: 
 tags:
@@ -699,7 +699,88 @@ En ing. Sales Funnel Expert. Diseña la estrategia de marketing para el cliente.
 
 ### Propuesta para cliente.
 
-* TODO: Seguir aqui.
+#### Cada proyecto es diferente.
+
+* Entender el objetivo del cleinte.
+* Imaginar tareas y roles.
+* Estimar horas de cada rol y tarea.
+* Estimar costos adicionales (herramientas, pauta, hosting , etc)
+
+#### Ejemplo Caso 1
+
+* Una escuela de lenguaje de señas necesita un video promocional protagonizado por un personaje propio de la marca (ese personaje todavia no existe)
+* ¿Cómo prepararías la propuesta?
+	* Imaginar tareas y roles
+		* Ilustración
+		* Modelado 3D
+		* Redacción de guión.
+		* Artistas de voz
+		* Account Manager
+		* Administracion
+	* Estimar costos
+		* 10h Ilustración
+		* 40h Modelado 3D
+		* 5h Redacción. de guión.
+		* 2h Artistas de voz.
+		* 5h Project Manager
+		* 5h Account Manager
+		* Estudio de grabación.
+		* Licencias de Software
+		* Artículos de Papelería.
+		* PC. electricodad. internet.
+#### Ejemplo Caso 2
+
+* Tienda de regalos online necesita aumentar sus ventas.
+* ¿Cómo prepararías la propuesta?
+	* Imaginar tareas y roles
+		* Expertos en embudos de venta.
+		* Ecommerce UX & conversion optimization expert.
+		* E-mail marketing expert.
+		* SEO expert
+		* PPC expert.
+		* Redacción publicitaria
+		* Account manager
+		* Project manager
+		* Administración
+	* Estimar costos
+		* 50h ecommerce UX & conversion optimization expert
+		* 25h email marketing expert
+		* 15h SEO expert
+		* 10h expertos en embudos de venta
+		* 5h redacción publicitaria
+		* 4h account manager
+		* 10h project manager
+		* 1h administración.
+		* Suscripciones de SaaS
+		* Pauta publicitaria PPC
+		* PC, electricidad.
+
+#### Ejemplo Caso 3
+
+* Estudio de abogados necesita aumentar sus ventas.
+* ¿Cómo prepararías la propuesta?
+	* Imaginar tareas y roles
+		* Experto en embudos de venta
+		* Email marketing expert
+		* SEO expert
+		* PPC expert
+		* Redacción publicitaria
+		* Community manager
+		* Account manager
+		* Project manager
+		* Administración
+	* Estimar costos
+		* 50h Community Manager
+		* 25h Email Marketing Expert
+		* 15h SEO expert
+		* 15h PPC expert
+		* 10h expertos en embudos. deventa.
+
+### Documentos para clientes.
+
+* TODO: Continuar aqui
+
+### Consejos para montar tu agencia
 
 ---
 ## Cursos Recomendados a niveld e agencia.

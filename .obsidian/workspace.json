@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interacción Digital Remota mediante API con Dropbox.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interacción Digital Remota mediante API con Dropbox.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interacción Digital Remota mediante API con Dropbox.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interacción Digital Remota mediante API con Dropbox.md"
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
               }
             }
           },
@@ -164,10 +164,12 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
+    "PublicBrain/Index.md",
+    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "Interacción Digital Remota mediante API con Dropbox.md",
+    "PublicBrain/Interacción Digital Remota mediante API con Dropbox.md",
     "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender con A-F.md",
@@ -183,13 +185,11 @@
     "PublicBrain/A2-CA.md",
     "PublicBrain/Ejercicios de comprensión de lectura y escucha (A1-CA).md",
     "Ejercicios de comprensión de lectura y escucha (A1-CA).md",
-    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender con Javier G. Recuenco.md",
     "PublicBrain/Impacto en el rendimiento académico y emocional.md",
     "PublicBrain/Ejemplos de barreras visuales, auditivas, motoras y cognitivas.md",
     "PublicBrain/División de datos en conjuntos de entrenamiento, validación y prueba.md",
     "División de datos en conjuntos de entrenamiento, validación y prueba.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

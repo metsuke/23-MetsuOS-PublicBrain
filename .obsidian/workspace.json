@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
+                "file": "Interacción Digital Remota mediante API con Dropbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
+                "file": "Interacción Digital Remota mediante API con Dropbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
+                "file": "Interacción Digital Remota mediante API con Dropbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con Discord.md"
+                "file": "Interacción Digital Remota mediante API con Dropbox.md"
               }
             }
           },
@@ -165,10 +165,11 @@
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
+    "Interacción Digital Remota mediante API con Dropbox.md",
+    "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
     "PublicBrain/Index.md",
     "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
     "PublicBrain/Aprender con A-F.md",
     "Interacción Digital Remota mediante API con Discord.md",
     "Aprender sobre Interacción Digital Remota mediante API.md",
@@ -189,7 +190,6 @@
     "PublicBrain/División de datos en conjuntos de entrenamiento, validación y prueba.md",
     "División de datos en conjuntos de entrenamiento, validación y prueba.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

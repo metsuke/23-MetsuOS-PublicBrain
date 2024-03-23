@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-02-25T14:31:45.652Z
-modified: 2024-03-16T08:28:03.703Z
+modified: 2024-03-23T11:29:31.004Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 23
+ver_rev: 24
 nav_primary: 
 nav_secondary: 
 tags:
@@ -16,6 +16,11 @@ tags:
 # Vision del CPS de Javier G. Recuenco
 
 [[Aprender con Javier G. Recuenco]] | [[Aprender sobre CPS (Complex Problem Solving)]]
+
+---
+* [CPS Notebook (notion.site)](https://cps-notebook.notion.site/CPS-Notebook-81fe17dc15d04e9db085cf7f747d0c16)*
+* Corolario-Hipotesis de hoy tras lectura diagonal de [https://cps-notebook.notion.site/CPS-101-una-introducci-n-de-10-minutos-f0181b6f59ec4ee7ab682d1cb2ceece9…](https://t.co/CuFypWru3P): MetsuOS = Implementación Probabilística Bottom-Up de un framework que aplica CPS Dinámico (version 0.0.1 de la hipotesis de trabajo)
+---
 
 En este libro trato de comprender y en el futuro modelar, el Framework CPS de Javier Recuenco a partir de  la linea de salida https://twitter.com/recuenco/status/1340174209343995905 y explorando desde ahi.
 

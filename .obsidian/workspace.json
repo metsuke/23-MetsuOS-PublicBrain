@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
+                "file": "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
+                "file": "PublicBrain/Vision del CPS de Javier G. Recuenco.md"
               }
             }
           },
@@ -164,6 +164,18 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
+    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
+    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
+    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",
+    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/a31472e455108e7dd47ee36207d16b9d_MD5.svg",
+    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6f2a065b5aa9412e16d8ee435f517a35_MD5.png",
+    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/5f3d9d68df22071b9dfd8596b9ed1a6e_MD5.jpg",
+    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/32ed632dcc8da4178ab206b66f082b19_MD5.svg",
+    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
+    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
+    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco",
+    "PublicBrain/Aprender con Javier G. Recuenco.md",
+    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender con Q-Z.md",
     "Aprender con Rodrigo Taramona.md",
     "PublicBrain/Aprender con Rodrigo Taramona.md",
@@ -173,7 +185,6 @@
     "PublicBrain/Ayuda.md",
     "PublicBrain/WCAG 2.1.md",
     "Ayuda.md",
-    "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "Interacción Digital Remota mediante API con Dropbox.md",
     "PublicBrain/Interacción Digital Remota mediante API con Dropbox.md",
@@ -188,28 +199,17 @@
     "Aprender con Selva Orejón.md",
     "PublicBrain/Aprender con Selva Orejón.md",
     "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-CA.md",
-    "PublicBrain/A2-CA.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad/be3119e12f918a40bd96b6ef7bd57633_MD5.jpg",
-    "_resources/Estructurar una Microagencia de Publicidad/8f90ba282f04566f600c46c23c5392ac_MD5.jpg",
-    "_resources/Estructurar una Microagencia de Publicidad/d826c88337f57cd2bb6317b6d0f074b3_MD5.jpg",
-    "_resources/Estructurar una Microagencia de Publicidad/3697c18b8c76a8355d084c5cc3438012_MD5.jpg",
-    "_resources/Estructurar una Microagencia de Publicidad/0641f4f63ca92e0f390f3f5fa126575d_MD5.jpg",
-    "_resources/Estructurar una Microagencia de Publicidad/ba405c7cf28ab5aefdf5395f8c50bb1d_MD5.jpg",
-    "_resources/Estructurar una Microagencia de Publicidad/dce8c15939bc5d407c2a77a62f25f748_MD5.jpg",
-    "_resources/Estructurar una Microagencia de Publicidad/18dee3159a554bd5846bda85a3973892_MD5.jpg",
-    "_resources/Estructurar una Microagencia de Publicidad/c943d31b0c184b1cfab208c0c2fd156b_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad",
     "carpeta sin título",
     "PublicBrain/carpeta sin título",
     "Aprender sobre GNU",
     "PublicBrain/_resources/Ant Attack (Quicksilva, 1983)",
-    "PublicBrain/_resources/Alan Wake (Remedy Entertainment, 2010)",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"
   ]

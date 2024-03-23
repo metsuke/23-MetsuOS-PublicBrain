@@ -27,7 +27,7 @@ tags:
 ## II. [[Principios Básicos de Accesibilidad en Videojuegos]]
    - [[Conceptos fundamentales de accesibilidad (A11Y Videojuegos)]]
    - [[Normativas y estándares internacionales (A11Y Videojuegos)]]
-   - Diversidad funcional y necesidades de diferentes usuarios.
+   - [[Diversidad funcional y necesidades de diferentes usuarios]].
 
 ## III. Diseño Inclusivo en Videojuegos
    - [[Fundamentos del diseño inclusivo]].

@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-10T05:24:41.332Z
-modified: 2024-03-17T08:20:24.367Z
+modified: 2024-03-23T14:51:04.098Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -38,6 +38,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * IT [[Aprender Idioma Italiano]]
 * KO [[Aprender Idioma Coreano]]
 * JP [[Aprender Idioma Japones]]
+* NL [[Aprender Idioma Neerlandés]]
 * NO [[Aprender Idioma Noruego]]
 * PL [[Aprender Idioma Polaco]]
 * RO [[Aprender Idioma Rumano]]

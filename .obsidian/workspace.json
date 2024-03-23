@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+                "file": "PublicBrain/Aprender Idiomas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+                "file": "PublicBrain/Aprender Idiomas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+                "file": "PublicBrain/Aprender Idiomas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md"
+                "file": "PublicBrain/Aprender Idiomas.md"
               }
             }
           },
@@ -164,9 +164,15 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
+    "Aprender Idioma Neerlandés.md",
+    "PublicBrain/Aprender Idioma Neerlandés.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Herramientas y recursos para evaluar y mejorar la accesibilidad en E-Learning.md",
+    "PublicBrain/Diversidad funcional y necesidades de diferentes usuarios.md",
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "Diversidad funcional y necesidades de diferentes usuarios.md",
     "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "Herramientas y recursos para evaluar y mejorar la accesibilidad en E-Learning.md",
     "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
@@ -185,7 +191,6 @@
     "PublicBrain/Aprender con Q-Z.md",
     "Aprender con Rodrigo Taramona.md",
     "PublicBrain/Aprender con Rodrigo Taramona.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Ayuda.md",
@@ -195,11 +200,6 @@
     "Interacción Digital Remota mediante API con Dropbox.md",
     "PublicBrain/Interacción Digital Remota mediante API con Dropbox.md",
     "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
-    "PublicBrain/Promting Database.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
-    "PublicBrain/Aprender con A-F.md",
-    "Interacción Digital Remota mediante API con Discord.md",
-    "Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/PublicIndex",
     "PublicIndex",
     "_index.html",

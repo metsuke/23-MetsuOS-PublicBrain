@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-23T14:41:23.824Z
+modified: 2024-03-23T14:43:06.026Z
+ver_major: 0
+ver_minor: "0"
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Diversidad funcional y necesidades de diferentes usuarios
 
 [[Aprender sobre Accesibilidad en Videojuegos]]

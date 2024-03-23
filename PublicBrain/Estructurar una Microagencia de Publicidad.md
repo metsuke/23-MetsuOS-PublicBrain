@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-25T19:25:05.642Z
-modified: 2024-03-22T17:12:13.275Z
+modified: 2024-03-23T11:10:28.584Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 33
+ver_rev: 34
 nav_primary: 
 nav_secondary: 
 tags:
@@ -778,9 +778,14 @@ En ing. Sales Funnel Expert. Diseña la estrategia de marketing para el cliente.
 
 ### Documentos para clientes.
 
-* TODO: Continuar aqui
+* 1. Propuesta
+* 2. De ser aceptada, Contrato.
+
+TODO: Convertir, en fase 2, los documentos generados y, en concreto estos dos, en indices de contenido para crear una estructura que pueda usar IA.
 
 ### Consejos para montar tu agencia
+
+* TODO: Seguir aqui.
 
 ---
 ## Cursos Recomendados a niveld e agencia.

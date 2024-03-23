@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-22T17:45:07.939Z
+modified: 2024-03-23T17:37:31.426Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 34
+ver_rev: 35
 nav_primary: 
 nav_secondary: 
 tags:

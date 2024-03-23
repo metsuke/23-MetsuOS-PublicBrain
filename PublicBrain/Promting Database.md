@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:31:00.000Z
-modified: 2024-03-22T09:58:41.120Z
+modified: 2024-03-23T17:37:31.393Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 24
+ver_rev: 25
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,9 @@ necesito una tabla detallada y exhaustiva de características técnicas del vide
 
 ## Aprender Crear Cursos
 
-* 
+
+En el contexto de "Aprender sobre Interacción Digital Remota mediante API" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "Interacción Digital Remota mediante API con Discord". Dámelo en markdown para poder copiarlo.
+
 *En el contexto de "CONTEXTO" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "TEMA". Dámelo en markdown para poder copiarlo.
 	* DEPRECATED: En el contexto de "CONTEXTO" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "TEMA". Dámelo en markdown para poder copiarlo , con encabezados ## para los modulos. Tras cada ## debe haber una linea en blanco. Por favor no incluyas la palabra Leccion en los puntos de las lecciones. Desarrolla el contenido de cada modulo de forma exhaustiva y detallada
 * En el contexto de "CONTEXTO" puedes hablarme sobre "TEMA".

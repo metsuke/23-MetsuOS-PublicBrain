@@ -37,7 +37,7 @@ tags: []
 - [[Técnicas para mejorar la experiencia del usuario con discapacidad]]
 
 ## Herramientas y Tecnologías Accesibles
-- Herramientas y recursos para evaluar y mejorar la accesibilidad en E-Learning
+- [[Herramientas y recursos para evaluar y mejorar la accesibilidad en E-Learning]]
 - Tecnologías de asistencia y adaptaciones para usuarios con discapacidad
 
 ## Desarrollo de Contenido Accesible

@@ -7,7 +7,7 @@ translations:
 created: 2023-09-13T02:30:48.000Z
 modified: 2024-03-21T16:03:25.695Z
 ver_major: 0
-ver_minor: 1
+ver_minor: 2
 ver_rev: 27
 nav_primary: 
 nav_secondary: 

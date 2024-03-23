@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idiomas.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idiomas.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idiomas.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idiomas.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,9 +164,9 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Idiomas.md",
     "Aprender Idioma Neerlandés.md",
     "PublicBrain/Aprender Idioma Neerlandés.md",
-    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Index.md",
     "PublicBrain/Herramientas y recursos para evaluar y mejorar la accesibilidad en E-Learning.md",
     "PublicBrain/Diversidad funcional y necesidades de diferentes usuarios.md",

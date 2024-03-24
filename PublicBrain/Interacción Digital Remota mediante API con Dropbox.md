@@ -17,6 +17,10 @@ tags: []
 
 [[Aprender sobre Interacción Digital Remota mediante API]]
 
+## Introducción
+- Visión general del curso
+- Objetivos y metas
+- Requisitos previos
 ## Fundamentos de Dropbox
 - ¿Qué es Dropbox?
 - Funcionalidades principales

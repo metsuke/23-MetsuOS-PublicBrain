@@ -19,6 +19,11 @@ tags: []
 
 # Curso sobre Interacción Digital Remota mediante API con Alibaba
 
+## Introducción
+- Visión general del curso
+- Objetivos y metas
+- Requisitos previos
+
 ## Fundamentos de Alibaba
 - ¿Qué es Alibaba?
 - Plataformas principales y servicios ofrecidos

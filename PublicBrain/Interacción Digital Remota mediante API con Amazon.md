@@ -4,16 +4,16 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-03-23T18:50:28.667Z
-modified: 2024-03-24T17:26:30.129Z
+created: 2024-03-24T17:24:09.547Z
+modified: 2024-03-24T17:26:22.596Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 2
+ver_rev: 1
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Interacción Digital Remota mediante API con 1Password
+# Interacción Digital Remota mediante API con Amazon
 
 [[Aprender sobre Interacción Digital Remota mediante API]]
 
@@ -21,37 +21,38 @@ tags: []
 - Visión general del curso
 - Objetivos y metas
 - Requisitos previos
-## Fundamentos de 1Password
-- ¿Qué es 1Password?
-- Funcionalidades principales
-- Tipos de datos y estructuras en 1Password
-- Seguridad y encriptación en 1Password
+
+## Fundamentos de Amazon
+- ¿Qué es Amazon?
+- Plataformas principales y servicios ofrecidos
+- Roles y permisos en Amazon
+- Seguridad y autenticación en Amazon
 
 ## Conceptos básicos de API
 - ¿Qué es una API?
 - Protocolos de comunicación (HTTP, HTTPS)
 - Métodos de solicitud (GET, POST, PUT, DELETE)
-- Autenticación y autorización en la API de 1Password
+- Autenticación y autorización en la API de Amazon
 
-## Trabajando con la API de 1Password
-- Acceso a la documentación de la API de 1Password
-- Autenticación con JWT (JSON Web Tokens)
+## Trabajando con la API de Amazon
+- Acceso a la documentación de la API de Amazon
+- Autenticación con AWS Signature
 - Interacción básica con la API (obtener, crear, actualizar y eliminar datos)
-- Manejo de eventos y notificaciones
+- Manejo de errores y códigos de respuesta
 
 ## Implementación de casos de uso comunes
-- Automatización de la gestión de contraseñas
-- Integración de 1Password con otras herramientas y servicios
-- Gestión de secretos y credenciales en entornos de desarrollo
+- Automatización de procesos de venta y compra en Amazon Marketplace
+- Gestión de inventario y logística con Amazon Web Services (AWS)
+- Integración de Amazon con otras plataformas y sistemas
 
 ## Seguridad y mejores prácticas
 - Manejo adecuado de tokens de autenticación y claves de API
 - Seguridad en la comunicación (HTTPS, encriptación)
-- Control de acceso y permisos en 1Password
+- Control de acceso y permisos en Amazon
 
 ## Casos de estudio y proyectos prácticos
-- Desarrollo de proyectos prácticos utilizando la API de 1Password
-- Integración de 1Password en aplicaciones y flujos de trabajo existentes
+- Desarrollo de proyectos prácticos utilizando la API de Amazon
+- Integración de Amazon en aplicaciones y flujos de trabajo existentes
 - Resolución de problemas y depuración
 
 ## Conclusiones
@@ -61,5 +62,5 @@ tags: []
 
 ## Apéndices
 - Glosario de términos
-- Referencia de la API de 1Password
+- Referencia de la API de Amazon
 - Ejemplos de código

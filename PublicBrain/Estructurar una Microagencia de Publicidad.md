@@ -804,7 +804,7 @@ TODO: Convertir, en fase 2, los documentos generados y, en concreto estos dos, e
 	* Identificar las oportuinidades de negocio de una agencia de marketing.
 	* Conocer los roles mas frecuentes.
 	* Preparar propuestas para tus clientes.
-	* Poner en marcha tu modelo de negocio.
+	* Poner en marcha tu modelo de negocio.f
 
 ---
 ## Cursos Recomendados a niveld e agencia.

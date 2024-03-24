@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con Amazon.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con Amazon.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con Amazon.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con Amazon.md"
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
               }
             }
           },
@@ -164,10 +164,12 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
+    "Regularización (Dropout, L2, L1).md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "PublicBrain/Interacción Digital Remota mediante API con Amazon.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/Interacción Digital Remota mediante API con Dropbox.md",
     "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Amazon.md",
     "PublicBrain/Interacción Digital Remota mediante API con AliBaba.md",
     "PublicBrain/Interacción Digital Remota mediante API con 1Password.md",
     "Interacción Digital Remota mediante API con Amazon.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Aprender con G-L.md",
     "PublicBrain/Aprender con M-P.md",
     "PublicBrain/Aprender con A-F.md",
-    "PublicBrain/Aprender con Q-Z.md",
-    "Interacción Digital Remota mediante API con AliBaba.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

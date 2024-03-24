@@ -43,7 +43,7 @@ tags: []
 * Recopilación y preparación de datos
 * [[División de datos en conjuntos de entrenamiento, validación y prueba]]
 * Inicialización de pesos
-* Regularización (Dropout, L2, L1)
+* [[Regularización (Dropout, L2, L1)]]
 * Entrenamiento y ajuste de hiperparámetros
 
 ## Redes Neuronales Convolucionales (CNNs)

@@ -24,12 +24,14 @@ tags:
 * Aprender con Avelino Vicente
 * [[Aprender con Beatriz Martín]]
 * Aprender con Birgit Linda Emberger
-* Aprendercon Clara Galán
+* Aprender con Carlos Alarcón
+* Aprender con Christian Van Der Henst
+* Aprender con Clara Galán
 * [[Aprender con Coronel Baños]]
 * Aprender con Cris Carrascosa
 * Aprender con Daniel Aragay Esteban
 * Aprender con Daniel Iván Reyes
-* Aprender con Diego Marañon
+* Aprender con Diego Marañón
 * Aprender con Doctor José Cabrera
 * Aprender con Doctor Jose Miguel Gaona
 * Aprender con Doctora Lujan Comas
@@ -37,4 +39,6 @@ tags:
 * Aprender con Enrique de Vicente
 * Aprender con Fabián González Rivas
 * Aprender con Felix Rodriguez de la Fuente
+* Aprender con Fernando Miralles
 * Aprender con Francisco José Fernandez-Cruz Sequera
+* Aprender con Freddy Vega

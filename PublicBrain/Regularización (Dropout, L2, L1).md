@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-24T21:28:26.766Z
+modified: 2024-03-24T21:29:48.027Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Regularización (Dropout, L2, L1)
 
 [[Estructura y funcionamiento de las  redes neuronales]]

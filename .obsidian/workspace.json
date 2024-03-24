@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender con A-F.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender con A-F.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender con A-F.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender con A-F.md"
+                "file": "PublicBrain/Estructurar una Microagencia de Publicidad.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender con G-L.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender con M-P.md",
+    "PublicBrain/Aprender con A-F.md",
     "PublicBrain/Aprender con Q-Z.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Diversidad funcional y necesidades de diferentes usuarios.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "Diversidad funcional y necesidades de diferentes usuarios.md",
-    "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-25T19:25:05.642Z
-modified: 2024-03-23T17:37:31.448Z
+modified: 2024-03-24T16:24:43.372Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 35
+ver_rev: 36
 nav_primary: 
 nav_secondary: 
 tags:
@@ -778,14 +778,33 @@ En ing. Sales Funnel Expert. Diseña la estrategia de marketing para el cliente.
 
 ### Documentos para clientes.
 
-* 1. Propuesta
+* 1. Propuesta (3 propuestas low budget, medium budget, hight budget)
 * 2. De ser aceptada, Contrato.
 
 TODO: Convertir, en fase 2, los documentos generados y, en concreto estos dos, en indices de contenido para crear una estructura que pueda usar IA.
 
 ### Consejos para montar tu agencia
 
-* TODO: Seguir aqui.
+* ¿Copmo empezar?
+	* Marca blanca.
+	* Hacer un excelente trabajo.
+	* Por en marcha un plan para escalar.
+* Si no tienes experiencia
+	* Asociate.
+	* Contrata.
+	* Consigue inversores.
+* ¿Qué necesitas?
+	* Website y emails con dominio propio.
+	* Portfolio
+	* Presencia online
+	* Reseña u opiniones.
+	* Fuente continua de leads.
+	* Armar tu equipo.
+* Recapitulando
+	* Identificar las oportuinidades de negocio de una agencia de marketing.
+	* Conocer los roles mas frecuentes.
+	* Preparar propuestas para tus clientes.
+	* Poner en marcha tu modelo de negocio.
 
 ---
 ## Cursos Recomendados a niveld e agencia.

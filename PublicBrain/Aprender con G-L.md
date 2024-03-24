@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-17T22:03:41.120Z
-modified: 2024-03-24T09:04:08.623Z
+modified: 2024-03-24T10:34:58.441Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,7 @@ tags:
 * Aprender con Jackes Cousteau
 * [[Aprender con Javier G. Recuenco]]
 * Aprender con Jéssica Arribas Arranz
-* Aprener con Joaquín Sánchez Aguilar
+* Aprender con Joaquín Sánchez Aguilar
 * Aprender con Jon Sistiaga
 * Aprender con Jorge Laborda Fernández
 * Aprender con José Elias
@@ -35,6 +35,7 @@ tags:
 * Aprender con José Rafael Esteban Durán
 * Aprender con José María Cánovas
 * Aprender con Josefina Cano
+* Aprender con Juan Ramón Rallo
 * Aprender sobre Juan Soto Ivars
 * Aprener con Juanjo Navarro Mínguez
 * Aprender con Luis Quevedo

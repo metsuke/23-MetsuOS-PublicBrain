@@ -1,17 +1,17 @@
 ---
-iaStatus: 0
+iaStatus: 1
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-03-11T23:57:02.891Z
-modified: 2024-03-23T17:37:31.508Z
+modified: 2024-03-24T17:08:11.435Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 4
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 5
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # A1-PL
 

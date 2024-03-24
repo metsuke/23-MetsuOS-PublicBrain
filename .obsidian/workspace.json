@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idiomas.md",
+                "file": "PublicBrain/A2-ES.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idiomas.md",
+                "file": "PublicBrain/A2-ES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idiomas.md",
+                "file": "PublicBrain/A2-ES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idiomas.md"
+                "file": "PublicBrain/A2-ES.md"
               }
             }
           },
@@ -164,6 +164,14 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
+    "PublicBrain/A2-CA.md",
+    "PublicBrain/A1-SW.md",
+    "PublicBrain/A1-VLC.md",
+    "PublicBrain/A1-TR.md",
+    "PublicBrain/A1-PL.md",
+    "PublicBrain/A1-SV.md",
+    "PublicBrain/A1-RU.md",
+    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Index.md",
     "PublicBrain/Estructurar una Microagencia de Publicidad.md",
     "PublicBrain/Aprender con G-L.md",
@@ -182,14 +190,6 @@
     "PublicBrain/Aprender sobre Stargate.md",
     "PublicBrain/Aprender sobre cultura internacional a través de los idiomas.md",
     "PublicBrain/Interacción Digital Remota mediante API con 1Password.md",
-    "Interacción Digital Remota mediante API con 1Password.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "Aprender Idioma Neerlandés.md",
-    "PublicBrain/Aprender Idioma Neerlandés.md",
-    "PublicBrain/Herramientas y recursos para evaluar y mejorar la accesibilidad en E-Learning.md",
-    "PublicBrain/Diversidad funcional y necesidades de diferentes usuarios.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

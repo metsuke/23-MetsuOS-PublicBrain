@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-17T22:04:51.097Z
-modified: 2024-03-23T17:37:31.485Z
+modified: 2024-03-24T09:05:32.796Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,3 +28,4 @@ tags:
 * [[Aprender con Sani Ladam]]
 * [[Aprender con Selva Orejón]]
 * [[Aprender con SizeMatters]]
+* Aprender con Uri Sabat

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con AliBaba.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con AliBaba.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con AliBaba.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con AliBaba.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,14 +164,16 @@
   },
   "active": "1900b9383bf761d2",
   "lastOpenFiles": [
+    "PublicBrain/Aprender con G-L.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender con Q-Z.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
-    "Interacción Digital Remota mediante API con AliBaba.md",
     "PublicBrain/Interacción Digital Remota mediante API con AliBaba.md",
+    "Interacción Digital Remota mediante API con AliBaba.md",
     "PublicBrain/Aprender sobre las pirncipales criptomonedas.md",
     "PublicBrain/Aprender sobre el Mundo Crypto.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Promting Database.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "Aprender sobre el Mundo Crypto.md",
     "Aprender sobre las pirncipales criptomonedas.md",
     "PublicBrain/Aprender sobre Stargate.md",
@@ -188,8 +190,6 @@
     "Diversidad funcional y necesidades de diferentes usuarios.md",
     "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
-    "Herramientas y recursos para evaluar y mejorar la accesibilidad en E-Learning.md",
-    "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

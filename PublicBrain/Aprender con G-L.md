@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-17T22:03:41.120Z
-modified: 2024-03-23T17:37:31.487Z
+modified: 2024-03-24T09:04:08.623Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,6 +19,7 @@ tags:
 
 * Aprender con Gerardo Sanz
 * Aprender con Germán Fernández Sánchez
+* Aprender con Guille Collado
 * Aprender con Ignasi Díaz Ferrando
 * Aprender con Iker Jiménez
 * Aprender con Isaac Asimov
@@ -28,6 +29,7 @@ tags:
 * Aprener con Joaquín Sánchez Aguilar
 * Aprender con Jon Sistiaga
 * Aprender con Jorge Laborda Fernández
+* Aprender con José Elias
 * Aprender con José Juan Sanchez García
 * Aprender con Jose Luis Guardeño López
 * Aprender con José Rafael Esteban Durán

@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-23T22:29:09.929Z
+modified: 2024-03-25T00:57:14.805Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 36
+ver_rev: 37
 nav_primary: 
 nav_secondary: 
 tags:
@@ -21,7 +21,7 @@ DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo fr
 
 ## Desarrollo Estructura Habilidades-Perfiles-Tareas 
 
-* [[Estructurar una Microagencia de Publicidad]]
+* [[Estructurar una Microagencia de Marketing Digital]]
 
 ## Aprender Idiomas y Cultura
 
@@ -124,6 +124,13 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	* [[Aprender sobre Buenas Prácticas y Código Limpio en Programación]]
 * [[Aprender sobre Redes e Internet]]
 
+## Cursos externos recomendados
+
+* [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital]]
+
+## Mis apuntes de ...
+
+* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital]]
 
 ## En proceso de inventario ...
 

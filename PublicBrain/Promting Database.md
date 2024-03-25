@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:31:00.000Z
-modified: 2024-03-23T18:51:46.265Z
+modified: 2024-03-25T01:11:45.229Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -35,3 +35,6 @@ En el contexto de "Aprender sobre Interacción Digital Remota mediante API" nece
 * Niveles y Examenes Adicionales "Ademas de los niveles oficial hay algun nivel o examen para el idioma X_Idioma que sea relevante"
 * Indice Curso "Necesito un indice detallado y exhaustivo para un curso en el que aprender el temario de X_Nivel de Y_Idioma. Dámelo en markdown , con encabezados ## para los modulos , todo dentro de un bloque code html para copiarlo. Tras cada ## debe haber una linea en blanco. Por favor no incluyas la palabra Leccion en los puntos de las lecciones. No uses encabezados de nivel 3 sino listas dentro de los encabezados de nivel 2."
 * Indices Equivalentes "Puedes hacer lo mismo para X"
+## Recomendar Cursos
+
+puedes crear una reseña sobre el curso de platzi Curso para Estructurar una Microagencia de Marketing Digital necesito un mensaje claro y directo que atraiga estudiantes y al tiempo llame la atencion de la empresa que lo ofrece para colaborar

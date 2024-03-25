@@ -4,20 +4,20 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-01-25T19:25:05.642Z
-modified: 2024-03-24T16:24:43.372Z
+created: 2024-03-25T00:54:25.473Z
+modified: 2024-03-25T00:58:25.161Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 36
+ver_rev: 1
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Estructurar una Microagencia de Publicidad
+# Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital
 
-[[PublicBrain/Index]]
+[[Estructurar una Microagencia de Marketing Digital]]
 
-Inspirado en este [curso de Platzi sobre la creación de Microagencias](https://platzi.com/cursos/estructura-microagencia/) voy a desarrollar mi metodología sobre habiluiades, perfiles y tareas para MetsuOS.
+Mis apuntes del [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ]] 
 
 ## Organigrama
 

@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-25T01:18:17.371Z
+modified: 2024-03-25T01:24:46.320Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Alfabeto cirílico (A1-RU)
 
 [[A1-RU]]

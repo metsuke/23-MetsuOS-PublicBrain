@@ -17,8 +17,6 @@ tags: []
 
 [[Aprender sobre Interacción Digital Remota mediante API]]
 
-# Curso sobre Interacción Digital Remota mediante API con Google
-
 ## Introducción
 - Visión general del curso
 - Objetivos y metas

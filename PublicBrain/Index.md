@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-25T00:57:14.805Z
+modified: 2024-03-25T15:51:24.671Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 37
+ver_rev: 38
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,6 +39,8 @@ No estoy de acuerdo con todo lo que dicen todos, mas todos ellos aportan una vis
 * [[Aprender con G-L]]
 * [[Aprender con M-P]]
 * [[Aprender con Q-Z]]
+
+[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
 
 ## Aprender sobre ...
 

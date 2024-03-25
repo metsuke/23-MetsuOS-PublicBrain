@@ -5,17 +5,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-07T19:44:55.008Z
-modified: 2024-03-14T21:53:35.867Z
+modified: 2024-03-25T01:17:31.423Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Saludos y presentaciones
+# Saludos y presentaciones (A1-RU)
 
-[[Aprender Idioma Ruso]]
+[[A1-RU]]
 
 Aquí tienes algunos saludos y frases de presentación en ruso para el nivel A1:
 

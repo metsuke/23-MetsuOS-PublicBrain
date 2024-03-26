@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:58.000Z
-modified: 2024-03-25T23:39:49.516Z
+modified: 2024-03-26T08:31:58.308Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -45,7 +45,7 @@ tags:
 
 ## Módulo 4: Cultura y Sociedad Japonesa
 
-4.1. Costumbres y etiqueta japonesa.
+4.1. [[Costumbres y etiqueta japonesa (N5-JP)]]
 4.2. Festivales y celebraciones importantes.
 4.3. Introducción a la gastronomía japonesa.
 4.4. Aspectos básicos de la historia y geografía de Japón.

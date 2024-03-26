@@ -37,7 +37,7 @@ tags:
 * [[Variables y Tipos de Datos]]
 	* [[Tipos básicos - int, float, char en Lenguaje C]]
 	* [[Declaración de variables y asignación en Lenguaje C]]
-* Operadores y Expresiones
+* [[Operadores y Expresiones en Lenguaje C]]
 	* Operadores aritméticos, lógicos y de asignación
 	* Precedencia de operadores
 * Estructuras de Control

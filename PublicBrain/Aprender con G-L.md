@@ -23,6 +23,7 @@ tags:
 * Aprender con Gerardo Sanz
 * Aprender con Germán Fernández Sánchez
 * Aprender con Guille Collado
+* Aprender con Igor Errazkin
 * Aprender con Ignasi Díaz Ferrando
 * Aprender con Iker Jiménez
 * Aprender con Isaac Asimov

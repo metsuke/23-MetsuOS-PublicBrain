@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operadores y Expresiones en Lenguaje C.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operadores y Expresiones en Lenguaje C.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operadores y Expresiones en Lenguaje C.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operadores y Expresiones en Lenguaje C.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -176,13 +176,18 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
+    "PublicBrain/Aprender con G-L.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender con A-F.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender a Programar desde Cero.md",
+    "PublicBrain/Operadores y Expresiones en Lenguaje C.md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "Operadores y Expresiones en Lenguaje C.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "Interacción Digital Remota mediante API con EBay.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "PublicBrain/Promting Database.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/N5-JP.md",
@@ -195,13 +200,8 @@
     "PublicBrain/A1-SV.md",
     "PublicBrain/Aprender Idioma Sueco.md",
     "PublicBrain/Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos..md",
-    "PublicBrain/Aprender con A-F.md",
     "PublicBrain/Aprender con Q-Z.md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
-    "PublicBrain/Aprender con Pablo Grueso.md",
-    "Indice para estudiar el pensamiento y filosofía de una persona.md",
-    "Interacción Digital Rmota mediante API con Google.md",
-    "PublicBrain/Interacción Digital Rmota mediante API con Google.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

@@ -44,5 +44,6 @@ tags:
 * Aprender con Fabián González Rivas
 * Aprender con Felix Rodriguez de la Fuente
 * Aprender con Fernando Miralles
+* Aprender con Fran Gallego
 * Aprender con Francisco José Fernandez-Cruz Sequera
 * Aprender con Freddy Vega

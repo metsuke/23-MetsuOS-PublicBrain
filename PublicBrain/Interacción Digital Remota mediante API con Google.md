@@ -5,15 +5,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-25T02:11:45.341Z
-modified: 2024-03-25T02:12:13.771Z
+modified: 2024-03-26T12:45:10.310Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Interacción Digital Rmota mediante API con Google
+# Interacción Digital Remota mediante API con Google
 
 [[Aprender sobre Interacción Digital Remota mediante API]]
 

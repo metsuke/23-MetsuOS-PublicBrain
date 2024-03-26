@@ -47,7 +47,7 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
         - 4.1.3 [[Interpretación de la información]] (Mejora)
     - **Pauta 5. Flexibilidad y manejo de errores (Mejora)**
         - 5.1.3 [[Ayuda]] (Mejora)
-    - **Pauta 6. Entrada y navegación (Mejora)**
+    - [[Pauta 6 - Entrada y navegación]] (Mejora)
         - 6.1.4 Requisitos de orientación (Mejora)
     - **Pauta 7. Identificación y orientación (Mejora)**
         - 7.1.3 Etiquetas y nombre (Mejora)

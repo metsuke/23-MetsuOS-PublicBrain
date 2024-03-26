@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:31:02.000Z
-modified: 2024-03-25T23:39:49.204Z
+modified: 2024-03-26T19:35:04.324Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -57,7 +57,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
         - 5.1 Manejo de errores
         - 5.2 Etiquetas o instrucciones
         - 5.3 [[Ayuda]]
-    - **Pauta 6: Entrada y navegación**
+    - [[Pauta 6 - Entrada y navegación]]
         - 6.1 Control de teclado
         - 6.2 Control del tiempo
         - 6.3 Títulos y etiquetas

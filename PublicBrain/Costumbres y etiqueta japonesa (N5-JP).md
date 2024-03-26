@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-26T08:32:03.799Z
+modified: 2024-03-26T08:39:25.547Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Costumbres y etiqueta japonesa (N5-JP)
 
 [[N5-JP]]

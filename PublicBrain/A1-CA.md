@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:48.000Z
-modified: 2024-03-23T17:37:31.517Z
+modified: 2024-03-25T23:39:50.178Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 <-- [[C2-CA]] | [[A2-CA]] --> 
 
-## Módulo 1: Introducción al Catalán
+## Módulo 1: "I"ntroducción al Catalán
 
 1.1. [[Saludos y presentaciones básicas (A1-CA)]]
 1.2. [[Alfabeto catalán y pronunciación (A1-CA)]].

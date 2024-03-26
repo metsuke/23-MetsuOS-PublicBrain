@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-10-23T22:51:48.629Z
-modified: 2024-03-25T02:12:13.853Z
+modified: 2024-03-25T23:39:50.050Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 23
+ver_rev: 24
 nav_primary: 
 nav_secondary: 
 tags:
@@ -35,7 +38,7 @@ tags:
 
 ## Módulo 3: Vida Cotidiana Avanzada
 
-- Unidad 9: Hábitos y Rutinas
+- Unidad 9: "H"ábitos y Rutinas
 - Unidad 10: Alimentos y Cocina
 - Unidad 11: Compras y Supermercados
 - Unidad 12: Medios de Comunicación
@@ -52,7 +55,7 @@ tags:
 - Unidad 17: Expresiones Idiomáticas
 - Unidad 18: Hablar de Experiencias
 - Unidad 19: Conversaciones Sociales
-- Unidad 20: Invitaciones y Sugerencias
+- Unidad 20: "I"nvitaciones y Sugerencias
 
 ## Módulo 6: Situaciones Especiales
 

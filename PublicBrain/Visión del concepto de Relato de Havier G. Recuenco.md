@@ -1,14 +1,17 @@
 ---
 iaStatus: 1
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-03-16T08:10:45.230Z
-modified: 2024-03-23T17:37:31.375Z
+modified: 2024-03-25T23:39:49.214Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:

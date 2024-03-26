@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-10-22T18:11:19.455Z
-modified: 2024-03-23T17:37:31.512Z
+modified: 2024-03-25T23:39:50.171Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 24
+ver_rev: 25
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 <-- [[C2-GE]] | [[A2-GE]] -->
 
-## Módulo 1: Introducción al Alemán A1
+## Módulo 1: "I"ntroducción al Alemán A1
 
 - [[Saludos y Presentaciones (A1-GE)]]
 - [[El Alfabeto Alemán (A1-GE)]]

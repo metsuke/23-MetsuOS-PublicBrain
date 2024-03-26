@@ -1,14 +1,17 @@
 ---
 iaStatus: 2
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:57.000Z
-modified: 2024-03-23T17:37:31.417Z
+modified: 2024-03-25T23:39:49.674Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 24
+ver_rev: 25
 nav_primary: 
 nav_secondary: []
 tags:
@@ -29,7 +32,7 @@ Aquí tienes algunos aspectos clave sobre los kanji:
     
 3.  Uso: Los kanji se utilizan para escribir palabras sustantivas, verbos, adjetivos y algunos adverbios en japonés. También se utilizan para expresar relaciones gramaticales y conceptos más abstractos. El conocimiento de los kanji es fundamental para leer textos más complejos, como periódicos, literatura y documentos oficiales en [[Japonés]].
     
-4.  Número de kanji: Hay miles de kanji en total, pero se considera que existen alrededor de 2,000 kanji de uso común. En Japón, los estudiantes aprenden un conjunto de kanji básicos conocidos como "kyōiku kanji" durante su educación primaria y secundaria. Además, hay kanji más especializados y menos comunes que se utilizan en áreas específicas como la ciencia, la medicina o la tecnología.
+4.  Número de kanji: "H"ay miles de kanji en total, pero se considera que existen alrededor de 2,000 kanji de uso común. En Japón, los estudiantes aprenden un conjunto de kanji básicos conocidos como "kyōiku kanji" durante su educación primaria y secundaria. Además, hay kanji más especializados y menos comunes que se utilizan en áreas específicas como la ciencia, la medicina o la tecnología.
     
 5.  Diccionarios y lectura: Para buscar kanji y comprender su lectura y significado, se utilizan diccionarios de kanji, como el diccionario "Kanji Kentei" o el "New Nelson". Los diccionarios de kanji proporcionan información sobre la escritura, los trazos y las lecturas de los kanji, así como ejemplos de palabras y frases en las que se utilizan.
     

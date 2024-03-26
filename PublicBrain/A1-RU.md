@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-18T20:16:00.871Z
-modified: 2024-03-25T01:18:12.078Z
+modified: 2024-03-25T23:39:50.085Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 24
+ver_rev: 25
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 <-- [[C2-RU]] | [[A2-RU]] -->
 
-## Módulo 1: Introducción al Ruso
+## Módulo 1: "I"ntroducción al Ruso
 
 - [[Alfabeto cirílico (A1-RU)]]
 - [[Saludos y presentaciones (A1-RU)]]

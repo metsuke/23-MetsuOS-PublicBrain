@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:48.000Z
-modified: 2024-03-23T17:37:31.513Z
+modified: 2024-03-25T23:39:50.175Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 24
+ver_rev: 25
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 <-- [[C2-ES]] | [[A2-ES]] --> 
 
-## Módulo 1: Introducción al Español
+## Módulo 1: "I"ntroducción al Español
 
 1.1. [[Saludos y presentaciones básicas (A1-ES)]]
 1.2. [[Alfabeto y pronunciación (A1-ES)]]
@@ -61,7 +64,7 @@ tags:
 6.3. La vida en países de habla hispana.
 6.4. Películas y música en español.
 
-## Módulo 7: Habilidades de Lectura y Escritura
+## Módulo 7: "H"abilidades de Lectura y Escritura
 
 7.1. Comprensión de textos sencillos.
 7.2. Escritura de mensajes y correos electrónicos básicos.

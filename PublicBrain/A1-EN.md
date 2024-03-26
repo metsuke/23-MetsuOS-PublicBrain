@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:48.000Z
-modified: 2024-03-23T17:37:31.515Z
+modified: 2024-03-25T23:39:50.177Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 <-- [[C2-EN]] | [[A2-EN]] -->
 
-## Módulo 1: Introducción al Inglés
+## Módulo 1: "I"ntroducción al Inglés
 
 1.1. [[Saludos y presentaciones (A1-EN)]]
 1.2. [[El alfabeto inglés (A1-EN)]].

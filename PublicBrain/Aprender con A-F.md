@@ -1,14 +1,17 @@
 ---
 iaStatus: 1
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-03-17T22:02:27.936Z
-modified: 2024-03-24T10:29:10.499Z
+modified: 2024-03-25T22:57:32.581Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -31,6 +34,7 @@ tags:
 * Aprender con Cris Carrascosa
 * Aprender con Daniel Aragay Esteban
 * Aprender con Daniel Iván Reyes
+* Aprender con David Saavedra
 * Aprender con Diego Marañón
 * Aprender con Doctor José Cabrera
 * Aprender con Doctor Jose Miguel Gaona

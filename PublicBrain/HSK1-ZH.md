@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:56.000Z
-modified: 2024-03-23T17:37:31.437Z
+modified: 2024-03-25T23:39:49.726Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 <-- [[HSK6-ZH]] |  [[HSK2-ZH]]  -->
 
-## Módulo 1: Introducción al Chino y Pinyin
+## Módulo 1: "I"ntroducción al Chino y Pinyin
 
 - [[¿Qué es el chino mandarín? (HSK1-ZH)]]
 - [[El sistema de escritura chino (HSK1-ZH)]]

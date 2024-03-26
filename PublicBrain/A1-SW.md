@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:48.000Z
-modified: 2024-03-24T17:26:22.670Z
+modified: 2024-03-25T23:39:50.084Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 <-- [[C2-SW]] | [[A2-SW]] -->
 
-## Módulo 1: Introducción al Swahili
+## Módulo 1: "I"ntroducción al Swahili
 
 ### Lección 1: Saludos y Presentaciones
 

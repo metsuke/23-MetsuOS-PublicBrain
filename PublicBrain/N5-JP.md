@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:58.000Z
-modified: 2024-03-23T17:37:31.408Z
+modified: 2024-03-25T23:39:49.516Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 24
+ver_rev: 25
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 <-- [[N1-JP]] | [[N4-JP]] -->
 
-## Módulo 1: Introducción al Japonés Básico
+## Módulo 1: "I"ntroducción al Japonés Básico
 
 1.1. [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
 1.2. [[Saludos y presentaciones en japonés (N5-JP)]]

@@ -1,14 +1,17 @@
 ---
 iaStatus: 2
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-02-08T05:42:32.187Z
-modified: 2024-03-23T17:37:31.480Z
+modified: 2024-03-25T23:39:49.980Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 24
+ver_rev: 25
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 NdA: Esta primera iteración no me convence mucho, no parece que haya sido capaz de guiar a ChatGPT para "imaginar" todo esto. TODO: Usar esta oportunidad para diseñar un proceso "de la idea general al enfoque particular" para explicar a IA en el futuro lo que realmente pretendo de un modo sencillo y predecible, sin perdere el control del modelo IA en ningun momento.
 
-## Módulo 1: Introducción a la Computación con Canicas
+## Módulo 1: "I"ntroducción a la Computación con Canicas
 - [[Lección 1 - Qué es la Computación con Canicas]]
 - [[Lección 2 - Historia y antecedentes]]
 - [[Lección 3 - Principios fundamentales de la computación con canicas]]

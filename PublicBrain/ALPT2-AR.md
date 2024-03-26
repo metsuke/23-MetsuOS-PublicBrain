@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-12T10:13:58.000Z
-modified: 2024-03-25T02:12:13.853Z
+modified: 2024-03-25T23:39:50.049Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 23
+ver_rev: 24
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 <-- [[ALPT1-AR]] | [[ALPT3-AR]] -->
 
-## Módulo 1: Introducción al alfabeto árabe y sonidos básicos
+## Módulo 1: "I"ntroducción al alfabeto árabe y sonidos básicos
 
 - Alfabeto árabe: introducción
 - Alfabeto árabe: consonantes

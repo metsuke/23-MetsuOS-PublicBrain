@@ -1,21 +1,24 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-03-25T01:04:31.091Z
-modified: 2024-03-25T01:04:51.548Z
+modified: 2024-03-26T01:12:31.981Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital
 
-[[PublicBrain/Index|Index]]
+[[PublicBrain/Index|Index]] | [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital]]
 
 **¡Construye tu propia agencia de marketing digital desde cero con el Curso para Estructurar una Microagencia de Marketing Digital en Platzi!**
 

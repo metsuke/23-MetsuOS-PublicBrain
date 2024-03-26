@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-10-23T22:50:29.401Z
-modified: 2024-03-24T17:08:11.390Z
+modified: 2024-03-25T23:39:50.083Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 24
+ver_rev: 25
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 <-- [[C2-VLC]] | [[A2-VLC]] -->
 
-## Módulo 1: Introducción al Valenciano
+## Módulo 1: "I"ntroducción al Valenciano
 
 - [[Saludos y Presentaciones (A1-VLC)]]
 - [[Números y Fechas (A1-VLC)]]
@@ -42,7 +45,7 @@ tags:
 
 ## Módulo 4: Actividades y Gustos
 
-- Unidad 13: Hobbies y Pasatiempos
+- Unidad 13: "H"obbies y Pasatiempos
 - Unidad 14: De Compras
 - Unidad 15: Planes para el Fin de Semana
 - Unidad 16: Preferencias y Gustos

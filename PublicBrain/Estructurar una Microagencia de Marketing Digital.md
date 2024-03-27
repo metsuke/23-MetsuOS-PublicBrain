@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-25T19:25:05.642Z
-modified: 2024-03-26T01:07:10.596Z
+modified: 2024-03-27T00:45:23.677Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 39
+ver_rev: 40
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,9 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 
 ## Organigrama de la microagencia
 
-Gestión Empresarial
+{[MOS::Modelos::Organizaciones::Negocio::MicroagenciaPublicidad::GetStructure]}
+
+* Gestión Empresarial
 	* Comercial
 	* Administración
 	* Account Manager

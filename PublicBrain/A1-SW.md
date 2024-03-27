@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:48.000Z
-modified: 2024-03-25T23:39:50.084Z
+modified: 2024-03-27T13:03:16.862Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -56,7 +56,7 @@ tags:
 
 - [[Verbos comunes para actividades diarias (A1-SW]])
 - [[Rutina diaria (A1-SW)]]
-- Expresar gustos y preferencias
+- [[Expresar gustos y preferencias (A1-SW)]]
 
 ### Lección 6: Transporte y Direcciones
 

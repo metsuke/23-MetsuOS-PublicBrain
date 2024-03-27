@@ -41,7 +41,7 @@ tags:
 3.1. [[Frases para pedir y dar información personal (A1-EN)]]
 3.2. [[Preguntas básicas (A1-EN)]]
 3.3. [[Expresar preferencias y gustos (A1-EN)]]
-3.4. Pedir ayuda y direcciones.
+3.4. [[Pedir ayuda y direcciones (A1-EN)]]
 
 ## Módulo 4: Comida y Bebida
 

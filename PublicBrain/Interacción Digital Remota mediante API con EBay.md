@@ -5,15 +5,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-26T10:15:29.700Z
-modified: 2024-03-26T10:21:50.637Z
+modified: 2024-03-27T00:05:49.576Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Interacción Digital Remota mediante API con EBay
+	# Interacción Digital Remota mediante API con EBay
 
 [[Aprender sobre Interacción Digital Remota mediante API]]
 

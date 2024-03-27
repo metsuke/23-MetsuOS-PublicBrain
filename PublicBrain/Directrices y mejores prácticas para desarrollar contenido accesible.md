@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-27T09:04:53.453Z
+modified: 2024-03-27T09:07:40.568Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Directrices y mejores prácticas para desarrollar contenido accesible
 
 [[Aprender sobre Accesibilidad en ELearining]]

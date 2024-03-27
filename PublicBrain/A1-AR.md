@@ -41,7 +41,7 @@ tags:
 - [[Preguntas frecuentes (A1-AR)]]
 - [[Dar direcciones (A1-AR)]]
 - [[En el restaurante (A1-AR)]]
-- En la tienda
+- [[En la tienda (A1-AR)]]
 
 ## Módulo 4: Tiempo y Fechas
 

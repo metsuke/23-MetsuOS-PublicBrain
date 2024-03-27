@@ -1,17 +1,20 @@
 ---
-iaStatus: 0
+iaStatus: 2
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-02-09T00:53:23.814Z
-modified: 2024-03-14T21:53:36.381Z
+modified: 2024-03-26T22:49:23.220Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 22
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 23
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Accesibilidad del teclado
 

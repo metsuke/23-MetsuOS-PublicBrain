@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/HSK1-ZH.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/HSK1-ZH.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/HSK1-ZH.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/HSK1-ZH.md"
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md"
               }
             }
           },
@@ -176,8 +176,22 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "Expresar agradecimiento y disculpa (HSK1-ZH).md",
+    "Qué es una API (IDRA-EBay).md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "PublicBrain/Aprender sobre la Relación entre Ciencia y Arte.md",
+    "PublicBrain/Expresar agradecimiento y disculpa (HSK1-ZH).md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Ajustes de contraste y color.md",
+    "PublicBrain/Adventure (Atari, Inc., 1979).md",
+    "PublicBrain/Adaptación de contenido.md",
+    "PublicBrain/Adéu.md",
+    "PublicBrain/ALPT3-AR.md",
+    "PublicBrain/API de World of Warcraft.md",
+    "PublicBrain/Accesibilidad del teclado.md",
+    "PublicBrain/Aadaab.md",
+    "PublicBrain/ALPT1-AR.md",
     "PublicBrain/HSK1-ZH.md",
+    "Expresar agradecimiento y disculpa (HSK1-ZH).md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Pauta 6 - Entrada y navegación.md",
     "Pauta 6 - Entrada y navegación.md",
@@ -187,21 +201,7 @@
     "PublicBrain/Interacción Digital Remota mediante API con Youtube.md",
     "PublicBrain/Promting Database.md",
     "PublicBrain/Interacción Digital Remota mediante API con Google.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender con G-L.md",
-    "PublicBrain/Aprender con A-F.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender a Programar desde Cero.md",
-    "PublicBrain/Operadores y Expresiones en Lenguaje C.md",
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "Operadores y Expresiones en Lenguaje C.md",
-    "Interacción Digital Remota mediante API con EBay.md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/N5-JP.md",
-    "PublicBrain/Costumbres y etiqueta japonesa (N5-JP).md",
-    "Costumbres y etiqueta japonesa (N5-JP).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

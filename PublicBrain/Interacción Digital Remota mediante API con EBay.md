@@ -18,7 +18,7 @@ tags: []
 [[Aprender sobre Interacción Digital Remota mediante API]]
 
 ## Introducción a las APIs y eBay
-- Qué es una API
+- [[Qué es una API (IDRA-EBay)]]
 - Importancia de las APIs en el desarrollo de software
 - Introducción a eBay y su API
 - Beneficios de utilizar la API de eBay

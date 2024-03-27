@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conversación sobre temas cotidianos (A2-CA).md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conversación sobre temas cotidianos (A2-CA).md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conversación sobre temas cotidianos (A2-CA).md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conversación sobre temas cotidianos (A2-CA).md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md"
               }
             }
           },
@@ -176,8 +176,20 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "PublicBrain/A2-CA.md",
+    "Directrices y mejores prácticas para desarrollar contenido accesible.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "PublicBrain/Aplicaciones de la IA en la vida cotidiana.md",
+    "PublicBrain/Conversación sobre temas cotidianos (A2-CA).md",
+    "PublicBrain/Ana Torroja.md",
+    "PublicBrain/Algoritmos de aprendizaje automático (regresión, clasificación, clustering).md",
+    "PublicBrain/Amore.md",
+    "PublicBrain/Algoritmos en Javascript.md",
+    "PublicBrain/Alfabeto y pronunciación (A1-ES).md",
+    "PublicBrain/Alan Wake (Remedy Entertainment, 2010).md",
+    "PublicBrain/Alemán.md",
+    "PublicBrain/Akatsuki.md",
     "Conversación sobre temas cotidianos (A2-CA).md",
+    "PublicBrain/A2-CA.md",
     "PublicBrain/A1-CA.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Index.md",
@@ -190,18 +202,6 @@
     "PublicBrain/Expresar agradecimiento y disculpa (HSK1-ZH).md",
     "PublicBrain/Ajustes de contraste y color.md",
     "PublicBrain/Adventure (Atari, Inc., 1979).md",
-    "PublicBrain/Adaptación de contenido.md",
-    "PublicBrain/Adéu.md",
-    "PublicBrain/ALPT3-AR.md",
-    "PublicBrain/API de World of Warcraft.md",
-    "PublicBrain/Accesibilidad del teclado.md",
-    "PublicBrain/Aadaab.md",
-    "PublicBrain/ALPT1-AR.md",
-    "PublicBrain/HSK1-ZH.md",
-    "Expresar agradecimiento y disculpa (HSK1-ZH).md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Pauta 6 - Entrada y navegación.md",
-    "Pauta 6 - Entrada y navegación.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

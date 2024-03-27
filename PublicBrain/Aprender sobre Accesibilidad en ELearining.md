@@ -41,7 +41,7 @@ tags: []
 - Tecnologías de asistencia y adaptaciones para usuarios con discapacidad
 
 ## Desarrollo de Contenido Accesible
-- Directrices y mejores prácticas para desarrollar contenido accesible
+- [[Directrices y mejores prácticas para desarrollar contenido accesible]]
 - Estrategias de diseño para texto, imágenes, multimedia y actividades interactivas
 
 ## Accesibilidad en Plataformas de Aprendizaje

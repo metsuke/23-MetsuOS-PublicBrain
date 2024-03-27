@@ -20,7 +20,7 @@ tags: []
 ## Introducción a la Historia del Videojuego
 - Definición de videojuego
 - Breve historia de los videojuegos
-- Importancia cultural y social de los videojuegos
+- [[Importancia cultural y social de los videojuegos]]
 
 ## Antecedentes Históricos
 - Precursores de los videojuegos

@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-27T20:29:44.765Z
+modified: 2024-03-27T20:34:36.191Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Superando estereotipos
 
 [[Aprender sobre Altas Capacidades]]

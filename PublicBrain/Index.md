@@ -8,17 +8,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-25T23:39:49.699Z
+modified: 2024-03-27T22:08:41.815Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 39
+ver_rev: 40
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Index
 
-[[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] | [[Promting Database]] | [[Tools Database]]
+[[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] 
+
+[[IA Database]] | [[Promting Database]] | [[Tools Database]]
 
 DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo frío y "aburrido", pero recuerden, una vez establecido el contenido, comprobado y gestionado por parte de un humano en fases subsiguientes, la calidez y empatía de la forma de comunicarlo puede modularse dinámicamente y el mensaje ser personalizado, mediante IA, tomando en cuenta todo tipo de parámetros.
 

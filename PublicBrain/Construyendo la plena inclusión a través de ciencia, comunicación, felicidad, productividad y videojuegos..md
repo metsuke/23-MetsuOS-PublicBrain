@@ -8,17 +8,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:48.000Z
-modified: 2024-03-25T23:39:49.883Z
+modified: 2024-03-27T22:23:54.636Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-1# Index
+# Index
 
-Estructura de la Web en proceso de creacion
+Estructura de la Web en proceso de creación
 
 * Accesibilidad
 * Ciencia

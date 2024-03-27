@@ -33,7 +33,7 @@ tags: []
 - [[Mejores prácticas educativas (Educativa de las AACC en España)]]
 
 ## Tema 4: Cambio de Mirada
-- Superando estereotipos
+- [[Superando estereotipos]]
 - [[Reconociendo el potencial en la diversidad]]
 
 ## Tema 5: Consecuencias de la Desatención

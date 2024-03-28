@@ -38,7 +38,7 @@ tags: []
 
 ## Tema 5: Consecuencias de la Desatención
 - [[Impacto en el rendimiento académico y emocional]]
-- Estrategias de intervención
+- [[Estrategias de intervención (Altas Capacidades)]]
 
 ## Tema 6: Identificación
 - Métodos y herramientas para la identificación temprana

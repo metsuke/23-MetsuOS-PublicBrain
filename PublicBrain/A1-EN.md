@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:48.000Z
-modified: 2024-03-27T22:37:53.215Z
+modified: 2024-03-28T09:43:25.343Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -45,7 +45,7 @@ tags:
 
 ## Módulo 4: Comida y Bebida
 
-4.1. Vocabulario de alimentos.
+4.1. [[Vocabulario de alimentos (A1-EN)]]
 4.2. Ordenar en un restaurante.
 4.3. Comprar en el supermercado.
 4.4. Preparación de comidas simples.

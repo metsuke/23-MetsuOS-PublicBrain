@@ -1,17 +1,20 @@
 ---
-iaStatus: 0
+iaStatus: 2
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-01-20T20:36:05.668Z
-modified: 2024-03-14T21:53:36.371Z
+modified: 2024-03-28T09:56:20.187Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 22
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 23
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aplicaciones de redes neuronales profundas (Deep Learning)
 

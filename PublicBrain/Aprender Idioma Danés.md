@@ -1,5 +1,5 @@
 ---
-iaStatus: 0
+iaStatus: 1
 a11y: 0
 checked: 0
 lang: ES
@@ -9,9 +9,9 @@ modified: 2024-03-19T21:17:59.787Z
 ver_major: 0
 ver_minor: 1
 ver_rev: 23
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender Idioma Danés
 

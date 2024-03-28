@@ -1,5 +1,5 @@
 ---
-iaStatus: 0
+iaStatus: 3
 a11y: 0
 checked: 0
 lang: ES
@@ -9,17 +9,18 @@ modified: 2024-03-27T00:05:49.576Z
 ver_major: 0
 ver_minor: 1
 ver_rev: 2
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-	# Interacción Digital Remota mediante API con EBay
+# Interacción Digital Remota mediante API con EBay
 
 [[Aprender sobre Interacción Digital Remota mediante API]]
 
 ## Introducción a las APIs y eBay
+
 - [[Qué es una API (IDRA-EBay)]]
-- Importancia de las APIs en el desarrollo de software
+- [[Importancia de las APIs en el desarrollo de software (IDRA-Ebay)]]
 - Introducción a eBay y su API
 - Beneficios de utilizar la API de eBay
 

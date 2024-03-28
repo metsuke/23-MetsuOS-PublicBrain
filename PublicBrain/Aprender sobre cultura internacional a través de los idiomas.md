@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-10T05:27:00.765Z
-modified: 2024-03-14T21:53:36.309Z
+modified: 2024-03-28T11:37:51.995Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,6 +20,7 @@ tags: []
 ## Peliculas/Manga/OVA
 
 * [[Aprender sobre Akira]] (JP)
+* Aprender sobre Ghost Dog (JP/EN/IT)
 
 ## Musica
 
@@ -35,3 +36,9 @@ tags: []
 
 * [[Aprender sobre Naruto]] (JP)
 * [[Aprender sobre Stargate]] (EN)
+
+## Videojuegos
+
+* Aprender sobre Halo (EN)
+* Aprender sobre Shemue (JP)
+* [[Aprender sobre World of Warcraft]] (EN)

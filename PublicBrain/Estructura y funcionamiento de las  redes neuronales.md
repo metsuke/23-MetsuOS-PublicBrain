@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-18T12:28:27.849Z
-modified: 2024-03-24T21:28:15.998Z
+modified: 2024-03-28T22:03:38.843Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -40,7 +40,7 @@ tags: []
 
 ## [[Diseño y Entrenamiento de Redes Neuronales]]
 
-* Recopilación y preparación de datos
+* [[Recopilación y preparación de datos]]
 * [[División de datos en conjuntos de entrenamiento, validación y prueba]]
 * Inicialización de pesos
 * [[Regularización (Dropout, L2, L1)]]

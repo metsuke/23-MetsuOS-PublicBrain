@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-27T22:08:41.815Z
+modified: 2024-03-28T21:02:10.895Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 40
+ver_rev: 41
 nav_primary: 
 nav_secondary: 
 tags:
@@ -54,6 +54,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Ciencia General
 
 * [[Aprender sobre la Relación entre Ciencia y Arte]]
+* [[Colección de escándalos cientificos]]
 
 # Ciencias Formales
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Nirvana.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Nirvana.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Nirvana.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Nirvana.md"
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
               }
             }
           },
@@ -176,11 +176,17 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
+    "PublicBrain/Recopilación y preparación de datos.md",
+    "Recopilación y preparación de datos.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "PublicBrain/Index.md",
+    "Colección de escándalos cientificos.md",
+    "PublicBrain/Colección de escándalos cientificos.md",
+    "PublicBrain/Aprender sobre cultura internacional a través de los idiomas.md",
+    "PublicBrain/Aprender sobre Nirvana.md",
+    "PublicBrain/Movimiento Grunge de Seattle.md",
     "Movimiento Grunge de Seattle.md",
     "PublicBrain/Kurt Cobain.md",
-    "PublicBrain/Aprender sobre Nirvana.md",
-    "PublicBrain/Aprender sobre cultura internacional a través de los idiomas.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
@@ -196,12 +202,6 @@
     "PublicBrain/Alfabeto catalán y pronunciación (A1-CA).md",
     "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/Aplicaciones de redes neuronales profundas (Deep Learning).md",
-    "PublicBrain/Aplicaciones de las redes neuronales en la vida real.md",
-    "PublicBrain/Ant Attack (Quicksilva, 1983).md",
-    "PublicBrain/Vocabulario de alimentos (A1-EN).md",
-    "PublicBrain/Estrategias de intervención (Altas Capacidades).md",
-    "Vocabulario de alimentos (A1-EN).md",
-    "PublicBrain/A1-EN.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

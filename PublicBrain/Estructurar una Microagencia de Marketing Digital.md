@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-25T19:25:05.642Z
-modified: 2024-03-27T00:45:23.677Z
+modified: 2024-03-29T09:22:06.034Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 40
+ver_rev: 41
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 {[MOS::Modelos::Organizaciones::Negocio::MicroagenciaPublicidad::GetStructure]}
 
 * Gestión Empresarial
-	* Comercial
+	* [[Rol Colercial|Comercial]]
 	* Administración
 	* Account Manager
 		* Project Manager
@@ -74,8 +74,8 @@ graph TD
 
 * Fase 0: Tomar apuntes del curso... DONE
 * Fase 1: Modelar agencia (departamentos, puestos ...) ... IN PROGRESS
-* Fase 2: Modelar puestos (rol, responsabilidades ...) ... FUTURE
-* Fase 3: Modelar roles, habilidades (duras y blandas) ... FUTURE
+* Fase 2: Modelar puestos (rol, responsabilidades ...) .. IN PROGRESS
+* Fase 3: Modelar roles, habilidades (duras y blandas) .. IN PROGRESS
 * Fase 4: Modelar cada uno de los elementos de responsabilidad, etc, etc, etc) ... FUTURE
 * Fase 5: Enlazar esto con la ejecución real de las diferentes tareas via MetsuOS ... FUTURE
 * Fase 6: Georgi Dan ... FUTURE

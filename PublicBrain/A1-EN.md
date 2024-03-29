@@ -47,7 +47,7 @@ tags:
 
 4.1. [[Vocabulario de alimentos (A1-EN)]]
 4.2. Ordenar en un restaurante.
-4.3. Comprar en el supermercado.
+4.3. [[Comprar en el supermercado (A1-EN)]]
 4.4. Preparación de comidas simples.
 
 ## Módulo 5: Tiempo Libre y Pasatiempos

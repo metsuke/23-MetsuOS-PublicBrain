@@ -5,15 +5,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:55.000Z
-modified: 2024-03-14T21:53:36.150Z
+modified: 2024-03-29T20:35:39.431Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-index# Fins ara
+# Fins ara
 
 "Fins ara" es una expresión en [[catalán]] que se puede traducir como "hasta ahora" o "hasta pronto". Es una frase comúnmente utilizada para despedirse o cerrar una conversación.
 

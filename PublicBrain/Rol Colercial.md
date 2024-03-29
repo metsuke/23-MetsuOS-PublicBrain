@@ -8,14 +8,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-29T09:21:43.762Z
-modified: 2024-03-29T09:23:16.893Z
+modified: 2024-03-29T20:37:13.210Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
+# Rol Colercial
 
 [[Estructurar una Microagencia de Marketing Digital]]
 

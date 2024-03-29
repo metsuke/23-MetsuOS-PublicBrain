@@ -5,14 +5,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-27T22:40:56.455Z
-modified: 2024-03-27T22:42:19.316Z
+modified: 2024-03-29T20:34:54.467Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
+# En la tienda (A1-AR)
 
 [[A1-AR]]
 

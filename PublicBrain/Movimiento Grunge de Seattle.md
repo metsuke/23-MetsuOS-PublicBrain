@@ -8,14 +8,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-28T11:38:33.717Z
-modified: 2024-03-28T11:39:49.009Z
+modified: 2024-03-29T20:36:39.039Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
+# Movimiento Grunge de Seattle
 
 [[Aprender sobre Nirvana]]
 

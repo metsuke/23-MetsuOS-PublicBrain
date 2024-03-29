@@ -5,14 +5,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-28T21:02:13.789Z
-modified: 2024-03-28T21:07:29.802Z
+modified: 2024-03-29T20:34:36.172Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
+# Colección de escándalos cientificos
 
 [[PublicBrain/Index|Index]]
 

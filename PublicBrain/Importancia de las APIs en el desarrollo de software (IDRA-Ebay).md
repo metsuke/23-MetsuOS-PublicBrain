@@ -5,14 +5,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-28T09:58:40.168Z
-modified: 2024-03-28T10:15:34.763Z
+modified: 2024-03-29T20:36:33.827Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
+# Importancia de las APIs en el desarrollo de software (IDRA-Ebay)
 
 [[Interacción Digital Remota mediante API con EBay]]
 

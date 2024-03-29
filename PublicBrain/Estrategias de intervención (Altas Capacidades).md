@@ -5,14 +5,16 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-28T09:42:08.138Z
-modified: 2024-03-28T09:43:18.820Z
+modified: 2024-03-29T20:35:14.665Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
+# Estrategias de intervención (Altas Capacidades)
+
 [[Aprender sobre Altas Capacidades]]
 
 Las estrategias de intervención para niños con altas capacidades están diseñadas para satisfacer sus necesidades únicas y maximizar su potencial. Algunas de las estrategias más comunes incluyen:

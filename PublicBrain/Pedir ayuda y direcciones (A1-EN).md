@@ -5,14 +5,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-27T22:37:54.827Z
-modified: 2024-03-27T22:42:19.302Z
+modified: 2024-03-29T20:36:53.805Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
+# Pedir ayuda y direcciones (A1-EN)
 
 [[A1-EN]]
 

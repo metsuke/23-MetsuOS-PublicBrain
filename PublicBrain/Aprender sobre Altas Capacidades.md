@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-12-05T22:20:55.877Z
-modified: 2024-03-28T09:42:07.641Z
+modified: 2024-03-29T20:22:08.995Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -42,7 +42,7 @@ tags: []
 
 ## Tema 6: Identificación
 - Métodos y herramientas para la identificación temprana
-- Diferenciación entre altas capacidades y otros desafíos educativos
+- [[Diferenciación entre altas capacidades y otros desafíos educativos]]
 
 ## Tema 7: Marco Legal y Propuestas de Atención Educativa
 - Legislación relacionada

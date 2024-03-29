@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Inglés.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Inglés.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Inglés.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Inglés.md"
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md"
               }
             }
           },
@@ -176,8 +176,25 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "PublicBrain/A1-EN.md",
+    "Introducción a eBay y su API (IDRA-Ebay).md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "PublicBrain/Aprender Idioma Valenciano.md",
+    "PublicBrain/Aprender Lenguaje BASIC.md",
+    "PublicBrain/Aprender Idioma Ruso.md",
+    "PublicBrain/Aprender Idioma Turco.md",
+    "PublicBrain/Aprender Idioma Sueco.md",
+    "PublicBrain/Aprender Idioma Rumano.md",
+    "PublicBrain/Aprender Idioma Noruego.md",
+    "PublicBrain/Aprender Idioma Polaco.md",
+    "PublicBrain/Aprender Idioma Inglés.md",
+    "PublicBrain/Aprender Idioma Hindi.md",
+    "PublicBrain/Aprender Idioma Hebreo.md",
+    "PublicBrain/Aprender Idioma Frances.md",
+    "PublicBrain/Aprender Idioma Indonesio.md",
+    "PublicBrain/Aprender Idioma Finlandes.md",
+    "PublicBrain/Aprender Idioma Gallego.md",
     "PublicBrain/Comprar en el supermercado (A1-EN).md",
+    "PublicBrain/A1-EN.md",
     "PublicBrain/Frases para pedir y dar información personal (A1-EN).md",
     "Comprar en el supermercado (A1-EN).md",
     "PublicBrain/Vocabulario de alimentos (A1-EN).md",
@@ -185,23 +202,6 @@
     "PublicBrain/Rol Colercial.md",
     "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital.md",
-    "Rol Colercial.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "PublicBrain/Recopilación y preparación de datos.md",
-    "Recopilación y preparación de datos.md",
-    "Colección de escándalos cientificos.md",
-    "PublicBrain/Colección de escándalos cientificos.md",
-    "PublicBrain/Aprender sobre cultura internacional a través de los idiomas.md",
-    "PublicBrain/Aprender sobre Nirvana.md",
-    "PublicBrain/Movimiento Grunge de Seattle.md",
-    "Movimiento Grunge de Seattle.md",
-    "PublicBrain/Kurt Cobain.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

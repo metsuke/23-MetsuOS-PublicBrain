@@ -24,7 +24,7 @@ tags:
 
 - [[Qué es una API (IDRA-EBay)]]
 - [[Importancia de las APIs en el desarrollo de software (IDRA-Ebay)]]
-- Introducción a eBay y su API
+- [[Introducción a eBay y su API (IDRA-Ebay)]]
 - Beneficios de utilizar la API de eBay
 
 ## Fundamentos de la API de eBay

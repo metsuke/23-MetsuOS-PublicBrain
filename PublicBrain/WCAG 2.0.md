@@ -53,7 +53,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
     - **[[Pauta 4 - Compatible]]**
         - 4.1 [[Interpretación de la información]]
         - 4.2 Nombre, función, valor
-    - **Pauta 5: Flexibilidad y manejo de errores**
+    - [[Pauta 5 - Flexibilidad y manejo de errores]]
         - 5.1 Manejo de errores
         - 5.2 Etiquetas o instrucciones
         - 5.3 [[Ayuda]]

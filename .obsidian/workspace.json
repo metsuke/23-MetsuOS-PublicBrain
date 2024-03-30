@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender a preparar morcilla blanca.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender a preparar morcilla blanca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender a preparar morcilla blanca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender a preparar morcilla blanca.md"
               }
             }
           },
@@ -176,6 +176,9 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
+    "Proceso de Preparación (Morcilla Blanca).md",
+    "PublicBrain/Aprender a preparar morcilla blanca.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre OwnCloud.md",
     "Ventajas y características principales de OwnCloud.md",
     "PublicBrain/Aprender sobre Stargate.md",
@@ -188,7 +191,6 @@
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "Interacción Digital Remota mediante API con Mercado Libre.md",
     "PublicBrain/Promting Database.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.1.md",
     "PublicBrain/WCAG 2.0.md",
@@ -200,8 +202,6 @@
     "Arrojando Luz sobre Polémicas Linguísticas.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "Beneficios de utilizar la API de eBay (IDRA-Ebay).md",
-    "PublicBrain/Ordenar en un restaurante (A1-EN).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

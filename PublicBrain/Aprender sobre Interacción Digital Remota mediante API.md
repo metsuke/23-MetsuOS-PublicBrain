@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-22T09:49:11.861Z
-modified: 2024-03-30T15:10:35.988Z
+modified: 2024-03-30T18:39:41.544Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,3 +30,4 @@ tags:
 * [[Interacción Digital Remota mediante API con Google]]
 	*  [[Interacción Digital Remota mediante API con Youtube]]
 * [[Interacción Digital Remota mediante API con Mercado Libre]]
+* [[Interacción Digital Remota mediante API con Microsoft]]

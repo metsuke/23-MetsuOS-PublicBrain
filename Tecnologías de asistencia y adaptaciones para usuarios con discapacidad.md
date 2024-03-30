@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-30T18:37:35.433Z
+modified: 2024-03-30T18:41:16.973Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Tecnologías de asistencia y adaptaciones para usuarios con discapacidad
 
 [[Aprender sobre Accesibilidad en ELearining]]

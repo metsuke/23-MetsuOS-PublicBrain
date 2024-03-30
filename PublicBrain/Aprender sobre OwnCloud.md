@@ -21,7 +21,7 @@ tags: []
 
 ## Introducción a OwnCloud
 - ¿Qué es OwnCloud?
-- Ventajas y características principales.
+- [[Ventajas y características principales de OwnCloud]]
 - Comparación con otras soluciones de almacenamiento en la nube.
 
 ## Instalación y Configuración

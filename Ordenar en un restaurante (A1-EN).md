@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-30T01:05:58.123Z
+modified: 2024-03-30T01:10:15.780Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Ordenar en un restaurante (A1-EN)
 
 [[A1-EN]]

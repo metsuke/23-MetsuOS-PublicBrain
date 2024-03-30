@@ -22,5 +22,6 @@ tags:
 
 * [Buscador caracteres UTF](https://www.amp-what.com/unicode/search/square)
 * [ChatGPT](https://chat.openai.com/)
+* [GPT4All](https://gpt4all.io/index.html)
 * [OpenAI](https://openai.com/)
 * [Whatsapp Web](https://web.whatsapp.com/)

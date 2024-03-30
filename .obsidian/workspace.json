@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Sobre la polémica idea de que Latinoamerica no debe usarse por ser inventado por un Frances.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Sobre la polémica idea de que Latinoamerica no debe usarse por ser inventado por un Frances.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Sobre la polémica idea de que Latinoamerica no debe usarse por ser inventado por un Frances.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Sobre la polémica idea de que Latinoamerica no debe usarse por ser inventado por un Frances.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
               }
             }
           },
@@ -176,9 +176,13 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
+    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/WCAG 2.0.md",
+    "Etiquetas o instrucciones.md",
+    "Etiquetas y nombre.md",
+    "PublicBrain/Sobre la polémica idea de que Latinoamerica no debe usarse por ser inventado por un Frances.md",
     "PublicBrain/Arrojando Luz sobre Polémicas Linguísticas.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Sobre la polémica idea de que Latinoamerica no debe usarse por ser inventado por un Frances.md",
     "PublicBrain/Promting Database.md",
     "Sobre la polémica idea de que Latinoamerica no debe usarse por ser inventado por un Frances.md",
     "Arrojando Luz sobre Polémicas Linguísticas.md",
@@ -198,10 +202,6 @@
     "PublicBrain/Aprender Lenguaje C++.md",
     "Ordenar en un restaurante (A1-EN).md",
     "PublicBrain/A1-EN.md",
-    "PublicBrain/Rol Comercial.md",
-    "PublicBrain/Lead (Marketing Digital).md",
-    "PublicBrain/Glosario de Marketing Digital.md",
-    "Lead (Marketing Digital).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

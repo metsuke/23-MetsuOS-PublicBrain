@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-28T21:02:10.895Z
+modified: 2024-03-30T03:18:52.108Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 41
+ver_rev: 42
 nav_primary: 
 nav_secondary: 
 tags:
@@ -20,7 +20,7 @@ tags:
 
 [[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] 
 
-[[IA Database]] | [[Promting Database]] | [[Tools Database]]
+[[IA Database]] | [[Promting Database]] | [[Tools Database]] | [[Arrojando Luz sobre Polémicas Linguísticas]]
 
 DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo frío y "aburrido", pero recuerden, una vez establecido el contenido, comprobado y gestionado por parte de un humano en fases subsiguientes, la calidez y empatía de la forma de comunicarlo puede modularse dinámicamente y el mensaje ser personalizado, mediante IA, tomando en cuenta todo tipo de parámetros.
 

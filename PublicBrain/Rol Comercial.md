@@ -8,24 +8,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-29T09:21:43.762Z
-modified: 2024-03-29T20:37:13.210Z
+modified: 2024-03-30T00:51:48.729Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Rol Colercial
+# Rol Comercial
 
-[[Estructurar una Microagencia de Marketing Digital]]
-
----
-
-WIP
-
----
-
+[[Estructurar una Microagencia de Marketing Digital]] | [[Glosario de Marketing Digital]]
 
 Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 
@@ -33,28 +26,28 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 
 * Captar calificar y desarrollar leads.
 
-## ¿Qué hacem?
+## ¿Qué hacen?
 
-* Se conectan con p9otenciales clientes y aprenden sobre sus negocios y necesidades.
-* Si un cliente potencial parecer una **buena opcion** progreama una reunión de ventas con los gerentes de cuenta.
+* Se conectan con potenciales clientes y aprenden sobre sus negocios y necesidades.
+* Si un cliente potencial parecer una **buena opción** programa una reunión de ventas con los gerentes de cuenta.
 * Obtiene un primer contacto con ese cliente y lo lleva hasta la primera reunión con el Account Manager.
 
 ## Procesos
 
 * Planificar eventos, visitar negocios, contactar a los posibles interesados.
-* **Calificar leads**: Capacidad de pago, necesidades a cubrir
+* **Calificar leads**: Capacidad de pago, necesidades a cubrir.
 * Agendar y realizar una primera reunión de venta con la/el account manager.
 
 ## Tareas y responsabilidades
 
-* Desarrollar Leads que ya mostraron interes.
+* Desarrollar Leads que ya mostraron interés.
 * Llamadas en frio.
-* Manejo de Objecciones.
+* Manejo de Objeciones.
 * Preparación y análisis de informe de ventas.
 * Identificar y desarrollar nuevos canales.
 * Generar alianzas estratégicas.
 
-### erfiles más buscados.
+### Perfiles más buscados.
 
 * Al menos un año de experiencia en roles de ventas.
 * Uso de CRM con pipelines (Salesforce,HubSpot, etc)
@@ -69,7 +62,7 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 	* Empatía
 	* Creatividad para desarrollar redes de contactos.
 
-## Cursos recoemendados
+## Cursos recomendados
 
 * [Búsqueda en Platzi para el rol de comercial o ventas](https://platzi.com/buscar/?search=que%20cursos%20me%20recomiendas%20para%20comercial%20o%20ventas.%20Dame%20el%20resultado%20en%20markdown%20para%20poder%20ocpiarlo%20a%20mi%20agenda)
 * [Generación de Ruta en Platzi para el rol de comercial o ventas](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20comercial%20o%20ventas)
@@ -82,3 +75,7 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 * [Platzi English Academy](https://platzi.com/escuela/ingles/)
 * [Escuela de Programación y Software](https://platzi.com/escuela/programacion-software/)
 * [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
+
+## Glosario
+
+* [[Lead (Marketing Digital)]]

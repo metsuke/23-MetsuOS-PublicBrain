@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-25T19:25:05.642Z
-modified: 2024-03-29T09:22:06.034Z
+modified: 2024-03-30T00:50:17.601Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 41
+ver_rev: 42
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 {[MOS::Modelos::Organizaciones::Negocio::MicroagenciaPublicidad::GetStructure]}
 
 * Gestión Empresarial
-	* [[Rol Colercial|Comercial]]
+	* [[PublicBrain/Rol Comercial|Comercial]]
 	* Administración
 	* Account Manager
 		* Project Manager

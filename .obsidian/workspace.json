@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -177,11 +177,14 @@
   },
   "active": "908ddc2586180f12",
   "lastOpenFiles": [
+    "PublicBrain/Aprender con M-P.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender con Q-Z.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.1.md",
     "Nombre, función, valor.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
-    "PublicBrain/Index.md",
     "PublicBrain/GPT4All Testing.md",
     "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
@@ -200,9 +203,6 @@
     "Preparación de comidas simples (A1-EN).md",
     "PublicBrain/A1-EN.md",
     "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
-    "PublicBrain/Rol Gestión Empresarial.md",
-    "Rol Gestión Empresarial.md",
-    "PublicBrain/Rol Administración.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

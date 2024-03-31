@@ -22,14 +22,15 @@ tags:
 
 * Aprender con Rafael Vázquez Peña
 * Aprender con Raquel Ubàguls Galán
+* Aprender con Raul Ordoñez (jasp)
 * Aprender con Ricardo Moure
+* [[Aprender con Rodrigo Taramona]]
 * Aprender con Roger Antonsen
 * Aprender con Rosa Lencero Guillermo
 * Aprender con Rosana de Matos Silveira
-* Aprender con Tomás Pedraza Jiménez
-* [[Aprender con Rodrigo Taramona]]
 * [[Aprender con Sani Ladam]]
 * [[Aprender con Selva Orejón]]
 * [[Aprender con SizeMatters]]
 * Aprender con Soraya Nárez
+* Aprender con Tomás Pedraza Jiménez
 * Aprender con Uri Sabat

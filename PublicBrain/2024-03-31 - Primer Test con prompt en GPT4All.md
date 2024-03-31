@@ -8,15 +8,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-31T01:28:50.884Z
-modified: 2024-03-31T01:32:57.720Z
+modified: 2024-03-31T11:30:29.008Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # 2024-03-31 - Primer Test con prompt en GPT4All
+
+[[GPT4All Testing]]
 
 Pruebas iniciales con el siguiente prompt, en mi Mac Intel la app nome permite usar la GPU así que la velocidad es limitada, pero suficiente para pruebas y uso asíncrono.
 
@@ -314,5 +316,101 @@ Sección 7: Conclusiones
 ## GPT4All Falcon
 
 '''markdown
+﻿En este curso, se cubrirán los siguientes puntos:
 
+  
+
+1. Introducción a la tecnología de APIs y cómo utilizarla para trabajar con las redes sociales.
+
+2. Explicación del API de Discord y cómo utilizar sus funciones para crear una interfaz de usuario personalizada.
+
+3. Descripción detallada de los diferentes tipos de mensajes que se pueden enviar a través de la API de Discord, incluyendo mensajes de texto, imágenes, videos, audios, etc.
+
+4. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+5. Descripción detallada de los diferentes tipos de acciones que se pueden realizar a través de la API de Discord, incluyendo el envío de mensajes privados, el envío de mensajes públicos, el archivamiento de mensajes, etc.
+
+6. Explicación del uso de las funciones de estado para obtener información sobre el estado de mensajes en una sala de chat.
+
+7. Descripción detallada de los diferentes tipos de eventos que se pueden escuchar a través de la API de Discord, incluyendo eventos relacionados con mensajes, eventos relacionados con usuarios, etc.
+
+8. Explicación del uso de las funciones de paginación para trabajar con una gran cantidad de mensajes en una sala de chat.
+
+9. Descripción detallada de los diferentes tipos de errores que se pueden producir cuando se trabaja con la API de Discord, y cómo solucionar estos errores.
+
+10. Explicación del uso de las funciones de búsqueda para encontrar mensajes específicos en una sala de chat.
+
+11. Descripción detallada de los diferentes tipos de filtros que se pueden utilizar para filtrar mensajes en una sala de chat.
+
+12. Explicación del uso de las funciones de paginación para trabajar con una gran cantidad de mensajes en una sala de chat.
+
+13. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+14. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+15. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+16. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+17. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+18. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+19. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+20. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+21. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+22. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+23. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+24. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+25. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+26. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+27. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+28. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+29. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+30. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+31. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+32. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+33. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+34. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+35. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+36. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+37. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+38. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+39. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+40. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+41. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+42. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+43. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+44. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+45. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc.
+
+46. Explicación del uso de las funciones de búsqueda y filtro para encontrar mensajes específicos en una sala de chat.
+
+47. Descripción detallada de los diferentes tipos de paginación que se pueden utilizar para trabajar con la API de Discord, incluyendo paginación por fecha, paginación por tipo de mensaje, etc
 '''

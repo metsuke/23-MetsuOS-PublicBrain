@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-25T19:25:05.642Z
-modified: 2024-03-31T02:11:54.978Z
+modified: 2024-03-31T11:30:49.477Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 43
+ver_rev: 44
 nav_primary: 
 nav_secondary: 
 tags:
@@ -20,7 +20,7 @@ tags:
 
 [[PublicBrain/Index]] | [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital]]
 
-Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
+Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
 
 ## Organigrama de la microagencia
 

@@ -1,14 +1,17 @@
 ---
 iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-11-10T11:15:21.353Z
-modified: 2024-03-14T21:53:36.351Z
+modified: 2024-03-31T02:31:01.659Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 22
+ver_minor: 2
+ver_rev: 23
 nav_primary: 
 nav_secondary: 
 tags:
@@ -19,7 +22,7 @@ tags:
 
 # Curso: Aprender Ajedrez, de cero a pro
 
-## Módulo 1: Introducción al Ajedrez
+## Módulo 1: "I"ntroducción al Ajedrez
 - [[Historia y origen del ajedrez]]
 - [[Configuración del tablero y piezas en ajedrez]]
 - **Lección 3** Reglas básicas del juego en ajedrez

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Registro como desarrollador en eBay (IDRA-Ebay).md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Registro como desarrollador en eBay (IDRA-Ebay).md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Registro como desarrollador en eBay (IDRA-Ebay).md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Registro como desarrollador en eBay (IDRA-Ebay).md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
               }
             }
           },
@@ -174,10 +175,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d8079bf025b31e97",
+  "active": "908ddc2586180f12",
   "lastOpenFiles": [
+    "PublicBrain/WCAG 2.1.md",
+    "Nombre, función, valor.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/GPT4All Testing.md",
+    "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Registro como desarrollador en eBay (IDRA-Ebay).md",
+    "PublicBrain/Registro como desarrollador en eBay (IDRA-Ebay).md",
+    "PublicBrain/Preparación de comidas simples (A1-EN).md",
     "PublicBrain/Aprender a jugar Ajedrez.md",
     "PublicBrain/Aprender a fundir plástico.md",
     "PublicBrain/Aprender a jugar Parchis.md",
@@ -189,19 +199,10 @@
     "PublicBrain/Aprender Lenguaje Swift.md",
     "Preparación de comidas simples (A1-EN).md",
     "PublicBrain/A1-EN.md",
-    "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
     "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Rol Gestión Empresarial.md",
     "Rol Gestión Empresarial.md",
     "PublicBrain/Rol Administración.md",
-    "Rol Administración.md",
-    "PublicBrain/Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital.md",
-    "PublicBrain/Rol Comercial.md",
-    "PublicBrain/GPT4All Testing.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
-    "2024-03-31 - Primer Test con prompt en GPT4All.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-31T17:31:49.436Z
+modified: 2024-03-31T17:37:20.228Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Conflicto y resolución en Storytelling
 
 [[Aprender sobre Storytelling]]

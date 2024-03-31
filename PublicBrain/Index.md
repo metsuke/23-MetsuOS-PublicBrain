@@ -114,7 +114,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Tecnología
 
-* Aprender sobre Arquitectura Nube
+* [[Aprender sobre Diseño de Arquitectura en la Nube]]
 	* [[Aprender sobre OwnCloud]]
 * [[Aprender sobre Computación Mecánica]]
 * [[Aprender sobre Computar con Canicas]]

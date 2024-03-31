@@ -5,17 +5,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-02-23T07:35:25.217Z
-modified: 2024-03-14T21:53:36.233Z
+modified: 2024-03-31T17:25:22.302Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Conceptos fundamentales de accesibilidad (A11Y Videojuegos)
 
-[[PublicIndex/Index]]
+[[PublicBrain/Index|Index]]
 
 Accesibilidad en videojuegos se refiere a la inclusión de características y diseños que permiten que todas las personas, independientemente de sus capacidades físicas, cognitivas o sensoriales, puedan disfrutar de los juegos de manera equitativa. Algunos conceptos fundamentales de accesibilidad en videojuegos incluyen:
 

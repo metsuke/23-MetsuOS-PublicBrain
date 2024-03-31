@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-31T17:14:05.699Z
+modified: 2024-03-31T17:18:48.194Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Estrategias de diseño para texto, imágenes, multimedia y actividades interactivas
 
 [[Aprender sobre Accesibilidad en ELearining]]

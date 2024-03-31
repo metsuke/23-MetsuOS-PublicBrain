@@ -45,7 +45,7 @@ tags: []
 - [[Diferenciación entre altas capacidades y otros desafíos educativos]]
 
 ## Tema 7: Marco Legal y Propuestas de Atención Educativa
-- Legislación relacionada
+- [[Legislación relacionada con Altas Capacidades]]
 - Adaptaciones curriculares y programas especiales
 
 ## Tema 8: Modelo SEM (Socioemocional y Mental)

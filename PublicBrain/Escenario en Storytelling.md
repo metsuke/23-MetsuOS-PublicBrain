@@ -13,7 +13,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Escenario
+# Escenario en Storytelling
 
 [[Aprender sobre Storytelling]]
 

@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-31T17:29:23.580Z
+modified: 2024-03-31T17:31:24.779Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Entrenamiento y ajuste de hiperparámetros
 
 [[Estructura y funcionamiento de las  redes neuronales]]

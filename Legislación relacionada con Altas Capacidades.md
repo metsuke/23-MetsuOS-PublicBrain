@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-31T17:28:28.053Z
+modified: 2024-03-31T17:31:24.769Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Legislación relacionada con Altas Capacidades
 
 [[Aprender sobre Altas Capacidades]]

@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:51.000Z
-modified: 2024-03-14T21:53:36.311Z
+modified: 2024-03-31T17:31:35.028Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -25,8 +25,8 @@ tags: []
 * Elementos Fundamentales de una Buena Historia
 	* [[Personajes en Storytelling]]
 	* [[Trama en Storytelling]]
-	* [[Escenario]]
-	* Conflicto y resolución
+	* [[Escenario en Storytelling]]
+	* [[Conflicto y resolución en Storytelling]]
 * [[El Poder de las Historias]]
 	* Impacto emocional y psicológico de las historias
 	* Ejemplos de historias poderosas

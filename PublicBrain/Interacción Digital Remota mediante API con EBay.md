@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-26T10:15:29.700Z
-modified: 2024-03-31T02:28:02.378Z
+modified: 2024-03-31T22:41:05.477Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,7 @@ tags:
 
 ## Fundamentos de la API de eBay
 - [[Registro como desarrollador en eBay (IDRA-Ebay)]]
-- Obtención de credenciales de API
+- [[Obtención de credenciales de API (ODRA-Ebay)]]
 - Autenticación con la API de eBay
 - Documentación de la API de eBay y recursos de ayuda
 

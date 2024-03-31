@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-31T22:34:32.087Z
+modified: 2024-03-31T22:40:58.818Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Métodos y herramientas para la identificación temprana (Altas Capacidades)
 
 [[Aprender sobre Altas Capacidades]]

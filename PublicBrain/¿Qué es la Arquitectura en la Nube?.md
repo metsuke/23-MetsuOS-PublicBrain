@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-31T17:44:05.878Z
+modified: 2024-03-31T17:49:19.069Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # ¿Qué es la Arquitectura en la Nube?
 
 [[Aprender sobre Diseño de Arquitectura en la Nube]]

@@ -28,7 +28,7 @@ tags:
 - [[Beneficios de utilizar la API de eBay (IDRA-Ebay)]]
 
 ## Fundamentos de la API de eBay
-- Registro como desarrollador en eBay
+- [[Registro como desarrollador en eBay (IDRA-Ebay)]]
 - Obtención de credenciales de API
 - Autenticación con la API de eBay
 - Documentación de la API de eBay y recursos de ayuda

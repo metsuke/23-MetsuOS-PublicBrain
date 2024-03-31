@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preparación de comidas simples (A1-EN).md",
+                "file": "Registro como desarrollador en eBay (IDRA-Ebay).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preparación de comidas simples (A1-EN).md",
+                "file": "Registro como desarrollador en eBay (IDRA-Ebay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preparación de comidas simples (A1-EN).md",
+                "file": "Registro como desarrollador en eBay (IDRA-Ebay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preparación de comidas simples (A1-EN).md"
+                "file": "Registro como desarrollador en eBay (IDRA-Ebay).md"
               }
             }
           },
@@ -176,8 +176,19 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "PublicBrain/A1-EN.md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "Registro como desarrollador en eBay (IDRA-Ebay).md",
+    "PublicBrain/Aprender a jugar Ajedrez.md",
+    "PublicBrain/Aprender a fundir plástico.md",
+    "PublicBrain/Aprender a jugar Parchis.md",
+    "PublicBrain/Aprender a fundir metales.md",
+    "PublicBrain/Aprender a Programar desde Cero.md",
+    "PublicBrain/Aprender Lenguaje Visual Basic.md",
+    "PublicBrain/Aprender Lenguaje Javascript.md",
+    "PublicBrain/Aprender Lenguaje Python.md",
+    "PublicBrain/Aprender Lenguaje Swift.md",
     "Preparación de comidas simples (A1-EN).md",
+    "PublicBrain/A1-EN.md",
     "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
     "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Index.md",
@@ -191,17 +202,6 @@
     "PublicBrain/GPT4All Testing.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "2024-03-31 - Primer Test con prompt en GPT4All.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
-    "GPT4All Testing.md",
-    "PublicBrain/Promting Database.md",
-    "Interacción Digital Remota mediante API con Microsoft.md",
-    "PublicBrain/Tecnologías de asistencia y adaptaciones para usuarios con discapacidad.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Microsoft.md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
-    "Tecnologías de asistencia y adaptaciones para usuarios con discapacidad.md",
-    "PublicBrain/Tools Database.md",
-    "PublicBrain/Aprender a preparar embutidos.md",
-    "PublicBrain/Aprender a preparar morcilla blanca.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

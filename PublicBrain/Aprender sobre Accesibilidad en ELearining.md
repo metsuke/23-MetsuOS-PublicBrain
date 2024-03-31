@@ -49,7 +49,7 @@ tags: []
 - Configuración y personalización para mejorar la accesibilidad
 
 ## Evaluación y Pruebas de Accesibilidad
-- Métodos de evaluación y pruebas de accesibilidad
+- [[Métodos de evaluación y pruebas de accesibilidad]]
 - Herramientas automáticas y manuales para evaluar la accesibilidad de cursos en línea
 
 ## Implementación de Mejoras de Accesibilidad

@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-31T22:33:40.510Z
+modified: 2024-03-31T22:34:29.528Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Métodos de evaluación y pruebas de accesibilidad
 
 [[Aprender sobre Accesibilidad en ELearining]]

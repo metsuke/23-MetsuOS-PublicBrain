@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Métodos de evaluación y pruebas de accesibilidad.md",
+                "file": "Métodos y herramientas para la identificación temprana (Altas Capacidades).md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Métodos de evaluación y pruebas de accesibilidad.md",
+                "file": "Métodos y herramientas para la identificación temprana (Altas Capacidades).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Métodos de evaluación y pruebas de accesibilidad.md",
+                "file": "Métodos y herramientas para la identificación temprana (Altas Capacidades).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Métodos de evaluación y pruebas de accesibilidad.md"
+                "file": "Métodos y herramientas para la identificación temprana (Altas Capacidades).md"
               }
             }
           },
@@ -189,8 +189,10 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "Métodos y herramientas para la identificación temprana (Altas Capacidades).md",
     "Métodos de evaluación y pruebas de accesibilidad.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "PublicBrain/WCAG 2.1.md",
     "Manejo de errores.md",
     "PublicBrain/WCAG 2.0.md",
@@ -212,9 +214,7 @@
     "Entrenamiento y ajuste de hiperparámetros.md",
     "PublicBrain/Regularización (Dropout, L2, L1).md",
     "Legislación relacionada con Altas Capacidades.md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
     "PublicBrain/Aprender con Coronel Baños.md",
-    "PublicBrain/Conceptos fundamentales de accesibilidad (A11Y Videojuegos).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

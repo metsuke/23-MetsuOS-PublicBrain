@@ -5,10 +5,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-12-05T22:20:55.877Z
-modified: 2024-03-31T17:28:27.873Z
+modified: 2024-03-31T22:34:42.318Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 27
+ver_rev: 28
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -41,7 +41,7 @@ tags: []
 - [[Estrategias de intervención (Altas Capacidades)]]
 
 ## Tema 6: Identificación
-- Métodos y herramientas para la identificación temprana
+- [[Métodos y herramientas para la identificación temprana (Altas Capacidades)]]
 - [[Diferenciación entre altas capacidades y otros desafíos educativos]]
 
 ## Tema 7: Marco Legal y Propuestas de Atención Educativa

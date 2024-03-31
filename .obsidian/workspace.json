@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interacción Digital Remota mediante API con Microsoft.md",
+                "file": "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "35486e4cd0110c40",
+            "id": "908ddc2586180f12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Promting Database.md"
+                "file": "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md"
               }
             }
           },
@@ -175,11 +174,27 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "35486e4cd0110c40",
+  "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "Interacción Digital Remota mediante API con Microsoft.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
+    "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Rol Gestión Empresarial.md",
+    "Rol Gestión Empresarial.md",
+    "PublicBrain/Rol Administración.md",
+    "Rol Administración.md",
+    "PublicBrain/Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Rol Comercial.md",
+    "PublicBrain/GPT4All Testing.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
+    "2024-03-31 - Primer Test con prompt en GPT4All.md",
+    "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
+    "GPT4All Testing.md",
+    "PublicBrain/Promting Database.md",
+    "Interacción Digital Remota mediante API con Microsoft.md",
+    "PublicBrain/Tecnologías de asistencia y adaptaciones para usuarios con discapacidad.md",
+    "PublicBrain/Interacción Digital Remota mediante API con Microsoft.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "Tecnologías de asistencia y adaptaciones para usuarios con discapacidad.md",
     "PublicBrain/Tools Database.md",
@@ -187,22 +202,6 @@
     "PublicBrain/Aprender a preparar morcilla blanca.md",
     "PublicBrain/Ventajas y características principales de OwnCloud.md",
     "PublicBrain/Proceso de Preparación (Morcilla Blanca).md",
-    "Proceso de Preparación (Morcilla Blanca).md",
-    "PublicBrain/Aprender sobre OwnCloud.md",
-    "Ventajas y características principales de OwnCloud.md",
-    "PublicBrain/Aprender sobre Stargate.md",
-    "PublicBrain/Ciencia Ficción.md",
-    "Ciencia Ficción.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Mercado Libre.md",
-    "PublicBrain/Etiquetas y nombre.md",
-    "PublicBrain/Etiquetas o instrucciones.md",
-    "PublicBrain/Franquicia.md",
-    "Interacción Digital Remota mediante API con Mercado Libre.md",
-    "PublicBrain/Promting Database.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/WCAG 2.1.md",
-    "PublicBrain/WCAG 2.0.md",
-    "Etiquetas o instrucciones.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

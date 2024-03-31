@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-03-31T22:41:05.867Z
+modified: 2024-03-31T22:54:23.060Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Obtención de credenciales de API (ODRA-Ebay)
 
 [[Interacción Digital Remota mediante API con EBay]]

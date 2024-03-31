@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrategias de diseño para texto, imágenes, multimedia y actividades interactivas.md",
+                "file": "Ayudas visuales y marcadores.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrategias de diseño para texto, imágenes, multimedia y actividades interactivas.md",
+                "file": "Ayudas visuales y marcadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrategias de diseño para texto, imágenes, multimedia y actividades interactivas.md",
+                "file": "Ayudas visuales y marcadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrategias de diseño para texto, imágenes, multimedia y actividades interactivas.md"
+                "file": "Ayudas visuales y marcadores.md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "908ddc2586180f12",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "Ayudas visuales y marcadores.md",
     "Estrategias de diseño para texto, imágenes, multimedia y actividades interactivas.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "PublicBrain/Index.md",
     "PublicBrain/Nombre, función, valor.md",
     "PublicBrain/Aprender con M-P.md",
@@ -201,8 +203,6 @@
     "PublicBrain/Aprender a Programar desde Cero.md",
     "PublicBrain/Aprender Lenguaje Visual Basic.md",
     "PublicBrain/Aprender Lenguaje Javascript.md",
-    "PublicBrain/Aprender Lenguaje Python.md",
-    "PublicBrain/Aprender Lenguaje Swift.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

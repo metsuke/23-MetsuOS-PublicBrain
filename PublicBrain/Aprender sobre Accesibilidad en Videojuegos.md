@@ -40,7 +40,7 @@ tags:
 ## IV. Accesibilidad Visual
    - [[Ajustes de contraste y color]]
    - Tamaño de fuente y legibilidad.
-   - Ayudas visuales y marcadores.
+   - [[Ayudas visuales y marcadores]].
 
 ## V. Accesibilidad Auditiva
    - Subtítulos y transcripciones.

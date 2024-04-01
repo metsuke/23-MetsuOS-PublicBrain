@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Elementos Fundamentales de una Buena Historia.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Elementos Fundamentales de una Buena Historia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Elementos Fundamentales de una Buena Historia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "Elementos Fundamentales de una Buena Historia.md"
               }
             }
           },
@@ -189,8 +189,12 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre VMWare Cloud.md",
+    "PublicBrain/Aprender sobre Storytelling.md",
+    "Elementos Fundamentales de una Buena Historia.md",
     "PublicBrain/Index.md",
+    "Aprender sobre Pyxel.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "PublicBrain/Aprender sobre VMWare Cloud.md",
     "Aprender sobre VMWare Cloud.md",
     "PublicBrain/Tácticas básicas - clavada, horquilla, doble ataque.md",
     "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
@@ -211,10 +215,6 @@
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "PublicBrain/Obtención de credenciales de API (ODRA-Ebay).md",
     "PublicBrain/Métodos y herramientas para la identificación temprana (Altas Capacidades).md",
-    "PublicBrain/Métodos de evaluación y pruebas de accesibilidad.md",
-    "PublicBrain/Manejo de errores.md",
-    "PublicBrain/Hobbies y pasatiempos (A1-EN).md",
-    "Obtención de credenciales de API (ODRA-Ebay).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

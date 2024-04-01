@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-04-01T10:33:20.029Z
+modified: 2024-04-01T11:39:41.048Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 45
+ver_rev: 46
 nav_primary: 
 nav_secondary: 
 tags:
@@ -133,6 +133,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	* [[Aprender sobre Interacción Digital Remota mediante API]]
 * [[Aprender sobre Programación]]
 	* [[Aprender sobre Buenas Prácticas y Código Limpio en Programación]]
+* [[Aprender sobre Pyxel]]
 * [[Aprender sobre Redes e Internet]]
 
 ## Cursos externos recomendados

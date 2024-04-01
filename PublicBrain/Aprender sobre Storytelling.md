@@ -22,7 +22,7 @@ tags: []
 * [[¿Qué es el Storytelling?]]
 	* [[Definición de Storytelling]]
 	* [[Importancia del Storytelling en diferentes contextos]]
-* Elementos Fundamentales de una Buena Historia
+* [[Elementos Fundamentales de una Buena Historia]]
 	* [[Personajes en Storytelling]]
 	* [[Trama en Storytelling]]
 	* [[Escenario en Storytelling]]

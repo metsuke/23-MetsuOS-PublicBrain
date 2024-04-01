@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-01T04:07:07.795Z
+modified: 2024-04-01T04:12:51.010Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Impacto en la sostenibilidad y el medio ambiente en relacion con los productos de temporada
 
 [[Aprender sobre productos de temporada]]

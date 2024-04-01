@@ -38,7 +38,7 @@ tags:
 - **Lección 9:** Control del centro del tablero
 
 ## Módulo 4: Tácticas y Jugadas Especiales
-- **Lección 10:** Tácticas básicas: clavada, horquilla, doble ataque
+- **Lección 10:** [[Tácticas básicas - clavada, horquilla, doble ataque]]
 - **Lección 11:** Enroque y jaque mate
 - **Lección 12:** Reglas de empate y tablas
 

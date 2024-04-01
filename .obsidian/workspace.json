@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+                "file": "PublicBrain/Aprender a jugar Ajedrez.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+                "file": "PublicBrain/Aprender a jugar Ajedrez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+                "file": "PublicBrain/Aprender a jugar Ajedrez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md"
+                "file": "PublicBrain/Aprender a jugar Ajedrez.md"
               }
             }
           },
@@ -189,8 +189,12 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "Subtítulos y transcripciones.md",
+    "Tácticas básicas - clavada, horquilla, doble ataque.md",
+    "PublicBrain/Aprender a jugar Ajedrez.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "PublicBrain/Subtítulos y transcripciones.md",
+    "PublicBrain/Impacto en la sostenibilidad y el medio ambiente en relacion con los productos de temporada.md",
+    "Subtítulos y transcripciones.md",
     "PublicBrain/Aprender sobre productos de temporada.md",
     "Impacto en la sostenibilidad y el medio ambiente en relacion con los productos de temporada.md",
     "PublicBrain/Aprender Idioma Coreano.md",
@@ -211,10 +215,6 @@
     "PublicBrain/Aprender a preparar salchichón.md",
     "PublicBrain/Aprender a preparar embutidos.md",
     "PublicBrain/Aprender a preparar morcilla negra.md",
-    "PublicBrain/Aprender a jugar GO.md",
-    "PublicBrain/Aprender a preparar chorizo.md",
-    "PublicBrain/Aprender a preparar morcilla blanca.md",
-    "PublicBrain/A1-EN.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

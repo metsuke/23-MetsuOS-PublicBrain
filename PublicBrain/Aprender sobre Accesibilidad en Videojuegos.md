@@ -43,7 +43,7 @@ tags:
    - [[Ayudas visuales y marcadores]].
 
 ## V. Accesibilidad Auditiva
-   - Subtítulos y transcripciones.
+   - [[Subtítulos y transcripciones]].
    - Sonidos direccionales y subtítulos sincronizados.
    - [[Alternativas para usuarios con problemas auditivos]].
 

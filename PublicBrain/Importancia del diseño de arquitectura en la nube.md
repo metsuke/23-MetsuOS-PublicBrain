@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-01T13:22:08.381Z
+modified: 2024-04-01T13:26:10.167Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Importancia del diseño de arquitectura en la nube
 
 [[Aprender sobre Diseño de Arquitectura en la Nube]]

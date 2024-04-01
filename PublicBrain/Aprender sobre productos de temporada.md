@@ -24,7 +24,7 @@ La introducción proporciona una visión general del curso y su importancia en l
 ## Beneficios de Utilizar Productos de Temporada
 
 - [[Exploración de los beneficios nutricionales y gastronómicos de los productos de temporada]]
-- Impacto en la sostenibilidad y el medio ambiente.
+- [[Impacto en la sostenibilidad y el medio ambiente en relacion con los productos de temporada]]
 - Ejemplos de platos que se benefician de productos de temporada.
 
 ## Identificación de Productos de Temporada

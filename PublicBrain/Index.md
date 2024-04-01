@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-03-31T17:24:05.029Z
+modified: 2024-04-01T10:33:20.029Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 44
+ver_rev: 45
 nav_primary: 
 nav_secondary: 
 tags:
@@ -116,6 +116,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Aprender sobre Diseño de Arquitectura en la Nube]]
 	* [[Aprender sobre OwnCloud]]
+	* [[Aprender sobre VMWare Cloud]]
 * [[Aprender sobre Computación Mecánica]]
 * [[Aprender sobre Computar con Canicas]]
 * Aprender sobre CSS

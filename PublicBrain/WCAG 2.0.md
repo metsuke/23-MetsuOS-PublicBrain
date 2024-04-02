@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:31:02.000Z
-modified: 2024-03-31T22:31:57.193Z
+modified: 2024-04-02T05:26:18.213Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 32
+ver_rev: 33
 nav_primary: 
 nav_secondary: 
 tags:
@@ -64,7 +64,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
     - **Pauta 7: "I"dentificación y orientación**
         - 7.1 Encabezados y etiquetas
         - 7.2 Enlaces
-        - 7.3 Niveles de encabezado y etiquetas
+        - 7.3 [[Niveles de encabezado y etiquetas]]
     - **Pauta 8: Texto legible y comprensible**
         - 8.1 Idioma del contenido
         - 8.2 Idioma de partes

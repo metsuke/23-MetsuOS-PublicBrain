@@ -13,7 +13,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Obtención de credenciales de API (ODRA-Ebay)
+# Obtención de credenciales de API (IDRA-Ebay)
 
 [[Interacción Digital Remota mediante API con EBay]]
 

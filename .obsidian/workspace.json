@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expresiones para hablar sobre el tiempo (A1-EN).md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expresiones para hablar sobre el tiempo (A1-EN).md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expresiones para hablar sobre el tiempo (A1-EN).md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expresiones para hablar sobre el tiempo (A1-EN).md"
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md"
               }
             }
           },
@@ -201,8 +201,23 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "PublicBrain/A1-EN.md",
+    "PublicBrain/Obtención de credenciales de API (IDRA-Ebay).md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "Autenticación con la API de eBay (IDRA-Ebay).md",
+    "PublicBrain/Aprender idioma Griego.md",
+    "PublicBrain/Aprender con SizeMatters.md",
+    "PublicBrain/Aprender con Sani Ladam.md",
+    "PublicBrain/Niveles de encabezado y etiquetas.md",
+    "PublicBrain/Expresiones para hablar sobre el tiempo (A1-EN).md",
+    "PublicBrain/Aprender con Coronel Baños.md",
+    "PublicBrain/Aprender con Pablo Grueso.md",
+    "PublicBrain/Aprender a radiografiar un átomo.md",
+    "PublicBrain/Aprender con Beatriz Martín.md",
+    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
+    "PublicBrain/Aprender a preparar lomo.md",
+    "PublicBrain/Aprender a programar plugins para World of Warcraft.md",
     "Expresiones para hablar sobre el tiempo (A1-EN).md",
+    "PublicBrain/A1-EN.md",
     "Niveles de encabezado y etiquetas.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Rol Gestión Empresarial.md",
@@ -212,21 +227,6 @@
     "PublicBrain/GPT4All Testing.md",
     "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Inicialización de pesos.md",
-    "PublicBrain/Docs Database.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "Inicialización de pesos.md",
-    "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
-    "Importancia del diseño de arquitectura en la nube.md",
-    "PublicBrain/Importancia del diseño de arquitectura en la nube.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Github.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
-    "Interacción Digital Remota mediante API con Github.md",
-    "PublicBrain/Elementos Fundamentales de una Buena Historia.md",
-    "PublicBrain/Aprender sobre Storytelling.md",
-    "Elementos Fundamentales de una Buena Historia.md",
-    "Aprender sobre Pyxel.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

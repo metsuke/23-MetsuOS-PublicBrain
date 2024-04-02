@@ -1,23 +1,26 @@
 ---
-iaStatus: 0
+iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-01-20T21:15:11.019Z
-modified: 2024-03-14T21:53:36.343Z
+modified: 2024-04-02T05:32:37.094Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 22
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 23
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender a programar plugins para World of Warcraft
 
 [[PublicBrain/Index]]
 
-## Módulo 1: Introducción a la Creación de Plugins
+## Módulo 1: "I"ntroducción a la Creación de Plugins
 
 - 1.1 ¿Qué es un Plugin?
 - 1.2 [[Importancia y Aplicaciones en World of Warcraft]]

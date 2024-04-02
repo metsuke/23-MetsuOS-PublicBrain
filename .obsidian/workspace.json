@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md"
               }
             }
           },
@@ -188,8 +188,12 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "Configuración y personalización para mejorar la accesibilidad.md",
+    "Tamaño de fuente y legibilidad.md",
+    "PublicBrain/Tamaño de fuente y legibilidad.md",
+    "PublicBrain/Configuración y personalización para mejorar la accesibilidad.md",
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "Configuración y personalización para mejorar la accesibilidad.md",
     "PublicBrain/Pruebas de uso de GPU en Intel Mac.md",
     "PublicBrain/GPT4All Testing.md",
     "PublicBrain/Index.md",
@@ -210,10 +214,6 @@
     "PublicBrain/Aprender idioma Griego.md",
     "PublicBrain/Aprender con SizeMatters.md",
     "PublicBrain/Aprender con Sani Ladam.md",
-    "PublicBrain/Niveles de encabezado y etiquetas.md",
-    "PublicBrain/Expresiones para hablar sobre el tiempo (A1-EN).md",
-    "PublicBrain/Aprender con Coronel Baños.md",
-    "PublicBrain/Aprender con Pablo Grueso.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

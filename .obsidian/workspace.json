@@ -37,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5602fd4c682a1239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MPL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md"
               }
             }
           },
@@ -201,8 +188,24 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "PublicBrain/Obtención de credenciales de API (IDRA-Ebay).md",
+    "Configuración y personalización para mejorar la accesibilidad.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "PublicBrain/Pruebas de uso de GPU en Intel Mac.md",
+    "PublicBrain/GPT4All Testing.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/MPL (Metsuke Programming Languaje).md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/MosGPT project.md",
+    "MosGPT project.md",
+    "PublicBrain/MPL (Metsu Programming Languaje).md",
+    "MPL (Metsu Programming Languaje).md",
+    "Pruebas de uso de GPU en Intel Mac.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
+    "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
+    "PublicBrain/Autenticación con la API de eBay (IDRA-Ebay).md",
+    "PublicBrain/Obtención de credenciales de API (IDRA-Ebay).md",
     "Autenticación con la API de eBay (IDRA-Ebay).md",
     "PublicBrain/Aprender idioma Griego.md",
     "PublicBrain/Aprender con SizeMatters.md",
@@ -211,22 +214,6 @@
     "PublicBrain/Expresiones para hablar sobre el tiempo (A1-EN).md",
     "PublicBrain/Aprender con Coronel Baños.md",
     "PublicBrain/Aprender con Pablo Grueso.md",
-    "PublicBrain/Aprender a radiografiar un átomo.md",
-    "PublicBrain/Aprender con Beatriz Martín.md",
-    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
-    "PublicBrain/Aprender a preparar lomo.md",
-    "PublicBrain/Aprender a programar plugins para World of Warcraft.md",
-    "Expresiones para hablar sobre el tiempo (A1-EN).md",
-    "PublicBrain/A1-EN.md",
-    "Niveles de encabezado y etiquetas.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Rol Gestión Empresarial.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
-    "PublicBrain/Rol Comercial.md",
-    "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
-    "PublicBrain/GPT4All Testing.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
-    "PublicBrain/Index.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

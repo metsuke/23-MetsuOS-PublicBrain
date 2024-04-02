@@ -46,7 +46,7 @@ tags: []
 
 ## Accesibilidad en Plataformas de Aprendizaje
 - Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS)
-- Configuración y personalización para mejorar la accesibilidad
+- [[Configuración y personalización para mejorar la accesibilidad]]
 
 ## Evaluación y Pruebas de Accesibilidad
 - [[Métodos de evaluación y pruebas de accesibilidad]]

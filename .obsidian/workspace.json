@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/Rol Gestión Empresarial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5602fd4c682a1239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/Rol Gestión Empresarial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "PublicBrain/Rol Gestión Empresarial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
+                "file": "PublicBrain/Rol Gestión Empresarial.md"
               }
             }
           },
@@ -189,8 +201,17 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "Inicialización de pesos.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Rol Comercial.md",
+    "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
+    "PublicBrain/GPT4All Testing.md",
+    "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Inicialización de pesos.md",
+    "PublicBrain/Docs Database.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Inicialización de pesos.md",
     "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
     "Importancia del diseño de arquitectura en la nube.md",
     "PublicBrain/Importancia del diseño de arquitectura en la nube.md",
@@ -198,7 +219,6 @@
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "Interacción Digital Remota mediante API con Github.md",
     "PublicBrain/Elementos Fundamentales de una Buena Historia.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Storytelling.md",
     "Elementos Fundamentales de una Buena Historia.md",
     "Aprender sobre Pyxel.md",
@@ -207,14 +227,6 @@
     "Aprender sobre VMWare Cloud.md",
     "PublicBrain/Tácticas básicas - clavada, horquilla, doble ataque.md",
     "PublicBrain/Aprender a jugar Ajedrez.md",
-    "Tácticas básicas - clavada, horquilla, doble ataque.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "PublicBrain/Subtítulos y transcripciones.md",
-    "PublicBrain/Impacto en la sostenibilidad y el medio ambiente en relacion con los productos de temporada.md",
-    "Subtítulos y transcripciones.md",
-    "PublicBrain/Aprender sobre productos de temporada.md",
-    "Impacto en la sostenibilidad y el medio ambiente en relacion con los productos de temporada.md",
-    "PublicBrain/Aprender Idioma Coreano.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

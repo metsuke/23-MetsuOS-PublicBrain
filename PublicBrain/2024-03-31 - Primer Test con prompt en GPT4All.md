@@ -2,16 +2,16 @@
 iaStatus: 3
 iaStatus_Generado: "I"
 iaStatus_Supervisado: "H"
-iaStatus_Validado: "-"
+iaStatus_Validado: H
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-03-31T01:28:50.884Z
-modified: 2024-03-31T11:30:29.008Z
+modified: 2024-04-01T18:44:03.692Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 
 Pruebas iniciales con el siguiente prompt, en mi Mac Intel la app nome permite usar la GPU así que la velocidad es limitada, pero suficiente para pruebas y uso asíncrono.
 
-<<En el contexto de "Aprender sobre Interacción Digital Remota mediante API" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "Interacción Digital Remota mediante API con Discord". Dámelo en markdown para poder copiarlo.>>
+'En el contexto de "Aprender sobre Interacción Digital Remota mediante API" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "Interacción Digital Remota mediante API con Discord". Dámelo en markdown para poder copiarlo.'
 
 [[Interacción Digital Remota mediante API con Discord|El resultado usando ChatGPT 3.5 Turbo que usé originalmente]]
 
@@ -30,9 +30,53 @@ Pruebas iniciales con el siguiente prompt, en mi Mac Intel la app nome permite u
 	- Nous Hermes
 	- Mistral Instruct
 
+## Insights sobre las respuestas obtenidas.
 
+### GPT 3.5 Turbo
 
-## Nous Hermes 2 Mistral DRO
+* El resultado de referencia parece tener un nivel de abstracción suficiente como para tomar el indice generado directamente como base de trabajo humano posterior, tal y como estoy realizando ya en MetsuOS.
+* La velocidad extra - pendiente de probar GPT4All con GPU - hace que esta sea posilemente la formula de elección prioritaria en caso de trabajo en tiempo real.
+
+###  Nous Hermes 2 Mistral DRO
+
+* El indice generado está correctamente orientado a la tarea.
+* No obstante es excesivamente técnico y no está suficientemente ordenado por bloques.
+* Mi impresión es que el resultado muiestra un 30-40% menos de abstracción en la tarea (relativamente compleja por otra parte) respecto de su versión hecha con GPT.
+* Una buena opción para texto tentativo, pero no valido como punto de partida sin supervisión humana previa.
+
+### Mistral OpenOrca
+
+* Aplica lo indicado para Mistral PRO y ademas...
+* La abstracción y el índice generado está menos elaborado que en caso de Mistral DRO. 
+* No obstante la descripción del proceso paso a paso le da un enorme plus en trazabilidad del proceso.
+* Esta explicación lo hace, en apariencia, el modelo ideal para integrar en un proceso más grande destinado a dividir una tarea compleja en subtareas automatizables de una forma comprensible y metódica, siempre con supervisión humana.
+* Pequeño punto en contra, es que no trabaja directamente en español, sino que traduce el prompt a ingles y nos responde en este idioma, esto supone mayores requisitos de trabajo humano para aprovechar la inforamción que arroja con garantías.
+
+### Mistral Instruct 
+
+* Este modelo, si bien trasmite una "personalidad" diferente que GPT-3.5-Turbo, es el modelo local de libre uso comercial que mejor resultado ofrece, siendo  - en apariencia - inferior a GPT-3.5-Turbo a la hora de comunicarse con un humano no técnico (sin haberselo especificado previamente, quizá en pruebas se pueda mejorar el prompt)
+* A falta de futuras pruebas más detalladas, sus resultados parecen ser directamente sables de forma similar a los de GPT en este ámbito dada la calidad mejorada de la estructura de abstracción de la respuesta.
+* Como con GPT, hay que tomar en consideración los tamaños máximos de las respuestas a fin de permitr que el modelo se extienda en la respuesta todo lo necesario.
+
+### GPT4All Falcon
+
+* Este es el modelo que creo menos se ha acercado a una estructura "de curso", parece que ha sido bueno generado brainstorming en torno a la idea (muy bueno para listas de cosas), pero nada bueno organizando lo generado en un conjunto usable directamente.
+* Este modelo parece el menos avanzado, pero al tiempo parece el ideal para reformular frases o generar conceptos paralelos en torno a un tema a fin de dar variabilidad tanto a prompts como lineas de investigación.
+
+## Conclusiones
+
+* Debemos tener cuidado con que modelo usamos para que tarea, ya que el resultado de cada uno es diferente y por tanto se requiere un trabajo de test, clasificación y análisis de lo generado previo a su uso mucho mas exhaustivo del ya neceario con sistemas comerciales.
+* La velocidad en local, no disponiendo de GPU (las pruebas se hicieron en un Mac Intel), hace el proceso sensiblemente más lento que llamadas directas a IA online (en este caso GPT-3.5-Turbo) este escenario implica que, en caso de trabajo en tiempor eal, conviene más pagar el servicio online.
+* No obstante - Pendiente de probar - GPT4All soporta llamadas API, lo cual lo hace idea para trabajos automáticos en segundo plano, sobre todo aquellos que puedan servir para ofrecer alternativas previas de una tarea que puedan ser seleccionadas o descartadas para llamar a ChatGPT, gracias a la gratuidad (más alla de los recursos consumidos) que reducen el coste de request tentativos.
+* La no censura por parte de alguno de los modelos, y su ejecución local, nos hace algo más independientes respecto de batallas ideológicas o geopolíticas, lo cual nos permite solicitar la misma informacion en paralelo a varios sistemas y comparar para minorar este problema de manipulacion geopolítica.
+* Esta posibilidad de trabajar varios modelos en paralelo, en local, con el único coste de los recuross consumidos, lo hacen un medio interesante para la incorporación de modelos propios para tareas específicas, así como para - con la configuración de privacidad controlada - la ejecución de modelos que trabajen con datos privados en entornos donde la privacidad es vital.
+* Nótese que estas son conclusiones de la primera prueba, y que el trabajo futuro puede cambiar la perspectiva o afianzar las conclusiones. Aún con todo creo es un buen punto de partida.
+
+---
+
+## Raw Data
+
+### Nous Hermes 2 Mistral DRO
 '''markdown
 
 '''
@@ -83,7 +127,7 @@ Pruebas iniciales con el siguiente prompt, en mi Mac Intel la app nome permite u
 10. Casos de éxito y aplicaciones prácticas del API de Discord
 '''
 
-## Mistral OpenOrca
+### Mistral OpenOrca
 '''markdown
 In the context of "Learning about Remote Interaction through APIs", I need a technically comprehensive and detailed index for a course on "Remote Interaction with APIs using Discord." Give it to me in Markdown so that I can copy it.
 
@@ -147,7 +191,7 @@ Once all sections are organized, write out the index in Markdown format. This wi
 
 '''
 
-## Mistral Instruct 
+### Mistral Instruct 
 
 ### Test 01
 
@@ -313,7 +357,7 @@ Sección 7: Conclusiones
 - Sugerencias para aplicar los conocimientos adquiridos en el campo real.
 '''
 
-## GPT4All Falcon
+### GPT4All Falcon
 
 '''markdown
 ﻿En este curso, se cubrirán los siguientes puntos:

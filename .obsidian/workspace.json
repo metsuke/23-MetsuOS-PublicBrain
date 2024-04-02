@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Niveles de encabezado y etiquetas.md",
+                "file": "Expresiones para hablar sobre el tiempo (A1-EN).md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Niveles de encabezado y etiquetas.md",
+                "file": "Expresiones para hablar sobre el tiempo (A1-EN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Niveles de encabezado y etiquetas.md",
+                "file": "Expresiones para hablar sobre el tiempo (A1-EN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Niveles de encabezado y etiquetas.md"
+                "file": "Expresiones para hablar sobre el tiempo (A1-EN).md"
               }
             }
           },
@@ -201,8 +201,10 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/A1-EN.md",
+    "Expresiones para hablar sobre el tiempo (A1-EN).md",
     "Niveles de encabezado y etiquetas.md",
+    "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Rol Gestión Empresarial.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Rol Comercial.md",
@@ -225,8 +227,6 @@
     "PublicBrain/Aprender sobre Storytelling.md",
     "Elementos Fundamentales de una Buena Historia.md",
     "Aprender sobre Pyxel.md",
-    "PublicBrain/Aprender sobre Pyxel.md",
-    "PublicBrain/Aprender sobre VMWare Cloud.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

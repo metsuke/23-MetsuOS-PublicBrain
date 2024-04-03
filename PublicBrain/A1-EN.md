@@ -55,7 +55,7 @@ tags:
 5.1. [[Expresiones para hablar sobre el tiempo (A1-EN)]]
 5.2. [[Hobbies y pasatiempos (A1-EN)]]
 5.3. Planificar actividades de ocio.
-5.4. Verbos en presente simple.
+5.4. [[Verbos en presente simple (A1-EN)]]
 
 ## Módulo 6: Viajes y Transporte
 

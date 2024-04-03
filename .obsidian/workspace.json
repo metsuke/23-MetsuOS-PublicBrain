@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentación de la API de eBay y recursos de ayuda (ODRA-Ebay).md",
+                "file": "PublicBrain/A1-EN.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentación de la API de eBay y recursos de ayuda (ODRA-Ebay).md",
+                "file": "PublicBrain/A1-EN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentación de la API de eBay y recursos de ayuda (ODRA-Ebay).md",
+                "file": "PublicBrain/A1-EN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentación de la API de eBay y recursos de ayuda (ODRA-Ebay).md"
+                "file": "PublicBrain/A1-EN.md"
               }
             }
           },
@@ -188,8 +188,11 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
+    "Verbos en presente simple (A1-EN).md",
+    "PublicBrain/A1-EN.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Documentación de la API de eBay y recursos de ayuda (ODRA-Ebay).md",
+    "PublicBrain/Documentación de la API de eBay y recursos de ayuda (ODRA-Ebay).md",
     "PublicBrain/Aprender sobre Emprendimiento y Negocios.md",
     "PublicBrain/Aprender sobre Evanescence.md",
     "PublicBrain/Descripción de experiencias y actividades (A2-CA).md",
@@ -211,9 +214,6 @@
     "Descripción de experiencias y actividades (A2-CA).md",
     "PublicBrain/Index.md",
     "PublicBrain/WCAG 2.1.md",
-    "Control del tiempo.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Rol Comercial.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

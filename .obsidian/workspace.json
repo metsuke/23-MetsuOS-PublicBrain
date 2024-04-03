@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/A2-CA.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/A2-CA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "PublicBrain/A2-CA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md"
+                "file": "PublicBrain/A2-CA.md"
               }
             }
           },
@@ -188,9 +188,13 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
+    "Descripción de experiencias y actividades (A2-CA).md",
+    "PublicBrain/A2-CA.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/WCAG 2.1.md",
     "Control del tiempo.md",
     "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/WCAG 2.1.md",
     "PublicBrain/Rol Comercial.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Rol Gestión Empresarial.md",
@@ -203,7 +207,6 @@
     "Configuración y personalización para mejorar la accesibilidad.md",
     "PublicBrain/Pruebas de uso de GPU en Intel Mac.md",
     "PublicBrain/GPT4All Testing.md",
-    "PublicBrain/Index.md",
     "PublicBrain/MPL (Metsuke Programming Languaje).md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/MosGPT project.md",
@@ -211,9 +214,6 @@
     "PublicBrain/MPL (Metsu Programming Languaje).md",
     "MPL (Metsu Programming Languaje).md",
     "Pruebas de uso de GPU en Intel Mac.md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

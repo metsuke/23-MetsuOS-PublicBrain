@@ -25,7 +25,7 @@ tags:
 ## Módulo 1: Comunicación Básica
 
 1.1. [[Conversación sobre temas cotidianos (A2-CA)]]
-1.2. Descripción de experiencias y actividades.
+1.2. [[Descripción de experiencias y actividades (A2-CA)]]
 1.3. Hacer y responder preguntas.
 1.4. Expresión de opiniones y gustos.
 

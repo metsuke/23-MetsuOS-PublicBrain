@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-03T12:48:11.448Z
+modified: 2024-04-03T12:49:12.585Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Sonidos direccionales y subtítulos sincronizados
 
 [[Aprender sobre Accesibilidad en Videojuegos]]

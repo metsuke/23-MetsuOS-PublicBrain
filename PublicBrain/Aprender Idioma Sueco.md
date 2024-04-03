@@ -25,4 +25,8 @@ tags:
 		* [[A1-SV]] | [[A2-SV]]
 		* [[B1-SV]] | [[B2-SV]]
 		* [[C1-SV]] | [[C2-SV]]
-	* Niveles y Exámenes Adicionales SV
+	* [[Niveles y Exámenes Adicionales SV]]
+		* TISUS (Test i svenska för universitets- och högskolestudier) para C1
+		* Svenska som andraspråk (SAS)
+		- SWEDEX
+		- Folkuniversitetet examen

@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-03T12:46:43.580Z
+modified: 2024-04-03T12:49:12.628Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Herramientas automáticas y manuales para evaluar la accesibilidad de cursos en línea
 
 [[Aprender sobre Accesibilidad en ELearining]]

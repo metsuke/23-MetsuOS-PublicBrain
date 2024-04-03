@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-02-08T22:27:59.793Z
-modified: 2024-04-02T19:19:20.524Z
+modified: 2024-04-03T12:48:08.887Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 31
+ver_rev: 32
 nav_primary: 
 nav_secondary: 
 tags:

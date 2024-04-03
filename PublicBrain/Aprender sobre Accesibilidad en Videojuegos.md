@@ -44,7 +44,7 @@ tags:
 
 ## V. Accesibilidad Auditiva
    - [[Subtítulos y transcripciones]].
-   - Sonidos direccionales y subtítulos sincronizados.
+   - [[Sonidos direccionales y subtítulos sincronizados]]
    - [[Alternativas para usuarios con problemas auditivos]].
 
 ## VI. Accesibilidad Motora

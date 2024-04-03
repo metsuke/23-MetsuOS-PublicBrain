@@ -53,7 +53,7 @@ tags:
 
 ## Evaluación y Pruebas de Accesibilidad
 - [[Métodos de evaluación y pruebas de accesibilidad]]
-- Herramientas automáticas y manuales para evaluar la accesibilidad de cursos en línea
+- [[Herramientas automáticas y manuales para evaluar la accesibilidad de cursos en línea]]
 
 ## Implementación de Mejoras de Accesibilidad
 - Planificación e implementación de mejoras de accesibilidad en cursos existentes

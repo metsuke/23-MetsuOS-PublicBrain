@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-03T07:14:55.556Z
+modified: 2024-04-03T07:16:54.499Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Verbos en presente simple (A1-EN)
 
 [[A1-EN]]

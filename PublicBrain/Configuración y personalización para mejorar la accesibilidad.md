@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-02T19:17:59.482Z
+modified: 2024-04-02T19:20:55.965Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Configuración y personalización para mejorar la accesibilidad
 
 [[Aprender sobre Accesibilidad en ELearining]]

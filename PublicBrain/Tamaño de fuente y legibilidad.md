@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-02T19:19:21.211Z
+modified: 2024-04-02T19:20:55.910Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Tamaño de fuente y legibilidad
 
 [[Aprender sobre Accesibilidad en Videojuegos]]

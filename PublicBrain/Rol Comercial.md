@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-29T09:21:43.762Z
-modified: 2024-03-30T00:51:48.729Z
+modified: 2024-04-03T05:34:20.555Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -72,7 +72,7 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 * [Escuela de Marketing Digital](https://platzi.com/escuela/marketing/)
 * [Escuela de Startups](https://platzi.com/escuela/startups/)
 * [Escuela de Negocios](https://platzi.com/escuela/negocios/)
-* [Platzi English Academy](https://platzi.com/escuela/ingles/)
+* [Escuela de Inglés](https://platzi.com/escuela/ingles/)
 * [Escuela de Programación y Software](https://platzi.com/escuela/programacion-software/)
 * [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
 

@@ -5,15 +5,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-31T02:11:57.292Z
-modified: 2024-03-31T02:18:49.583Z
+modified: 2024-04-03T05:24:02.343Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Rol Administración
+# Rol Administración Negocios
 
 [[Estructurar una Microagencia de Marketing Digital]] | [[Glosario de Marketing Digital]]
 
@@ -64,8 +64,18 @@ Este rol se encarga de la gestión de recursos
 	* Detallista.
 	* Mantener la calma en situaciones de presión.
 
-### Cursos recomendados
+## Cursos recomendados
 
-* Curso de SalesForce para administradores.
-* Curso de Excel básico.
-* Curso de Facturación Electrónica con Siigo para Colombia.
+* [Busqueda en Platzi Rol Administración Negocios)](https://platzi.com/buscar/?search=Rol%20Administracion%20negocios)
+* [Generación de Ruta en Platzi para el Rol Administración Negocios](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20administracion%20negocios)
+
+ ### Escuelas Platzi Recomendadas
+
+* [Escuela de Negocios](https://platzi.com/escuela/negocios/)
+* [Escuela de DevOps y Cloud Computing](https://platzi.com/escuela/devops-cloud/)
+* [Escuela de Data Science](https://platzi.com/escuela/datos/)
+* [Escuela de Inglés](https://platzi.com/escuela/ingles/)
+* [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
+* [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
+* [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
+* [Escuela de Startups](https://platzi.com/escuela/startups/)

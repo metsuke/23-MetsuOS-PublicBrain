@@ -8,10 +8,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-25T19:25:05.642Z
-modified: 2024-03-31T11:30:49.477Z
+modified: 2024-04-03T05:25:47.935Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 44
+ver_rev: 45
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,7 +28,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 
 * [[Rol Gestión Empresarial|Gestión ste rol se Empresarial]]
 	* [[PublicBrain/Rol Comercial|Comercial]]
-	* [[Rol Administración|Administración]]
+	* [[Rol Administración Negocios|Administración]]
 	* Account Manager
 		* Project Manager
 			* Marketing

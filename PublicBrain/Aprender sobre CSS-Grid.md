@@ -1,17 +1,20 @@
 ---
-iaStatus: 0
+iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-02-22T15:09:16.561Z
-modified: 2024-03-14T21:53:36.332Z
+modified: 2024-04-03T05:48:04.397Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 22
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 23
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre CSS-Grid
 

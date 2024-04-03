@@ -31,7 +31,7 @@ tags:
 - [[Registro como desarrollador en eBay (IDRA-Ebay)]]
 - [[Obtención de credenciales de API (IDRA-Ebay)]]
 - [[Autenticación con la API de eBay (IDRA-Ebay)]]
-- Documentación de la API de eBay y recursos de ayuda
+- [[Documentación de la API de eBay y recursos de ayuda (ODRA-Ebay)]]
 
 ## Exploración de los Endpoints Principales
 - Consulta de productos disponibles

@@ -1,17 +1,20 @@
 ---
-iaStatus: 0
+iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-02-11T13:42:49.185Z
-modified: 2024-04-02T19:17:55.169Z
+modified: 2024-04-03T05:48:04.401Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 30
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 31
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre Accesibilidad en ELearining
 

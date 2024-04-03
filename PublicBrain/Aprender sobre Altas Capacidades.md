@@ -1,17 +1,20 @@
 ---
-iaStatus: 0
+iaStatus: 3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-12-05T22:20:55.877Z
-modified: 2024-03-31T22:34:42.318Z
+modified: 2024-04-03T05:48:04.399Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 28
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 29
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre Altas Capacidades
 
@@ -40,7 +43,7 @@ tags: []
 - [[Impacto en el rendimiento académico y emocional]]
 - [[Estrategias de intervención (Altas Capacidades)]]
 
-## Tema 6: Identificación
+## Tema 6: "I"dentificación
 - [[Métodos y herramientas para la identificación temprana (Altas Capacidades)]]
 - [[Diferenciación entre altas capacidades y otros desafíos educativos]]
 

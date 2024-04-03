@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-03T05:42:52.640Z
+modified: 2024-04-03T05:47:59.213Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Descripción de experiencias y actividades (A2-CA)
 
 [[A2-CA]]

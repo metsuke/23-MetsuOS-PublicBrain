@@ -59,7 +59,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
         - 5.3 [[Ayuda]]
     - [[Pauta 6 - Entrada y navegación]]
         - 6.1 Control de teclado
-        - 6.2 Control del tiempo
+        - 6.2 [[Control del tiempo]]
         - 6.3 Títulos y etiquetas
     - **Pauta 7: "I"dentificación y orientación**
         - 7.1 Encabezados y etiquetas

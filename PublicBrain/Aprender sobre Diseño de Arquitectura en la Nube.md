@@ -21,7 +21,7 @@ tags: []
 ## Introducción a la Arquitectura en la Nube
 - [[¿Qué es la Arquitectura en la Nube?]]
 - [[Importancia del diseño de arquitectura en la nube]]
-- Principios clave de diseño en la nube
+- [[Principios clave de diseño en la nube]]
 - Beneficios y desafíos de la adopción de arquitecturas en la nube
 
 ## Fundamentos de la Arquitectura en la Nube

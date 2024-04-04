@@ -49,7 +49,7 @@ tags:
 - [[Estrategias de diseño para texto, imágenes, multimedia y actividades interactivas]]
 
 ## Accesibilidad en Plataformas de Aprendizaje
-- Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS)
+- [[Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS)]]
 - [[Configuración y personalización para mejorar la accesibilidad]]
 
 ## Evaluación y Pruebas de Accesibilidad

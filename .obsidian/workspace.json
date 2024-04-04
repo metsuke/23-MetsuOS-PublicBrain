@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md",
+                "file": "Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.0.md"
+                "file": "Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS).md"
               }
             }
           },
@@ -188,10 +188,12 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS).md",
+    "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Pauta 2 - Control del Teclado.md",
     "PublicBrain/WCAG 2.1.md",
     "Control de teclado.md",
-    "PublicBrain/WCAG 2.0.md",
     "Rol Account Manager.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Rol Comercial.md",
@@ -202,7 +204,6 @@
     "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
     "PublicBrain/GPT4All Testing.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "PublicBrain/Aprender sobre GNU Linux.md",
     "PublicBrain/Aprender sobre Reciclaje.md",
     "PublicBrain/Aprender sobre Rammstein.md",
@@ -213,7 +214,6 @@
     "PublicBrain/Exámenes de Nivel Nacional de Certificación en Habilidades en Idiomas (NACIL).md",
     "PublicBrain/Ejercicios Polinomios.md",
     "PublicBrain/Diploma de Español como Lengua Extranjera (DELE).md",
-    "PublicBrain/B2-SV.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

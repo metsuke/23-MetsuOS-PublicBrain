@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-04T03:46:41.286Z
+modified: 2024-04-04T03:51:05.870Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Hacer y responder preguntas (A2-CA)
 
 [[A2-CA]]

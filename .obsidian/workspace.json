@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacer y responder preguntas (A2-CA).md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
+                "file": "PublicBrain/GPT4All Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacer y responder preguntas (A2-CA).md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacer y responder preguntas (A2-CA).md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacer y responder preguntas (A2-CA).md"
+                "file": "PublicBrain/Aprender sobre PixiJS.md"
               }
             }
           },
@@ -189,32 +189,32 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "PublicBrain/A2-CA.md",
-    "Hacer y responder preguntas (A2-CA).md",
+    "Qué es PixiJS y su historia.md",
+    "PublicBrain/Aprender sobre PixiJS.md",
+    "PublicBrain/GPT4All Testing.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Storytelling.md",
-    "Impacto emocional y psicológico de las historias.md",
-    "¿Qué es Pyxel?.md",
-    "PublicBrain/Aprender sobre Pyxel.md",
-    "PublicBrain/Principios clave de diseño en la nube.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
-    "Principios clave de diseño en la nube.md",
-    "PublicBrain/Propósito del curso (Estudio pensamiento y filosofia de una persona).md",
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
-    "PublicBrain/Aprender con Pablo Grueso.md",
-    "Propósito del curso (Estudio pensamiento y filosofia de una persona).md",
-    "PublicBrain/Rol Account Manager.md",
-    "PublicBrain/Redes Neuronales Convolucionales (CNNs).md",
-    "PublicBrain/Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS).md",
-    "PublicBrain/Enfoque integral para abordar las necesidades socioemocionales y mentales de las personas con altas capacidades.md",
-    "PublicBrain/Diseño de niveles y mecánicas adaptativas.md",
-    "PublicBrain/Control de teclado.md",
-    "Redes Neuronales Convolucionales (CNNs).md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "PublicBrain/Recopilación y preparación de datos.md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
-    "Enfoque integral para abordar las necesidades socioemocionales y mentales de las personas con altas capacidades.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Impacto emocional y psicológico de las historias.md",
+    "PublicBrain/Hacer y responder preguntas (A2-CA).md",
+    "PublicBrain/¿Qué es Pyxel?.md",
+    "PublicBrain/Aprender sobre Objetos de World of Warcraft.md",
+    "PublicBrain/Aprender sobre Mermaid.md",
+    "PublicBrain/Aprender sobre Naruto.md",
+    "PublicBrain/Aprender sobre Mecano.md",
+    "PublicBrain/Aprender sobre Nirvana.md",
+    "PublicBrain/Aprender sobre Historia Mundial del Videojuego.md",
+    "PublicBrain/Aprender sobre Matemáticas.md",
+    "PublicBrain/Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios.md",
+    "PublicBrain/Aprender sobre Licencias.md",
+    "PublicBrain/Aprender sobre Linux - Apuntes sin ordenar.md",
+    "PublicBrain/Aprender sobre Finanzas Personales.md",
+    "PublicBrain/Aprender sobre GNU Linux.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "PublicBrain/Aprender sobre Hardware Libre.md",
+    "PublicBrain/Aprender sobre Gestión de Tareas.md",
+    "Hacer y responder preguntas (A2-CA).md",
+    "PublicBrain/A2-CA.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

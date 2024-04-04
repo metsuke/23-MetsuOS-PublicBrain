@@ -1,18 +1,21 @@
 ---
-iaStatus: 0
+iaStatus: 2
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-12-01T21:55:21.116Z
-modified: 2024-04-03T20:19:14.831Z
+modified: 2024-04-04T03:51:11.854Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 23
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 24
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre Hardware Libre
 
@@ -20,10 +23,10 @@ tags: []
 
 # Curso sobre Hardware Libre
 
-## Módulo 1: Introducción al Hardware Libre
+## Módulo 1: "I"ntroducción al Hardware Libre
 - Lección 1: ¿Qué es el Hardware Libre?
 - Lección 2: Principios y filosofía del Hardware Libre
-- Lección 3: Historia del movimiento del Hardware Libre
+- Lección 3: "H"istoria del movimiento del Hardware Libre
 - Lección 4: Licencias de Hardware Libre
 
 ## Módulo 2: Plataformas de Hardware Libre

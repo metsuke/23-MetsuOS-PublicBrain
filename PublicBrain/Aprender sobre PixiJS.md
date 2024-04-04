@@ -1,18 +1,21 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:51.000Z
-modified: 2024-04-03T20:19:14.826Z
+modified: 2024-04-04T03:56:16.948Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 23
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 24
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre PixiJS
 
@@ -20,7 +23,7 @@ tags: []
 
 ## Introducción a PixiJS y Gráficos Básicos
 
-- Qué es PixiJS y su historia
+- [[Qué es PixiJS y su historia]]
 - Configuración del entorno de desarrollo
 - Creación de un lienzo (canvas) en PixiJS
 - Dibujando formas básicas y gráficos

@@ -18,7 +18,7 @@ tags: []
 
 [[Aprender sobre el Mundo Crypto]]
 
-## Introducción
+## [[Introducción]]
 - Visión general del curso
 - Objetivos y metas
 - Requisitos previos

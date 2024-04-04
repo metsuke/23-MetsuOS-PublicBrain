@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-04T03:05:31.277Z
+modified: 2024-04-04T03:09:33.034Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Enfoque integral para abordar las necesidades socioemocionales y mentales de las personas con altas capacidades
 
 [[Aprender sobre Altas Capacidades]]

@@ -6,10 +6,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-18T12:28:27.849Z
-modified: 2024-04-03T20:19:14.695Z
+modified: 2024-04-04T03:06:53.189Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 29
+ver_rev: 30
 nav_primary: []
 nav_secondary: []
 tags: []

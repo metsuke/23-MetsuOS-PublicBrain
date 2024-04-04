@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-25T15:50:19.216Z
-modified: 2024-04-03T20:19:14.736Z
+modified: 2024-04-04T03:08:11.516Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 # Índice
 
 ## I. Introducción
-   - A. Propósito del curso
+   - A. [[Propósito del curso (Estudio pensamiento y filosofia de una persona)]]
    - B. Justificación
    - C. Objetivos de aprendizaje
    - D. Metodología de enseñanza

@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-02-08T22:27:59.793Z
-modified: 2024-04-03T20:19:14.844Z
+modified: 2024-04-04T03:04:27.850Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 33
+ver_rev: 34
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,7 +51,7 @@ tags:
 ## VI. Accesibilidad Motora
    - Opciones de control y configuración.
    - Implementación de controles personalizados.
-   - Diseño de niveles y mecánicas adaptativas.
+   - [[Diseño de niveles y mecánicas adaptativas]]
 
 ## VII. Accesibilidad Cognitiva
    - Simplificación de instrucciones y tutoriales.

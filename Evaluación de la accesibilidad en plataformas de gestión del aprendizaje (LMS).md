@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-04T03:03:34.815Z
+modified: 2024-04-04T03:04:17.993Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS)
 
 [[Aprender sobre Accesibilidad en ELearining]]

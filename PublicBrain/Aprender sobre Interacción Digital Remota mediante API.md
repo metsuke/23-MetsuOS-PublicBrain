@@ -3,15 +3,16 @@ iaStatus: 1
 iaStatus_Generado: "H"
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
+iaStatus_Model: ""
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-03-22T09:49:11.861Z
-modified: 2024-04-01T12:12:27.489Z
+modified: 2024-04-03T20:19:14.830Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,6 +25,7 @@ tags:
 * [[Interacción Digital Remota mediante API con AliBaba]]
 * [[Interacción Digital Remota mediante API con Amazon]]
 * [[Interacción Digital Remota mediante API con Avast]]
+* [[Interaccción Digital Remota mediante API con Bluesky]]
 * [[Interacción Digital Remota mediante API con Discord]]
 * [[Interacción Digital Remota mediante API con Dropbox]]
 * [[Interacción Digital Remota mediante API con EBay]]

@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "908ddc2586180f12",
+            "id": "104f661b297a5ae8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender con Coronel Baños.md",
+                "file": "Rol Account Manager.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "104f661b297a5ae8",
+            "id": "2d4e2a728ccbe566",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md",
+                "file": "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md",
+                "file": "Rol Account Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md",
+                "file": "Rol Account Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Sueco.md"
+                "file": "Rol Account Manager.md"
               }
             }
           },
@@ -188,32 +188,32 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "Niveles y Exámenes Adicionales SV.md",
-    "PublicBrain/Aprender Idioma Sueco.md",
-    "Aprender Sueco.md",
-    "PublicBrain/A1-SV.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "Sonidos direccionales y subtítulos sincronizados.md",
-    "Herramientas automáticas y manuales para evaluar la accesibilidad de cursos en línea.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Rol Comercial.md",
+    "Rol Account Manager.md",
+    "PublicBrain/Rol Gestión Empresarial.md",
+    "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Aprender con Coronel Baños.md",
+    "PublicBrain/Rol Administración Negocios.md",
+    "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
+    "PublicBrain/GPT4All Testing.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
-    "PublicBrain/A1-EN.md",
-    "PublicBrain/Verbos en presente simple (A1-EN).md",
-    "Verbos en presente simple (A1-EN).md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "Documentación de la API de eBay y recursos de ayuda (ODRA-Ebay).md",
-    "PublicBrain/Documentación de la API de eBay y recursos de ayuda (ODRA-Ebay).md",
-    "PublicBrain/Aprender sobre Emprendimiento y Negocios.md",
-    "PublicBrain/Aprender sobre Evanescence.md",
-    "PublicBrain/Descripción de experiencias y actividades (A2-CA).md",
-    "PublicBrain/Control del tiempo.md",
-    "PublicBrain/Aprender sobre Economía y Finanzas.md",
-    "PublicBrain/Aprender sobre Desarrollo.md",
-    "PublicBrain/Aprender sobre Computación Mecánica.md",
-    "PublicBrain/Aprender sobre Buenas Prácticas y Código Limpio en Programación.md",
-    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
-    "PublicBrain/Aprender sobre CSS-Grid.md",
-    "PublicBrain/Aprender sobre Bases de Datos.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Aprender sobre GNU Linux.md",
+    "PublicBrain/Aprender sobre Reciclaje.md",
+    "PublicBrain/Aprender sobre Rammstein.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "PublicBrain/Aprender sobre PixiJS.md",
+    "PublicBrain/Beyond - Two Souls (Quantic Dream, 2013).md",
+    "PublicBrain/C1-NO.md",
+    "PublicBrain/Exámenes de Nivel Nacional de Certificación en Habilidades en Idiomas (NACIL).md",
+    "PublicBrain/Ejercicios Polinomios.md",
+    "PublicBrain/Diploma de Español como Lengua Extranjera (DELE).md",
+    "PublicBrain/B2-SV.md",
+    "PublicBrain/Algoritmos en Javascript.md",
+    "PublicBrain/¿Qué es el Lenguaje C?.md",
+    "PublicBrain/¿Porqué aprender economía?.md",
+    "PublicBrain/Interaccción Digital Remota mediante API con Bluesky.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

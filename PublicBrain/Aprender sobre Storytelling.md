@@ -29,7 +29,7 @@ tags: []
 	* [[Escenario en Storytelling]]
 	* [[Conflicto y resolución en Storytelling]]
 * [[El Poder de las Historias]]
-	* Impacto emocional y psicológico de las historias
+	* [[Impacto emocional y psicológico de las historias]]
 	* Ejemplos de historias poderosas
 ## Creación de Historias Impactantes
 

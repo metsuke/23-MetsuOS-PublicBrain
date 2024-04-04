@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Impacto emocional y psicológico de las historias.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Impacto emocional y psicológico de las historias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Impacto emocional y psicológico de las historias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "Impacto emocional y psicológico de las historias.md"
               }
             }
           },
@@ -189,11 +189,13 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Pyxel.md",
+    "PublicBrain/Aprender sobre Storytelling.md",
+    "Impacto emocional y psicológico de las historias.md",
     "¿Qué es Pyxel?.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Principios clave de diseño en la nube.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
     "Principios clave de diseño en la nube.md",
     "PublicBrain/Propósito del curso (Estudio pensamiento y filosofia de una persona).md",
@@ -213,8 +215,6 @@
     "Enfoque integral para abordar las necesidades socioemocionales y mentales de las personas con altas capacidades.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "Diseño de niveles y mecánicas adaptativas.md",
-    "Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS).md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

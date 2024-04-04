@@ -22,7 +22,7 @@ tags:
 [[Aprender sobre Videojuegos]]
 
 ## Introducción a la Historia del Videojuego
-- Definición de videojuego
+- [[Definición de videojuego]]
 - Breve historia de los videojuegos
 - [[Importancia cultural y social de los videojuegos]]
 

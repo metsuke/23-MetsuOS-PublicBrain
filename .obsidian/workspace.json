@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md"
+                "file": "Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md"
               }
             }
           },
@@ -189,10 +189,14 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "Qué es PixiJS y su historia.md",
-    "PublicBrain/Aprender sobre PixiJS.md",
-    "PublicBrain/GPT4All Testing.md",
+    "PublicBrain/Aprender sobre la Relación entre Ciencia y Arte.md",
+    "Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender sobre PixiJS.md",
+    "PublicBrain/Qué es PixiJS y su historia.md",
+    "Qué es PixiJS y su historia.md",
+    "PublicBrain/GPT4All Testing.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Impacto emocional y psicológico de las historias.md",
@@ -211,10 +215,6 @@
     "PublicBrain/Aprender sobre Finanzas Personales.md",
     "PublicBrain/Aprender sobre GNU Linux.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "PublicBrain/Aprender sobre Hardware Libre.md",
-    "PublicBrain/Aprender sobre Gestión de Tareas.md",
-    "Hacer y responder preguntas (A2-CA).md",
-    "PublicBrain/A2-CA.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rol Account Manager.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol Account Manager.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rol Account Manager.md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rol Account Manager.md"
+                "file": "PublicBrain/WCAG 2.0.md"
               }
             }
           },
@@ -188,9 +188,13 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
+    "PublicBrain/Pauta 2 - Control del Teclado.md",
+    "PublicBrain/WCAG 2.1.md",
+    "Control de teclado.md",
+    "PublicBrain/WCAG 2.0.md",
+    "Rol Account Manager.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Rol Comercial.md",
-    "Rol Account Manager.md",
     "PublicBrain/Rol Gestión Empresarial.md",
     "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Aprender con Coronel Baños.md",
@@ -210,10 +214,6 @@
     "PublicBrain/Ejercicios Polinomios.md",
     "PublicBrain/Diploma de Español como Lengua Extranjera (DELE).md",
     "PublicBrain/B2-SV.md",
-    "PublicBrain/Algoritmos en Javascript.md",
-    "PublicBrain/¿Qué es el Lenguaje C?.md",
-    "PublicBrain/¿Porqué aprender economía?.md",
-    "PublicBrain/Interaccción Digital Remota mediante API con Bluesky.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

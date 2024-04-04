@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:48.000Z
-modified: 2024-04-03T20:19:14.891Z
+modified: 2024-04-04T03:45:39.913Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ tags:
 
 1.1. [[Conversación sobre temas cotidianos (A2-CA)]]
 1.2. [[Descripción de experiencias y actividades (A2-CA)]]
-1.3. Hacer y responder preguntas.
+1.3. [[Hacer y responder preguntas (A2-CA)]]
 1.4. Expresión de opiniones y gustos.
 
 ## Módulo 2: Vocabulario y Expresiones Cotidianas

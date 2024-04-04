@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-04T03:42:29.840Z
+modified: 2024-04-04T03:45:31.807Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Impacto emocional y psicológico de las historias
 
 [[Aprender sobre Storytelling]]

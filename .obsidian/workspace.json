@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md",
+                "file": "Recopilación y Preprocesamiento de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md",
+                "file": "Recopilación y Preprocesamiento de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md",
+                "file": "Recopilación y Preprocesamiento de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md"
+                "file": "Recopilación y Preprocesamiento de Datos.md"
               }
             }
           },
@@ -189,9 +189,12 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "Recopilación y Preprocesamiento de Datos.md",
+    "PublicBrain/Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre la Relación entre Ciencia y Arte.md",
     "Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/Qué es PixiJS y su historia.md",
@@ -212,9 +215,6 @@
     "PublicBrain/Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios.md",
     "PublicBrain/Aprender sobre Licencias.md",
     "PublicBrain/Aprender sobre Linux - Apuntes sin ordenar.md",
-    "PublicBrain/Aprender sobre Finanzas Personales.md",
-    "PublicBrain/Aprender sobre GNU Linux.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

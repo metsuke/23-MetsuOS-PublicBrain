@@ -49,7 +49,7 @@ tags:
   - Google Colab
   - [[IDEs especializados en IA]]
 
-## Recopilación y Preprocesamiento de Datos
+## [[Recopilación y Preprocesamiento de Datos]]
 
 - Adquisición de datos
 - Limpieza y normalización de datos

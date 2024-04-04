@@ -21,7 +21,7 @@ tags:
 
 [[PublicBrain/Index]]
 
-Aprender sobre Economía
+[[Aprender sobre Economía]]
 Aprender sobre Finanzas Empresariales
 [[Aprender sobre Finanzas Personales]]
 

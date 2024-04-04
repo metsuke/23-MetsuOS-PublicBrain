@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-08-29T22:54:20.000Z
-modified: 2024-04-03T20:19:14.596Z
+modified: 2024-04-04T03:40:26.139Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 48
+ver_rev: 49
 nav_primary: 
 nav_secondary: 
 tags:
@@ -99,6 +99,8 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender a programar plugins para World of Warcraft]]
 
 * [[Aprender sobre Videojuegos]]
+* Aprender sobre Desarrollo de Videojuegos
+	* [[Aprender sobre Pyxel]]
 	
 ### Plena Inclusión
 
@@ -134,7 +136,6 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	* [[Aprender sobre Interacción Digital Remota mediante API]]
 * [[Aprender sobre Programación]]
 	* [[Aprender sobre Buenas Prácticas y Código Limpio en Programación]]
-* [[Aprender sobre Pyxel]]
 * [[Aprender sobre Redes e Internet]]
 
 ## Cursos externos recomendados

@@ -6,10 +6,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-01T11:39:43.816Z
-modified: 2024-04-03T20:19:14.825Z
+modified: 2024-04-04T03:39:21.270Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -21,7 +21,7 @@ tags: []
 # Curso: Aprender sobre Pyxel
 
 ## Introducción a Pyxel
-- ¿Qué es Pyxel?
+- [[¿Qué es Pyxel?]]
 - Características y ventajas de Pyxel
 - Instalación y configuración del entorno de desarrollo
 

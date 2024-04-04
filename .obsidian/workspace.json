@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MPL",
+                "query": "pyx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -188,8 +189,13 @@
   },
   "active": "104f661b297a5ae8",
   "lastOpenFiles": [
-    "Principios clave de diseño en la nube.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "¿Qué es Pyxel?.md",
+    "PublicBrain/Principios clave de diseño en la nube.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
+    "Principios clave de diseño en la nube.md",
     "PublicBrain/Propósito del curso (Estudio pensamiento y filosofia de una persona).md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
     "PublicBrain/Aprender con Pablo Grueso.md",
@@ -209,11 +215,6 @@
     "Diseño de niveles y mecánicas adaptativas.md",
     "Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS).md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
-    "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Pauta 2 - Control del Teclado.md",
-    "PublicBrain/WCAG 2.1.md",
-    "Control de teclado.md",
-    "Rol Account Manager.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

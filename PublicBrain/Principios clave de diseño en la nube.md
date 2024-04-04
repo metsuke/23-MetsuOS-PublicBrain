@@ -1,3 +1,18 @@
+---
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-04T03:36:43.481Z
+modified: 2024-04-04T03:40:12.790Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Principios clave de diseño en la nube
 
 [[Aprender sobre Diseño de Arquitectura en la Nube]]

@@ -47,7 +47,7 @@ tags: []
 * [[Regularización (Dropout, L2, L1)]]
 * [[Entrenamiento y ajuste de hiperparámetros]]
 
-## Redes Neuronales Convolucionales (CNNs)
+## [[Redes Neuronales Convolucionales (CNNs)]]
 
 * Concepto de convolución
 * Capas convolucionales, de pooling y completamente conectadas

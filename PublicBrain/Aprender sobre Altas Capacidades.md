@@ -53,7 +53,7 @@ tags:
 - Adaptaciones curriculares y programas especiales
 
 ## Tema 8: Modelo SEM (Socioemocional y Mental)
-- Enfoque integral para abordar las necesidades socioemocionales y mentales
+- [[Enfoque integral para abordar las necesidades socioemocionales y mentales de las personas con altas capacidades]]
 - Casos prácticos
 
 ## Tema 9: Adolescencia y Alta Capacidad

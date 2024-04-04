@@ -31,7 +31,7 @@ tags: []
 * [[Protocolos de comunicación en Redes]]
 * [[Modelos de referencia OSI y TCPIP]]
 * Direcciones IP y su estructura
-* Subredes y enrutamiento básico
+* [[Subredes y enrutamiento básico]]
 ## **Tecnologías y Dispositivos de Red**
 
 * [[Ethernet y tecnologías de cableado]]

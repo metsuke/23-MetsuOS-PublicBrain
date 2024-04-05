@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accesibilidad Cognitiva.md",
+                "file": "Casos prácticos (Altas Capacidades).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accesibilidad Cognitiva.md",
+                "file": "Casos prácticos (Altas Capacidades).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accesibilidad Cognitiva.md",
+                "file": "Casos prácticos (Altas Capacidades).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accesibilidad Cognitiva.md"
+                "file": "Casos prácticos (Altas Capacidades).md"
               }
             }
           },
@@ -176,8 +176,10 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "Casos prácticos (Altas Capacidades).md",
     "Accesibilidad Cognitiva.md",
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "Accesibilidad en Plataformas de Aprendizaje.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "Pauta 7 - Identificación y orientación.md",
@@ -200,8 +202,6 @@
     "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/Aprender sobre Historia Mundial del Videojuego.md",
-    "PublicBrain/Subredes y enrutamiento básico.md",
-    "PublicBrain/Recopilación y Preprocesamiento de Datos.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

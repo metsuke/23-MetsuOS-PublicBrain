@@ -54,7 +54,7 @@ tags:
 
 ## Tema 8: Modelo SEM (Socioemocional y Mental)
 - [[Enfoque integral para abordar las necesidades socioemocionales y mentales de las personas con altas capacidades]]
-- Casos prácticos
+- [[Casos prácticos (Altas Capacidades)]]
 
 ## Tema 9: Adolescencia y Alta Capacidad
 - Desafíos específicos en la adolescencia

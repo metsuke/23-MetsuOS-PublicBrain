@@ -67,7 +67,7 @@ Este rol se encarga de la gestión de recursos
 
 ## Cursos recomendados
 
-* [Busqueda en Platzi Rol Administración Negocios)](https://platzi.com/buscar/?search=Rol%20Administracion%20negocios)
+* [Búsqueda en Platzi Rol Administración Negocios)](https://platzi.com/buscar/?search=Rol%20Administracion%20negocios)
 * [Generación de Ruta en Platzi para el Rol Administración Negocios](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20administracion%20negocios)
 
  ### Escuelas Platzi Recomendadas

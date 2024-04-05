@@ -42,7 +42,7 @@ Este rol se encarga de entender bien necesidades de los clientes, definir con de
 
 ## Cursos recomendados
 
-* [Busqueda en Platzi Rol Gestión Empresarial)](https://platzi.com/buscar/?search=Rol%20Gesti%C3%B3n%20Empresarial)
+* [Búsqueda en Platzi Rol Gestión Empresarial)](https://platzi.com/buscar/?search=Rol%20Gesti%C3%B3n%20Empresarial)
 * [Generación de Ruta en Platzi para el Rol Gestión Empresarial](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20gestion%20empresarial)
 
  ### Escuelas Platzi Recomendadas

@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "104f661b297a5ae8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Aprender sobre Historia Mundial del Videojuego.md",
+                "file": "PublicBrain/Rol Gestión Empresarial.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Historia Mundial del Videojuego.md",
+                "file": "PublicBrain/Rol Gestión Empresarial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Historia Mundial del Videojuego.md",
+                "file": "PublicBrain/Rol Gestión Empresarial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Historia Mundial del Videojuego.md"
+                "file": "PublicBrain/Rol Gestión Empresarial.md"
               }
             }
           },
@@ -187,34 +174,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "104f661b297a5ae8",
+  "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "Definición de videojuego.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Rol Comercial.md",
+    "PublicBrain/Rol Administración Negocios.md",
+    "PublicBrain/Rol Account Manager.md",
+    "PublicBrain/GPT4All Testing.md",
+    "PublicBrain/Kanji.md",
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "PublicBrain/MPL (Metsuke Programming Languaje).md",
+    "PublicBrain/MosGPT project.md",
+    "PublicBrain/Pruebas de uso de GPU en Intel Mac.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
     "PublicBrain/Aprender sobre Historia Mundial del Videojuego.md",
+    "PublicBrain/Subredes y enrutamiento básico.md",
+    "PublicBrain/Recopilación y Preprocesamiento de Datos.md",
+    "PublicBrain/Introducción.md",
+    "PublicBrain/Introducción a la Cinemática y Dinámica.md",
+    "PublicBrain/Fundamentos de Economía.md",
+    "PublicBrain/Definición de videojuego.md",
+    "PublicBrain/Aprender sobre Economía.md",
+    "Definición de videojuego.md",
     "Fundamentos de Economía.md",
     "Aprender sobre Economía.md",
-    "PublicBrain/Aprender sobre Economía y Finanzas.md",
-    "PublicBrain/¿Porqué aprender economía?.md",
-    "PublicBrain/Roadmap para aprender economía.md",
-    "PublicBrain/Aprender sobre Finanzas Personales.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Redes e Internet.md",
-    "Subredes y enrutamiento básico.md",
-    "PublicBrain/Aprender más allá del orden del tiempo.md",
-    "Introducción a la Cinemática y Dinámica.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "Introducción.md",
-    "PublicBrain/Aprender sobre las pirncipales criptomonedas.md",
-    "Recopilación y Preprocesamiento de Datos.md",
-    "PublicBrain/Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md",
-    "PublicBrain/Aprender sobre la Relación entre Ciencia y Arte.md",
-    "Exploración de conceptos fundamentales de la relacion entre arte y ciencia.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender sobre PixiJS.md",
-    "PublicBrain/Qué es PixiJS y su historia.md",
-    "Qué es PixiJS y su historia.md",
-    "PublicBrain/GPT4All Testing.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

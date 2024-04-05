@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-31T01:02:32.661Z
-modified: 2024-04-03T20:19:14.658Z
+modified: 2024-04-04T19:49:26.034Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,4 +26,6 @@ tags:
  * Pruebas de prompting ultra específico.
  * [[Pruebas de uso de GPU en Intel Mac]] (ver repo si es posible usar meta aunque se este en Intel)
  * [[2024-03-31 - Primer Test con prompt en GPT4All]]
- 
+
+Si estas leyendo esto, dime hola en twitt... X ([@metsuke](https://twitter.com/metsuke))
+

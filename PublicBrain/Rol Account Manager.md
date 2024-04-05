@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-04T02:55:50.657Z
-modified: 2024-04-04T04:43:39.231Z
+modified: 2024-04-05T04:01:01.530Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -37,7 +37,7 @@ Este rol se encarga de mantener a todos los clientes con una sonrisa
 ## Capacidades
 * Tiene que entender lo que necesita el cliente incluso antes de convertirse en cliente.
 * Tienen que formular planes de marketing a largo plazo a fin de cumplir con los objetivos marcados.
-* Calcular pronosticos acciones marketing de modo que pueda prever frustraciones de cliente y suavizarlas, así como diseñar estrategia para cumplir objetivos de agencia y cliente.
+* Calcular pronósticos acciones marketing de modo que pueda prever frustraciones de cliente y suavizarlas, así como diseñar estrategia para cumplir objetivos de agencia y cliente.
 
 ## Habilidades
 * Ventas
@@ -66,13 +66,6 @@ Este rol se encarga de mantener a todos los clientes con una sonrisa
 	* Liderazgo.
 	* Curiosidad.
  
-## Cursos recomendados
-* Curso de Fidelización de Clientes
-* Curso de Inteligencia Emoicional para Servicio al Cliente.
-* Curso para Crear un Brief Creativo.
-* Liderazgo para Equipos Creativos
-* Liderazgo para Equipos de Marketing.
-* Escuela de Marketing Digital.
 
 ## Flujo de trabajo
 * Puesta en marcha.
@@ -82,3 +75,19 @@ Este rol se encarga de mantener a todos los clientes con una sonrisa
 * Proyecto en marcha
 	* Reuniones de avance
 	* Presentación de resultados.
+
+## Cursos recomendados
+
+* [Búsqueda en Platzi Rol Administración Negocios)](https://platzi.com/buscar/?search=Rol%20Account%20manager)
+* [Generación de Ruta en Platzi para el Rol Administración Negocios](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20Account%20manager)
+
+ ### Escuelas Platzi Recomendadas
+
+* [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
+* [Escuela de Negocios](https://platzi.com/escuela/negocios/)
+* [Escuela de Liderazgo y Management](https://platzi.com/escuela/liderazgo-management/)
+* [Escuela de Inglés](https://platzi.com/escuela/ingles/)
+* [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
+* [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
+* [Escuela de Startups](https://platzi.com/escuela/startups/)
+

@@ -28,7 +28,7 @@ tags:
 - [[Saludos y Presentaciones (A1-GE)]]
 - [[El Alfabeto Alemán (A1-GE)]]
 - [[Números y Fechas (A1-GE)]]
-- La Hora
+- [[La Hora (A1-GE)]]
 - Expresiones Cotidianas
 
 ## Módulo 2: Vida Cotidiana A1

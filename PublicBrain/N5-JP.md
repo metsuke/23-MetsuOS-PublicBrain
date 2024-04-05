@@ -47,7 +47,7 @@ tags:
 ## Módulo 4: Cultura y Sociedad Japonesa
 
 4.1. [[Costumbres y etiqueta japonesa (N5-JP)]]
-4.2. Festivales y celebraciones importantes.
+4.2. [[Festivales y celebraciones importantes (N5-JP)]]
 4.3. Introducción a la gastronomía japonesa.
 4.4. Aspectos básicos de la historia y geografía de Japón.
 

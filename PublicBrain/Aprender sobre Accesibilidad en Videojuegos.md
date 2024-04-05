@@ -53,7 +53,7 @@ tags:
    - Implementación de controles personalizados.
    - [[Diseño de niveles y mecánicas adaptativas]]
 
-## VII. Accesibilidad Cognitiva
+## VII. [[Accesibilidad Cognitiva]]
    - Simplificación de instrucciones y tutoriales.
    - Indicadores visuales y ayudas contextuales.
    - Estrategias para la comprensión de información.

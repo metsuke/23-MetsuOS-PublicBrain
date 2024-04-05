@@ -35,7 +35,7 @@ tags:
 - [[Saludos y presentaciones (HSK1-ZH)]]
 - [[Preguntar y dar información personal (HSK1-ZH)]]
 - [[Expresar agradecimiento y disculpa (HSK1-ZH)]]
-- Números y fechas en chino
+- [[Números y fechas en chino (HSK1-ZH)]]
 
 ## Módulo 3: Vida Cotidiana y Rutina
 

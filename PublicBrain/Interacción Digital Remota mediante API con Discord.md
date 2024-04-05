@@ -18,12 +18,8 @@ tags: []
 
 [[Aprender sobre Interacción Digital Remota mediante API]]
 
-## Introducción
-- Visión general del curso
-- Objetivos y metas
-- Requisitos previos
 ## Fundamentos de Discord
-- ¿Qué es Discord?
+- [[¿Qué es Discord?]]
 - Funcionalidades principales
 - Roles y permisos
 - Creación de un servidor Discord

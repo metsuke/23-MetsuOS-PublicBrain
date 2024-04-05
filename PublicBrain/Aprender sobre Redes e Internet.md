@@ -1,18 +1,21 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:51.000Z
-modified: 2024-04-04T19:32:19.789Z
+modified: 2024-04-05T04:20:31.966Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre Redes e Internet
 

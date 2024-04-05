@@ -1,18 +1,21 @@
 ---
-iaStatus: 0
+iaStatus: 1
 iaStatus_Model: ""
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-03-10T05:27:00.765Z
-modified: 2024-04-03T20:19:14.816Z
+modified: 2024-04-05T04:20:31.963Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre cultura internacional a través de los idiomas
 

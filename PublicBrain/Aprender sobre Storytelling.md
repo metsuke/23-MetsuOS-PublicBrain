@@ -1,18 +1,21 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:51.000Z
-modified: 2024-04-04T03:42:29.872Z
+modified: 2024-04-05T04:20:31.965Z
 ver_major: 0
-ver_minor: 1
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre Storytelling
 

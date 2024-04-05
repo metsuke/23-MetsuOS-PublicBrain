@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-05T04:15:11.407Z
+modified: 2024-04-05T04:20:26.129Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Festivales y celebraciones importantes (N5-JP)
 
 [[N5-JP]]

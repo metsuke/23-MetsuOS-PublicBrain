@@ -14,7 +14,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Documentación de la API de eBay y recursos de ayuda (ODRA-Ebay)
+# Documentación de la API de eBay y recursos de ayuda (IDRA-Ebay)
 
 [[Interacción Digital Remota mediante API con EBay]]
 

@@ -48,7 +48,7 @@ tags:
 - [[Directrices y mejores prácticas para desarrollar contenido accesible]]
 - [[Estrategias de diseño para texto, imágenes, multimedia y actividades interactivas]]
 
-## Accesibilidad en Plataformas de Aprendizaje
+## [[Accesibilidad en Plataformas de Aprendizaje]]
 - [[Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS)]]
 - [[Configuración y personalización para mejorar la accesibilidad]]
 

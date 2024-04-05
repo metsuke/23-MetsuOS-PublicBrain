@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-ES.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chess",
+                "query": "Básico HI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-ES.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-ES.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-ES.md"
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
               }
             }
           },
@@ -176,32 +175,32 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "Vocabulario para la rutina diaria (A1-ES).md",
+    "Arquitecturas famosas (LeNet, AlexNet, VGG, ResNet).md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "PublicBrain/Regularización (Dropout, L2, L1).md",
+    "El Proyecto.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "PublicBrain/Lección 1 - Qué es la Computación con Canicas.md",
+    "PublicBrain/Básico HI.md",
+    "PublicBrain/Básico-HI.md",
+    "PublicBrain/Aprender Idioma Hindi.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Español.md",
     "PublicBrain/A1-ES.md",
+    "PublicBrain/Vocabulario para la rutina diaria (A1-ES).md",
+    "PublicBrain/Operadores aritméticos, lógicos y de asignación en Lenguaje C.md",
+    "PublicBrain/Números y fechas en chino (HSK1-ZH).md",
+    "PublicBrain/Niveles Oficiales DA.md",
+    "PublicBrain/C2-DA.md",
+    "PublicBrain/C1-DA.md",
+    "PublicBrain/B2-DA.md",
+    "PublicBrain/B1-DA.md",
+    "PublicBrain/A2-DA.md",
+    "PublicBrain/A1-DA.md",
+    "Vocabulario para la rutina diaria (A1-ES).md",
     "PublicBrain/Aprender Idioma Danés.md",
     "C2-DA.md",
     "A1-DA.md",
-    "A2-DA.md",
-    "B1-DA.md",
-    "B2-DA.md",
-    "C1-DA.md",
-    "Niveles Oficiales DA.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender el Lenguaje C desde Cero.md",
-    "Operadores aritméticos, lógicos y de asignación en Lenguaje C.md",
-    "PublicBrain/HSK1-ZH.md",
-    "Números y fechas en chino (HSK1-ZH).md",
-    "PublicBrain/A1-GE.md",
-    "La Hora (A1-GE).md",
-    "PublicBrain/La Hora (A1-GE).md",
-    "PublicBrain/Aprender Idioma Aleman.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
-    "Interacción Digital Remota mediante API con Instagram.md",
-    "PublicBrain/Medios de transporte (A1-SW).md",
-    "PublicBrain/Interacción Digital Remota mediante API con Instagram.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

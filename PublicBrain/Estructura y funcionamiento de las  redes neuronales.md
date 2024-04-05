@@ -51,7 +51,7 @@ tags: []
 
 * Concepto de convolución
 * Capas convolucionales, de pooling y completamente conectadas
-* Arquitecturas famosas (LeNet, AlexNet, VGG, ResNet)
+* [[Arquitecturas famosas (LeNet, AlexNet, VGG, ResNet)]]
 * Transfer learning
 
 ## Redes Neuronales Recurrentes (RNNs)

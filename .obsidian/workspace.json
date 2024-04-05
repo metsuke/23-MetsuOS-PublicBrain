@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Casos prácticos (Altas Capacidades).md",
+                "file": "PublicBrain/A2-CA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Casos prácticos (Altas Capacidades).md",
+                "file": "PublicBrain/A2-CA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Casos prácticos (Altas Capacidades).md",
+                "file": "PublicBrain/A2-CA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Casos prácticos (Altas Capacidades).md"
+                "file": "PublicBrain/A2-CA.md"
               }
             }
           },
@@ -176,8 +176,15 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
+    "PublicBrain/Expresión de opiniones y gustos (A2-CA).md",
+    "PublicBrain/A2-CA.md",
+    "Expresión de opiniones y gustos (A2-CA).md",
+    "PublicBrain/Pauta 7 - Identificación y orientación.md",
+    "PublicBrain/Casos prácticos (Altas Capacidades).md",
+    "PublicBrain/Accesibilidad en Plataformas de Aprendizaje.md",
+    "PublicBrain/Accesibilidad Cognitiva.md",
     "Casos prácticos (Altas Capacidades).md",
+    "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Accesibilidad Cognitiva.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "Accesibilidad en Plataformas de Aprendizaje.md",
@@ -195,13 +202,6 @@
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "PublicBrain/MPL (Metsuke Programming Languaje).md",
-    "PublicBrain/MosGPT project.md",
-    "PublicBrain/Pruebas de uso de GPU en Intel Mac.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
-    "PublicBrain/Aprender sobre Historia Mundial del Videojuego.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

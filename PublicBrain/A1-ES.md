@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:48.000Z
-modified: 2024-04-03T20:19:14.894Z
+modified: 2024-04-05T06:18:47.909Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,7 +32,7 @@ tags:
 
 ## Módulo 2: Vida Cotidiana
 
-2.1. Vocabulario para la rutina diaria.
+2.1. [[Vocabulario para la rutina diaria (A1-ES)]]
 2.2. Descripción de actividades habituales.
 2.3. Hora y horarios básicos.
 2.4. Compras y alimentos básicos.

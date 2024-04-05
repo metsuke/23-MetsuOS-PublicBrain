@@ -46,7 +46,7 @@ tags:
   - [[Ejemplos de código (Python IA)]]
 - [[Entornos de desarrollo (IDEs) para IA]]
   - [[Jupyter Notebook]]
-  - Google Colab
+  - [[Google Colab]]
   - [[IDEs especializados en IA]]
 
 ## [[Recopilación y Preprocesamiento de Datos]]

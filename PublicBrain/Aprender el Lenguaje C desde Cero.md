@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:49.000Z
-modified: 2024-04-03T20:19:14.847Z
+modified: 2024-04-05T06:05:39.089Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,7 +39,7 @@ tags:
 	* [[Tipos básicos - int, float, char en Lenguaje C]]
 	* [[Declaración de variables y asignación en Lenguaje C]]
 * [[Operadores y Expresiones en Lenguaje C]]
-	* Operadores aritméticos, lógicos y de asignación
+	* [[Operadores aritméticos, lógicos y de asignación en Lenguaje C]]
 	* Precedencia de operadores
 * Estructuras de Control
 	* Estructuras condicionales: if, else, switch

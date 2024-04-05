@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:51.000Z
-modified: 2024-04-04T16:05:02.550Z
+modified: 2024-04-05T11:14:42.581Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ## Introducción a PixiJS y Gráficos Básicos
 
 - [[Qué es PixiJS y su historia]]
-- Configuración del entorno de desarrollo
+- [[Configuración del entorno de desarrollo (PixiJS)]]
 - Creación de un lienzo (canvas) en PixiJS
 - Dibujando formas básicas y gráficos
 ## Trabajo con Sprites y Texturas

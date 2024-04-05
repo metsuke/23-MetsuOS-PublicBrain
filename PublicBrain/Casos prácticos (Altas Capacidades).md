@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-05T04:11:28.285Z
+modified: 2024-04-05T04:14:23.200Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Casos prácticos (Altas Capacidades)
 
 [[Aprender sobre Altas Capacidades]]

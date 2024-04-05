@@ -22,7 +22,7 @@ tags: []
 
 ## Introducción a Pyxel
 - [[¿Qué es Pyxel?]]
-- Características y ventajas de Pyxel
+- [[Características y ventajas de Pyxel]]
 - Instalación y configuración del entorno de desarrollo
 
 ## Fundamentos de Pyxel

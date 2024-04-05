@@ -22,5 +22,8 @@ tags:
 [[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.#Aprender Idiomas]]
 
 * DA | [[Danés]]
-	* Niveles Oficiales DA
+	* [[Niveles Oficiales DA]]
+		* [[A1-DA]] | [[A2-DA]]
+		* [[B1-DA]] | [[B2-DA]]
+		* [[C1-DA]] | [[C2-DA]]
 	* Niveles y Exámenes Adicionales DA

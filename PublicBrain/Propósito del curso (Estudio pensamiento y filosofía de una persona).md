@@ -6,15 +6,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-04T03:08:16.175Z
-modified: 2024-04-04T04:43:39.235Z
+modified: 2024-04-05T11:27:15.954Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Propósito del curso (Estudio pensamiento y filosofia de una persona)
+# Propósito del curso (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona]]
 

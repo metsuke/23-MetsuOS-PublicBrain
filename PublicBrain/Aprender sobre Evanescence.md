@@ -10,6 +10,8 @@ lang: ES
 translations: 
 created: 2024-01-31T21:48:58.224Z
 modified: 2024-04-03T20:19:14.834Z
+supervisado: ""
+ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 24

@@ -7,6 +7,8 @@ lang: ES
 translations: 
 created: 2023-09-18T12:28:27.849Z
 modified: 2024-04-06T14:35:21.893Z
+supervisado: ""
+ACCION: ""
 ver_major: 0
 ver_minor: 1
 ver_rev: 32

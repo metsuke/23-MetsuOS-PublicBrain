@@ -53,7 +53,7 @@ tags:
 
 ## Módulo 5: Verbos Básicos
 
-- Verbos regulares e irregulares
+- [[Verbos regulares e irregulares (A1-AR)]]
 - Conjugación en presente
 - Verbos de acción y estado
 - Frases simples con verbos

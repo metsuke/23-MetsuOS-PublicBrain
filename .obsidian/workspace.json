@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepto de convolución.md",
+                "file": "Capas convolucionales, de pooling y completamente conectadas.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepto de convolución.md",
+                "file": "Capas convolucionales, de pooling y completamente conectadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepto de convolución.md",
+                "file": "Capas convolucionales, de pooling y completamente conectadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepto de convolución.md"
+                "file": "Capas convolucionales, de pooling y completamente conectadas.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Capas convolucionales, de pooling y completamente conectadas.md",
     "Concepto de convolución.md",
     "Modelo de secuencia y memoria a corto plazo.md",
     "PublicBrain/Títulos y etiquetas.md",
@@ -200,7 +201,6 @@
     "PublicBrain/Desafíos y oportunidades (Educativa de las AA. CC. en España).md",
     "PublicBrain/Index.md",
     "PublicBrain/Panorama actual (Educativa de las AA. CC. en España).md",
-    "PublicBrain/Tema 3 - Situación Educativa de las AA. CC. en España.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

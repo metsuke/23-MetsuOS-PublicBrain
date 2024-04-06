@@ -50,7 +50,7 @@ tags: []
 ## [[Redes Neuronales Convolucionales (CNNs)]]
 
 * [[Concepto de convolución]]
-* Capas convolucionales, de pooling y completamente conectadas
+* [[Capas convolucionales, de pooling y completamente conectadas]]
 * [[Arquitecturas famosas (LeNet, AlexNet, VGG, ResNet)]]
 * Transfer learning
 

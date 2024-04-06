@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Justificación (Estudio persamiento y filosofía de una persona).md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Justificación (Estudio persamiento y filosofía de una persona).md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Justificación (Estudio persamiento y filosofía de una persona).md",
+                "file": "PublicBrain/WCAG 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Justificación (Estudio persamiento y filosofía de una persona).md"
+                "file": "PublicBrain/WCAG 2.0.md"
               }
             }
           },
@@ -175,32 +175,32 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
-    "PublicBrain/Propósito del curso (Estudio pensamiento y filosofía de una persona).md",
-    "Justificación (Estudio persamiento y filosofía de una persona).md",
-    "PublicBrain/Aprender con Pablo Grueso.md",
-    "Los meses del año (A1-AR).md",
-    "PublicBrain/A1-AR.md",
-    "PublicBrain/Aprender sobre Economía y Finanzas.md",
-    "Principios de Microeconomía.md",
-    "PublicBrain/Aprender sobre Economía.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
-    "¿Qué es Discord?.md",
+    "Encabezados y etiquetas.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/WCAG 2.1.md",
+    "Títulos y etiquetas.md",
+    "PublicBrain/Aprender sobre Accesibilidad.md",
+    "Enlaces.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Pyxel.md",
-    "Características y ventajas de Pyxel.md",
-    "PublicBrain/Aprender sobre PixiJS.md",
-    "Configuración del entorno de desarrollo (PixiJS).md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "Google Colab.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "Arquitecturas famosas (LeNet, AlexNet, VGG, ResNet).md",
-    "PublicBrain/Regularización (Dropout, L2, L1).md",
-    "El Proyecto.md",
-    "PublicBrain/Aprender sobre Computar con Canicas.md",
-    "PublicBrain/Lección 1 - Qué es la Computación con Canicas.md",
-    "PublicBrain/Básico HI.md",
+    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
+    "PublicBrain/Justificación (Estudio persamiento y filosofía de una persona).md",
+    "PublicBrain/Propósito del curso (Estudio pensamiento y filosofía de una persona).md",
+    "PublicBrain/Aprender con Pablo Grueso.md",
+    "PublicBrain/Aprender con M-P.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "Rol Project Manager.md",
+    "PublicBrain/Rol Project Manager.md",
+    "PublicBrain/Rol Comercial.md",
+    "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Rol Account Manager.md",
+    "Justificación (Estudio persamiento y filosofía de una persona).md",
+    "PublicBrain/Principios de Microeconomía.md",
+    "PublicBrain/Los meses del año (A1-AR).md",
+    "PublicBrain/Google Colab.md",
+    "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md",
+    "PublicBrain/Características y ventajas de Pyxel.md",
+    "PublicBrain/Arquitecturas famosas (LeNet, AlexNet, VGG, ResNet).md",
+    "PublicBrain/¿Qué es Discord?.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-01-25T19:25:05.642Z
-modified: 2024-04-04T02:55:48.501Z
+modified: 2024-04-06T13:31:28.647Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 47
+ver_rev: 48
 nav_primary: 
 nav_secondary: 
 tags:
@@ -31,7 +31,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 	* [[PublicBrain/Rol Comercial|Comercial]]
 	* [[Rol Administración Negocios|Administración]]
 	* [[Rol Account Manager|Account Manager]]
-		* Project Manager
+		* [[Rol Project Manager|Project Manager]]
 			* Marketing
 				* Expertos en Embudos de ventas
 				* Expertos en e-mail marketing

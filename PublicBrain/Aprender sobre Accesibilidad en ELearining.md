@@ -61,7 +61,7 @@ tags:
 - [[Mantenimiento y seguimiento de la accesibilidad en el desarrollo de contenido futuro]]
 
 ## Sensibilización y Formación
-- Sensibilización sobre la importancia de la accesibilidad en E-Learning
+- [[Sensibilización sobre la importancia de la accesibilidad en E-Learning]]
 - Formación para diseñadores, desarrolladores y educadores sobre prácticas accesibles
 
 ## Casos de Estudio y Buenas Prácticas

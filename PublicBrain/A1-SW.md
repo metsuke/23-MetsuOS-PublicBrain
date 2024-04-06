@@ -70,7 +70,7 @@ tags:
 ### Lección 7: Miembros de la Familia
 
 - Nombres de familiares
-- Preguntar y hablar sobre la familia
+- [[Preguntar y hablar sobre la familia (A1-SW)]]
 - Relaciones familiares
 
 ### Lección 8: Amistad y Socialización

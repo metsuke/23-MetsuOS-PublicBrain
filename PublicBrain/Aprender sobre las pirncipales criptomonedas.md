@@ -19,9 +19,9 @@ tags: []
 [[Aprender sobre el Mundo Crypto]]
 
 ## [[Introducción]]
-- Visión general del curso
-- Objetivos y metas
-- Requisitos previos
+- [[Visión general del curso (Principales Criptomonedas)]]
+- Objetivos y metas (Principales Criptomonedas)
+- Requisitos previos (Principales Criptomonedas)
 
 ## Fundamentos de las criptomonedas
 - ¿Qué son las criptomonedas?

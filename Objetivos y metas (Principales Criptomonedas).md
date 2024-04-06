@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-06T18:42:32.272Z
+modified: 2024-04-06T18:44:32.788Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Objetivos y metas (Principales Criptomonedas)
 
 [[Aprender sobre las pirncipales criptomonedas]]

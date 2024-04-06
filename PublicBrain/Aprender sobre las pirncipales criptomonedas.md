@@ -6,22 +6,22 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-23T22:30:05.689Z
-modified: 2024-04-04T19:27:12.682Z
+modified: 2024-04-06T18:43:22.889Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Aprender sobre las pirncipales criptomonedas
+º# Aprender sobre las pirncipales criptomonedas
 
 [[Aprender sobre el Mundo Crypto]]
 
 ## [[Introducción]]
 - [[Visión general del curso (Principales Criptomonedas)]]
 - [[Objetivos y metas (Principales Criptomonedas)]]
-- Requisitos previos (Principales Criptomonedas)
+- [[Requisitos previos (Principales Criptomonedas)]]
 
 ## Fundamentos de las criptomonedas
 - ¿Qué son las criptomonedas?

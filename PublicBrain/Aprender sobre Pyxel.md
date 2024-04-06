@@ -23,7 +23,7 @@ tags: []
 ## Introducción a Pyxel
 - [[¿Qué es Pyxel?]]
 - [[Características y ventajas de Pyxel]]
-- Instalación y configuración del entorno de desarrollo
+-[[ Instalación y configuración del entorno de desarrollo]]
 
 ## Fundamentos de Pyxel
 - Estructura básica de un juego en Pyxel

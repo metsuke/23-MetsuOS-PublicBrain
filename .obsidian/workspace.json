@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabajo con Sprites y Texturas.md",
+                "file": "Instalación y configuración del entorno de desarrollo.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabajo con Sprites y Texturas.md",
+                "file": "Instalación y configuración del entorno de desarrollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabajo con Sprites y Texturas.md",
+                "file": "Instalación y configuración del entorno de desarrollo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabajo con Sprites y Texturas.md"
+                "file": "Instalación y configuración del entorno de desarrollo.md"
               }
             }
           },
@@ -175,8 +175,10 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre PixiJS.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "Instalación y configuración del entorno de desarrollo.md",
     "Trabajo con Sprites y Texturas.md",
+    "PublicBrain/Aprender sobre PixiJS.md",
     "Dibujando formas básicas y gráficos (PixiJS).md",
     "Creación de un lienzo (canvas) en PixiJS.md",
     "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
@@ -199,8 +201,6 @@
     "PublicBrain/Sensibilización sobre la importancia de la accesibilidad en E-Learning.md",
     "PublicBrain/Presentación y análisis de la metodología (Altas Capacidades).md",
     "PublicBrain/Planificación e implementación de mejoras de accesibilidad en cursos existentes.md",
-    "PublicBrain/Opciones de control y configuración.md",
-    "PublicBrain/Modelo de secuencia y memoria a corto plazo.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

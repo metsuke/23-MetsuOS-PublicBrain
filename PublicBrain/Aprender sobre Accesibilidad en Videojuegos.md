@@ -49,7 +49,7 @@ tags:
    - [[Alternativas para usuarios con problemas auditivos]].
 
 ## VI. Accesibilidad Motora
-   - Opciones de control y configuración.
+   - [[Opciones de control y configuración]]
    - [[Implementación de controles personalizados]]
    - [[Diseño de niveles y mecánicas adaptativas]]
 

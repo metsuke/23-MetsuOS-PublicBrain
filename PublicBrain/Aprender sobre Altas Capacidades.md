@@ -62,7 +62,7 @@ tags:
 
 ## Tema 10: MEET - Metodología Educativa de Estimulación del Talento por Blanca Santiago
 - [[Presentación y análisis de la metodología (Altas Capacidades)]]
-- Ejemplos de aplicación
+- [[Ejemplos de aplicación de metodologías (Altas Capacidades)]]
 
 ## Tema 11: Adultos y Altas Capacidades
 - Continuidad del apoyo en la vida adulta

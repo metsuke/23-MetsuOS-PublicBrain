@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-13T02:30:49.000Z
-modified: 2024-04-05T11:12:24.724Z
+modified: 2024-04-06T14:48:15.865Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -53,7 +53,7 @@ tags:
 
 - Adquisición de datos
 - Limpieza y normalización de datos
-- Exploración de datos (Data Exploration)
+- [[Exploración de datos (Data Exploration)]]
 - [[Ingeniería de características (Feature Engineering)]]
 
 ## Modelado y Entrenamiento en IA

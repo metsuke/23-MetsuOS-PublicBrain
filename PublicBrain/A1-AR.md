@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-12T10:14:15.000Z
-modified: 2024-04-05T11:24:49.514Z
+modified: 2024-04-06T19:26:50.288Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 29
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
@@ -48,7 +48,7 @@ tags:
 
 - [[Los días de la semana (A1-AR)]]
 - [[Los meses del año (A1-AR)]]
-- Expresar la hora
+- [[Expresar la hora (A1-AR)]]
 - Hablar de la fecha y el tiempo
 
 ## Módulo 5: Verbos Básicos

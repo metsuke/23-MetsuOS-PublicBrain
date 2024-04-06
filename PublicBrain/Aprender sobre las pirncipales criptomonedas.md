@@ -20,7 +20,7 @@ tags: []
 
 ## [[Introducción]]
 - [[Visión general del curso (Principales Criptomonedas)]]
-- Objetivos y metas (Principales Criptomonedas)
+- [[Objetivos y metas (Principales Criptomonedas)]]
 - Requisitos previos (Principales Criptomonedas)
 
 ## Fundamentos de las criptomonedas

@@ -6,10 +6,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-01T11:39:43.816Z
-modified: 2024-04-05T11:16:16.368Z
+modified: 2024-04-06T15:11:30.864Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -27,7 +27,7 @@ tags: []
 
 ## Fundamentos de Pyxel
 - [[Estructura básica de un juego en Pyxel]]
-- Creación de la ventana del juego
+- [[Creación de la ventana del juego en Pyxel]]
 - Conceptos de dibujo y gráficos en Pyxel
 - Manejo de eventos de entrada del usuario
 

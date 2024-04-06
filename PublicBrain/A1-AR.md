@@ -49,7 +49,7 @@ tags:
 - [[Los días de la semana (A1-AR)]]
 - [[Los meses del año (A1-AR)]]
 - [[Expresar la hora (A1-AR)]]
-- Hablar de la fecha y el tiempo
+- [[Hablar de la fecha y el tiempo (A1-AR)]]
 
 ## Módulo 5: Verbos Básicos
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de la investigación filosófica (Estudio persamiento y filosofía de una persona).md",
+                "file": "Ingeniería de características (Feature Engineering).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos de la investigación filosófica (Estudio persamiento y filosofía de una persona).md",
+                "file": "Ingeniería de características (Feature Engineering).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos de la investigación filosófica (Estudio persamiento y filosofía de una persona).md",
+                "file": "Ingeniería de características (Feature Engineering).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de la investigación filosófica (Estudio persamiento y filosofía de una persona).md"
+                "file": "Ingeniería de características (Feature Engineering).md"
               }
             }
           },
@@ -175,8 +175,10 @@
   },
   "active": "d8079bf025b31e97",
   "lastOpenFiles": [
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "Ingeniería de características (Feature Engineering).md",
     "Fundamentos de la investigación filosófica (Estudio persamiento y filosofía de una persona).md",
+    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
     "PublicBrain/Aprender con Pablo Grueso.md",
     "Metodología de enseñanza (Estudio persamiento y filosofía de una persona).md",
     "Objetivos de aprendizaje (Estudio persamiento y filosofía de una persona).md",
@@ -199,8 +201,6 @@
     "PublicBrain/Ejemplos de aplicación de metodologías (Altas Capacidades).md",
     "PublicBrain/Adaptaciones curriculares y programas especiales (Altas Capacidades).md",
     "Presentación y análisis de la metodología (Altas Capacidades).md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
-    "Ejemplos de aplicación de metodologías (Altas Capacidades).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

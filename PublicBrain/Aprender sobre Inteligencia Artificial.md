@@ -54,7 +54,7 @@ tags:
 - Adquisición de datos
 - Limpieza y normalización de datos
 - Exploración de datos (Data Exploration)
-- Ingeniería de características (Feature Engineering)
+- [[Ingeniería de características (Feature Engineering)]]
 
 ## Modelado y Entrenamiento en IA
 

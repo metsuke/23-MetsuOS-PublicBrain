@@ -24,7 +24,7 @@ tags:
 ## Curso sobre CPS (WIP)
 
 ### Introducción a CPS
-- ¿Qué es Complex Problem Solving?
+- [[¿Qué es Complex Problem Solving?]]
 - Importancia y aplicaciones de CPS en diversos campos.
 - Lo primero, otras perspectivas sobre CPS
 	- [[Vision del CPS de Javier G. Recuenco]]

@@ -30,9 +30,9 @@ tags:
 1.3. [[Hacer y responder preguntas (A2-CA)]]
 1.4. [[Expresión de opiniones y gustos (A2-CA)]]
 
-## Módulo 2: [[Vocabulario y Expresiones Cotidianas]]
+## Módulo 2: [[Vocabulario y Expresiones Cotidianas (A2-CA)]]
 
-2.1. Ampliación de vocabulario para la vida diaria.
+2.1. [[Ampliación de vocabulario para la vida diaria (A2-CA)]]
 2.2. Frases y expresiones idiomáticas comunes.
 2.3. Lenguaje coloquial y jerga informal.
 2.4. Uso de refranes y modismos.

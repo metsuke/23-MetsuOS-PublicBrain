@@ -30,7 +30,7 @@ tags:
    - D. [[Metodología de enseñanza (Estudio persamiento y filosofía de una persona)]]
    
 ## II. Marco Teórico
-   - A. Fundamentos de la investigación filosófica
+   - A. [[Fundamentos de la investigación filosófica (Estudio persamiento y filosofía de una persona)]]
    - B. Teorías de la mente y del conocimiento
    - C. Contexto histórico y cultural relevante
    

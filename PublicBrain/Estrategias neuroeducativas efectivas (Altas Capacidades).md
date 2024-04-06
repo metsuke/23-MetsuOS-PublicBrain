@@ -14,7 +14,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Estrategias neuroeducativas efectivas
+# Estrategias neuroeducativas efectivas (Altas Capacidades)
 
 [[Aprender sobre Altas Capacidades]]
 

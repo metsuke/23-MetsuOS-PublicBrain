@@ -14,7 +14,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Introducción a Neurología Cerebral y su aplicación en la Neuroeducación
+# Introducción a Neurología Cerebral y su aplicación en la Neuroeducación (Altas Capacidades)
 
 [[Aprender sobre Altas Capacidades]]
 

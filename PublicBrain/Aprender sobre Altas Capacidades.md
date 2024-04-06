@@ -27,12 +27,12 @@ tags:
 - [[Dimensiones del talento excepcional]]
 
 ## Tema 2: Neurofisiología Cerebral y su Aplicación en la Neuroeducación
-* [[Introducción a Neurología Cerebral y su aplicación en la Neuroeducación]]
+* [[Introducción a Neurología Cerebral y su aplicación en la Neuroeducación (Altas Capacidades)]]
 - [[Funcionamiento cerebral en personas de alta capacidad]]
-- [[Estrategias neuroeducativas efectivas]]
+- [[Estrategias neuroeducativas efectivas (Altas Capacidades)]]
 
-## [[Tema 3 - Situación Educativa de las AACC en España]]
-- [[Panorama actual (Educativa de las AACC en España)]]
+## [[Tema 3 - Situación Educativa de las AA. CC. en España]]
+- [[Panorama actual (Educativa de las AA. CC. en España)]]
 - [[Desafíos y oportunidades (Educativa de las AACC en España)]]
 - [[Mejores prácticas educativas (Educativa de las AACC en España)]]
 
@@ -50,7 +50,7 @@ tags:
 
 ## Tema 7: Marco Legal y Propuestas de Atención Educativa
 - [[Legislación relacionada con Altas Capacidades]]
-- Adaptaciones curriculares y programas especiales
+- [[Adaptaciones curriculares y programas especiales (Altas Capacidades)]]
 
 ## Tema 8: Modelo SEM (Socioemocional y Mental)
 - [[Enfoque integral para abordar las necesidades socioemocionales y mentales de las personas con altas capacidades]]

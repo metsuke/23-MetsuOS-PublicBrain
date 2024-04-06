@@ -14,7 +14,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Tema 3 - Situación Educativa de las AACC en España
+# Tema 3 - Situación Educativa de las AA. CC. en España
 
 [[Aprender sobre Altas Capacidades]]
 

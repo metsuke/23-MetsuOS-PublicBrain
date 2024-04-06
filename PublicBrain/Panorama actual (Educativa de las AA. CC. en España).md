@@ -14,7 +14,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Panorama actual (Educativa de las AACC en España)
+# Panorama actual (Educativa de las AA. CC. en España)
 
 [[Aprender sobre Altas Capacidades]]
 

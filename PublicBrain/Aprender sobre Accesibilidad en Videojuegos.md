@@ -59,7 +59,7 @@ tags:
    - Estrategias para la comprensión de información.
 
 ## VIII. Evaluación y Testeo de Accesibilidad
-   - Herramientas y métodos para evaluar la accesibilidad.
+   - [[Herramientas y métodos para evaluar la accesibilidad]]
    - Pruebas con usuarios reales.
    - Ciclo de retroalimentación y mejora continua.
 

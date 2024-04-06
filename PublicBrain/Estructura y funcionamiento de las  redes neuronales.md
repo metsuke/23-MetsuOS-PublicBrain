@@ -6,10 +6,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-09-18T12:28:27.849Z
-modified: 2024-04-05T11:09:42.869Z
+modified: 2024-04-06T14:35:21.893Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 31
+ver_rev: 32
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -49,7 +49,7 @@ tags: []
 
 ## [[Redes Neuronales Convolucionales (CNNs)]]
 
-* Concepto de convolución
+* [[Concepto de convolución]]
 * Capas convolucionales, de pooling y completamente conectadas
 * [[Arquitecturas famosas (LeNet, AlexNet, VGG, ResNet)]]
 * Transfer learning

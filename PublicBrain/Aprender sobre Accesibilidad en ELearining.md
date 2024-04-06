@@ -58,7 +58,7 @@ tags:
 
 ## Implementación de Mejoras de Accesibilidad
 - Planificación e implementación de mejoras de accesibilidad en cursos existentes
-- Mantenimiento y seguimiento de la accesibilidad en el desarrollo de contenido futuro
+- [[Mantenimiento y seguimiento de la accesibilidad en el desarrollo de contenido futuro]]
 
 ## Sensibilización y Formación
 - Sensibilización sobre la importancia de la accesibilidad en E-Learning

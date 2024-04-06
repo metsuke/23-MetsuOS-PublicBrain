@@ -57,7 +57,7 @@ tags:
 - [[Herramientas automáticas y manuales para evaluar la accesibilidad de cursos en línea]]
 
 ## Implementación de Mejoras de Accesibilidad
-- Planificación e implementación de mejoras de accesibilidad en cursos existentes
+- [[Planificación e implementación de mejoras de accesibilidad en cursos existentes]]
 - [[Mantenimiento y seguimiento de la accesibilidad en el desarrollo de contenido futuro]]
 
 ## Sensibilización y Formación

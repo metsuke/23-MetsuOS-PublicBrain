@@ -14,7 +14,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Mejores prácticas educativas (Educativa de las AACC en España)
+# Mejores prácticas educativas (Educativa de las AA. CC. en España)
 
 [[Aprender sobre Altas Capacidades]]
 

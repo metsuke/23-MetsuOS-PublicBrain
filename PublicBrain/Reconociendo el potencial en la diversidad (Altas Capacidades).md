@@ -14,7 +14,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Reconociendo el potencial en la diversidad
+# Reconociendo el potencial en la diversidad (Altas Capacidades)
 
 [[Aprender sobre Altas Capacidades]]
 

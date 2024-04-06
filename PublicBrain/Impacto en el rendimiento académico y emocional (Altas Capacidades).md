@@ -14,7 +14,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Impacto en el rendimiento académico y emocional
+# Impacto en el rendimiento académico y emocional (Altas Capacidades)
 
 [[Aprender sobre Altas Capacidades]]
 

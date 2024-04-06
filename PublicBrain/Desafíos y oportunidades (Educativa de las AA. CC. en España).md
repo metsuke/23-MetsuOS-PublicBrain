@@ -14,7 +14,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Desafíos y oportunidades (Educativa de las AACC en España)
+# Desafíos y oportunidades (Educativa de las AA. CC. en España)
 
 [[Aprender sobre Altas Capacidades]]
 

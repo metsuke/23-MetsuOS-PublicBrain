@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2023-12-05T22:20:55.877Z
-modified: 2024-04-05T04:11:27.345Z
+modified: 2024-04-06T14:31:08.702Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 32
+ver_rev: 33
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,15 +33,15 @@ tags:
 
 ## [[Tema 3 - Situación Educativa de las AA. CC. en España]]
 - [[Panorama actual (Educativa de las AA. CC. en España)]]
-- [[Desafíos y oportunidades (Educativa de las AACC en España)]]
-- [[Mejores prácticas educativas (Educativa de las AACC en España)]]
+- [[Desafíos y oportunidades (Educativa de las AA. CC. en España)]]
+- [[Mejores prácticas educativas (Educativa de las AA. CC. en España)]]
 
 ## Tema 4: Cambio de Mirada
 - [[Superando estereotipos]]
-- [[Reconociendo el potencial en la diversidad]]
+- [[Reconociendo el potencial en la diversidad (Altas Capacidades)]]
 
 ## Tema 5: Consecuencias de la Desatención
-- [[Impacto en el rendimiento académico y emocional]]
+- [[Impacto en el rendimiento académico y emocional (Altas Capacidades)]]
 - [[Estrategias de intervención (Altas Capacidades)]]
 
 ## Tema 6: "I"dentificación
@@ -61,7 +61,7 @@ tags:
 - Estrategias de apoyo y orientación
 
 ## Tema 10: MEET - Metodología Educativa de Estimulación del Talento por Blanca Santiago
-- Presentación y análisis de la metodología
+- [[Presentación y análisis de la metodología (Altas Capacidades)]]
 - Ejemplos de aplicación
 
 ## Tema 11: Adultos y Altas Capacidades

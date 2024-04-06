@@ -25,7 +25,7 @@ Bien, es hora de definir el Roadmap para estudiar economía, a falta de revisar 
 	- [[Principios de Microeconomía]]
 	- Principios de Macroeconomía
 	- Sociología para economistas.
-	- Política y Sociedad
+	- [[Política y Sociedad]]
 		- Política y Sociedad: Desarrollo Social
 		- Política y Sociedad: Desigualdad y Justicia Social
 	- Economía en la empresa.

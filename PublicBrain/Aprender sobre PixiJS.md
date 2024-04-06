@@ -27,7 +27,7 @@ tags:
 - [[Configuración del entorno de desarrollo (PixiJS)]]
 - [[Creación de un lienzo (canvas) en PixiJS]]
 - [[Dibujando formas básicas y gráficos (PixiJS)]]
-## Trabajo con Sprites y Texturas
+## [[Trabajo con Sprites y Texturas]]
 
 * Carga y gestión de imágenes y texturas
 * Creación y manipulación de sprites en PixiJS

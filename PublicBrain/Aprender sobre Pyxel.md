@@ -26,7 +26,7 @@ tags: []
 -[[ Instalación y configuración del entorno de desarrollo]]
 
 ## Fundamentos de Pyxel
-- Estructura básica de un juego en Pyxel
+- [[Estructura básica de un juego en Pyxel]]
 - Creación de la ventana del juego
 - Conceptos de dibujo y gráficos en Pyxel
 - Manejo de eventos de entrada del usuario

@@ -5,8 +5,8 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-04-06T14:35:22.395Z
-modified: 2024-04-06T14:37:17.162Z
+created: 2024-04-06T14:36:09.586Z
+modified: 2024-04-06T14:37:17.103Z
 ver_major: 0
 ver_minor: 1
 ver_rev: 1
@@ -16,7 +16,7 @@ tags: []
 ---
 # Modelo de secuencia y memoria a corto plazo
 
-[[Estr]
+[[Estructura y funcionamiento de las  redes neuronales]]
 
 El Modelo de Secuencia y Memoria a Corto Plazo (LSTM, por sus siglas en inglés) es un tipo de red neuronal recurrente que ha mostrado ser muy efectiva en tareas de procesamiento de lenguaje natural y en la generación de secuencias en general.
 

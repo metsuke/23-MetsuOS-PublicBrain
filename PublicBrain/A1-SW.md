@@ -62,7 +62,7 @@ tags:
 ### Lección 6: Transporte y Direcciones
 
 - [[Medios de transporte (A1-SW)]]
-- Dar y pedir direcciones
+- [[Dar y pedir direcciones (A1-SW)]]
 - Preguntar sobre ubicaciones
 
 ## Módulo 4: Familia y Relaciones

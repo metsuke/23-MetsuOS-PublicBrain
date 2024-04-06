@@ -9,10 +9,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-25T15:50:19.216Z
-modified: 2024-04-05T11:27:16.086Z
+modified: 2024-04-06T14:41:09.413Z
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ tags:
    - A. [[Propósito del curso (Estudio pensamiento y filosofía de una persona)]]
    - B. [[Justificación (Estudio persamiento y filosofía de una persona)]]
    - C. [[Objetivos de aprendizaje (Estudio persamiento y filosofía de una persona)]]
-   - D. Metodología de enseñanza
+   - D. [[Metodología de enseñanza (Estudio persamiento y filosofía de una persona)]]
    
 ## II. Marco Teórico
    - A. Fundamentos de la investigación filosófica

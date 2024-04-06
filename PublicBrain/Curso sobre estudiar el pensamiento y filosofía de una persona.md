@@ -26,7 +26,7 @@ tags:
 ## I. Introducción
    - A. [[Propósito del curso (Estudio pensamiento y filosofía de una persona)]]
    - B. [[Justificación (Estudio persamiento y filosofía de una persona)]]
-   - C. Objetivos de aprendizaje
+   - C. [[Objetivos de aprendizaje (Estudio persamiento y filosofía de una persona)]]
    - D. Metodología de enseñanza
    
 ## II. Marco Teórico

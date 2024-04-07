@@ -57,7 +57,7 @@ tags:
 
 ## VII. [[Accesibilidad Cognitiva]]
    - [[Simplificación de instrucciones y tutoriales]]
-   - Indicadores visuales y ayudas contextuales.
+   - [[Indicadores visuales y ayudas contextuales]]
    - [[Estrategias para la comprensión de información]]
 
 ## VIII. Evaluación y Testeo de Accesibilidad

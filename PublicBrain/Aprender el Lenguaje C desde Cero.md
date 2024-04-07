@@ -44,7 +44,7 @@ tags:
 	* [[Operadores aritméticos, lógicos y de asignación en Lenguaje C]]
 	* [[Precedencia de operadores en Lenguaje C]]
 * [[Estructuras de Control]]
-	* Estructuras condicionales: if, else, switch
+	* [[Estructuras condicionales - if, else, switch]]
 	* Bucles: for, while, do-while
 ## Funciones y Estructuras de Datos
 

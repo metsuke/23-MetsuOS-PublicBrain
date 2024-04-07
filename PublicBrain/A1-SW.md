@@ -77,7 +77,7 @@ tags:
 
 ### Lección 8: Amistad y Socialización
 
-- Conocer a nuevas personas
+- [[Conocer a nuevas personas (A1-SW)]]
 - Conversaciones sociales
 - Invitar a salir en Swahili
 

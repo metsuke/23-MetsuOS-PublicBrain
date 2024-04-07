@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.473Z
-modified: 2024-04-06T23:49:42.310Z
+modified: 2024-04-07T15:48:16.824Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -40,7 +40,7 @@ tags:
 
 ## Módulo 4: Tácticas y Jugadas Especiales
 - **Lección 10:** [[Tácticas básicas - clavada, horquilla, doble ataque]]
-- **Lección 11:** Enroque y jaque mate
+- **Lección 11:** [[Enroque y jaque mate en ajedrez]]
 - **Lección 12:** Reglas de empate y tablas
 
 ## Módulo 5: Estrategia Intermedia

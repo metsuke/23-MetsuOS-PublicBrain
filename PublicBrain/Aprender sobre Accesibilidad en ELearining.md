@@ -68,7 +68,7 @@ tags:
 
 ## Casos de Estudio y Buenas Prácticas
 - Ejemplos de implementación exitosa de accesibilidad en E-Learning
-- Estudio de casos, experiencias y lecciones aprendidas
+- [[Estudio de casos, experiencias y lecciones aprendidas]]
 
 ## Futuras Tendencias y Desafíos
 - Perspectivas sobre el futuro de la accesibilidad en E-Learning

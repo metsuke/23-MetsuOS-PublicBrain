@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Introducción a la empresa.
+# Introducción a la empresa
 
 [[Economía en la empresa]] | [[Aprender sobre Economía]]
 

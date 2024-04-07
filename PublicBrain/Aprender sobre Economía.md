@@ -31,8 +31,8 @@ Bien, es hora de definir el Roadmap para estudiar economía, a falta de revisar 
 		- [[Política y Sociedad - Desarrollo Social]]
 		- [[Política y Sociedad - Desigualdad y Justicia Social]]
 	- [[Economía en la empresa]]
-		- [[Introducción a la empresa.]]
-	        - Dirección Estratégica.
+		- [[Introducción a la empresa]]
+	        - [[Dirección Estratégica]]
 	- [[Historia de la Economía]]
 	- Programación para economistas.
 - Economía Estratégica

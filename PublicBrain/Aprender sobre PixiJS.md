@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-04-06T23:49:42.293Z
+modified: 2024-04-07T07:43:11.242Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
@@ -31,7 +31,7 @@ tags:
 - [[Dibujando formas básicas y gráficos (PixiJS)]]
 ## [[Trabajo con Sprites y Texturas]]
 
-* Carga y gestión de imágenes y texturas
+* [[Carga y gestión de imágenes y texturas (PixiJS)]]
 * Creación y manipulación de sprites en PixiJS
 * Anidando sprites y creando escenas interactivas
 * Aplicando transformaciones y animaciones a sprites

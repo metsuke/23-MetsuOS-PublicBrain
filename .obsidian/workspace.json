@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relaciones familiares (A1-SW).md",
+                "file": "Preguntar sobre ubicaciones (A1-SW).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relaciones familiares (A1-SW).md",
+                "file": "Preguntar sobre ubicaciones (A1-SW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relaciones familiares (A1-SW).md",
+                "file": "Preguntar sobre ubicaciones (A1-SW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relaciones familiares (A1-SW).md"
+                "file": "Preguntar sobre ubicaciones (A1-SW).md"
               }
             }
           },
@@ -164,6 +164,7 @@
   "active": "2d4e2a728ccbe566",
   "lastOpenFiles": [
     "PublicBrain/A1-SW.md",
+    "Preguntar sobre ubicaciones (A1-SW).md",
     "Relaciones familiares (A1-SW).md",
     "PublicBrain/A2-CA.md",
     "Los tiempos verbales en presente, pasado y futuro (A2-CA).md",
@@ -188,7 +189,6 @@
     "PublicBrain/Contexto histórico y cultural relevante (Estudio persamiento y filosofía de una persona).md",
     "PublicBrain/Conceptos de dibujo y gráficos en Pyxel.md",
     "PublicBrain/Carga y gestión de imágenes y texturas (PixiJS).md",
-    "PublicBrain/Anidando sprites y creando escenas interactivas.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

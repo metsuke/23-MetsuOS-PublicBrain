@@ -65,7 +65,7 @@ tags:
 
 - [[Medios de transporte (A1-SW)]]
 - [[Dar y pedir direcciones (A1-SW)]]
-- Preguntar sobre ubicaciones
+- [[Preguntar sobre ubicaciones (A1-SW)]]
 
 ## Módulo 4: Familia y Relaciones
 

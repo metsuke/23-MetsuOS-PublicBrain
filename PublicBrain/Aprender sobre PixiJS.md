@@ -32,7 +32,7 @@ tags:
 ## [[Trabajo con Sprites y Texturas]]
 
 * [[Carga y gestión de imágenes y texturas (PixiJS)]]
-* Creación y manipulación de sprites en PixiJS
+* [[Creación y manipulación de sprites en PixiJS]]
 * Anidando sprites y creando escenas interactivas
 * Aplicando transformaciones y animaciones a sprites
 ## Interacción de Usuario y Eventos

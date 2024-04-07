@@ -65,7 +65,7 @@ tags: []
 
 ## Redes Neuronales Generativas
 
-* Generación de datos y aplicaciones (GANs)
+* [[Generación de datos y aplicaciones (GANs)]]
 * Modelos autoencoder
 * Variational Autoencoders (VAEs)
 * Generación de imágenes y texto

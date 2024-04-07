@@ -24,7 +24,7 @@ tags:
 [[Hardware Libre - Memoria Volatil]]
 
 ## Introducción a ArduRAM
-- ¿Qué es ArduRAM?
+- [[¿Qué es ArduRAM?]]
 - Principios fundamentales y características.
 - Contexto histórico y evolución de ArduRAM.
 

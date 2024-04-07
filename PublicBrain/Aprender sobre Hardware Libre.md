@@ -31,7 +31,7 @@ tags:
 - Lección 3: [[Historia del movimiento del Hardware Libre]]
 - Lección 4: Licencias de Hardware Libre
 
-## Módulo 2: Plataformas de Hardware Libre
+## Módulo 2: [[Plataformas de Hardware Libre]]
 - Lección 1: Arduino y sus aplicaciones
 - Lección 2: Raspberry Pi y sus aplicaciones
 - Lección 3: Otras plataformas de Hardware Libre

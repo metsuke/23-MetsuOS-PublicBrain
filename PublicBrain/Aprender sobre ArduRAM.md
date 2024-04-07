@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.525Z
-modified: 2024-04-06T23:49:42.302Z
+modified: 2024-04-07T18:19:06.203Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,7 @@ tags:
 ## Introducción a ArduRAM
 - [[¿Qué es ArduRAM?]]
 - Principios fundamentales y características.
-- Contexto histórico y evolución de ArduRAM.
+- [[Contexto histórico y evolución de ArduRAM]]
 
 ## Fundamentos de la Memoria Volátil
 - Conceptos básicos de la memoria volátil.

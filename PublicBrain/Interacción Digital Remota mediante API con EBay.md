@@ -38,7 +38,7 @@ tags:
 
 ## Exploración de los Endpoints Principales
 - [[Consulta de productos disponibles (IDRA-Ebay)]]
-- Búsqueda avanzada
+- [[Búsqueda avanzada (IDRA-Ebay)]]
 - Gestión de pedidos y transacciones
 - Administración de cuentas de usuario
 - Acceso a datos de vendedores y compradores

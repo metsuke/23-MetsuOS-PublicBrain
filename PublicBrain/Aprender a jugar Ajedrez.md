@@ -23,9 +23,7 @@ tags:
 
 [[PublicBrain/Index]]
 
-# Curso: Aprender Ajedrez, de cero a pro
-
-## Módulo 1: "I"ntroducción al Ajedrez
+## Módulo 1: "Introducción al Ajedrez
 - [[Historia y origen del ajedrez]]
 - [[Configuración del tablero y piezas en ajedrez]]
 - **Lección 3** Reglas básicas del juego en ajedrez
@@ -38,7 +36,7 @@ tags:
 ## Módulo 3: Estrategia Inicial
 - **Lección 7:** Apertura: principios básicos
 - **Lección 8:** [[Desarrollo de las piezas en ajedrez]]
-- **Lección 9:** Control del centro del tablero
+- **Lección 9:** [[Control del centro del tablero en ajedrez]]
 
 ## Módulo 4: Tácticas y Jugadas Especiales
 - **Lección 10:** [[Tácticas básicas - clavada, horquilla, doble ataque]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definición de Computación Mecánica.md",
+                "file": "Variables y tipos de datos (Computación Mecánica).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definición de Computación Mecánica.md",
+                "file": "Variables y tipos de datos (Computación Mecánica).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definición de Computación Mecánica.md",
+                "file": "Variables y tipos de datos (Computación Mecánica).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definición de Computación Mecánica.md"
+                "file": "Variables y tipos de datos (Computación Mecánica).md"
               }
             }
           },
@@ -176,6 +176,7 @@
   "active": "3d199c28412a7046",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre computación mecánica.md",
+    "Variables y tipos de datos (Computación Mecánica).md",
     "Definición de Computación Mecánica.md",
     "PublicBrain/Introducción a la Computación Mecánica.md",
     "Introducción a la Computación Mecánica.md",
@@ -200,7 +201,6 @@
     "PublicBrain/Aprender sobre Geografía de Talador (Draenor) en World of Warcraft.md",
     "PublicBrain/Aprender sobre Geografía de Nazmir (Zandalar) en World of Warcraft.md",
     "PublicBrain/Aprender sobre Geografía de Gorgond (Draenor) en World of Warcraft.md",
-    "PublicBrain/Aprender sobre Geografía de Draenor en World of Warcraft.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

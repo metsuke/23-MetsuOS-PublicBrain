@@ -31,7 +31,7 @@ tags:
 2. Fundamentos de Programación
     - Introducción a la programación
     - Conceptos básicos de algoritmos
-    - Variables y tipos de datos
+    - [[Variables y tipos de datos (Computación Mecánica)]]
     - Estructuras de control (condicionales y bucles)
     - Funciones y procedimientos
     - Manipulación de archivos

@@ -37,7 +37,7 @@ tags:
    - C. [[Contexto histórico y cultural relevante (Estudio persamiento y filosofía de una persona)]]
    
 ## III. Metodología de Investigación
-   - A. Diseño de la investigación
+   - A. [[Diseño de la investigación (Estudio persamiento y filosofía de una persona)]]
    - B. Selección de fuentes primarias y secundarias
    - C. Técnicas de análisis filosófico
    - D. Ética en la investigación filosófica

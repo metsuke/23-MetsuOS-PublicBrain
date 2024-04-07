@@ -37,7 +37,7 @@ tags:
 2.1. [[Ampliación de vocabulario para la vida diaria (A2-CA)]]
 2.2. [[Frases y expresiones idiomáticas comunes (A2-CA)]]
 2.3. [[Lenguaje coloquial y jerga informal (A2-CA)]]
-2.4. Uso de refranes y modismos.
+2.4. [[Uso de refranes y modismos (A2-CA)]]
 
 ## Módulo 3: Gramática Fundamental
 

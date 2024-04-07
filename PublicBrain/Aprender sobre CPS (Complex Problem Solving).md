@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.530Z
-modified: 2024-04-06T23:49:42.302Z
+modified: 2024-04-07T08:01:52.126Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,7 +34,7 @@ tags:
 
 ### Teorías y Modelos de Resolución de Problemas
 - Teorías cognitivas y psicológicas relacionadas con la resolución de problemas.
-- Modelos de procesos de resolución de problemas.
+- [[Modelos de procesos de resolución de problemas]]
 - Análisis comparativo de enfoques y modelos.
 
 ### Componentes de CPS

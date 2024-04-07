@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.519Z
-modified: 2024-04-06T23:49:42.303Z
+modified: 2024-04-07T07:23:49.510Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 37
+ver_rev: 38
 nav_primary: 
 nav_secondary: 
 tags:
@@ -56,7 +56,7 @@ tags:
    - [[Diseño de niveles y mecánicas adaptativas]]
 
 ## VII. [[Accesibilidad Cognitiva]]
-   - Simplificación de instrucciones y tutoriales.
+   - [[Simplificación de instrucciones y tutoriales]]
    - Indicadores visuales y ayudas contextuales.
    - [[Estrategias para la comprensión de información]]
 

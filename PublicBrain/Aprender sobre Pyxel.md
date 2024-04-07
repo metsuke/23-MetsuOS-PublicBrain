@@ -34,7 +34,7 @@ tags: []
 - [[Manejo de eventos de entrada del usuario]]
 
 ## Elementos Gráficos en Pyxel
-- Dibujando formas geométricas básicas
+- [[Dibujando formas geométricas básicas (Pyxel)]]
 - Carga y visualización de sprites
 - Creación de animaciones simples
 - Uso de paletas de colores y modos de mezcla

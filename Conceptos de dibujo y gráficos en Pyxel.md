@@ -2,7 +2,6 @@
 
 [[Aprender sobre Pyxel]]
 
-
 Por supuesto, en el contexto de aprender sobre Pyxel, es importante comprender los conceptos básicos de dibujo y gráficos que son fundamentales para utilizar esta herramienta de creación de pixel art. Aquí tienes una descripción de algunos de los conceptos clave:
 
 1. **Pixel Art:**

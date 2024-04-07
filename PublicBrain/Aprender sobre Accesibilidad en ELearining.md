@@ -72,7 +72,7 @@ tags:
 
 ## Futuras Tendencias y Desafíos
 - Perspectivas sobre el futuro de la accesibilidad en E-Learning
-- Desafíos emergentes y áreas de desarrollo futuro
+- [[Desafíos emergentes y áreas de desarrollo futuro]]
 
 ## Conclusiones y Recursos Adicionales
 - Resumen de los conceptos clave y conclusiones del curso

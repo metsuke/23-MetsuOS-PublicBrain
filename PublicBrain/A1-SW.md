@@ -73,7 +73,7 @@ tags:
 
 - [[Nombres de familiares (A1-SW)]]
 - [[Preguntar y hablar sobre la familia (A1-SW)]]
-- Relaciones familiares
+- [[Relaciones familiares (A1-SW)]]
 
 ### Lección 8: Amistad y Socialización
 

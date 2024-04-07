@@ -71,7 +71,7 @@ tags:
 - [[Desarrollo profesional y personal]]
 
 ## Conclusiones y Recursos Adicionales
-- Síntesis del curso
+- [[Síntesis del curso]]
 - Recursos para seguir aprendiendo
 
 ## Evaluación del Curso

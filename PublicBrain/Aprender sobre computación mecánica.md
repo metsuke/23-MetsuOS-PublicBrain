@@ -19,11 +19,11 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Computación Mecánica
+# Aprender sobre computación mecánica
 
 [[PublicBrain/Index]]
 
-1. Introducción a la Computación Mecánica
+1. [[Introducción a la Computación Mecánica]]
     - Definición de Computación Mecánica
     - Importancia y aplicaciones en la ingeniería
     - Breve historia y evolución de la Computación Mecánica

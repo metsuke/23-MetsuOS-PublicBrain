@@ -28,7 +28,7 @@ tags:
 ## Módulo 1: "I"ntroducción al Hardware Libre
 - Lección 1: ¿Qué es el Hardware Libre?
 - Lección 2: Principios y filosofía del Hardware Libre
-- Lección 3: "H"istoria del movimiento del Hardware Libre
+- Lección 3: [[Historia del movimiento del Hardware Libre]]
 - Lección 4: Licencias de Hardware Libre
 
 ## Módulo 2: Plataformas de Hardware Libre

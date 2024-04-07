@@ -30,7 +30,7 @@ tags: []
 ## Fundamentos de Pyxel
 - [[Estructura básica de un juego en Pyxel]]
 - [[Creación de la ventana del juego en Pyxel]]
-- Conceptos de dibujo y gráficos en Pyxel
+- [[Conceptos de dibujo y gráficos en Pyxel]]
 - Manejo de eventos de entrada del usuario
 
 ## Elementos Gráficos en Pyxel

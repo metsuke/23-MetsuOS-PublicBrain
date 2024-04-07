@@ -40,7 +40,7 @@ tags:
 - [[Consulta de productos disponibles (IDRA-Ebay)]]
 - [[Búsqueda avanzada (IDRA-Ebay)]]
 - [[Gestión de pedidos y transacciones (IDRA-Ebay)]]
-- Administración de cuentas de usuario
+- [[Administración de cuentas de usuario (IDRA-Ebay)]]
 - Acceso a datos de vendedores y compradores
 
 ## Implementación de Operaciones CRUD

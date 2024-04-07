@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Síntesis del curso.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Síntesis del curso.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Síntesis del curso.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Síntesis del curso.md"
+                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
               }
             }
           },
@@ -163,8 +163,22 @@
   },
   "active": "2d4e2a728ccbe566",
   "lastOpenFiles": [
+    "Transfer learning.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Síntesis del curso.md",
+    "PublicBrain/Teclado.md",
+    "PublicBrain/Síntesis del curso.md",
+    "PublicBrain/Simplificación de instrucciones y tutoriales.md",
+    "PublicBrain/Pauta 8 - Texto legible y comprensible.md",
+    "PublicBrain/Indicadores visuales y ayudas contextuales.md",
+    "PublicBrain/Formación para diseñadores, desarrolladores y educadores sobre prácticas accesibles.md",
+    "PublicBrain/Estudio de casos, experiencias y lecciones aprendidas.md",
+    "PublicBrain/Estrategias para la comprensión de información.md",
+    "PublicBrain/Estrategias de apoyo y orientación.md",
+    "PublicBrain/Desarrollo profesional y personal.md",
+    "PublicBrain/Desafíos emergentes y áreas de desarrollo futuro.md",
+    "PublicBrain/Abreviaturas y acrónimos.md",
     "Desarrollo profesional y personal.md",
     "Estrategias de apoyo y orientación.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
@@ -175,20 +189,6 @@
     "Estudio de casos, experiencias y lecciones aprendidas.md",
     "Desafíos emergentes y áreas de desarrollo futuro.md",
     "Formación para diseñadores, desarrolladores y educadores sobre prácticas accesibles.md",
-    "Pauta 8 - Texto legible y comprensible.md",
-    "PublicBrain/WCAG 2.0.md",
-    "Teclado.md",
-    "PublicBrain/Aprender sobre Accesibilidad.md",
-    "PublicBrain/WCAG 2.1.md",
-    "Abreviaturas y acrónimos.md",
-    "PublicBrain/Rol Project Manager.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
-    "PublicBrain/Rol Account Manager.md",
-    "PublicBrain/A1-ES.md",
-    "PublicBrain/A2-ES.md",
-    "PublicBrain/A2-CA.md",
-    "PublicBrain/A1-PL.md",
-    "PublicBrain/A1-EO.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

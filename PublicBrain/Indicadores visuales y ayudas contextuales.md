@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-07T07:25:05.274Z
+modified: 2024-04-07T07:30:47.447Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Indicadores visuales y ayudas contextuales
 
 [[Aprender sobre Accesibilidad en Videojuegos]]

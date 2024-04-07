@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.595Z
-modified: 2024-04-06T23:49:42.291Z
+modified: 2024-04-07T15:51:58.309Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 24
+ver_rev: 25
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,4 +20,5 @@ tags: []
 
 [[PublicBrain/Index]]
 
-* [[Aprender sobre el Lore de World of Warcraft]]
+* [[Aprender sobre Geografía de World of Warcraft]]
+* [[Aprender sobre el Lore de World of Warcraft|Aprender sobre Lore de World of Warcraft]]

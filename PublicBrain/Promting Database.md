@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.616Z
-modified: 2024-04-07T09:25:20.806Z
+modified: 2024-04-07T15:54:29.676Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 32
+ver_rev: 33
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,6 +34,10 @@ En el contexto "Aprender Idioma Chino", dame un índice de tematicas exhaustiva 
 En el contexto de "Aprender sobre Interacción Digital Remota mediante API" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "Interacción Digital Remota mediante API con Discord". Dámelo en markdown para poder copiarlo.
 
 *En el contexto de "CONTEXTO" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "TEMA". Dámelo en markdown para poder copiarlo.
+
+*En el contexto de "Aprender sobre Geografía en World of Warcraft" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "Aprender sobre Geografía de Nazmir (Zandalar) en World of Warcraft". Dámelo en markdown para poder copiarlo.
+
+
 	* DEPRECATED: En el contexto de "CONTEXTO" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "TEMA". Dámelo en markdown para poder copiarlo , con encabezados ## para los modulos. Tras cada ## debe haber una linea en blanco. Por favor no incluyas la palabra Leccion en los puntos de las lecciones. Desarrolla el contenido de cada modulo de forma exhaustiva y detallada
 * En el contexto de "CONTEXTO" puedes hablarme sobre "TEMA".
 ## Aprender Idiomas

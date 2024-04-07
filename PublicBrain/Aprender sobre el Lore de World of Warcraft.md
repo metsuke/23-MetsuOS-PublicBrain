@@ -6,15 +6,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.620Z
-modified: 2024-04-06T23:49:42.289Z
+modified: 2024-04-07T15:51:24.596Z
 supervisado: ""
-ACCION: ""
+ACCION: 
 ver_major: 0
 ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre el Lore de World of Warcraft
 

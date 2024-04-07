@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generación de datos y aplicaciones (GANs).md",
+                "file": "Variational Autoencoders (VAEs).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generación de datos y aplicaciones (GANs).md",
+                "file": "Variational Autoencoders (VAEs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generación de datos y aplicaciones (GANs).md",
+                "file": "Variational Autoencoders (VAEs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generación de datos y aplicaciones (GANs).md"
+                "file": "Variational Autoencoders (VAEs).md"
               }
             }
           },
@@ -164,6 +164,7 @@
   "active": "2d4e2a728ccbe566",
   "lastOpenFiles": [
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Variational Autoencoders (VAEs).md",
     "Generación de datos y aplicaciones (GANs).md",
     "Transfer learning.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
@@ -188,7 +189,6 @@
     "Estrategias para la comprensión de información.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "Estudio de casos, experiencias y lecciones aprendidas.md",
-    "Desafíos emergentes y áreas de desarrollo futuro.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

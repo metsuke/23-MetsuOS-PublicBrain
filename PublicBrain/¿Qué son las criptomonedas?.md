@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-07T18:59:45.151Z
+modified: 2024-04-07T19:05:54.386Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # ¿Qué son las criptomonedas?
 
 [[Aprender sobre las pirncipales criptomonedas]]

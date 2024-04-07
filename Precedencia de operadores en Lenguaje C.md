@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-07T19:04:22.953Z
+modified: 2024-04-07T19:05:54.350Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Precedencia de operadores en Lenguaje C
 
 [[Aprender el Lenguaje C desde Cero]]

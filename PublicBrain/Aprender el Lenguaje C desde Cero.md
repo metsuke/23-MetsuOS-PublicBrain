@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.514Z
-modified: 2024-04-06T23:49:42.304Z
+modified: 2024-04-07T19:04:57.042Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 29
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
@@ -43,7 +43,7 @@ tags:
 * [[Operadores y Expresiones en Lenguaje C]]
 	* [[Operadores aritméticos, lógicos y de asignación en Lenguaje C]]
 	* [[Precedencia de operadores en Lenguaje C]]
-* Estructuras de Control
+* [[Estructuras de Control]]
 	* Estructuras condicionales: if, else, switch
 	* Bucles: for, while, do-while
 ## Funciones y Estructuras de Datos

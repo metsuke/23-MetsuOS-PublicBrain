@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dibujando formas geométricas básicas (Pyxel).md",
+                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dibujando formas geométricas básicas (Pyxel).md",
+                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dibujando formas geométricas básicas (Pyxel).md",
+                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dibujando formas geométricas básicas (Pyxel).md"
+                "file": "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md"
               }
             }
           },
@@ -163,8 +163,25 @@
   },
   "active": "2d4e2a728ccbe566",
   "lastOpenFiles": [
+    "Enfoque histórico y evolución de la resolución de problemas complejos.md",
+    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
     "PublicBrain/Aprender sobre Pyxel.md",
     "Dibujando formas geométricas básicas (Pyxel).md",
+    "PublicBrain/Variational Autoencoders (VAEs).md",
+    "PublicBrain/Transfer learning.md",
+    "PublicBrain/Teorías de la mente y del conocimiento (Estudio persamiento y filosofía de una persona).md",
+    "PublicBrain/Selección de algoritmos de aprendizaje automático.md",
+    "PublicBrain/Manejo de eventos de entrada del usuario.md",
+    "PublicBrain/Limpieza y normalización de datos.md",
+    "PublicBrain/Generación de datos y aplicaciones (GANs).md",
+    "PublicBrain/Diseño de la investigación (Estudio persamiento y filosofía de una persona).md",
+    "PublicBrain/Dibujando formas geométricas básicas (Pyxel).md",
+    "PublicBrain/Creación y manipulación de sprites en PixiJS.md",
+    "PublicBrain/Contexto histórico y cultural relevante (Estudio persamiento y filosofía de una persona).md",
+    "PublicBrain/Conceptos de dibujo y gráficos en Pyxel.md",
+    "PublicBrain/Carga y gestión de imágenes y texturas (PixiJS).md",
+    "PublicBrain/Anidando sprites y creando escenas interactivas.md",
+    "PublicBrain/Adquisición de datos.md",
     "Manejo de eventos de entrada del usuario.md",
     "Conceptos de dibujo y gráficos en Pyxel.md",
     "PublicBrain/Aprender sobre PixiJS.md",
@@ -172,23 +189,6 @@
     "Creación y manipulación de sprites en PixiJS.md",
     "Carga y gestión de imágenes y texturas (PixiJS).md",
     "Adquisición de datos.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "Selección de algoritmos de aprendizaje automático.md",
-    "Limpieza y normalización de datos.md",
-    "Diseño de la investigación (Estudio persamiento y filosofía de una persona).md",
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
-    "Contexto histórico y cultural relevante (Estudio persamiento y filosofía de una persona).md",
-    "Teorías de la mente y del conocimiento (Estudio persamiento y filosofía de una persona).md",
-    "Variational Autoencoders (VAEs).md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "Generación de datos y aplicaciones (GANs).md",
-    "Transfer learning.md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
-    "Síntesis del curso.md",
-    "PublicBrain/Teclado.md",
-    "PublicBrain/Síntesis del curso.md",
-    "PublicBrain/Simplificación de instrucciones y tutoriales.md",
-    "PublicBrain/Pauta 8 - Texto legible y comprensible.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

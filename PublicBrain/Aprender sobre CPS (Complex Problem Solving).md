@@ -30,7 +30,7 @@ tags:
 - [[Importancia y aplicaciones de CPS en diversos campos]]
 - [[Lo primero, otras perspectivas sobre CPS]]
 	- [[Vision del CPS de Javier G. Recuenco]]
-- Enfoque histórico y evolución de la resolución de problemas complejos.
+- [[Enfoque histórico y evolución de la resolución de problemas complejos]]
 
 ### Teorías y Modelos de Resolución de Problemas
 - Teorías cognitivas y psicológicas relacionadas con la resolución de problemas.

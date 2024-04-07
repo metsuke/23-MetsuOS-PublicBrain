@@ -64,7 +64,7 @@ tags:
 
 ## Sensibilización y Formación
 - [[Sensibilización sobre la importancia de la accesibilidad en E-Learning]]
-- Formación para diseñadores, desarrolladores y educadores sobre prácticas accesibles
+- [[Formación para diseñadores, desarrolladores y educadores sobre prácticas accesibles]]
 
 ## Casos de Estudio y Buenas Prácticas
 - Ejemplos de implementación exitosa de accesibilidad en E-Learning

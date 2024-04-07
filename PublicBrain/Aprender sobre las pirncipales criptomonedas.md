@@ -26,7 +26,7 @@ tags: []
 - [[Requisitos previos (Principales Criptomonedas)]]
 
 ## [[Fundamentos de las criptomonedas]]
-- ¿Qué son las criptomonedas?
+- [[¿Qué son las criptomonedas?]]
 - Historia y evolución del mercado de criptomonedas
 - Principales características y beneficios
 - Conceptos clave: blockchain, descentralización, criptografía, consenso, etc.

@@ -5,23 +5,23 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-04-06T19:13:58.478Z
-modified: 2024-04-06T23:34:09.696Z
-supervisado: 
- 
-: 
- 
- 
- 
+created: 2024-04-06T23:48:58.350Z
+modified: 2024-04-06T23:49:41.387Z
+supervisado: ""
+ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 3
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
----# Frases y expresiones idiomáticas comunes (A2-CA)
+---
+# Frases y expresiones idiomáticas comunes (A2-CA)
+
 [[A2-CA]]
+
 Claro, aquí te dejo algunas frases y expresiones idiomáticas comunes en catalán:
+
 1. "És com tallar un standing d'ous" - Se usa para expresar que algo es muy fácil de hacer.
 2. "Anar amb peus de plom" - Significa ir con mucha precaución o lentitud en una situación.
 3. "Fer castell de xinxes" - Se refiere a hacer suposiciones o teorías sin tener una base sólida.
@@ -32,4 +32,5 @@ Claro, aquí te dejo algunas frases y expresiones idiomáticas comunes en catal�
 8. "Ser com un ou" - Se utiliza para describir a algo o alguien que está en un estado deplorable o en mal estado.
 9. "Batre's el cobre" - Significa luchar o enfrentarse a una situación difícil.
 10. "En un per sobre de l'altre" - Indica que algo está apilado uno encima de otro.
+
 Estas son solo algunas de las muchas frases y expresiones idiomáticas comunes en catalán que puedes encontrarte en tu aprendizaje. ¡Espero que te sean de ayuda!

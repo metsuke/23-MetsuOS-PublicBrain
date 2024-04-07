@@ -5,20 +5,20 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-04-06T19:25:13.017Z
-modified: 2024-04-06T23:34:09.191Z
-supervisado: 
- 
-: 
- 
- 
- 
+created: 2024-04-06T23:48:58.352Z
+modified: 2024-04-06T23:49:41.386Z
+supervisado: ""
+ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 3
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
----# Preguntar y hablar sobre la familia (A1-SW)
+---
+# Preguntar y hablar sobre la familia (A1-SW)
+
 [[A1-SW]]
+
 En Swahili, para preguntar sobre la familia, puedes decir: "Unafamilia gani?" que significa "¿Qué familia tienes?" Para hablar sobre tu familia, puedes decir: "Mimi nina baba, mama, kaka, na dada" que significa "Tengo un padre, una madre, un hermano y una hermana". También puedes preguntar a alguien más sobre su familia diciendo: "Je, una baba au mama?" que significa "¿Tienes padre o madre?" o "Una kaka au dada?" que significa "¿Tienes hermano o hermana?". Estas son algunas formas simples de preguntar y hablar sobre la familia en Swahili nivel A1.
+

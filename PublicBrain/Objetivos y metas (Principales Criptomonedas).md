@@ -5,13 +5,13 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-04-06T18:42:32.272Z
-modified: 2024-04-06T18:44:32.788Z
+created: 2024-04-06T23:49:00.548Z
+modified: 2024-04-06T23:49:41.749Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []

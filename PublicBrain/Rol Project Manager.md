@@ -5,13 +5,13 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-04-06T13:31:31.521Z
-modified: 2024-04-06T13:34:22.879Z
+created: 2024-04-06T23:49:00.655Z
+modified: 2024-04-07T07:12:07.505Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -49,7 +49,7 @@ Este rol responde a la necesidad de coordinar y asegurarse del buen desarrollo d
 ## Perfiles más buscados
 
 * Formación en marketing, Gestion de negocios o años de experiencia equivalentes.
-* Solida experiencia en gestion de proyectos.
+* Solida experiencia en gestión de proyectos.
 * Experiencia coordinando equipos de trabajo.
 * Diagramas de Gantt (MS Project, Notion, Monday, etc)
 * Slack u otras herramientas de comunicación de equipos.
@@ -65,9 +65,18 @@ Este rol responde a la necesidad de coordinar y asegurarse del buen desarrollo d
 	* Habilidades interpersonales.
 	* Habilidades analíticas de resolución de problemas, priorizacion toma de decisiones.
 
-## Cursos Recomendados
+## Cursos recomendados
 
-* Curso Básico de Digital Project Management.
-* Curso de Fundamentos de Project Management.
-* Curso Práctico de Project Management.
-* Escuela de Marketing Digital.
+* [Búsqueda en Platzi Rol Administración Negocios)](https://platzi.com/buscar/?search=Rol%20Project%20manager)
+* [Generación de Ruta en Platzi para el Rol Administración Negocios](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20Project%20manager)
+
+ ### Escuelas Platzi Recomendadas
+
+* [Escuela de Negocios](https://platzi.com/escuela/negocios/)
+* [Escuela de Producto](https://platzi.com/escuela/producto/)
+* [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
+* [Escuela de Liderazgo y Management](https://platzi.com/escuela/liderazgo-management/)
+* [Escuela de Inglés](https://platzi.com/escuela/ingles/)
+* [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
+* [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
+* [Escuela de Startups](https://platzi.com/escuela/startups/)

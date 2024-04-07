@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.629Z
-modified: 2024-04-07T08:13:59.252Z
+modified: 2024-04-07T18:58:34.874Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -25,7 +25,7 @@ tags: []
 - [[Objetivos y metas (Principales Criptomonedas)]]
 - [[Requisitos previos (Principales Criptomonedas)]]
 
-## Fundamentos de las criptomonedas
+## [[Fundamentos de las criptomonedas]]
 - ¿Qué son las criptomonedas?
 - Historia y evolución del mercado de criptomonedas
 - Principales características y beneficios

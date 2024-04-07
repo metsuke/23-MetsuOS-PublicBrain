@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.552Z
-modified: 2024-04-07T08:25:09.722Z
+modified: 2024-04-07T18:39:00.029Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 17
+ver_rev: 18
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,6 +32,7 @@ tags:
 * [[Interacción Digital Remota mediante API con Discord]]
 * [[Interacción Digital Remota mediante API con Dropbox]]
 * [[Interacción Digital Remota mediante API con EBay]]
+* [[Interacción Digital Remota mediante API con Facebook]]
 * [[Interacción Digital Remota mediante API con Github]]
 * [[Interacción Digital Remota mediante API con Google]]
 * [[Interacción Digital Remota mediante API con Instagram]]

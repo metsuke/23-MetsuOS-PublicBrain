@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teclado.md",
+                "file": "Pauta 8 - Texto legible y comprensible.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teclado.md",
+                "file": "Pauta 8 - Texto legible y comprensible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teclado.md",
+                "file": "Pauta 8 - Texto legible y comprensible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teclado.md"
+                "file": "Pauta 8 - Texto legible y comprensible.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   "active": "2d4e2a728ccbe566",
   "lastOpenFiles": [
     "PublicBrain/WCAG 2.0.md",
+    "Pauta 8 - Texto legible y comprensible.md",
     "Teclado.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.1.md",
@@ -188,7 +189,6 @@
     "PublicBrain/¿Qué es el chino mandarín? (HSK1-ZH).md",
     "PublicBrain/¿Qué es un activo?.md",
     "PublicBrain/A1-NO.md",
-    "PublicBrain/A1-GE.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

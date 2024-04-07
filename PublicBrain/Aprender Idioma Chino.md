@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.418Z
-modified: 2024-04-06T23:49:42.320Z
+modified: 2024-04-07T09:22:53.147Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -35,3 +35,4 @@ tags:
 		* [[Taiwan's TOCFL (Test of Chinese as a Foreign Language)]]
 		* [[Certificados de enseñanza de chino]]
 		* [[Certificaciones académicas]]
+	* [[MOS FlashCards ZH (Flashcards MetsuOS)]])

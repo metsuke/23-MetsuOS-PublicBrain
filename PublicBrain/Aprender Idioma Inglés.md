@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.428Z
-modified: 2024-04-06T23:49:42.318Z
+modified: 2024-04-07T09:43:45.719Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -35,4 +35,4 @@ tags:
 		* [[PTE Academic (Pearson Test of English Academic)]]
 		* [[TOEIC (Test of English for International Communication)]]
 		* [[OET (Occupational English Test)]]
-	* 
+	* [[MOS FlashCards EN (Flashcards MetsuOS)]])

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.616Z
-modified: 2024-04-06T23:49:41.703Z
+modified: 2024-04-07T09:25:20.806Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 31
+ver_rev: 32
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,6 +29,7 @@ necesito una tabla detallada y exhaustiva de características técnicas del vide
 
 ## Aprender Crear Cursos
 
+En el contexto "Aprender Idioma Chino", dame un índice de tematicas exhaustiva y detallada, de no menos de 100 categorías, más si es necesario, para crear mis flashcards de aprendizaje del vocabulario. Damelo en marldown para poder copiarlo.
 
 En el contexto de "Aprender sobre Interacción Digital Remota mediante API" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "Interacción Digital Remota mediante API con Discord". Dámelo en markdown para poder copiarlo.
 

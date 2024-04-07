@@ -24,7 +24,7 @@ tags:
 [[Aprender a preparar embutidos]]
 
 1. Introducción al Lomo
-2. Historia y Origen del Lomo
+2. [[Historia y Origen del Lomo]]
 3. Ingredientes Necesarios
 4. Utensilios y Equipos
 5. Proceso de Elaboración del Lomo

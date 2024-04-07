@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.441Z
-modified: 2024-04-06T23:49:42.316Z
+modified: 2024-04-07T11:16:58.843Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -37,4 +37,5 @@ tags:
 		* [[Examen de Lengua Árabe del Instituto del Mundo Árabe]]
 		* [[Niveles AR en Instituciones Educativas]]
 		* [[Niveles AR en el Mercado Laboral]]
+	* [[MOS FlashCards AR (Flashcards MetsuOS)]])
 

@@ -53,7 +53,7 @@ tags:
 
 ## [[Recopilación y Preprocesamiento de Datos]]
 
-- Adquisición de datos
+- [[Adquisición de datos]]
 - [[Limpieza y normalización de datos]]
 - [[Exploración de datos (Data Exploration)]]
 - [[Ingeniería de características (Feature Engineering)]]

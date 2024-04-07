@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño de la investigación (Estudio persamiento y filosofía de una persona).md",
+                "file": "Limpieza y normalización de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño de la investigación (Estudio persamiento y filosofía de una persona).md",
+                "file": "Limpieza y normalización de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño de la investigación (Estudio persamiento y filosofía de una persona).md",
+                "file": "Limpieza y normalización de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diseño de la investigación (Estudio persamiento y filosofía de una persona).md"
+                "file": "Limpieza y normalización de datos.md"
               }
             }
           },
@@ -163,8 +163,10 @@
   },
   "active": "2d4e2a728ccbe566",
   "lastOpenFiles": [
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "Limpieza y normalización de datos.md",
     "Diseño de la investigación (Estudio persamiento y filosofía de una persona).md",
+    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
     "Contexto histórico y cultural relevante (Estudio persamiento y filosofía de una persona).md",
     "Teorías de la mente y del conocimiento (Estudio persamiento y filosofía de una persona).md",
     "Variational Autoencoders (VAEs).md",
@@ -187,8 +189,6 @@
     "PublicBrain/Abreviaturas y acrónimos.md",
     "Desarrollo profesional y personal.md",
     "Estrategias de apoyo y orientación.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "Indicadores visuales y ayudas contextuales.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

@@ -33,7 +33,7 @@ tags:
    
 ## II. Marco Teórico
    - A. [[Fundamentos de la investigación filosófica (Estudio persamiento y filosofía de una persona)]]
-   - B. Teorías de la mente y del conocimiento
+   - B. [[Teorías de la mente y del conocimiento (Estudio persamiento y filosofía de una persona)]]
    - C. Contexto histórico y cultural relevante
    
 ## III. Metodología de Investigación

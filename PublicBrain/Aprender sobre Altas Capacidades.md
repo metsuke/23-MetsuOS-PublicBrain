@@ -68,7 +68,7 @@ tags:
 
 ## Tema 11: Adultos y Altas Capacidades
 - Continuidad del apoyo en la vida adulta
-- Desarrollo profesional y personal
+- [[Desarrollo profesional y personal]]
 
 ## Conclusiones y Recursos Adicionales
 - Síntesis del curso

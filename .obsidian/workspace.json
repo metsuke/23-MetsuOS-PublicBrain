@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contexto histórico y evolución de ArduRAM.md",
+                "file": "Principios fundamentales y características de ArduRAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contexto histórico y evolución de ArduRAM.md",
+                "file": "Principios fundamentales y características de ArduRAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contexto histórico y evolución de ArduRAM.md",
+                "file": "Principios fundamentales y características de ArduRAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contexto histórico y evolución de ArduRAM.md"
+                "file": "Principios fundamentales y características de ArduRAM.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   "active": "3d199c28412a7046",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre ArduRAM.md",
+    "Principios fundamentales y características de ArduRAM.md",
     "Contexto histórico y evolución de ArduRAM.md",
     "¿Qué es ArduRAM?.md",
     "Plataformas de Hardware Libre.md",
@@ -201,7 +202,6 @@
     "Aprender sobre Geografía de Draenor en World of Warcraft.md",
     "Aprender sobre Geografía de Talador (Draenor) en World of Warcraft.md",
     "Aprender sobre Geografía de Gorgond (Draenor) en World of Warcraft.md",
-    "Aprender sobre Geografía de Península de Fuego Infernal (Terrallende) en World of Warcraft.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

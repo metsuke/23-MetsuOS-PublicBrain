@@ -25,7 +25,7 @@ tags:
 
 ## Introducción a ArduRAM
 - [[¿Qué es ArduRAM?]]
-- Principios fundamentales y características.
+- [[Principios fundamentales y características de ArduRAM]]
 - [[Contexto histórico y evolución de ArduRAM]]
 
 ## Fundamentos de la Memoria Volátil

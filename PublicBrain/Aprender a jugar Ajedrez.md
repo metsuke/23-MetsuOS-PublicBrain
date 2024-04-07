@@ -45,7 +45,7 @@ tags:
 
 ## Módulo 5: Estrategia Intermedia
 - **Lección 13:** Medio juego: planes y maniobras
-- **Lección 14:** Evaluación de posiciones
+- **Lección 14:** [[Evaluación de posiciones en ajedrez]]
 - **Lección 15:** Conceptos avanzados de apertura
 
 ## Módulo 6: Finales y Técnicas Avanzadas

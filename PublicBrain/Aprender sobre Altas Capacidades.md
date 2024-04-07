@@ -60,7 +60,7 @@ tags:
 
 ## Tema 9: Adolescencia y Alta Capacidad
 - Desafíos específicos en la adolescencia
-- Estrategias de apoyo y orientación
+- [[Estrategias de apoyo y orientación]]
 
 ## Tema 10: MEET - Metodología Educativa de Estimulación del Talento por Blanca Santiago
 - [[Presentación y análisis de la metodología (Altas Capacidades)]]

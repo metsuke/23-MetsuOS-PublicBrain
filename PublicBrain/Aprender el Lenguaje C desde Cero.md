@@ -42,7 +42,7 @@ tags:
 	* [[Declaración de variables y asignación en Lenguaje C]]
 * [[Operadores y Expresiones en Lenguaje C]]
 	* [[Operadores aritméticos, lógicos y de asignación en Lenguaje C]]
-	* Precedencia de operadores
+	* [[Precedencia de operadores en Lenguaje C]]
 * Estructuras de Control
 	* Estructuras condicionales: if, else, switch
 	* Bucles: for, while, do-while

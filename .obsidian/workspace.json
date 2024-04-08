@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceso a datos de vendedores y compradores.md",
+                "file": "Creación de listados de productos (IDRA-Ebay).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acceso a datos de vendedores y compradores.md",
+                "file": "Creación de listados de productos (IDRA-Ebay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acceso a datos de vendedores y compradores.md",
+                "file": "Creación de listados de productos (IDRA-Ebay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acceso a datos de vendedores y compradores.md"
+                "file": "Creación de listados de productos (IDRA-Ebay).md"
               }
             }
           },
@@ -176,7 +176,8 @@
   "active": "3d199c28412a7046",
   "lastOpenFiles": [
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "Acceso a datos de vendedores y compradores.md",
+    "Creación de listados de productos (IDRA-Ebay).md",
+    "Acceso a datos de vendedores y compradores (IDRA-Ebay).md",
     "PublicBrain/Ajustes de contraste y color.md",
     "PublicBrain/A1-CA.md",
     "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
@@ -200,7 +201,6 @@
     "PublicBrain/Probabilidad y Estadística.md",
     "PublicBrain/Principales características y beneficios de las criptomonedas.md",
     "PublicBrain/Overfitting y underfitting.md",
-    "PublicBrain/Oraciones condicionales y comparativas simples (A2-CA).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

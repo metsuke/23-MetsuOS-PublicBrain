@@ -1,4 +1,4 @@
-# Acceso a datos de vendedores y compradores
+# Acceso a datos de vendedores y compradores (IDRA-Ebay)
 
 [[Interacción Digital Remota mediante API con EBay]]
 

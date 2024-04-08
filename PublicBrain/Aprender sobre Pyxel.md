@@ -35,7 +35,7 @@ tags: []
 
 ## Elementos Gráficos en Pyxel
 - [[Dibujando formas geométricas básicas (Pyxel)]]
-- Carga y visualización de sprites
+- [[Carga y visualización de sprites en Pyxel]]
 - Creación de animaciones simples
 - Uso de paletas de colores y modos de mezcla
 

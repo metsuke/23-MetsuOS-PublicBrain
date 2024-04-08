@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.586Z
-modified: 2024-04-07T07:54:32.691Z
+modified: 2024-04-08T04:17:05.348Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 7
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -37,7 +37,7 @@ tags: []
 - [[Dibujando formas geométricas básicas (Pyxel)]]
 - [[Carga y visualización de sprites en Pyxel]]
 - [[Creación de animaciones simples en Pyxel]]
-- Uso de paletas de colores y modos de mezcla
+- [[Uso de paletas de colores y modos de mezcla en Pyxel]]
 
 ## Sonido y Música en Pyxel
 - Reproducción de sonidos y efectos de sonido

@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-08T04:16:26.504Z
+modified: 2024-04-08T04:17:17.828Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Creación de animaciones simples en Pyxel
 
 [[Aprender sobre Pyxel]]

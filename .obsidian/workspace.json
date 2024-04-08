@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md",
+                "file": "Desarrollo y Crecimiento Económico.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md",
+                "file": "Desarrollo y Crecimiento Económico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md",
+                "file": "Desarrollo y Crecimiento Económico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Economía.md"
+                "file": "Desarrollo y Crecimiento Económico.md"
               }
             }
           },
@@ -175,8 +175,9 @@
   },
   "active": "3d199c28412a7046",
   "lastOpenFiles": [
-    "Probabilidad y Estadística.md",
     "PublicBrain/Aprender sobre Economía.md",
+    "Desarrollo y Crecimiento Económico.md",
+    "Probabilidad y Estadística.md",
     "Introducción a Bitcoin.md",
     "PublicBrain/Aprender sobre las pirncipales criptomonedas.md",
     "Conceptos clave - blockchain, descentralización, criptografía, consenso, etc.md",
@@ -200,7 +201,6 @@
     "Ética en la investigación filosófica (Estudio persamiento y filosofía de una persona).md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
     "Técnicas de análisis filosófico (Estudio persamiento y filosofía de una persona).md",
-    "PublicBrain/Selección de fuentes primarias y secundarias (Estudio persamiento y filosofía de una persona).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

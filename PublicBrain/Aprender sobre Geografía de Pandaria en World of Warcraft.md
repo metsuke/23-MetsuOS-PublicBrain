@@ -19,7 +19,8 @@ tags: []
 [[Aprender sobre Geografía de World of Warcraft]]
 
 * [[Aprender sobre Geografía de Cima Kung-Lai (Pandaria) en World of Warcraft]]
-[[Aprender sobre Geografía de Cima Kung-Lai (Pandaria) en World of Warcraft]]
+* [[Aprender sobre Geografía de Espesura Krasarang (Pandaria) en World of Warcraft]]
+
 [[Aprender sobre Geografía de Cima Kung-Lai (Pandaria) en World of Warcraft]]
 [[Aprender sobre Geografía de Cima Kung-Lai (Pandaria) en World of Warcraft]]
 [[Aprender sobre Geografía de Cima Kung-Lai (Pandaria) en World of Warcraft]]

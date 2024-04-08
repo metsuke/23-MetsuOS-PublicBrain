@@ -98,7 +98,6 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender a jugar Parchis]]
 
 * [[Aprender sobre World of Warcraft]]
-* [[Aprender sobre Objetos de World of Warcraft]]
 * [[Aprender a programar plugins para World of Warcraft]]
 
 * [[Aprender sobre Videojuegos]]

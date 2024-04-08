@@ -72,7 +72,7 @@ tags:
 
 ## Conclusiones y Recursos Adicionales
 - [[Síntesis del curso]]
-- Recursos para seguir aprendiendo
+- [[Recursos para seguir aprendiendo sobre AA. CC.]]
 
 ## Evaluación del Curso
 - Pruebas de conocimiento

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aplicaciones en procesamiento de lenguaje natural y series temporales.md",
+                "file": "Problema de gradiente desvaneciente.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aplicaciones en procesamiento de lenguaje natural y series temporales.md",
+                "file": "Problema de gradiente desvaneciente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aplicaciones en procesamiento de lenguaje natural y series temporales.md",
+                "file": "Problema de gradiente desvaneciente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aplicaciones en procesamiento de lenguaje natural y series temporales.md"
+                "file": "Problema de gradiente desvaneciente.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   "active": "3d199c28412a7046",
   "lastOpenFiles": [
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Problema de gradiente desvaneciente.md",
     "Aplicaciones en procesamiento de lenguaje natural y series temporales.md",
     "PublicBrain/Desarrollo profesional y personal.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
@@ -200,7 +201,6 @@
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "Estructuras condicionales - if, else, switch.md",
-    "PublicBrain/Precedencia de operadores en Lenguaje C.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

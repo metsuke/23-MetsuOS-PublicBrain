@@ -48,7 +48,7 @@ tags:
 	* [[Bucles - for, while, do-while]]
 ## Funciones y Estructuras de Datos
 
-* Funciones
+* [[Funciones en Lenguaje C]]
 	* Declaración y definición de funciones
 	* Paso por valor y por referencia
 * Arreglos/Arrays y Punteros

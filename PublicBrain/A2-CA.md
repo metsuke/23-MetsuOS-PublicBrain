@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.371Z
-modified: 2024-04-07T08:08:00.870Z
+modified: 2024-04-08T04:23:58.135Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 32
+ver_rev: 33
 nav_primary: 
 nav_secondary: 
 tags:
@@ -43,7 +43,7 @@ tags:
 
 3.1. [[Los tiempos verbales en presente, pasado y futuro (A2-CA)]]
 3.2. [[Uso de los pronombres personales y posesivos (A2-CA)]]
-3.3. Oraciones condicionales y comparativas simples.
+3.3. [[Oraciones condicionales y comparativas simples (A2-CA)]]
 3.4. Estructura básica de preguntas y respuestas.
 
 ## Módulo 4: Cultura y Sociedad

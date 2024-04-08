@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-08T06:05:49.560Z
+modified: 2024-04-08T06:11:02.552Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Creación de listados de productos (IDRA-Ebay)
 
 [[Interacción Digital Remota mediante API con EBay]]

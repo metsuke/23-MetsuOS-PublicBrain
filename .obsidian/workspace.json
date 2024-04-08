@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actualización de información de productos (IDRA-Ebay).md",
+                "file": "PublicBrain/MOS FlashCards ZH (Flashcards MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "Frases de cortesía (ZH Flashcards).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actualización de información de productos (IDRA-Ebay).md",
+                "file": "Frases de cortesía (ZH Flashcards).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actualización de información de productos (IDRA-Ebay).md",
+                "file": "Frases de cortesía (ZH Flashcards).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actualización de información de productos (IDRA-Ebay).md"
+                "file": "Frases de cortesía (ZH Flashcards).md"
               }
             }
           },
@@ -173,10 +174,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3d199c28412a7046",
+  "active": "5ca52d6a98f2d8af",
   "lastOpenFiles": [
+    "PublicBrain/MOS FlashCards ZH (Flashcards MetsuOS).md",
+    "Frases de cortesía (ZH Flashcards).md",
+    "Saludos informales (ZH Flashcards).md",
+    "Saludos formales (ZH Flashcards).md",
+    "PublicBrain/Promting Database.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Actualización de información de productos (IDRA-Ebay).md",
+    "PublicBrain/Creación de listados de productos (IDRA-Ebay).md",
+    "PublicBrain/Actualización de información de productos (IDRA-Ebay).md",
+    "PublicBrain/Acceso a datos de vendedores y compradores (IDRA-Ebay).md",
     "Creación de listados de productos (IDRA-Ebay).md",
     "Acceso a datos de vendedores y compradores (IDRA-Ebay).md",
     "PublicBrain/Ajustes de contraste y color.md",
@@ -193,14 +202,6 @@
     "PublicBrain/B1-CA.md",
     "PublicBrain/Árabe.md",
     "PublicBrain/Avanzado HI.md",
-    "PublicBrain/Awadama Fever.md",
-    "PublicBrain/Avi.md",
-    "PublicBrain/Aunt.md",
-    "PublicBrain/Uso de paletas de colores y modos de mezcla en Pyxel.md",
-    "PublicBrain/Uso de los pronombres personales y posesivos (A2-CA).md",
-    "PublicBrain/Técnicas de análisis filosófico (Estudio persamiento y filosofía de una persona).md",
-    "PublicBrain/Probabilidad y Estadística.md",
-    "PublicBrain/Principales características y beneficios de las criptomonedas.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

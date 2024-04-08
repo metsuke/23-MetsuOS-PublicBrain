@@ -28,7 +28,7 @@ tags: []
 
 ## Fundamentos de la Arquitectura en la Nube
 - [[Conceptos básicos de computación en la nube]]
-- Modelos de implementación en la nube (pública, privada, híbrida)
+- [[Modelos de implementación en la nube (pública, privada, híbrida)]]
 - Servicios en la nube (IaaS, PaaS, SaaS)
 - Componentes clave de una arquitectura en la nube (servidores, redes, almacenamiento, bases de datos, seguridad)
 

@@ -67,7 +67,7 @@ tags:
 - [[Formación para diseñadores, desarrolladores y educadores sobre prácticas accesibles]]
 
 ## Casos de Estudio y Buenas Prácticas
-- Ejemplos de implementación exitosa de accesibilidad en E-Learning
+- [[Ejemplos de implementación exitosa de accesibilidad en E-Learning]]
 - [[Estudio de casos, experiencias y lecciones aprendidas]]
 
 ## Futuras Tendencias y Desafíos

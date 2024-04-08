@@ -79,7 +79,7 @@ tags:
 
 - [[Conocer a nuevas personas (A1-SW)]]
 - [[Conversaciones sociales (A1-SW)]]
-- Invitar a salir en Swahili
+- [[Invitar a salir en Swahili (A1-SW)]]
 
 ## Módulo 5: Tiempo Libre y Pasatiempos
 

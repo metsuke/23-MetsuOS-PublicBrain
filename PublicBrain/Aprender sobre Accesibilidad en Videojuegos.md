@@ -67,7 +67,7 @@ tags:
 
 ## IX. Casos de Estudio y Buenas Prácticas
    - Análisis de videojuegos accesibles.
-   - Ejemplos de implementación exitosa.
+   - [[Ejemplos de implementación exitosa (Accesibilidad Gaming)]]
    - Lecciones aprendidas y recomendaciones.
 
 ## X. Futuro de la Accesibilidad en Videojuegos

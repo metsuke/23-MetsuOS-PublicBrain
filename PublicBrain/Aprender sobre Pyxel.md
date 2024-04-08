@@ -36,7 +36,7 @@ tags: []
 ## Elementos Gráficos en Pyxel
 - [[Dibujando formas geométricas básicas (Pyxel)]]
 - [[Carga y visualización de sprites en Pyxel]]
-- Creación de animaciones simples
+- [[Creación de animaciones simples en Pyxel]]
 - Uso de paletas de colores y modos de mezcla
 
 ## Sonido y Música en Pyxel

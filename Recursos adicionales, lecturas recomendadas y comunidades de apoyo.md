@@ -2,14 +2,22 @@
 
 [[Aprender sobre Accesibilidad en ELearining]]
 
-El curso sobre accesibilidad en elearning ha abordado una serie de conceptos clave para garantizar que el contenido educativo en línea sea accesible para todos los usuarios, independientemente de sus capacidades físicas o cognitivas. Algunas de las ideas principales y conclusiones del curso son las siguientes:
+Recursos adicionales:
 
-1. Accesibilidad digital: La accesibilidad en elearning se refiere a la capacidad de todas las personas, incluidas aquellas con discapacidades, de acceder y utilizar el contenido educativo en línea de manera efectiva y equitativa.
+- Web Content Accessibility Guidelines (WCAG): Se trata de un conjunto de pautas desarrolladas por la W3C para garantizar la accesibilidad de los contenidos web. Puedes encontrar más información en la página oficial: https://www.w3.org/WAI/standards-guidelines/wcag/
 
-2. Principios de accesibilidad: Se han presentado varias pautas y principios de diseño web accesible, como las directrices del W3C, que incluyen aspectos como el uso de descripciones alternativas en imágenes, el uso de colores y fuentes legibles, la facilidad de navegación y la compatibilidad con tecnologías de asistencia.
+- ARIA: Accessible Rich Internet Applications (ARIA) es una especificación de la W3C que proporciona atributos adicionales para mejorar la accesibilidad de las aplicaciones web. Puedes aprender más sobre ARIA en la página oficial: https://www.w3.org/WAI/standards-guidelines/aria/
 
-3. Herramientas de accesibilidad: Se han explorado diversas herramientas y tecnologías de asistencia que pueden mejorar la accesibilidad del contenido educativo en línea, como lectores de pantalla, magnificadores de pantalla, teclados especializados y navegadores accesibles.
+Lecturas recomendadas:
 
-4. Beneficios de la accesibilidad: Se ha destacado cómo la accesibilidad en elearning no solo beneficia a las personas con discapacidades, sino que también mejora la experiencia de usuario para todos los usuarios al hacer que el contenido sea más claro, fácil de usar y fácil de navegar.
+- Inclusive Design Principles: Este eBook gratuito de Microsoft ofrece una introducción a los principios del diseño inclusivo y cómo aplicarlos en el desarrollo de productos digitales. Puedes descargarlo en este enlace: https://www.microsoft.com/design/inclusive/
 
-En resumen, el curso ha subrayado la importancia de diseñar y desarrollar contenido educativo en línea que sea accesible para todos, promoviendo la inclusión y la igualdad de oportunidades en el entorno digital. Al tomar en cuenta los principios y pautas de accesibilidad en elearning, se puede crear un entorno educativo en línea más accesible y efectivo para todos los estudiantes.
+- "Accessibility for Everyone" de Laura Kalbag: Este libro brinda una introducción completa a la accesibilidad web y cómo integrarla en tus proyectos de diseño y desarrollo. Puedes encontrar más información en el sitio web del libro: https://a11yforeveryone.com/
+
+Comunidades de apoyo:
+
+- A11y Project: Se trata de una comunidad en línea dedicada a promover la accesibilidad web y proporcionar recursos y herramientas para crear sitios web más accesibles. Puedes unirte a la comunidad en su sitio web: https://a11yproject.com/
+
+- #a11y en Twitter: Este hashtag se utiliza para compartir información, recursos y discusiones sobre accesibilidad en línea. Puedes seguir las conversaciones y unirte a la comunidad usando el hashtag #a11y en tus publicaciones.
+
+Además de estos recursos, te recomiendo buscar grupos de usuarios y profesionales de la accesibilidad en tu área local o en línea para conectarte con otros que comparten tus intereses y aprender de sus experiencias.

@@ -28,8 +28,8 @@ Este rol responde a la necesidad de coordinar y asegurarse del buen desarrollo d
 
 ## Tareas y Responsabilidades
 
-* Gestión de tiempo y recursos para la consecueción de objetivos del proyecto.
-* Equilibrar multiples prioridades de ritmo rápido.
+* Gestión de tiempo y recursos para la consecución de objetivos del proyecto.
+* Equilibrar múltiples prioridades de ritmo rápido.
 * Definir fechas de entrega, alcance y objetivos.
 * Delegar y reasignar tareas.
 * Actualizacion y riesgos del proyecto.
@@ -57,13 +57,13 @@ Este rol responde a la necesidad de coordinar y asegurarse del buen desarrollo d
 * Conocimientos de marketing.
 * Habilidades blandas
 	* Detallista.
-	* Liderezgo, negociacion, influencia y facilitacion.
-	* Buena comunicacion escrita y verbal.
+	* Liderezgo, negociación, influencia y facilitación.
+	* Buena comunicación escrita y verbal.
 	* Organización.
 	* Multitarea.
 	* Flexibilidad
 	* Habilidades interpersonales.
-	* Habilidades analíticas de resolución de problemas, priorizacion toma de decisiones.
+	* Habilidades analíticas de resolución de problemas, priorzzacion toma de decisiones.
 
 ## Cursos recomendados
 

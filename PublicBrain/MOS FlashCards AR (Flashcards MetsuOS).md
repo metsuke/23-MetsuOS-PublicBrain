@@ -18,12 +18,10 @@ tags: []
 
 [[Aprender Idioma Árabe]]
 
-# Índice
-
 ## Saludos y Presentaciones
-1. Saludos formales
-2. Saludos informales
-3. Frases de cortesía
+1. [[Saludos formales (AR Flashcards)]]
+2. [[Saludos informales (AR Flashcards)]]
+3. [[Frases de cortesía (AR Flashcards)]]
 4. Presentaciones personales
 5. Expresiones de gratitud
 

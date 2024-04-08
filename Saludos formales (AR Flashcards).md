@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-08T08:39:50.443Z
+modified: 2024-04-08T08:42:49.755Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Saludos formales (AR Flashcards)
 
 [[MOS FlashCards AR (Flashcards MetsuOS)]]

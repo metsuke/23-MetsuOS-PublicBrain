@@ -34,7 +34,7 @@ tags:
 * [[Carga y gestión de imágenes y texturas (PixiJS)]]
 * [[Creación y manipulación de sprites en PixiJS]]
 * [[Anidando sprites y creando escenas interactivas]]
-* Aplicando transformaciones y animaciones a sprites
+* [[Aplicando transformaciones y animaciones a sprites (PixiJS)]]
 ## Interacción de Usuario y Eventos
 
 - Captura de eventos de entrada del usuario

@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-08T03:39:35.126Z
+modified: 2024-04-08T03:42:24.165Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Recursos adicionales, lecturas recomendadas y comunidades de apoyo
 
 [[Aprender sobre Accesibilidad en ELearining]]

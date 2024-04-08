@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-08T03:39:02.069Z
+modified: 2024-04-08T03:42:24.154Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Resumen de los conceptos clave y conclusiones del curso
 
 [[Aprender sobre Accesibilidad en ELearining]]

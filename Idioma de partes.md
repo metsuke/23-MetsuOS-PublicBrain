@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-08T03:36:55.721Z
+modified: 2024-04-08T03:42:24.167Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Idioma de partes
 
 [[WCAG 2.0]] | [[WCAG 2.1]]

@@ -62,7 +62,7 @@ tags:
 
 ## VIII. Evaluación y Testeo de Accesibilidad
    - [[Herramientas y métodos para evaluar la accesibilidad]]
-   - Pruebas con usuarios reales.
+   - [[Pruebas con usuarios reales (Accesibilidad Gaming)]]
    - Ciclo de retroalimentación y mejora continua.
 
 ## IX. Casos de Estudio y Buenas Prácticas

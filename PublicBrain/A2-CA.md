@@ -44,7 +44,7 @@ tags:
 3.1. [[Los tiempos verbales en presente, pasado y futuro (A2-CA)]]
 3.2. [[Uso de los pronombres personales y posesivos (A2-CA)]]
 3.3. [[Oraciones condicionales y comparativas simples (A2-CA)]]
-3.4. Estructura básica de preguntas y respuestas.
+3.4. [[Estructura básica de preguntas y respuestas (A2-CA)]]
 
 ## Módulo 4: Cultura y Sociedad
 

@@ -45,7 +45,7 @@ tags:
 
 ## Implementación de Operaciones CRUD
 - [[Creación de listados de productos (IDRA-Ebay)]]
-- Actualización de información de productos
+- [[Actualización de información de productos (IDRA-Ebay)]]
 - Eliminación de listados
 - Gestión de carritos de compras y órdenes
 

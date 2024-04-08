@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-04-07T07:35:17.808Z
+modified: 2024-04-08T03:52:49.436Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -40,7 +40,7 @@ tags:
    - A. [[Diseño de la investigación (Estudio persamiento y filosofía de una persona)]]
    - B. [[Selección de fuentes primarias y secundarias (Estudio persamiento y filosofía de una persona)]]
 
-   - C. Técnicas de análisis filosófico
+   - C. [[Técnicas de análisis filosófico (Estudio persamiento y filosofía de una persona)]]
    - D. Ética en la investigación filosófica
    
 ## IV. Biografía del Individuo

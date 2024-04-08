@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-08T03:50:37.759Z
+modified: 2024-04-08T03:56:47.298Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Problema de gradiente desvaneciente
 
 [[Estructura y funcionamiento de las  redes neuronales]]

@@ -63,7 +63,7 @@ tags:
 - [[Selección de algoritmos de aprendizaje automático]]
 - [[División de datos en conjuntos de entrenamiento, validación y prueba]]
 - Entrenamiento de modelos de IA
-- Evaluación de modelos (métricas de rendimiento)
+- [[Evaluación de modelos (métricas de rendimiento)]]
 
 ## Problemas Comunes en IA
 

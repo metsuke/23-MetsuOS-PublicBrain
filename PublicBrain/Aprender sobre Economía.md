@@ -35,7 +35,7 @@ Bien, es hora de definir el Roadmap para estudiar economía, a falta de revisar 
 	        - [[Dirección Estratégica]]
 	- [[Historia de la Economía]]
 	- [[Programación para economistas]]
-- Economía Estratégica
+- [[Economía Estratégica]]
 	- [[Desarrollo y Crecimiento Económico]]
 	- [[Comercio Mundial y Sistema Monetario]]
 	- [[Probabilidad y Estadística]]

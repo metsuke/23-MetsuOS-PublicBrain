@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-08T04:03:50.514Z
+modified: 2024-04-08T04:10:54.781Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Modelos de implementación en la nube (pública, privada, híbrida)
 
 [[Aprender sobre Diseño de Arquitectura en la Nube]]

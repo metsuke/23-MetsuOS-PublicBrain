@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-04-07T07:43:11.242Z
+modified: 2024-04-08T04:10:16.652Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 29
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
@@ -37,7 +37,7 @@ tags:
 * [[Aplicando transformaciones y animaciones a sprites (PixiJS)]]
 ## [[Interacción de Usuario y Eventos]]
 
-- Captura de eventos de entrada del usuario
+- [[Captura de eventos de entrada del usuario en PixiJS]]
 - Implementación de interacción de usuario (clics, toques, arrastres)
 - Creación de botones y elementos interactivos
 - Gestión de eventos y detección de colisiones

@@ -35,7 +35,7 @@ tags:
 * [[Creación y manipulación de sprites en PixiJS]]
 * [[Anidando sprites y creando escenas interactivas]]
 * [[Aplicando transformaciones y animaciones a sprites (PixiJS)]]
-## Interacción de Usuario y Eventos
+## [[Interacción de Usuario y Eventos]]
 
 - Captura de eventos de entrada del usuario
 - Implementación de interacción de usuario (clics, toques, arrastres)

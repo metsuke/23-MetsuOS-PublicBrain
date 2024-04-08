@@ -71,7 +71,7 @@ tags:
 - [[Estudio de casos, experiencias y lecciones aprendidas]]
 
 ## Futuras Tendencias y Desafíos
-- Perspectivas sobre el futuro de la accesibilidad en E-Learning
+- [[Perspectivas sobre el futuro de la accesibilidad en E-Learning]]
 - [[Desafíos emergentes y áreas de desarrollo futuro]]
 
 ## Conclusiones y Recursos Adicionales

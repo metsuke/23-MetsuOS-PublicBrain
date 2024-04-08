@@ -67,7 +67,7 @@ tags:
 - [[Ejemplos de aplicación de metodologías (Altas Capacidades)]]
 
 ## Tema 11: Adultos y Altas Capacidades
-- Continuidad del apoyo en la vida adulta
+- [[Continuidad del apoyo en la vida adulta (Altas Capacidades)]]
 - [[Desarrollo profesional y personal]]
 
 ## Conclusiones y Recursos Adicionales

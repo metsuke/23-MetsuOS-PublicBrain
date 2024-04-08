@@ -38,7 +38,8 @@ tags:
    
 ## III. Metodología de Investigación
    - A. [[Diseño de la investigación (Estudio persamiento y filosofía de una persona)]]
-   - B. Selección de fuentes primarias y secundarias
+   - B. [[Selección de fuentes primarias y secundarias (Estudio persamiento y filosofía de una persona)]]
+
    - C. Técnicas de análisis filosófico
    - D. Ética en la investigación filosófica
    

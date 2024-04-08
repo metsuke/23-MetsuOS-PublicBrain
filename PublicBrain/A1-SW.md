@@ -78,7 +78,7 @@ tags:
 ### Lección 8: Amistad y Socialización
 
 - [[Conocer a nuevas personas (A1-SW)]]
-- Conversaciones sociales
+- [[Conversaciones sociales (A1-SW)]]
 - Invitar a salir en Swahili
 
 ## Módulo 5: Tiempo Libre y Pasatiempos

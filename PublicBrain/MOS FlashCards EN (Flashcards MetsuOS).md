@@ -22,7 +22,7 @@ tags: []
 
 ## Saludos y Presentaciones
 1. [[Saludos formales (EN Flashcards)]]
-2. Saludos informales (EN Flashcards)
+2. [[Saludos informales (EN Flashcards)]]
 3. Frases de cortesía  (EN Flashcards)
 4. Presentaciones personales
 5. Expresiones de gratitud

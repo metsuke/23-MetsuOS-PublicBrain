@@ -6,10 +6,10 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T09:43:47.617Z
-modified: 2024-04-08T06:25:18.023Z
+modified: 2024-04-08T08:36:08.158Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -23,7 +23,7 @@ tags: []
 ## Saludos y Presentaciones
 1. [[Saludos formales (EN Flashcards)]]
 2. [[Saludos informales (EN Flashcards)]]
-3. Frases de cortesía  (EN Flashcards)
+3. [[Frases de cortesía  (EN Flashcards)]]
 4. Presentaciones personales
 5. Expresiones de gratitud
 

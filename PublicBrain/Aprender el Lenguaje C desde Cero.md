@@ -45,7 +45,7 @@ tags:
 	* [[Precedencia de operadores en Lenguaje C]]
 * [[Estructuras de Control]]
 	* [[Estructuras condicionales - if, else, switch]]
-	* Bucles: for, while, do-while
+	* [[Bucles - for, while, do-while]]
 ## Funciones y Estructuras de Datos
 
 * Funciones

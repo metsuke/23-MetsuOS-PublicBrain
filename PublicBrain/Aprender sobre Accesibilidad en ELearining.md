@@ -76,6 +76,6 @@ tags:
 
 ## Conclusiones y Recursos Adicionales
 - [[Resumen de los conceptos clave y conclusiones del curso]]
-- Recursos adicionales, lecturas recomendadas y comunidades de apoyo
+- [[Recursos adicionales, lecturas recomendadas y comunidades de apoyo]]
 
 

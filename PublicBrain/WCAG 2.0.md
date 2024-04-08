@@ -69,7 +69,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
         - 7.2 [[Enlaces]]
         - 7.3 [[Niveles de encabezado y etiquetas]]
     - [[Pauta 8 - Texto legible y comprensible]]
-        - 8.1 Idioma del contenido
+        - 8.1 [[Idioma del contenido]]
         - 8.2 Idioma de partes
         - 8.3 [[Legibilidad]]
         - 8.4 [[Abreviaturas y acrónimos]]

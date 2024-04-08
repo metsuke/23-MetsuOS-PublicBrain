@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-08T03:45:43.485Z
+modified: 2024-04-08T03:49:21.824Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Análisis de videojuegos accesibles
 
 [[Aprender sobre Accesibilidad en Videojuegos]]

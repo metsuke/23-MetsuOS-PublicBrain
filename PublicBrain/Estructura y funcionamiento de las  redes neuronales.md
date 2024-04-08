@@ -60,7 +60,7 @@ tags: []
 
 * [[Modelo de secuencia y memoria a corto plazo]]
 * Arquitecturas de RNN (LSTM, GRU)
-* Aplicaciones en procesamiento de lenguaje natural y series temporales
+* [[Aplicaciones en procesamiento de lenguaje natural y series temporales]]
 * Problema de gradiente desvaneciente
 
 ## Redes Neuronales Generativas

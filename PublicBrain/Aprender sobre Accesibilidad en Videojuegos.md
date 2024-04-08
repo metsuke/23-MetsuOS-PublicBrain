@@ -66,7 +66,7 @@ tags:
    - Ciclo de retroalimentación y mejora continua.
 
 ## IX. Casos de Estudio y Buenas Prácticas
-   - Análisis de videojuegos accesibles.
+   - [[Análisis de videojuegos accesibles]]
    - [[Ejemplos de implementación exitosa (Accesibilidad Gaming)]]
    - Lecciones aprendidas y recomendaciones.
 

@@ -32,7 +32,7 @@ tags: []
 - [[Conceptos clave - blockchain, descentralización, criptografía, consenso, etc]]
 
 ## Bitcoin (BTC)
-- Introducción a Bitcoin
+- [[Introducción a Bitcoin]]
 - Historia y desarrollo de Bitcoin
 - Estructura y funcionamiento de la red Bitcoin
 - Minería de Bitcoin y recompensas de bloque

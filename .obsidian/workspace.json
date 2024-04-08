@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md",
+                "file": "Principales características y beneficios de las criptomonedas.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md",
+                "file": "Principales características y beneficios de las criptomonedas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md",
+                "file": "Principales características y beneficios de las criptomonedas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md"
+                "file": "Principales características y beneficios de las criptomonedas.md"
               }
             }
           },
@@ -175,8 +175,10 @@
   },
   "active": "3d199c28412a7046",
   "lastOpenFiles": [
-    "Uso de paletas de colores y modos de mezcla en Pyxel.md",
+    "PublicBrain/Aprender sobre las pirncipales criptomonedas.md",
+    "Principales características y beneficios de las criptomonedas.md",
     "PublicBrain/Aprender sobre Pyxel.md",
+    "Uso de paletas de colores y modos de mezcla en Pyxel.md",
     "Creación de animaciones simples en Pyxel.md",
     "Carga y visualización de sprites en Pyxel.md",
     "Captura de eventos de entrada del usuario en PixiJS.md",
@@ -199,8 +201,6 @@
     "PublicBrain/Resumen de los conceptos clave y conclusiones del curso.md",
     "PublicBrain/Recursos para seguir aprendiendo sobre AA. CC..md",
     "PublicBrain/Recursos adicionales, lecturas recomendadas y comunidades de apoyo.md",
-    "PublicBrain/Pruebas con usuarios reales (Accesibilidad Gaming).md",
-    "PublicBrain/Problema de gradiente desvaneciente.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

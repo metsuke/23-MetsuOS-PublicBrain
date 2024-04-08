@@ -28,7 +28,7 @@ tags: []
 ## [[Fundamentos de las criptomonedas]]
 - [[¿Qué son las criptomonedas?]]
 - [[Historia y evolución del mercado de criptomonedas]]
-- Principales características y beneficios
+- [[Principales características y beneficios de las criptomonedas]]
 - Conceptos clave: blockchain, descentralización, criptografía, consenso, etc.
 
 ## Bitcoin (BTC)

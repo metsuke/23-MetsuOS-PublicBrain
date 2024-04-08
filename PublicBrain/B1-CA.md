@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: 
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.679Z
-modified: 2024-04-06T23:49:42.276Z
+modified: 2024-04-08T04:31:20.815Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # B1-CA
 
@@ -50,7 +53,7 @@ tags: []
 4.3. Eventos culturales y festivales regionales.
 4.4. Tradiciones y costumbres catalanas.
 
-## Módulo 5: Habilidades de Escritura
+## Módulo 5: "H"abilidades de Escritura
 
 5.1. Redacción de textos argumentativos y narrativos.
 5.2. Uso de estructuras avanzadas en la escritura.

@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.698Z
-modified: 2024-04-06T23:49:42.273Z
+modified: 2024-04-08T04:38:30.668Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # B1-RU
 
@@ -62,7 +65,7 @@ tags: []
 - Negociaciones y acuerdos comerciales
 - Vocabulario empresarial
 
-## Módulo 6: Habilidades de Escritura
+## Módulo 6: "H"abilidades de Escritura
 
 - Redacción de textos avanzados
 - Cartas formales e informales

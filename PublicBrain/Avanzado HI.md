@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.670Z
-modified: 2024-04-06T23:49:42.277Z
+modified: 2024-04-08T04:31:20.816Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Avanzado HI
 
@@ -64,7 +67,7 @@ tags: []
 - Participación en debates televisivos
 - Producción de contenidos mediáticos en Hindi
 
-## Módulo 8: Hindi en la Tecnología
+## Módulo 8: "H"indi en la Tecnología
 - Términos técnicos y de informática
 - Programación en Hindi
 - Traducción de documentos técnicos

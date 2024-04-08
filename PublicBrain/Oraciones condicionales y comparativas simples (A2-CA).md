@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-08T04:23:59.181Z
+modified: 2024-04-08T04:31:29.715Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Oraciones condicionales y comparativas simples (A2-CA)
 
 [[A2-CA]]

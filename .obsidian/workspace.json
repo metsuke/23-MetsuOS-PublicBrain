@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hablar sobre planes de fin de semana (A1-SW).md",
+                "file": "Acceso a datos de vendedores y compradores.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hablar sobre planes de fin de semana (A1-SW).md",
+                "file": "Acceso a datos de vendedores y compradores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hablar sobre planes de fin de semana (A1-SW).md",
+                "file": "Acceso a datos de vendedores y compradores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hablar sobre planes de fin de semana (A1-SW).md"
+                "file": "Acceso a datos de vendedores y compradores.md"
               }
             }
           },
@@ -175,32 +175,32 @@
   },
   "active": "3d199c28412a7046",
   "lastOpenFiles": [
-    "PublicBrain/A1-SW.md",
-    "Hablar sobre planes de fin de semana (A1-SW).md",
-    "Invitar a salir en Swahili (A1-SW).md",
-    "Conversaciones sociales (A1-SW).md",
-    "Estructura básica de preguntas y respuestas (A2-CA).md",
-    "PublicBrain/A2-CA.md",
-    "Oraciones condicionales y comparativas simples (A2-CA).md",
-    "Uso de los pronombres personales y posesivos (A2-CA).md",
-    "Economía Estratégica.md",
-    "PublicBrain/Aprender sobre Economía.md",
-    "Desarrollo y Crecimiento Económico.md",
-    "Probabilidad y Estadística.md",
-    "Introducción a Bitcoin.md",
-    "PublicBrain/Aprender sobre las pirncipales criptomonedas.md",
-    "Conceptos clave - blockchain, descentralización, criptografía, consenso, etc.md",
-    "Principales características y beneficios de las criptomonedas.md",
-    "PublicBrain/Aprender sobre Pyxel.md",
-    "Uso de paletas de colores y modos de mezcla en Pyxel.md",
-    "Creación de animaciones simples en Pyxel.md",
-    "Carga y visualización de sprites en Pyxel.md",
-    "Captura de eventos de entrada del usuario en PixiJS.md",
-    "PublicBrain/Aprender sobre PixiJS.md",
-    "Interacción de Usuario y Eventos.md",
-    "Aplicando transformaciones y animaciones a sprites (PixiJS).md",
-    "Modelos de implementación en la nube (pública, privada, híbrida).md",
-    "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "Acceso a datos de vendedores y compradores.md",
+    "PublicBrain/Ajustes de contraste y color.md",
+    "PublicBrain/A1-CA.md",
+    "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
+    "PublicBrain/B1-RO.md",
+    "PublicBrain/B1-GL.md",
+    "PublicBrain/B1-EN.md",
+    "PublicBrain/B1-RU.md",
+    "PublicBrain/B1-EU.md",
+    "PublicBrain/B1-GE.md",
+    "PublicBrain/B1-EO.md",
+    "PublicBrain/B1-AR.md",
+    "PublicBrain/B1-CA.md",
+    "PublicBrain/Árabe.md",
+    "PublicBrain/Avanzado HI.md",
+    "PublicBrain/Awadama Fever.md",
+    "PublicBrain/Avi.md",
+    "PublicBrain/Aunt.md",
+    "PublicBrain/Uso de paletas de colores y modos de mezcla en Pyxel.md",
+    "PublicBrain/Uso de los pronombres personales y posesivos (A2-CA).md",
+    "PublicBrain/Técnicas de análisis filosófico (Estudio persamiento y filosofía de una persona).md",
+    "PublicBrain/Probabilidad y Estadística.md",
+    "PublicBrain/Principales características y beneficios de las criptomonedas.md",
+    "PublicBrain/Overfitting y underfitting.md",
+    "PublicBrain/Oraciones condicionales y comparativas simples (A2-CA).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Rol Project Manager.md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Rol Project Manager.md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Rol Project Manager.md",
+                "file": "PublicBrain/WCAG 2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Rol Project Manager.md"
+                "file": "PublicBrain/WCAG 2.1.md"
               }
             }
           },
@@ -175,6 +175,9 @@
   },
   "active": "3d199c28412a7046",
   "lastOpenFiles": [
+    "Legibilidad.md",
+    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Rol Project Manager.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "Estructuras condicionales - if, else, switch.md",
@@ -198,9 +201,6 @@
     "Dirección Estratégica.md",
     "PublicBrain/Introducción a la empresa.md",
     "Historia y evolución del mercado de criptomonedas.md",
-    "PublicBrain/Aprender sobre las pirncipales criptomonedas.md",
-    "¿Qué son las criptomonedas?.md",
-    "Fundamentos de las criptomonedas.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

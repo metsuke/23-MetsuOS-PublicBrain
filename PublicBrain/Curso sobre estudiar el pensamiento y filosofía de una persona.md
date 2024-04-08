@@ -41,7 +41,7 @@ tags:
    - B. [[Selección de fuentes primarias y secundarias (Estudio persamiento y filosofía de una persona)]]
 
    - C. [[Técnicas de análisis filosófico (Estudio persamiento y filosofía de una persona)]]
-   - D. Ética en la investigación filosófica
+   - D. [[Ética en la investigación filosófica (Estudio persamiento y filosofía de una persona)]]
    
 ## IV. Biografía del Individuo
    - A. Antecedentes personales y familiares

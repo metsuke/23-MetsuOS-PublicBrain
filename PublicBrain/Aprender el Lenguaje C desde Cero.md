@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.514Z
-modified: 2024-04-07T19:04:57.042Z
+modified: 2024-04-08T10:15:05.467Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 30
+ver_rev: 31
 nav_primary: 
 nav_secondary: 
 tags:
@@ -49,7 +49,7 @@ tags:
 ## Funciones y Estructuras de Datos
 
 * [[Funciones en Lenguaje C]]
-	* Declaración y definición de funciones
+	* [[Declaración y definición de funciones en Lenguaje C]]
 	* Paso por valor y por referencia
 * Arreglos/Arrays y Punteros
 	* Declaración y uso de arreglos/arrays

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declaración y definición de funciones en Lenguaje C.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declaración y definición de funciones en Lenguaje C.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declaración y definición de funciones en Lenguaje C.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declaración y definición de funciones en Lenguaje C.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,12 +164,20 @@
   },
   "active": "8d1bdbe9991b1575",
   "lastOpenFiles": [
+    "Aprendeer con D-F.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender con A-C.md",
+    "PublicBrain/Aprender sobre World of Warcraft.md",
+    "PublicBrain/Aprender sobre Geografía de World of Warcraft.md",
+    "PublicBrain/Aprender sobre Geografía de Pandaria en World of Warcraft.md",
+    "PublicBrain/Funciones en Lenguaje C.md",
+    "PublicBrain/Declaración y definición de funciones en Lenguaje C.md",
+    "PublicBrain/Bucles - for, while, do-while.md",
+    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
     "Declaración y definición de funciones en Lenguaje C.md",
     "Funciones en Lenguaje C.md",
     "Bucles - for, while, do-while.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/MOS FlashCards AR (Flashcards MetsuOS).md",
@@ -182,14 +190,6 @@
     "Saludos informales (AR Flashcards).md",
     "Saludos formales (AR Flashcards).md",
     "PublicBrain/Aprender Idioma Inglés.md",
-    "PublicBrain/MOS FlashCards EN (Flashcards MetsuOS).md",
-    "Frases de cortesía  (EN Flashcards).md",
-    "Saludos informales (EN Flashcards).md",
-    "PublicBrain/Saludos formales (EN Flashcards).md",
-    "PublicBrain/Promting Database.md",
-    "Saludos formales (EN Flashcards).md",
-    "PublicBrain/Saludos informales (ZH Flashcards).md",
-    "PublicBrain/Saludos formales (ZH Flashcards).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

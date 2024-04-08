@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-08T10:19:38.030Z
+modified: 2024-04-08T10:25:25.537Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Declaración y definición de funciones en Lenguaje C
 
 [[Aprender el Lenguaje C desde Cero]]

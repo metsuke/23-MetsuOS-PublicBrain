@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.490Z
-modified: 2024-04-06T23:49:42.307Z
+modified: 2024-04-08T20:06:48.961Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender con A-F
+# Aprender con A-C
 
 [[PublicBrain/Index|Index]]
 
@@ -35,18 +35,4 @@ tags:
 * Aprender con Clara Galán
 * [[Aprender con Coronel Baños]]
 * Aprender con Cris Carrascosa
-* Aprender con Daniel Aragay Esteban
-* Aprender con Daniel Iván Reyes
-* Aprender con David Saavedra
-* Aprender con Diego Marañón
-* Aprender con Doctor José Cabrera
-* Aprender con Doctor Jose Miguel Gaona
-* Aprender con Doctora Lujan Comas
-* Aprender con Eduardo Sáenz de Cabezón
-* Aprender con Enrique de Vicente
-* Aprender con Fabián González Rivas
-* Aprender con Felix Rodriguez de la Fuente
-* Aprender con Fernando Miralles
-* Aprender con Fran Gallego
-* Aprender con Francisco José Fernandez-Cruz Sequera
-* Aprender con Freddy Vega
+* Aprender con Cristina Martín

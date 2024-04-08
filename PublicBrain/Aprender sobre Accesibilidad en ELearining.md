@@ -75,7 +75,7 @@ tags:
 - [[Desafíos emergentes y áreas de desarrollo futuro]]
 
 ## Conclusiones y Recursos Adicionales
-- Resumen de los conceptos clave y conclusiones del curso
+- [[Resumen de los conceptos clave y conclusiones del curso]]
 - Recursos adicionales, lecturas recomendadas y comunidades de apoyo
 
 

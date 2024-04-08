@@ -42,7 +42,7 @@ tags:
 ## Módulo 3: Gramática Fundamental
 
 3.1. [[Los tiempos verbales en presente, pasado y futuro (A2-CA)]]
-3.2. Uso de los pronombres personales y posesivos.
+3.2. [[Uso de los pronombres personales y posesivos (A2-CA)]]
 3.3. Oraciones condicionales y comparativas simples.
 3.4. Estructura básica de preguntas y respuestas.
 
@@ -53,7 +53,7 @@ tags:
 4.3. La música y el cine en catalán.
 4.4. La gastronomía y platos típicos.
 
-## Módulo 5: "H"abilidades de Lectura y Escritura
+## Módulo 5: Habilidades de Lectura y Escritura
 
 5.1. Comprensión de textos sencillos.
 5.2. Escritura de correos electrónicos y mensajes.

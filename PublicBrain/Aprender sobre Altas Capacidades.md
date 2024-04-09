@@ -76,7 +76,7 @@ tags:
 
 ## Evaluación del Curso
 - Pruebas de conocimiento
-- Retroalimentación del participante
+- [[Retroalimentación del participante]]
 
 ## Cierre y Certificación
 - [[Agradecimientos (Altas Capacidades)]]

@@ -38,7 +38,7 @@ tags:
 	* Ejemplos de historias poderosas
 ## Creación de Historias Impactantes
 
-* Identificación de la Audiencia
+* [[Identificación de la Audiencia en Storytelling]]
 	* Cómo conocer a tu audiencia
 	* La importancia de la empatía
 * Desarrollo de Personajes

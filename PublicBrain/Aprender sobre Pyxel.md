@@ -45,7 +45,7 @@ tags: []
 - [[Uso de librerías externas para generar y reproducir audio en Pyxel]]
 
 ## Interacción del Usuario en Pyxel
-- Implementación de menús y pantallas de inicio
+- [[Implementación de menús y pantallas de inicio en Pyxel]]
 - Manejo de la entrada de teclado y mouse
 - Creación de sistemas de puntuación y marcadores
 - Implementación de controles y ajustes de usuario

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principios de escalabilidad y resiliencia en la nube.md",
+                "file": "Reproducción de sonidos y efectos de sonido en Pyxel.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principios de escalabilidad y resiliencia en la nube.md",
+                "file": "Reproducción de sonidos y efectos de sonido en Pyxel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principios de escalabilidad y resiliencia en la nube.md",
+                "file": "Reproducción de sonidos y efectos de sonido en Pyxel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principios de escalabilidad y resiliencia en la nube.md"
+                "file": "Reproducción de sonidos y efectos de sonido en Pyxel.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "8d1bdbe9991b1575",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "Reproducción de sonidos y efectos de sonido en Pyxel.md",
     "Principios de escalabilidad y resiliencia en la nube.md",
+    "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
     "Componentes clave de una arquitectura en la nube (servidores, redes, almacenamiento, bases de datos, seguridad).md",
     "Servicios en la nube (IaaS, PaaS, SaaS).md",
     "Gestión de eventos y detección de colisiones en PixiJS.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Entrega de certificados de participación.md",
     "PublicBrain/Retroalimentación del participante.md",
-    "PublicBrain/Pruebas de conocimiento (Altas Capacidades).md",
-    "PublicBrain/Entrega de certificados de participación.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

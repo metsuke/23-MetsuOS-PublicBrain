@@ -40,7 +40,7 @@ tags: []
 - [[Uso de paletas de colores y modos de mezcla en Pyxel]]
 
 ## Sonido y Música en Pyxel
-- Reproducción de sonidos y efectos de sonido
+- [[Reproducción de sonidos y efectos de sonido en Pyxel]]
 - Creación de música de fondo y bucles de audio
 - Uso de librerías externas para generar y reproducir audio
 

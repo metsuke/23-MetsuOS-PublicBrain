@@ -44,7 +44,7 @@ Bien, es hora de definir el Roadmap para estudiar economía, a falta de revisar 
 	- Econometría
 	- Optimización
 	- Economía financiera y Contabilidad
-- Economía Aplicada
+- [[Economía Aplicada]]
 	- Economía Ecológica
 	- Economía de la Educación.
 	- Economía de la Innovación.

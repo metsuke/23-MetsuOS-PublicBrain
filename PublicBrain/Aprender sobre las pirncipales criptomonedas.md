@@ -35,7 +35,7 @@ tags: []
 - [[Introducción a Bitcoin]]
 - [[Historia y desarrollo de Bitcoin]]
 - [[Estructura y funcionamiento de la red Bitcoin]]
-- Minería de Bitcoin y recompensas de bloque
+- [[Minería de Bitcoin y recompensas de bloque]]
 - Wallets y almacenamiento seguro de Bitcoin
 - Transacciones y confirmaciones en la red Bitcoin
 

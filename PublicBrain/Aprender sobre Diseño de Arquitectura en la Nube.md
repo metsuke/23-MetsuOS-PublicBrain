@@ -33,7 +33,7 @@ tags: []
 - [[Componentes clave de una arquitectura en la nube (servidores, redes, almacenamiento, bases de datos, seguridad)]]
 
 ## Diseño de Arquitecturas en la Nube Escalables y Resilientes
-- Principios de escalabilidad y resiliencia en la nube
+- [[Principios de escalabilidad y resiliencia en la nube]]
 - Estrategias para la distribución de carga y gestión de tráfico
 - Patrones de diseño para la redundancia y la tolerancia a fallos
 - Herramientas y servicios para la monitorización y el autoscaling

@@ -68,7 +68,7 @@ tags:
 ## Problemas Comunes en IA
 
 - [[Overfitting y underfitting]]
-- Sesgo y equidad en los modelos
+- [[Sesgo y equidad en los modelos]]
 - [[Interpretabilidad de modelos]]
 
 ## Aplicaciones Específicas de la IA

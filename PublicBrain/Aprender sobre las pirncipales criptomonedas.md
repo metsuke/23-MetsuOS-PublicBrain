@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.629Z
-modified: 2024-04-08T04:20:00.820Z
+modified: 2024-04-09T21:14:28.780Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 8
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -33,7 +33,7 @@ tags: []
 
 ## Bitcoin (BTC)
 - [[Introducción a Bitcoin]]
-- Historia y desarrollo de Bitcoin
+- [[Historia y desarrollo de Bitcoin]]
 - Estructura y funcionamiento de la red Bitcoin
 - Minería de Bitcoin y recompensas de bloque
 - Wallets y almacenamiento seguro de Bitcoin

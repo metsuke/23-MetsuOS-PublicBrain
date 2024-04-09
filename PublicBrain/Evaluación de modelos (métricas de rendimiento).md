@@ -18,6 +18,24 @@ tags: []
 
 [[Aprender sobre Inteligencia Artificial]]
 
+
+Por supuesto, en el ámbito de la inteligencia artificial, la evaluación de modelos es fundamental para determinar su rendimiento y su capacidad para generalizar a nuevos datos. Existen diversas métricas que se utilizan para evaluar el rendimiento de modelos de inteligencia artificial, algunas de las cuales son:
+
+1. Exactitud (Accuracy): Esta métrica calcula la proporción de predicciones correctas del modelo en relación con el total de predicciones realizadas. Es una métrica básica pero importante para evaluar modelos de clasificación binaria o multiclase.
+
+2. Precisión (Precision) y Recall (Recuperación): La precisión mide la proporción de predicciones positivas que fueron correctas, mientras que el recall mide la proporción de instancias positivas que fueron correctamente predichas por el modelo. Estas métricas son especialmente útiles en problemas de desequilibrio de clases.
+
+3. F1-Score: Es la media armónica de precisión y recall, lo que permite tener una medida única que combine ambas métricas y es útil cuando se necesita encontrar un equilibrio entre precisión y recall.
+
+4. Curva ROC y Área bajo la curva (AUC-ROC): La curva ROC es una representación gráfica del rendimiento de un clasificador binario a varios umbrales de discriminación. El AUC-ROC es el área debajo de la curva ROC y proporciona una medida de la calidad del modelo en términos de sus tasas de verdaderos positivos y falsos positivos.
+
+5. MSE (Mean Squared Error) y RMSE (Root Mean Squared Error): Estas métricas se utilizan comúnmente en problemas de regresión para evaluar la diferencia entre los valores predichos por el modelo y los valores reales. El RMSE es la raíz cuadrada del MSE y proporciona una medida de la magnitud de los errores de predicción.
+
+Estas son solo algunas de las métricas de rendimiento que se utilizan comúnmente en inteligencia artificial para evaluar la eficacia de los modelos. Es importante seleccionar las métricas adecuadas en función del problema y del tipo de modelo que se está evaluando para obtener una evaluación precisa de su rendimiento.
+
+
+---
+
 La evaluación de modelos en inteligencia artificial es una parte fundamental del proceso de desarrollo de soluciones que involucran algoritmos de aprendizaje automático. Es importante validar la efectividad y el rendimiento de un modelo para asegurarse de que cumple con los objetivos establecidos.
 
 Existen diversas métricas de rendimiento que se utilizan para evaluar un modelo de inteligencia artificial. Algunas de las más comunes incluyen:

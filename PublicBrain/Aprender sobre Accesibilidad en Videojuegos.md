@@ -77,7 +77,7 @@ tags:
 
 ## XI. Proyecto Final
    - Desarrollo de un videojuego accesible.
-   - Implementación de principios aprendidos.
+   - [[Implementación de principios aprendidos]]
    - Presentación y evaluación del proyecto.
 
 ## XII. Conclusiones y Recursos Adicionales

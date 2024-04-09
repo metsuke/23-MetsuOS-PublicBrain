@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.524Z
-modified: 2024-04-08T03:47:45.274Z
+modified: 2024-04-09T16:21:00.726Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 36
+ver_rev: 37
 nav_primary: 
 nav_secondary: 
 tags:
@@ -79,5 +79,5 @@ tags:
 - Retroalimentación del participante
 
 ## Cierre y Certificación
-- Agradecimientos
+- [[Agradecimientos (Altas Capacidades)]]
 - Entrega de certificados de participación

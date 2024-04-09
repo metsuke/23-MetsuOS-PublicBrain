@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-09T05:57:14.362Z
+modified: 2024-04-09T05:58:57.490Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Implementación de principios aprendidos
 
 [[Aprender sobre Accesibilidad en Videojuegos]]

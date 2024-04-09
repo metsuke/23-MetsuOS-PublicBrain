@@ -75,7 +75,7 @@ tags:
 - [[Recursos para seguir aprendiendo sobre AA. CC.]]
 
 ## Evaluación del Curso
-- Pruebas de conocimiento
+- [[Pruebas de conocimiento (Altas Capacidades)]]
 - [[Retroalimentación del participante]]
 
 ## Cierre y Certificación

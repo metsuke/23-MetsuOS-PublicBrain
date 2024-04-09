@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "Herramientas y bibliotecas populares (TensorFlow, PyTorch).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "Herramientas y bibliotecas populares (TensorFlow, PyTorch).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+                "file": "Herramientas y bibliotecas populares (TensorFlow, PyTorch).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md"
+                "file": "Herramientas y bibliotecas populares (TensorFlow, PyTorch).md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "8d1bdbe9991b1575",
   "lastOpenFiles": [
-    "Modelos autoencoder.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
+    "Herramientas y bibliotecas populares (TensorFlow, PyTorch).md",
+    "Modelos autoencoder.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "Entrega de certificados de participación.md",
     "PublicBrain/Retroalimentación del participante.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Index.md",
     "PublicBrain/Aprender con D-F.md",
     "Niveles de Conformidad.md",
-    "PublicBrain/WCAG 2.0.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

@@ -72,7 +72,7 @@ tags: []
 
 ## Implementación Práctica
 
-* Herramientas y bibliotecas populares (TensorFlow, PyTorch)
+* [[Herramientas y bibliotecas populares (TensorFlow, PyTorch)]]
 * Configuración de un entorno de desarrollo
 * Desarrollo de modelos de redes neuronales desde cero
 * Evaluación de modelos y métricas

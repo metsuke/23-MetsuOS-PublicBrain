@@ -42,7 +42,7 @@ tags: []
 ## Sonido y Música en Pyxel
 - [[Reproducción de sonidos y efectos de sonido en Pyxel]]
 - [[Creación de música de fondo y bucles de audio en Pyxel]]
-- Uso de librerías externas para generar y reproducir audio
+- [[Uso de librerías externas para generar y reproducir audio en Pyxel]]
 
 ## Interacción del Usuario en Pyxel
 - Implementación de menús y pantallas de inicio

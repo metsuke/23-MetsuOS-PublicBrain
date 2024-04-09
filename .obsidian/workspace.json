@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reproducción de sonidos y efectos de sonido en Pyxel.md",
+                "file": "Creación de música de fondo y bucles de audio en Pyxel.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reproducción de sonidos y efectos de sonido en Pyxel.md",
+                "file": "Creación de música de fondo y bucles de audio en Pyxel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reproducción de sonidos y efectos de sonido en Pyxel.md",
+                "file": "Creación de música de fondo y bucles de audio en Pyxel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reproducción de sonidos y efectos de sonido en Pyxel.md"
+                "file": "Creación de música de fondo y bucles de audio en Pyxel.md"
               }
             }
           },
@@ -165,6 +165,22 @@
   "active": "8d1bdbe9991b1575",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre Pyxel.md",
+    "Creación de música de fondo y bucles de audio en Pyxel.md",
+    "PublicBrain/Sesgo y equidad en los modelos.md",
+    "PublicBrain/Servicios en la nube (IaaS, PaaS, SaaS).md",
+    "PublicBrain/Reproducción de sonidos y efectos de sonido en Pyxel.md",
+    "PublicBrain/Principios de escalabilidad y resiliencia en la nube.md",
+    "PublicBrain/Modelos autoencoder.md",
+    "PublicBrain/Influencias intelectuales y filosóficas (Estudio persamiento y filosofía de una persona).md",
+    "PublicBrain/Implementación de interacción de usuario (clics, toques, arrastres) en PixiJS.md",
+    "PublicBrain/Herramientas y bibliotecas populares (TensorFlow, PyTorch).md",
+    "PublicBrain/Gestión de eventos y detección de colisiones en PixiJS.md",
+    "PublicBrain/Formación académica y educación (Estudio persamiento y filosofía de una persona).md",
+    "PublicBrain/Entrenamiento de modelos de IA.md",
+    "PublicBrain/Creación de botones y elementos interactivos en PixiJS.md",
+    "PublicBrain/Configuración de un entorno de desarrollo.md",
+    "PublicBrain/Componentes clave de una arquitectura en la nube (servidores, redes, almacenamiento, bases de datos, seguridad).md",
+    "PublicBrain/Antecedentes personales y familiares (Estudio persamiento y filosofía de una persona).md",
     "Reproducción de sonidos y efectos de sonido en Pyxel.md",
     "Principios de escalabilidad y resiliencia en la nube.md",
     "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
@@ -174,22 +190,6 @@
     "PublicBrain/Aprender sobre PixiJS.md",
     "Creación de botones y elementos interactivos en PixiJS.md",
     "Implementación de interacción de usuario (clics, toques, arrastres) en PixiJS.md",
-    "Entrenamiento de modelos de IA.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "Sesgo y equidad en los modelos.md",
-    "PublicBrain/Evaluación de modelos (métricas de rendimiento).md",
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
-    "Influencias intelectuales y filosóficas (Estudio persamiento y filosofía de una persona).md",
-    "PublicBrain/Aprender con Pablo Grueso.md",
-    "Formación académica y educación (Estudio persamiento y filosofía de una persona).md",
-    "Antecedentes personales y familiares (Estudio persamiento y filosofía de una persona).md",
-    "Configuración de un entorno de desarrollo.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "Herramientas y bibliotecas populares (TensorFlow, PyTorch).md",
-    "Modelos autoencoder.md",
-    "PublicBrain/Aprender sobre Altas Capacidades.md",
-    "Entrega de certificados de participación.md",
-    "PublicBrain/Retroalimentación del participante.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

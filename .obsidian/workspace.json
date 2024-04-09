@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creación de música de fondo y bucles de audio en Pyxel.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creación de música de fondo y bucles de audio en Pyxel.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creación de música de fondo y bucles de audio en Pyxel.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creación de música de fondo y bucles de audio en Pyxel.md"
+                "file": "PublicBrain/Aprender sobre Pyxel.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "8d1bdbe9991b1575",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Pyxel.md",
     "Creación de música de fondo y bucles de audio en Pyxel.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
     "PublicBrain/Sesgo y equidad en los modelos.md",
     "PublicBrain/Servicios en la nube (IaaS, PaaS, SaaS).md",
     "PublicBrain/Reproducción de sonidos y efectos de sonido en Pyxel.md",

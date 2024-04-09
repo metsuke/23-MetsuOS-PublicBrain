@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.536Z
-modified: 2024-04-08T04:03:46.082Z
+modified: 2024-04-09T20:53:09.030Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -30,7 +30,7 @@ tags: []
 - [[Conceptos básicos de computación en la nube]]
 - [[Modelos de implementación en la nube (pública, privada, híbrida)]]
 - [[Servicios en la nube (IaaS, PaaS, SaaS)]]
-- Componentes clave de una arquitectura en la nube (servidores, redes, almacenamiento, bases de datos, seguridad)
+- [[Componentes clave de una arquitectura en la nube (servidores, redes, almacenamiento, bases de datos, seguridad)]]
 
 ## Diseño de Arquitecturas en la Nube Escalables y Resilientes
 - Principios de escalabilidad y resiliencia en la nube

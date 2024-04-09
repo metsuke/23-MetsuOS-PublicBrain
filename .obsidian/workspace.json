@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servicios en la nube (IaaS, PaaS, SaaS).md",
+                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicios en la nube (IaaS, PaaS, SaaS).md",
+                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servicios en la nube (IaaS, PaaS, SaaS).md",
+                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servicios en la nube (IaaS, PaaS, SaaS).md"
+                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "8d1bdbe9991b1575",
   "lastOpenFiles": [
+    "Componentes clave de una arquitectura en la nube (servidores, redes, almacenamiento, bases de datos, seguridad).md",
     "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
     "Servicios en la nube (IaaS, PaaS, SaaS).md",
     "Gestión de eventos y detección de colisiones en PixiJS.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Pruebas de conocimiento (Altas Capacidades).md",
     "PublicBrain/Entrega de certificados de participación.md",
     "PublicBrain/Agradecimientos (Altas Capacidades).md",
-    "Pruebas de conocimiento (Altas Capacidades).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

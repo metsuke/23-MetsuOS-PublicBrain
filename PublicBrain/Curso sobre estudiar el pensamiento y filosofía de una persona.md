@@ -45,7 +45,7 @@ tags:
    
 ## IV. Biografía del Individuo
    - A. [[Antecedentes personales y familiares (Estudio persamiento y filosofía de una persona)]]
-   - B. Formación académica y educación
+   - B. [[Formación académica y educación (Estudio persamiento y filosofía de una persona)]]
    - C. Influencias intelectuales y filosóficas
    
 ## V. Contexto Histórico y Cultural

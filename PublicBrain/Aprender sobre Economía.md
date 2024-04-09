@@ -39,7 +39,7 @@ Bien, es hora de definir el Roadmap para estudiar economía, a falta de revisar 
 	- [[Desarrollo y Crecimiento Económico]]
 	- [[Comercio Mundial y Sistema Monetario]]
 	- [[Probabilidad y Estadística]]
-	- Teoría de Juegos
+	- [[Teoría de Juegos]]
 	- Métodos de investigación para Economistas.
 	- Econometría
 	- Optimización

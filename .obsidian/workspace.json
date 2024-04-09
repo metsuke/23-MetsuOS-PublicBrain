@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minería de Bitcoin y recompensas de bloque.md",
+                "file": "Teoría de Juegos.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minería de Bitcoin y recompensas de bloque.md",
+                "file": "Teoría de Juegos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minería de Bitcoin y recompensas de bloque.md",
+                "file": "Teoría de Juegos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minería de Bitcoin y recompensas de bloque.md"
+                "file": "Teoría de Juegos.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "8d1bdbe9991b1575",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre las pirncipales criptomonedas.md",
+    "PublicBrain/Aprender sobre Economía.md",
+    "Teoría de Juegos.md",
     "Minería de Bitcoin y recompensas de bloque.md",
+    "PublicBrain/Aprender sobre las pirncipales criptomonedas.md",
     "Estructura y funcionamiento de la red Bitcoin.md",
     "Historia y desarrollo de Bitcoin.md",
     "Implementación de menús y pantallas de inicio en Pyxel.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Componentes clave de una arquitectura en la nube (servidores, redes, almacenamiento, bases de datos, seguridad).md",
     "PublicBrain/Antecedentes personales y familiares (Estudio persamiento y filosofía de una persona).md",
     "Reproducción de sonidos y efectos de sonido en Pyxel.md",
-    "Principios de escalabilidad y resiliencia en la nube.md",
-    "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

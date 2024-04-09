@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-09T20:29:48.199Z
+modified: 2024-04-09T20:32:25.853Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Herramientas y bibliotecas populares (TensorFlow, PyTorch)
 
 [[Estructura y funcionamiento de las  redes neuronales]]

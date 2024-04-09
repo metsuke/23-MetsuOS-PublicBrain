@@ -44,7 +44,7 @@ tags:
    - D. [[Ética en la investigación filosófica (Estudio persamiento y filosofía de una persona)]]
    
 ## IV. Biografía del Individuo
-   - A. Antecedentes personales y familiares
+   - A. [[Antecedentes personales y familiares (Estudio persamiento y filosofía de una persona)]]
    - B. Formación académica y educación
    - C. Influencias intelectuales y filosóficas
    

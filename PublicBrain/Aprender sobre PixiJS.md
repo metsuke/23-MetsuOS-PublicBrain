@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-04-08T04:10:16.652Z
+modified: 2024-04-09T20:39:34.436Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 30
+ver_rev: 31
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,7 +39,7 @@ tags:
 
 - [[Captura de eventos de entrada del usuario en PixiJS]]
 - [[Implementación de interacción de usuario (clics, toques, arrastres) en PixiJS]]
-- Creación de botones y elementos interactivos
+- [[Creación de botones y elementos interactivos en PixiJS]]
 - Gestión de eventos y detección de colisiones
 ## Accesibilidad en PixiJS
 

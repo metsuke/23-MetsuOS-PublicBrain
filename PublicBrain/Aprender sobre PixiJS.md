@@ -40,7 +40,7 @@ tags:
 - [[Captura de eventos de entrada del usuario en PixiJS]]
 - [[Implementación de interacción de usuario (clics, toques, arrastres) en PixiJS]]
 - [[Creación de botones y elementos interactivos en PixiJS]]
-- Gestión de eventos y detección de colisiones
+- [[Gestión de eventos y detección de colisiones en PixiJS]]
 ## Accesibilidad en PixiJS
 
 - Conceptos básicos de accesibilidad web

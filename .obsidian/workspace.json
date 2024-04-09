@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entrenamiento de modelos de IA.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entrenamiento de modelos de IA.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entrenamiento de modelos de IA.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entrenamiento de modelos de IA.md"
+                "file": "PublicBrain/Aprender sobre PixiJS.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "8d1bdbe9991b1575",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "Implementación de interacción de usuario (clics, toques, arrastres) en PixiJS.md",
+    "PublicBrain/Aprender sobre PixiJS.md",
     "Entrenamiento de modelos de IA.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "Sesgo y equidad en los modelos.md",
     "PublicBrain/Evaluación de modelos (métricas de rendimiento).md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
@@ -188,8 +190,6 @@
     "Agradecimientos (Altas Capacidades).md",
     "PublicBrain/Ciclo de retroalimentación y mejora continua (Accesibilidad Gaming).md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "Implementación de principios aprendidos.md",
-    "PublicBrain/Regiones.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

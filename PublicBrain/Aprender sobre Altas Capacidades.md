@@ -80,4 +80,4 @@ tags:
 
 ## Cierre y Certificación
 - [[Agradecimientos (Altas Capacidades)]]
-- Entrega de certificados de participación
+- [[Entrega de certificados de participación]]

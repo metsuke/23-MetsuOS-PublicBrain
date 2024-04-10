@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.586Z
-modified: 2024-04-09T21:01:17.538Z
+modified: 2024-04-10T10:26:47.351Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 9
+ver_rev: 10
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -48,7 +48,7 @@ tags: []
 - [[Implementación de menús y pantallas de inicio en Pyxel]]
 - [[Manejo de la entrada de teclado y mouse (Pyxel)]]
 - [[Creación de sistemas de puntuación y marcadores en Pyxel]]
-- Implementación de controles y ajustes de usuario
+- [[Implementación de controles y ajustes de usuario en Pyxel]]
 
 ## Físicas y Colisiones en Pyxel
 - Conceptos básicos de física en juegos

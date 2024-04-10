@@ -21,7 +21,7 @@ tags: []
 [[Aprender sobre Interacción Digital Remota mediante API]]
 
 ## Introducción
-- ¿Qué es Bluesky?
+- [[¿Qué es Bluesky? (IDRA-Bluesky)]]
 - ¿Por qué interactuar con Bluesky a través de una API?
 - Objetivos del curso
 

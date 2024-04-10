@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paginación y límites de resultados (IDRA-Ebay).md",
+                "file": "¿Qué es Bluesky? (IDRA-Bluesky).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paginación y límites de resultados (IDRA-Ebay).md",
+                "file": "¿Qué es Bluesky? (IDRA-Bluesky).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paginación y límites de resultados (IDRA-Ebay).md",
+                "file": "¿Qué es Bluesky? (IDRA-Bluesky).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paginación y límites de resultados (IDRA-Ebay).md"
+                "file": "¿Qué es Bluesky? (IDRA-Bluesky).md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "3e5c4dc52360ca5f",
   "lastOpenFiles": [
-    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "PublicBrain/Interaccción Digital Remota mediante API con Bluesky.md",
+    "¿Qué es Bluesky? (IDRA-Bluesky).md",
     "Paginación y límites de resultados (IDRA-Ebay).md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Gestión de carritos de compras y órdenes (IDRA-Ebay).md",
     "Eliminación de listados (IDRA-Ebay).md",
     "PublicBrain/B2-GE.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Amore.md",
     "PublicBrain/Alfabeto catalán y pronunciación (A1-CA).md",
     "PublicBrain/Akatsuki.md",
-    "PublicBrain/A1-GL.md",
-    "PublicBrain/Aprender Idioma Gallego.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

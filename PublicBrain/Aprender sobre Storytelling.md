@@ -39,7 +39,7 @@ tags:
 ## Creación de Historias Impactantes
 
 * [[Identificación de la Audiencia en Storytelling]]
-	* Cómo conocer a tu audiencia
+	* [[Cómo conocer a tu audiencia en Storytelling]]
 	* La importancia de la empatía
 * Desarrollo de Personajes
 	* Creación y desarrollo de personajes memorables

@@ -71,7 +71,7 @@ tags:
    - [[Lecciones aprendidas y recomendaciones (Accesibilidad Gaming)]]
 
 ## X. Futuro de la Accesibilidad en Videojuegos
-   - Avances tecnológicos y tendencias.
+   - [[Avances tecnológicos y tendencias en accesibilidad para Videojuegos]]
    - Comunidad y recursos disponibles.
    - [[Perspectivas y desafíos en la accesibilidad para Videojuegos]]
 

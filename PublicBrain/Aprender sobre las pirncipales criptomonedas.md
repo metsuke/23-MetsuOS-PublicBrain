@@ -40,7 +40,7 @@ tags: []
 - [[Transacciones y confirmaciones en la red Bitcoin]]
 
 ## Ethereum (ETH)
-- Introducción a Ethereum
+- [[Introducción a Ethereum]]
 - Concepto de contratos inteligentes
 - Desarrollo de aplicaciones descentralizadas (DApps) en Ethereum
 - Estructura de la red Ethereum y su papel en DeFi (Finanzas Descentralizadas)

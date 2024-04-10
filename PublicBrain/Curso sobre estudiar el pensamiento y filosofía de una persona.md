@@ -50,7 +50,7 @@ tags:
    
 ## V. Contexto Histórico y Cultural
    - A. [[Época y lugar de vida del individuo (Estudio persamiento y filosofía de una persona)]]
-   - B. Eventos políticos, sociales y culturales relevantes
+   - B. [[Eventos políticos, sociales y culturales relevantes (Estudio persamiento y filosofía de una persona)]]
    
 ## VI. Desarrollo de Ideas Filosóficas
    - A. Principales obras y escritos

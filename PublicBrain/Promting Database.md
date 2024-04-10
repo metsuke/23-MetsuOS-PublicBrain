@@ -1,5 +1,5 @@
 ---
-iaStatus: 1
+iaStatus: 8
 iaStatus_Generado: "H"
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.616Z
-modified: 2024-04-08T08:29:09.099Z
+modified: 2024-04-10T21:27:26.624Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 35
+ver_rev: 37
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,10 @@ tags:
 necesito una tabla detallada y exhaustiva de características técnicas del videojuego Shark Shark. Damelo en marldown para poder copiarlo
 
 ## Aprender Crear Cursos
+
+### Idiomas
+
+* En el contexto de aprender idioma Gallego, necesito un indice de contenidos exhaustivo y detallado para estudiar el nivel A1 
 
 ### Idiomas  / Flashcards
 * En el contexto "Aprender Idioma Chino", dame un índice de tematicas exhaustiva y detallada, de no menos de 100 categorías, más si es necesario, para crear mis flashcards de aprendizaje del vocabulario. Damelo en marldown para poder copiarlo.

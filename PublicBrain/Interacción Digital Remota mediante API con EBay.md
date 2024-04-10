@@ -1,5 +1,5 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Generado: "I"
 iaStatus_Supervisado: "H"
 iaStatus_Validado: "-"
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-04-08T06:06:41.134Z
+modified: 2024-04-10T21:27:26.659Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 15
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
@@ -46,7 +46,7 @@ tags:
 ## Implementación de Operaciones CRUD
 - [[Creación de listados de productos (IDRA-Ebay)]]
 - [[Actualización de información de productos (IDRA-Ebay)]]
-- Eliminación de listados
+- [[Eliminación de listados (IDRA-Ebay)]]
 - Gestión de carritos de compras y órdenes
 
 ## Optimización y Mejoras en la Interacción con la API

@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.714Z
-modified: 2024-04-06T23:49:42.272Z
+modified: 2024-04-10T20:54:11.015Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # B1-VLC
 
@@ -48,7 +51,7 @@ tags: []
 - Unidad 13: Fiestas y Celebraciones
 - Unidad 14: Arte y Literatura
 - Unidad 15: Gastronomía y Cocina Regional
-- Unidad 16: Historia y Patrimonio
+- Unidad 16: "H"istoria y Patrimonio
 
 ## Módulo 5: Comunicación Profesional
 

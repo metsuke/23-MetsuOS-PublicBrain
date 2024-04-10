@@ -1,20 +1,20 @@
 ---
 iaStatus: 0
 iaStatus_Model: ""
-a11y: 0
+a11y: 1
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.739Z
-modified: 2024-04-06T23:49:42.270Z
+modified: 2024-04-10T20:59:38.273Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # B2-EO
 

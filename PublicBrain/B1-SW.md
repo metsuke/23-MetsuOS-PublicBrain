@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.701Z
-modified: 2024-04-06T23:49:42.272Z
+modified: 2024-04-10T20:59:44.336Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # B1-SW
 
@@ -43,7 +46,7 @@ tags: []
 - Discutir problemas contemporáneos
 - Desarrollar un pensamiento crítico
 
-### Lección 4: Historia y Política
+### Lección 4: "H"istoria y Política
 
 - Historia de África oriental
 - Política y eventos actuales

@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.688Z
-modified: 2024-04-06T23:49:42.275Z
+modified: 2024-04-10T20:54:11.018Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # B1-ES
 
@@ -50,7 +53,7 @@ tags: []
 4.3. La música y el cine en español.
 4.4. La gastronomía y platos típicos.
 
-## Módulo 5: Habilidades de Lectura y Escritura
+## Módulo 5: "H"abilidades de Lectura y Escritura
 
 5.1. Comprensión de textos sencillos.
 5.2. Escritura de correos electrónicos y mensajes.

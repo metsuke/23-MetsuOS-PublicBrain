@@ -43,7 +43,7 @@ Bien, es hora de definir el Roadmap para estudiar economía, a falta de revisar 
 	- [[Métodos de investigación para Economistas.]]
 	- Econometría
 	- Optimización
-	- Economía financiera y Contabilidad
+	- [[Economía financiera y Contabilidad]]
 - [[Economía Aplicada]]
 	- Economía Ecológica
 	- Economía de la Educación.

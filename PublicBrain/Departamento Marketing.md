@@ -6,15 +6,15 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T04:33:17.264Z
-modified: 2024-04-09T04:34:37.701Z
+modified: 2024-04-10T08:11:05.964Z
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Marketing
+# Departamento Marketing
 
 [[Estructurar una Microagencia de Marketing Digital]] | [[Glosario de Marketing Digital]]
 
@@ -78,8 +78,8 @@ graph TD
 
 ## Cursos recomendados
 
-* [Búsqueda en Platzi Rol Administración Negocios)](https://platzi.com/buscar/?search=Marketing)
-* [Generación de Ruta en Platzi para el Rol Administración Negocios](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20marketing)
+* [Búsqueda en Platzi Departamento Marleting)](https://platzi.com/buscar/?search=Marketing)
+* [Generación de Ruta en Platzi para el Departamento Marleting](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20marketing)
 
  ### Escuelas Platzi Recomendadas
 

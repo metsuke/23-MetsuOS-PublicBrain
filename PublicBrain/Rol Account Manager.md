@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.652Z
-modified: 2024-04-06T23:49:41.682Z
+modified: 2024-04-10T08:12:43.743Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -80,8 +80,8 @@ Este rol se encarga de mantener a todos los clientes con una sonrisa
 
 ## Cursos recomendados
 
-* [Búsqueda en Platzi Rol Administración Negocios)](https://platzi.com/buscar/?search=Rol%20Account%20manager)
-* [Generación de Ruta en Platzi para el Rol Administración Negocios](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20Account%20manager)
+* [Búsqueda en Platzi Rol Account Manager)](https://platzi.com/buscar/?search=Rol%20Account%20manager)
+* [Generación de Ruta en Platzi para el Rol Account Manager](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20Account%20manager)
 
  ### Escuelas Platzi Recomendadas
 

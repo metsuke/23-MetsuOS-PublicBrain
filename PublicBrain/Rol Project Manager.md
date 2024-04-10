@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.655Z
-modified: 2024-04-08T03:33:46.314Z
+modified: 2024-04-10T08:12:09.749Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -67,8 +67,8 @@ Este rol responde a la necesidad de coordinar y asegurarse del buen desarrollo d
 
 ## Cursos recomendados
 
-* [Búsqueda en Platzi Rol Administración Negocios)](https://platzi.com/buscar/?search=Rol%20Project%20manager)
-* [Generación de Ruta en Platzi para el Rol Administración Negocios](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20Project%20manager)
+* [Búsqueda en Platzi Rol Project Manager)](https://platzi.com/buscar/?search=Rol%20Project%20manager)
+* [Generación de Ruta en Platzi para el Rol Project Manager](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20Project%20manager)
 
  ### Escuelas Platzi Recomendadas
 

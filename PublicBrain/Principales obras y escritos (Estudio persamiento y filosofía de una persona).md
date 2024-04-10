@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-10T09:24:48.944Z
+modified: 2024-04-10T09:30:19.911Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Principales obras y escritos (Estudio persamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona]]

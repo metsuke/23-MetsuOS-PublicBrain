@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-10T09:27:31.140Z
+modified: 2024-04-10T09:30:19.913Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Estrategias para la distribución de carga y gestión de tráfico en la nube
 
 [[Aprender sobre Diseño de Arquitectura en la Nube]]

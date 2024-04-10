@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-04-09T20:39:34.436Z
+modified: 2024-04-10T10:13:29.357Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 31
+ver_rev: 32
 nav_primary: 
 nav_secondary: 
 tags:
@@ -43,7 +43,7 @@ tags:
 - [[Gestión de eventos y detección de colisiones en PixiJS]]
 ## Accesibilidad en PixiJS
 
-- Conceptos básicos de accesibilidad web
+- [[Conceptos básicos de accesibilidad web (PixiJS)]]
 - Directrices y estándares de accesibilidad (WCAG)
 - 4.3 Haciendo juegos y aplicaciones accesibles en PixiJS
 - Pruebas de accesibilidad y retroalimentación de usuarios

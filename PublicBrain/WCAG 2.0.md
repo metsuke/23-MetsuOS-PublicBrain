@@ -76,7 +76,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
     - [[Pauta 9 - Operabilidad y navegación]]
         - 9.1 [[Teclado]]
         - 9.2 Tiempo suficiente
-        - 9.3 Convulsiones
+        - 9.3 [[Convulsiones]]
     - **Pauta 10: Compatibilidad**
         - 10.1 [[Regiones]]
         - 10.2 Características de nombre, función y valor

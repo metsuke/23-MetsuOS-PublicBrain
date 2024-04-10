@@ -73,7 +73,7 @@ tags:
 ## X. Futuro de la Accesibilidad en Videojuegos
    - Avances tecnológicos y tendencias.
    - Comunidad y recursos disponibles.
-   - Perspectivas y desafíos en la accesibilidad.
+   - [[Perspectivas y desafíos en la accesibilidad para ELearning]]
 
 ## XI. Proyecto Final
    - Desarrollo de un videojuego accesible.

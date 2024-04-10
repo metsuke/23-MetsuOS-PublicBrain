@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "770b635c0398d896",
+        "id": "e53990876bce626b",
         "type": "tabs",
         "children": [
           {
-            "id": "8d1bdbe9991b1575",
+            "id": "3e5c4dc52360ca5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "Perspectivas y desafíos en la accesibilidad para ELearning.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "Perspectivas y desafíos en la accesibilidad para ELearning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "Perspectivas y desafíos en la accesibilidad para ELearning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md"
+                "file": "Perspectivas y desafíos en la accesibilidad para ELearning.md"
               }
             }
           },
@@ -162,11 +162,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8d1bdbe9991b1575",
+  "active": "3e5c4dc52360ca5f",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "Perspectivas y desafíos en la accesibilidad para ELearning.md",
+    "PublicBrain/Nivel AA (Requisitos Intermedios).md",
+    "PublicBrain/Convulsiones.md",
+    "PublicBrain/Características de nombre, función y valor.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "PublicBrain/WCAG 2.1.md",
     "Características de nombre, función y valor.md",
     "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/WCAG 2.1.md",
     "Convulsiones.md",
     "Nivel AA (Requisitos Intermedios).md",
     "PublicBrain/Rol Gestión Empresarial.md",
@@ -184,12 +190,6 @@
     "PublicBrain/Métodos de investigación para Economistas..md",
     "PublicBrain/Implementación de menús y pantallas de inicio en Pyxel.md",
     "PublicBrain/Identificación de la Audiencia en Storytelling.md",
-    "PublicBrain/Historia y desarrollo de Bitcoin.md",
-    "PublicBrain/Estructura y funcionamiento de la red Bitcoin.md",
-    "PublicBrain/Ejemplos de historias poderosas (Storytelling).md",
-    "PublicBrain/Economía Aplicada.md",
-    "PublicBrain/Creación de música de fondo y bucles de audio en Pyxel.md",
-    "PublicBrain/Aprender sonre Storytelling.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

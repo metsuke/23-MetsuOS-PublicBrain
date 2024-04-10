@@ -87,7 +87,7 @@ tags:
 
 - Pasatiempos y actividades recreativas
 - [[Hablar sobre planes de fin de semana (A1-SW)]]
-- Expresar intereses
+- [[Expresar intereses (A1-SW)]]
 
 ### Lección 10: Cultura y Tradiciones
 

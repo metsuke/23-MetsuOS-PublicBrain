@@ -58,7 +58,7 @@ tags:
 - [[Verbos regulares e irregulares (A1-AR)]]
 - [[Conjugación en presente (A1-AR)]]
 - Verbos de acción y estado
-- Frases simples con verbos
+- [[Frases simples con verbos (A1-AR)]]
 
 ## Módulo 6: Situaciones Cotidianas
 

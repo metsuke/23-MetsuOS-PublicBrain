@@ -1,20 +1,22 @@
 ---
+iaStatus: 0
+iaStatus_Model: ""
 a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2023-08-30T00:54:00
-modified: 2024-03-06T23:35:00
+created: 2024-04-10T08:50:33.287Z
+modified: 2024-04-10T08:51:21.725Z
 ver_major: 0
-ver_minor: "0"
-ver_rev: "0"
+ver_minor: 1
+ver_rev: 1
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Perspectivas y desafíos en la accesibilidad para ELearning
+# Perspectivas y desafíos en la accesibilidad para Videojuegos
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en Videojuegos]]
 
 La accesibilidad en videojuegos es un tema crucial que busca garantizar que todos los jugadores, independientemente de sus capacidades físicas o cognitivas, puedan disfrutar de la experiencia de juego de manera equitativa. Aunque se han realizado avances significativos en esta área, todavía existen desafíos y perspectivas a considerar para lograr una mayor inclusión.
 

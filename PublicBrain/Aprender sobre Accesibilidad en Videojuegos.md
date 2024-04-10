@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.519Z
-modified: 2024-04-09T05:57:13.857Z
+modified: 2024-04-10T08:51:27.405Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 40
+ver_rev: 41
 nav_primary: 
 nav_secondary: 
 tags:
@@ -73,10 +73,10 @@ tags:
 ## X. Futuro de la Accesibilidad en Videojuegos
    - Avances tecnológicos y tendencias.
    - Comunidad y recursos disponibles.
-   - [[Perspectivas y desafíos en la accesibilidad para ELearning]]
+   - [[Perspectivas y desafíos en la accesibilidad para Videojuegos]]
 
 ## XI. Proyecto Final
-   - Desarrollo de un videojuego accesible.
+   - [[Desarrollo de un videojuego accesible]]
    - [[Implementación de principios aprendidos]]
    - Presentación y evaluación del proyecto.
 

@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.668Z
-modified: 2024-04-06T23:49:42.054Z
+modified: 2024-04-10T21:33:33.363Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -23,7 +23,7 @@ tags: []
 ## Introducción
 - [[¿Qué es Bluesky? (IDRA-Bluesky)]]
 - [[¿Por qué interactuar con Bluesky a través de una API? (IDRA-Bluesky)]]
-- Objetivos del curso
+- [[Objetivos del curso (IDRA-Bluesky)]]
 
 ## Fundamentos de Bluesky
 - ¿Qué es Bluesky y cómo funciona?

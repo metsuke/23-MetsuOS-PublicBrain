@@ -92,7 +92,7 @@ tags:
 ### Lección 10: Cultura y Tradiciones
 
 - [[Festivales y celebraciones en Swahili (A1-SW)]]
-- Costumbres culturales
+- [[Costumbres culturales (A1-SW)]]
 - Explicar y entender tradiciones
 
 ## Módulo 6: Viajes y Turismo

@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-10T08:57:13.101Z
+modified: 2024-04-10T09:01:50.201Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Desarrollo de modelos de redes neuronales desde cero
 
 [[Estructura y funcionamiento de las  redes neuronales]]

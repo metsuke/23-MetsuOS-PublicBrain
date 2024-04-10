@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-10T08:57:57.184Z
+modified: 2024-04-10T09:01:50.187Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Generación de imágenes y texto
 
 [[Estructura y funcionamiento de las  redes neuronales]]

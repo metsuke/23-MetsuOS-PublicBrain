@@ -47,7 +47,7 @@ tags:
 - [[Creación de listados de productos (IDRA-Ebay)]]
 - [[Actualización de información de productos (IDRA-Ebay)]]
 - [[Eliminación de listados (IDRA-Ebay)]]
-- Gestión de carritos de compras y órdenes
+- [[Gestión de carritos de compras y órdenes (IDRA-Ebay)]]
 
 ## Optimización y Mejoras en la Interacción con la API
 - Paginación y límites de resultados

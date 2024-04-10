@@ -50,7 +50,7 @@ tags:
 
 4.1. [[Costumbres y tradiciones en regiones de habla catalana (A2-CA)]]
 4.2. [[Eventos culturales y festivales (A2-CA)]]
-4.3. La música y el cine en catalán.
+4.3. [[La música y el cine en catalán (A2-CA)]]
 4.4. La gastronomía y platos típicos.
 
 ## Módulo 5: Habilidades de Lectura y Escritura

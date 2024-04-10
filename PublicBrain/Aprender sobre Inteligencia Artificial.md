@@ -76,7 +76,7 @@ tags:
 - Visión por computadora (Computer Vision)
   - Detección de objetos
   - [[Reconocimiento facial]]
-- Procesamiento de lenguaje natural (NLP)
+- [[Procesamiento de lenguaje natural (NLP)]]
   - [[Análisis de sentimientos]]
   - Traducción automática
 - Robótica y Automatización

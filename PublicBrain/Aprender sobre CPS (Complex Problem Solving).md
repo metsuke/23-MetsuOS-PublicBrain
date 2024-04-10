@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.530Z
-modified: 2024-04-07T08:01:52.126Z
+modified: 2024-04-10T11:13:37.319Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,7 +39,7 @@ tags:
 
 ### Componentes de CPS
 - Identificación y definición de problemas complejos.
-- Comprensión y análisis de problemas.
+- [[Comprensión y análisis de problemas en CPS]]
 - Generación y evaluación de soluciones.
 - Toma de decisiones en entornos complejos.
 - Reflexión y aprendizaje a partir de la experiencia.

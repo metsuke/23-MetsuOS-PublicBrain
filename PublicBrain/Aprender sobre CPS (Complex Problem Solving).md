@@ -41,7 +41,7 @@ tags:
 - Identificación y definición de problemas complejos.
 - [[Comprensión y análisis de problemas en CPS]]
 - Generación y evaluación de soluciones.
-- Toma de decisiones en entornos complejos.
+- [[Toma de decisiones en entornos complejos (CPS)]]
 - Reflexión y aprendizaje a partir de la experiencia.
 
 ### Habilidades y Estrategias de Resolución de Problemas

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.517Z
-modified: 2024-04-08T03:40:23.272Z
+modified: 2024-04-10T11:25:22.492Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 39
+ver_rev: 40
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Accesibilidad en ELearining
 
-[[PublicBrain/Index#Plena Inclusión]]
+[[PublicBrain/Index#Plena Inclusión|Plena Inclusión]] | [[Arquitectura de Cursos en MetsuOS]]
 
 ## Introducción a la Accesibilidad en E-Learning
 

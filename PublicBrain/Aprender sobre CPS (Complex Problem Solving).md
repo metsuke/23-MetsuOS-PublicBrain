@@ -35,7 +35,7 @@ tags:
 ### Teorías y Modelos de Resolución de Problemas
 - [[Teorías cognitivas y psicológicas relacionadas con la resolución de problemas]]
 - [[Modelos de procesos de resolución de problemas]]
-- Análisis comparativo de enfoques y modelos.
+- [[Análisis comparativo de enfoques y modelos en CPS]]
 
 ### Componentes de CPS
 - Identificación y definición de problemas complejos.

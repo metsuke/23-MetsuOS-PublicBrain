@@ -68,7 +68,7 @@ tags: []
 * [[Generación de datos y aplicaciones (GANs)]]
 * [[Modelos autoencoder]]
 * [[Variational Autoencoders (VAEs)]]
-* Generación de imágenes y texto
+* [[Generación de imágenes y texto]]
 
 ## Implementación Práctica
 

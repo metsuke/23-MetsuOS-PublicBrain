@@ -18,6 +18,17 @@ tags: []
 
 [[Aprender sobre Diseño de Arquitectura en la Nube]]
 
+Los principios de escalabilidad y resiliencia son fundamentales en el diseño de arquitectura en la nube. 
+
+Escalabilidad se refiere a la capacidad de un sistema para manejar un aumento en la carga de trabajo de manera eficiente, ya sea aumentando los recursos disponibles (escalabilidad vertical) o agregando más recursos (escalabilidad horizontal). En la nube, la escalabilidad se logra mediante el uso de servicios como instancias autoescalables, balanceadores de carga y almacenamiento elástico que permiten adaptarse a cambios en la demanda de manera automática.
+
+Por otro lado, la resiliencia se refiere a la capacidad de un sistema para recuperarse rápidamente de fallos y mantener la disponibilidad de los servicios incluso en situaciones adversas. En la nube, la resiliencia se logra a través de la redundancia de componentes críticos, la distribución geográfica de los recursos, el monitoreo constante y la implementación de estrategias de recuperación ante desastres.
+
+En resumen, los principios de escalabilidad y resiliencia en la nube son esenciales para garantizar un alto rendimiento, disponibilidad y confiabilidad de los sistemas en un entorno dinámico y cambiante como es la nube.
+
+
+---
+
 La escalabilidad y la resiliencia son dos principios fundamentales en el diseño de arquitecturas en la nube que permiten que los sistemas sean capaces de adaptarse a cambios en la demanda o a posibles fallas sin que afecte de manera significativa la disponibilidad o la calidad del servicio. Aquí te explico un poco más en detalle cada uno de estos principios:
 
 1. Escalabilidad:

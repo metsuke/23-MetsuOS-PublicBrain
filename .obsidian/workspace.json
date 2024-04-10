@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
+                "file": "PublicBrain/Principios de escalabilidad y resiliencia en la nube.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
+                "file": "PublicBrain/Principios de escalabilidad y resiliencia en la nube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
+                "file": "PublicBrain/Principios de escalabilidad y resiliencia en la nube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md"
+                "file": "PublicBrain/Principios de escalabilidad y resiliencia en la nube.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "3e5c4dc52360ca5f",
   "lastOpenFiles": [
-    "Principales obras y escritos (Estudio persamiento y filosofía de una persona).md",
+    "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
+    "Principales obras y escritos (Estudio persamiento y filosofía de una persona).md",
     "PublicBrain/Aprender con Pablo Grueso.md",
     "Eventos políticos, sociales y culturales relevantes (Estudio persamiento y filosofía de una persona).md",
     "Época y lugar de vida del individuo (Estudio persamiento y filosofía de una persona).md",
@@ -189,7 +190,6 @@
     "Avances tecnológicos y tendencias en accesibilidad para Videojuegos.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "Perspectivas y desafíos en la accesibilidad para Videojuegos.md",
-    "Desarrollo de un videojuego accesible.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

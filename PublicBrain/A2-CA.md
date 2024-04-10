@@ -48,7 +48,7 @@ tags:
 
 ## Módulo 4: Cultura y Sociedad
 
-4.1. Costumbres y tradiciones en regiones de habla catalana.
+4.1. [[Costumbres y tradiciones en regiones de habla catalana (A2-CA)]]
 4.2. Eventos culturales y festivales.
 4.3. La música y el cine en catalán.
 4.4. La gastronomía y platos típicos.

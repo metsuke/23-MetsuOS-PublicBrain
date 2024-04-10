@@ -44,7 +44,7 @@ tags:
 ## Accesibilidad en PixiJS
 
 - [[Conceptos básicos de accesibilidad web (PixiJS)]]
-- Directrices y estándares de accesibilidad (WCAG)
+- [[Directrices y estándares de accesibilidad (WCAG) en relaciçpn con PixiJS]]
 - 4.3 Haciendo juegos y aplicaciones accesibles en PixiJS
 - Pruebas de accesibilidad y retroalimentación de usuarios
 ## Gestión de Escenas y Capas

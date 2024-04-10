@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-04-09T20:35:21.268Z
+modified: 2024-04-10T09:24:15.611Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
@@ -53,7 +53,7 @@ tags:
    - B. [[Eventos políticos, sociales y culturales relevantes (Estudio persamiento y filosofía de una persona)]]
    
 ## VI. Desarrollo de Ideas Filosóficas
-   - A. Principales obras y escritos
+   - A. [[Principales obras y escritos (Estudio persamiento y filosofía de una persona)]]
    - B. Temas y conceptos filosóficos abordados
    - C. Evolución del pensamiento a lo largo del tiempo
    

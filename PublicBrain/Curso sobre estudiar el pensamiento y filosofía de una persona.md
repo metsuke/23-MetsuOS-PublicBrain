@@ -49,7 +49,7 @@ tags:
    - C. [[Influencias intelectuales y filosóficas (Estudio persamiento y filosofía de una persona)]]
    
 ## V. Contexto Histórico y Cultural
-   - A. Época y lugar de vida del individuo
+   - A. [[Época y lugar de vida del individuo (Estudio persamiento y filosofía de una persona)]]
    - B. Eventos políticos, sociales y culturales relevantes
    
 ## VI. Desarrollo de Ideas Filosóficas

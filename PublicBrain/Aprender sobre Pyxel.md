@@ -46,7 +46,7 @@ tags: []
 
 ## Interacción del Usuario en Pyxel
 - [[Implementación de menús y pantallas de inicio en Pyxel]]
-- Manejo de la entrada de teclado y mouse
+- [[Manejo de la entrada de teclado y mouse (Pyxel)]]
 - Creación de sistemas de puntuación y marcadores
 - Implementación de controles y ajustes de usuario
 

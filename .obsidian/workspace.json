@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "Manejo de la entrada de teclado y mouse (Pyxel).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "Manejo de la entrada de teclado y mouse (Pyxel).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "Manejo de la entrada de teclado y mouse (Pyxel).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md"
+                "file": "Manejo de la entrada de teclado y mouse (Pyxel).md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "3e5c4dc52360ca5f",
   "lastOpenFiles": [
-    "Haciendo juegos y aplicaciones accesibles en PixiJS.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "Manejo de la entrada de teclado y mouse (Pyxel).md",
     "PublicBrain/Aprender sobre PixiJS.md",
+    "Haciendo juegos y aplicaciones accesibles en PixiJS.md",
     "Directrices y estándares de accesibilidad (WCAG) en relaciçpn con PixiJS.md",
     "Conceptos básicos de accesibilidad web (PixiJS).md",
     "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
@@ -188,8 +190,6 @@
     "Época y lugar de vida del individuo (Estudio persamiento y filosofía de una persona).md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "Procesamiento de lenguaje natural (NLP).md",
-    "PublicBrain/Reconocimiento facial.md",
-    "PublicBrain/Procesamiento de lenguaje natural (NLP).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

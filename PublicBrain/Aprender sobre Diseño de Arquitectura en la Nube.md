@@ -36,7 +36,7 @@ tags: []
 - [[Principios de escalabilidad y resiliencia en la nube]]
 - [[Estrategias para la distribución de carga y gestión de tráfico en la nube]]
 - [[Patrones de diseño para la redundancia y la tolerancia a fallos en la nube]]
-- Herramientas y servicios para la monitorización y el autoscaling
+- [[Herramientas y servicios para la monitorización y el autoscaling en la nube]]
 
 ## Seguridad y Cumplimiento en Arquitecturas en la Nube
 - Principios de seguridad en la nube

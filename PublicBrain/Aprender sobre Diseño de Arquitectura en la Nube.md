@@ -39,7 +39,7 @@ tags: []
 - [[Herramientas y servicios para la monitorización y el autoscaling en la nube]]
 
 ## Seguridad y Cumplimiento en Arquitecturas en la Nube
-- Principios de seguridad en la nube
+- [[Principios de seguridad en la nube]]
 - Mejores prácticas para la gestión de identidad y acceso
 - Protección de datos en reposo y en tránsito
 - Cumplimiento normativo y regulaciones de seguridad en la nube

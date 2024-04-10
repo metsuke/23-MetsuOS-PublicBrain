@@ -34,7 +34,7 @@ tags: []
 
 ## Diseño de Arquitecturas en la Nube Escalables y Resilientes
 - [[Principios de escalabilidad y resiliencia en la nube]]
-- Estrategias para la distribución de carga y gestión de tráfico
+- [[Estrategias para la distribución de carga y gestión de tráfico en la nube]]
 - Patrones de diseño para la redundancia y la tolerancia a fallos
 - Herramientas y servicios para la monitorización y el autoscaling
 

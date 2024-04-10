@@ -22,7 +22,7 @@ tags: []
 
 ## Introducción
 - [[¿Qué es Bluesky? (IDRA-Bluesky)]]
-- ¿Por qué interactuar con Bluesky a través de una API?
+- [[¿Por qué interactuar con Bluesky a través de una API? (IDRA-Bluesky)]]
 - Objetivos del curso
 
 ## Fundamentos de Bluesky

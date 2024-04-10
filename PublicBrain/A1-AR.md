@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.354Z
-modified: 2024-04-06T23:49:42.615Z
+modified: 2024-04-10T17:00:14.188Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 31
+ver_rev: 32
 nav_primary: 
 nav_secondary: 
 tags:
@@ -57,7 +57,7 @@ tags:
 
 - [[Verbos regulares e irregulares (A1-AR)]]
 - [[Conjugación en presente (A1-AR)]]
-- Verbos de acción y estado
+- [[Verbos de acción y estado (A1-AR)]]
 - [[Frases simples con verbos (A1-AR)]]
 
 ## Módulo 6: Situaciones Cotidianas

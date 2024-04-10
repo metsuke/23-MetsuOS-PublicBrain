@@ -77,7 +77,7 @@ tags:
   - Detección de objetos
   - [[Reconocimiento facial]]
 - Procesamiento de lenguaje natural (NLP)
-  - Análisis de sentimientos
+  - [[Análisis de sentimientos]]
   - Traducción automática
 - Robótica y Automatización
 - IA en la atención médica

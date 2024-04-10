@@ -85,7 +85,7 @@ tags:
 
 ### Lección 9: Actividades de Ocio
 
-- Pasatiempos y actividades recreativas
+- [[Pasatiempos y actividades recreativas (A1-SW)]]
 - [[Hablar sobre planes de fin de semana (A1-SW)]]
 - [[Expresar intereses (A1-SW)]]
 

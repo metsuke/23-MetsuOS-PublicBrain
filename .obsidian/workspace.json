@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manejo de la entrada de teclado y mouse (Pyxel).md",
+                "file": "Creación de sistemas de puntuación y marcadores en Pyxel.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manejo de la entrada de teclado y mouse (Pyxel).md",
+                "file": "Creación de sistemas de puntuación y marcadores en Pyxel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manejo de la entrada de teclado y mouse (Pyxel).md",
+                "file": "Creación de sistemas de puntuación y marcadores en Pyxel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manejo de la entrada de teclado y mouse (Pyxel).md"
+                "file": "Creación de sistemas de puntuación y marcadores en Pyxel.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "3e5c4dc52360ca5f",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre Pyxel.md",
+    "Creación de sistemas de puntuación y marcadores en Pyxel.md",
     "Manejo de la entrada de teclado y mouse (Pyxel).md",
     "PublicBrain/Aprender sobre PixiJS.md",
     "Haciendo juegos y aplicaciones accesibles en PixiJS.md",
@@ -189,7 +190,6 @@
     "Eventos políticos, sociales y culturales relevantes (Estudio persamiento y filosofía de una persona).md",
     "Época y lugar de vida del individuo (Estudio persamiento y filosofía de una persona).md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "Procesamiento de lenguaje natural (NLP).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

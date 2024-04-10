@@ -50,7 +50,7 @@ tags:
 - [[Gestión de carritos de compras y órdenes (IDRA-Ebay)]]
 
 ## Optimización y Mejoras en la Interacción con la API
-- Paginación y límites de resultados
+- [[Paginación y límites de resultados (IDRA-Ebay)]]
 - Manejo de errores y excepciones
 - Uso de filtros y parámetros de consulta avanzados
 - Optimización de consultas para mejorar el rendimiento

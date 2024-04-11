@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "Nivel A (Requisitos Básicos).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "Nivel A (Requisitos Básicos).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md",
+                "file": "Nivel A (Requisitos Básicos).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/WCAG 2.1.md"
+                "file": "Nivel A (Requisitos Básicos).md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "d928999055100463",
   "lastOpenFiles": [
-    "Tiempo suficiente.md",
+    "PublicBrain/WCAG 2.1.md",
+    "Nivel A (Requisitos Básicos).md",
     "PublicBrain/WCAG 2.0.md",
+    "Tiempo suficiente.md",
     "PublicBrain/2024-04-11 - Generacion hashtags para RR. SS. en base a texto en bruto en GPT4All.md",
     "PublicBrain/GPT4All Testing.md",
     "2024-04-11 - Generacion hashtags para RR. SS. en base a texto en bruto en GPT4All.md",
@@ -201,8 +203,6 @@
     "PublicBrain/¿Qué es Bluesky? (IDRA-Bluesky).md",
     "PublicBrain/¿Por qué interactuar con Bluesky a través de una API? (IDRA-Bluesky).md",
     "¿Por qué interactuar con Bluesky a través de una API? (IDRA-Bluesky).md",
-    "¿Qué es Bluesky? (IDRA-Bluesky).md",
-    "Paginación y límites de resultados (IDRA-Ebay).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

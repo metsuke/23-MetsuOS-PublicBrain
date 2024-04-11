@@ -77,7 +77,7 @@ tags: []
 * [[Desarrollo de modelos de redes neuronales desde cero]]
 * [[Evaluación de modelos y métricas]]
 
-## Desafíos y Futuro de las Redes Neuronales
+## [[Desafíos y Futuro de las Redes Neuronales]]
 
 * Desafíos actuales (interpretabilidad, ética, robustez)
 * [[Tendencias y avances en investigación]]

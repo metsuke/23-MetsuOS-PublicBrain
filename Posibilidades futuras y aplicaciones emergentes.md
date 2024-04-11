@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-11T10:09:15.690Z
+modified: 2024-04-11T10:14:59.321Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Posibilidades futuras y aplicaciones emergentes
 
 [[Estructura y funcionamiento de las  redes neuronales]]

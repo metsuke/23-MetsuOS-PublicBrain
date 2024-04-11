@@ -1,3 +1,19 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-11T10:10:00.125Z
+modified: 2024-04-11T10:14:52.813Z
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Tendencias y avances en investigación
 
 [[Estructura y funcionamiento de las  redes neuronales]]

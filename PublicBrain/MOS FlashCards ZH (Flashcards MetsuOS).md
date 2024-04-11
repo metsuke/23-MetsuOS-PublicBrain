@@ -27,7 +27,7 @@ tags: []
 2. [[Saludos informales (ZH Flashcards)]]
 3. [[Frases de cortesía (ZH Flashcards)]]
 4. [[Presentaciones personales (ZH Flashcards)]]
-5. Expresiones de gratitud
+5. [[Expresiones de gratitud (ZH Flashcards)]]
 
 ## Números y Contar
 6. Números del 1 al 10

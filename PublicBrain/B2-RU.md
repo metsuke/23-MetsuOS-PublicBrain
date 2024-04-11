@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.772Z
-modified: 2024-04-06T23:49:42.268Z
+modified: 2024-04-11T16:02:49.588Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # B2-RU
 
@@ -70,7 +73,7 @@ tags: []
 - Presentación de investigaciones y proyectos
 - Avances tecnológicos rusos
 
-## Módulo 7: Habilidades de Escritura Avanzadas
+## Módulo 7: "H"abilidades de Escritura Avanzadas
 
 - Redacción de ensayos y artículos
 - Correspondencia formal e informal avanzada

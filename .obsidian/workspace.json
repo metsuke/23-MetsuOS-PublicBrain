@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A1-CS.md",
+                "file": "Manejo de errores y excepciones (IDRA-EBay).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1-CS.md",
+                "file": "Manejo de errores y excepciones (IDRA-EBay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A1-CS.md",
+                "file": "Manejo de errores y excepciones (IDRA-EBay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A1-CS.md"
+                "file": "Manejo de errores y excepciones (IDRA-EBay).md"
               }
             }
           },
@@ -176,32 +176,32 @@
   },
   "active": "3e5c4dc52360ca5f",
   "lastOpenFiles": [
-    "C2-CS.md",
-    "C1-CS.md",
-    "B2-CS.md",
-    "B1-CS.md",
-    "A2-CS.md",
-    "A1-CS.md",
-    "PublicBrain/Aprender Idioma Checo.md",
-    "Niveles Oficiales CS.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A2-CA.md",
-    "Redacción de descripciones personales (A2-CA).md",
-    "Escritura de correos electrónicos y mensajes (A2-CA).md",
-    "Comprensión de textos sencillos (A2-CA).md",
-    "PublicBrain/Kanji - Grado 1.md",
-    "PublicBrain/Jinmeiyō-kanji.md",
-    "PublicBrain/Kanji - Grado 9 - Jôyô kanji.md",
-    "PublicBrain/Kanji - Grado 8 - Jôyô kanji.md",
-    "PublicBrain/Kanji - Grado 7 - Jôyô kanji.md",
-    "PublicBrain/Kanji - Grado 6 - Jôyô kanji.md",
-    "PublicBrain/Kanji.md",
-    "PublicBrain/Kanji - Grado 5 - Jôyô kanji.md",
-    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
-    "PublicBrain/Kanji - Grado 3.md",
-    "PublicBrain/ほ.md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "Manejo de errores y excepciones (IDRA-EBay).md",
+    "PublicBrain/Aprender Idioma Árabe.md",
+    "PublicBrain/Aprender Idioma Aleman.md",
+    "PublicBrain/Apnreder Idioma Tailandés.md",
+    "PublicBrain/B2-TR.md",
+    "PublicBrain/Bases de Datos Relacionales.md",
+    "PublicBrain/Backpropagation y optimización de pesos.md",
+    "PublicBrain/BABYMETAL.md",
+    "PublicBrain/B2-VLC.md",
+    "PublicBrain/BabyMetal - Vestuario.md",
+    "PublicBrain/BabyMetal Death.md",
+    "PublicBrain/B2-SV.md",
+    "PublicBrain/B2-RO.md",
+    "PublicBrain/B2-SW.md",
+    "PublicBrain/B2-RU.md",
+    "PublicBrain/Redacción de descripciones personales (A2-CA).md",
+    "PublicBrain/Niveles Oficiales CS.md",
+    "PublicBrain/Escritura de correos electrónicos y mensajes (A2-CA).md",
+    "PublicBrain/Comprensión de textos sencillos (A2-CA).md",
+    "PublicBrain/C2-CS.md",
+    "PublicBrain/C1-CS.md",
+    "PublicBrain/B2-CS.md",
+    "PublicBrain/B1-CS.md",
+    "PublicBrain/A2-CS.md",
+    "PublicBrain/A1-CS.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

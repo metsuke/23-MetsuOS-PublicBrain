@@ -24,5 +24,8 @@ tags:
 [[PublicBrain/Index#Aprender Idiomas]]
 
 * CS | [[Checo]]
-	* Niveles Oficiales CS
+	* [[Niveles Oficiales CS]]
+		* [[A1-CS]] | [[A2-CS]]
+		* [[B1-CS]] | [[B2-CS]]
+		* [[C1-CS]] | [[C2-CS]]
 	* Niveles y Exámenes Adicionales CS

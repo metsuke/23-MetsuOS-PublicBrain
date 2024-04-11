@@ -1,14 +1,17 @@
 ---
 iaStatus: 0
+iaStatus_Model: ""
 a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2023-08-30T00:54:00
-modified: 2024-03-06T23:35:00
+created: 2024-04-11T08:36:41.377Z
+modified: 2024-04-11T08:38:22.568Z
+supervisado: ""
+ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: "0"
+ver_rev: 1
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -17,6 +20,17 @@ tags: []
 
 [[WCAG 2.0]] | [[WCAG 2.1]]
 
+
+### WCAG 2.0
+En la versión 2.0 de las Pautas de Accesibilidad al Contenido Web (WCAG), la referencia clave en cuanto a la accesibilidad web se encuentra en el principio de "Perceptible". Este principio se centra en garantizar que la información y los componentes de la interfaz de usuario sean presentados de manera que puedan ser percibidos por todos los usuarios, incluyendo aquellos con alguna discapacidad sensorial.
+
+### WCAG 2.1
+Por otro lado, en la versión 2.1 de las WCAG se agregó el principio de "Robusto". Este principio se refiere a la importancia de que el contenido web sea compatible con una amplia gama de tecnologías de asistencia y navegadores, asegurando así una experiencia de usuario accesible y consistente para todas las personas, independientemente de sus capacidades técnicas.
+
+En resumen, la principal diferencia entre las WCAG 2.0 y las WCAG 2.1 radica en la inclusión del principio de "Robusto" en la versión más reciente, el cual pone énfasis en la importancia de la compatibilidad con diversas tecnologías de asistencia para mejorar la accesibilidad web.
+
+
+---
 ## Recursos Adicionales
 
 ### WCAG 2.0

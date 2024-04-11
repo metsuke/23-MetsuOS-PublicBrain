@@ -57,7 +57,7 @@ tags:
 
 5.1. [[Comprensión de textos sencillos (A2-CA)]]
 5.2. [[Escritura de correos electrónicos y mensajes (A2-CA)]]
-5.3. Redacción de descripciones personales.
+5.3. [[Redacción de descripciones personales (A2-CA)]]
 5.4. Lectura de cuentos y textos narrativos.
 
 ## Módulo 6: Habilidades de Escucha y Habla

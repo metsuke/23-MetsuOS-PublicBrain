@@ -79,7 +79,7 @@ tags: []
 
 ## [[Desafíos y Futuro de las Redes Neuronales]]
 
-* Desafíos actuales (interpretabilidad, ética, robustez)
+* [[Desafíos actuales (interpretabilidad, ética, robustez)]]
 * [[Tendencias y avances en investigación]]
 * [[Posibilidades futuras y aplicaciones emergentes]]
 

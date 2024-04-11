@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-04-11T10:09:33.172Z
+modified: 2024-04-11T11:14:19.310Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 45
+ver_rev: 46
 nav_primary: 
 nav_secondary: 
 tags:
@@ -46,7 +46,7 @@ tags:
 - [[Conceptos básicos de accesibilidad web (PixiJS)]]
 - [[Directrices y estándares de accesibilidad (WCAG) en relaciçpn con PixiJS]]
 - [[Haciendo juegos y aplicaciones accesibles en PixiJS]]
-- Pruebas de accesibilidad y retroalimentación de usuarios
+- [[Pruebas de accesibilidad y retroalimentación de usuarios (PixiJS)]]
 ## Gestión de Escenas y Capas
 
 * Creación y gestión de escenas en PixiJS

@@ -1,0 +1,17 @@
+# Uso de filtros y parámetros de consulta avanzados (IDRA-Ebay)
+
+[[Interacción Digital Remota mediante API con EBay]]
+
+Cuando interactuamos de forma remota con la API de eBay, es importante comprender cómo se pueden utilizar filtros y parámetros de consulta avanzados para obtener resultados más específicos y relevantes.
+
+Algunos de los filtros y parámetros de consulta más comunes que se pueden usar en la API de eBay son:
+
+1. Filtros por categoría: Permite limitar la búsqueda de productos a una categoría específica en eBay, lo que ayuda a refinar los resultados de búsqueda y a encontrar productos más relevantes.
+
+2. Filtros por ubicación: Puedes filtrar los resultados de búsqueda por ubicación geográfica, lo que es útil si estás buscando productos en una ubicación particular o cerca de ti.
+
+3. Ordenamiento de resultados: Puedes ordenar los resultados de búsqueda por diferentes criterios, como precio, distancia, popularidad, etc., lo que te permite visualizar los productos de manera más conveniente.
+
+4. Filtros por atributos del producto: Es posible filtrar los resultados de búsqueda en función de atributos específicos del producto, como marca, tamaño, color, etc., lo que facilita encontrar el producto exacto que estás buscando.
+
+Estos filtros y parámetros de consulta avanzados te permiten personalizar y refinar tus búsquedas en la API de eBay para obtener resultados más precisos y relevantes. Es importante familiarizarse con estos filtros y parámetros para aprovechar al máximo la funcionalidad de la API y mejorar la experiencia de búsqueda de productos en eBay.

@@ -52,7 +52,7 @@ tags:
 ## Optimización y Mejoras en la Interacción con la API
 - [[Paginación y límites de resultados (IDRA-Ebay)]]
 - [[Manejo de errores y excepciones (IDRA-EBay)]]
-- Uso de filtros y parámetros de consulta avanzados
+- [[Uso de filtros y parámetros de consulta avanzados (IDRA-Ebay)]]
 - Optimización de consultas para mejorar el rendimiento
 
 ## Consideraciones de Seguridad y Buenas Prácticas

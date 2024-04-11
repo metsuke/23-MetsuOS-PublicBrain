@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-10T21:32:44.726Z
+modified: 2024-04-10T21:39:44.909Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # ¿Por qué interactuar con Bluesky a través de una API? (IDRA-Bluesky)
 
 [[Interaccción Digital Remota mediante API con Bluesky]]

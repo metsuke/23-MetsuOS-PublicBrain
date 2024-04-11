@@ -9,7 +9,7 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-03-31T01:28:50.884Z
-modified: 2024-04-10T21:27:26.749Z
+modified: 2024-04-11T07:59:30.415Z
 supervisado:
   
 
@@ -38,7 +38,7 @@ supervisado:
  
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 18
 nav_primary: 
 nav_secondary: 
 tags:

@@ -6,17 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.624Z
-modified: 2024-04-06T23:49:41.700Z
+modified: 2024-04-11T07:49:28.603Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Pruebas de uso de GPU en Intel Mac
+# Pruebas de uso de GPU en Intel Mac en GPT4All
+
+[[GPT4All Testing]]
 
 Veremos si lo acaban incorporando y en que condiciones. De nuevo, como en otros muchos proyectos OS, resulta irritante la mania de los devs de decidir por el usuario si usar determinada opcion, se deberia poner y punto que cada cual decida, como mínimo (incluso a igualdad de rendimiento), a que procesador manda que...
 

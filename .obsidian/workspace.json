@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetivos del curso (IDRA-Bluesky).md",
+                "file": "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d928999055100463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/2024-04-11 - Generacion hashtags para RR. SS. en base a texto en bruto en GPT4All.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objetivos del curso (IDRA-Bluesky).md",
+                "file": "PublicBrain/2024-04-11 - Generacion hashtags para RR. SS. en base a texto en bruto en GPT4All.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objetivos del curso (IDRA-Bluesky).md",
+                "file": "PublicBrain/2024-04-11 - Generacion hashtags para RR. SS. en base a texto en bruto en GPT4All.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objetivos del curso (IDRA-Bluesky).md"
+                "file": "PublicBrain/2024-04-11 - Generacion hashtags para RR. SS. en base a texto en bruto en GPT4All.md"
               }
             }
           },
@@ -162,34 +175,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3e5c4dc52360ca5f",
+  "active": "d928999055100463",
   "lastOpenFiles": [
+    "PublicBrain/GPT4All Testing.md",
+    "2024-04-11 - Generacion hashtags para RR. SS. en base a texto en bruto en GPT4All.md",
+    "PublicBrain/Rol Experto en Embudos de Venta.md",
+    "PublicBrain/2024-04-11 - Generacion hashtags para RR. SS. en base a texto en bruto en GPT4All.md",
+    "PublicBrain/2024-04-11 - Generacion etiquetas SEO en base a texto en bruto en GPT4All.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
+    "Rol Experto en Embudos de Venta.md",
+    "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Rol Account Manager.md",
+    "2024-04-11 - Generacion etiquetas SEO en base a texto en bruto en GPT4All.md",
+    "PublicBrain/Pruebas de uso de GPU en Intel Mac en GPT4All.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Interaccción Digital Remota mediante API con Bluesky.md",
     "Objetivos del curso (IDRA-Bluesky).md",
+    "PublicBrain/Paginación y límites de resultados (IDRA-Ebay).md",
+    "PublicBrain/Objetivos del curso (IDRA-Bluesky).md",
+    "PublicBrain/Gestión de carritos de compras y órdenes (IDRA-Ebay).md",
+    "PublicBrain/Eliminación de listados (IDRA-Ebay).md",
+    "PublicBrain/¿Qué es Bluesky? (IDRA-Bluesky).md",
+    "PublicBrain/¿Por qué interactuar con Bluesky a través de una API? (IDRA-Bluesky).md",
     "¿Por qué interactuar con Bluesky a través de una API? (IDRA-Bluesky).md",
     "¿Qué es Bluesky? (IDRA-Bluesky).md",
     "Paginación y límites de resultados (IDRA-Ebay).md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Gestión de carritos de compras y órdenes (IDRA-Ebay).md",
-    "Eliminación de listados (IDRA-Ebay).md",
-    "PublicBrain/B2-GE.md",
-    "PublicBrain/B2-EN.md",
-    "PublicBrain/B2-ES.md",
-    "PublicBrain/B2-EO.md",
-    "PublicBrain/B2-EU.md",
-    "PublicBrain/B2-AR.md",
-    "PublicBrain/B2-CA.md",
-    "PublicBrain/B1-SW.md",
-    "PublicBrain/B1-VLC.md",
-    "PublicBrain/B1-PL.md",
-    "PublicBrain/B1-TR.md",
-    "PublicBrain/B1-SV.md",
-    "PublicBrain/B1-NO.md",
-    "PublicBrain/B1-IT.md",
-    "PublicBrain/B1-ES.md",
-    "PublicBrain/Aplicaciones de redes neuronales profundas (Deep Learning).md",
-    "PublicBrain/Aplicaciones de las redes neuronales en la vida real.md",
-    "PublicBrain/Amore.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

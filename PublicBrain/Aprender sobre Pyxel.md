@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.586Z
-modified: 2024-04-10T10:26:47.351Z
+modified: 2024-04-11T11:35:24.105Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 10
+ver_rev: 11
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -51,7 +51,7 @@ tags: []
 - [[Implementación de controles y ajustes de usuario en Pyxel]]
 
 ## Físicas y Colisiones en Pyxel
-- Conceptos básicos de física en juegos
+- [[Conceptos básicos de física en juegos en Pyxel]]
 - Implementación de detección de colisiones
 - Uso de máscaras de colisión y cajas delimitadoras
 - Creación de movimiento y simulación de fuerzas

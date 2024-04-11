@@ -81,7 +81,7 @@ tags:
    - Presentación y evaluación del proyecto.
 
 ## XII. Conclusiones y Recursos Adicionales
-   - Reflexiones finales sobre la accesibilidad en videojuegos.
+   - [[Reflexiones finales sobre la accesibilidad en videojuegos]]
    - Recursos, herramientas y comunidades de apoyo.
    - Próximos pasos para seguir aprendiendo y contribuyendo.
 

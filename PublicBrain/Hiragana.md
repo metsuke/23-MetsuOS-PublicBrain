@@ -49,7 +49,7 @@ Dominar el hiragana es un paso importante en el aprendizaje del idioma [[Japoné
 さ [[し]] す せ [[そ]] 
 た ち [[つ]] て [[と]] 
 [[な]] [[に]] ぬ [[ね]] [[の]] 
-[[は ]]ひ ふ [[へ]] ほ 
+[[は ]]ひ ふ [[へ]] [[ほ]] 
 ま み む め も 
 や [[ゆ]] よ 
 ら [[り]] る れ ろ 

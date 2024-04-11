@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-11T11:46:39.332Z
+modified: 2024-04-11T11:52:27.526Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Optimización
 
 La optimización en economía se refiere al proceso de tomar decisiones que maximizan el beneficio o la utilidad, dadas ciertas restricciones o limitaciones. En otras palabras, se trata de encontrar la mejor manera de asignar recursos escasos para lograr un objetivo deseado.

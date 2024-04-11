@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Hiragana.md",
+                "file": "ほ.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Hiragana.md",
+                "file": "ほ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Hiragana.md",
+                "file": "ほ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Hiragana.md"
+                "file": "ほ.md"
               }
             }
           },
@@ -176,10 +176,10 @@
   },
   "active": "3e5c4dc52360ca5f",
   "lastOpenFiles": [
+    "PublicBrain/Hiragana.md",
     "PublicBrain/は.md",
     "ほ.md",
     "PublicBrain/へ.md",
-    "PublicBrain/Hiragana.md",
     "PublicBrain/あ.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/Aprender Idiomas.md",

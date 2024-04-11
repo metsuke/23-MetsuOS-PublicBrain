@@ -52,7 +52,7 @@ Bien, es hora de definir el Roadmap para estudiar economía, a falta de revisar 
 	- Economía Industrial.
 	- [[Economía Mundial]]
 		- Economía Española
-		- Economía Europea
+		- [[Economía Europea]]
 			- El mercado de trabajo europeo.
 			- Fiscalidad Avanzada
 		- Economía Internacional

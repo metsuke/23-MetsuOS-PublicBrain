@@ -78,7 +78,7 @@ tags:
 ## XI. Proyecto Final
    - [[Desarrollo de un videojuego accesible]]
    - [[Implementación de principios aprendidos]]
-   - Presentación y evaluación del proyecto.
+   - [[Presentación y evaluación del proyecto (a11y en videojuegos)]]
 
 ## XII. Conclusiones y Recursos Adicionales
    - [[Reflexiones finales sobre la accesibilidad en videojuegos]]

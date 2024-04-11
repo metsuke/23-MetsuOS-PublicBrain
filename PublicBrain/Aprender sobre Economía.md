@@ -50,7 +50,7 @@ Bien, es hora de definir el Roadmap para estudiar economía, a falta de revisar 
 	- Economía de la Innovación.
 	- Economía del Trabajo.
 	- Economía Industrial.
-	- Economía Mundial
+	- [[Economía Mundial]]
 		- Economía Española
 		- Economía Europea
 			- El mercado de trabajo europeo.

@@ -43,7 +43,7 @@ tags: []
 - [[Introducción a Ethereum]]
 - [[Concepto de contratos inteligentes en Ethereum]]
 - [[Desarrollo de aplicaciones descentralizadas (DApps) en Ethereum]]
-- Estructura de la red Ethereum y su papel en DeFi (Finanzas Descentralizadas)
+- [[Estructura de la red Ethereum y su papel en DeFi (Finanzas Descentralizadas)]]
 - Ethereum 2.0 y la transición a la prueba de participación (Proof of Stake)
 
 ## Altcoins y otras criptomonedas destacadas

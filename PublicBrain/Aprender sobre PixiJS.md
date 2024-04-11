@@ -50,7 +50,7 @@ tags:
 ## Gestión de Escenas y Capas
 
 * [[Creación y gestión de escenas en PixiJS]]
-* Uso de capas y ordenamiento de elementos visuales
+* [[Uso de capas y ordenamiento de elementos visuales en PixiJS]]
 * Implementación de fondos parallax
 * Transiciones suaves entre escenas
 ## Efectos Visuales y Filtros

@@ -54,7 +54,7 @@ tags:
    
 ## VI. Desarrollo de Ideas Filosóficas
    - A. [[Principales obras y escritos (Estudio persamiento y filosofía de una persona)]]
-   - B. Temas y conceptos filosóficos abordados
+   - B. [[Temas y conceptos filosóficos abordados (Estudio persamiento y filosofía de una persona)]]
    - C. Evolución del pensamiento a lo largo del tiempo
    
 ## VII. Análisis Filosófico

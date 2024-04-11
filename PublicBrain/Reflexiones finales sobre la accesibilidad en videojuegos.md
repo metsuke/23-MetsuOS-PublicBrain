@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-11T09:10:25.019Z
+modified: 2024-04-11T09:16:15.107Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Reflexiones finales sobre la accesibilidad en videojuegos
 
 [[Aprender sobre Accesibilidad en Videojuegos]]

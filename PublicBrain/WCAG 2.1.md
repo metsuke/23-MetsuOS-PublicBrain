@@ -61,7 +61,7 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
         - 8.1.4 Lectura (Mejora)
     - **Pauta 9. Operabilidad y navegación (Mejora)**
         - 9.1.4 Interacción de apuntar y activar (Mejora)
-    - **Pauta 10. Compatibilidad (Mejora)**
+    - [[Pauta 10 - Compatibilidad]] (Mejora)
         - 10.1.4 Características de nombre, función y valor (Mejora)
 4. **Niveles de Conformidad**
     - [[Nivel A (Requisitos Básicos)]]

@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T07:54:38.355Z
-modified: 2024-04-11T07:59:23.594Z
+modified: 2024-04-11T09:03:24.984Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -28,10 +28,19 @@ Iteración 001 - La primera prueba, sin especificar numero de items minimo, me r
 
 Iteración 002 - Cuidado con la complejidad del lenguaje del prompt. Ante la petición "dame una lista de hashtags para redes sociales de no menos de 3 elementos (...)" que gpt-3.5-turbo procesa sin problemas, OpenOrca recalcula contexto y acaba explicandote los pasos para desarrollar una estrategia de marketig digital xD
 
+Iteración 003 - Al no acotar el tamaño máximo de cada hashtag , elsistema da una lista de ideas clave o de "frases SEO", que esta bien, pero no es lo buscado. Ejemplo de la respuesta con "dame una lista de 3 o más hashtags para redes sociales  en base a este contenido(...)"
+
+1. Identificar los segmentos de mercado y definir los objetivos de mercado.
+2. Planificación de marketing integrada que incluye publicidad, promoción, relaciones públicas e actividades de ventas.
+3. Ejecución de campañas en diversos canales y supervisar la creación de contenido publicitario.
+4. Evaluar el rendimiento de las campañas y realizar ajustes según sea necesario.
+5. Gestión de relaciones con clientes, socios y proveedores para mantener una buena reputación de la marca.
+6. Colaborar con otros departamentos para garantizar la satisfacción del cliente y el éxito empresarial.
+
 ## Prompt
 
 ´´´markdown
-﻿﻿dame una lista de 3 o más hashtags para redes sociales  en base a este contenido # Departamento Marketing
+﻿﻿dame una lista de 3 o más hashtags (cada uno de maximo 2 palabras), para redes sociales  en base a este contenido # Departamento Marketing
 
   
 

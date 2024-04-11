@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.519Z
-modified: 2024-04-11T07:59:30.426Z
+modified: 2024-04-11T09:05:59.054Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 52
+ver_rev: 53
 nav_primary: 
 nav_secondary: 
 tags:
@@ -72,7 +72,7 @@ tags:
 
 ## X. Futuro de la Accesibilidad en Videojuegos
    - [[Avances tecnológicos y tendencias en accesibilidad para Videojuegos]]
-   - Comunidad y recursos disponibles.
+   - [[Comunidad y recursos disponibles en accesibilidad para Videojuegos]]
    - [[Perspectivas y desafíos en la accesibilidad para Videojuegos]]
 
 ## XI. Proyecto Final

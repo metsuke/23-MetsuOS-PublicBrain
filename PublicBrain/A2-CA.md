@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.371Z
-modified: 2024-04-11T11:14:19.407Z
+modified: 2024-04-11T15:21:34.405Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 48
+ver_rev: 52
 nav_primary: 
 nav_secondary: 
 tags:
@@ -55,7 +55,7 @@ tags:
 
 ## Módulo 5: Habilidades de Lectura y Escritura
 
-5.1. Comprensión de textos sencillos.
+5.1. [[Comprensión de textos sencillos (A2-CA)]]
 5.2. Escritura de correos electrónicos y mensajes.
 5.3. Redacción de descripciones personales.
 5.4. Lectura de cuentos y textos narrativos.

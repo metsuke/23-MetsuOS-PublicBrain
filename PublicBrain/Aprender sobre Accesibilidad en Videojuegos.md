@@ -82,7 +82,7 @@ tags:
 
 ## XII. Conclusiones y Recursos Adicionales
    - [[Reflexiones finales sobre la accesibilidad en videojuegos]]
-   - Recursos, herramientas y comunidades de apoyo.
+   - [[Recursos, herramientas y comunidades de apoyo (a11y en videojuegos)]]
    - Próximos pasos para seguir aprendiendo y contribuyendo.
 
 

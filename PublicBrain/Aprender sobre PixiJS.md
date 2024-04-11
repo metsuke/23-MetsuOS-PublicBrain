@@ -49,7 +49,7 @@ tags:
 - [[Pruebas de accesibilidad y retroalimentación de usuarios (PixiJS)]]
 ## Gestión de Escenas y Capas
 
-* Creación y gestión de escenas en PixiJS
+* [[Creación y gestión de escenas en PixiJS]]
 * Uso de capas y ordenamiento de elementos visuales
 * Implementación de fondos parallax
 * Transiciones suaves entre escenas

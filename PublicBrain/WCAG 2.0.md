@@ -83,7 +83,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
 4. [[Niveles de Conformidad]]
     - [[Nivel A (Requisitos Básicos)]]
     -[[ Nivel AA (Requisitos Intermedios)]]
-    - Nivel AAA (Requisitos Avanzados)
+    - [[Nivel AAA (Requisitos Avanzados)]]
 5. **Apéndices y Referencias**
     - [[Glosario de Accesibilidad Web]]
     - [[Referencias sobre Accesibilidad Web]]

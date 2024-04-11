@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Referencias sobre Accesibilidad Web.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Referencias sobre Accesibilidad Web.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Referencias sobre Accesibilidad Web.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Referencias sobre Accesibilidad Web.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
               }
             }
           },
@@ -177,11 +177,12 @@
   },
   "active": "d928999055100463",
   "lastOpenFiles": [
+    "PublicBrain/WCAG 2.1.md",
+    "Nivel AAA (Requisitos Avanzados).md",
     "PublicBrain/WCAG 2.0.md",
     "Referencias sobre Accesibilidad Web.md",
     "Recursos Adicionales.md",
     "Glosario de Accesibilidad Web.md",
-    "PublicBrain/WCAG 2.1.md",
     "Pauta 10 - Compatibilidad.md",
     "Nivel A (Requisitos Básicos).md",
     "Tiempo suficiente.md",
@@ -202,7 +203,6 @@
     "Objetivos del curso (IDRA-Bluesky).md",
     "PublicBrain/Paginación y límites de resultados (IDRA-Ebay).md",
     "PublicBrain/Objetivos del curso (IDRA-Bluesky).md",
-    "PublicBrain/Gestión de carritos de compras y órdenes (IDRA-Ebay).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

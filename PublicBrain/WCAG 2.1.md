@@ -66,7 +66,7 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
 4. **Niveles de Conformidad**
     - [[Nivel A (Requisitos Básicos)]]
     - [[Nivel AA (Requisitos Intermedios)]]
-    - Nivel AAA (Requisitos Avanzados)
+    - [[Nivel AAA (Requisitos Avanzados)]]
 5. **Apéndices y Referencias**
     - [[Glosario de Accesibilidad Web]]
     - Referencias

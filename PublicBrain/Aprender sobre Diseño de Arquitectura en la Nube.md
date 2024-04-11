@@ -41,7 +41,7 @@ tags: []
 ## Seguridad y Cumplimiento en Arquitecturas en la Nube
 - [[Principios de seguridad en la nube]]
 - [[Mejores prácticas para la gestión de identidad y acceso en la nube]]
-- Protección de datos en reposo y en tránsito
+- [[Protección de datos en reposo y en tránsito (Arquitectura en la nube)]]
 - Cumplimiento normativo y regulaciones de seguridad en la nube
 
 ## Diseño de Arquitecturas en la Nube Multiplataforma

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glosario.md",
+                "file": "Recursos Adicionales.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glosario.md",
+                "file": "Recursos Adicionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glosario.md",
+                "file": "Recursos Adicionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glosario.md"
+                "file": "Recursos Adicionales.md"
               }
             }
           },
@@ -178,9 +178,10 @@
   "active": "d928999055100463",
   "lastOpenFiles": [
     "PublicBrain/WCAG 2.0.md",
-    "Glosario.md",
-    "Pauta 10 - Compatibilidad.md",
+    "Glosario de Accesibilidad Web.md",
     "PublicBrain/WCAG 2.1.md",
+    "Recursos Adicionales.md",
+    "Pauta 10 - Compatibilidad.md",
     "Nivel A (Requisitos Básicos).md",
     "Tiempo suficiente.md",
     "PublicBrain/2024-04-11 - Generacion hashtags para RR. SS. en base a texto en bruto en GPT4All.md",
@@ -202,7 +203,6 @@
     "PublicBrain/Objetivos del curso (IDRA-Bluesky).md",
     "PublicBrain/Gestión de carritos de compras y órdenes (IDRA-Ebay).md",
     "PublicBrain/Eliminación de listados (IDRA-Ebay).md",
-    "PublicBrain/¿Qué es Bluesky? (IDRA-Bluesky).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

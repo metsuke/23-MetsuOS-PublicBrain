@@ -1,4 +1,4 @@
-# Glosario
+# Glosario de Accesibilidad Web
 
 [[WCAG 2.0]] | [[WCAG 2.1]]
 

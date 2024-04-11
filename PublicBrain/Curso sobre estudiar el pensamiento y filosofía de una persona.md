@@ -58,7 +58,7 @@ tags:
    - C. [[Evolución del pensamiento a lo largo del tiempo (Estudio persamiento y filosofía de una persona)]]
    
 ## VII. Análisis Filosófico
-   - A. Métodos y enfoques de análisis
+   - A. [[Métodos y enfoques de análisis (Estudio persamiento y filosofía de una persona)]]
    - B. Críticas y debates sobre las ideas del individuo
    - C. Influencia y legado en la filosofía contemporánea
    

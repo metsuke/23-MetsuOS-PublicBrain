@@ -53,7 +53,7 @@ tags:
 - [[Paginación y límites de resultados (IDRA-Ebay)]]
 - [[Manejo de errores y excepciones (IDRA-EBay)]]
 - [[Uso de filtros y parámetros de consulta avanzados (IDRA-Ebay)]]
-- Optimización de consultas para mejorar el rendimiento
+- [[Optimización de consultas para mejorar el rendimiento (IDRA-Ebay)]]
 
 ## Consideraciones de Seguridad y Buenas Prácticas
 - Principios de seguridad en la interacción con APIs

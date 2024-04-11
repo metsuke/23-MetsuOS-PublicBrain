@@ -71,7 +71,7 @@ tags:
 - [[Sesgo y equidad en los modelos]]
 - [[Interpretabilidad de modelos]]
 
-## Aplicaciones Específicas de la IA
+## [[Aplicaciones Específicas de la IA]]
 
 - Visión por computadora (Computer Vision)
   - Detección de objetos

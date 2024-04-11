@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.416Z
-modified: 2024-04-11T17:32:53.538Z
+modified: 2024-04-11T19:46:00.257Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 49
+ver_rev: 51
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,3 +34,4 @@ tags:
 		* [[Examen de Capacitación Lingüística (ECL)]]
 		* [[Certificados de Catalán para el Trabajo]]
 		* [[Curs de Català per a l'Administració (Curso de Catalán para la Administración)]]
+	* [[MOS Flashcards CA (Flashcards MetsuOS)]]

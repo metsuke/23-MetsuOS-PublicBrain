@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-11T18:31:50.608Z
+modified: 2024-04-11T18:42:28.430Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Presentaciones personales (ZH Flashcards)
 
 [[MOS FlashCards ZH (Flashcards MetsuOS)]]

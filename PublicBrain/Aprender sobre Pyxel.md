@@ -52,7 +52,7 @@ tags: []
 
 ## Físicas y Colisiones en Pyxel
 - [[Conceptos básicos de física en juegos en Pyxel]]
-- Implementación de detección de colisiones
+- [[Implementación de detección de colisiones en Pyxel]]
 - Uso de máscaras de colisión y cajas delimitadoras
 - Creación de movimiento y simulación de fuerzas
 

@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.536Z
-modified: 2024-04-10T09:29:20.125Z
+modified: 2024-04-11T10:40:22.896Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 8
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -42,7 +42,7 @@ tags: []
 - [[Principios de seguridad en la nube]]
 - [[Mejores prácticas para la gestión de identidad y acceso en la nube]]
 - [[Protección de datos en reposo y en tránsito (Arquitectura en la nube)]]
-- Cumplimiento normativo y regulaciones de seguridad en la nube
+- [[Cumplimiento normativo y regulaciones de seguridad en la nube]]
 
 ## Diseño de Arquitecturas en la Nube Multiplataforma
 - Estrategias de integración y interoperabilidad entre plataformas en la nube

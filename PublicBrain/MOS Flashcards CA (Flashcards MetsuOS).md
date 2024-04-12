@@ -23,8 +23,8 @@ tags: []
 # Índice de Temáticas para Aprender Idioma Catalán
 
 ## Saludos y Presentaciones
-1. Saludos básicos
-2. Presentaciones
+1. [[Saludos básicos (Flashcards CA)]]
+2. [[Presentaciones (Flashcards CA)]]
 3. Despedidas
 
 ## Números y Operaciones Matemáticas

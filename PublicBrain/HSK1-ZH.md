@@ -43,7 +43,7 @@ tags:
 
 - Hablar sobre la familia
 - Describir la casa y las habitaciones
-- La rutina diaria
+- [[La rutina diaria (HSK1-ZH)]]
 - Comidas y restaurantes en China
 
 ## Módulo 4: Compras y Viajes

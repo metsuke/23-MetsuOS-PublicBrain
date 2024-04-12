@@ -1,26 +1,29 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.791Z
-modified: 2024-04-06T23:49:42.267Z
+modified: 2024-04-12T07:45:05.671Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # BCT (Business Chinese Test
 
 [[Aprender Idioma Chino]]
 
-## Módulo 1: Introducción al BCT
+## Módulo 1: "I"ntroducción al BCT
 
 - Presentación del BCT
 - Estructura del examen BCT

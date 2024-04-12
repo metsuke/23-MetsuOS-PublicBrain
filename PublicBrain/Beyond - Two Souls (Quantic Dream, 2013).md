@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 2
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.809Z
-modified: 2024-04-06T23:49:42.262Z
+modified: 2024-04-12T07:45:32.073Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 25
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Beyond - Two Souls (Quantic Dream, 2013)
 
@@ -37,7 +40,7 @@ tags: []
 | Idiomas de audio             | Inglés, francés, español, alemán, italiano, portugués, ruso, polaco, árabe |
 | Idiomas de texto             | Varias opciones de idiomas para los subtítulos |
 | Requisitos mínimos (Windows) | - SO: Windows 7 de 64 bits                  |
-|                              | - Procesador: Intel Core i5-4430 @ 3.0 GHz o equivalente |
+|                              | - Procesador: "I"ntel Core i5-4430 @ 3.0 GHz o equivalente |
 |                              | - Memoria: 4 GB de RAM                      |
 |                              | - Gráficos: NVIDIA GeForce GTX 660 con 2GB o AMD Radeon HD 7870 con 2GB |
 |                              | - DirectX: Versión 11                        |

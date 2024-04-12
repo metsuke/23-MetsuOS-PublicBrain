@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-04-12T04:10:33.429Z
+modified: 2024-04-12T07:21:36.460Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 45
+ver_rev: 48
 nav_primary: 
 nav_secondary: 
 tags:
@@ -56,7 +56,7 @@ tags:
 - [[Optimización de consultas para mejorar el rendimiento (IDRA-Ebay)]]
 
 ## Consideraciones de Seguridad y Buenas Prácticas
-- Principios de seguridad en la interacción con APIs
+- [[Principios de seguridad en la interacción con APIs (IDRA-Ebay)]]
 - Protección de credenciales de API
 - Autenticación segura
 - Encriptación de datos sensibles

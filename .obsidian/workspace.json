@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "空.md",
+                "file": "PublicBrain/月.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "空.md",
+                "file": "PublicBrain/月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "空.md",
+                "file": "PublicBrain/月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "空.md"
+                "file": "PublicBrain/月.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   "active": "3e5c4dc52360ca5f",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 1.md",
-    "空.md",
     "PublicBrain/Kanji.md",
+    "空.md",
     "金.md",
     "玉.md",
     "休.md",

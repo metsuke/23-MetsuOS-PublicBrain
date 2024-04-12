@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T09:43:47.617Z
-modified: 2024-04-10T21:06:10.867Z
+modified: 2024-04-12T13:32:07.539Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -27,7 +27,7 @@ tags: []
 2. [[Saludos informales (EN Flashcards)]]
 3. [[Frases de cortesía  (EN Flashcards)]]
 4. [[Presentaciones personales (EN Flashcards)]]
-5. Expresiones de gratitud
+5. [[Expresiones de gratitud (EN Flashcards)]]
 
 ## Números y Contar
 6. Números del 1 al 10

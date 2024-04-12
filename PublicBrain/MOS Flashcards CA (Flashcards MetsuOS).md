@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T20:09:35.571Z
-modified: 2024-04-11T20:13:49.521Z
+modified: 2024-04-12T13:30:12.439Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -23,9 +23,9 @@ tags: []
 # Índice de Temáticas para Aprender Idioma Catalán
 
 ## Saludos y Presentaciones
-1. [[Saludos básicos (Flashcards CA)]]
-2. [[Presentaciones (Flashcards CA)]]
-3. [[Despedidas (Flashcards CA)]]
+1. [[Saludos básicos (CA Flashcards)]]
+2. [[Presentaciones (CA Flashcards)]]
+3. [[Despedidas (CA Flashcards)]]
 
 ## Números y Operaciones Matemáticas
 4. Números del 1 al 100

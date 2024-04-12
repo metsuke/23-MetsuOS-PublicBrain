@@ -5,18 +5,18 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2023-08-30T00:54:00
-modified: 2024-03-06T23:35:00
+created: 2024-04-12T13:28:12.805Z
+modified: 2024-04-12T13:32:24.109Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: "0"
+ver_rev: 1
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Saludos básicos (Flashcards CA)
+# Saludos básicos (CA Flashcards)
 
 [[MOS Flashcards CA (Flashcards MetsuOS)]]
 

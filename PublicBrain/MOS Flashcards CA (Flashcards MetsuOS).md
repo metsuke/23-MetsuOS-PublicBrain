@@ -25,7 +25,7 @@ tags: []
 ## Saludos y Presentaciones
 1. [[Saludos básicos (Flashcards CA)]]
 2. [[Presentaciones (Flashcards CA)]]
-3. Despedidas
+3. [[Despedidas (Flashcards CA)]]
 
 ## Números y Operaciones Matemáticas
 4. Números del 1 al 100

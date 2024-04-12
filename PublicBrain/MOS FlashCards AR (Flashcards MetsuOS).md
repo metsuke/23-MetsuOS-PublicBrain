@@ -28,7 +28,7 @@ tags: []
 5. [[Expresiones de gratitud (AR Flashcards)]]
 
 ## Números y Contar
-6. Números del 1 al 10
+6. [[Números del 1 al 10 (AR Flashcards)]]
 7. Números del 11 al 20
 8. Números del 21 al 100
 9. Números mayores a 100

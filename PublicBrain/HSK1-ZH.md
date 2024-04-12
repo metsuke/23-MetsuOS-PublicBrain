@@ -44,7 +44,7 @@ tags:
 - Hablar sobre la familia
 - [[Describir la casa y las habitaciones (HSK1-ZH)]]
 - [[La rutina diaria (HSK1-ZH)]]
-- Comidas y restaurantes en China
+- [[Comidas y restaurantes en China (HSK1-ZH)]]
 
 ## Módulo 4: Compras y Viajes
 

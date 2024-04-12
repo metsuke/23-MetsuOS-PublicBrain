@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.442Z
-modified: 2024-04-11T19:46:00.246Z
+modified: 2024-04-12T03:05:54.556Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 54
+ver_rev: 61
 nav_primary: 
 nav_secondary: 
 tags:
@@ -43,8 +43,8 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * HI [[Aprender Idioma Hindi]]
 * ID [[Aprender Idioma Indonesio]]
 * IT [[Aprender Idioma Italiano]]
-* KO [[Aprender Idioma Coreano]]
 * JP [[Aprender Idioma Japones]]
+* KO [[Aprender Idioma Coreano]]
 * NL [[Aprender Idioma Neerlandés]]
 * NO [[Aprender Idioma Noruego]]
 * PL [[Aprender Idioma Polaco]]

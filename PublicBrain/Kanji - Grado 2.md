@@ -6,18 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.805Z
-modified: 2024-04-06T23:49:41.824Z
+modified: 2024-04-11T21:48:06.013Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Kanji - Grado 2
- # Kanji - Grado 2
 
 [[Kanji]] | [Segundo año de la escuela primaria](https://es.wikibooks.org/wiki/Japon%C3%A9s/Kanji/Grado_2 "Japonés/Kanji/Grado 2")
 

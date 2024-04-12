@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T07:54:38.355Z
-modified: 2024-04-11T09:03:24.984Z
+modified: 2024-04-11T22:06:35.497Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -36,6 +36,10 @@ Iteración 003 - Al no acotar el tamaño máximo de cada hashtag , elsistema da 
 4. Evaluar el rendimiento de las campañas y realizar ajustes según sea necesario.
 5. Gestión de relaciones con clientes, socios y proveedores para mantener una buena reputación de la marca.
 6. Colaborar con otros departamentos para garantizar la satisfacción del cliente y el éxito empresarial.
+
+Iteraciones 0004-0010 .- Con OpenOrca tras varios intentos de todo tipo, no logro que me de directamente las palabras se dedica a reorganizar el contexto y empieza a soltar parrafadas. Por hoy basta, pero esencialmente descarto OpenOrca para esta tarea concreta.
+
+TODO: Seguir aqui
 
 ## Prompt
 

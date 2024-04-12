@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.655Z
-modified: 2024-04-10T08:12:09.749Z
+modified: 2024-04-12T03:49:31.249Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -80,3 +80,7 @@ Este rol responde a la necesidad de coordinar y asegurarse del buen desarrollo d
 * [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
 * [Escuela de Startups](https://platzi.com/escuela/startups/)
+
+## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
+
+Si te interesan los cursos que recomiendo y quieres suscribirte, hazlo a través de [mi enlace de referidos en Platzi](https://platzi.com/r/metsuke) y conseguirás un mes gratis en tu suscripción (y a la vez me regalarás otro a mi sin coste adicional ¡gracias!).

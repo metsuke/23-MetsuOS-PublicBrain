@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-04-11T19:45:59.893Z
+modified: 2024-04-12T03:05:54.392Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 73
+ver_rev: 80
 nav_primary: 
 nav_secondary: 
 tags:
@@ -74,6 +74,14 @@ graph TD
     PerfilesCreativos --> RedacciónPublicitaria
     PerfilesCreativos --> DesarrolloWeb
 ```
+
+
+## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
+
+Si te interesan los cursos que recomiendo y quieres suscribirte, hazlo a través de [mi enlace de referidos en Platzi](https://platzi.com/r/metsuke) y conseguirás un mes gratis en tu suscripción (y a la vez me regalarás otro a mi sin coste adicional ¡gracias!).
+
+
+## Log
 
 * Fase 0: Tomar apuntes del curso... DONE
 * Fase 1: Modelar agencia (departamentos, puestos ...) ... IN PROGRESS

@@ -57,3 +57,7 @@ Este rol se encarga de entender bien necesidades de los clientes, definir con de
 * [Escuela de Liderazgo y Management](https://platzi.com/escuela/liderazgo-management/)
 * [Escuela de Programación y Software](https://platzi.com/escuela/programacion-software/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
+
+## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
+
+Si te interesan los cursos que recomiendo y quieres suscribirte, hazlo a través de [mi enlace de referidos en Platzi](https://platzi.com/r/metsuke) y conseguirás un mes gratis en tu suscripción (y a la vez me regalarás otro a mi sin coste adicional ¡gracias!).

@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-12T03:53:32.501Z
+modified: 2024-04-12T03:56:33.649Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Implementación de fondos parallax en PixiJS
 
 [[Aprender sobre PixiJS]]

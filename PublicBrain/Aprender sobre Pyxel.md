@@ -54,7 +54,7 @@ tags: []
 - [[Conceptos básicos de física en juegos en Pyxel]]
 - [[Implementación de detección de colisiones en Pyxel]]
 - [[Uso de máscaras de colisión y cajas delimitadoras en Pyxel]]
-- Creación de movimiento y simulación de fuerzas
+- [[Creación de movimiento y simulación de fuerzas en Pyxel]]
 
 ## Desarrollo Avanzado con Pyxel
 - Creación de niveles y escenarios complejos

@@ -24,7 +24,7 @@ tags: []
 1. [[Saludos formales (AR Flashcards)]]
 2. [[Saludos informales (AR Flashcards)]]
 3. [[Frases de cortesía (AR Flashcards)]]
-4. Presentaciones personales
+4. [[Presentaciones personales (AR Flashcards)]]
 5. Expresiones de gratitud
 
 ## Números y Contar

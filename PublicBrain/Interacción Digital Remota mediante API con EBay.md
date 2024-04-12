@@ -57,7 +57,7 @@ tags:
 
 ## Consideraciones de Seguridad y Buenas Prácticas
 - [[Principios de seguridad en la interacción con APIs (IDRA-Ebay)]]
-- Protección de credenciales de API
+- [[Protección de credenciales de API (IDRA-Ebay)]]
 - Autenticación segura
 - Encriptación de datos sensibles
 

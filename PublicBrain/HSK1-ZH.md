@@ -42,7 +42,7 @@ tags:
 ## Módulo 3: Vida Cotidiana y Rutina
 
 - Hablar sobre la familia
-- Describir la casa y las habitaciones
+- [[Describir la casa y las habitaciones (HSK1-ZH)]]
 - [[La rutina diaria (HSK1-ZH)]]
 - Comidas y restaurantes en China
 

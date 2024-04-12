@@ -26,7 +26,7 @@ tags: []
 1. [[Saludos formales (EN Flashcards)]]
 2. [[Saludos informales (EN Flashcards)]]
 3. [[Frases de cortesía  (EN Flashcards)]]
-4. Presentaciones personales
+4. [[Presentaciones personales (EN Flashcards)]]
 5. Expresiones de gratitud
 
 ## Números y Contar

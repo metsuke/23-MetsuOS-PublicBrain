@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.143Z
-modified: 2024-04-06T23:49:42.170Z
+modified: 2024-04-12T20:02:24.221Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 24
+ver_rev: 25
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Ejercicios Binomios a la n potencia y conjugados
+# Cuaderno Matemáticas - Ejercicios Binomios a la n potencia y conjugados
 
 [[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
 

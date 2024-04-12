@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.475Z
-modified: 2024-04-12T15:04:13.760Z
+modified: 2024-04-12T23:04:58.474Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 45
+ver_rev: 51
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ tags:
  * Pruebas de elementos mas sencillos como frases cortas.
  * Pruebas de prompting ultra específico.
 	 * [[2024-04-11 - Generacion hashtags para RR. SS. en base a texto en bruto en GPT4All]]
-	 * [[2024-04-11 - Generacion etiquetas SEO en base a texto en bruto en GPT4All]]
+	 * [[2024-04-11..13 - Generacion etiquetas SEO en base a texto en bruto en GPT4All]]
  * [[Pruebas de uso de GPU en Intel Mac en GPT4All]] (ver repo si es posible usar meta aunque se este en Intel)
  * [[2024-03-31 - Primer Test con prompt en GPT4All]]
 

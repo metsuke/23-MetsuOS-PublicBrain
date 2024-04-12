@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-04-12T15:04:13.767Z
+modified: 2024-04-12T23:23:58.483Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 91
+ver_rev: 97
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,7 +36,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 		* [[Rol Project Manager|Project Manager]]
 			* [[Departamento Marketing (Microagencia Marketing Digital)|Marketing]]
 				* [[Rol Experto en Embudos de Venta|Expertos en Embudos de ventas]]
-				* Expertos en e-mail marketing
+				* [[Rol Experto en Email Marketing|Expertos en Email marketing]]
 				* Expertos en PPC
 				* Expertos en SEO
 			* Creativos

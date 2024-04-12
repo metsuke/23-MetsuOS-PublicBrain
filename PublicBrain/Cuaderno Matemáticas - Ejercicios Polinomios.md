@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.147Z
-modified: 2024-04-06T23:49:42.168Z
+modified: 2024-04-12T20:02:31.716Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 24
+ver_rev: 25
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Ejercicios Polinomios
+# Cuaderno Matemáticas - Ejercicios Polinomios
 
 [[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
 

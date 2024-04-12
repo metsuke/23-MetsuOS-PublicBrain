@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T08:02:05.291Z
-modified: 2024-04-12T03:44:01.573Z
+modified: 2024-04-12T23:26:28.725Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,15 +20,15 @@ tags: []
 
 [[Estructurar una Microagencia de Marketing Digital]] | [[Glosario de Marketing Digital]]
 
-(en ing. Sales Funnel Expert.)
+(del ing. Sales Funnel Expert.)
 
 Diseña la estrategia de marketing para el cliente.
 
-### Objetivos
+## Objetivos
 
 * Generar conversiones para el cliente.
 
-### Procesos
+## Procesos
 
 * Definir la estrategia (conocimiento, interés, decisión, acción).
 * Definir requerimientos para una landing page.
@@ -38,13 +38,13 @@ Diseña la estrategia de marketing para el cliente.
 * Medir y optimizar.
 * Generar estrategias alternativas.
 
-### Tareas
+## Tareas
 
 * Diseñar la estrategia y parsos del embudo
 * Definir KPIs y tableros de comando.
 * Encontrar nuevas formas de capturar datos.
 
-### Perfiles más buscados
+## Perfiles más buscados
 
 * Formación en administración de empresa, marketing o finanzas.
 * Experiencia en análisis de finanzas.
@@ -64,7 +64,7 @@ Diseña la estrategia de marketing para el cliente.
 * [Búsqueda en Platzi Rol Experto en Embudo de Ventas)](https://platzi.com/buscar/?search=Rol%20Experto%20embudo%20ventas)
 * [Generación de Ruta en Platzi para el Rol Experto en Embudo de Ventas](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20experto%20embudo%20ventas)
 
- ### Escuelas Platzi Recomendadas
+ ## Escuelas Platzi Recomendadas
 
 * [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)

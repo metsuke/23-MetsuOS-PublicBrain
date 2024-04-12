@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.197Z
-modified: 2024-04-12T15:04:13.737Z
+modified: 2024-04-12T20:31:37.860Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 67
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
@@ -56,22 +56,27 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 			* PAPER fuente de 1: [Instituto Max Planck de Antropología Evolutiva](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x) | **Paul Heggarty et al**.,_Language trees with sampled ancestors support a hybrid model for the origin of Indo-European languages_. Science381, eabg0818(2023). [DOI:10.1126/science.abg0818](https://dx.doi.org/10.1126/science.abg0818)
 
 
-### Cloud
 
-* [[Open Nebula]]
-### Crypto
-
-* [[Donde es técnicamente posible comprar con Crypto]]
 
 ### Ciberseguridad
 
 * [[Emails Temporales]]
 * [[Herramientas Ciberseguridad]]
+* 
+### Cloud
+
+* [[Open Nebula]]
+
 
 ### Computación Probabilística
 
 * 1. [Logran controlar la aleatoriedad cuántica (agenciasinc.es)](https://www.agenciasinc.es/Noticias/Logran-controlar-la-aleatoriedad-cuantica)
 	* PAPER fuente de 1: Charles Roques-Carmes et al. “[Biasing the quantum vacuum to control macroscopic probability distributions](https://www.science.org/doi/10.1126/science.adh4920)”. _Science_, 2023.
+
+### Crypto
+
+* [[Donde es técnicamente posible comprar con Crypto]]
+
 ### CSS
 * [SVG Wave](https://svgwave.in/?utm_content=buffer96c08&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 

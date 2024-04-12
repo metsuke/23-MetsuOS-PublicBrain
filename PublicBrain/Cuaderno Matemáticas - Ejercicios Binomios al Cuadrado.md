@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.144Z
-modified: 2024-04-06T23:49:42.170Z
+modified: 2024-04-12T20:02:02.495Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 24
+ver_rev: 25
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Ejercicios Binomios al Cuadrado
+# Cuaderno Matemáticas - Ejercicios Binomios al Cuadrado
 
 [[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
 

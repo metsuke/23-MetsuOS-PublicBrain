@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.558Z
-modified: 2024-04-12T15:04:13.827Z
+modified: 2024-04-12T20:31:38.102Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 65
+ver_rev: 70
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,12 +27,16 @@ Huelga decir que este es mi cuaderno de trabajo, puede contener (Y MUY PROBABLEM
 ## Mi libro de ejercicios
 ### Aritmética
 
-[[Ejercicios Polinomios]]
-[[Ejercicios Funciones ¿Es una función?]]
-[[Ejercicios Creación de Gráficas]]
+* [[Cuaderno Matemáticas - Ejercicios Polinomios]]
+* [[Cuaderno Matemáticas - Ejercicios Funciones ¿Es una función?]]
+* [[Cuaderno Matemáticas - Ejercicios Creación de Gráficas]]
 
 ### Álgebra
 
-[[Ejercicios Binomios al Cuadrado]]
-[[Ejercicios Binomios a la n potencia y conjugados]]
-[[Ejercicios Factorizacion n-Nomiosç]]
+* [[Cuaderno Matemáticas - Ejercicios Binomios al Cuadrado]]
+* [[Cuaderno Matemáticas - Ejercicios Binomios a la n potencia y conjugados]]
+* [[Cuaderno Matemáticas - Ejercicios Factorizacion n-Nomios]]
+[[Cuaderno Matemáticas - Ejercicios Ecuaciones]]
+
+
+

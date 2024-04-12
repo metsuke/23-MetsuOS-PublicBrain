@@ -58,7 +58,7 @@ tags: []
 
 ## Desarrollo Avanzado con Pyxel
 - [[Creación de niveles y escenarios complejos en Pyxel]]
-- Uso de algoritmos de generación procedural
+- [[Uso de algoritmos de generación procedural en Pyxel]]
 - Implementación de inteligencia artificial básica
 - Optimización y rendimiento de juegos en Pyxel
 

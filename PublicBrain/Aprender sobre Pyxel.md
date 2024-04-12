@@ -57,7 +57,7 @@ tags: []
 - [[Creación de movimiento y simulación de fuerzas en Pyxel]]
 
 ## Desarrollo Avanzado con Pyxel
-- Creación de niveles y escenarios complejos
+- [[Creación de niveles y escenarios complejos en Pyxel]]
 - Uso de algoritmos de generación procedural
 - Implementación de inteligencia artificial básica
 - Optimización y rendimiento de juegos en Pyxel

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "右.md",
+                "file": "雨.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "右.md",
+                "file": "雨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "右.md",
+                "file": "雨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "右.md"
+                "file": "雨.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   "active": "3e5c4dc52360ca5f",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 1.md",
-    "右.md",
+    "雨.md",
     "PublicBrain/Kanji.md",
+    "右.md",
     "PublicBrain/一.md",
     "PublicBrain/Uso de algoritmos de generación procedural en Pyxel.md",
     "PublicBrain/Transiciones suaves entre escenas en PixiJS.md",
@@ -201,7 +202,6 @@
     "PublicBrain/Index.md",
     "PublicBrain/Rol Account Manager.md",
     "PublicBrain/Rol Project Manager.md",
-    "PublicBrain/Rol Experto en Embudos de Venta.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

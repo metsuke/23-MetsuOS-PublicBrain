@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T23:24:01.149Z
-modified: 2024-04-12T23:26:00.145Z
+modified: 2024-04-13T04:42:22.184Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Rol Experto en Email Marketing
+# Rol Experto en EMail Marketing
 
 [[Estructurar una Microagencia de Marketing Digital]] | [[Glosario de Marketing Digital]]
 

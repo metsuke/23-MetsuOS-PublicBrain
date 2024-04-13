@@ -56,7 +56,7 @@ tags:
 ## Efectos Visuales y Filtros
 
 * [[Aplicación de efectos visuales a sprites en PixiJS]]
-* Uso de filtros predefinidos en PixiJS
+* [[Uso de filtros predefinidos en PixiJS]]
 * Creación de filtros personalizados
 * Animación de efectos y transiciones
 ## Carga y Administración de Recursos Externos

@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T04:33:17.264Z
-modified: 2024-04-12T23:24:23.379Z
+modified: 2024-04-13T04:42:22.325Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: -2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ El departamento de marketing desempeña un papel clave en la promoción y el éx
 ## Perfiles
 
 * [[Rol Experto en Embudos de Venta|Expertos en Embudos de ventas]]
-* [[Rol Experto en Email Marketing|Expertos en Email marketing]]
+* [[Rol Experto en EMail Marketing|Expertos en Email marketing]]
 * Expertos en PPC
 * Expertos en SEO
 

@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e5c4dc52360ca5f",
+            "id": "d928999055100463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto.md",
+                "file": "PublicBrain/Rol Experto en EMail Marketing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d928999055100463",
+            "id": "5ba296ec3be03253",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto.md"
+                "file": "PublicBrain/Aprender sobre PixiJS.md"
               }
             }
           },
@@ -174,23 +175,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3e5c4dc52360ca5f",
+  "active": "5ba296ec3be03253",
   "lastOpenFiles": [
-    "PublicBrain/GPT4All Testing.md",
-    "PublicBrain/2024-03-31 - Primer Test con prompt en GPT4All.md",
+    "Uso de filtros predefinidos en PixiJS.md",
+    "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto.md",
+    "PublicBrain/GPT4All Testing.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
+    "PublicBrain/GPT4All Testing - Pruebas de uso de GPU en Intel Mac.md",
+    "PublicBrain/GPT4All Testing - Primer Test con prompt (2024-03-31).md",
+    "PublicBrain/Rol Experto en EMail Marketing.md",
+    "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
     "2024-04-11..13 - Generacion etiquetas SEO en base a texto en bruto.md",
     "PublicBrain/2024-04-11..13 - Generacion etiquetas SEO en base a texto en bruto en GPT4All.md",
     "PublicBrain/..13 - Generacion etiquetas SEO en base a texto en bruto.md",
-    "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
-    "PublicBrain/Rol Experto en Email Marketing.md",
     "Rol Experto en Email Marketing.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Rol Experto en Embudos de Venta.md",
     "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Glosario de Marketing Digital.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
@@ -199,9 +203,6 @@
     "PublicBrain/Cuaderno Matemáticas - Ejercicios Ecuaciones.md",
     "PublicBrain/Cuaderno Matemáticas - Ejercicios Binomios al Cuadrado.md",
     "Cuaderno Matemáticas - Ejercicios Ecuaciones.md",
-    "PublicBrain/Cuaderno Matemáticas - Ejercicios Creación de Gráficas.md",
-    "PublicBrain/Cuaderno Matemáticas - Ejercicios Funciones ¿Es una función?.md",
-    "PublicBrain/Cuaderno Matemáticas - Ejercicios Polinomios.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

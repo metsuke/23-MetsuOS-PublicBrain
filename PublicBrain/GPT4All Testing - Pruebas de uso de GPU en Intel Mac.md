@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.624Z
-modified: 2024-04-11T07:49:28.603Z
+modified: 2024-04-13T11:45:39.616Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Pruebas de uso de GPU en Intel Mac en GPT4All
+# GPT4All Testing - Pruebas de uso de GPU en Intel Mac
 
 [[GPT4All Testing]]
 

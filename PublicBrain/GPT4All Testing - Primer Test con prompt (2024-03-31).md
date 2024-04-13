@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.353Z
-modified: 2024-04-13T04:12:45.335Z
+modified: 2024-04-13T11:45:21.137Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 52
+ver_rev: 53
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# 2024-03-31 - Primer Test con prompt en GPT4All
+# GPT4All Testing - Primer Test con prompt (2024-03-31)
 
 [[GPT4All Testing]]
 

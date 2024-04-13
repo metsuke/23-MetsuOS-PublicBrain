@@ -63,7 +63,7 @@ tags: []
 - [[Optimización y rendimiento de juegos en Pyxel]]
 
 ## Publicación y Distribución de Juegos Pyxel
-- Empaquetado y distribución de juegos Pyxel
+- [[Empaquetado y distribución de juegos Pyxel]]
 - Publicación en plataformas populares de distribución de juegos
 - Estrategias de marketing y promoción para juegos Pyxel
 - Actualización y mantenimiento continuo de juegos Pyxel

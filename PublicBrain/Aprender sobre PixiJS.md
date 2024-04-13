@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-04-12T20:31:38.097Z
+modified: 2024-04-13T12:56:20.028Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 77
+ver_rev: 78
 nav_primary: 
 nav_secondary: 
 tags:
@@ -57,7 +57,7 @@ tags:
 
 * [[Aplicación de efectos visuales a sprites en PixiJS]]
 * [[Uso de filtros predefinidos en PixiJS]]
-* Creación de filtros personalizados
+* [[Creación de filtros personalizados en PixiJS]]
 * Animación de efectos y transiciones
 ## Carga y Administración de Recursos Externos
 

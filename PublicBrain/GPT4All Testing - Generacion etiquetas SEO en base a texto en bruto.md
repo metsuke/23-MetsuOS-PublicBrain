@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T07:49:40.817Z
-modified: 2024-04-12T23:05:50.320Z
+modified: 2024-04-13T04:06:08.942Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# 2024-04-11..13 - Generacion etiquetas SEO en base a texto en bruto en GPT4All
+# GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto
 
 [[GPT4All Testing]]
 
@@ -156,6 +156,40 @@ El departamento de marketing desempeña un papel clave en la promoción y el éx
 * [Escuela de Startups](https://platzi.com/escuela/startups/)
 ´´´
 
+## GPT-3.5-Turbo
+
+Aquí tienes una lista de etiquetas de SEO basadas en el contenido proporcionado:
+
+- **Estructurar una Microagencia de Marketing Digital**
+- **Glosario de Marketing Digital**
+- **Departamento Marketing**
+- **Perfiles**:
+  - Expertos en Embudos de ventas
+  - Expertos en e-mail marketing
+  - Expertos en PPC
+  - Expertos en SEO
+- **Estructura**:
+  - Departamento de Marketing
+  - Funciones y Responsabilidades del Departamento de Marketing
+- **Funciones y Responsabilidades**:
+  - Investigación de Mercado
+  - Desarrollo de Estrategias de Marketing
+  - Planificación de Marketing
+  - Ejecución de Campañas de Marketing
+  - Evaluación de Resultados de Marketing
+  - Gestión de Relaciones en Marketing
+- **Cursos Recomendados**:
+  - Búsqueda en Platzi Departamento Marketing
+  - Generación de Ruta en Platzi para el Departamento Marketing
+- **Escuelas Platzi Recomendadas**:
+  - Escuela Marketing Digital
+  - Escuela de Inglés
+  - Escuela de Desarrollo Web
+  - Escuela Programación y Software
+  - Escuela de Startups
+
+Estas etiquetas reflejan los temas y conceptos clave presentes en el contenido, lo que ayudará a mejorar la visibilidad y el posicionamiento en los motores de búsqueda.
+
 ## Mistral OpenOrca
 
 ﻿Etiquetas para SEO en base a este contenido:
@@ -171,3 +205,28 @@ El departamento de marketing desempeña un papel clave en la promoción y el éx
 9. Escuelas Platzi Recomendadas
 ## New Hermes 2 Mistral DPO
 
+﻿﻿Here are some SEO tags for the content you provided:
+
+Title: Departamento Marketing: Funciones, Responsabilidades y Estructura
+
+Meta description: El departamento de marketing es fundamental para la promoción y éxito de una empresa. Conoce las funciones, responsabilidades y estructura del departamento de marketing en esta guía detallada.
+
+Header tag H1: Departamento Marketing: Funciones, Responsabilidades y Estructura
+
+Keyword 1: Marketing Digital
+
+Keyword 2: Planificación de Marketing
+
+Keyword 3: Relaciones Públicas
+
+Keyword 4: Publicidad en Línea
+
+Keyword 5: Medios Sociales
+
+## Mistral Instruct 
+
+TODO
+
+GPT4All Falcon
+
+TODO

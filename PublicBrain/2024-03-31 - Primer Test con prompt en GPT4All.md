@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.353Z
-modified: 2024-04-12T20:31:38.339Z
+modified: 2024-04-13T04:12:45.335Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 51
+ver_rev: 52
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,6 +24,13 @@ tags:
 [[GPT4All Testing]]
 
 Pruebas iniciales con el siguiente prompt, en mi Mac Intel la app nome permite usar la GPU así que la velocidad es limitada, pero suficiente para pruebas y uso asíncrono.
+
+MODELOS: 
+* GPT 3.5 Turbo
+* Nous Hermes 2 Mistral DPO
+* Mistral OpenOrca
+* Mistral Instruct 
+* GPT4All Falcon
 
 'En el contexto de "Aprender sobre Interacción Digital Remota mediante API" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "Interacción Digital Remota mediante API con Discord". Dámelo en markdown para poder copiarlo.'
 
@@ -40,7 +47,7 @@ Pruebas iniciales con el siguiente prompt, en mi Mac Intel la app nome permite u
 * El resultado de referencia parece tener un nivel de abstracción suficiente como para tomar el indice generado directamente como base de trabajo humano posterior, tal y como estoy realizando ya en MetsuOS.
 * La velocidad extra - pendiente de probar GPT4All con GPU - hace que esta sea posilemente la formula de elección prioritaria en caso de trabajo en tiempo real.
 
-###  Nous Hermes 2 Mistral DRO
+###  Nous Hermes 2 Mistral DPO
 
 * El indice generado está correctamente orientado a la tarea.
 * No obstante es excesivamente técnico y no está suficientemente ordenado por bloques.

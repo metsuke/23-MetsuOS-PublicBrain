@@ -6,19 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T07:54:38.355Z
-modified: 2024-04-11T22:06:35.497Z
+modified: 2024-04-13T04:10:36.279Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# 2024-04-11 - Generacion hashtags para RR. SS. en base a texto en bruto en GPT4All
-
-# 2024-04-11 - Generacion etiquetas SEO en base a texto en bruto en GPT4All
+#  GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto
 
 [[GPT4All Testing]]
 
@@ -174,6 +172,36 @@ El departamento de marketing desempeña un papel clave en la promoción y el éx
 
 * [Escuela de Startups](https://platzi.com/escuela/startups/)
 ´´´
+## GPT 3.5 Turbo
+
+Aquí tienes una lista de hashtags para redes sociales basada en el contenido proporcionado:
+
+1. #MarketingDigital
+2. #EstrategiasMarketing
+3. #PerfilesMarketing
+
+Estos hashtags son relevantes para el contenido sobre el departamento de marketing y pueden ayudar a ampliar su alcance en las redes sociales.
 
 ## Mistral OpenOrca
 
+No he logrado que nos de un resultado coherente, se vuelve loco y se empeña en resumir el texto con frases y parrafos enormes, así que este modelo queda descartado para esta tarea.
+
+## Nous Hermes 2 Mistral DPO
+
+﻿﻿#Hashtags: #MarketingDigital, #PlanificacionDeMarketing, #RelacionesPublicas, #PublicidadEnLinea, #MediosSociales
+  
+El departamento de marketing es una parte fundamental en cualquier organización ya que se encarga de promover los productos o servicios de la empresa y de generar demanda entre los consumidores. El departamento de marketing desempeña un papel clave en la promoción y el éxito de una empresa, ayudando a generar demanda, construir relaciones con los clientes y mejorar la visibilidad y reputación de la marca.
+
+El departamento de marketing se estructura mediante expertos especializados en diferentes áreas del marketing como el embudo de ventas, e-mail marketing, PPC (publicidad por clic) y SEO (optimización para motores de búsqueda). La planificación de marketing es crucial para alcanzar los objetivos comerciales y mantener la competitividad en el mercado.
+
+Las funciones y responsabilidades del departamento de marketing incluyen la investigación de mercado, desarrollo de estrategias, planificación de marketing, ejecución de campañas, evaluación de resultados y gestión de relaciones. Para formarse en el marketing se pueden seguir cursos recomendados como los de Platzi y asistir a escuelas especializadas en Marketing Digital, Inglés, Desarrollo Web, Programación y Software y Startups.
+
+Los hashtags más relevantes para este contenido son #MarketingDigital, #PlanificacionDeMarketing, #RelacionesPublicas, #PublicidadEnLinea y #MediosSociales.
+
+## Mistral Instruct 
+
+TODO
+
+GPT4All Falcon
+
+TODO

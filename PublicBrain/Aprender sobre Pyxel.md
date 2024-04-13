@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.586Z
-modified: 2024-04-12T03:59:57.398Z
+modified: 2024-04-13T13:07:12.082Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 12
+ver_rev: 13
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -59,7 +59,7 @@ tags: []
 ## Desarrollo Avanzado con Pyxel
 - [[Creación de niveles y escenarios complejos en Pyxel]]
 - [[Uso de algoritmos de generación procedural en Pyxel]]
-- Implementación de inteligencia artificial básica
+- [[Implementación de inteligencia artificial básica en Pyxel]]
 - Optimización y rendimiento de juegos en Pyxel
 
 ## Publicación y Distribución de Juegos Pyxel

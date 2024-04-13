@@ -63,7 +63,7 @@ tags:
 
 ## Casos de Uso y Ejemplos Prácticos
 - [[Integración de la API de eBay en una aplicación web (IDRA-Ebay)]]
-- Desarrollo de un sistema de gestión de inventario
+- [[Desarrollo de un sistema de gestión de inventario (IDRA-Ebay)]]
 - Creación de un sistema de seguimiento de pedidos en tiempo real
 - Implementación de un sistema de recomendación de productos
 

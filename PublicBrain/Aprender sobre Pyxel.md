@@ -60,7 +60,7 @@ tags: []
 - [[Creación de niveles y escenarios complejos en Pyxel]]
 - [[Uso de algoritmos de generación procedural en Pyxel]]
 - [[Implementación de inteligencia artificial básica en Pyxel]]
-- Optimización y rendimiento de juegos en Pyxel
+- [[Optimización y rendimiento de juegos en Pyxel]]
 
 ## Publicación y Distribución de Juegos Pyxel
 - Empaquetado y distribución de juegos Pyxel

@@ -58,7 +58,7 @@ tags:
 * [[Aplicación de efectos visuales a sprites en PixiJS]]
 * [[Uso de filtros predefinidos en PixiJS]]
 * [[Creación de filtros personalizados en PixiJS]]
-* Animación de efectos y transiciones
+* [[Animación de efectos y transiciones en PixiJS]]
 ## Carga y Administración de Recursos Externos
 
 - Carga de audio y video en PixiJS

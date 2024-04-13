@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/生.md",
+                "file": "Integración de la API de eBay en una aplicación web (IDRA-Ebay).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/生.md",
+                "file": "Integración de la API de eBay en una aplicación web (IDRA-Ebay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/生.md",
+                "file": "Integración de la API de eBay en una aplicación web (IDRA-Ebay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/生.md"
+                "file": "Integración de la API de eBay en una aplicación web (IDRA-Ebay).md"
               }
             }
           },
@@ -177,32 +177,32 @@
   },
   "active": "5ba296ec3be03253",
   "lastOpenFiles": [
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "Integración de la API de eBay en una aplicación web (IDRA-Ebay).md",
+    "Encriptación de datos sensibles (IDRA-Ebay).md",
+    "PublicBrain/Aprender Idioma Euskera.md",
+    "PublicBrain/Aprender Idioma Español.md",
+    "PublicBrain/Aprender Idioma Chino.md",
+    "PublicBrain/C1-EU.md",
+    "PublicBrain/C1-GL.md",
+    "PublicBrain/C1-Administratiu (Mitjà).md",
+    "PublicBrain/C1-ES.md",
+    "PublicBrain/C1-GE.md",
+    "PublicBrain/C1-EO.md",
+    "PublicBrain/C1-CA.md",
+    "PublicBrain/C1-EN.md",
+    "PublicBrain/Bună ziua.md",
+    "PublicBrain/Brother.md",
+    "PublicBrain/C1-AR.md",
+    "PublicBrain/Bună.md",
+    "PublicBrain/Básico HI.md",
+    "PublicBrain/Brother-in-law.md",
     "PublicBrain/Kanji - Grado 1.md",
-    "正.md",
-    "水.md",
-    "人.md",
-    "森.md",
-    "上.md",
-    "小.md",
-    "女.md",
-    "車.md",
-    "PublicBrain/十.md",
-    "出.md",
-    "PublicBrain/Kanji.md",
-    "手.md",
-    "PublicBrain/七.md",
-    "耳.md",
-    "糸.md",
-    "PublicBrain/四.md",
-    "字.md",
-    "子.md",
-    "山.md",
-    "PublicBrain/三.md",
-    "左.md",
-    "校.md",
-    "PublicBrain/Aprender sobre Pyxel.md",
-    "Empaquetado y distribución de juegos Pyxel.md",
-    "Optimización y rendimiento de juegos en Pyxel.md",
+    "PublicBrain/車.md",
+    "PublicBrain/耳.md",
+    "PublicBrain/糸.md",
+    "PublicBrain/水.md",
+    "PublicBrain/正.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

@@ -59,10 +59,10 @@ tags:
 - [[Principios de seguridad en la interacción con APIs (IDRA-Ebay)]]
 - [[Protección de credenciales de API (IDRA-Ebay)]]
 - [[Autenticación segura (IDRA-Ebay)]]
-- Encriptación de datos sensibles
+- [[Encriptación de datos sensibles (IDRA-Ebay)]]
 
 ## Casos de Uso y Ejemplos Prácticos
-- Integración de la API de eBay en una aplicación web
+- [[Integración de la API de eBay en una aplicación web (IDRA-Ebay)]]
 - Desarrollo de un sistema de gestión de inventario
 - Creación de un sistema de seguimiento de pedidos en tiempo real
 - Implementación de un sistema de recomendación de productos

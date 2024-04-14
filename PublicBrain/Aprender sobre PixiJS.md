@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-04-13T12:56:20.028Z
+modified: 2024-04-14T00:25:28.884Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 78
+ver_rev: 79
 nav_primary: 
 nav_secondary: 
 tags:
@@ -63,7 +63,7 @@ tags:
 
 - [[Carga de audio y video en PixiJS]]
 - [[Uso de sprites de hojas de sprites (spritesheets) en PixiJS]]
-- Optimización de la carga de recursos y gestión de memoria
+- [[Optimización de la carga de recursos y gestión de memoria en PixiJS]]
 - Precarga de recursos para una experiencia más fluida
 ## Integración con Herramientas y Bibliotecas Externas
 

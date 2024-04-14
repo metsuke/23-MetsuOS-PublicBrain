@@ -28,8 +28,8 @@ tags: []
 3. [[Despedidas (CA Flashcards)]]
 
 ## Números y Operaciones Matemáticas
-4. Números del 1 al 100
-5. Operaciones matemáticas básicas
+4. [[Números del 1 al 100 (CA Flashcards)]]
+5. [[Operaciones matemáticas básicas (CA Flashcards)]]
 
 ## Días de la Semana y Meses del Año
 6. Días de la semana

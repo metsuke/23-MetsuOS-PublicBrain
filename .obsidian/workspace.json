@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md",
+                "file": "青.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md",
+                "file": "青.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md",
+                "file": "青.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md"
+                "file": "青.md"
               }
             }
           },
@@ -176,8 +176,16 @@
   },
   "active": "d928999055100463",
   "lastOpenFiles": [
-    "Estrategias de marketing y promoción para juegos Pyxel.md",
+    "PublicBrain/Kanji - Grado 1.md",
+    "青.md",
     "PublicBrain/Aprender sobre Pyxel.md",
+    "PublicBrain/Uso de sprites de hojas de sprites (spritesheets) en PixiJS.md",
+    "PublicBrain/Publicación en plataformas populares de distribución de juegos (Pyxel).md",
+    "PublicBrain/Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
+    "PublicBrain/Expertos en PPC.md",
+    "PublicBrain/Estrategias de marketing y promoción para juegos Pyxel.md",
+    "PublicBrain/Carga de audio y video en PixiJS.md",
+    "Estrategias de marketing y promoción para juegos Pyxel.md",
     "Publicación en plataformas populares de distribución de juegos (Pyxel).md",
     "Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
     "PublicBrain/Aprender sobre PixiJS.md",
@@ -194,14 +202,6 @@
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Desarrollo de un sistema de gestión de inventario (IDRA-Ebay).md",
     "PublicBrain/Integración de la API de eBay en una aplicación web (IDRA-Ebay).md",
-    "PublicBrain/Encriptación de datos sensibles (IDRA-Ebay).md",
-    "PublicBrain/Desarrollo de un sistema de gestión de inventario (IDRA-Ebay).md",
-    "Integración de la API de eBay en una aplicación web (IDRA-Ebay).md",
-    "Encriptación de datos sensibles (IDRA-Ebay).md",
-    "PublicBrain/Aprender Idioma Euskera.md",
-    "PublicBrain/Aprender Idioma Español.md",
-    "PublicBrain/Aprender Idioma Chino.md",
-    "PublicBrain/C1-EU.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

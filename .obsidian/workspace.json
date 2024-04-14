@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md"
+                "file": "Optimización de la carga de recursos y gestión de memoria en PixiJS.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "d928999055100463",
   "lastOpenFiles": [
-    "Uso de sprites de hojas de sprites (spritesheets) en PixiJS.md",
     "PublicBrain/Aprender sobre PixiJS.md",
+    "Uso de sprites de hojas de sprites (spritesheets) en PixiJS.md",
     "Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
     "Carga de audio y video en PixiJS.md",
     "Expertos en PPC.md",

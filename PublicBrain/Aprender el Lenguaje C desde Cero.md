@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.514Z
-modified: 2024-04-14T14:29:04.052Z
+modified: 2024-04-14T21:06:45.424Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 77
+ver_rev: 78
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,7 +51,7 @@ tags:
 * [[Funciones en Lenguaje C]]
 	* [[Declaración y definición de funciones en Lenguaje C]]
 	* [[Paso por valor y por referencia en Lenguaje C]]
-* Arreglos/Arrays y Punteros
+* [[Arreglos/Arrays y Punteros en Lenguaje C]]
 	* [[Declaración y uso de arreglos/arrays en Lenguaje C]]
 	* Concepto de punteros y su aplicación
 * Cadenas de Caracteres

@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-14T00:28:36.887Z
+modified: 2024-04-14T00:30:36.952Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Publicación en plataformas populares de distribución de juegos (Pyxel)
 
 [[Aprender sobre Pyxel]]

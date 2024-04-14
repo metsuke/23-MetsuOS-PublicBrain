@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.906Z
-modified: 2024-04-06T23:49:42.255Z
+modified: 2024-04-14T14:29:03.952Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 3
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # C1-SW
 
@@ -77,7 +80,7 @@ tags: []
 - Dirección y producción teatral
 - Creación de proyectos artísticos complejos
 
-## Módulo 5: Investigación y Proyectos
+## Módulo 5: "I"nvestigación y Proyectos
 
 ### Lección 9: Proyectos de Investigación
 
@@ -93,7 +96,7 @@ tags: []
 
 ## Módulo 6: Dominio Nativo del Swahili
 
-### Lección 11: Hablante Nativo
+### Lección 11: "H"ablante Nativo
 
 - Simulaciones de situaciones de hablante nativo
 - Comprensión y producción de discursos avanzados

@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: ""
 a11y: 0
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.364Z
-modified: 2024-04-12T20:31:38.336Z
-supervisado: ""
-ACCION: ""
+modified: 2024-04-14T14:17:49.430Z
+supervisado: 2024-04-12T20:31:38.336Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 54
+ver_minor: 4
+ver_rev: 55
 nav_primary: 
 nav_secondary: 
 tags:
@@ -75,4 +75,3 @@ tags:
 - Lección 29: Ejercicios Prácticos
 - Lección 30: Evaluación Final
 
-¡Buena suerte con tu curso de noruego!

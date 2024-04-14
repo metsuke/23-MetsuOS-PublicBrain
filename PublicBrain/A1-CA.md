@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: ""
 a11y: 0
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.355Z
-modified: 2024-04-12T20:31:38.338Z
-supervisado: ""
-ACCION: ""
+modified: 2024-04-14T14:29:04.094Z
+supervisado: 2024-04-14T12:03:10.152Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 76
+ver_minor: 4
+ver_rev: 79
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,7 +25,7 @@ tags:
 
 <-- [[C2-CA]] | [[A2-CA]] --> 
 
-## Módulo 1: "I"ntroducción al Catalán
+## Módulo 1: Introducción al Catalán
 
 1.1. [[Saludos y presentaciones básicas (A1-CA)]]
 1.2. [[Alfabeto catalán y pronunciación (A1-CA)]].

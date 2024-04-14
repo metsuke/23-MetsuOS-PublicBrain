@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.927Z
-modified: 2024-04-06T23:49:42.251Z
+modified: 2024-04-14T14:29:03.943Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 24
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 3
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # C2-SW
 
@@ -44,7 +47,7 @@ tags: []
 - Estrategias de negociación global
 - Presentaciones y discursos ejecutivos
 
-### Lección 4: Investigación Académica Profunda
+### Lección 4: "I"nvestigación Académica Profunda
 
 - Investigación académica avanzada en Swahili
 - Publicación de trabajos académicos
@@ -94,7 +97,7 @@ tags: []
 
 ## Módulo 6: Dominio Nativo del Swahili
 
-### Lección 11: Hablante Nativo Experto
+### Lección 11: "H"ablante Nativo Experto
 
 - Simulaciones de situaciones de hablante nativo a nivel experto
 - Comprensión y producción de discursos altamente sofisticados

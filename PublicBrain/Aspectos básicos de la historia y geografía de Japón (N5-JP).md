@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-14T10:14:25.577Z
+modified: 2024-04-14T14:29:04.026Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 2
+ver_rev: 2
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Aspectos básicos de la historia y geografía de Japón (N5-JP)
 
 [[N5-JP]]

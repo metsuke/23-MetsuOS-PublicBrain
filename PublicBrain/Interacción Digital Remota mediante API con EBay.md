@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-04-13T13:58:56.792Z
+modified: 2024-04-14T14:29:03.555Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 2
-ver_rev: 61
+ver_minor: 3
+ver_rev: 62
 nav_primary: 
 nav_secondary: 
 tags:
@@ -64,7 +64,7 @@ tags:
 ## Casos de Uso y Ejemplos Prácticos
 - [[Integración de la API de eBay en una aplicación web (IDRA-Ebay)]]
 - [[Desarrollo de un sistema de gestión de inventario (IDRA-Ebay)]]
-- Creación de un sistema de seguimiento de pedidos en tiempo real
+- [[Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay)]]
 - Implementación de un sistema de recomendación de productos
 
 ## Pruebas, Depuración y Monitoreo

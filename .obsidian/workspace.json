@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e53990876bce626b",
+        "id": "41f891a2fb97eaef",
         "type": "tabs",
         "children": [
           {
-            "id": "d928999055100463",
+            "id": "8aa9db3aef960cf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aspectos básicos de la historia y geografía de Japón (N5-JP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ba296ec3be03253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Despedidas (CA Flashcards).md",
+                "file": "Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay).md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "A1-CA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aspectos básicos de la historia y geografía de Japón (N5-JP).md",
+                "file": "Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aspectos básicos de la historia y geografía de Japón (N5-JP).md",
+                "file": "Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aspectos básicos de la historia y geografía de Japón (N5-JP).md"
+                "file": "Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay).md"
               }
             }
           },
@@ -174,34 +162,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d928999055100463",
+  "active": "8aa9db3aef960cf3",
   "lastOpenFiles": [
-    "PublicBrain/N5-JP.md",
-    "Aspectos básicos de la historia y geografía de Japón (N5-JP).md",
-    "Pruebas de práctica para cada sección del examen N5 (N5-JP).md",
-    "Estrategias de tiempo y técnicas de examen (N5-JP).md",
-    "PublicBrain/Kanji - Grado 1.md",
-    "PublicBrain/青.md",
-    "PublicBrain/足.md",
-    "PublicBrain/赤.md",
-    "PublicBrain/虫.md",
-    "PublicBrain/草.md",
-    "PublicBrain/竹.md",
-    "PublicBrain/石.md",
-    "PublicBrain/町.md",
-    "PublicBrain/男.md",
-    "PublicBrain/村.md",
-    "PublicBrain/早.md",
-    "PublicBrain/川.md",
-    "PublicBrain/天.md",
-    "PublicBrain/大.md",
-    "PublicBrain/夕.md",
-    "PublicBrain/土.md",
-    "PublicBrain/千.md",
-    "PublicBrain/先.md",
-    "PublicBrain/中.md",
-    "PublicBrain/日.md",
-    "PublicBrain/二.md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay).md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/A1-CA.md",
+    "PublicBrain/A1-EU.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/A1-NO.md",
+    "PublicBrain/A1-EO.md",
+    "PublicBrain/A1-EN.md",
+    "PublicBrain/Despedidas (CA Flashcards).md",
+    "PublicBrain/Aprender a fundir metales.md",
+    "PublicBrain/Pruebas de práctica para cada sección del examen N5 (N5-JP).md",
+    "PublicBrain/Estrategias de tiempo y técnicas de examen (N5-JP).md",
+    "PublicBrain/Aspectos básicos de la historia y geografía de Japón (N5-JP).md",
+    "PublicBrain/Aprender Idioma Swahili.md",
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/Aprender Idioma Danés.md",
+    "PublicBrain/Calandracas.md",
+    "PublicBrain/C2-VLC.md",
+    "PublicBrain/C2-IT.md",
+    "PublicBrain/C2-TR.md",
+    "PublicBrain/C2-RO.md",
+    "PublicBrain/C2-NO.md",
+    "PublicBrain/C2-SW.md",
+    "PublicBrain/C2-PL.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

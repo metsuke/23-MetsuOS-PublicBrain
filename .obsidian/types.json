@@ -11,6 +11,7 @@
     "version_revision": "number",
     "translations": "multitext",
     "nav_primary": "multitext",
-    "nav_secondary": "multitext"
+    "nav_secondary": "multitext",
+    "supervisado": "datetime"
   }
 }

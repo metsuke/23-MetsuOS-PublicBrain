@@ -50,7 +50,7 @@ tags:
 
 * [[Funciones en Lenguaje C]]
 	* [[Declaración y definición de funciones en Lenguaje C]]
-	* Paso por valor y por referencia
+	* [[Paso por valor y por referencia en Lenguaje C]]
 * Arreglos/Arrays y Punteros
 	* Declaración y uso de arreglos/arrays
 	* Concepto de punteros y su aplicación

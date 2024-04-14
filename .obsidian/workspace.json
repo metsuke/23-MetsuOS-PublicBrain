@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "石.md",
+                "file": "赤.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "石.md",
+                "file": "赤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "石.md",
+                "file": "赤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "石.md"
+                "file": "赤.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   "active": "d928999055100463",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 1.md",
+    "赤.md",
     "石.md",
     "夕.md",
     "青.md",
@@ -201,7 +202,6 @@
     "PublicBrain/Rol Experto en EMail Marketing.md",
     "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
     "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

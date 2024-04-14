@@ -65,7 +65,7 @@ tags:
 - [[Integración de la API de eBay en una aplicación web (IDRA-Ebay)]]
 - [[Desarrollo de un sistema de gestión de inventario (IDRA-Ebay)]]
 - [[Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay)]]
-- Implementación de un sistema de recomendación de productos
+- [[Implementación de un sistema de recomendación de productos (IDRA-Ebay)]]
 
 ## Pruebas, Depuración y Monitoreo
 - Métodos de prueba de la integración con la API

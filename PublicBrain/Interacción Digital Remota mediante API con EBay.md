@@ -68,7 +68,7 @@ tags:
 - [[Implementación de un sistema de recomendación de productos (IDRA-Ebay)]]
 
 ## Pruebas, Depuración y Monitoreo
-- Métodos de prueba de la integración con la API
+- [[Métodos de prueba de la integración con la API (IDRA-Ebay)]]
 - Depuración de problemas y errores comunes
 - Monitoreo del rendimiento de las solicitudes y respuestas
 - Implementación de registros de actividad y seguimiento de eventos

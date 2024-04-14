@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/日.md",
+                "file": "PublicBrain/N5-JP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/日.md",
+                "file": "PublicBrain/N5-JP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/日.md",
+                "file": "PublicBrain/N5-JP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/日.md"
+                "file": "PublicBrain/N5-JP.md"
               }
             }
           },
@@ -176,32 +176,32 @@
   },
   "active": "d928999055100463",
   "lastOpenFiles": [
+    "Estrategias de tiempo y técnicas de examen (N5-JP).md",
+    "PublicBrain/N5-JP.md",
     "PublicBrain/Kanji - Grado 1.md",
+    "PublicBrain/青.md",
+    "PublicBrain/足.md",
+    "PublicBrain/赤.md",
+    "PublicBrain/虫.md",
+    "PublicBrain/草.md",
+    "PublicBrain/竹.md",
+    "PublicBrain/石.md",
+    "PublicBrain/町.md",
+    "PublicBrain/男.md",
+    "PublicBrain/村.md",
+    "PublicBrain/早.md",
+    "PublicBrain/川.md",
+    "PublicBrain/天.md",
+    "PublicBrain/大.md",
+    "PublicBrain/夕.md",
+    "PublicBrain/土.md",
+    "PublicBrain/千.md",
+    "PublicBrain/先.md",
+    "PublicBrain/中.md",
+    "PublicBrain/日.md",
     "PublicBrain/二.md",
     "土.md",
     "PublicBrain/田.md",
-    "天.md",
-    "町.md",
-    "虫.md",
-    "中.md",
-    "竹.md",
-    "男.md",
-    "大.md",
-    "村.md",
-    "足.md",
-    "草.md",
-    "早.md",
-    "先.md",
-    "川.md",
-    "千.md",
-    "赤.md",
-    "石.md",
-    "夕.md",
-    "青.md",
-    "PublicBrain/Aprender sobre Pyxel.md",
-    "PublicBrain/Uso de sprites de hojas de sprites (spritesheets) en PixiJS.md",
-    "PublicBrain/Publicación en plataformas populares de distribución de juegos (Pyxel).md",
-    "PublicBrain/Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

@@ -56,7 +56,7 @@ tags:
 ## Módulo 5: Preparación para el Examen N5
 
 5.1. Pruebas de práctica para cada sección del examen N5.
-5.2. Estrategias de tiempo y técnicas de examen.
+5.2. [[Estrategias de tiempo y técnicas de examen (N5-JP)]]
 5.3. Preparación específica para las secciones del N5.
 5.4. Resolución de ejercicios y preguntas de exámenes anteriores.
 

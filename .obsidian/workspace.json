@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
+                "file": "Expertos en PPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de un sistema de gestión de inventario (IDRA-Ebay).md",
+                "file": "PublicBrain/Despedidas (CA Flashcards).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de un sistema de gestión de inventario (IDRA-Ebay).md",
+                "file": "Expertos en PPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de un sistema de gestión de inventario (IDRA-Ebay).md",
+                "file": "Expertos en PPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de un sistema de gestión de inventario (IDRA-Ebay).md"
+                "file": "Expertos en PPC.md"
               }
             }
           },
@@ -175,10 +174,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5ba296ec3be03253",
+  "active": "d928999055100463",
   "lastOpenFiles": [
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Despedidas (CA Flashcards).md",
+    "Expertos en PPC.md",
+    "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
+    "PublicBrain/Rol Experto en EMail Marketing.md",
+    "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
+    "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Desarrollo de un sistema de gestión de inventario (IDRA-Ebay).md",
+    "PublicBrain/Integración de la API de eBay en una aplicación web (IDRA-Ebay).md",
+    "PublicBrain/Encriptación de datos sensibles (IDRA-Ebay).md",
+    "PublicBrain/Desarrollo de un sistema de gestión de inventario (IDRA-Ebay).md",
     "Integración de la API de eBay en una aplicación web (IDRA-Ebay).md",
     "Encriptación de datos sensibles (IDRA-Ebay).md",
     "PublicBrain/Aprender Idioma Euskera.md",
@@ -192,17 +202,6 @@
     "PublicBrain/C1-EO.md",
     "PublicBrain/C1-CA.md",
     "PublicBrain/C1-EN.md",
-    "PublicBrain/Bună ziua.md",
-    "PublicBrain/Brother.md",
-    "PublicBrain/C1-AR.md",
-    "PublicBrain/Bună.md",
-    "PublicBrain/Básico HI.md",
-    "PublicBrain/Brother-in-law.md",
-    "PublicBrain/Kanji - Grado 1.md",
-    "PublicBrain/車.md",
-    "PublicBrain/耳.md",
-    "PublicBrain/糸.md",
-    "PublicBrain/水.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

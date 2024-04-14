@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T13:30:02.805Z
-modified: 2024-04-12T13:32:24.202Z
+modified: 2024-04-13T20:13:44.494Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,6 +20,28 @@ tags: []
 
 [[MOS Flashcards CA (Flashcards MetsuOS)]]
 
+1. Adéu : Adiós
+2. Fins aviat : Hasta pronto
+3. Fins després : Hasta luego
+4. Fins demà : Hasta mañana
+5. Fins la propera vegada : Hasta la próxima vez
+6. Que vagi bé : Que te vaya bien
+7. Que tinguis un bon dia : Que tengas un buen día
+8. Bona nit : Buenas noches
+9. Fins la vista : Hasta la vista
+10. Ens veiem aviat : Nos vemos pronto
+11. Adeu-siau : Adiós
+12. Fins ara : Hasta ahora
+13. Salutacions : Saludos
+14. Cuida't : Cuídate
+15. Mossega : Muerde
+16. Petó : Beso
+17. Que tinguis sort : Que tengas suerte
+18. Ha estat un plaer : Ha sido un placer
+19. Cap problema : No hay problema
+20. Em poso en contacte amb tu : Me pongo en contacto contigo
+
+---
 1. Presentació : Presentación
 2. Nom : Nombre
 3. Cognom : Apellido

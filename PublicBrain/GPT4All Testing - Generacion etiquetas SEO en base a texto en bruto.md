@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T23:16:47.401Z
-modified: 2024-04-13T04:06:08.942Z
+modified: 2024-04-13T23:38:27.335Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -225,7 +225,11 @@ Keyword 5: Medios Sociales
 
 ## Mistral Instruct 
 
-TODO
+﻿El departamento de marketing es uno de los más importantes en una empresa, ya que se encarga de promover y vender productos o servicios a través de diversas estrategias y tácticas. Los expertos en este campo son responsables de investigar el mercado, desarrollar estrategias, planificar campañas de marketing, ejecutarlas y evaluar sus resultados. Además, se encargan de gestionar relaciones con clientes, socios y proveedores, así como mantener la reputación de la marca.
+
+Para ser un experto en marketing, es importante tener conocimientos sobre diferentes áreas del mercado, como el análisis de datos, el diseño gráfico, la publicidad digital y los medios sociales. También se requiere habilidades como la comunicación efectiva, la capacidad de trabajo en equipo y la adaptabilidad al cambio.
+
+En Platzi hay varias escuelas que ofrecen cursos para desarrollar habilidades en marketing, tales como el Departamento Marleting, la Escuela Marketing Digital y la Escuela Programación y Software. Además, se recomiendan otras escuelas como la Escuela de Inglés y la Escuela Startups para complementar los conocimientos en marketing con habilidades lingüísticas y empresariales.
 
 GPT4All Falcon
 

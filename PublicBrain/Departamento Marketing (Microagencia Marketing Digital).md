@@ -28,7 +28,7 @@ El departamento de marketing desempeña un papel clave en la promoción y el éx
 
 * [[Rol Experto en Embudos de Venta|Expertos en Embudos de ventas]]
 * [[Rol Experto en EMail Marketing|Expertos en Email marketing]]
-* Expertos en PPC
+* [[Expertos en PPC]]
 * Expertos en SEO
 
 ## Estructura

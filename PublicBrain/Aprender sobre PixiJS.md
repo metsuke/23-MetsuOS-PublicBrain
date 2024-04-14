@@ -61,8 +61,8 @@ tags:
 * [[Animación de efectos y transiciones en PixiJS]]
 ## Carga y Administración de Recursos Externos
 
-- Carga de audio y video en PixiJS
-- Uso de sprites de hojas de sprites (spritesheets)
+- [[Carga de audio y video en PixiJS]]
+- [[Uso de sprites de hojas de sprites (spritesheets) en PixiJS]]
 - Optimización de la carga de recursos y gestión de memoria
 - Precarga de recursos para una experiencia más fluida
 ## Integración con Herramientas y Bibliotecas Externas

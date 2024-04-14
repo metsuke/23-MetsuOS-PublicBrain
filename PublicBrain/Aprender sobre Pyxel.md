@@ -64,7 +64,7 @@ tags: []
 
 ## Publicación y Distribución de Juegos Pyxel
 - [[Empaquetado y distribución de juegos Pyxel]]
-- Publicación en plataformas populares de distribución de juegos
+- [[Publicación en plataformas populares de distribución de juegos (Pyxel)]]
 - Estrategias de marketing y promoción para juegos Pyxel
 - Actualización y mantenimiento continuo de juegos Pyxel
 

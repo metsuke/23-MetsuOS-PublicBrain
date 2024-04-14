@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimización de la carga de recursos y gestión de memoria en PixiJS.md"
+                "file": "PublicBrain/Aprender sobre Pyxel.md"
               }
             }
           },
@@ -176,9 +176,11 @@
   },
   "active": "d928999055100463",
   "lastOpenFiles": [
+    "Publicación en plataformas populares de distribución de juegos (Pyxel).md",
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
     "PublicBrain/Aprender sobre PixiJS.md",
     "Uso de sprites de hojas de sprites (spritesheets) en PixiJS.md",
-    "Optimización de la carga de recursos y gestión de memoria en PixiJS.md",
     "Carga de audio y video en PixiJS.md",
     "Expertos en PPC.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
@@ -200,8 +202,6 @@
     "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/C1-EU.md",
     "PublicBrain/C1-GL.md",
-    "PublicBrain/C1-Administratiu (Mitjà).md",
-    "PublicBrain/C1-ES.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

@@ -51,7 +51,7 @@ tags:
 4.1. [[Costumbres y etiqueta japonesa (N5-JP)]]
 4.2. [[Festivales y celebraciones importantes (N5-JP)]]
 4.3. Introducción a la gastronomía japonesa.
-4.4. Aspectos básicos de la historia y geografía de Japón.
+4.4. [[Aspectos básicos de la historia y geografía de Japón (N5-JP)]]
 
 ## Módulo 5: Preparación para el Examen N5
 

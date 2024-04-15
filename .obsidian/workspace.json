@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "Conceptos básicos de API (IDRA-Facebook).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "अं (HI Dictionary).md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con Facebook.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "अं (HI Dictionary).md",
+                "file": "Conceptos básicos de API (IDRA-Facebook).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "अं (HI Dictionary).md",
+                "file": "Conceptos básicos de API (IDRA-Facebook).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "अं (HI Dictionary).md"
+                "file": "Conceptos básicos de API (IDRA-Facebook).md"
               }
             }
           },
@@ -175,18 +174,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "36477f4bc5bbd474",
+  "active": "d4a9086fcafcdbbc",
   "lastOpenFiles": [
+    "PublicBrain/Interacción Digital Remota mediante API con Facebook.md",
+    "Conceptos básicos de API (IDRA-Facebook).md",
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Computar con Canicas.md",
+    "PublicBrain/अं (HI Dictionary).md",
+    "PublicBrain/MOS Dictionary HI (Diccionarios MetsuOS).md",
+    "अं (HI Dictionary).md",
     "MOS Dictionary HI (Diccionarios MetsuOS).md",
     "PublicBrain/Aprender Idioma Hindi.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/MOS Dictionary  JP (Diccionarios MetsuOS).md",
     "PublicBrain/MOS FlashCards HI (Flashcards MetsuOS).md",
-    "अं (HI Dictionary).md",
-    "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender Idioma Chino.md",
-    "PublicBrain/Index.md",
     "人 (Ré​n).md",
     "PublicBrain/人 (Ré​n).md",
     "PublicBrain/MOS Dictionary  ZH (Diccionarios MetsuOS).md",
@@ -197,12 +202,6 @@
     "PublicBrain/Distopía.md",
     "PublicBrain/Aprender sobre cultura internacional a través de los idiomas.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
-    "PublicBrain/Expertos en PPC.md",
-    "PublicBrain/あ (a) - JP Dictionary.md",
-    "あ (a) - JP Dictionary.md",
-    "PublicBrain/Saludos y presentaciones (HI Flashcards).md",
-    "PublicBrain/Saludos y Presentaciones (JP Flashcards).md",
-    "MOS FlashCards HI (Flashcards MetsuOS).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

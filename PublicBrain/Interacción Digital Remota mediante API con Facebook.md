@@ -23,7 +23,7 @@ tags: []
 # Índice
 
 ## Introducción a la Interacción Digital Remota con Facebook
-1. Conceptos básicos de API
+1. [[Conceptos básicos de API (IDRA-Facebook)]]
 2. Importancia de la interacción remota con Facebook
 3. Objetivos del curso
 

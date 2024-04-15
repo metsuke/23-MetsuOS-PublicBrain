@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Hindi
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * HI | [[Hindi]] | Niveles Oficiales HI
 	* [[Niveles Oficiales HI]]

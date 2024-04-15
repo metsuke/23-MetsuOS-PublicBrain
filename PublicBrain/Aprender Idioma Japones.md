@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.430Z
-modified: 2024-04-14T14:29:04.066Z
+modified: 2024-04-15T13:26:39.863Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
@@ -35,4 +35,5 @@ tags:
 		* [[KEN (Kanken, Kanji Kentei)]]
 		* [[Test of Practical Japanese (J.TEST)]]
 		* [[JLPT Teacher Training Program]]
+	* [[MOS Dictionary  JP (Diccionario MetsuOS)]]
 	* [[MOS FlashCards JP (Flashcards MetsuOS)]])

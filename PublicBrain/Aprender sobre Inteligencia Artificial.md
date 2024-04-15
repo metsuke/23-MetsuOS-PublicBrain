@@ -81,7 +81,7 @@ tags:
   - [[Traducción automática]]
 - Robótica y Automatización
 - IA en la atención médica
-- IA en finanzas y negocios
+- [[IA en finanzas y negocios]]
 
 ## Ética y Aspectos Sociales de la IA
 

@@ -25,7 +25,7 @@ tags: []
 ## Introducción a la Interacción Digital Remota con Facebook
 1. [[Conceptos básicos de API (IDRA-Facebook)]]
 2. [[Importancia de la interacción remota con Facebook (IDRA-Facebook)]]
-3. Objetivos del curso
+3. [[Objetivos del curso (IDRA-Facebook)]]
 
 ## Fundamentos de las API de Facebook
 4. ¿Qué es la Graph API de Facebook?

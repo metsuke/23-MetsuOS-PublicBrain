@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
+                "file": "PublicBrain/MOS FlashCards JP (Flashcards MetsuOS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c383ecdaf7918e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Promting Database.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
+                "file": "PublicBrain/Promting Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
+                "file": "PublicBrain/Promting Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md"
+                "file": "PublicBrain/Promting Database.md"
               }
             }
           },
@@ -162,10 +175,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d4a9086fcafcdbbc",
+  "active": "3c383ecdaf7918e1",
   "lastOpenFiles": [
-    "Estaciones del año (CA Flashcards).md",
+    "PublicBrain/Index.md",
+    "PublicBrain/MOS FlashCards JP (Flashcards MetsuOS).md",
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
+    "PublicBrain/Estaciones del año (CA Flashcards).md",
+    "PublicBrain/Días de la semana (CA Flashcards).md",
+    "Estaciones del año (CA Flashcards).md",
     "Días de la semana (CA Flashcards).md",
     "PublicBrain/A1-CA.md",
     "PublicBrain/Pruebas, Depuración y Monitoreo (IDRA-Ebay).md",
@@ -175,9 +195,6 @@
     "PublicBrain/Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
     "PublicBrain/Energía y Trabajo.md",
     "PublicBrain/Depuración de problemas y errores comunes (IDRA-Ebay).md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
@@ -186,10 +203,6 @@
     "Depuración de problemas y errores comunes (IDRA-Ebay).md",
     "Pruebas, Depuración y Monitoreo (IDRA-Ebay).md",
     "Principios de Termodinámica.md",
-    "PublicBrain/Aprender más allá del orden del tiempo.md",
-    "Energía y Trabajo.md",
-    "Leyes de Newton y Sistemas de Referencia.md",
-    "PublicBrain/Introducción a la Cinemática y Dinámica.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

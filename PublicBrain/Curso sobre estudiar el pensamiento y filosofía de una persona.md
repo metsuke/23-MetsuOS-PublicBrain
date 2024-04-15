@@ -63,7 +63,7 @@ tags:
    - C. [[Influencia y legado en la filosofía contemporánea (Estudio persamiento y filosofía de una persona)]]
    
 ## VIII. Recursos y Bibliografía
-   - A. Fuentes primarias (obras del individuo)
+   - A. [[Fuentes primarias - obras del individuo (Estudio persamiento y filosofía de una persona)]]
    - B. Fuentes secundarias (libros, artículos, ensayos)
    - C. Recursos en línea y bases de datos filosóficas
    

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/六.md",
+                "file": "引.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/六.md",
+                "file": "引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/六.md",
+                "file": "引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/六.md"
+                "file": "引.md"
               }
             }
           },
@@ -164,7 +164,10 @@
   },
   "active": "8aa9db3aef960cf3",
   "lastOpenFiles": [
+    "PublicBrain/Kanji - Grado 2.md",
+    "引.md",
     "PublicBrain/Kanji - Grado 1.md",
+    "PublicBrain/六.md",
     "林.md",
     "力.md",
     "立.md",
@@ -187,9 +190,6 @@
     "PublicBrain/Visión por computadora (Computer Vision).md",
     "PublicBrain/Precarga de recursos para una experiencia más fluida en PixiJS.md",
     "PublicBrain/Integración de PixiJS con frameworks como React o Angular.md",
-    "PublicBrain/Influencia y legado en la filosofía contemporánea (Estudio persamiento y filosofía de una persona).md",
-    "PublicBrain/IA en finanzas y negocios.md",
-    "PublicBrain/Fuentes primarias - obras del individuo (Estudio persamiento y filosofía de una persona).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

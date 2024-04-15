@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "百.md",
+                "file": "文.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "百.md",
+                "file": "文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "百.md",
+                "file": "文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "百.md"
+                "file": "文.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "8aa9db3aef960cf3",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 1.md",
+    "文.md",
     "百.md",
     "PublicBrain/八.md",
     "白.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Arcos de personajes en Storytelling.md",
     "Integración de PixiJS con frameworks como React o Angular.md",
     "Precarga de recursos para una experiencia más fluida en PixiJS.md",
-    "Arcos de personajes en Storytelling.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Depuración de problemas y errores comunes (IDRA-Ebay).md",
+                "file": "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Depuración de problemas y errores comunes (IDRA-Ebay).md",
+                "file": "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Depuración de problemas y errores comunes (IDRA-Ebay).md",
+                "file": "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Depuración de problemas y errores comunes (IDRA-Ebay).md"
+                "file": "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md"
               }
             }
           },
@@ -165,8 +165,9 @@
   "active": "d4a9086fcafcdbbc",
   "lastOpenFiles": [
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "Pruebas, Depuración y Monitoreo (IDRA-Ebay).md",
+    "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
     "Depuración de problemas y errores comunes (IDRA-Ebay).md",
+    "Pruebas, Depuración y Monitoreo (IDRA-Ebay).md",
     "Principios de Termodinámica.md",
     "PublicBrain/Aprender más allá del orden del tiempo.md",
     "Energía y Trabajo.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Cambridge English Exams.md",
     "PublicBrain/CCSE (Examen de Conocimientos Constitucionales y Socioculturales de España).md",
     "PublicBrain/C2-SV.md",
-    "PublicBrain/C2-RU.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

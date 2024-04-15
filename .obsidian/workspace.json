@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/目.md",
+                "file": "立.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/目.md",
+                "file": "立.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/目.md",
+                "file": "立.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/目.md"
+                "file": "立.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   "active": "8aa9db3aef960cf3",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 1.md",
+    "立.md",
+    "PublicBrain/目.md",
     "名.md",
     "本.md",
     "木.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Fuentes primarias - obras del individuo (Estudio persamiento y filosofía de una persona).md",
     "PublicBrain/Críticas y debates sobre las ideas del individuo (Estudio persamiento y filosofía de una persona).md",
     "PublicBrain/Creación y desarrollo de personajes memorables en Storytelling.md",
-    "PublicBrain/Construcción de la Trama en Storytelling.md",
-    "PublicBrain/Consideraciones éticas en IA.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

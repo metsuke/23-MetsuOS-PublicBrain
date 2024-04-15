@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-04-14T14:29:03.838Z
+modified: 2024-04-15T05:32:25.905Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 57
+ver_rev: 58
 nav_primary: 
 nav_secondary: 
 tags:
@@ -59,7 +59,7 @@ tags:
    
 ## VII. Análisis Filosófico
    - A. [[Métodos y enfoques de análisis (Estudio persamiento y filosofía de una persona)]]
-   - B. Críticas y debates sobre las ideas del individuo
+   - B. [[Críticas y debates sobre las ideas del individuo (Estudio persamiento y filosofía de una persona)]]
    - C. Influencia y legado en la filosofía contemporánea
    
 ## VIII. Recursos y Bibliografía

@@ -22,7 +22,7 @@ tags: []
 
 ¡Por supuesto! Aquí tienes un índice exhaustivo y detallado de temas relacionados con el aprendizaje del idioma hindi para crear tus flashcards de vocabulario:
 
-1. Saludos y presentaciones
+1. [[Saludos y presentaciones (HI Flashcards)]]
 2. Números (del 1 al 100)
 3. Días de la semana
 4. Meses del año

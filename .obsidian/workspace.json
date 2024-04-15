@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "Saludos y presentaciones (HI Flashcards).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOS FlashCards HI (Flashcards MetsuOS).md",
+                "file": "Saludos y presentaciones (HI Flashcards).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOS FlashCards HI (Flashcards MetsuOS).md",
+                "file": "Saludos y presentaciones (HI Flashcards).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOS FlashCards HI (Flashcards MetsuOS).md"
+                "file": "Saludos y presentaciones (HI Flashcards).md"
               }
             }
           },
@@ -174,10 +175,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d4a9086fcafcdbbc",
+  "active": "3c383ecdaf7918e1",
   "lastOpenFiles": [
-    "PublicBrain/Promting Database.md",
     "MOS FlashCards HI (Flashcards MetsuOS).md",
+    "Saludos y presentaciones (HI Flashcards).md",
+    "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender Idioma Hindi.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Japones.md",
@@ -201,7 +203,6 @@
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

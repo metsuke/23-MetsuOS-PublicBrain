@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T18:39:02.566Z
-modified: 2024-04-14T14:29:03.555Z
+modified: 2024-04-15T21:06:52.460Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -24,7 +24,7 @@ tags: []
 
 ## Introducción a la Interacción Digital Remota con Facebook
 1. [[Conceptos básicos de API (IDRA-Facebook)]]
-2. Importancia de la interacción remota con Facebook
+2. [[Importancia de la interacción remota con Facebook (IDRA-Facebook)]]
 3. Objetivos del curso
 
 ## Fundamentos de las API de Facebook

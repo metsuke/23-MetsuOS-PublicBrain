@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
+                "file": "PublicBrain/A1-CA.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
+                "file": "PublicBrain/A1-CA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
+                "file": "PublicBrain/A1-CA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md"
+                "file": "PublicBrain/A1-CA.md"
               }
             }
           },
@@ -164,6 +164,11 @@
   },
   "active": "d4a9086fcafcdbbc",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
     "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
@@ -176,7 +181,6 @@
     "PublicBrain/Introducción a la Cinemática y Dinámica.md",
     "PublicBrain/Aprender a fundir plástico.md",
     "PublicBrain/Aprender Idioma Ucraniano.md",
-    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Certificados de Catalán para el Trabajo.md",
     "PublicBrain/Certificado de Español - Lengua y Uso (CELU).md",
     "PublicBrain/Certificado de Competencia en Lengua Rumana (CCL).md",
@@ -186,10 +190,6 @@
     "PublicBrain/Catch Me If You Can.md",
     "PublicBrain/Catalán.md",
     "PublicBrain/Caracteres básicos del silabario hiragana.md",
-    "PublicBrain/Capas ocultas y capa de salida.md",
-    "PublicBrain/Capas de la infraestructura de una red.md",
-    "PublicBrain/Cambridge English Exams.md",
-    "PublicBrain/CCSE (Examen de Conocimientos Constitucionales y Socioculturales de España).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

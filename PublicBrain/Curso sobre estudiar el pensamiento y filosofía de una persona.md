@@ -60,7 +60,7 @@ tags:
 ## VII. Análisis Filosófico
    - A. [[Métodos y enfoques de análisis (Estudio persamiento y filosofía de una persona)]]
    - B. [[Críticas y debates sobre las ideas del individuo (Estudio persamiento y filosofía de una persona)]]
-   - C. Influencia y legado en la filosofía contemporánea
+   - C. [[Influencia y legado en la filosofía contemporánea (Estudio persamiento y filosofía de una persona)]]
    
 ## VIII. Recursos y Bibliografía
    - A. Fuentes primarias (obras del individuo)

@@ -42,7 +42,7 @@ tags:
 	* [[Cómo conocer a tu audiencia en Storytelling]]
 	* [[La importancia de la empatía en Storytelling]]
 * Desarrollo de Personajes
-	* Creación y desarrollo de personajes memorables
+	* [[Creación y desarrollo de personajes memorables en Storytelling]]
 	* Arcos de personajes
 * Construcción de la Trama
 	* [[Introducción, desarrollo y clímax en Storytelling]]

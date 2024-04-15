@@ -34,7 +34,7 @@ tags: []
 ## Días de la Semana y Meses del Año
 6. [[Días de la semana (CA Flashcards)]]
 7. [[Meses del año (CA Flashcards)]]
-8. Estaciones del año
+8. [[Estaciones del año (CA Flashcards)]]
 
 ## Familia y Relaciones
 9. Miembros de la familia

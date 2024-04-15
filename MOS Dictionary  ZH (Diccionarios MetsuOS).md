@@ -32,7 +32,7 @@ En cualquier caso, es importante proporcionar una guía de referencia al princip
 
 Por supuesto, aquí tienes un índice ordenado por radicales para un diccionario entre chino y español:
 
-1. **人 (Ré​n)** - Persona
+1. [[人 (Ré​n)]] - Persona
 2. **口 (Kǒu)** - Boca
 3. **囗 (Wéi)** - Recinto
 4. **日 (Rì)** - Sol

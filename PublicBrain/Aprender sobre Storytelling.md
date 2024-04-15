@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.590Z
-modified: 2024-04-14T14:29:04.034Z
+modified: 2024-04-15T05:37:34.803Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 76
+ver_rev: 77
 nav_primary: 
 nav_secondary: 
 tags:
@@ -43,7 +43,7 @@ tags:
 	* [[La importancia de la empatía en Storytelling]]
 * Desarrollo de Personajes
 	* [[Creación y desarrollo de personajes memorables en Storytelling]]
-	* Arcos de personajes
+	* [[Arcos de personajes en Storytelling]]
 * [[Construcción de la Trama en Storytelling]]
 	* [[Introducción, desarrollo y clímax en Storytelling]]
 	* Técnicas de narración efectiva

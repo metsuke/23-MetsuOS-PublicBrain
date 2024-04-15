@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-04-14T14:29:03.555Z
+modified: 2024-04-15T06:31:19.864Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 62
+ver_rev: 63
 nav_primary: 
 nav_secondary: 
 tags:
@@ -67,7 +67,7 @@ tags:
 - [[Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay)]]
 - [[Implementación de un sistema de recomendación de productos (IDRA-Ebay)]]
 
-## Pruebas, Depuración y Monitoreo
+## [[Pruebas, Depuración y Monitoreo (IDRA-Ebay)]]
 - [[Métodos de prueba de la integración con la API (IDRA-Ebay)]]
 - [[Depuración de problemas y errores comunes (IDRA-Ebay)]]
 - Monitoreo del rendimiento de las solicitudes y respuestas

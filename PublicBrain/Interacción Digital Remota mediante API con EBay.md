@@ -71,7 +71,7 @@ tags:
 - [[Métodos de prueba de la integración con la API (IDRA-Ebay)]]
 - [[Depuración de problemas y errores comunes (IDRA-Ebay)]]
 - [[Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay)]]
-- Implementación de registros de actividad y seguimiento de eventos
+- [[Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay)]]
 
 ## Futuras Perspectivas y Desarrollos
 - Exploración de futuras actualizaciones y cambios en la API de eBay

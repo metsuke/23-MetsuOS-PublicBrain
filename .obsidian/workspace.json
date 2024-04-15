@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
+                "file": "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
+                "file": "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
+                "file": "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md"
+                "file": "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "d4a9086fcafcdbbc",
   "lastOpenFiles": [
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
     "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
     "Depuración de problemas y errores comunes (IDRA-Ebay).md",
     "Pruebas, Depuración y Monitoreo (IDRA-Ebay).md",
@@ -189,7 +190,6 @@
     "PublicBrain/Capas de la infraestructura de una red.md",
     "PublicBrain/Cambridge English Exams.md",
     "PublicBrain/CCSE (Examen de Conocimientos Constitucionales y Socioculturales de España).md",
-    "PublicBrain/C2-SV.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

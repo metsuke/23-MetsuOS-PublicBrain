@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.616Z
-modified: 2024-04-15T13:10:08.929Z
+modified: 2024-04-15T19:29:36.701Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 83
+ver_rev: 84
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,6 +36,8 @@ necesito una tabla detallada y exhaustiva de características técnicas del vide
 Idiomas / Diccionario
 
 En el contexto "Aprender Idioma Japones", dame un índice exhaustivo y detallado, para crear un indice ordenado alfabeticamente un diccionario entre ese idioma y espalñol. Damelo en markdown para poder copiarlo. La lista generada debe ser numerada
+
+En el contexto "Aprender Idioma Chino", dame un índice exhaustivo y detallado, para crear un indice ordenado por radicales un diccionario entre ese idioma y espalñol. Damelo en markdown para poder copiarlo. La lista generada debe ser numerada
 
 En el contexto de crear un diccionario idioma japones a español, puedes darme una lista exhaustiva y detallada de palabras para crear las entradas del diccionario de la seccion  TOKEN. Agrega el mayor numero de vocablos posible, dentro de lo razonable, pero pon cuidado de no salirte del contexto indicado. Incluye el termino en el idioma y su traducción a español de españa. Damelo en markdown para poder copiarlo. El formato de cada entrada debe ser Palabra de la lista : Traduccion, sin ponerlo entre paréntesis ni nada más. La lista generada debe ser numerada.
 

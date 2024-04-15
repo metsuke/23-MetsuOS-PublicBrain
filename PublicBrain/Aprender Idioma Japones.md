@@ -35,5 +35,5 @@ tags:
 		* [[KEN (Kanken, Kanji Kentei)]]
 		* [[Test of Practical Japanese (J.TEST)]]
 		* [[JLPT Teacher Training Program]]
-	* [[MOS Dictionary  JP (Diccionario MetsuOS)]]
+	* [[MOS Dictionary  JP (Diccionarios MetsuOS)]]
 	* [[MOS FlashCards JP (Flashcards MetsuOS)]])

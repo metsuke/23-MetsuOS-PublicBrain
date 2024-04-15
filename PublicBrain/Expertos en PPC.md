@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: H
+iaStatus_Supervisado: H
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T00:19:29.895Z
-modified: 2024-04-15T05:21:06.812Z
-supervisado: ""
-ACCION: ""
+modified: 2024-04-15T14:09:48.511Z
+supervisado: 2024-04-15T14:09:48.511Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 3
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 4
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Expertos en PPC
 
@@ -66,9 +69,6 @@ tags: []
 
 * [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
-* [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
-* [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
-* [Escuela de Startups](https://platzi.com/escuela/startups/)
 
 ## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
 

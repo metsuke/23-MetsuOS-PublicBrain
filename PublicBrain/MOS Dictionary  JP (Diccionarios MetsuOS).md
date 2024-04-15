@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# MOS Dictionary  JP (Diccionario MetsuOS)
+# MOS Dictionary  JP (Diccionarios MetsuOS)
 
 [[Aprender Idioma Japones]]
 

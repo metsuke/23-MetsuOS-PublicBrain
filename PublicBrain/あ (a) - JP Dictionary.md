@@ -18,7 +18,7 @@ tags: []
 ---
 # あ (a) - JP Dictionary
 
-[[MOS Dictionary  JP (Diccionario MetsuOS)]]
+[[MOS Dictionary  JP (Diccionarios MetsuOS)]]
 
 1. ああ : Oh
 2. あい : Amor

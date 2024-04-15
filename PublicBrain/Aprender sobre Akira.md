@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.522Z
-modified: 2024-04-14T14:29:04.049Z
+modified: 2024-04-15T19:14:24.580Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ tags:
 
 ## Sinopsis
 
-La historia se desarrolla en [[Neo-Tokio]], una versión distópica de Tokio reconstruida después de la Tercera Guerra Mundial. La trama sigue a Kaneda Shotaro, un joven líder de una pandilla de motociclistas, y Tetsuo Shima, su amigo de la infancia. Después de un encuentro con un misterioso niño con habilidades psíquicas, Tetsuo adquiere poderes telequinéticos que lo llevan por un camino peligroso.
+La historia se desarrolla en [[Neo-Tokio]], una versión [[Distopía|distópica]] de Tokio reconstruida después de la Tercera Guerra Mundial. La trama sigue a Kaneda Shotaro, un joven líder de una pandilla de motociclistas, y Tetsuo Shima, su amigo de la infancia. Después de un encuentro con un misterioso niño con habilidades psíquicas, Tetsuo adquiere poderes telequinéticos que lo llevan por un camino peligroso.
 
 La película explora temas como el abuso de poder, la corrupción gubernamental y los peligros de la tecnología avanzada. La trama se vuelve cada vez más compleja a medida que se revelan los secretos detrás de los experimentos gubernamentales y el niño psíquico conocido como Akira.
 

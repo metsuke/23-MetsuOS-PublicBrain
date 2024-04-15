@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leyes de Newton y Sistemas de Referencia.md",
+                "file": "Principios de Termodinámica.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leyes de Newton y Sistemas de Referencia.md",
+                "file": "Principios de Termodinámica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leyes de Newton y Sistemas de Referencia.md",
+                "file": "Principios de Termodinámica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leyes de Newton y Sistemas de Referencia.md"
+                "file": "Principios de Termodinámica.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   "active": "d4a9086fcafcdbbc",
   "lastOpenFiles": [
     "PublicBrain/Aprender más allá del orden del tiempo.md",
+    "Principios de Termodinámica.md",
+    "Energía y Trabajo.md",
     "Leyes de Newton y Sistemas de Referencia.md",
     "PublicBrain/Introducción a la Cinemática y Dinámica.md",
     "PublicBrain/Aprender a fundir plástico.md",
@@ -188,8 +190,6 @@
     "PublicBrain/科.md",
     "PublicBrain/Kanji - Grado 2.md",
     "科.md",
-    "PublicBrain/雲.md",
-    "PublicBrain/遠.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

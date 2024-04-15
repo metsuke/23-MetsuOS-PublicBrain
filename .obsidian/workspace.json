@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/MOS FlashCards JP (Flashcards MetsuOS).md",
+                "file": "Saludos y Presentaciones (JP Flashcards).md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "Saludos y Presentaciones (JP Flashcards).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "Saludos y Presentaciones (JP Flashcards).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Promting Database.md"
+                "file": "Saludos y Presentaciones (JP Flashcards).md"
               }
             }
           },
@@ -175,10 +174,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3c383ecdaf7918e1",
+  "active": "d4a9086fcafcdbbc",
   "lastOpenFiles": [
-    "PublicBrain/Index.md",
     "PublicBrain/MOS FlashCards JP (Flashcards MetsuOS).md",
+    "Saludos y Presentaciones (JP Flashcards).md",
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Catalán.md",
@@ -201,8 +202,6 @@
     "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
     "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
     "Depuración de problemas y errores comunes (IDRA-Ebay).md",
-    "Pruebas, Depuración y Monitoreo (IDRA-Ebay).md",
-    "Principios de Termodinámica.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

@@ -73,7 +73,7 @@ tags:
 
 ## [[Aplicaciones Específicas de la IA]]
 
-- Visión por computadora (Computer Vision)
+- [[Visión por computadora (Computer Vision)]]
   - [[Detección de objetos con IA]]
   - [[Reconocimiento facial]]
 - [[Procesamiento de lenguaje natural (NLP)]]

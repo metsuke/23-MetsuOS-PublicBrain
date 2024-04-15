@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T00:19:29.895Z
-modified: 2024-04-14T14:29:03.791Z
+modified: 2024-04-15T05:21:06.812Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -22,7 +22,7 @@ tags: []
 
 ### Objetivo
 
-* Establece una estrategia de [[pauta]]
+* Establece una estrategia de [[Pauta (Marketing Digital)|pauta]]
 
 ### ¿Qué hacen?
 
@@ -58,11 +58,18 @@ tags: []
 	* Capacidad de trabajar de forma independiente.
 	* Apertura y retroalimentación.
 
-### Cursos recomendados para el perfil
+## Cursos recomendados
 
-* Curso de Google Ads Search
-* Curso de Instagram Ads
-* Curso de Google Ads Display
-* Curso de Facebook Ads
-* Taller de Informes para Marketing Digital.
-* Escuela de Publicidad Digital.
+* [Búsqueda en Platzi Rol Experto en PPC](https://platzi.com/buscar/?search=experto%20PPC)
+
+ ### Escuelas Platzi Recomendadas
+
+* [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
+* [Escuela de Inglés](https://platzi.com/escuela/ingles/)
+* [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
+* [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
+* [Escuela de Startups](https://platzi.com/escuela/startups/)
+
+## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
+
+Si te interesan los cursos que recomiendo y quieres suscribirte, hazlo a través de [mi enlace de referidos en Platzi](https://platzi.com/r/metsuke) y conseguirás un mes gratis en tu suscripción (y a la vez me regalarás otro a mi sin coste adicional ¡gracias!).

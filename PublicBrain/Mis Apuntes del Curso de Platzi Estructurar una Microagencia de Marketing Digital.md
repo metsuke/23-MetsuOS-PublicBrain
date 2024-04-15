@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.196Z
-modified: 2024-04-14T14:29:03.360Z
+modified: 2024-04-15T05:18:05.193Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 50
+ver_rev: 51
 nav_primary: 
 nav_secondary: 
 tags:
@@ -451,7 +451,7 @@ En ing. Sales Funnel Expert. Diseña la estrategia de marketing para el cliente.
 
 ### Objetivo
 
-* Establece una estrategia de [[pauta]]
+* Establece una estrategia de [[Pauta (Marketing Digital)]]
 
 ### ¿Qué hacen?
 

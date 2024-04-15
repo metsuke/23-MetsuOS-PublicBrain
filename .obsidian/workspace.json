@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "Visión por computadora (Computer Vision).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "Visión por computadora (Computer Vision).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+                "file": "Visión por computadora (Computer Vision).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender el Lenguaje C desde Cero.md"
+                "file": "Visión por computadora (Computer Vision).md"
               }
             }
           },
@@ -164,8 +164,21 @@
   },
   "active": "8aa9db3aef960cf3",
   "lastOpenFiles": [
-    "Arreglos/Arrays y Punteros en Lenguaje C.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "Visión por computadora (Computer Vision).md",
+    "PublicBrain/Expertos en PPC.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Rol Experto en EMail Marketing.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Español.md",
+    "PublicBrain/Pauta (Marketing Digital).md",
     "PublicBrain/Aprender el Lenguaje C desde Cero.md",
+    "PublicBrain/Declaración y uso de arreglos/arrays en Lenguaje C.md",
+    "PublicBrain/Declaración y uso de arreglos",
+    "PublicBrain/Arreglos/Arrays y Punteros en Lenguaje C.md",
+    "PublicBrain/Arreglos",
+    "Arreglos/Arrays y Punteros en Lenguaje C.md",
     "Arreglos",
     "Declaración y uso de arreglos/arrays en Lenguaje C.md",
     "Declaración y uso de arreglos",
@@ -181,17 +194,6 @@
     "PublicBrain/Métodos de prueba de la integración con la API (IDRA-Ebay).md",
     "PublicBrain/Implementación de un sistema de recomendación de productos (IDRA-Ebay).md",
     "PublicBrain/Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay).md",
-    "Implementación de un sistema de recomendación de productos (IDRA-Ebay).md",
-    "Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay).md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/A1-CA.md",
-    "PublicBrain/A1-EU.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
-    "PublicBrain/A1-NO.md",
-    "PublicBrain/A1-EO.md",
-    "PublicBrain/A1-EN.md",
-    "PublicBrain/Despedidas (CA Flashcards).md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",
@@ -208,8 +210,6 @@
     "index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "_resources/Estructurar una Microagencia de Publicidad",
-    "carpeta sin título",
-    "PublicBrain/carpeta sin título",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"
   ]

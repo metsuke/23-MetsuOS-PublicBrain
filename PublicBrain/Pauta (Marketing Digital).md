@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.987Z
-modified: 2024-04-14T14:29:03.184Z
+modified: 2024-04-15T05:18:05.035Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# pauta
+# Pauta (Marketing Digital)
 
 [[Aprender idioma español]]
 

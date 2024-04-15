@@ -85,7 +85,7 @@ tags:
 
 ## Ética y Aspectos Sociales de la IA
 
-- Consideraciones éticas en IA
+- [[Consideraciones éticas en IA]]
 - Impacto de la IA en la sociedad
 - Regulaciones y directrices éticas
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "何.md",
+                "file": "PublicBrain/科.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "何.md",
+                "file": "PublicBrain/科.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "何.md",
+                "file": "PublicBrain/科.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "何.md"
+                "file": "PublicBrain/科.md"
               }
             }
           },
@@ -165,31 +165,31 @@
   "active": "8aa9db3aef960cf3",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "科.md",
+    "PublicBrain/雲.md",
+    "PublicBrain/遠.md",
+    "PublicBrain/羽.md",
+    "PublicBrain/立.md",
+    "PublicBrain/科.md",
+    "PublicBrain/百.md",
+    "PublicBrain/白.md",
+    "PublicBrain/林.md",
+    "PublicBrain/本.md",
+    "PublicBrain/木.md",
+    "PublicBrain/文.md",
+    "PublicBrain/引.md",
+    "PublicBrain/年.md",
+    "PublicBrain/園.md",
+    "PublicBrain/名.md",
+    "PublicBrain/力.md",
+    "PublicBrain/入.md",
+    "PublicBrain/何.md",
+    "PublicBrain/Uso de bibliotecas y herramientas de desarrollo de terceros en PixiJS.md",
+    "PublicBrain/Recursos educativos y tutoriales disponibles en Pyxel.md",
+    "PublicBrain/Exploración de la comunidad de desarrolladores de Pyxel.md",
+    "PublicBrain/Actualización y mantenimiento continuo de juegos Pyxel.md",
     "何.md",
     "遠.md",
-    "園.md",
-    "雲.md",
-    "羽.md",
-    "引.md",
-    "PublicBrain/Kanji - Grado 1.md",
-    "PublicBrain/六.md",
-    "林.md",
-    "力.md",
-    "立.md",
-    "PublicBrain/目.md",
-    "名.md",
-    "本.md",
-    "木.md",
-    "文.md",
-    "百.md",
-    "PublicBrain/八.md",
-    "白.md",
-    "年.md",
-    "入.md",
-    "PublicBrain/Aprender sobre Pyxel.md",
-    "Recursos educativos y tutoriales disponibles en Pyxel.md",
-    "Exploración de la comunidad de desarrolladores de Pyxel.md",
-    "Actualización y mantenimiento continuo de juegos Pyxel.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

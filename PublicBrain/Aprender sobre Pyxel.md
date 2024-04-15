@@ -69,7 +69,7 @@ tags: []
 - [[Actualización y mantenimiento continuo de juegos Pyxel]]
 
 ## Comunidad y Recursos de Pyxel
-- Exploración de la comunidad de desarrolladores de Pyxel
+- [[Exploración de la comunidad de desarrolladores de Pyxel]]
 - Recursos educativos y tutoriales disponibles
 - Participación en eventos y concursos de juegos
 - Contribución a la mejora y desarrollo de Pyxel

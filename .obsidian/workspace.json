@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "引.md",
+                "file": "羽.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "引.md",
+                "file": "羽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "引.md",
+                "file": "羽.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "引.md"
+                "file": "羽.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "8aa9db3aef960cf3",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "羽.md",
     "引.md",
     "PublicBrain/Kanji - Grado 1.md",
     "PublicBrain/六.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/Visión por computadora (Computer Vision).md",
     "PublicBrain/Precarga de recursos para una experiencia más fluida en PixiJS.md",
-    "PublicBrain/Integración de PixiJS con frameworks como React o Angular.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

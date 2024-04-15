@@ -44,7 +44,7 @@ tags:
 * Desarrollo de Personajes
 	* [[Creación y desarrollo de personajes memorables en Storytelling]]
 	* Arcos de personajes
-* Construcción de la Trama
+* [[Construcción de la Trama en Storytelling]]
 	* [[Introducción, desarrollo y clímax en Storytelling]]
 	* Técnicas de narración efectiva
 ## Estructura Narrativa

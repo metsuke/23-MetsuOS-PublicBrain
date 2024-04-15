@@ -64,7 +64,7 @@ tags:
 - [[Carga de audio y video en PixiJS]]
 - [[Uso de sprites de hojas de sprites (spritesheets) en PixiJS]]
 - [[Optimización de la carga de recursos y gestión de memoria en PixiJS]]
-- Precarga de recursos para una experiencia más fluida
+- [[Precarga de recursos para una experiencia más fluida en PixiJS]]
 ## Integración con Herramientas y Bibliotecas Externas
 
 - Integración de PixiJS con frameworks como React o Angular

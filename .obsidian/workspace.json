@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arcos de personajes en Storytelling.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arcos de personajes en Storytelling.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arcos de personajes en Storytelling.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arcos de personajes en Storytelling.md"
+                "file": "PublicBrain/Aprender sobre PixiJS.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "8aa9db3aef960cf3",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Storytelling.md",
+    "Precarga de recursos para una experiencia más fluida en PixiJS.md",
+    "PublicBrain/Aprender sobre PixiJS.md",
     "Arcos de personajes en Storytelling.md",
+    "PublicBrain/Aprender sobre Storytelling.md",
     "Construcción de la Trama en Storytelling.md",
     "Creación y desarrollo de personajes memorables en Storytelling.md",
     "Fuentes primarias - obras del individuo (Estudio persamiento y filosofía de una persona).md",
@@ -191,9 +193,7 @@
     "PublicBrain/Arreglos",
     "Arreglos/Arrays y Punteros en Lenguaje C.md",
     "Arreglos",
-    "Declaración y uso de arreglos/arrays en Lenguaje C.md",
     "Declaración y uso de arreglos",
-    "PublicBrain/Paso por valor y por referencia en Lenguaje C.md",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",

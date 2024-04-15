@@ -1,33 +1,36 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.945Z
-modified: 2024-04-14T14:29:03.870Z
+modified: 2024-04-15T06:26:18.519Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Certificaciones académicas
 
 [[Aprender Idioma Chino]]
 
-## Módulo 1: Introducción a las Certificaciones Académicas en Chino
+## Módulo 1: "I"ntroducción a las Certificaciones Académicas en Chino
 
 - Presentación de las Certificaciones Académicas en Chino
 - Tipos de exámenes académicos en chino
 - Estrategias efectivas para la preparación
 - Recursos disponibles para el estudio
 
-## Módulo 2: HSK (Hanyu Shuiping Kaoshi)
+## Módulo 2: "H"SK (Hanyu Shuiping Kaoshi)
 
 - Unidad 1: Descripción y objetivos del HSK
 - Unidad 2: Preparación para las secciones de escucha y lectura

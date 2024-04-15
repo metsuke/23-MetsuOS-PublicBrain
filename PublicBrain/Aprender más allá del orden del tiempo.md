@@ -26,7 +26,7 @@ tags:
 **Módulo 1: Fundamentos de Física Clásica**
 
 1. [[Introducción a la Cinemática y Dinámica]]
-2. Leyes de Newton y Sistemas de Referencia
+2. [[Leyes de Newton y Sistemas de Referencia]]
 3. Energía y Trabajo
 4. Principios de Termodinámica
 

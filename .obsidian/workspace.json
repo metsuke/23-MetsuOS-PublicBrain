@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41f891a2fb97eaef",
+        "id": "8712353fe8a1704d",
         "type": "tabs",
         "children": [
           {
-            "id": "8aa9db3aef960cf3",
+            "id": "d4a9086fcafcdbbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/科.md",
+                "file": "Leyes de Newton y Sistemas de Referencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/科.md",
+                "file": "Leyes de Newton y Sistemas de Referencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/科.md",
+                "file": "Leyes de Newton y Sistemas de Referencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/科.md"
+                "file": "Leyes de Newton y Sistemas de Referencia.md"
               }
             }
           },
@@ -162,34 +162,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8aa9db3aef960cf3",
+  "active": "d4a9086fcafcdbbc",
   "lastOpenFiles": [
+    "PublicBrain/Aprender más allá del orden del tiempo.md",
+    "Leyes de Newton y Sistemas de Referencia.md",
+    "PublicBrain/Introducción a la Cinemática y Dinámica.md",
+    "PublicBrain/Aprender a fundir plástico.md",
+    "PublicBrain/Aprender Idioma Ucraniano.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Certificados de Catalán para el Trabajo.md",
+    "PublicBrain/Certificado de Español - Lengua y Uso (CELU).md",
+    "PublicBrain/Certificado de Competencia en Lengua Rumana (CCL).md",
+    "PublicBrain/Certificaciones académicas.md",
+    "PublicBrain/Catalizador Alquimico (Objeto WOW).md",
+    "PublicBrain/Ce mai faci?.md",
+    "PublicBrain/Catch Me If You Can.md",
+    "PublicBrain/Catalán.md",
+    "PublicBrain/Caracteres básicos del silabario hiragana.md",
+    "PublicBrain/Capas ocultas y capa de salida.md",
+    "PublicBrain/Capas de la infraestructura de una red.md",
+    "PublicBrain/Cambridge English Exams.md",
+    "PublicBrain/CCSE (Examen de Conocimientos Constitucionales y Socioculturales de España).md",
+    "PublicBrain/C2-SV.md",
+    "PublicBrain/C2-RU.md",
+    "PublicBrain/科.md",
     "PublicBrain/Kanji - Grado 2.md",
     "科.md",
     "PublicBrain/雲.md",
     "PublicBrain/遠.md",
-    "PublicBrain/羽.md",
-    "PublicBrain/立.md",
-    "PublicBrain/科.md",
-    "PublicBrain/百.md",
-    "PublicBrain/白.md",
-    "PublicBrain/林.md",
-    "PublicBrain/本.md",
-    "PublicBrain/木.md",
-    "PublicBrain/文.md",
-    "PublicBrain/引.md",
-    "PublicBrain/年.md",
-    "PublicBrain/園.md",
-    "PublicBrain/名.md",
-    "PublicBrain/力.md",
-    "PublicBrain/入.md",
-    "PublicBrain/何.md",
-    "PublicBrain/Uso de bibliotecas y herramientas de desarrollo de terceros en PixiJS.md",
-    "PublicBrain/Recursos educativos y tutoriales disponibles en Pyxel.md",
-    "PublicBrain/Exploración de la comunidad de desarrolladores de Pyxel.md",
-    "PublicBrain/Actualización y mantenimiento continuo de juegos Pyxel.md",
-    "何.md",
-    "遠.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

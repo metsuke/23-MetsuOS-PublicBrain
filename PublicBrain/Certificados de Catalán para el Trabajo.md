@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.992Z
-modified: 2024-04-14T14:29:03.869Z
+modified: 2024-04-15T06:26:18.507Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Certificados de Catalán para el Trabajo
 
@@ -27,7 +30,7 @@ tags: []
 1.3. Correspondencia comercial y profesional.
 1.4. Presentación de informes y documentación laboral.
 
-## Módulo 2: Habilidades de Comunicación Avanzada
+## Módulo 2: "H"abilidades de Comunicación Avanzada
 
 2.1. Negociación y resolución de conflictos en el entorno laboral.
 2.2. Comunicación efectiva en reuniones y presentaciones.

@@ -1,26 +1,29 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.929Z
-modified: 2024-04-14T14:29:03.942Z
+modified: 2024-04-15T06:26:18.523Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # CCSE (Examen de Conocimientos Constitucionales y Socioculturales de España)
 
 [[Aprender Idioma Español]]
 
-## Módulo 1: Introducción a España
+## Módulo 1: "I"ntroducción a España
 
 1.1. Geografía y ubicación geográfica de España.
 1.2. Historia de España y sus principales períodos.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principios de Termodinámica.md",
+                "file": "Depuración de problemas y errores comunes (IDRA-Ebay).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principios de Termodinámica.md",
+                "file": "Depuración de problemas y errores comunes (IDRA-Ebay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principios de Termodinámica.md",
+                "file": "Depuración de problemas y errores comunes (IDRA-Ebay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principios de Termodinámica.md"
+                "file": "Depuración de problemas y errores comunes (IDRA-Ebay).md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "d4a9086fcafcdbbc",
   "lastOpenFiles": [
-    "PublicBrain/Aprender más allá del orden del tiempo.md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "Depuración de problemas y errores comunes (IDRA-Ebay).md",
     "Principios de Termodinámica.md",
+    "PublicBrain/Aprender más allá del orden del tiempo.md",
     "Energía y Trabajo.md",
     "Leyes de Newton y Sistemas de Referencia.md",
     "PublicBrain/Introducción a la Cinemática y Dinámica.md",
@@ -188,8 +190,6 @@
     "PublicBrain/C2-SV.md",
     "PublicBrain/C2-RU.md",
     "PublicBrain/科.md",
-    "PublicBrain/Kanji - Grado 2.md",
-    "科.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

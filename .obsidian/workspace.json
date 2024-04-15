@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md",
+                "file": "入.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md",
+                "file": "入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md",
+                "file": "入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel.md"
+                "file": "入.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "8aa9db3aef960cf3",
   "lastOpenFiles": [
-    "Recursos educativos y tutoriales disponibles en Pyxel.md",
+    "PublicBrain/Kanji - Grado 1.md",
+    "入.md",
     "PublicBrain/Aprender sobre Pyxel.md",
+    "Recursos educativos y tutoriales disponibles en Pyxel.md",
     "Exploración de la comunidad de desarrolladores de Pyxel.md",
     "Actualización y mantenimiento continuo de juegos Pyxel.md",
     "Uso de bibliotecas y herramientas de desarrollo de terceros en PixiJS.md",
@@ -188,8 +190,6 @@
     "Construcción de la Trama en Storytelling.md",
     "Creación y desarrollo de personajes memorables en Storytelling.md",
     "Fuentes primarias - obras del individuo (Estudio persamiento y filosofía de una persona).md",
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
-    "PublicBrain/Aprender con Pablo Grueso.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

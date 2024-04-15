@@ -67,7 +67,7 @@ tags:
 - [[Precarga de recursos para una experiencia más fluida en PixiJS]]
 ## Integración con Herramientas y Bibliotecas Externas
 
-- Integración de PixiJS con frameworks como React o Angular
+- [[Integración de PixiJS con frameworks como React o Angular]]
 - Uso de bibliotecas y herramientas de desarrollo de terceros
 - Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles
 ## Depuración y Optimización

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uso de bibliotecas y herramientas de desarrollo de terceros en PixiJS.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uso de bibliotecas y herramientas de desarrollo de terceros en PixiJS.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uso de bibliotecas y herramientas de desarrollo de terceros en PixiJS.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uso de bibliotecas y herramientas de desarrollo de terceros en PixiJS.md"
+                "file": "PublicBrain/Aprender sobre Pyxel.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "8aa9db3aef960cf3",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre PixiJS.md",
+    "Actualización y mantenimiento continuo de juegos Pyxel.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
     "Uso de bibliotecas y herramientas de desarrollo de terceros en PixiJS.md",
+    "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/Visión por computadora (Computer Vision).md",
     "PublicBrain/Precarga de recursos para una experiencia más fluida en PixiJS.md",
     "PublicBrain/Integración de PixiJS con frameworks como React o Angular.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Aprender con Pablo Grueso.md",
     "Influencia y legado en la filosofía contemporánea (Estudio persamiento y filosofía de una persona).md",
     "Críticas y debates sobre las ideas del individuo (Estudio persamiento y filosofía de una persona).md",
-    "IA en finanzas y negocios.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-04-14T14:29:04.036Z
+modified: 2024-04-15T05:43:22.119Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 80
+ver_rev: 81
 nav_primary: 
 nav_secondary: 
 tags:
@@ -68,7 +68,7 @@ tags:
 ## Integración con Herramientas y Bibliotecas Externas
 
 - [[Integración de PixiJS con frameworks como React o Angular]]
-- Uso de bibliotecas y herramientas de desarrollo de terceros
+- [[Uso de bibliotecas y herramientas de desarrollo de terceros en PixiJS]]
 - Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles
 ## Depuración y Optimización
 

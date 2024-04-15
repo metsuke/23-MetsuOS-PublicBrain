@@ -32,7 +32,7 @@ tags: []
 5. [[Operaciones matemáticas básicas (CA Flashcards)]]
 
 ## Días de la Semana y Meses del Año
-6. Días de la semana
+6. [[Días de la semana (CA Flashcards)]]
 7. Meses del año
 8. Estaciones del año
 

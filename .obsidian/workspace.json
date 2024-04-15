@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-CA.md",
+                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-CA.md"
+                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md"
               }
             }
           },
@@ -164,6 +164,9 @@
   },
   "active": "d4a9086fcafcdbbc",
   "lastOpenFiles": [
+    "Días de la semana (CA Flashcards).md",
+    "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
+    "PublicBrain/A1-CA.md",
     "PublicBrain/Pruebas, Depuración y Monitoreo (IDRA-Ebay).md",
     "PublicBrain/Principios de Termodinámica.md",
     "PublicBrain/Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
@@ -187,9 +190,6 @@
     "Leyes de Newton y Sistemas de Referencia.md",
     "PublicBrain/Introducción a la Cinemática y Dinámica.md",
     "PublicBrain/Aprender a fundir plástico.md",
-    "PublicBrain/Aprender Idioma Ucraniano.md",
-    "PublicBrain/Certificados de Catalán para el Trabajo.md",
-    "PublicBrain/Certificado de Español - Lengua y Uso (CELU).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

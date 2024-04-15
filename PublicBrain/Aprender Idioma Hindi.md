@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.426Z
-modified: 2024-04-15T13:09:17.244Z
+modified: 2024-04-15T20:03:11.915Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,4 +36,5 @@ tags:
 		* [[Exámenes del Instituto de Educación a Distancia de la Universidad de Delhi (DU SOL)]]
 		* [[Exámenes del Instituto Central de Lenguas Extranjeras (CILS)]]
 		* [[Exámenes de Nivel Nacional de Certificación en Habilidades en Idiomas (NACIL)]]
+	* [[MOS Dictionary HI (Diccionarios MetsuOS)]]
 	* [[MOS FlashCards HI (Flashcards MetsuOS)]])

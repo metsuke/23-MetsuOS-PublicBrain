@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3c383ecdaf7918e1",
+            "id": "36477f4bc5bbd474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人 (Ré​n).md",
+                "file": "अं (HI Dictionary).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "人 (Ré​n).md",
+                "file": "अं (HI Dictionary).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "人 (Ré​n).md",
+                "file": "अं (HI Dictionary).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人 (Ré​n).md"
+                "file": "अं (HI Dictionary).md"
               }
             }
           },
@@ -175,15 +175,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3c383ecdaf7918e1",
+  "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
-    "MOS Dictionary  ZH (Diccionarios MetsuOS).md",
-    "人 (Ré​n).md",
-    "PublicBrain/Promting Database.md",
-    "PublicBrain/Aprender Idioma Chino.md",
+    "MOS Dictionary HI (Diccionarios MetsuOS).md",
+    "PublicBrain/Aprender Idioma Hindi.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/MOS Dictionary  JP (Diccionarios MetsuOS).md",
+    "PublicBrain/MOS FlashCards HI (Flashcards MetsuOS).md",
+    "अं (HI Dictionary).md",
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/Index.md",
+    "人 (Ré​n).md",
+    "PublicBrain/人 (Ré​n).md",
+    "PublicBrain/MOS Dictionary  ZH (Diccionarios MetsuOS).md",
+    "MOS Dictionary  ZH (Diccionarios MetsuOS).md",
     "PublicBrain/Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos..md",
     "PublicBrain/Aprender sobre Akira.md",
     "Distopía.md",
@@ -192,17 +199,10 @@
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Expertos en PPC.md",
     "PublicBrain/あ (a) - JP Dictionary.md",
-    "PublicBrain/MOS Dictionary  JP (Diccionarios MetsuOS).md",
     "あ (a) - JP Dictionary.md",
     "PublicBrain/Saludos y presentaciones (HI Flashcards).md",
     "PublicBrain/Saludos y Presentaciones (JP Flashcards).md",
-    "PublicBrain/MOS FlashCards HI (Flashcards MetsuOS).md",
-    "PublicBrain/Aprender Idioma Hindi.md",
     "MOS FlashCards HI (Flashcards MetsuOS).md",
-    "MOS Dictionary  JP (Diccionario MetsuOS).md",
-    "Saludos y presentaciones (HI Flashcards).md",
-    "PublicBrain/MOS FlashCards JP (Flashcards MetsuOS).md",
-    "Saludos y Presentaciones (JP Flashcards).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

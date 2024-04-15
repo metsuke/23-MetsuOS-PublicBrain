@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saludos y Presentaciones (JP Flashcards).md",
+                "file": "MOS FlashCards HI (Flashcards MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Saludos y Presentaciones (JP Flashcards).md",
+                "file": "MOS FlashCards HI (Flashcards MetsuOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Saludos y Presentaciones (JP Flashcards).md",
+                "file": "MOS FlashCards HI (Flashcards MetsuOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Saludos y Presentaciones (JP Flashcards).md"
+                "file": "MOS FlashCards HI (Flashcards MetsuOS).md"
               }
             }
           },
@@ -176,12 +176,14 @@
   },
   "active": "d4a9086fcafcdbbc",
   "lastOpenFiles": [
+    "PublicBrain/Promting Database.md",
+    "MOS FlashCards HI (Flashcards MetsuOS).md",
+    "PublicBrain/Aprender Idioma Hindi.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/MOS FlashCards JP (Flashcards MetsuOS).md",
     "Saludos y Presentaciones (JP Flashcards).md",
-    "PublicBrain/Promting Database.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
     "PublicBrain/Estaciones del año (CA Flashcards).md",
@@ -200,8 +202,6 @@
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay).md",
-    "Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay).md",
-    "Depuración de problemas y errores comunes (IDRA-Ebay).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

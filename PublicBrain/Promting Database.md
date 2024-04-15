@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.616Z
-modified: 2024-04-14T14:29:03.292Z
+modified: 2024-04-15T13:10:08.929Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 82
+ver_rev: 83
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,7 +34,7 @@ necesito una tabla detallada y exhaustiva de características técnicas del vide
 * En el contexto de aprender idioma Gallego, necesito un indice de contenidos exhaustivo y detallado para estudiar el nivel A1 
 
 ### Idiomas  / Flashcards
-* En el contexto "Aprender Idioma Chino", dame un índice de tematicas exhaustiva y detallada, de no menos de 100 categorías, más si es necesario, para crear mis flashcards de aprendizaje del vocabulario. Damelo en marldown para poder copiarlo.
+* En el contexto "Aprender Idioma Chino", dame un índice de tematicas exhaustiva y detallada, de no menos de 100 categorías, más si es necesario, para crear mis flashcards de aprendizaje del vocabulario. Damelo en marldown para poder copiarlo. La lista generada debe ser numerada
 * En el contexto de aprender idioma chino, puedes darme una lista exhaustiva y detallada de palabras para aprender vocabulario con flashcards en torno al tema TOKEN
 * (MetsuOS Choice) En el contexto de aprender idioma inglés, puedes darme una lista exhaustiva y detallada de palabras para aprender vocabulario con flashcards en torno al tema TOKEN. Agrega el mayor numero de vocablos posible, dentro de lo razonable, pero pon cuidado de no salirte demasiado del contexto indicado. Incluye el termino en el idioma y su traducción a español de españa. Damelo en markdown para poder copiarlo. El formato de cada entrada debe ser Palabra de la lista : Traduccion, sin ponerlo entre paréntesis ni nada más. La lista generada debe ser numerada.
 

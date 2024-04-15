@@ -70,7 +70,7 @@ tags: []
 
 ## Comunidad y Recursos de Pyxel
 - [[Exploración de la comunidad de desarrolladores de Pyxel]]
-- Recursos educativos y tutoriales disponibles
+- [[Recursos educativos y tutoriales disponibles en Pyxel]]
 - Participación en eventos y concursos de juegos
 - Contribución a la mejora y desarrollo de Pyxel
 

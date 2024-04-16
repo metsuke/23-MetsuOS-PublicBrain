@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles.md",
+                "file": "Técnicas de depuración en PixiJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles.md",
+                "file": "Técnicas de depuración en PixiJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles.md",
+                "file": "Técnicas de depuración en PixiJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles.md"
+                "file": "Técnicas de depuración en PixiJS.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre PixiJS.md",
+    "Técnicas de depuración en PixiJS.md",
     "Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles.md",
     "PublicBrain/Rol Experto en EMail Marketing.md",
     "PublicBrain/Lead (Marketing Digital).md",
@@ -189,7 +190,6 @@
     "PublicBrain/Aprender Idioma Hindi.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/MOS Dictionary  JP (Diccionarios MetsuOS).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

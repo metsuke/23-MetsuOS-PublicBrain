@@ -72,7 +72,7 @@ tags:
 - [[Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles]]
 ## Depuración y Optimización
 
-- Técnicas de depuración en PixiJS
+- [[Técnicas de depuración en PixiJS]]
 - Perfil de rendimiento y optimización
 - Mejores prácticas para lograr un rendimiento óptimo
 - Pruebas y resolución de problemas comunes

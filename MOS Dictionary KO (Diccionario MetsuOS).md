@@ -3,7 +3,7 @@
 [[Aprender Idioma Coreano]]
 
 1. A
-   - 아버지 (abeoji) : Padre
+   - [[아버지 (abeoji) ]]: Padre
    - 아침 (achim) : Mañana
    - 아름다운 (areumdaun) : Hermoso
    - 아기 (agi) : Bebé

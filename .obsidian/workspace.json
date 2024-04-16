@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md"
+                "file": "PublicBrain/Aprender sobre Pyxel.md"
               }
             }
           },
@@ -164,8 +164,13 @@
   },
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
-    "Perfil de rendimiento y optimización en PixiJS.md",
+    "Participación en eventos y concursos de juegos en Pyxel.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
     "PublicBrain/Aprender sobre PixiJS.md",
+    "PublicBrain/Técnicas de depuración en PixiJS.md",
+    "PublicBrain/Perfil de rendimiento y optimización en PixiJS.md",
+    "PublicBrain/Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles.md",
+    "Perfil de rendimiento y optimización en PixiJS.md",
     "Técnicas de depuración en PixiJS.md",
     "Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles.md",
     "PublicBrain/Rol Experto en EMail Marketing.md",
@@ -185,11 +190,6 @@
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "PublicBrain/अं (HI Dictionary).md",
-    "PublicBrain/MOS Dictionary HI (Diccionarios MetsuOS).md",
-    "अं (HI Dictionary).md",
-    "MOS Dictionary HI (Diccionarios MetsuOS).md",
-    "PublicBrain/Aprender Idioma Hindi.md",
-    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

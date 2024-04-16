@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de un proyecto práctico de juego completo en Pyxel.md",
+                "file": "Generación y evaluación de soluciones en CPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de un proyecto práctico de juego completo en Pyxel.md",
+                "file": "Generación y evaluación de soluciones en CPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de un proyecto práctico de juego completo en Pyxel.md",
+                "file": "Generación y evaluación de soluciones en CPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de un proyecto práctico de juego completo en Pyxel.md"
+                "file": "Generación y evaluación de soluciones en CPS.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Pyxel.md",
+    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
+    "Generación y evaluación de soluciones en CPS.md",
     "Desarrollo de un proyecto práctico de juego completo en Pyxel.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
     "Contribución a la mejora y desarrollo de Pyxel.md",
     "Participación en eventos y concursos de juegos en Pyxel.md",
     "PublicBrain/Aprender sobre PixiJS.md",
@@ -188,8 +190,6 @@
     "Importancia de la interacción remota con Facebook (IDRA-Facebook).md",
     "Conceptos básicos de API (IDRA-Facebook).md",
     "PublicBrain/Promting Database.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

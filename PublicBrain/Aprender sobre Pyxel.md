@@ -72,7 +72,7 @@ tags: []
 - [[Exploración de la comunidad de desarrolladores de Pyxel]]
 - [[Recursos educativos y tutoriales disponibles en Pyxel]]
 - [[Participación en eventos y concursos de juegos en Pyxel]]
-- Contribución a la mejora y desarrollo de Pyxel
+- [[Contribución a la mejora y desarrollo de Pyxel]]
 
 ## Proyecto Final: Creación de un Juego Completo en Pyxel
 - Desarrollo de un proyecto práctico de juego completo en Pyxel

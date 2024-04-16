@@ -20,7 +20,7 @@ tags: []
 
 [[Aprender Idioma Aleman]]
 
-1. Saludos y presentaciones
+1. [[Saludos y presentaciones (GE Flashcards)]]
 2. Números y cifras
 3. Días de la semana
 4. Meses del año

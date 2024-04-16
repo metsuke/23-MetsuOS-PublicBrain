@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "Saludos y presentaciones (GE Flashcards).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOS Flashcards GE (Flashcards MetsuOS).md",
+                "file": "Saludos y presentaciones (GE Flashcards).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOS Flashcards GE (Flashcards MetsuOS).md",
+                "file": "Saludos y presentaciones (GE Flashcards).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOS Flashcards GE (Flashcards MetsuOS).md"
+                "file": "Saludos y presentaciones (GE Flashcards).md"
               }
             }
           },
@@ -174,10 +175,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "36477f4bc5bbd474",
+  "active": "2589f9e5dbfe2bd6",
   "lastOpenFiles": [
-    "PublicBrain/Promting Database.md",
     "MOS Flashcards GE (Flashcards MetsuOS).md",
+    "Saludos y presentaciones (GE Flashcards).md",
+    "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender Idioma Aleman.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Indonesio.md",
@@ -201,7 +203,6 @@
     "MOS Cards TH (Flashcards MetsuOS).md",
     "Saludos y presentaciones (TH Flashcards).md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

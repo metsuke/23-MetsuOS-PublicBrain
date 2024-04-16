@@ -1,6 +1,9 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
@@ -8,16 +11,17 @@ translations:
 created: 2024-04-06T23:48:59.022Z
 modified: 2024-04-14T14:29:03.865Z
 supervisado: ""
-ACCION: ""
+ACCION: 
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Composicion de elementos reciclables disponibles en una casa
 
+[[Aprender sobre Reciclaje]]
 
 1. Papel y cartón: El papel y el cartón son materiales reciclables ampliamente disponibles en una casa. Pueden incluir periódicos, revistas, cajas de cartón, envases de alimentos de cartón, papel de impresión, sobres y papel de envolver. Estos materiales se reciclan para producir nuevos productos de papel y cartón.
     

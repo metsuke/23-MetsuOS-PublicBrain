@@ -1,6 +1,9 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
@@ -12,15 +15,15 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Certificados de enseñanza de chino
 
 [[Aprender Idioma Chino]]
 
-## Módulo 1: Introducción a los Certificados de Enseñanza de Chino
+## Módulo 1: "I"ntroducción a los Certificados de Enseñanza de Chino
 
 - Presentación de los Certificados de Enseñanza de Chino
 - Estructura de los exámenes y requisitos

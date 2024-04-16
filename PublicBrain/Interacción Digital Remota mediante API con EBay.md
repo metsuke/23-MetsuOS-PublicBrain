@@ -74,7 +74,7 @@ tags:
 - [[Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay)]]
 
 ## Futuras Perspectivas y Desarrollos
-- Exploración de futuras actualizaciones y cambios en la API de eBay
+- [[Exploración de futuras actualizaciones y cambios en la API de eBay (IDRA-Ebay)]]
 - Tendencias en la interacción digital remota mediante APIs
 - Oportunidades de expansión y crecimiento profesional en el campo
 - Recursos adicionales y comunidades de desarrollo para seguir aprendiendo

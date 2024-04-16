@@ -76,7 +76,7 @@ tags:
 ## Futuras Perspectivas y Desarrollos
 - [[Exploración de futuras actualizaciones y cambios en la API de eBay (IDRA-Ebay)]]
 - [[Tendencias en la interacción digital remota mediante APIs (IDRA-Ebay)]]
-- Oportunidades de expansión y crecimiento profesional en el campo
+- [[Oportunidades de expansión y crecimiento profesional en el campo (IDRA-Ebay)]]
 - Recursos adicionales y comunidades de desarrollo para seguir aprendiendo
 
 ## Conclusión

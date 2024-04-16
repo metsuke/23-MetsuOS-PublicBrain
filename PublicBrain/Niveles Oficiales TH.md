@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.446Z
-modified: 2024-04-14T14:29:03.341Z
+modified: 2024-04-16T17:51:44.731Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Niveles Oficiales TH
 
-[[Apnreder Idioma Tailandés]] | [[Niveles y Exámenes Adicionales TH]]
+[[Aprender Idioma Tailandés]] | [[Niveles y Exámenes Adicionales TH]]
 
 El [[tailandés]], también conocido como el idioma thai (ไทย), es el idioma oficial de Tailandia y se habla en todo el país. No tiene niveles oficiales como el sistema CEFR (Common European Framework of Reference for Languages) que se utiliza para evaluar el nivel de competencia en idiomas europeos. Sin embargo, el aprendizaje del tailandés se puede dividir en varios niveles de competencia que son comunes en la enseñanza y el aprendizaje de idiomas. Estos niveles incluyen:
 

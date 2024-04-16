@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.394Z
-modified: 2024-04-14T14:29:03.349Z
+modified: 2024-04-16T17:51:44.626Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Nivel Avanzado TH
 
-[[Apnreder Idioma Tailandés]]
+[[Aprender Idioma Tailandés]]
 
 <-- [[Nivel Intermedio TH]] | [[Nivel Principiante TH]] -->
 

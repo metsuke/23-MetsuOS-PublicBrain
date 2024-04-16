@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.414Z
-modified: 2024-04-14T14:29:04.071Z
+modified: 2024-04-16T17:51:44.499Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Apnreder Idioma Tailandés
+# Aprender Idioma Tailandés
 
 [[PublicBrain/Index#Aprender Idiomas]]
 
@@ -29,3 +29,5 @@ tags:
 		* [[Nivel Intermedio TH]]
 		* [[Nivel Avanzado TH]]
 	* [[Niveles y Exámenes Adicionales TH]]
+	* [[MOS Cards TH (Flashcards MetsuOS)]]
+* 

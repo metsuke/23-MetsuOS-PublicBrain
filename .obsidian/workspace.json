@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oportunidades de expansión y crecimiento profesional en el campo (IDRA-Ebay).md",
+                "file": "MOS Cards TH (Flashcards MetsuOS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2589f9e5dbfe2bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saludos y presentaciones (TH Flashcards).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oportunidades de expansión y crecimiento profesional en el campo (IDRA-Ebay).md",
+                "file": "Saludos y presentaciones (TH Flashcards).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oportunidades de expansión y crecimiento profesional en el campo (IDRA-Ebay).md",
+                "file": "Saludos y presentaciones (TH Flashcards).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oportunidades de expansión y crecimiento profesional en el campo (IDRA-Ebay).md"
+                "file": "Saludos y presentaciones (TH Flashcards).md"
               }
             }
           },
@@ -162,10 +175,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "36477f4bc5bbd474",
+  "active": "2589f9e5dbfe2bd6",
   "lastOpenFiles": [
+    "MOS Cards TH (Flashcards MetsuOS).md",
+    "Saludos y presentaciones (TH Flashcards).md",
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Tailandés.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Chino.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Oportunidades de expansión y crecimiento profesional en el campo (IDRA-Ebay).md",
+    "PublicBrain/記.md",
+    "PublicBrain/汽.md",
+    "PublicBrain/Tendencias en la interacción digital remota mediante APIs (IDRA-Ebay).md",
+    "PublicBrain/Oportunidades de expansión y crecimiento profesional en el campo (IDRA-Ebay).md",
+    "PublicBrain/Exploración de futuras actualizaciones y cambios en la API de eBay (IDRA-Ebay).md",
     "Tendencias en la interacción digital remota mediante APIs (IDRA-Ebay).md",
     "Exploración de futuras actualizaciones y cambios en la API de eBay (IDRA-Ebay).md",
     "PublicBrain/Aprender con Coronel Baños.md",
@@ -176,20 +203,6 @@
     "PublicBrain/Compilación y ejecución en lenguaje C.md",
     "PublicBrain/Comprensible.md",
     "PublicBrain/Componentes básicos de una red nodos, servidores, clientes, routers, switches.md",
-    "PublicBrain/Composicion de elementos reciclables disponibles en una casa.md",
-    "PublicBrain/Com estàs?.md",
-    "PublicBrain/Comparación con otros lenguajes (Aprender C).md",
-    "PublicBrain/Claridad.md",
-    "PublicBrain/Chino.md",
-    "PublicBrain/Claridad y Sencillez.md",
-    "PublicBrain/Child.md",
-    "PublicBrain/Checo.md",
-    "PublicBrain/Certificados de enseñanza de chino.md",
-    "PublicBrain/Certificación de Hindi Pragya.md",
-    "記.md",
-    "PublicBrain/Kanji - Grado 2.md",
-    "汽.md",
-    "顔.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

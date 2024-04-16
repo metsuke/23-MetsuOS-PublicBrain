@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.442Z
-modified: 2024-04-15T06:25:46.529Z
+modified: 2024-04-16T17:51:44.597Z
 supervisado: 2024-04-14T14:29:04.063Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 79
+ver_rev: 80
 nav_primary: 
 nav_secondary: 
 tags:
@@ -52,7 +52,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * RU [[Aprender Idioma Ruso]]
 * SV [[Aprender Idioma Sueco]]
 * SW [[Aprender Idioma Swahili]]
-* TH [[Apnreder Idioma Tailandés]]
+* TH [[Aprender Idioma Tailandés]]
 * TR [[Aprender Idioma Turco]]
 * UK [[Aprender Idioma Ucraniano]]
 * VLC [[Aprender Idioma Valenciano]]

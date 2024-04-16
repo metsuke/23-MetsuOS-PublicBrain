@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# MOS Cards ID (Flashcards MetsuOS)
+# MOS FlashCards ID (Flashcards MetsuOS)
 
 [[Aprender Idioma Indonesio]]
 

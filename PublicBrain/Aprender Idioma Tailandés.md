@@ -29,5 +29,5 @@ tags:
 		* [[Nivel Intermedio TH]]
 		* [[Nivel Avanzado TH]]
 	* [[Niveles y Exámenes Adicionales TH]]
-	* [[MOS Dictionary  TH (Diccionarios MetsuOS)]]
+	* [[MOS Dictionary TH (Diccionarios MetsuOS)]]
 	* [[MOS Cards TH (Flashcards MetsuOS)]]

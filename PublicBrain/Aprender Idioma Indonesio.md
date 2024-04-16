@@ -26,4 +26,5 @@ tags:
 * ID| Indonesio
 	* Niveles Oficiales ID
 	* Niveles y Exámenes Adicionales ID
-	* [[MOS Cards ID (Flashcards MetsuOS)]]
+	* [[MOS Dictionary ID (Diccionario MetsuOS)]]
+	* [[MOS FlashCards ID (Flashcards MetsuOS)]]

@@ -18,7 +18,7 @@ tags: []
 ---
 # Saludos y presentaciones (ID Flashcards)
 
-[[MOS Cards ID (Flashcards MetsuOS)]]
+[[MOS FlashCards ID (Flashcards MetsuOS)]]
 
 1. Hai : Hola
 2. Selamat pagi : Buenos días

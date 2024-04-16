@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "顔.md",
+                "file": "汽.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "顔.md",
+                "file": "汽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "顔.md",
+                "file": "汽.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "顔.md"
+                "file": "汽.md"
               }
             }
           },
@@ -164,6 +164,9 @@
   },
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
+    "PublicBrain/Kanji - Grado 2.md",
+    "汽.md",
+    "顔.md",
     "PublicBrain/顔.md",
     "PublicBrain/間.md",
     "PublicBrain/角.md",
@@ -186,10 +189,7 @@
     "PublicBrain/Generación y evaluación de soluciones en CPS.md",
     "PublicBrain/Desarrollo de un proyecto práctico de juego completo en Pyxel.md",
     "PublicBrain/Contribución a la mejora y desarrollo de Pyxel.md",
-    "PublicBrain/Kanji - Grado 2.md",
-    "顔.md",
     "岩.md",
-    "丸.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

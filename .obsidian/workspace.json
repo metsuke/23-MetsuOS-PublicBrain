@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOS Flashcards GE (Flashcards MetsuOS).md",
+                "file": "MOS Dictionary KO (Diccionario MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2589f9e5dbfe2bd6",
+            "id": "5d16e27550c3f53a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saludos y presentaciones (GE Flashcards).md",
+                "file": "PublicBrain/Promting Database.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Saludos y presentaciones (GE Flashcards).md",
+                "file": "MOS Dictionary KO (Diccionario MetsuOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Saludos y presentaciones (GE Flashcards).md",
+                "file": "MOS Dictionary KO (Diccionario MetsuOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Saludos y presentaciones (GE Flashcards).md"
+                "file": "MOS Dictionary KO (Diccionario MetsuOS).md"
               }
             }
           },
@@ -175,13 +174,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2589f9e5dbfe2bd6",
+  "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
-    "MOS Flashcards GE (Flashcards MetsuOS).md",
-    "Saludos y presentaciones (GE Flashcards).md",
     "PublicBrain/Promting Database.md",
-    "PublicBrain/Aprender Idioma Aleman.md",
+    "PublicBrain/Index.md",
+    "MOS Dictionary KO (Diccionario MetsuOS).md",
+    "PublicBrain/Aprender Idioma Coreano.md",
     "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Aleman.md",
+    "Saludos y presentaciones (GE Flashcards).md",
+    "PublicBrain/Saludos y presentaciones (GE Flashcards).md",
+    "PublicBrain/MOS Flashcards GE (Flashcards MetsuOS).md",
+    "PublicBrain/Ayam (ID Dict).md",
+    "PublicBrain/Anjing (ID Dict).md",
+    "MOS Flashcards GE (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Indonesio.md",
     "PublicBrain/MOS Dictionary ID (Diccionario MetsuOS).md",
     "Anjing (ID Dict).md",
@@ -195,14 +201,7 @@
     "PublicBrain/Aprender Idioma Tailandés.md",
     "MOS Dictionary TH (Diccionarios MetsuOS).md",
     "อะไร (à-rai).md",
-    "PublicBrain/Index.md",
     "Saludos y presentaciones (ID Flashcards).md",
-    "MOS Cards ID (Flashcards MetsuOS).md",
-    "PublicBrain/Saludos y presentaciones (TH Flashcards).md",
-    "PublicBrain/MOS Cards TH (Flashcards MetsuOS).md",
-    "MOS Cards TH (Flashcards MetsuOS).md",
-    "Saludos y presentaciones (TH Flashcards).md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

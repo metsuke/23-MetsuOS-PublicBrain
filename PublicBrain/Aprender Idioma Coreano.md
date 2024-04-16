@@ -30,3 +30,5 @@ tags:
 		* [[TOPIK N5 KO]] | [[TOPIK N6 KO]]
 	* [[Niveles y Exámenes Adicionales KO]]
 		* TOPIK (Test of Proficiency in Korean)
+	* [[MOS Dictionary KO (Diccionario MetsuOS)]]
+	* MOS Flascards KO (Flashcards MetsuOS)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Técnicas de depuración en PixiJS.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Técnicas de depuración en PixiJS.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Técnicas de depuración en PixiJS.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Técnicas de depuración en PixiJS.md"
+                "file": "PublicBrain/Aprender sobre PixiJS.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
+    "Perfil de rendimiento y optimización en PixiJS.md",
     "PublicBrain/Aprender sobre PixiJS.md",
     "Técnicas de depuración en PixiJS.md",
     "Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles.md",
@@ -189,7 +190,6 @@
     "MOS Dictionary HI (Diccionarios MetsuOS).md",
     "PublicBrain/Aprender Idioma Hindi.md",
     "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

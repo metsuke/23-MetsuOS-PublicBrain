@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOS Cards TH (Flashcards MetsuOS).md",
+                "file": "Saludos y presentaciones (ID Flashcards).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saludos y presentaciones (TH Flashcards).md",
+                "file": "PublicBrain/Aprender Idioma Indonesio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Saludos y presentaciones (TH Flashcards).md",
+                "file": "Saludos y presentaciones (ID Flashcards).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Saludos y presentaciones (TH Flashcards).md",
+                "file": "Saludos y presentaciones (ID Flashcards).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Saludos y presentaciones (TH Flashcards).md"
+                "file": "Saludos y presentaciones (ID Flashcards).md"
               }
             }
           },
@@ -175,14 +174,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2589f9e5dbfe2bd6",
+  "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
-    "MOS Cards TH (Flashcards MetsuOS).md",
-    "Saludos y presentaciones (TH Flashcards).md",
+    "PublicBrain/MOS Cards ID (Flashcards MetsuOS).md",
+    "Saludos y presentaciones (ID Flashcards).md",
     "PublicBrain/Promting Database.md",
+    "PublicBrain/Aprender Idioma Indonesio.md",
+    "MOS Cards ID (Flashcards MetsuOS).md",
+    "PublicBrain/Saludos y presentaciones (TH Flashcards).md",
+    "PublicBrain/MOS Cards TH (Flashcards MetsuOS).md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender Idioma Tailandés.md",
+    "MOS Cards TH (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Tailandés.md",
+    "Saludos y presentaciones (TH Flashcards).md",
     "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
@@ -197,12 +202,6 @@
     "Exploración de futuras actualizaciones y cambios en la API de eBay (IDRA-Ebay).md",
     "PublicBrain/Aprender con Coronel Baños.md",
     "PublicBrain/Aprender a radiografiar un átomo.md",
-    "PublicBrain/Aprender a preparar embutidos.md",
-    "PublicBrain/Conceptos básicos sobre Machine Learning.md",
-    "PublicBrain/Conceptos básicos de finanzas.md",
-    "PublicBrain/Compilación y ejecución en lenguaje C.md",
-    "PublicBrain/Comprensible.md",
-    "PublicBrain/Componentes básicos de una red nodos, servidores, clientes, routers, switches.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

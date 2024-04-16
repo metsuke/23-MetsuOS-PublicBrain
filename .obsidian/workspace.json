@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "家.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "家.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "家.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "家.md"
+                "file": "PublicBrain/Kanji - Grado 2.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
+    "歌.md",
     "PublicBrain/Kanji - Grado 2.md",
     "家.md",
     "夏.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Expertos en PPC.md",
     "PublicBrain/Interacción Digital Remota mediante API con Facebook.md",
     "PublicBrain/Conceptos básicos de API (IDRA-Facebook).md",
-    "Objetivos del curso (IDRA-Facebook).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

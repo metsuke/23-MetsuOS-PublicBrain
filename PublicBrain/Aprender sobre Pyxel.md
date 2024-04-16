@@ -75,7 +75,7 @@ tags: []
 - [[Contribución a la mejora y desarrollo de Pyxel]]
 
 ## Proyecto Final: Creación de un Juego Completo en Pyxel
-- Desarrollo de un proyecto práctico de juego completo en Pyxel
+- [[Desarrollo de un proyecto práctico de juego completo en Pyxel]]
 - Planificación, diseño e implementación de un juego desde cero
 - Integración de elementos gráficos, sonidos y mecánicas de juego
 - Evaluación y presentación del proyecto final

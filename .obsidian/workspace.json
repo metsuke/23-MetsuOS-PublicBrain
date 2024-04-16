@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "海.md",
+                "file": "絵.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "海.md",
+                "file": "絵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "海.md",
+                "file": "絵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "海.md"
+                "file": "絵.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "絵.md",
     "海.md",
     "会.md",
     "回.md",
@@ -189,7 +190,6 @@
     "Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles.md",
     "PublicBrain/Rol Experto en EMail Marketing.md",
     "PublicBrain/Lead (Marketing Digital).md",
-    "PublicBrain/Glosario de Marketing Digital.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

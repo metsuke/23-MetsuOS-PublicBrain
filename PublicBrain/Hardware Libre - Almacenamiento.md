@@ -24,7 +24,7 @@ tags: []
 
 ## Introducción al Almacenamiento
 
-- Definición de almacenamiento
+- [[Definición de almacenamiento (HWLibre/Almacenamiento)]]
 - [[Importancia del almacenamiento en sistemas informáticos (HWLibre/Almacenamiento)]]
 - Evolución histórica del almacenamiento en el contexto del hardware libre
 - Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.)

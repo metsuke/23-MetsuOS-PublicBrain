@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Identificación y definición de problemas complejos en CPS.md",
+                "file": "Reflexión y aprendizaje a partir de la experiencia en CPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Identificación y definición de problemas complejos en CPS.md",
+                "file": "Reflexión y aprendizaje a partir de la experiencia en CPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Identificación y definición de problemas complejos en CPS.md",
+                "file": "Reflexión y aprendizaje a partir de la experiencia en CPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Identificación y definición de problemas complejos en CPS.md"
+                "file": "Reflexión y aprendizaje a partir de la experiencia en CPS.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
+    "Reflexión y aprendizaje a partir de la experiencia en CPS.md",
     "Identificación y definición de problemas complejos en CPS.md",
     "Generación y evaluación de soluciones en CPS.md",
     "Desarrollo de un proyecto práctico de juego completo en Pyxel.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Objetivos del curso (IDRA-Facebook).md",
     "PublicBrain/Importancia de la interacción remota con Facebook (IDRA-Facebook).md",
     "Importancia de la interacción remota con Facebook (IDRA-Facebook).md",
-    "Conceptos básicos de API (IDRA-Facebook).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

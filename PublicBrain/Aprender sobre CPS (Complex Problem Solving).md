@@ -42,7 +42,7 @@ tags:
 - [[Comprensión y análisis de problemas en CPS]]
 - [[Generación y evaluación de soluciones en CPS]]
 - [[Toma de decisiones en entornos complejos (CPS)]]
-- Reflexión y aprendizaje a partir de la experiencia.
+- [[Reflexión y aprendizaje a partir de la experiencia en CPS]]
 
 ### Habilidades y Estrategias de Resolución de Problemas
 - Pensamiento crítico y creativo.

@@ -1,4 +1,4 @@
-# Almacenamiento)
+# Importancia del almacenamiento en sistemas informáticos (HWLibre - Almacenamiento)]]
 
 [[Hardware Libre - Almacenamiento]]
 

@@ -1,4 +1,4 @@
-# Almacenamiento)
+# Definición de almacenamiento (HWLibre - Almacenamiento)]
 
 [[Hardware Libre - Almacenamiento]]
 

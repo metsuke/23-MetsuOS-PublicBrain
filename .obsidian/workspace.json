@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definición de almacenamiento (HWLibre/Almacenamiento).md",
+                "file": "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definición de almacenamiento (HWLibre/Almacenamiento).md",
+                "file": "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definición de almacenamiento (HWLibre/Almacenamiento).md",
+                "file": "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definición de almacenamiento (HWLibre/Almacenamiento).md"
+                "file": "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md"
               }
             }
           },
@@ -178,9 +178,11 @@
   "active": "5d16e27550c3f53a",
   "lastOpenFiles": [
     "PublicBrain/Hardware Libre - Almacenamiento.md",
-    "Definición de almacenamiento (HWLibre/Almacenamiento).md",
+    "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md",
+    "Definición de almacenamiento (HWLibre/Definición de almacenamiento (HWLibre - Almacenamiento).md",
+    "Importancia del almacenamiento en sistemas informáticos (HWLibre/Importancia del almacenamiento en sistemas informáticos (HWLibre - Almacenamiento).md",
+    "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "Definición de almacenamiento (HWLibre",
-    "Importancia del almacenamiento en sistemas informáticos (HWLibre/Almacenamiento).md",
     "Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "Saludos y presentaciones (KO Flashcards).md",
     "MOS Flascards KO (Flashcards MetsuOS).md",
@@ -204,7 +206,6 @@
     "PublicBrain/อะไร (à-rai).md",
     "PublicBrain/Saludos y presentaciones (ID Flashcards).md",
     "PublicBrain/MOS Dictionary TH (Diccionarios MetsuOS).md",
-    "MOS Dictionary ID (Diccionario MetsuOS).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",
@@ -221,7 +222,6 @@
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco",
     "PublicBrain/PublicIndex",
     "PublicIndex",
-    "_index.html",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"

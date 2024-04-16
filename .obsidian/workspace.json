@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOS Flascards KO (Flashcards MetsuOS).md",
+                "file": "Saludos y presentaciones (KO Flashcards).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOS Flascards KO (Flashcards MetsuOS).md",
+                "file": "Saludos y presentaciones (KO Flashcards).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOS Flascards KO (Flashcards MetsuOS).md",
+                "file": "Saludos y presentaciones (KO Flashcards).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOS Flascards KO (Flashcards MetsuOS).md"
+                "file": "Saludos y presentaciones (KO Flashcards).md"
               }
             }
           },
@@ -177,10 +177,11 @@
   },
   "active": "5d16e27550c3f53a",
   "lastOpenFiles": [
+    "MOS Flascards KO (Flashcards MetsuOS).md",
+    "Saludos y presentaciones (KO Flashcards).md",
     "PublicBrain/Promting Database.md",
     "PublicBrain/Index.md",
     "MOS Dictionary KO (Diccionario MetsuOS).md",
-    "MOS Flascards KO (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Coreano.md",
     "아버지 (abeoji).md",
     "PublicBrain/Aprender Idiomas.md",
@@ -202,7 +203,6 @@
     "PublicBrain/MOS FlashCards ID (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Chino.md",
     "PublicBrain/Aprender Idioma Tailandés.md",
-    "MOS Dictionary TH (Diccionarios MetsuOS).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

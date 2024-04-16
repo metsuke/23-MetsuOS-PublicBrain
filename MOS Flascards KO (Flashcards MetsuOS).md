@@ -1,10 +1,28 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2023-08-30T00:54:00
+modified: 2024-03-06T23:35:00
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: "0"
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # MOS Flascards KO (Flashcards MetsuOS)
 
 [[Aprender Idioma Coreano]]
 
 Aquí tienes un índice exhaustivo y detallado para crear tus flashcards de aprendizaje del vocabulario en el contexto de aprender el idioma coreano:
 
-1. Saludos y presentaciones
+1. [[Saludos y presentaciones (KO Flashcards)]]
 2. Números y cifras
 3. Días de la semana
 4. Meses del año

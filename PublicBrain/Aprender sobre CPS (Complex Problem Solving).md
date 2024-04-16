@@ -38,7 +38,7 @@ tags:
 - [[Análisis comparativo de enfoques y modelos en CPS]]
 
 ### Componentes de CPS
-- Identificación y definición de problemas complejos.
+- [[Identificación y definición de problemas complejos en CPS]]
 - [[Comprensión y análisis de problemas en CPS]]
 - [[Generación y evaluación de soluciones en CPS]]
 - [[Toma de decisiones en entornos complejos (CPS)]]

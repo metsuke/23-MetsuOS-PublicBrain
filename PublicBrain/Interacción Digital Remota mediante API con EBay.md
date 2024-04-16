@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-04-15T06:31:19.864Z
+modified: 2024-04-16T11:23:38.656Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 63
+ver_rev: 64
 nav_primary: 
 nav_secondary: 
 tags:
@@ -75,7 +75,7 @@ tags:
 
 ## Futuras Perspectivas y Desarrollos
 - [[Exploración de futuras actualizaciones y cambios en la API de eBay (IDRA-Ebay)]]
-- Tendencias en la interacción digital remota mediante APIs
+- [[Tendencias en la interacción digital remota mediante APIs (IDRA-Ebay)]]
 - Oportunidades de expansión y crecimiento profesional en el campo
 - Recursos adicionales y comunidades de desarrollo para seguir aprendiendo
 

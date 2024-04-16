@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "画.md",
+                "file": "回.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "画.md",
+                "file": "回.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "画.md",
+                "file": "回.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "画.md"
+                "file": "回.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "回.md",
     "画.md",
     "歌.md",
     "家.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Glosario de Marketing Digital.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Expertos en PPC.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Facebook.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md",
+                "file": "PublicBrain/Promting Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md",
+                "file": "PublicBrain/Promting Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md"
+                "file": "PublicBrain/Promting Database.md"
               }
             }
           },
@@ -175,10 +174,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5d16e27550c3f53a",
+  "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
+    "PublicBrain/Rol Experto en Embudos de Venta.md",
+    "PublicBrain/Rol Experto en EMail Marketing.md",
+    "PublicBrain/Expertos en PPC.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Hardware Libre - Almacenamiento.md",
     "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md",
+    "PublicBrain/아버지 (abeoji).md",
+    "PublicBrain/Saludos y presentaciones (KO Flashcards).md",
+    "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md",
+    "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
+    "PublicBrain/MOS Flascards KO (Flashcards MetsuOS).md",
+    "PublicBrain/MOS Dictionary KO (Diccionario MetsuOS).md",
+    "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre/Importancia del almacenamiento en sistemas informáticos (HWLibre - Almacenamiento).md",
+    "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
+    "PublicBrain/Definición de almacenamiento (HWLibre/Definición de almacenamiento (HWLibre - Almacenamiento).md",
+    "PublicBrain/Definición de almacenamiento (HWLibre",
     "Definición de almacenamiento (HWLibre/Definición de almacenamiento (HWLibre - Almacenamiento).md",
     "Importancia del almacenamiento en sistemas informáticos (HWLibre/Importancia del almacenamiento en sistemas informáticos (HWLibre - Almacenamiento).md",
     "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
@@ -187,25 +202,12 @@
     "Saludos y presentaciones (KO Flashcards).md",
     "MOS Flascards KO (Flashcards MetsuOS).md",
     "PublicBrain/Promting Database.md",
-    "PublicBrain/Index.md",
     "MOS Dictionary KO (Diccionario MetsuOS).md",
     "PublicBrain/Aprender Idioma Coreano.md",
     "아버지 (abeoji).md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Aleman.md",
     "Saludos y presentaciones (GE Flashcards).md",
-    "PublicBrain/Saludos y presentaciones (GE Flashcards).md",
-    "PublicBrain/MOS Flashcards GE (Flashcards MetsuOS).md",
-    "PublicBrain/Ayam (ID Dict).md",
-    "PublicBrain/Anjing (ID Dict).md",
-    "MOS Flashcards GE (Flashcards MetsuOS).md",
-    "PublicBrain/Aprender Idioma Indonesio.md",
-    "PublicBrain/MOS Dictionary ID (Diccionario MetsuOS).md",
-    "Anjing (ID Dict).md",
-    "Ayam (ID Dict).md",
-    "PublicBrain/อะไร (à-rai).md",
-    "PublicBrain/Saludos y presentaciones (ID Flashcards).md",
-    "PublicBrain/MOS Dictionary TH (Diccionarios MetsuOS).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",
@@ -219,9 +221,6 @@
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/32ed632dcc8da4178ab206b66f082b19_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
-    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco",
-    "PublicBrain/PublicIndex",
-    "PublicIndex",
     "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
     "PublicBrain/Untitled.canvas",
     "Untitled.canvas"

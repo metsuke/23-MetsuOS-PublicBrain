@@ -1,6 +1,6 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "H"
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 iaStatus_Model: ""
@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:59.188Z
 modified: 2024-04-14T14:29:03.798Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
 ver_rev: 100
@@ -27,7 +27,9 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 
 ## Organigrama de la microagencia
 
-{[MOS::Modelos::Organizaciones::Negocio::MicroagenciaPublicidad::GetStructure]}
+{[MOS::Modelos:
+	:Organizaciones::Negocio:
+		:MicroagenciaPublicidad::GetStructure]}
 
 * [[Rol Gestión Empresarial|Gestión ste rol se Empresarial]]
 	* [[PublicBrain/Rol Comercial|Comercial]]

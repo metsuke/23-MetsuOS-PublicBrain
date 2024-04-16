@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "岩.md",
+                "file": "顔.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "岩.md",
+                "file": "顔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "岩.md",
+                "file": "顔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "岩.md"
+                "file": "顔.md"
               }
             }
           },
@@ -164,32 +164,32 @@
   },
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
+    "PublicBrain/顔.md",
+    "PublicBrain/間.md",
+    "PublicBrain/角.md",
+    "PublicBrain/絵.md",
+    "PublicBrain/画.md",
+    "PublicBrain/海.md",
+    "PublicBrain/活.md",
+    "PublicBrain/歌.md",
+    "PublicBrain/楽.md",
+    "PublicBrain/岩.md",
+    "PublicBrain/家.md",
+    "PublicBrain/外.md",
+    "PublicBrain/夏.md",
+    "PublicBrain/回.md",
+    "PublicBrain/会.md",
+    "PublicBrain/丸.md",
+    "PublicBrain/Reflexión y aprendizaje a partir de la experiencia en CPS.md",
+    "PublicBrain/Participación en eventos y concursos de juegos en Pyxel.md",
+    "PublicBrain/Identificación y definición de problemas complejos en CPS.md",
+    "PublicBrain/Generación y evaluación de soluciones en CPS.md",
+    "PublicBrain/Desarrollo de un proyecto práctico de juego completo en Pyxel.md",
+    "PublicBrain/Contribución a la mejora y desarrollo de Pyxel.md",
     "PublicBrain/Kanji - Grado 2.md",
+    "顔.md",
     "岩.md",
     "丸.md",
-    "間.md",
-    "活.md",
-    "楽.md",
-    "角.md",
-    "外.md",
-    "絵.md",
-    "海.md",
-    "会.md",
-    "回.md",
-    "画.md",
-    "歌.md",
-    "家.md",
-    "夏.md",
-    "Reflexión y aprendizaje a partir de la experiencia en CPS.md",
-    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
-    "Identificación y definición de problemas complejos en CPS.md",
-    "Generación y evaluación de soluciones en CPS.md",
-    "Desarrollo de un proyecto práctico de juego completo en Pyxel.md",
-    "PublicBrain/Aprender sobre Pyxel.md",
-    "Contribución a la mejora y desarrollo de Pyxel.md",
-    "Participación en eventos y concursos de juegos en Pyxel.md",
-    "PublicBrain/Aprender sobre PixiJS.md",
-    "PublicBrain/Técnicas de depuración en PixiJS.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

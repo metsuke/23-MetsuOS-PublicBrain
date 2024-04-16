@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflexión y aprendizaje a partir de la experiencia en CPS.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reflexión y aprendizaje a partir de la experiencia en CPS.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reflexión y aprendizaje a partir de la experiencia en CPS.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reflexión y aprendizaje a partir de la experiencia en CPS.md"
+                "file": "PublicBrain/Kanji - Grado 2.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
+    "夏.md",
+    "PublicBrain/Kanji - Grado 2.md",
     "Reflexión y aprendizaje a partir de la experiencia en CPS.md",
+    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
     "Identificación y definición de problemas complejos en CPS.md",
     "Generación y evaluación de soluciones en CPS.md",
     "Desarrollo de un proyecto práctico de juego completo en Pyxel.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Conceptos básicos de API (IDRA-Facebook).md",
     "Objetivos del curso (IDRA-Facebook).md",
     "PublicBrain/Objetivos del curso (IDRA-Facebook).md",
-    "PublicBrain/Importancia de la interacción remota con Facebook (IDRA-Facebook).md",
-    "Importancia de la interacción remota con Facebook (IDRA-Facebook).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

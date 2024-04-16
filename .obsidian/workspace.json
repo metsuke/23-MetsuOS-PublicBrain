@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "間.md",
+                "file": "丸.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "間.md",
+                "file": "丸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "間.md",
+                "file": "丸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "間.md"
+                "file": "丸.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "丸.md",
     "間.md",
     "活.md",
     "楽.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/Técnicas de depuración en PixiJS.md",
     "PublicBrain/Perfil de rendimiento y optimización en PixiJS.md",
-    "PublicBrain/Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

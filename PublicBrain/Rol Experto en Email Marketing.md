@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: I
+iaStatus_Supervisado: H
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T23:24:01.149Z
-modified: 2024-04-14T14:29:03.272Z
-supervisado: ""
-ACCION: ""
+modified: 2024-04-16T06:22:19.103Z
+supervisado: 2024-04-14T14:29:03.272Z
+ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 4
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Rol Experto en EMail Marketing
 
@@ -53,7 +56,7 @@ tags: []
 ## Perfiles más buscados
 
 * Más de 3 años de experiencia en e-mail markleting.
-* Comprensión de la estrategia de generación de leads.
+* Comprensión de la estrategia de generación de [[Lead (Marketing Digital)|leads]].
 * Habilidades Blandas:
 	* Trabajo en un entorno acelerado y gestión de múltiples tareas.
 	* Identificación y entendimiento de tendencias.
@@ -69,16 +72,12 @@ tags: []
 
 ## Cursos recomendados
 
-* [Búsqueda en Platzi Rol Experto en EMail Marketing)](https://platzi.com/buscar/?search=Rol%20experto%20email%20marketing)
-* [Generación de Ruta en Platzi para el Rol Experto en EMail Marketing](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20Rol%20experto%20email%20marketing)
+* [Búsqueda en Platzi Rol Experto en EMail Marketing)](https://platzi.com/buscar/?search=email%20marketing)
 
  ### Escuelas Platzi Recomendadas
 
 * [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
-* [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
-* [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
-* [Escuela de Startups](https://platzi.com/escuela/startups/)
 
 ## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
 

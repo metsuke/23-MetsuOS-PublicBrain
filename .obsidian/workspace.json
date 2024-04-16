@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4a9086fcafcdbbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objetivos del curso (IDRA-Facebook).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "36477f4bc5bbd474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con Facebook.md",
+                "file": "PublicBrain/Rol Experto en EMail Marketing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objetivos del curso (IDRA-Facebook).md",
+                "file": "PublicBrain/Rol Experto en EMail Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objetivos del curso (IDRA-Facebook).md",
+                "file": "PublicBrain/Rol Experto en EMail Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objetivos del curso (IDRA-Facebook).md"
+                "file": "PublicBrain/Rol Experto en EMail Marketing.md"
               }
             }
           },
@@ -174,10 +162,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d4a9086fcafcdbbc",
+  "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
+    "PublicBrain/Lead (Marketing Digital).md",
+    "PublicBrain/Rol Experto en EMail Marketing.md",
+    "PublicBrain/Glosario de Marketing Digital.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Expertos en PPC.md",
     "PublicBrain/Interacción Digital Remota mediante API con Facebook.md",
+    "PublicBrain/Conceptos básicos de API (IDRA-Facebook).md",
     "Objetivos del curso (IDRA-Facebook).md",
+    "PublicBrain/Objetivos del curso (IDRA-Facebook).md",
+    "PublicBrain/Importancia de la interacción remota con Facebook (IDRA-Facebook).md",
     "Importancia de la interacción remota con Facebook (IDRA-Facebook).md",
     "Conceptos básicos de API (IDRA-Facebook).md",
     "PublicBrain/Promting Database.md",
@@ -194,14 +190,6 @@
     "PublicBrain/MOS Dictionary  JP (Diccionarios MetsuOS).md",
     "PublicBrain/MOS FlashCards HI (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Chino.md",
-    "人 (Ré​n).md",
-    "PublicBrain/人 (Ré​n).md",
-    "PublicBrain/MOS Dictionary  ZH (Diccionarios MetsuOS).md",
-    "MOS Dictionary  ZH (Diccionarios MetsuOS).md",
-    "PublicBrain/Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos..md",
-    "PublicBrain/Aprender sobre Akira.md",
-    "Distopía.md",
-    "PublicBrain/Distopía.md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

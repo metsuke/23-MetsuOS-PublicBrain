@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60625f8cddf97435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planificación, diseño e implementación de un juego desde cero en Pyxel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "Planificación, diseño e implementación de un juego desde cero en Pyxel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "Planificación, diseño e implementación de un juego desde cero en Pyxel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md"
+                "file": "Planificación, diseño e implementación de un juego desde cero en Pyxel.md"
               }
             }
           },
@@ -174,10 +187,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "36477f4bc5bbd474",
+  "active": "60625f8cddf97435",
   "lastOpenFiles": [
-    "Desarrollo de un proyecto completo y accesible utilizando PixiJS.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "Planificación, diseño e implementación de un juego desde cero en Pyxel.md",
+    "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
+    "PublicBrain/GPT4All Testing.md",
+    "PublicBrain/GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre PixiJS.md",
+    "PublicBrain/Pruebas y resolución de problemas comunes en PixiJS.md",
+    "PublicBrain/Mejores prácticas para lograr un rendimiento óptimo en PixiJS.md",
+    "PublicBrain/Desarrollo de un proyecto completo y accesible utilizando PixiJS.md",
+    "Desarrollo de un proyecto completo y accesible utilizando PixiJS.md",
     "Pruebas y resolución de problemas comunes en PixiJS.md",
     "Mejores prácticas para lograr un rendimiento óptimo en PixiJS.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
@@ -185,10 +207,6 @@
     "PublicBrain/Rol Experto en EMail Marketing.md",
     "PublicBrain/Expertos en PPC.md",
     "PublicBrain/Rol Experto en Embudos de Venta.md",
-    "PublicBrain/GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto.md",
-    "PublicBrain/GPT4All Testing.md",
-    "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/Interacción Digital Remota mediante API con ChessDotCom.md",
@@ -197,11 +215,6 @@
     "PublicBrain/Importancia de las APIs en la interacción digital remota (IDRA-ChessDotCom).md",
     "PublicBrain/¿Qué es una API? (IDRA-ChessDotCom).md",
     "Importancia de las APIs en la interacción digital remota (IDRA-ChessDotCom).md",
-    "¿Qué es una API? (IDRA-ChessDotCom).md",
-    "PublicBrain/Promting Database.md",
-    "PublicBrain/Hardware Libre - Almacenamiento.md",
-    "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre - Almacenamiento.md",
-    "PublicBrain/아버지 (abeoji).md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

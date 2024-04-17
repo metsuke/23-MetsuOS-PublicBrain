@@ -1,6 +1,9 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +15,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Conceptos fundamentales de accesibilidad (A11Y Videojuegos)
 
@@ -28,7 +31,7 @@ Accesibilidad en videojuegos se refiere a la inclusión de características y di
 
 3. Lenguaje claro y sencillo: Utilizar un lenguaje claro y sencillo en las instrucciones, diálogos y tutoriales del juego para que sea más accesible para personas con dificultades cognitivas, de aprendizaje o de comprensión.
 
-4. Ayudas visuales y auditivas: Incluir opciones como subtítulos, indicadores visuales, pistas de audio y señales sonoras que faciliten la orientación y la comprensión de la información en el juego para personas con discapacidades visuales o auditivas.
+4. Ayudas visuales y auditivas: "I"ncluir opciones como subtítulos, indicadores visuales, pistas de audio y señales sonoras que faciliten la orientación y la comprensión de la información en el juego para personas con discapacidades visuales o auditivas.
 
 5. Controles alternativos: Ofrecer opciones de control alternativas, como el uso de teclados adaptados, mandos especiales, controles por voz o por gestos, para permitir que personas con discapacidades motoras puedan jugar de forma cómoda y efectiva.
 

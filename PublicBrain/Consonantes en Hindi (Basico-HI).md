@@ -1,6 +1,9 @@
 ---
-iaStatus: 0
+iaStatus: 2
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +15,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 5
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Consonantes en Hindi (Basico-HI)
 

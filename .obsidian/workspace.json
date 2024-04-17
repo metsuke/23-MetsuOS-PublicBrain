@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comprar boletos (A1-SW).md",
+                "file": "PublicBrain/Coronel Jack O'Neill.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comprar boletos (A1-SW).md",
+                "file": "PublicBrain/Coronel Jack O'Neill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comprar boletos (A1-SW).md",
+                "file": "PublicBrain/Coronel Jack O'Neill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comprar boletos (A1-SW).md"
+                "file": "PublicBrain/Coronel Jack O'Neill.md"
               }
             }
           },
@@ -164,8 +164,22 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
-    "PublicBrain/A1-SW.md",
+    "PublicBrain/Conversación en el restaurante y pedidos de comida (A1-CA).md",
+    "PublicBrain/Coreano.md",
+    "PublicBrain/Conversaciones sobre eventos y actividades sociales (A1-CA).md",
+    "PublicBrain/Conversación sobre pasatiempos y actividades de ocio.md",
+    "PublicBrain/Conversación en hoteles y aeropuertos (A1-CA).md",
+    "PublicBrain/Contenido moviéndose automáticamente.md",
+    "PublicBrain/Consonantes en Hindi (Basico-HI).md",
+    "PublicBrain/Consideraciones para el diseño de personajes.md",
+    "PublicBrain/Configuración de un IDE para C.md",
+    "PublicBrain/Configuración del tablero y piezas en ajedrez.md",
+    "PublicBrain/Configuración del Entorno de Desarrollo para Lenguaje C.md",
+    "PublicBrain/Conceptos fundamentales de accesibilidad (A11Y Videojuegos).md",
+    "PublicBrain/Compras y transacciones en japonés (N5-JP).md",
+    "PublicBrain/Comunicación.md",
     "Comprar boletos (A1-SW).md",
+    "PublicBrain/A1-SW.md",
     "Explicar y entender tradiciones (A1-SW).md",
     "Reservar alojamiento (A1-SW.md",
     "PublicBrain/Kanji - Grado 2.md",
@@ -176,20 +190,6 @@
     "PublicBrain/原.md",
     "PublicBrain/言.md",
     "PublicBrain/元.md",
-    "PublicBrain/計.md",
-    "形.md",
-    "PublicBrain/兄.md",
-    "PublicBrain/近.md",
-    "PublicBrain/教.md",
-    "PublicBrain/強.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/京.md",
-    "PublicBrain/Kanji.md",
-    "PublicBrain/Aprender Idioma Japones.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/魚.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

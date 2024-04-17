@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/近.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/近.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/近.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md"
+                "file": "PublicBrain/近.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
-    "PublicBrain/教.md",
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/近.md",
+    "PublicBrain/教.md",
     "PublicBrain/強.md",
     "PublicBrain/Index.md",
     "PublicBrain/京.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Evaluación y presentación del proyecto final (Pyxel).md",
     "Integración de elementos gráficos, sonidos y mecánicas de juego (Pyxel).md",
     "Planificación, diseño e implementación de un juego desde cero en Pyxel.md",
-    "PublicBrain/GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto.md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

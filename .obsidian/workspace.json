@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8712353fe8a1704d",
+        "id": "35e07738a308091e",
         "type": "tabs",
         "children": [
           {
-            "id": "36477f4bc5bbd474",
+            "id": "c4308f5915504777",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d16e27550c3f53a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/牛.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60625f8cddf97435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/弓.md",
+                "file": "PublicBrain/魚.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/牛.md",
+                "file": "PublicBrain/魚.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/牛.md",
+                "file": "PublicBrain/魚.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/牛.md"
+                "file": "PublicBrain/魚.md"
               }
             }
           },
@@ -187,13 +162,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5d16e27550c3f53a",
+  "active": "c4308f5915504777",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/魚.md",
+    "PublicBrain/Kanji.md",
+    "PublicBrain/Aprender Idioma Japones.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Programación.md",
+    "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/牛.md",
     "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
     "PublicBrain/GPT4All Testing.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/弓.md",
     "PublicBrain/帰.md",
@@ -206,15 +187,9 @@
     "Integración de elementos gráficos, sonidos y mecánicas de juego (Pyxel).md",
     "Planificación, diseño e implementación de un juego desde cero en Pyxel.md",
     "PublicBrain/GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto.md",
-    "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/Pruebas y resolución de problemas comunes en PixiJS.md",
     "PublicBrain/Mejores prácticas para lograr un rendimiento óptimo en PixiJS.md",
     "PublicBrain/Desarrollo de un proyecto completo y accesible utilizando PixiJS.md",
-    "Desarrollo de un proyecto completo y accesible utilizando PixiJS.md",
-    "Pruebas y resolución de problemas comunes en PixiJS.md",
-    "Mejores prácticas para lograr un rendimiento óptimo en PixiJS.md",
-    "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
-    "PublicBrain/Rol Experto en EMail Marketing.md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

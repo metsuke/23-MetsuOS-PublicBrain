@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-04-16T06:26:46.267Z
+modified: 2024-04-17T06:27:22.394Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 82
+ver_rev: 83
 nav_primary: 
 nav_secondary: 
 tags:
@@ -78,7 +78,7 @@ tags:
 - [[Pruebas y resolución de problemas comunes en PixiJS]]
 ## Proyecto Final y Desarrollo Avanzado
 
-- Desarrollo de un proyecto completo y accesible utilizando PixiJS
+- [[Desarrollo de un proyecto completo y accesible utilizando PixiJS]]
 - Implementación de características avanzadas (física, partículas, etc.)
 - Optimización y despliegue del proyecto final
 - Presentación y revisión del proyecto final

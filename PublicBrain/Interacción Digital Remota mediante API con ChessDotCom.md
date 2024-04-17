@@ -23,7 +23,7 @@ tags: []
 ## Introducción a las APIs
 - [[¿Qué es una API? (IDRA-ChessDotCom)]]
 - [[Importancia de las APIs en la interacción digital remota (IDRA-ChessDotCom)]]
-- Tipos de APIs
+- [[Tipos de APIs (IDRA-ChessDotCom)]]
 - Protocolos comunes utilizados en APIs (HTTP, REST, WebSocket, etc.)
 
 ## Introducción a Chess.com API

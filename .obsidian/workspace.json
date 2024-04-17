@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4338ccc04e760bdb",
+        "id": "9dc18ade6a93e2d1",
         "type": "tabs",
         "children": [
           {
-            "id": "2ab0ffc75f2f4962",
+            "id": "5de081ad8c632e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/京.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/京.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/京.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/京.md"
+                "file": "PublicBrain/Kanji - Grado 2.md"
               }
             }
           },
@@ -162,14 +162,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2ab0ffc75f2f4962",
+  "active": "5de081ad8c632e24",
   "lastOpenFiles": [
+    "PublicBrain/強.md",
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/Index.md",
     "PublicBrain/京.md",
     "PublicBrain/Kanji.md",
     "PublicBrain/Aprender Idioma Japones.md",
     "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Index.md",
     "PublicBrain/魚.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender sobre PixiJS.md",
@@ -189,7 +190,6 @@
     "Planificación, diseño e implementación de un juego desde cero en Pyxel.md",
     "PublicBrain/GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto.md",
     "PublicBrain/Pruebas y resolución de problemas comunes en PixiJS.md",
-    "PublicBrain/Mejores prácticas para lograr un rendimiento óptimo en PixiJS.md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

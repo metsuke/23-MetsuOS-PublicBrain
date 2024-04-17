@@ -74,7 +74,7 @@ tags:
 
 - [[Técnicas de depuración en PixiJS]]
 - [[Perfil de rendimiento y optimización en PixiJS]]
-- Mejores prácticas para lograr un rendimiento óptimo
+- [[Mejores prácticas para lograr un rendimiento óptimo en PixiJS]]
 - Pruebas y resolución de problemas comunes
 ## Proyecto Final y Desarrollo Avanzado
 

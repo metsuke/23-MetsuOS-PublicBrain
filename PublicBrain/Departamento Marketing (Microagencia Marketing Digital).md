@@ -1,6 +1,6 @@
 ---
 iaStatus_Model: ""
-iaStatus: 0
+iaStatus: 3
 a11y: 0
 checked: 0
 lang: ES
@@ -8,7 +8,7 @@ translations:
 created: 2024-04-09T04:33:17.264Z
 modified: 2024-04-14T00:19:45.989Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: -2
 ver_rev: 8
@@ -18,7 +18,8 @@ tags:
 ---
 # Departamento Marketing (Microagencia Marketing Digital)
 
-[[Estructurar una Microagencia de Marketing Digital]] | [[Glosario de Marketing Digital]]
+* [[Estructurar una Microagencia de Marketing Digital]] 
+	* [[Glosario de Marketing Digital]]
 
 El departamento de marketing en el contexto de una Microagencia de Marketing Digital es una parte fundamental de cualquier organización, ya que se encarga de promover los productos o servicios de la empresa y de generar demanda entre los consumidores. 
 
@@ -81,15 +82,12 @@ graph TD
 ## Cursos recomendados
 
 * [Búsqueda en Platzi Departamento Marleting)](https://platzi.com/buscar/?search=Marketing)
-* [Generación de Ruta en Platzi para el Departamento Marleting](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20marketing)
 
  ### Escuelas Platzi Recomendadas
 
 * [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
-* [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
-* [Escuela de Startups](https://platzi.com/escuela/startups/)
 
 ## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
 

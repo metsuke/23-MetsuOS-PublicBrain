@@ -11,7 +11,7 @@ translations:
 created: 2024-04-14T00:19:29.895Z
 modified: 2024-04-16T21:49:53.049Z
 supervisado: 2024-04-15T14:09:48.511Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 5
@@ -21,7 +21,9 @@ tags:
 ---
 # Expertos en PPC
 
-[[Estructurar una Microagencia de Marketing Digital]] | [[Departamento Marketing (Microagencia Marketing Digital)|Departamento Marketing]] | [[Glosario de Marketing Digital]]
+* [[Estructurar una Microagencia de Marketing Digital]] 
+	* [[Departamento Marketing (Microagencia Marketing Digital)|Departamento Marketing]]
+	* [[Glosario de Marketing Digital]]
 
 ### Objetivo
 

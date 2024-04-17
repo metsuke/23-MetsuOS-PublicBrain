@@ -1,24 +1,26 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T08:02:05.291Z
-modified: 2024-04-16T21:39:51.151Z
+modified: 2024-04-17T06:11:22.113Z
 supervisado: 2024-04-16T21:39:51.151Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Rol Experto en Embudos de Venta
 
-[[Estructurar una Microagencia de Marketing Digital]] | [[Departamento Marketing (Microagencia Marketing Digital)|Departamento Marketing]] | [[Glosario de Marketing Digital]]
+* [[Estructurar una Microagencia de Marketing Digital]] 
+	* [[Departamento Marketing (Microagencia Marketing Digital)|Departamento Marketing]]
+	* [[Glosario de Marketing Digital]]
 
 (del ing. Sales Funnel Expert.)
 
@@ -40,7 +42,7 @@ Diseña la estrategia de marketing para el cliente.
 
 ## Tareas
 
-* Diseñar la estrategia y parsos del embudo
+* Diseñar la estrategia y pasos del embudo
 * Definir KPIs y tableros de comando.
 * Encontrar nuevas formas de capturar datos.
 
@@ -61,16 +63,12 @@ Diseña la estrategia de marketing para el cliente.
 
 ## Cursos recomendados
 
-* [Búsqueda en Platzi Rol Experto en Embudo de Ventas)](https://platzi.com/buscar/?search=Rol%20Experto%20embudo%20ventas)
-* [Generación de Ruta en Platzi para el Rol Experto en Embudo de Ventas](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20experto%20embudo%20ventas)
+* [Búsqueda en Platzi Rol Experto en Embudo de Ventas)](https://platzi.com/buscar/?search=embudo%20ventas)
 
  ## Escuelas Platzi Recomendadas
 
 * [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
-* [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
-* [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
-* [Escuela de Startups](https://platzi.com/escuela/startups/)
 
 ## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
 

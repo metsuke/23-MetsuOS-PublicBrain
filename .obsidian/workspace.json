@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/午.md",
+                "file": "PublicBrain/後.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/午.md",
+                "file": "PublicBrain/後.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/午.md",
+                "file": "PublicBrain/後.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/午.md"
+                "file": "PublicBrain/後.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/後.md",
     "PublicBrain/午.md",
     "PublicBrain/古.md",
     "PublicBrain/戸.md",
@@ -189,7 +190,6 @@
     "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
     "PublicBrain/GPT4All Testing.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
-    "PublicBrain/弓.md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

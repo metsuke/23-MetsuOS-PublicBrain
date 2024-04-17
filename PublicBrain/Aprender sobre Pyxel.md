@@ -78,5 +78,5 @@ tags: []
 - [[Desarrollo de un proyecto práctico de juego completo en Pyxel]]
 - [[Planificación, diseño e implementación de un juego desde cero en Pyxel]]
 - [[Integración de elementos gráficos, sonidos y mecánicas de juego (Pyxel)]]
-- Evaluación y presentación del proyecto final
+- [[Evaluación y presentación del proyecto final (Pyxel)]]
 

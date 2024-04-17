@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.688Z
-modified: 2024-04-14T14:29:03.556Z
+modified: 2024-04-17T04:15:32.163Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -21,7 +21,7 @@ tags: []
 [[Aprender sobre Interacción Digital Remota mediante API]]
 
 ## Introducción a las APIs
-- ¿Qué es una API?
+- [[¿Qué es una API? (IDRA-ChessDotCom)]]
 - Importancia de las APIs en la interacción digital remota
 - Tipos de APIs
 - Protocolos comunes utilizados en APIs (HTTP, REST, WebSocket, etc.)

@@ -7,10 +7,10 @@ lang: ES
 translations: 
 created: 2024-04-11T08:02:05.291Z
 modified: 2024-04-16T21:39:51.151Z
-supervisado: ""
-ACCION: S
+supervisado: 2024-04-16T21:39:51.151Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
+ver_minor: 3
 ver_rev: 5
 nav_primary: 
 nav_secondary: 

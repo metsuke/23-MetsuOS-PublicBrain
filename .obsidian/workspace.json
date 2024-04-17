@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+                "file": "PublicBrain/牛.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/弓.md",
+                "file": "PublicBrain/牛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/弓.md",
+                "file": "PublicBrain/牛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/弓.md"
+                "file": "PublicBrain/牛.md"
               }
             }
           },
@@ -187,10 +187,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "60625f8cddf97435",
+  "active": "5d16e27550c3f53a",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/牛.md",
+    "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
+    "PublicBrain/GPT4All Testing.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/弓.md",
+    "PublicBrain/帰.md",
     "帰.md",
     "PublicBrain/Aprender sobre Pyxel.md",
     "Evaluación y presentación del proyecto final (Pyxel).md",
@@ -199,10 +205,7 @@
     "PublicBrain/Evaluación y presentación del proyecto final (Pyxel).md",
     "Integración de elementos gráficos, sonidos y mecánicas de juego (Pyxel).md",
     "Planificación, diseño e implementación de un juego desde cero en Pyxel.md",
-    "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
-    "PublicBrain/GPT4All Testing.md",
     "PublicBrain/GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/Pruebas y resolución de problemas comunes en PixiJS.md",
     "PublicBrain/Mejores prácticas para lograr un rendimiento óptimo en PixiJS.md",
@@ -210,11 +213,8 @@
     "Desarrollo de un proyecto completo y accesible utilizando PixiJS.md",
     "Pruebas y resolución de problemas comunes en PixiJS.md",
     "Mejores prácticas para lograr un rendimiento óptimo en PixiJS.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
     "PublicBrain/Rol Experto en EMail Marketing.md",
-    "PublicBrain/Expertos en PPC.md",
-    "PublicBrain/Rol Experto en Embudos de Venta.md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

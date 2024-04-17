@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T23:16:47.401Z
-modified: 2024-04-14T14:29:03.761Z
+modified: 2024-04-17T19:07:15.276Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -233,4 +233,22 @@ En Platzi hay varias escuelas que ofrecen cursos para desarrollar habilidades en
 
 GPT4All Falcon
 
-TODO
+﻿1. The department of marketing is responsible for promoting the products or services of the company and generating demand among consumers.
+
+2. The department of marketing plays a crucial role in achieving the objectives of the company, such as building relationships with customers, increasing sales, and maintaining the competitiveness in the market.
+
+3. The department of marketing uses various strategies to reach their goals, including conducting market research, developing marketing plans, implementing marketing campaigns, evaluating the effectiveness of the strategies, and managing customer relations.
+
+4. The department of marketing also works closely with other departments, such as sales, development, and customer service, to ensure that all aspects of the business are aligned towards achieving the company's goals.
+
+5. The department of marketing uses various tools and technologies to measure the success of their campaigns, including social media analytics, website traffic analysis, and online advertising metrics.
+
+6. The department of marketing also focuses on building a strong brand image and reputation through effective communication and customer engagement strategies.
+
+7. The department of marketing is responsible for maintaining a positive relationship with the target audience and ensuring that they are satisfied with the products or services offered by the company.
+
+8. The department of marketing also plays an important role in developing and implementing pricing strategies, which can help to maximize profits while still providing value to customers.
+
+9. The department of marketing is responsible for managing all aspects of the customer journey, from acquisition to retention, and ensuring that each stage of the process is optimized for maximum results.
+
+10. The department of marketing also focuses on continuous learning and development, as new technologies and trends emerge in the industry, to stay ahead of the competition and provide innovative solutions to customers.

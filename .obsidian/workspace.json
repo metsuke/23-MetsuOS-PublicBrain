@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "帰.md",
+                "file": "PublicBrain/弓.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "帰.md",
+                "file": "PublicBrain/弓.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "帰.md",
+                "file": "PublicBrain/弓.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "帰.md"
+                "file": "PublicBrain/弓.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   "active": "60625f8cddf97435",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/弓.md",
     "帰.md",
     "PublicBrain/Aprender sobre Pyxel.md",
     "Evaluación y presentación del proyecto final (Pyxel).md",
@@ -214,7 +215,6 @@
     "PublicBrain/Rol Experto en EMail Marketing.md",
     "PublicBrain/Expertos en PPC.md",
     "PublicBrain/Rol Experto en Embudos de Venta.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

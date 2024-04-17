@@ -93,7 +93,7 @@ tags:
 
 - [[Festivales y celebraciones en Swahili (A1-SW)]]
 - [[Costumbres culturales (A1-SW)]]
-- Explicar y entender tradiciones
+- [[Explicar y entender tradiciones (A1-SW)]]
 
 ## Módulo 6: Viajes y Turismo
 

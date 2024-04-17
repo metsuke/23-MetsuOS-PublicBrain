@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "¿Qué es una API? (IDRA-ChessDotCom).md",
+                "file": "Importancia de las APIs en la interacción digital remota (IDRA-ChessDotCom).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "¿Qué es una API? (IDRA-ChessDotCom).md",
+                "file": "Importancia de las APIs en la interacción digital remota (IDRA-ChessDotCom).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "¿Qué es una API? (IDRA-ChessDotCom).md",
+                "file": "Importancia de las APIs en la interacción digital remota (IDRA-ChessDotCom).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "¿Qué es una API? (IDRA-ChessDotCom).md"
+                "file": "Importancia de las APIs en la interacción digital remota (IDRA-ChessDotCom).md"
               }
             }
           },
@@ -177,6 +177,7 @@
   "active": "36477f4bc5bbd474",
   "lastOpenFiles": [
     "PublicBrain/Interacción Digital Remota mediante API con ChessDotCom.md",
+    "Importancia de las APIs en la interacción digital remota (IDRA-ChessDotCom).md",
     "¿Qué es una API? (IDRA-ChessDotCom).md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/Index.md",
@@ -207,7 +208,6 @@
     "MOS Flascards KO (Flashcards MetsuOS).md",
     "MOS Dictionary KO (Diccionario MetsuOS).md",
     "PublicBrain/Aprender Idioma Coreano.md",
-    "아버지 (abeoji).md",
     "PublicBrain/Declaración y uso de arreglos",
     "PublicBrain/Arreglos",
     "Arreglos",

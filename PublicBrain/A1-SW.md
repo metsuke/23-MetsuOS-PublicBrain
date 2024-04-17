@@ -100,7 +100,7 @@ tags:
 ### Lección 11: Preparativos de Viaje
 
 - [[Reservar alojamiento (A1-SW]])
-- Comprar boletos
+- [[Comprar boletos (A1-SW)]]
 - Preparar un itinerario de viaje
 
 ### Lección 12: En el Destino

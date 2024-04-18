@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-04-16T11:23:38.656Z
+modified: 2024-04-18T05:41:24.017Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 64
+ver_rev: 65
 nav_primary: 
 nav_secondary: 
 tags:
@@ -80,6 +80,6 @@ tags:
 - [[Recursos adicionales y comunidades de desarrollo para seguir aprendiendo (IDRA-Ebay)]]
 
 ## Conclusión
-- Recapitulación de los conceptos clave aprendidos
+- [[Recapitulación de los conceptos clave aprendidos (IDRA-Ebay)]]
 - Reflexión sobre el aprendizaje y la aplicación práctica
 - Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay

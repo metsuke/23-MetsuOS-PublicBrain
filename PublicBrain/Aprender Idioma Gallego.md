@@ -29,3 +29,5 @@ tags:
 		* [[B1-GL]] | [[B2-GL]]
 		* [[C1-GL]] | [[C2-GL]]
 	* Niveles y Exámenes Adicionales GL
+	* [[MOS Dictionary GL (Diccionario MetsuOS)]]
+	* [[MOS Flascards GL (Flashcards MetsuOS)]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.442Z
-modified: 2024-04-16T17:51:44.597Z
+modified: 2024-04-18T08:33:08.229Z
 supervisado: 2024-04-14T14:29:04.063Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 80
+ver_rev: 81
 nav_primary: 
 nav_secondary: 
 tags:
@@ -56,6 +56,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * TR [[Aprender Idioma Turco]]
 * UK [[Aprender Idioma Ucraniano]]
 * VLC [[Aprender Idioma Valenciano]]
+* VI [[Aprender Idioma Vietnamita]]
 * ZH [[Aprender Idioma Chino]]
 
  * [[Estadísticas sobre Idiomas]]

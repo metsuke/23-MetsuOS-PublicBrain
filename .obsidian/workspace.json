@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md",
+                "file": "PublicBrain/Aprender Idioma Frances.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "A1-CA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md",
+                "file": "PublicBrain/Aprender Idioma Frances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md",
+                "file": "PublicBrain/Aprender Idioma Frances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md"
+                "file": "PublicBrain/Aprender Idioma Frances.md"
               }
             }
           },
@@ -164,9 +164,28 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
-    "PublicBrain/Intearacción Digital Remota mediante API con TodoColección.md",
-    "Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Vietnamita.md",
+    "PublicBrain/MOS Flascards VI (Flashcards MetsuOS).md",
+    "PublicBrain/Index.md",
+    "MOS Flascards VI (Flashcards MetsuOS).md",
+    "PublicBrain/MOS Dictionary VI (Diccionario MetsuOS).md",
+    "Aprender Idioma Vietnamita.md",
+    "MOS Dictionary VI (Diccionario MetsuOS).md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
+    "PublicBrain/Interaccción Digital Remota mediante API con Bluesky.md",
+    "PublicBrain/¿Por qué interactuar con Bluesky a través de una API? (IDRA-Bluesky).md",
+    "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
+    "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
+    "PublicBrain/Untitled.canvas",
+    "PublicBrain/Intearacción Digital Remota mediante API con TodoColección.md",
+    "PublicBrain/Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay (IDRA-Ebay).md",
+    "PublicBrain/Reflexión sobre el aprendizaje y la aplicación práctica IDRA-Ebay.md",
+    "PublicBrain/Recursos adicionales y comunidades de desarrollo para seguir aprendiendo (IDRA-Ebay).md",
+    "PublicBrain/Recapitulación de los conceptos clave aprendidos (IDRA-Ebay).md",
+    "PublicBrain/Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md",
+    "Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay (IDRA-Ebay).md",
     "Reflexión sobre el aprendizaje y la aplicación práctica IDRA-Ebay.md",
@@ -174,22 +193,6 @@
     "Recursos adicionales y comunidades de desarrollo para seguir aprendiendo (IDRA-Ebay).md",
     "PublicBrain/Aprender con M-P.md",
     "PublicBrain/Aprender con G-L.md",
-    "PublicBrain/Aprender con Javier G. Recuenco.md",
-    "PublicBrain/Dave Grohl.md",
-    "PublicBrain/Definición de Storytelling.md",
-    "PublicBrain/Daughter.md",
-    "PublicBrain/Dar direcciones (A1-AR).md",
-    "PublicBrain/Daughter (Banda Musical).md",
-    "PublicBrain/Cómo utilizar WCAG 2.1.md",
-    "PublicBrain/Danés.md",
-    "PublicBrain/Da Da Dance.md",
-    "PublicBrain/DSH (Deutsche Sprachprüfung für den Hochschulzugang).md",
-    "PublicBrain/Cómo utilizar WCAG 2.0.md",
-    "PublicBrain/Cómo presentarse (A1-SW).md",
-    "PublicBrain/Participación en discusiones simples (A2-CA).md",
-    "PublicBrain/Lectura de cuentos y textos narrativos (A2-CA).md",
-    "PublicBrain/Festivales y celebraciones (A1-AR).md",
-    "PublicBrain/En el hospital (A1-AR).md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",
@@ -208,9 +211,6 @@
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/5f3d9d68df22071b9dfd8596b9ed1a6e_MD5.jpg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/32ed632dcc8da4178ab206b66f082b19_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
-    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
-    "_resources/Estructurar una Microagencia de Publicidad/21e9f1b59d8d7b5d987e305ba2d42d70_MD5.jpg",
-    "PublicBrain/Untitled.canvas",
     "Untitled.canvas"
   ]
 }

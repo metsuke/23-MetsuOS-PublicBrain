@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-18T05:44:31.534Z
+modified: 2024-04-18T05:53:03.686Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay (IDRA-Ebay)
 
 [[Interacción Digital Remota mediante API con EBay]]

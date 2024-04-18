@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-18T05:42:40.608Z
+modified: 2024-04-18T05:53:03.732Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Recapitulación de los conceptos clave aprendidos (IDRA-Ebay)
 
 [[Interacción Digital Remota mediante API con EBay]]

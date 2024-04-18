@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Implementación de características avanzadas (física, partículas, etc.) en PixiJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Implementación de características avanzadas (física, partículas, etc.) en PixiJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Implementación de características avanzadas (física, partículas, etc.) en PixiJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "Implementación de características avanzadas (física, partículas, etc.) en PixiJS.md"
               }
             }
           },
@@ -164,6 +164,9 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre PixiJS.md",
+    "Implementación de características avanzadas (física, partículas, etc.) en PixiJS.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Rol Comercial.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Rol Gestión Empresarial.md",
@@ -187,9 +190,6 @@
     "PublicBrain/Configuración de un IDE para C.md",
     "PublicBrain/Configuración del tablero y piezas en ajedrez.md",
     "PublicBrain/Configuración del Entorno de Desarrollo para Lenguaje C.md",
-    "PublicBrain/Conceptos fundamentales de accesibilidad (A11Y Videojuegos).md",
-    "PublicBrain/Compras y transacciones en japonés (N5-JP).md",
-    "PublicBrain/Comunicación.md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

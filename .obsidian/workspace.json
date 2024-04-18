@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Coronel Jack O'Neill.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Coronel Jack O'Neill.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Coronel Jack O'Neill.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Coronel Jack O'Neill.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -164,6 +164,18 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
+    "PublicBrain/Rol Comercial.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
+    "PublicBrain/Rol Gestión Empresarial.md",
+    "PublicBrain/Rol Experto en Embudos de Venta.md",
+    "PublicBrain/Aprender con Pablo Grueso.md",
+    "PublicBrain/形.md",
+    "PublicBrain/Reservar alojamiento (A1-SW.md",
+    "PublicBrain/Explicar y entender tradiciones (A1-SW).md",
+    "PublicBrain/Comprar boletos (A1-SW).md",
+    "PublicBrain/Aprender con Beatriz Martín.md",
+    "PublicBrain/Aprender con Antonio Ruiz García (ElGris).md",
+    "PublicBrain/Coronel Jack O'Neill.md",
     "PublicBrain/Conversación en el restaurante y pedidos de comida (A1-CA).md",
     "PublicBrain/Coreano.md",
     "PublicBrain/Conversaciones sobre eventos y actividades sociales (A1-CA).md",
@@ -178,18 +190,6 @@
     "PublicBrain/Conceptos fundamentales de accesibilidad (A11Y Videojuegos).md",
     "PublicBrain/Compras y transacciones en japonés (N5-JP).md",
     "PublicBrain/Comunicación.md",
-    "Comprar boletos (A1-SW).md",
-    "PublicBrain/A1-SW.md",
-    "Explicar y entender tradiciones (A1-SW).md",
-    "Reservar alojamiento (A1-SW.md",
-    "PublicBrain/Kanji - Grado 2.md",
-    "PublicBrain/後.md",
-    "PublicBrain/午.md",
-    "PublicBrain/古.md",
-    "PublicBrain/戸.md",
-    "PublicBrain/原.md",
-    "PublicBrain/言.md",
-    "PublicBrain/元.md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

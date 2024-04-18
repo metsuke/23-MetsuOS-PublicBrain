@@ -1,6 +1,6 @@
 ---
-iaStatus: 8
-iaStatus_Generado: "H"
+iaStatus: 3
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 iaStatus_Model: ""
@@ -9,19 +9,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.653Z
-modified: 2024-04-14T14:29:03.272Z
+modified: 2024-04-18T03:43:42.848Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 52
+ver_rev: 53
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Rol Comercial
 
-[[Estructurar una Microagencia de Marketing Digital]] | [[Glosario de Marketing Digital]]
+* [[Estructurar una Microagencia de Marketing Digital]]
+	* [[Glosario de Marketing Digital]]
 
 Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 
@@ -67,17 +68,12 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 
 ## Cursos recomendados
 
-* [Búsqueda en Platzi para el rol de comercial o ventas](https://platzi.com/buscar/?search=que%20cursos%20me%20recomiendas%20para%20comercial%20o%20ventas.%20Dame%20el%20resultado%20en%20markdown%20para%20poder%20ocpiarlo%20a%20mi%20agenda)
-* [Generación de Ruta en Platzi para el rol de comercial o ventas](https://platzi.com/buscar/?search=dame%20una%20ruta%20para%20formarme%20en%20el%20rol%20de%20comercial%20o%20ventas)
+* [Búsqueda en Platzi para el rol de comercial o ventas](https://platzi.com/buscar/?search=comercial%20o%20ventas)
 
  ### Escuelas Platzi Recomendadas
 
 * [Escuela de Marketing Digital](https://platzi.com/escuela/marketing/)
-* [Escuela de Startups](https://platzi.com/escuela/startups/)
-* [Escuela de Negocios](https://platzi.com/escuela/negocios/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
-* [Escuela de Programación y Software](https://platzi.com/escuela/programacion-software/)
-* [Escuela de Desarrollo Web](https://platzi.com/escuela/web/)
 
 ## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
 

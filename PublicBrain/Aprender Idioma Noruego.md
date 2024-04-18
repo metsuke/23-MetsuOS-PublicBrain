@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Noruego
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * NO | [[Noruego]]
 	* [[Niveles Oficiales NO]]

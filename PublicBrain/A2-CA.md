@@ -62,7 +62,7 @@ tags:
 
 ## Módulo 6: Habilidades de Escucha y Habla
 
-6.1. Comprensión auditiva de diálogos y conversaciones.
+6.1. [[Comprensión auditiva de diálogos y conversaciones (A2-CA)]]
 6.2. Participación en discusiones simples.
 6.3. Narración de anécdotas y experiencias.
 6.4. Conversaciones telefónicas básicas.

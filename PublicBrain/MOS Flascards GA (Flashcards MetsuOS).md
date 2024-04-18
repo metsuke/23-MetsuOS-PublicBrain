@@ -18,7 +18,7 @@ tags: []
 ---
 # MOS Flascards GA (Flashcards MetsuOS)
 
-[[Aprender Idioma Irlandés]]
+[[Aprender Idioma Gaélico Irlandés]]
 
 1. Dia dhuit agus fáilte (Saludos y bienvenida)
 2. Uimhreacha agus líon (Números y contar)

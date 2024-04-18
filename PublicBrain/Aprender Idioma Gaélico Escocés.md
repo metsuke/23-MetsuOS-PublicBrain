@@ -5,8 +5,8 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-04-18T20:11:28.352Z
-modified: 2024-04-18T20:14:01.447Z
+created: 2024-04-18T20:25:16.909Z
+modified: 2024-04-18T20:27:55.794Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
@@ -16,10 +16,10 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Aprender Idioma Irlandés
+# Aprender Idioma Gaélico Escocés
 
 [[Aprender Idiomas]]
 
-* [[MOS Dictionary GA (Diccionario MetsuOS)]]
-* [[MOS Flascards GA (Flashcards MetsuOS)]]
+* [[MOS Dictionary GD (Diccionario MetsuOS)]]
+* [[MOS Flascards GD (Flashcards MetsuOS)]]
 

@@ -26,5 +26,5 @@ tags:
 * FR | Francés
 	* Niveles Oficiales FR
 	* Niveles y Exámenes Adicionales FR
-	* [[MOS Dictionary KO (Diccionario MetsuOS)]]
-	* [[MOS Flascards KO (Flashcards MetsuOS)]]
+	* [[MOS Dictionary FR (Diccionario MetsuOS)]]
+	* [[MOS Flascards FR (Flashcards MetsuOS)]]

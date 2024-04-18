@@ -22,7 +22,7 @@ tags: []
 
 # Índice
 
-1. Introducción a la Interacción Digital Remota
+1. [[Introducción a la Interacción Digital Remota (IDRA-TodoColeccion))]]
    - 1.1 Qué es la Interacción Digital Remota
    - 1.2 Importancia y aplicaciones en la actualidad
    - 1.3 Objetivos del curso

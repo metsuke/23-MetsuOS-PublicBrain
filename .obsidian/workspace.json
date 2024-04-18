@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOS Flascards NL (Flashcards MetsuOS).md",
+                "file": "Aprender Idioma Latín.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOS Flascards NL (Flashcards MetsuOS).md",
+                "file": "Aprender Idioma Latín.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOS Flascards NL (Flashcards MetsuOS).md",
+                "file": "Aprender Idioma Latín.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOS Flascards NL (Flashcards MetsuOS).md"
+                "file": "Aprender Idioma Latín.md"
               }
             }
           },
@@ -164,10 +164,18 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
-    "PublicBrain/Aprender Idioma Neerlandés.md",
-    "MOS Flascards NL (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idiomas.md",
+    "Aprender Idioma Latín.md",
+    "Aprender Idioma Irlandés.md",
+    "MOS Flascards GA (Flashcards MetsuOS).md",
+    "PublicBrain/Aprender idioma Griego.md",
     "PublicBrain/Index.md",
+    "MOS Flascards EL (Flashcards MetsuOS).md",
+    "PublicBrain/MOS Flascards EL (Flashcards MetsuOS).md",
+    "PublicBrain/Aprender Idioma Neerlandés.md",
+    "PublicBrain/MOS Flascards NL (Flashcards MetsuOS).md",
+    "MOS Flascards NL (Flashcards MetsuOS).md",
+    "PublicBrain/MOS Flascards IT (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Italiano.md",
     "MOS Flascards IT (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Frances.md",
@@ -182,17 +190,9 @@
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/Interaccción Digital Remota mediante API con Bluesky.md",
-    "PublicBrain/¿Por qué interactuar con Bluesky a través de una API? (IDRA-Bluesky).md",
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",
-    "PublicBrain/Intearacción Digital Remota mediante API con TodoColección.md",
-    "PublicBrain/Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay (IDRA-Ebay).md",
-    "PublicBrain/Reflexión sobre el aprendizaje y la aplicación práctica IDRA-Ebay.md",
-    "PublicBrain/Recursos adicionales y comunidades de desarrollo para seguir aprendiendo (IDRA-Ebay).md",
-    "PublicBrain/Recapitulación de los conceptos clave aprendidos (IDRA-Ebay).md",
-    "PublicBrain/Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md",
-    "Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

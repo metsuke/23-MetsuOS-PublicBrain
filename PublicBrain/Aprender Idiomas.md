@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.442Z
-modified: 2024-04-18T08:33:08.229Z
+modified: 2024-04-18T20:11:27.554Z
 supervisado: 2024-04-14T14:29:04.063Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 81
+ver_rev: 82
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,7 +36,8 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * EU [[Aprender Idioma Euskera]]
 * FI [[Aprender Idioma Finlandes]]
 * FR [[Aprender Idioma Frances]]
-* GE | [[Aprender Idioma Aleman]]
+* GA [[Aprender Idioma Irlandés]]
+* GE  [[Aprender Idioma Aleman]]
 * GL [[Aprender Idioma Gallego]]
 * HAW Aprender Idioma Hawaiano
 * HE [[Aprender Idioma Hebreo]]
@@ -45,6 +46,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * IT [[Aprender Idioma Italiano]]
 * JP [[Aprender Idioma Japones]]
 * KO [[Aprender Idioma Coreano]]
+* LA [[Aprender Idioma Latín]]
 * NL [[Aprender Idioma Neerlandés]]
 * NO [[Aprender Idioma Noruego]]
 * PL [[Aprender Idioma Polaco]]

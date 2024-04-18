@@ -1,5 +1,5 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Generado: "H"
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
@@ -10,8 +10,8 @@ lang: ES
 translations: 
 created: 2024-04-06T23:49:00.653Z
 modified: 2024-04-18T03:43:42.848Z
-supervisado: ""
-ACCION: S
+supervisado: 2024-04-18T03:43:42.848Z
+ACCION: 
 ver_major: 0
 ver_minor: 3
 ver_rev: 53

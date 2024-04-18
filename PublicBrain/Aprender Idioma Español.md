@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.421Z
-modified: 2024-04-14T14:29:04.069Z
+modified: 2024-04-18T21:54:46.779Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,3 +33,5 @@ tags:
 		* [[Certificado de Español - Lengua y Uso (CELU)]]
 		* [[SIELE (Servicio Internacional de Evaluación de la Lengua Española)]]
 		* [[CCSE (Examen de Conocimientos Constitucionales y Socioculturales de España)]]
+	* [[MOS Dictionary ES (Diccionario MetsuOS)]]
+	* [[MOS Flascards ES (Flashcards MetsuOS)]]

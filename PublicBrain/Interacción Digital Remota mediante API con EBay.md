@@ -81,5 +81,5 @@ tags:
 
 ## Conclusión
 - [[Recapitulación de los conceptos clave aprendidos (IDRA-Ebay)]]
-- Reflexión sobre el aprendizaje y la aplicación práctica
+- [[Reflexión sobre el aprendizaje y la aplicación práctica IDRA-Ebay]]
 - Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay

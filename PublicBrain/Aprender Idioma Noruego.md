@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.434Z
-modified: 2024-04-14T14:29:04.065Z
+modified: 2024-04-18T21:31:14.876Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,3 +29,5 @@ tags:
 		* [[B1-NO]] | [[B2-NO]]
 		* [[C1-NO]] | [[C2-NO]]
 	* Niveles y Exámenes Adicionales NO
+	* [[MOS Dictionary NO (Diccionario MetsuOS)]]
+	* [[MOS Flascards NO (Flashcards MetsuOS)]]

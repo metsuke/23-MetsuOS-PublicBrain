@@ -1,6 +1,9 @@
 ---
 iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
@@ -10,7 +13,7 @@ modified: 2024-04-18T03:43:35.252Z
 supervisado: 2024-04-14T14:29:03.268Z
 ACCION: 
 ver_major: 0
-ver_minor: 2
+ver_minor: 4
 ver_rev: 9
 nav_primary: 
 nav_secondary: 

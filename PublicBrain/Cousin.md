@@ -2,19 +2,19 @@
 iaStatus: 0
 iaStatus_Model: ""
 a11y: 0
-checked: 0
+checked: 3
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.073Z
-modified: 2024-04-14T14:29:03.850Z
+modified: 2024-04-18T04:25:08.440Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Cousin
 

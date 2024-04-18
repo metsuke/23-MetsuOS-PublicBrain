@@ -1,26 +1,29 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.082Z
-modified: 2024-04-14T14:29:03.838Z
+modified: 2024-04-18T04:24:52.281Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Curs de Català per a l'Administració (Curso de Catalán para la Administración)
 
 [[Aprender Idioma Catalán]]
 
-## Módulo 1: Introducción al Catalán Administrativo
+## Módulo 1: "I"ntroducción al Catalán Administrativo
 
 1.1. Fundamentos del catalán en el ámbito administrativo.
 1.2. Vocabulario y expresiones específicas para la administración.

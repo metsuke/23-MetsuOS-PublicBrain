@@ -64,7 +64,7 @@ tags:
 
 - [[En el aeropuerto (A1-AR)]]
 - En el hotel
-- En el hospital
+- [[En el hospital (A1-AR)]]
 - En la oficina de correos
 
 ## Módulo 7: Cultura Árabe

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "En el aeropuerto (A1-AR).md",
+                "file": "PublicBrain/A2-CA.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "En el aeropuerto (A1-AR).md",
+                "file": "PublicBrain/A2-CA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "En el aeropuerto (A1-AR).md",
+                "file": "PublicBrain/A2-CA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "En el aeropuerto (A1-AR).md"
+                "file": "PublicBrain/A2-CA.md"
               }
             }
           },
@@ -164,12 +164,16 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
+    "Lectura de cuentos y textos narrativos (A2-CA).md",
+    "PublicBrain/A2-CA.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/A1-AR.md",
+    "En el hospital (A1-AR).md",
     "En el aeropuerto (A1-AR).md",
     "Participación en discusiones simples (A2-CA).md",
-    "PublicBrain/A2-CA.md",
     "Comprensión auditiva de diálogos y conversaciones (A2-CA).md",
-    "Lectura de cuentos y textos narrativos (A2-CA).md",
     "PublicBrain/5.4. Lectura de cuentos y textos narrativos..md",
     "PublicBrain/作.md",
     "PublicBrain/Kanji - Grado 2.md",
@@ -186,10 +190,6 @@
     "PublicBrain/黄.md",
     "PublicBrain/高.md",
     "PublicBrain/行.md",
-    "PublicBrain/考.md",
-    "PublicBrain/光.md",
-    "PublicBrain/交.md",
-    "PublicBrain/広.md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

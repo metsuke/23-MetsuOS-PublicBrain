@@ -29,3 +29,6 @@ tags:
 		* [[B1-EU]] | [[B2-EU]]
 		* [[C1-EU]] | [[C2-EU]]
 	* Niveles y Exámenes Adicionales EU
+	* [[MOS Dictionary EU (Diccionario MetsuOS)]]
+	* [[MOS Flascards EU (Flashcards MetsuOS)]]
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOS Flascards FR (Flashcards MetsuOS).md",
+                "file": "MOS Flascards IT (Flashcards MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOS Flascards FR (Flashcards MetsuOS).md",
+                "file": "MOS Flascards IT (Flashcards MetsuOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOS Flascards FR (Flashcards MetsuOS).md",
+                "file": "MOS Flascards IT (Flashcards MetsuOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOS Flascards FR (Flashcards MetsuOS).md"
+                "file": "MOS Flascards IT (Flashcards MetsuOS).md"
               }
             }
           },
@@ -164,12 +164,15 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
-    "PublicBrain/Aprender Idioma Frances.md",
-    "MOS Flascards FR (Flashcards MetsuOS).md",
+    "PublicBrain/Aprender Idioma Italiano.md",
+    "MOS Flascards IT (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Frances.md",
+    "PublicBrain/MOS Flascards FR (Flashcards MetsuOS).md",
+    "MOS Flascards FR (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Vietnamita.md",
     "PublicBrain/MOS Flascards VI (Flashcards MetsuOS).md",
-    "PublicBrain/Index.md",
     "MOS Flascards VI (Flashcards MetsuOS).md",
     "PublicBrain/MOS Dictionary VI (Diccionario MetsuOS).md",
     "Aprender Idioma Vietnamita.md",
@@ -190,9 +193,6 @@
     "Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay (IDRA-Ebay).md",
-    "Reflexión sobre el aprendizaje y la aplicación práctica IDRA-Ebay.md",
-    "Recapitulación de los conceptos clave aprendidos (IDRA-Ebay).md",
-    "Recursos adicionales y comunidades de desarrollo para seguir aprendiendo (IDRA-Ebay).md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

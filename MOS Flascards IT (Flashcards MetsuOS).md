@@ -1,6 +1,6 @@
-# MOS Flascards FR (Flashcards MetsuOS)
+# MOS Flascards IT (Flashcards MetsuOS)
 
-[[Aprender Idioma Frances]]
+[[Aprender Idioma Italiano]]
 
 1. Saludos y presentaciones
 2. Números y contar

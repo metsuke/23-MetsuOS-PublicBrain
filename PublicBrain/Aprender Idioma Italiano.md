@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.429Z
-modified: 2024-04-14T14:29:04.066Z
+modified: 2024-04-18T17:09:38.005Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,5 +29,6 @@ tags:
 		* [[B1-IT]] | [[B2-IT]]
 		* [[C1-IT]] | [[C2-IT]]
 	* Niveles y Exámenes Adicionales IT
+	* [[MOS Dictionary IT (Diccionario MetsuOS)]]
+	* [[MOS Flascards IT (Flashcards MetsuOS)]]
 
-======================================================

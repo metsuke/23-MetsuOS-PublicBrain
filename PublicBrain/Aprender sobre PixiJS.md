@@ -81,4 +81,4 @@ tags:
 - [[Desarrollo de un proyecto completo y accesible utilizando PixiJS]]
 - [[Implementación de características avanzadas (física, partículas, etc.) en PixiJS]]
 - [[Optimización y despliegue del proyecto final en PixiJS]]
-- Presentación y revisión del proyecto final (PixiJS)
+- [[Presentación y revisión del proyecto final (PixiJS)]]

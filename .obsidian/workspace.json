@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOS Flascards IT (Flashcards MetsuOS).md",
+                "file": "MOS Flascards NL (Flashcards MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOS Flascards IT (Flashcards MetsuOS).md",
+                "file": "MOS Flascards NL (Flashcards MetsuOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOS Flascards IT (Flashcards MetsuOS).md",
+                "file": "MOS Flascards NL (Flashcards MetsuOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOS Flascards IT (Flashcards MetsuOS).md"
+                "file": "MOS Flascards NL (Flashcards MetsuOS).md"
               }
             }
           },
@@ -164,10 +164,12 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
-    "PublicBrain/Aprender Idioma Italiano.md",
-    "MOS Flascards IT (Flashcards MetsuOS).md",
+    "PublicBrain/Aprender Idioma Neerlandés.md",
+    "MOS Flascards NL (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Italiano.md",
+    "MOS Flascards IT (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Frances.md",
     "PublicBrain/MOS Flascards FR (Flashcards MetsuOS).md",
     "MOS Flascards FR (Flashcards MetsuOS).md",
@@ -191,8 +193,6 @@
     "PublicBrain/Recapitulación de los conceptos clave aprendidos (IDRA-Ebay).md",
     "PublicBrain/Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md",
     "Introducción a la Interacción Digital Remota (IDRA-TodoColeccion)).md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay (IDRA-Ebay).md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

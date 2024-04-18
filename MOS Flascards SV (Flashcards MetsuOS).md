@@ -13,11 +13,9 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# MOS Flascards TR (Flashcards MetsuOS)
+# MOS Flascards SV (Flashcards MetsuOS)
 
-[[Aprender Idioma Turco]]
-
-Claro, aquí tienes un índice exhaustivo y detallado de temáticas para crear flashcards de aprendizaje del vocabulario en el idioma turco:
+[[Aprender Idioma Sueco]]
 
 1. Saludos y presentaciones
 2. Familia y relaciones
@@ -31,7 +29,7 @@ Claro, aquí tienes un índice exhaustivo y detallado de temáticas para crear f
 10. Ropa y accesorios
 11. Alimentos y bebidas
 12. Frutas y verduras
-13. Comidas típicas turcas
+13. Comidas típicas suecas
 14. Utensilios de cocina
 15. Lugares de la casa
 16. Muebles y decoración
@@ -53,7 +51,7 @@ Claro, aquí tienes un índice exhaustivo y detallado de temáticas para crear f
 32. Adverbios de manera
 33. Adverbios de lugar
 34. Adverbios de tiempo
-35. Expresiones comunes en turco
+35. Expresiones comunes en sueco
 36. Palabras de cortesía
 37. Expresiones de gratitud
 38. Expresiones de disculpa
@@ -119,5 +117,3 @@ Claro, aquí tienes un índice exhaustivo y detallado de temáticas para crear f
 98. Verbos de cambio de valor
 99. Verbos de cambio de actitud
 100. Verbos de cambio de situación
-
-¡Espero que esta lista te sea útil para crear tus flashcards de aprendizaje en turco!

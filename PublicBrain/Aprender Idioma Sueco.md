@@ -33,3 +33,5 @@ tags:
 		* Svenska som andraspråk (SAS)
 		- SWEDEX
 		- Folkuniversitetet examen
+	- [[MOS Dictionary SV (Diccionario MetsuOS)]]
+	* [[MOS Flascards SV (Flashcards MetsuOS)]]

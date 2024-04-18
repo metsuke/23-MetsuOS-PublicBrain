@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/合.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md"
+                "file": "PublicBrain/合.md"
               }
             }
           },
@@ -164,8 +164,8 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
-    "PublicBrain/黄.md",
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/黄.md",
     "PublicBrain/高.md",
     "PublicBrain/行.md",
     "PublicBrain/考.md",

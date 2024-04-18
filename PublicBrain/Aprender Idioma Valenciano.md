@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Valenciano
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * VLC | [[Valenciano]]
 	* [[Niveles Oficiales VLC]]
@@ -30,3 +30,5 @@ tags:
 		* Nivel C: [[C1-VLC]] | [[C2-VLC]] 
 	* [[Niveles y Exámenes Adicionales VLC]]
 		* [[C1-Administratiu (Mitjà)]]
+	* [[MOS Dictionary VLC (Diccionario MetsuOS)]]
+	* [[MOS Flascards VLC (Flashcards MetsuOS)]]

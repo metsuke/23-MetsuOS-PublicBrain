@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "PublicBrain/語.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "PublicBrain/語.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "PublicBrain/語.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md"
+                "file": "PublicBrain/語.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
-    "Presentación y revisión del proyecto final (PixiJS).md",
+    "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/語.md",
     "PublicBrain/Aprender sobre PixiJS.md",
+    "Presentación y revisión del proyecto final (PixiJS).md",
     "Optimización y despliegue del proyecto final en PixiJS.md",
     "Implementación de características avanzadas (física, partículas, etc.) en PixiJS.md",
     "PublicBrain/Index.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Conversación en hoteles y aeropuertos (A1-CA).md",
     "PublicBrain/Contenido moviéndose automáticamente.md",
     "PublicBrain/Consonantes en Hindi (Basico-HI).md",
-    "PublicBrain/Consideraciones para el diseño de personajes.md",
-    "PublicBrain/Configuración de un IDE para C.md",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",

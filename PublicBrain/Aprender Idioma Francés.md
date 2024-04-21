@@ -24,7 +24,7 @@ tags:
 [[PublicBrain/Index#Aprender Idiomas]]
 
 * FR | [[Idioma Francés]]
-	* Niveles Oficiales FR
+	* [[Niveles Oficiales FR]]
 	* Niveles y Exámenes Adicionales FR
 	* [[MOS Dictionary FR (Diccionario MetsuOS)]]
 	* [[MOS Flascards FR (Flashcards MetsuOS)]]

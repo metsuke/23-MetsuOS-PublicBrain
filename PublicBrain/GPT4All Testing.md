@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.475Z
-modified: 2024-04-21T10:41:15.510Z
-supervisado: ""
-ACCION: ""
+modified: 2024-04-21T11:43:11.317Z
+supervisado: 2024-04-21T10:41:15.510Z
+ACCION: 
 ver_major: 0
-ver_minor: 3
-ver_rev: 2
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 3
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # GPT4All Testing
 

@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T07:49:40.817Z
-modified: 2024-04-13T04:06:08.942Z
+modified: 2024-04-21T11:49:29.092Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# ..13 - Generacion etiquetas SEO en base a texto en bruto
+# 13 - Generacion etiquetas SEO en base a texto en bruto
 
 [[GPT4All Testing]]
 

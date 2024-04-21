@@ -80,10 +80,10 @@ tags:
   - [[Análisis de sentimientos]]
   - [[Traducción automática]]
 - [[Robótica y Automatización]]
-- IA en la atención médica
+- [[IA en la atención médica]]
 - [[IA en finanzas y negocios]]
 
-## Ética y Aspectos Sociales de la IA
+## [[Ética y Aspectos Sociales de la IA]]
 
 - [[Consideraciones éticas en IA]]
 - Impacto de la IA en la sociedad

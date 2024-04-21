@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "IA en la atención médica.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "IA en la atención médica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+                "file": "IA en la atención médica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Inteligencia Artificial.md"
+                "file": "IA en la atención médica.md"
               }
             }
           },
@@ -164,8 +164,10 @@
   },
   "active": "5de081ad8c632e24",
   "lastOpenFiles": [
-    "Robótica y Automatización.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "IA en la atención médica.md",
+    "Ética y Aspectos Sociales de la IA.md",
+    "Robótica y Automatización.md",
     "PublicBrain/Index.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Rol Gestión Empresarial.md",
@@ -188,8 +190,6 @@
     "PublicBrain/Aprender Idioma Gallego.md",
     "MOS Flascards GL (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Euskera.md",
-    "PublicBrain/MOS Flascards EU (Flashcards MetsuOS).md",
-    "MOS Flascards EU (Flashcards MetsuOS).md",
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",

@@ -21,10 +21,13 @@ tags:
 ---
 # Aprender Idioma Francés
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas|Aprender Idiomas]]
 
 * FR | [[Idioma Francés]]
 	* [[Niveles Oficiales FR]]
+		* [[A1-FR]] | [[A2-FR]]
+		* [[B1-FR]] | [[B2-FR]]
+		* [[C1-FR]] | [[C2-FR]]
 	* Niveles y Exámenes Adicionales FR
 	* [[MOS Dictionary FR (Diccionario MetsuOS)]]
 	* [[MOS Flascards FR (Flashcards MetsuOS)]]

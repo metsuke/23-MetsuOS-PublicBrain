@@ -9,19 +9,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.652Z
-modified: 2024-04-14T14:29:03.273Z
+modified: 2024-04-21T10:00:10.229Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 51
+ver_rev: 52
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Rol Account Manager
 
-[[Estructurar una Microagencia de Marketing Digital]] | [[Glosario de Marketing Digital]]
+* [[Estructurar una Microagencia de Marketing Digital]] 
+	* [[Glosario de Marketing Digital]]
 
 Este rol se encarga de mantener a todos los clientes con una sonrisa
 

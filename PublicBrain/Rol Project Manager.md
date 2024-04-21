@@ -6,19 +6,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.655Z
-modified: 2024-04-14T14:29:03.268Z
+modified: 2024-04-21T09:59:57.954Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Rol Project Manager
 
-[[Estructurar una Microagencia de Marketing Digital]] | [[Glosario de Marketing Digital]]
+* [[Estructurar una Microagencia de Marketing Digital]] 
+	* [[Glosario de Marketing Digital]]
 
 Este rol responde a la necesidad de coordinar y asegurarse del buen desarrollo de los proyectos.
 

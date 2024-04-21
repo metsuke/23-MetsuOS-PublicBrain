@@ -6,19 +6,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.653Z
-modified: 2024-04-14T14:29:03.272Z
+modified: 2024-04-21T10:00:27.402Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Rol Administración Negocios
 
-[[Estructurar una Microagencia de Marketing Digital]] | [[Glosario de Marketing Digital]]
+* [[Estructurar una Microagencia de Marketing Digital]] 
+	* [[Glosario de Marketing Digital]]
 
 Este rol se encarga de la gestión de recursos
 

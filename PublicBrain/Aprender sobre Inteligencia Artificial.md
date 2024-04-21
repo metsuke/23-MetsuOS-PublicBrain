@@ -79,7 +79,7 @@ tags:
 - [[Procesamiento de lenguaje natural (NLP)]]
   - [[Análisis de sentimientos]]
   - [[Traducción automática]]
-- Robótica y Automatización
+- [[Robótica y Automatización]]
 - IA en la atención médica
 - [[IA en finanzas y negocios]]
 

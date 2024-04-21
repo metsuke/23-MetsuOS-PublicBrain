@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Nous Hermes 2 Mistral DRO,Mistral OpenOrca,Mistral Instruct,GPT4All Falcon
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T23:16:47.401Z
-modified: 2024-04-17T19:07:15.276Z
-supervisado: ""
-ACCION: ""
+modified: 2024-04-20T13:56:12.309Z
+supervisado: 2024-04-19T10:06:36.567Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 7
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 9
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto
 
@@ -22,9 +25,14 @@ tags: []
 
 Tarea a probar, generar un conjunto base de candidatos a etiquetas SEO desde un contenido en bruto.
 
+## Observaciones
+
+* En esta categoria, cada modelo hace una cosa diferente, algunas muy aprovechables para otras tareas, en este caso, y por ahora, **New Hermes 2 Mistral DPO** es el que más acota y será el que pruebe para la primera version del automatismo que rellene los tags base de las páginas de forma automática.
+* En caso de que llamadas posteriores no den el mismo formato, aportare la respuesta aportada en esta ocasion como ejemplo de como quiero la salida dentro del prompt y capturare datos en un script desde este punto (asi pruebo las llamadas locales automaticas, probablemente con un script que ejeucte una cada 6 horas aprox, dado el consumo de CPU Local)
+
 ## Prompt
 
-´´´markdown
+```markdown
 ﻿﻿dame una lista de etiquetas para SEO en base a este contenido # Departamento Marketing
 
   
@@ -154,7 +162,7 @@ El departamento de marketing desempeña un papel clave en la promoción y el éx
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
 
 * [Escuela de Startups](https://platzi.com/escuela/startups/)
-´´´
+```
 
 ## GPT-3.5-Turbo
 

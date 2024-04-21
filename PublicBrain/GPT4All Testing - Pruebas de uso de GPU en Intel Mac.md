@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.624Z
-modified: 2024-04-14T14:29:03.758Z
-supervisado: ""
-ACCION: ""
+modified: 2024-04-20T13:56:12.304Z
+supervisado: 2024-04-14T14:29:03.758Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 6
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 7
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # GPT4All Testing - Pruebas de uso de GPU en Intel Mac
 

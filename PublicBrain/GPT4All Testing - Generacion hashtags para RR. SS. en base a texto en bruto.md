@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Nous Hermes 2 Mistral DRO,Mistral OpenOrca,Mistral Instruct,GPT4All Falcon
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T07:54:38.355Z
-modified: 2024-04-17T14:12:44.738Z
-supervisado: ""
-ACCION: ""
+modified: 2024-04-20T13:48:13.836Z
+supervisado: 2024-04-20T13:48:13.836Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 7
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 9
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 #  GPT4All Testing - Generacion hashtags para RR. SS. en base a texto en bruto
 
@@ -37,11 +40,14 @@ Iteración 003 - Al no acotar el tamaño máximo de cada hashtag , elsistema da 
 
 Iteraciones 0004-0010 .- Con OpenOrca tras varios intentos de todo tipo, no logro que me de directamente las palabras se dedica a reorganizar el contexto y empieza a soltar parrafadas. Por hoy basta, pero esencialmente descarto OpenOrca para esta tarea concreta.
 
-TODO: Seguir aqui
+## Observaciones
+
+* Dadas las respuestas y los problemas para lograr que determinados modelos hagan caso a loq ue se le pide, optaría por **Mistral Instruct** como primera opcion y **gpt-3.5-turbo** si este no funciona. 
+* Podria usarse con mejoras en el procesamiento Nous Hermes 2 Mistral DPO pero creo que por ahora seria mejor pagar por gptapi en este punto para no tener que usar este ultimo modelo para solucionar la cuestión.
 
 ## Prompt
 
-´´´markdown
+```markdown
 ﻿﻿dame una lista de 3 o más hashtags (cada uno de maximo 2 palabras), para redes sociales  en base a este contenido # Departamento Marketing
 
   
@@ -171,7 +177,8 @@ El departamento de marketing desempeña un papel clave en la promoción y el éx
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
 
 * [Escuela de Startups](https://platzi.com/escuela/startups/)
-´´´
+```
+
 ## GPT 3.5 Turbo
 
 Aquí tienes una lista de hashtags para redes sociales basada en el contenido proporcionado:

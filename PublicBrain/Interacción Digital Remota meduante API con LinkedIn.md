@@ -21,7 +21,7 @@ tags: []
 [[Aprender sobre Interacción Digital Remota mediante API]]
 
 ## Introducción
-- Objetivos del curso
+- [[Objetivos del curso (IDRA-LinkedIn)]]
 - Descripción general de la interacción digital remota con API
 - Importancia de LinkedIn en el ámbito profesional
 

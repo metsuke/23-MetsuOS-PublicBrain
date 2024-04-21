@@ -23,7 +23,7 @@ tags: []
 ## Fundamentos de Discord
 - [[¿Qué es Discord? (IDRA-Discord)]]
 - [[Funcionalidades principales (IDRA-Discord)]]
-- Roles y permisos
+- [[Roles y permisos (IDRA-Discord)]]
 - Creación de un servidor Discord
 
 ## Conceptos básicos de API

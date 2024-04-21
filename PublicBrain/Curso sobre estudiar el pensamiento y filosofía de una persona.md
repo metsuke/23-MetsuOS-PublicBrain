@@ -65,7 +65,8 @@ tags:
 ## VIII. Recursos y Bibliografía
    - A. [[Fuentes primarias - obras del individuo (Estudio persamiento y filosofía de una persona)]]
    - B. [[Fuentes secundarias (libros, artículos, ensayos) - Estudio persamiento y filosofía de una persona]]
-   - C. Recursos en línea y bases de datos filosóficas
+   - C. [[Recursos en línea y bases de datos filosóficas (Estudio persamiento y filosofía de una persona)]]
+
    
 ## IX. Evaluación
    - A. Criterios de evaluación del curso

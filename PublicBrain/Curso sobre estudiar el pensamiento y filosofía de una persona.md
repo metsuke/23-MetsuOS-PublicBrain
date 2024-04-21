@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-04-15T05:32:25.905Z
+modified: 2024-04-21T10:23:30.176Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 58
+ver_rev: 59
 nav_primary: 
 nav_secondary: 
 tags:
@@ -69,7 +69,7 @@ tags:
 
    
 ## IX. Evaluación
-   - A. Criterios de evaluación del curso
+   - A. [[Criterios de evaluación del curso (Estudio persamiento y filosofía de una persona)]]
    - B. Trabajos y proyectos asignados
    - C. Exámenes y pruebas de conocimiento
    

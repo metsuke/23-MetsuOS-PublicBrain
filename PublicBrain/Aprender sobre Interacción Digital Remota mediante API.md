@@ -39,5 +39,6 @@ tags:
 * [[Interacción Digital Remota meduante API con LinkedIn]]
 * [[Interacción Digital Remota mediante API con Mercado Libre]]
 * [[Interacción Digital Remota mediante API con Microsoft]]
+* [[Interacción Digital Remota mediante API con Pinterest]]
 * [[Intearacción Digital Remota mediante API con TodoColección]]
 * [[Interacción Digital Remota mediante API con Youtube]]

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creación de un servidor Discord (IDRA-Discord).md",
+                "file": "PublicBrain/Interacción Digital Remota meduante API con LinkedIn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d45ef68b2a980a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Promting Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creación de un servidor Discord (IDRA-Discord).md",
+                "file": "PublicBrain/Interacción Digital Remota meduante API con LinkedIn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creación de un servidor Discord (IDRA-Discord).md",
+                "file": "PublicBrain/Interacción Digital Remota meduante API con LinkedIn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creación de un servidor Discord (IDRA-Discord).md"
+                "file": "PublicBrain/Interacción Digital Remota meduante API con LinkedIn.md"
               }
             }
           },
@@ -164,8 +176,16 @@
   },
   "active": "fabf9b615c4f62e7",
   "lastOpenFiles": [
+    "PublicBrain/Promting Database.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Interacción Digital Remota meduante API con LinkedIn.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
+    "Interacción Digital Remota meduante API con LinkedIn.md",
     "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
     "Creación de un servidor Discord (IDRA-Discord).md",
+    "PublicBrain/Roles y permisos (IDRA-Discord).md",
+    "PublicBrain/Funcionalidades principales (IDRA-Discord).md",
+    "PublicBrain/Creación de un servidor Discord (IDRA-Discord).md",
     "Roles y permisos (IDRA-Discord).md",
     "PublicBrain/¿Qué es Discord? (IDRA-Discord).md",
     "Funcionalidades principales (IDRA-Discord).md",
@@ -182,14 +202,6 @@
     "PublicBrain/Descripción de lugares turísticos y monumentos (A1-CA).md",
     "PublicBrain/Definición de programación y conceptos fundamentales.md",
     "PublicBrain/Descripción de objetos y lugares (A1-EN).md",
-    "PublicBrain/Definición de altas capacidades.md",
-    "PublicBrain/Desarrollo de las piezas en ajedrez.md",
-    "PublicBrain/Definición y objetivos de la lectura fácil.md",
-    "PublicBrain/Definición y concepto de accesibilidad.md",
-    "PublicBrain/Declaración de variables y asignación en Lenguaje C.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/A1-NO.md",
-    "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",

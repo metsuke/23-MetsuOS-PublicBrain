@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.552Z
-modified: 2024-04-14T14:29:04.039Z
+modified: 2024-04-21T19:18:16.211Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 64
+ver_rev: 65
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,6 +36,7 @@ tags:
 * [[Interacción Digital Remota mediante API con Github]]
 * [[Interacción Digital Remota mediante API con Google]]
 * [[Interacción Digital Remota mediante API con Instagram]]
+* [[Interacción Digital Remota meduante API con LinkedIn]]
 * [[Interacción Digital Remota mediante API con Mercado Libre]]
 * [[Interacción Digital Remota mediante API con Microsoft]]
 * [[Intearacción Digital Remota mediante API con TodoColección]]

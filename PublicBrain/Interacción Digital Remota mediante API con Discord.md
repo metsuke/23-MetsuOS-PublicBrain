@@ -21,8 +21,8 @@ tags: []
 [[Aprender sobre Interacción Digital Remota mediante API]]
 
 ## Fundamentos de Discord
-- [[¿Qué es Discord?]]
-- Funcionalidades principales
+- [[¿Qué es Discord? (IDRA-Discord)]]
+- [[Funcionalidades principales (IDRA-Discord)]]
 - Roles y permisos
 - Creación de un servidor Discord
 

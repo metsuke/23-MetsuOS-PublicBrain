@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9dc18ade6a93e2d1",
+        "id": "111833ad1447290d",
         "type": "tabs",
         "children": [
           {
-            "id": "5de081ad8c632e24",
+            "id": "fabf9b615c4f62e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Francés.md",
+                "file": "PublicBrain/¿Qué es Discord? (IDRA-Discord).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Francés.md",
+                "file": "PublicBrain/¿Qué es Discord? (IDRA-Discord).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Francés.md",
+                "file": "PublicBrain/¿Qué es Discord? (IDRA-Discord).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender Idioma Francés.md"
+                "file": "PublicBrain/¿Qué es Discord? (IDRA-Discord).md"
               }
             }
           },
@@ -162,34 +162,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5de081ad8c632e24",
+  "active": "fabf9b615c4f62e7",
   "lastOpenFiles": [
-    "Niveles Oficiales FR.md",
-    "PublicBrain/Aprender Idioma Francés.md",
-    "Idioma Francés.md",
-    "Aprender Idioma Francés.md",
-    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
+    "Funcionalidades principales (IDRA-Discord).md",
+    "PublicBrain/Aprender más allá del orden del tiempo.md",
+    "PublicBrain/Aprender con Q-Z.md",
+    "PublicBrain/Aprender idioma Griego.md",
+    "PublicBrain/Diploma de Competencia en Lengua Catalana (DCLC).md",
+    "PublicBrain/Discografía de Mecano.md",
+    "PublicBrain/Direcciones y ubicaciones (N5-JP).md",
+    "PublicBrain/Descripción de objetos y lugares (N5-JP).md",
+    "PublicBrain/Diferencia entre \"です\" (desu) y \"デス\".md",
+    "PublicBrain/Dimensiones del talento excepcional.md",
+    "PublicBrain/Diferencia entre hardware y software.md",
+    "PublicBrain/Descripción de lugares turísticos y monumentos (A1-CA).md",
+    "PublicBrain/Definición de programación y conceptos fundamentales.md",
+    "PublicBrain/Descripción de objetos y lugares (A1-EN).md",
+    "PublicBrain/Definición de altas capacidades.md",
+    "PublicBrain/Desarrollo de las piezas en ajedrez.md",
+    "PublicBrain/Definición y objetivos de la lectura fácil.md",
+    "PublicBrain/Definición y concepto de accesibilidad.md",
+    "PublicBrain/Declaración de variables y asignación en Lenguaje C.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender con Javier G. Recuenco.md",
-    "PublicBrain/Vision del CPS de Javier G. Recuenco.md",
-    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
-    "PublicBrain/Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos..md",
-    "PublicBrain/Aprender con Pablo Grueso.md",
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
-    "Criterios de evaluación del curso (Estudio persamiento y filosofía de una persona).md",
-    "Recursos en línea y bases de datos filosóficas (Estudio persamiento y filosofía de una persona).md",
-    "Fuentes secundarias (libros, artículos, ensayos) - Estudio persamiento y filosofía de una persona.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "IA en la atención médica.md",
-    "PublicBrain/Robótica y Automatización.md",
-    "PublicBrain/IA en la atención médica.md",
-    "PublicBrain/Ética y Aspectos Sociales de la IA.md",
-    "Ética y Aspectos Sociales de la IA.md",
-    "Robótica y Automatización.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
-    "PublicBrain/Rol Gestión Empresarial.md",
-    "PublicBrain/Rol Comercial.md",
-    "PublicBrain/Rol Administración Negocios.md",
+    "PublicBrain/A1-NO.md",
+    "PublicBrain/GPT4All Testing - Generacion etiquetas SEO en base a texto en bruto.md",
+    "PublicBrain/GPT4All Testing.md",
+    "PublicBrain/13 - Generacion etiquetas SEO en base a texto en bruto.md",
+    "PublicBrain/Recursos en línea y bases de datos filosóficas (Estudio persamiento y filosofía de una persona).md",
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",

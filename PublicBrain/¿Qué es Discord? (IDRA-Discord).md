@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# ¿Qué es Discord?
+# ¿Qué es Discord? (IDRA-Discord)
 
 [[Interacción Digital Remota mediante API con Discord]]
 

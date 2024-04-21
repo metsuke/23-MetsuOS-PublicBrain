@@ -35,7 +35,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * ES [[Aprender Idioma Español]]
 * EU [[Aprender Idioma Euskera]]
 * FI [[Aprender Idioma Finlandes]]
-* FR [[Aprender Idioma Frances]]
+* FR [[PublicBrain/Aprender Idioma Francés]]
 * GA [[Aprender Idioma Gaélico Irlandés]]
 * GD [[Aprender Idioma Gaélico Escocés]]
 * GE  [[Aprender Idioma Aleman]]

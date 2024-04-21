@@ -18,7 +18,7 @@ tags: []
 ---
 # MOS Flascards FR (Flashcards MetsuOS)
 
-[[Aprender Idioma Frances]]
+[[PublicBrain/Aprender Idioma Francés]]
 
 1. Saludos y presentaciones
 2. Números y contar

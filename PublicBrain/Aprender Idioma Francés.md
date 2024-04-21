@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.424Z
-modified: 2024-04-18T11:19:33.866Z
+modified: 2024-04-21T10:29:05.240Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender Idioma Frances
+# Aprender Idioma Francés
 
 [[PublicBrain/Index#Aprender Idiomas]]
 
-* FR | Francés
+* FR | [[Idioma Francés]]
 	* Niveles Oficiales FR
 	* Niveles y Exámenes Adicionales FR
 	* [[MOS Dictionary FR (Diccionario MetsuOS)]]

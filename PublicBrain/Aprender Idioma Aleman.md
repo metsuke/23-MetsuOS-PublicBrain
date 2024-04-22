@@ -34,4 +34,5 @@ tags:
 		* [[Telc]]
 		* [[ÖSD (Österreichisches Sprachdiplom Deutsch)]]
 		* [[DSH (Deutsche Sprachprüfung für den Hochschulzugang)]]
+	* [[MOS Dictionary GE (Diccionario MetsuOS)]]
 	* [[MOS Flashcards GE (Flashcards MetsuOS)]]

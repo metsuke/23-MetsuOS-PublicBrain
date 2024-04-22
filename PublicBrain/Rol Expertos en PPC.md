@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T00:19:29.895Z
-modified: 2024-04-17T06:27:16.727Z
+modified: 2024-04-22T09:41:48.446Z
 supervisado: 2024-04-16T21:49:53.049Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Expertos en PPC
+# Rol Expertos en PPC
 
 * [[Estructurar una Microagencia de Marketing Digital]] 
 	* [[Departamento Marketing (Microagencia Marketing Digital)|Departamento Marketing]]

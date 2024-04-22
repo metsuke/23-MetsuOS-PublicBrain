@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.440Z
-modified: 2024-04-15T06:26:03.181Z
+modified: 2024-04-22T19:55:15.870Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender Idioma Ucraniano
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * UK | [[Ucraniano]] 
 	* [[Niveles Oficiales UK]]

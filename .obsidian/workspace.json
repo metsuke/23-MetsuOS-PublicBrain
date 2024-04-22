@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Hiragana.md",
+                "file": "PublicBrain/算.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Hiragana.md",
+                "file": "PublicBrain/算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Hiragana.md",
+                "file": "PublicBrain/算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Hiragana.md"
+                "file": "PublicBrain/算.md"
               }
             }
           },
@@ -176,10 +176,12 @@
   },
   "active": "fabf9b615c4f62e7",
   "lastOpenFiles": [
+    "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/算.md",
+    "PublicBrain/Hiragana.md",
     "PublicBrain/Rol Expertos en SEO.md",
     "PublicBrain/Expertos en PPC.md",
     "PublicBrain/か.md",
-    "PublicBrain/Hiragana.md",
     "PublicBrain/お.md",
     "PublicBrain/え.md",
     "PublicBrain/う.md",
@@ -200,8 +202,6 @@
     "Interacción Digital Remota mediante API con Pinterest.md",
     "PublicBrain/Objetivos del curso (IDRA-LinkedIn).md",
     "PublicBrain/Interacción Digital Remota meduante API con LinkedIn.md",
-    "Objetivos del curso (IDRA-LinkedIn).md",
-    "PublicBrain/Index.md",
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",

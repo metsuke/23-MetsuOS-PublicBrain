@@ -33,7 +33,7 @@ tags: []
 6. [[Números del 1 al 10 (ZH Flashcards)]]
 7. [[Números del 11 al 20 (ZH Flashcards)]]
 8. [[Números del 21 al 100 (ZH Flashcards)]]
-9. Números mayores a 100
+9. [[Números mayores a 100 (ZH Flashcards)]]
 10. Contando objetos y cantidades
 
 ## Colores y Descripciones

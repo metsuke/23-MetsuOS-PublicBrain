@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/弱.md",
+                "file": "PublicBrain/首.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/弱.md",
+                "file": "PublicBrain/首.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/弱.md",
+                "file": "PublicBrain/首.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/弱.md"
+                "file": "PublicBrain/首.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   "active": "fabf9b615c4f62e7",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/首.md",
     "PublicBrain/弱.md",
     "PublicBrain/社.md",
     "PublicBrain/室.md",
@@ -201,7 +202,6 @@
     "PublicBrain/う.md",
     "PublicBrain/い.md",
     "PublicBrain/あ.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",

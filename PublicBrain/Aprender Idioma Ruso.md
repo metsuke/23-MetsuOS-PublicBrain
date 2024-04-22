@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.436Z
-modified: 2024-04-14T14:29:04.065Z
+modified: 2024-04-22T19:46:30.224Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender Idioma Ruso
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * RU | [[Ruso]]
 	*  [[Niveles Oficiales RU]]
@@ -34,3 +34,6 @@ tags:
 		* [[Examen de Ruso como Lengua Extranjera (EGE)]]
 		* [[Examen de Certificación de la Universidad Estatal de Moscú (MSU)]]
 		* [[Examen de Certificación de la Universidad Estatal de San Petersburgo (SPbU)]]
+	* [[MOS Dictionary RU (Diccionario MetsuOS)]]
+	* [[MOS Flascards RU (Flashcards MetsuOS)]]
+

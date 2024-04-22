@@ -31,3 +31,5 @@ tags:
 		* Nivel Lingüista
 	* [[Niveles y Exámenes Adicionales UK]]
 		* Certificado estatal de dominio del Idioma Ucraniano.
+	* [[MOS Dictionary UK (Diccionario MetsuOS)]]
+	* [[MOS Flascards UK (Flashcards MetsuOS)]]

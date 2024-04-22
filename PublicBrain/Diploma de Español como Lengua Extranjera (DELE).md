@@ -1,26 +1,29 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.121Z
-modified: 2024-04-14T14:29:03.825Z
+modified: 2024-04-22T10:59:17.977Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Diploma de Español como Lengua Extranjera (DELE)
 
 [[Aprender Idioma Español]]
 
-## Nivel A1: Inicial
+## Nivel A1: "I"nicial
 
 1.1. Comunicación básica en situaciones cotidianas.
 1.2. Vocabulario y expresiones para la vida diaria.

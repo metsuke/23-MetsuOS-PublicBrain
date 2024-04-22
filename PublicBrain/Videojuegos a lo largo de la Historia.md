@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.916Z
-modified: 2024-04-14T14:29:03.207Z
+modified: 2024-04-22T18:02:24.735Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -31,6 +31,7 @@ tags: []
 * [[Beyond - Two Souls (Quantic Dream, 2013)]]
 * [[Bioshock (2K Games, 2007)]]
 * [[Borderlands (Gearbox Software, 2009)]]
+* [[Crash Bandicoot (Naughty Dogs, 1996)]]
 * [[Manic Miner (Mathew Smith, 1983)]]
 
 ## G-N

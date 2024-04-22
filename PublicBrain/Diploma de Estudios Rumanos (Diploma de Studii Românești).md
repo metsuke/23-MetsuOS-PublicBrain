@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.122Z
-modified: 2024-04-14T14:29:03.824Z
+modified: 2024-04-22T10:59:17.977Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Diploma de Estudios Rumanos (Diploma de Studii Românești)
 
@@ -62,7 +65,7 @@ tags: []
 - Estudio profundo de la cultura y las costumbres rumanas
 - Investigación y análisis cultural avanzado
 
-## Módulo 7: Investigación y Tesis
+## Módulo 7: "I"nvestigación y Tesis
 
 - Metodología de investigación académica
 - Planificación y desarrollo de tesis de investigación

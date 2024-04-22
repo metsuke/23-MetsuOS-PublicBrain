@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/お.md",
+                "file": "PublicBrain/Hiragana.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/お.md",
+                "file": "PublicBrain/Hiragana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/お.md",
+                "file": "PublicBrain/Hiragana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/お.md"
+                "file": "PublicBrain/Hiragana.md"
               }
             }
           },
@@ -176,7 +176,11 @@
   },
   "active": "fabf9b615c4f62e7",
   "lastOpenFiles": [
+    "PublicBrain/Rol Expertos en SEO.md",
+    "PublicBrain/Expertos en PPC.md",
+    "PublicBrain/か.md",
     "PublicBrain/Hiragana.md",
+    "PublicBrain/お.md",
     "PublicBrain/え.md",
     "PublicBrain/う.md",
     "PublicBrain/い.md",
@@ -198,10 +202,6 @@
     "PublicBrain/Interacción Digital Remota meduante API con LinkedIn.md",
     "Objetivos del curso (IDRA-LinkedIn).md",
     "PublicBrain/Index.md",
-    "Interacción Digital Remota meduante API con LinkedIn.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Discord.md",
-    "Creación de un servidor Discord (IDRA-Discord).md",
-    "PublicBrain/Roles y permisos (IDRA-Discord).md",
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",

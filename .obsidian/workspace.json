@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Hiragana.md",
+                "file": "PublicBrain/い.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Hiragana.md",
+                "file": "PublicBrain/い.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Hiragana.md",
+                "file": "PublicBrain/い.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Hiragana.md"
+                "file": "PublicBrain/い.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "fabf9b615c4f62e7",
   "lastOpenFiles": [
-    "PublicBrain/あ.md",
     "PublicBrain/Hiragana.md",
+    "PublicBrain/あ.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
     "Rol Expertos en SEO.md",

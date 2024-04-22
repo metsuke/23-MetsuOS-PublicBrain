@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.916Z
-modified: 2024-04-22T18:02:24.735Z
+modified: 2024-04-22T19:25:33.647Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -32,6 +32,7 @@ tags: []
 * [[Bioshock (2K Games, 2007)]]
 * [[Borderlands (Gearbox Software, 2009)]]
 * [[Crash Bandicoot (Naughty Dogs, 1996)]]
+* [[Final Fantasy VII (Square Enix, 1997)]]
 * [[Manic Miner (Mathew Smith, 1983)]]
 
 ## G-N

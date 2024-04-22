@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOS Dictionary EN (Diccionario MetsuOS).md",
+                "file": "PublicBrain/Aprender Idioma Inglés.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "PublicBrain/Aprender Idioma Inglés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "PublicBrain/Aprender Idioma Inglés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Promting Database.md"
+                "file": "PublicBrain/Aprender Idioma Inglés.md"
               }
             }
           },
@@ -175,10 +174,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d45ef68b2a980a90",
+  "active": "fabf9b615c4f62e7",
   "lastOpenFiles": [
-    "MOS Dictionary EN (Diccionario MetsuOS).md",
     "PublicBrain/Promting Database.md",
+    "PublicBrain/Números mayores a 100 (ZH Flashcards).md",
+    "PublicBrain/MOS Flascards UK (Flashcards MetsuOS).md",
+    "PublicBrain/MOS Flascards RU (Flashcards MetsuOS).md",
+    "PublicBrain/MOS Dictionary EN (Diccionario MetsuOS).md",
+    "MOS Dictionary EN (Diccionario MetsuOS).md",
     "PublicBrain/Aprender Idioma Inglés.md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Vietnamita.md",
@@ -199,10 +202,6 @@
     "Números del 11 al 20 (ZH Flashcards).md",
     "Final Fantasy VII (Square Enix, 1997).md",
     "PublicBrain/Videojuegos a lo largo de la Historia.md",
-    "PublicBrain/Crash Bandicoot (Naughty Dogs, 1996).md",
-    "Crash Bandicoot.md",
-    "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",

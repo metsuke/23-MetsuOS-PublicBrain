@@ -35,4 +35,5 @@ tags:
 		* [[PTE Academic (Pearson Test of English Academic)]]
 		* [[TOEIC (Test of English for International Communication)]]
 		* [[OET (Occupational English Test)]]
+	* [[MOS Dictionary EN (Diccionario MetsuOS)]]
 	* [[MOS FlashCards EN (Flashcards MetsuOS)]])

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/MOS Dictionary VI (Diccionario MetsuOS).md",
+                "file": "MOS Dictionary EN (Diccionario MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/MOS Dictionary VI (Diccionario MetsuOS).md",
+                "file": "PublicBrain/Promting Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/MOS Dictionary VI (Diccionario MetsuOS).md",
+                "file": "PublicBrain/Promting Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/MOS Dictionary VI (Diccionario MetsuOS).md"
+                "file": "PublicBrain/Promting Database.md"
               }
             }
           },
@@ -174,12 +175,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fabf9b615c4f62e7",
+  "active": "d45ef68b2a980a90",
   "lastOpenFiles": [
+    "MOS Dictionary EN (Diccionario MetsuOS).md",
     "PublicBrain/Promting Database.md",
-    "PublicBrain/MOS Dictionary VI (Diccionario MetsuOS).md",
-    "PublicBrain/Aprender Idioma Vietnamita.md",
+    "PublicBrain/Aprender Idioma Inglés.md",
     "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Vietnamita.md",
+    "PublicBrain/MOS Dictionary VI (Diccionario MetsuOS).md",
     "PublicBrain/Aprender Idioma Ucraniano.md",
     "PublicBrain/Index.md",
     "MOS Flascards UK (Flashcards MetsuOS).md",
@@ -200,8 +203,6 @@
     "Crash Bandicoot.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "PublicBrain/Aprender sobre Buenas Prácticas y Código Limpio en Programación.md",
-    "PublicBrain/Aprender sobre Bases de Datos.md",
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",

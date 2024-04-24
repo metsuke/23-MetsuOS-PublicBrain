@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/走.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/走.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/走.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md"
+                "file": "PublicBrain/走.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
-    "PublicBrain/組.md",
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/走.md",
+    "PublicBrain/組.md",
     "PublicBrain/Index.md",
     "PublicBrain/Sobre la polémica idea de que Latinoamerica no debe usarse por ser inventado por un Frances.md",
     "PublicBrain/Arrojando Luz sobre Polémicas Linguísticas.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Entornos de desarrollo (IDEs) para IA.md",
     "PublicBrain/Entornos Virtuales con Python.md",
     "PublicBrain/Enfoques teóricos relevantes en Altas Capacidades.md",
-    "PublicBrain/Entorno de Desarrollo Plugins World of Warcraft.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "鳥.md",
+                "file": "PublicBrain/店.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鳥.md",
+                "file": "PublicBrain/店.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鳥.md",
+                "file": "PublicBrain/店.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鳥.md"
+                "file": "PublicBrain/店.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/店.md",
     "鳥.md",
     "PublicBrain/朝.md",
     "昼.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Rol Expertos en PPC.md",
     "PublicBrain/Rol Experto en EMail Marketing.md",
-    "PublicBrain/Rol Experto en Embudos de Venta.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/知.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/知.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/知.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/知.md"
+                "file": "PublicBrain/Kanji - Grado 2.md"
               }
             }
           },
@@ -164,7 +164,10 @@
   },
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
+    "昼.md",
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/長.md",
+    "茶.md",
     "PublicBrain/知.md",
     "PublicBrain/池.md",
     "PublicBrain/地.md",
@@ -187,9 +190,6 @@
     "PublicBrain/Rol Experto en Embudos de Venta.md",
     "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
     "PublicBrain/Rol Project Manager.md",
-    "PublicBrain/Rol Administración Negocios.md",
-    "PublicBrain/Rol Account Manager.md",
-    "PublicBrain/Rol Comercial.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

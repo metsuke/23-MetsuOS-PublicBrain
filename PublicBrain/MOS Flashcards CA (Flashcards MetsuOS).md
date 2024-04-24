@@ -37,8 +37,8 @@ tags: []
 8. [[Estaciones del año (CA Flashcards)]]
 
 ## Familia y Relaciones
-9. Miembros de la familia
-10. Relaciones familiares
+9. [[Miembros de la familia (CA Flashcards)]]
+10. [[Relaciones familiares (CA Flashcards)]]
 11. Expresiones de afecto
 
 ## Partes del Cuerpo y Salud

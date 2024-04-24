@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/電.md",
+                "file": "PublicBrain/刀.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/電.md",
+                "file": "PublicBrain/刀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/電.md",
+                "file": "PublicBrain/刀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/電.md"
+                "file": "PublicBrain/刀.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/刀.md",
     "PublicBrain/電.md",
     "弟.md",
     "通.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Sobre la polémica idea de que Latinoamerica no debe usarse por ser inventado por un Frances.md",
     "PublicBrain/Arrojando Luz sobre Polémicas Linguísticas.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Videojuegos a lo largo de la Historia.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

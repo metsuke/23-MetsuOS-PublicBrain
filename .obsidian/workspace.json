@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expresiones de afecto (CA Flashcards).md",
+                "file": "MOS Dictionary FR (Diccionario MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expresiones de afecto (CA Flashcards).md",
+                "file": "MOS Dictionary FR (Diccionario MetsuOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expresiones de afecto (CA Flashcards).md",
+                "file": "MOS Dictionary FR (Diccionario MetsuOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expresiones de afecto (CA Flashcards).md"
+                "file": "MOS Dictionary FR (Diccionario MetsuOS).md"
               }
             }
           },
@@ -164,6 +164,11 @@
   },
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Idioma Francés.md",
+    "MOS Dictionary FR (Diccionario MetsuOS).md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
     "Expresiones de afecto (CA Flashcards).md",
     "Relaciones familiares (CA Flashcards).md",
@@ -185,11 +190,6 @@
     "PublicBrain/Estados Unidos.md",
     "PublicBrain/Estadísticas sobre Idiomas.md",
     "PublicBrain/Esperanto.md",
-    "PublicBrain/Español.md",
-    "PublicBrain/Escritura y pronunciación (Basico-HI).md",
-    "PublicBrain/Entrenamiento de redes neuronales.md",
-    "PublicBrain/鳥.md",
-    "PublicBrain/通.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
+                "file": "Relaciones familiares (CA Flashcards).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
+                "file": "Relaciones familiares (CA Flashcards).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
+                "file": "Relaciones familiares (CA Flashcards).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md"
+                "file": "Relaciones familiares (CA Flashcards).md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
-    "Miembros de la familia (CA Flashcards).md",
     "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
+    "Relaciones familiares (CA Flashcards).md",
+    "Miembros de la familia (CA Flashcards).md",
     "PublicBrain/Algoritmos en Javascript.md",
     "PublicBrain/Aprender sobre Linux - Apuntes sin ordenar.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
@@ -189,7 +190,6 @@
     "PublicBrain/鳥.md",
     "PublicBrain/通.md",
     "PublicBrain/茶.md",
-    "PublicBrain/直.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

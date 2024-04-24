@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "111833ad1447290d",
+        "id": "1681ae1fcd7fa1ce",
         "type": "tabs",
         "children": [
           {
-            "id": "fabf9b615c4f62e7",
+            "id": "da2620aa16ceb940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Rol Expertos en SEO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d45ef68b2a980a90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/前.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "crash bandi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/前.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/前.md",
+                "file": "PublicBrain/Kanji - Grado 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/前.md"
+                "file": "PublicBrain/Kanji - Grado 2.md"
               }
             }
           },
@@ -175,39 +162,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d45ef68b2a980a90",
+  "active": "da2620aa16ceb940",
   "lastOpenFiles": [
+    "PublicBrain/組.md",
     "PublicBrain/Kanji - Grado 2.md",
-    "PublicBrain/前.md",
-    "PublicBrain/線.md",
-    "PublicBrain/船.md",
-    "PublicBrain/雪.md",
-    "PublicBrain/切.md",
-    "PublicBrain/晴.md",
-    "PublicBrain/星.md",
-    "PublicBrain/声.md",
-    "PublicBrain/西.md",
-    "PublicBrain/数.md",
-    "PublicBrain/図.md",
-    "PublicBrain/親.md",
-    "PublicBrain/新.md",
-    "PublicBrain/心.md",
-    "PublicBrain/食.md",
-    "PublicBrain/色.md",
-    "PublicBrain/場.md",
-    "PublicBrain/少.md",
-    "PublicBrain/Promting Database.md",
-    "PublicBrain/_templates",
-    "PublicBrain/MOS_Templates/Platzi_Referal.md",
-    "PublicBrain/MOS_Templates",
-    "MOS_Templates/Platzi_Referal.md",
-    "MOS_Templates",
-    "carpeta sin título",
+    "PublicBrain/Index.md",
+    "PublicBrain/Sobre la polémica idea de que Latinoamerica no debe usarse por ser inventado por un Frances.md",
+    "PublicBrain/Arrojando Luz sobre Polémicas Linguísticas.md",
+    "PublicBrain/Aprender sobre Videojuegos.md",
+    "PublicBrain/Videojuegos a lo largo de la Historia.md",
+    "PublicBrain/Crash Bandicoot (Naughty Dogs, 1996).md",
     "PublicBrain/Rol Expertos en SEO.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
-    "_templates/Platzi_Referal.md",
-    "_templates",
+    "PublicBrain/Rol Expertos en PPC.md",
+    "PublicBrain/Rol Experto en EMail Marketing.md",
+    "PublicBrain/Rol Experto en Embudos de Venta.md",
     "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
+    "PublicBrain/Rol Project Manager.md",
+    "PublicBrain/Rol Administración Negocios.md",
+    "PublicBrain/Rol Account Manager.md",
+    "PublicBrain/Rol Comercial.md",
+    "PublicBrain/Rol Gestión Empresarial.md",
+    "PublicBrain/Aprender sobre Desarrollo.md",
+    "PublicBrain/Aprender sobre computación mecánica.md",
+    "PublicBrain/Aprender sobre ArduRAM.md",
+    "PublicBrain/Entornos de desarrollo (IDEs) para IA.md",
+    "PublicBrain/Entornos Virtuales con Python.md",
+    "PublicBrain/Enfoques teóricos relevantes en Altas Capacidades.md",
+    "PublicBrain/Entorno de Desarrollo Plugins World of Warcraft.md",
+    "PublicBrain/_templates",
+    "PublicBrain/MOS_Templates",
+    "MOS_Templates",
+    "carpeta sin título",
+    "_templates",
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",

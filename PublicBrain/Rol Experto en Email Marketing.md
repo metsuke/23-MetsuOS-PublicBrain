@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T23:24:01.149Z
-modified: 2024-04-17T06:27:16.505Z
+modified: 2024-04-23T22:35:44.221Z
 supervisado: 2024-04-16T21:49:52.999Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -80,6 +80,4 @@ tags:
 * [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
 
-## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
-
-Si te interesan los cursos que recomiendo y quieres suscribirte, hazlo a través de [mi enlace de referidos en Platzi](https://platzi.com/r/metsuke) y conseguirás un mes gratis en tu suscripción (y a la vez me regalarás otro a mi sin coste adicional ¡gracias!).
+{{MOS::Templates::Platzi_Referal}}

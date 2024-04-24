@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-04-22T09:44:38.228Z
+modified: 2024-04-23T22:32:50.114Z
 supervisado: 2024-04-14T14:29:03.798Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 103
+ver_rev: 104
 nav_primary: 
 nav_secondary: 
 tags:
@@ -80,10 +80,7 @@ graph TD
 ```
 
 
-## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
-
-Si te interesan los cursos que recomiendo y quieres suscribirte, hazlo a través de [mi enlace de referidos en Platzi](https://platzi.com/r/metsuke) y conseguirás un mes gratis en tu suscripción (y a la vez me regalarás otro a mi sin coste adicional ¡gracias!).
-
+{{MOS::Templates::Platzi_Referal}}
 
 ## Log
 

@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.653Z
-modified: 2024-04-21T10:00:27.402Z
+modified: 2024-04-23T22:33:46.724Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -84,6 +84,4 @@ Este rol se encarga de la gestión de recursos
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
 * [Escuela de Startups](https://platzi.com/escuela/startups/)
 
-## ¡Consigue un mes extra gratis en tu suscripcion a Platzi!
-
-Si te interesan los cursos que recomiendo y quieres suscribirte, hazlo a través de [mi enlace de referidos en Platzi](https://platzi.com/r/metsuke) y conseguirás un mes gratis en tu suscripción (y a la vez me regalarás otro a mi sin coste adicional ¡gracias!).
+{{MOS::Templates::Platzi_Referal}}

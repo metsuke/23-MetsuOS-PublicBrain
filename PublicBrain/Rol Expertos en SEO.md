@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-22T09:42:44.266Z
-modified: 2024-04-23T09:32:38.928Z
+modified: 2024-04-23T22:37:00.489Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -74,5 +74,5 @@ tags: []
 
 Si te interesan los cursos que recomiendo y quieres suscribirte, hazlo a través de [mi enlace de referidos en Platzi](https://platzi.com/r/metsuke) y conseguirás un mes gratis en tu suscripción (y a la vez me regalarás otro a mi sin coste adicional ¡gracias!).
 
-{{{[MOS::Templates::Platzi_Referal}}
+{{MOS::Templates::Platzi_Referal}}
 

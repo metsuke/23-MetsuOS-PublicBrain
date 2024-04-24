@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: ""
 a11y: 0
@@ -9,19 +9,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.694Z
-modified: 2024-04-14T14:29:03.245Z
+modified: 2024-04-24T19:00:53.420Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 49
+ver_rev: 50
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Sobre la polémica idea de que Latinoamerica no debe usarse por ser inventado por un Frances
 
-[[Arrojando Luz sobre Polémicas Linguísticas]]
+* [[Arrojando Luz sobre Polémicas Linguísticas]]
+	* [Que decir Latinoamética ❌ Hispanoamértica o Abya Yala ✅ en Linguriosa](https://youtu.be/8JKDxCPZOSU?si=LRpCy172-Cr7u-Tm)
 
 El concepto de "Latinoamérica" como una región que abarca los países de habla hispana y portuguesa en América del Sur, América Central, México y el Caribe de habla hispana es en parte un término geográfico y cultural, y en parte un constructo histórico y político. 
 

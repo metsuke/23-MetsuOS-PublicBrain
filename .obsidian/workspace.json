@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/走.md",
+                "file": "PublicBrain/多.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/走.md",
+                "file": "PublicBrain/多.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/走.md",
+                "file": "PublicBrain/多.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/走.md"
+                "file": "PublicBrain/多.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/多.md",
     "PublicBrain/走.md",
     "PublicBrain/組.md",
     "PublicBrain/Index.md",
@@ -189,7 +190,6 @@
     "PublicBrain/Aprender sobre ArduRAM.md",
     "PublicBrain/Entornos de desarrollo (IDEs) para IA.md",
     "PublicBrain/Entornos Virtuales con Python.md",
-    "PublicBrain/Enfoques teóricos relevantes en Altas Capacidades.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/読.md",
+                "file": "PublicBrain/歩.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/読.md",
+                "file": "PublicBrain/歩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/読.md",
+                "file": "PublicBrain/歩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/読.md"
+                "file": "PublicBrain/歩.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
     "PublicBrain/読.md",
+    "PublicBrain/歩.md",
     "PublicBrain/道.md",
     "PublicBrain/同.md",
     "PublicBrain/頭.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Aprender sobre Linux - Apuntes sin ordenar.md",
     "PublicBrain/Aprender sobre Computar con Canicas.md",
     "PublicBrain/Aprender sobre Economía y Finanzas.md",
-    "PublicBrain/Examen de Capacitación Lingüística (ECL).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

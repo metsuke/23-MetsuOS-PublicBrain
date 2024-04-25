@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/飲.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/飲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md",
+                "file": "PublicBrain/飲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 2.md"
+                "file": "PublicBrain/飲.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
-    "PublicBrain/院.md",
     "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/飲.md",
     "PublicBrain/Kanji - Grado 2.md",
+    "飲.md",
+    "PublicBrain/院.md",
     "PublicBrain/員.md",
     "PublicBrain/育.md",
     "PublicBrain/意.md",
@@ -189,8 +191,6 @@
     "PublicBrain/Aprender Idioma Francés.md",
     "MOS Dictionary FR (Diccionario MetsuOS).md",
     "PublicBrain/Relaciones familiares (CA Flashcards).md",
-    "PublicBrain/Miembros de la familia (CA Flashcards).md",
-    "PublicBrain/MOS Dictionary FR (Diccionario MetsuOS).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

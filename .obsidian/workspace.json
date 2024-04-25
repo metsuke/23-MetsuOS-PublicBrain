@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/同.md",
+                "file": "PublicBrain/道.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/同.md",
+                "file": "PublicBrain/道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/同.md",
+                "file": "PublicBrain/道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/同.md"
+                "file": "PublicBrain/道.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/道.md",
     "PublicBrain/同.md",
     "PublicBrain/頭.md",
     "PublicBrain/答.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Aprender sobre Economía y Finanzas.md",
     "PublicBrain/Examen de Capacitación Lingüística (ECL).md",
     "PublicBrain/Evitar jergas y tecnicismos.md",
-    "PublicBrain/Examen de Certificación de la Universidad Estatal de San Petersburgo (SPbU).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

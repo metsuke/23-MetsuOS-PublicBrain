@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOS Dictionary FR (Diccionario MetsuOS).md",
+                "file": "PublicBrain/東.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOS Dictionary FR (Diccionario MetsuOS).md",
+                "file": "PublicBrain/東.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOS Dictionary FR (Diccionario MetsuOS).md",
+                "file": "PublicBrain/東.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOS Dictionary FR (Diccionario MetsuOS).md"
+                "file": "PublicBrain/東.md"
               }
             }
           },
@@ -151,7 +151,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,13 +158,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
+    "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/東.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Aprender Idioma Francés.md",
     "MOS Dictionary FR (Diccionario MetsuOS).md",
+    "PublicBrain/Relaciones familiares (CA Flashcards).md",
+    "PublicBrain/Miembros de la familia (CA Flashcards).md",
+    "PublicBrain/MOS Dictionary FR (Diccionario MetsuOS).md",
+    "PublicBrain/Expresiones de afecto (CA Flashcards).md",
     "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender Idioma Catalán.md",
@@ -183,13 +191,6 @@
     "PublicBrain/Evaluación final del nivel A1 de catalán (A1-CA).md",
     "PublicBrain/Ethernet y tecnologías de cableado.md",
     "PublicBrain/Euskera.md",
-    "PublicBrain/Estructuras de oraciones simples en japonés (N5-JP).md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
-    "PublicBrain/Estructura básica de un programa C.md",
-    "PublicBrain/Estructura y Organización (Lectura Facil).md",
-    "PublicBrain/Estados Unidos.md",
-    "PublicBrain/Estadísticas sobre Idiomas.md",
-    "PublicBrain/Esperanto.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/安.md",
+                "file": "PublicBrain/暗.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/安.md",
+                "file": "PublicBrain/暗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/安.md",
+                "file": "PublicBrain/暗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/安.md"
+                "file": "PublicBrain/暗.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 3.md",
-    "PublicBrain/安.md",
     "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/暗.md",
+    "PublicBrain/安.md",
     "安.md",
     "PublicBrain/悪.md",
     "PublicBrain/里.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Aprender Idioma Catalán.md",
     "PublicBrain/MOS Flashcards CA (Flashcards MetsuOS).md",
     "Expresiones de afecto (CA Flashcards).md",
-    "Relaciones familiares (CA Flashcards).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

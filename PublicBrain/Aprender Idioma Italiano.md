@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Italiano
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
   
 * IT | [[Italiano]]
 	* [[Niveles Oficiales IT]]

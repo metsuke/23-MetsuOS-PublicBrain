@@ -51,6 +51,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * NL [[Aprender Idioma Neerlandés]]
 * NO [[Aprender Idioma Noruego]]
 * PL [[Aprender Idioma Polaco]]
+* PT [[Aprender Idioma Portugués]]
 * RO [[Aprender Idioma Rumano]]
 * RU [[Aprender Idioma Ruso]]
 * SV [[Aprender Idioma Sueco]]

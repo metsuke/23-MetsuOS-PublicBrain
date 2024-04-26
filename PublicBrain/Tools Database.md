@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.813Z
-modified: 2024-04-14T14:29:03.227Z
+modified: 2024-04-25T19:22:04.958Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 52
+ver_rev: 53
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,4 +27,5 @@ tags:
 * [ChatGPT](https://chat.openai.com/)
 * [GPT4All](https://gpt4all.io/index.html)
 * [OpenAI](https://openai.com/)
+* [VideoGames Music](http://vgmusic.com)
 * [Whatsapp Web](https://web.whatsapp.com/)

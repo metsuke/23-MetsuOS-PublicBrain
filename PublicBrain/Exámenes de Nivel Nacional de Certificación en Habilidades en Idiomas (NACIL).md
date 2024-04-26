@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.329Z
-modified: 2024-04-14T14:29:03.785Z
+modified: 2024-04-25T10:42:26.154Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Exámenes de Nivel Nacional de Certificación en Habilidades en Idiomas (NACIL)
 
@@ -24,7 +27,7 @@ tags: []
 - Conocimiento sólido de Hindi
 - Familiaridad con la estructura de los Exámenes NACIL y sus niveles
 
-## Módulo 1: Introducción a los Exámenes NACIL
+## Módulo 1: "I"ntroducción a los Exámenes NACIL
 - Visión general de los Exámenes NACIL
 - Estructura y niveles de los exámenes
 - Criterios de evaluación y puntuación

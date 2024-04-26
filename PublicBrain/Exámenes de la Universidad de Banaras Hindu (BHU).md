@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.330Z
-modified: 2024-04-14T14:29:03.785Z
+modified: 2024-04-25T10:42:26.154Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Exámenes de la Universidad de Banaras Hindu (BHU)
 
@@ -24,7 +27,7 @@ tags: []
 - Conocimiento sólido de Hindi
 - Familiaridad con la estructura de los exámenes de la Universidad de BHU
 
-## Módulo 1: Introducción a los Exámenes de la Universidad de BHU
+## Módulo 1: "I"ntroducción a los Exámenes de la Universidad de BHU
 - Visión general de los exámenes de la Universidad de BHU
 - Estructura y formatos de exámenes
 - Criterios de evaluación y puntuación

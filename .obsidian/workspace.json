@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Números mayores a 100 (AR Flashcards).md",
+                "file": "MOS Dictionary IT (Diccionario MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Números mayores a 100 (AR Flashcards).md",
+                "file": "MOS Dictionary IT (Diccionario MetsuOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Números mayores a 100 (AR Flashcards).md",
+                "file": "MOS Dictionary IT (Diccionario MetsuOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Números mayores a 100 (AR Flashcards).md"
+                "file": "MOS Dictionary IT (Diccionario MetsuOS).md"
               }
             }
           },
@@ -165,6 +165,10 @@
   },
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Idioma Italiano.md",
+    "MOS Dictionary IT (Diccionario MetsuOS).md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/MOS FlashCards AR (Flashcards MetsuOS).md",
     "Números mayores a 100 (AR Flashcards).md",
     "PublicBrain/Números del 21 al 100 (AR Flashcards).md",
@@ -187,10 +191,6 @@
     "PublicBrain/FFMPEG - Convertir Mov a Mp4.md",
     "PublicBrain/FFMPEG - Convertir M4v a Mp4.md",
     "PublicBrain/FFMPEG - Convertir Flac a Mp3.md",
-    "PublicBrain/FFMPEG - Convertir Flv a Mp4.md",
-    "PublicBrain/FFMPEG - Convertir DVD a Mp4.md",
-    "PublicBrain/FFMPEG - Convertir Aiff a Mp3.md",
-    "PublicBrain/FFMPEG - Convertir Blueray a Mp4.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

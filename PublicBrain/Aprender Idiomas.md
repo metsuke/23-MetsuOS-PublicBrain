@@ -64,6 +64,10 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * VI [[Aprender Idioma Vietnamita]]
 * ZH [[Aprender Idioma Chino]]
 
+## Idiomas de Ficción
+
+* [[Aprender idioma Alto Valirio]]
+
  * [[Estadísticas sobre Idiomas]]
  * [Sistemas de escritura del mundo](https://www.worldswritingsystems.org/)
  * [[Textos Religiosos y sus Idiomas de Origen]]

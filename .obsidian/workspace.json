@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/MOS Flascards HU (Flashcards MetsuOS).md",
+                "file": "MOS Flascards Alto Valirio (Flashcards MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/MOS Flascards HU (Flashcards MetsuOS).md",
+                "file": "MOS Flascards Alto Valirio (Flashcards MetsuOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/MOS Flascards HU (Flashcards MetsuOS).md",
+                "file": "MOS Flascards Alto Valirio (Flashcards MetsuOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/MOS Flascards HU (Flashcards MetsuOS).md"
+                "file": "MOS Flascards Alto Valirio (Flashcards MetsuOS).md"
               }
             }
           },
@@ -165,12 +165,14 @@
   },
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
-    "PublicBrain/Aprender idioma Húngaro.md",
+    "Aprender idioma Alto Valirio.md",
+    "MOS Flascards Alto Valirio (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/Aprender idioma Húngaro.md",
+    "PublicBrain/MOS Flascards HU (Flashcards MetsuOS).md",
     "PublicBrain/Index.md",
     "Aprender idioma Húngaro.md",
     "PublicBrain/MOS Flascards PL (Flashcards MetsuOS).md",
-    "PublicBrain/MOS Flascards HU (Flashcards MetsuOS).md",
     "PublicBrain/MOS Flascards HAW (Flashcards MetsuOS).md",
     "PublicBrain/MOS Flascards FI (Flashcards MetsuOS).md",
     "PublicBrain/MOS Flascards EO (Flashcards MetsuOS).md",
@@ -189,8 +191,6 @@
     "MOS Flascards CS (Flashcards MetsuOS).md",
     "PublicBrain/MOS Flascards KO (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Rumano.md",
-    "PublicBrain/MOS Flascards RO (Flashcards MetsuOS).md",
-    "MOS Flascards RO (Flashcards MetsuOS).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.422Z
-modified: 2024-04-14T14:29:04.068Z
+modified: 2024-04-26T19:20:51.496Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,3 +30,5 @@ tags:
 		* [[C1-EO]] | [[C2-EO]]
 	* [[Niveles y Exámenes Adicionales EO]]
 		* Exámen Universala Esperanto-Asocio (UEA)
+* [[MOS Dictionary EO (Diccionario MetsuOS)]]
+* [[MOS Flascards EO (Flashcards MetsuOS)]]

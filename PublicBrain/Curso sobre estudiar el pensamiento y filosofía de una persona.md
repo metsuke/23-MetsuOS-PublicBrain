@@ -75,6 +75,6 @@ tags:
    
 ## X. Conclusiones
    - A. [[Recapitulación de los objetivos de aprendizaje (Estudio persamiento y filosofía de una persona)]]
-   - B. Reflexión sobre la investigación realizada
+   - B. [[Reflexión sobre la investigación realizada (Estudio persamiento y filosofía de una persona)]]
    - C. Implicaciones y aplicaciones futuras del estudio filosófico
 

@@ -71,7 +71,7 @@ tags:
 ## IX. Evaluación
    - A. [[Criterios de evaluación del curso (Estudio persamiento y filosofía de una persona)]]
    - B. [[Trabajos y proyectos asignados (Estudio persamiento y filosofía de una persona)]]
-   - C. Exámenes y pruebas de conocimiento
+   - C. [[Exámenes y pruebas de conocimiento (Estudio persamiento y filosofía de una persona)]]
    
 ## X. Conclusiones
    - A. Recapitulación de los objetivos de aprendizaje

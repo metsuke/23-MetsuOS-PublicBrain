@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Finlandes
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * FI | Finlandes
 	* Niveles Oficiales FI

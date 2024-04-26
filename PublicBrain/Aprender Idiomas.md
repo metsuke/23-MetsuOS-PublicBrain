@@ -40,7 +40,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * GD [[Aprender Idioma Gaélico Escocés]]
 * GE  [[Aprender Idioma Aleman]]
 * GL [[Aprender Idioma Gallego]]
-* HAW Aprender Idioma Hawaiano
+* HAW [[Aprender Idioma Hawaiano]]
 * HE [[Aprender Idioma Hebreo]]
 * HI [[Aprender Idioma Hindi]]
 * ID [[Aprender Idioma Indonesio]]

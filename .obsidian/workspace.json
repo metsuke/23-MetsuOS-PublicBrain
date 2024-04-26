@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOS Flascards FI (Flashcards MetsuOS).md",
+                "file": "MOS Flascards HAW (Flashcards MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOS Flascards FI (Flashcards MetsuOS).md",
+                "file": "MOS Flascards HAW (Flashcards MetsuOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOS Flascards FI (Flashcards MetsuOS).md",
+                "file": "MOS Flascards HAW (Flashcards MetsuOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOS Flascards FI (Flashcards MetsuOS).md"
+                "file": "MOS Flascards HAW (Flashcards MetsuOS).md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
+    "Aprender Idioma Hawaiano.md",
+    "MOS Flascards HAW (Flashcards MetsuOS).md",
+    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Finlandes.md",
     "MOS Flascards FI (Flashcards MetsuOS).md",
-    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender Idioma Esperanto.md",
     "MOS Flascards EO (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Polaco.md",
@@ -189,8 +191,6 @@
     "MOS Dictionary IT (Diccionario MetsuOS).md",
     "PublicBrain/Aprender Idioma Árabe.md",
     "PublicBrain/MOS FlashCards AR (Flashcards MetsuOS).md",
-    "Números mayores a 100 (AR Flashcards).md",
-    "PublicBrain/Números del 21 al 100 (AR Flashcards).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

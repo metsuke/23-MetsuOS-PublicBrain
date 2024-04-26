@@ -49,6 +49,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * JP [[Aprender Idioma Japones]]
 * KO [[Aprender Idioma Coreano]]
 * LA [[Aprender Idioma Latín]]
+* NAV [[Aprender idioma Navajo]]
 * NL [[Aprender Idioma Neerlandés]]
 * NO [[Aprender Idioma Noruego]]
 * PL [[Aprender Idioma Polaco]]

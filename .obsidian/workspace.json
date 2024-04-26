@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOS Flascards Alto Valirio (Flashcards MetsuOS).md",
+                "file": "MOS Flascards NAV (Flashcards MetsuOS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOS Flascards Alto Valirio (Flashcards MetsuOS).md",
+                "file": "MOS Flascards NAV (Flashcards MetsuOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOS Flascards Alto Valirio (Flashcards MetsuOS).md",
+                "file": "MOS Flascards NAV (Flashcards MetsuOS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOS Flascards Alto Valirio (Flashcards MetsuOS).md"
+                "file": "MOS Flascards NAV (Flashcards MetsuOS).md"
               }
             }
           },
@@ -165,9 +165,12 @@
   },
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
+    "Aprender idioma Navajo.md",
+    "MOS Flascards NAV (Flashcards MetsuOS).md",
+    "PublicBrain/Aprender Idiomas.md",
+    "PublicBrain/MOS Flascards KO (Flashcards MetsuOS).md",
     "Aprender idioma Alto Valirio.md",
     "MOS Flascards Alto Valirio (Flashcards MetsuOS).md",
-    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/Aprender idioma Húngaro.md",
     "PublicBrain/MOS Flascards HU (Flashcards MetsuOS).md",
     "PublicBrain/Index.md",
@@ -188,9 +191,6 @@
     "PublicBrain/Aprender Idioma Polaco.md",
     "MOS Flascards PL (Flashcards MetsuOS).md",
     "PublicBrain/Aprender Idioma Checo.md",
-    "MOS Flascards CS (Flashcards MetsuOS).md",
-    "PublicBrain/MOS Flascards KO (Flashcards MetsuOS).md",
-    "PublicBrain/Aprender Idioma Rumano.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

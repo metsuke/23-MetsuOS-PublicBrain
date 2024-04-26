@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Rumano
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * RO | [[Rumano]] 
 	* [[Niveles Oficiales RO]]

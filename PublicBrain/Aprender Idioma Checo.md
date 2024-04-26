@@ -29,3 +29,5 @@ tags:
 		* [[B1-CS]] | [[B2-CS]]
 		* [[C1-CS]] | [[C2-CS]]
 	* Niveles y Exámenes Adicionales CS
+* [[MOS Dictionary CS (Diccionario MetsuOS)]]
+* [[MOS Flascards CS (Flashcards MetsuOS)]]

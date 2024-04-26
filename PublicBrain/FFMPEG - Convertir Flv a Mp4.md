@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.344Z
-modified: 2024-04-14T14:29:03.783Z
+modified: 2024-04-26T17:24:30.633Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # FFMPEG - Convertir Flv a Mp4
 
@@ -41,7 +44,7 @@ ffmpeg -i archivo.flv -c:v libx264 -c:a aac archivo.mp4
     Explicación de los parámetros:
     
     - `-i archivo.flv`: Especifica el archivo de entrada FLV.
-    - `-c:v libx264`: Indica el códec de video a utilizar para la salida, en este caso, H.264 (libx264).
+    - `-c:v libx264`: "I"ndica el códec de video a utilizar para la salida, en este caso, H.264 (libx264).
     - `-c:a aac`: Indica el códec de audio a utilizar para la salida, en este caso, AAC.
     - `archivo.mp4`: Nombre del archivo de salida MP4.
 5. **Espera a que termine la conversión:** FFmpeg comenzará a convertir el archivo FLV a MP4. El tiempo de conversión dependerá del tamaño del archivo y de la potencia de tu sistema.

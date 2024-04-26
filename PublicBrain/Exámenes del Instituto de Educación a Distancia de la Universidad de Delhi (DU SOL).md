@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.336Z
-modified: 2024-04-14T14:29:03.784Z
+modified: 2024-04-26T14:26:10.626Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Exámenes del Instituto de Educación a Distancia de la Universidad de Delhi (DU SOL)
 
@@ -24,7 +27,7 @@ tags: []
 - Conocimiento sólido de Hindi
 - Familiaridad con la estructura de los exámenes del DU SOL
 
-## Módulo 1: Introducción a los Exámenes del DU SOL
+## Módulo 1: "I"ntroducción a los Exámenes del DU SOL
 - Visión general de los exámenes del DU SOL
 - Estructura y formatos de exámenes
 - Criterios de evaluación y puntuación

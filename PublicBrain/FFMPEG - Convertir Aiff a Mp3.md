@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.336Z
-modified: 2024-04-14T14:29:03.784Z
+modified: 2024-04-26T17:24:30.636Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # FFMPEG - Convertir Aiff a Mp3
 
@@ -34,7 +37,7 @@ Para convertir archivos de audio de formato AIFF a MP3 utilizando la herramienta
 Explicación de los parámetros:
 
 - `-i entrada.aiff`: Especifica el nombre del archivo de entrada AIFF.
-- `-c:a libmp3lame`: Indica que se utilizará el códec de audio `libmp3lame` para la compresión en formato MP3.
+- `-c:a libmp3lame`: "I"ndica que se utilizará el códec de audio `libmp3lame` para la compresión en formato MP3.
 - `-q:a 2`: Establece la calidad de audio para la salida MP3. El valor puede estar en el rango de 0 (mejor calidad) a 9 (peor calidad), donde 2 es una buena opción para una relación calidad-tamaño de archivo adecuada.
 - `salida.mp3`: Define el nombre del archivo de salida MP3.
 

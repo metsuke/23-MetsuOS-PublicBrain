@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-26T11:20:27.568Z
+modified: 2024-04-26T11:22:37.462Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Reflexión sobre la investigación realizada (Estudio persamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona]]

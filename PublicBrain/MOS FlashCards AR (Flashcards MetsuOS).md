@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T11:17:00.091Z
-modified: 2024-04-14T14:29:03.376Z
+modified: 2024-04-26T18:23:25.463Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 6. [[Números del 1 al 10 (AR Flashcards)]]
 7. [[Números del 11 al 20 (AR Flashcards)]]
 8. [[Números del 21 al 100 (AR Flashcards)]]
-9. Números mayores a 100
+9. [[Números mayores a 100 (AR Flashcards)]]
 10. Contando objetos y cantidades
 
 ## Colores y Descripciones

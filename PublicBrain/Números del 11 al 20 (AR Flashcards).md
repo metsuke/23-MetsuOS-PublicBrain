@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-26T18:19:29.420Z
+modified: 2024-04-26T18:23:57.181Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Números del 11 al 20 (AR Flashcards)
 
 [[MOS FlashCards AR (Flashcards MetsuOS)]]

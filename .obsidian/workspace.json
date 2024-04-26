@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Números del 21 al 100 (AR Flashcards).md",
+                "file": "Números mayores a 100 (AR Flashcards).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Números del 21 al 100 (AR Flashcards).md",
+                "file": "Números mayores a 100 (AR Flashcards).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Números del 21 al 100 (AR Flashcards).md",
+                "file": "Números mayores a 100 (AR Flashcards).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Números del 21 al 100 (AR Flashcards).md"
+                "file": "Números mayores a 100 (AR Flashcards).md"
               }
             }
           },
@@ -166,8 +166,9 @@
   "active": "da2620aa16ceb940",
   "lastOpenFiles": [
     "PublicBrain/MOS FlashCards AR (Flashcards MetsuOS).md",
-    "Números del 21 al 100 (AR Flashcards).md",
+    "Números mayores a 100 (AR Flashcards).md",
     "PublicBrain/Números del 21 al 100 (AR Flashcards).md",
+    "Números del 21 al 100 (AR Flashcards).md",
     "PublicBrain/Números del 11 al 20 (AR Flashcards).md",
     "Números del 11 al 20 (AR Flashcards).md",
     "PublicBrain/Aprender sobre Hardware Libre.md",
@@ -190,7 +191,6 @@
     "PublicBrain/FFMPEG - Convertir DVD a Mp4.md",
     "PublicBrain/FFMPEG - Convertir Aiff a Mp3.md",
     "PublicBrain/FFMPEG - Convertir Blueray a Mp4.md",
-    "PublicBrain/Exámenes del Instituto de Educación a Distancia de la Universidad de Delhi (DU SOL).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

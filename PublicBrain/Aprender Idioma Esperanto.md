@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Esperanto
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * EO | [[Esperanto]]
 	* [[Niveles Oficiales EO]]

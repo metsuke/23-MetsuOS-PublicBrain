@@ -74,7 +74,7 @@ tags:
    - C. [[Exámenes y pruebas de conocimiento (Estudio persamiento y filosofía de una persona)]]
    
 ## X. Conclusiones
-   - A. Recapitulación de los objetivos de aprendizaje
+   - A. [[Recapitulación de los objetivos de aprendizaje (Estudio persamiento y filosofía de una persona)]]
    - B. Reflexión sobre la investigación realizada
    - C. Implicaciones y aplicaciones futuras del estudio filosófico
 

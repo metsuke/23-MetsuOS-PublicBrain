@@ -29,3 +29,5 @@ tags:
 		* [[B1-PL]] | [[B2-PL]]
 		* [[C1-PL]] | [[C2-PL]]
 	* Niveles y Exámenes Adicionales PL
+* [[MOS Dictionary PL (Diccionario MetsuOS)]]
+* [[MOS Flascards PL (Flashcards MetsuOS)]]

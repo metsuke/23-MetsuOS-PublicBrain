@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.436Z
-modified: 2024-04-14T14:29:04.065Z
+modified: 2024-04-26T18:57:30.190Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,3 +33,5 @@ tags:
 		* [[Certificado de Competencia en Lengua Rumana (CCL)]]
 		* [[Examen de Competencia en Rumano (Examenul de Competență în Limba Română pentru Străini)]]
 		* [[Diploma de Estudios Rumanos (Diploma de Studii Românești)]]
+* [[MOS Dictionary RU (Diccionario MetsuOS)]]
+* [[MOS Flascards RO (Flashcards MetsuOS)]]

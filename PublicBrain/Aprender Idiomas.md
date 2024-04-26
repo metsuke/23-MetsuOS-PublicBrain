@@ -43,6 +43,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * HAW [[Aprender Idioma Hawaiano]]
 * HE [[Aprender Idioma Hebreo]]
 * HI [[Aprender Idioma Hindi]]
+* HU [[Aprender idioma Húngaro]]
 * ID [[Aprender Idioma Indonesio]]
 * IT [[Aprender Idioma Italiano]]
 * JP [[Aprender Idioma Japones]]

@@ -120,3 +120,7 @@ tags: []
 98. Fabulae et traditiones (Historias y tradiciones)
 99. Res et processus historicus (Hechos y procesos históricos)
 100. Mythologia et fabulae (Mitología y leyendas)
+
+
+* [[MOS Dictionary LA (Diccionario MetsuOS)]]
+* [[MOS Flascards LA (Flashcards MetsuOS)]]

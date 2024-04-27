@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.432Z
-modified: 2024-04-18T17:30:35.188Z
+modified: 2024-04-27T19:58:12.725Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aprender Idioma Neerlandés
 
-[[Index#Aprender Idiomas]]
+[[Aprender Idiomas]]
 
 * NL | Neerlandés
 	* Niveles Oficiales NL

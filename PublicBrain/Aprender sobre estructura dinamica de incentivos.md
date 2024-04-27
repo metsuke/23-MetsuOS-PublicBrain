@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.626Z
-modified: 2024-04-14T14:29:04.030Z
+modified: 2024-04-27T14:58:00.368Z
 supervisado: ""
-ACCION: ""
+ACCION: 
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Aprender sobre estructura dinamica de incentivos
+# Aprender sobre Estructura Dinamica de Incentivos
 
 [[PublicBrain/Index]]
 

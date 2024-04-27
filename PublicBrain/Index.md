@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-04-14T14:29:03.563Z
+modified: 2024-04-27T14:58:00.517Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 99
+ver_rev: 100
 nav_primary: 
 nav_secondary: 
 tags:
@@ -70,7 +70,8 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Aprender sobre Economía y Finanzas]]
 * [[Aprender sobre CPS (Complex Problem Solving)]]
-* [[Aprender sobre estructura dinamica de incentivos]]
+* [[Aprender sobre Estructura Dinamica de Incentivos]]
+* Aprender sobre Personotécnia
 
 ### Cocina
 

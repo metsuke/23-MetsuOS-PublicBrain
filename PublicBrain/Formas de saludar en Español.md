@@ -1,5 +1,5 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
 a11y: 0
 checked: 0
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Formas de saludar en [[Español]]
 1.  "[[Hola]]": es una forma casual y amigable de saludar a alguien. Es la forma más común y se usa en la mayoría de las situaciones informales.

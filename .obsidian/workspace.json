@@ -11,8 +11,12 @@
             "id": "1db346e40f4a4ef5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Formas de saludar en Español.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PublicBrain/Formas de saludar en Español.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PublicBrain/Formas de saludar en Español.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PublicBrain/Formas de saludar en Español.md"
+              }
             }
           },
           {
@@ -157,6 +165,25 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
+    "PublicBrain/Formas de saludar en Japonés.md",
+    "PublicBrain/Formas de saludar en Chino.md",
+    "PublicBrain/Formas de saludar en Catalán.md",
+    "PublicBrain/Formas de saludar en Árabe.md",
+    "PublicBrain/Formas de saludar en Alemán.md",
+    "PublicBrain/Formas de despedirse en catalán.md",
+    "PublicBrain/Formas de despedirse en Japonés.md",
+    "PublicBrain/Formas de despedirse en Swahili.md",
+    "PublicBrain/Formas de despedirse en Chino.md",
+    "PublicBrain/Formas de despedirse en Alemán.md",
+    "PublicBrain/Formas de despedirse en Árabe.md",
+    "PublicBrain/Formas de despedirse en Inglés.md",
+    "PublicBrain/Fins demà.md",
+    "PublicBrain/Formas de decir viejo en Japonés.md",
+    "PublicBrain/Formación de plurales (A1-AR).md",
+    "PublicBrain/Fins després.md",
+    "PublicBrain/Formas de decir \"yo\" en japones.md",
+    "PublicBrain/Filla.md",
+    "PublicBrain/Fill.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Index.md",
     "MOS Flascards NAV (Flashcards MetsuOS).md",
@@ -164,25 +191,6 @@
     "PublicBrain/MOS Flascards Alto Valirio (Flashcards MetsuOS).md",
     "PublicBrain/Aprender idioma Navajo.md",
     "PublicBrain/Aprender idioma Alto Valirio.md",
-    "Aprender idioma Navajo.md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/MOS Flascards KO (Flashcards MetsuOS).md",
-    "Aprender idioma Alto Valirio.md",
-    "MOS Flascards Alto Valirio (Flashcards MetsuOS).md",
-    "PublicBrain/Aprender idioma Húngaro.md",
-    "PublicBrain/MOS Flascards HU (Flashcards MetsuOS).md",
-    "Aprender idioma Húngaro.md",
-    "PublicBrain/MOS Flascards PL (Flashcards MetsuOS).md",
-    "PublicBrain/MOS Flascards HAW (Flashcards MetsuOS).md",
-    "PublicBrain/MOS Flascards FI (Flashcards MetsuOS).md",
-    "PublicBrain/MOS Flascards EO (Flashcards MetsuOS).md",
-    "PublicBrain/MOS Flascards CS (Flashcards MetsuOS).md",
-    "PublicBrain/Aprender Idioma Hawaiano.md",
-    "MOS Flascards HU (Flashcards MetsuOS).md",
-    "Aprender Idioma Hawaiano.md",
-    "MOS Flascards HAW (Flashcards MetsuOS).md",
-    "PublicBrain/Aprender Idioma Finlandes.md",
-    "MOS Flascards FI (Flashcards MetsuOS).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

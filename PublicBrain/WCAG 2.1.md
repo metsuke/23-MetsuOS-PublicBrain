@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.940Z
-modified: 2024-04-14T14:29:03.198Z
+modified: 2024-04-28T21:05:22.122Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 77
+ver_rev: 78
 nav_primary: 
 nav_secondary: 
 tags:
@@ -42,7 +42,7 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
 3. [[Pautas de Accesibilidad]]
     - [[Pauta 1 - Texto Alternativo]]
         - 1.1.1 [[Texto Alternativo]]
-        - 1.2.2 Texto Alternativo para contenido en tiempo real (Mejora)
+        - 1.2.2 [[Texto Alternativo para contenido en tiempo real (Mejora)]]
     - [[Pauta 2 - Control del Teclado]] (Mejora)
 	    - [[Accesibilidad del teclado]]
         - 2.1.4 Características de enfoque (Mejora)

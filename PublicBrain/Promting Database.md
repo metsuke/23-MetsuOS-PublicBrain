@@ -23,6 +23,12 @@ tags:
 
 [[PublicBrain/Index]]
 
+## Refinar Contenido
+
+Te voy a dar un contenido al final de este prompt, necesito que lo refines y humanices la redacción. Además aporta una sección de referencia bibliográficas que apoyen y otra que refuten este contenido. Todo el contenido debe estár en español castellano de España y en formato markdown para poder copiarlo. El contenido es
+
+
+---
 ## Analisis Videojuegos
 
 necesito una tabla detallada y exhaustiva de características técnicas del videojuego Shark Shark. Damelo en marldown para poder copiarlo

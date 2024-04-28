@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia de la Personotecnia.md",
+                "file": "PublicBrain/Kanji - Grado 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historia de la Personotecnia.md",
+                "file": "PublicBrain/Kanji - Grado 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historia de la Personotecnia.md",
+                "file": "PublicBrain/Kanji - Grado 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historia de la Personotecnia.md"
+                "file": "PublicBrain/Kanji - Grado 3.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
-    "Aprender sobre Personotecnia.md",
+    "運.md",
+    "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/Kanji - Grado 2.md",
     "Historia de la Personotecnia.md",
+    "Aprender sobre Personotecnia.md",
     "Definición y conceptos básicos (Personotecnia).md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
@@ -188,9 +191,6 @@
     "MOS Dictionary GA (Diccionario MetsuOS).md",
     "PublicBrain/Aprender idioma Griego.md",
     "MOS Dictionary EL (Diccionario MetsuOS).md",
-    "PublicBrain/Aprender Idioma Neerlandés.md",
-    "MOS Dictionary NL (Diccionario MetsuOS).md",
-    "PublicBrain/Aprender sobre Estructura Dinamica de Incentivos.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

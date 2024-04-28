@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-04-28T20:24:04.645Z
+modified: 2024-04-28T20:37:54.707Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Impacto de la IA en la sociedad
 
 [[Aprender sobre Inteligencia Artificial]]

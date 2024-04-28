@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos en línea y tutoriales (Aprender sobre IA).md",
+                "file": "Aprender sobre Personotecnia.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cursos en línea y tutoriales (Aprender sobre IA).md",
+                "file": "Aprender sobre Personotecnia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cursos en línea y tutoriales (Aprender sobre IA).md",
+                "file": "Aprender sobre Personotecnia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cursos en línea y tutoriales (Aprender sobre IA).md"
+                "file": "Aprender sobre Personotecnia.md"
               }
             }
           },
@@ -165,6 +165,9 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
+    "Definición y conceptos básicos (Personotecnia).md",
+    "Aprender sobre Personotecnia.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
     "Cursos en línea y tutoriales (Aprender sobre IA).md",
     "Libros recomendados (Aprender sobre IA).md",
@@ -185,12 +188,9 @@
     "PublicBrain/Aprender idioma Griego.md",
     "MOS Dictionary EL (Diccionario MetsuOS).md",
     "PublicBrain/Aprender Idioma Neerlandés.md",
-    "PublicBrain/Index.md",
     "MOS Dictionary NL (Diccionario MetsuOS).md",
     "PublicBrain/Aprender sobre Estructura Dinamica de Incentivos.md",
     "PublicBrain/Aprender sobre Videojuegos.md",
-    "PublicBrain/Aprender sobre cultura internacional a través de los idiomas.md",
-    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

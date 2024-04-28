@@ -1,5 +1,7 @@
 # Cursos en línea y tutoriales (Aprender sobre IA)
 
+[[Aprender sobre Inteligencia Artificial]]
+
 Claro, en el ámbito de la inteligencia artificial, existen numerosos cursos en línea y tutoriales que pueden ayudarte a ampliar tus conocimientos en el tema. Algunas plataformas reconocidas que ofrecen cursos en línea de inteligencia artificial son Coursera, edX, Udemy, Khan Academy, entre otras.
 
 Estos cursos abarcan una amplia variedad de temas relacionados con la inteligencia artificial, como machine learning, deep learning, visión por computadora, procesamiento del lenguaje natural, entre otros. Además, suelen estar impartidos por expertos en la materia y brindan la flexibilidad de aprender a tu propio ritmo.

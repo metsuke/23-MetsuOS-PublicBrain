@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libros recomendados (Aprender sobre IA).md",
+                "file": "Cursos en línea y tutoriales (Aprender sobre IA).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libros recomendados (Aprender sobre IA).md",
+                "file": "Cursos en línea y tutoriales (Aprender sobre IA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libros recomendados (Aprender sobre IA).md",
+                "file": "Cursos en línea y tutoriales (Aprender sobre IA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libros recomendados (Aprender sobre IA).md"
+                "file": "Cursos en línea y tutoriales (Aprender sobre IA).md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
+    "Cursos en línea y tutoriales (Aprender sobre IA).md",
     "Libros recomendados (Aprender sobre IA).md",
     "Impacto de la IA en la sociedad.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Aprender sobre Videojuegos.md",
     "PublicBrain/Aprender sobre cultura internacional a través de los idiomas.md",
     "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Formas de saludar en Español.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

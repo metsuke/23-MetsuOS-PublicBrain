@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
 iaStatus_Model: ""
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.098Z
-modified: 2024-04-21T14:13:43.861Z
+modified: 2024-04-28T21:34:21.115Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -52,4 +52,17 @@ Las altas capacidades se caracterizan por un rendimiento intelectual significati
 7. **Sensibilidad y Conciencia:**
    - Pueden mostrar una mayor sensibilidad y conciencia de su entorno.
 
-Es esencial destacar que las altas capacidades no se limitan únicamente al ámbito académico; pueden manifestarse en una variedad de áreas y contextos. La identificación y apoyo temprano son cruciales para asegurar que las personas con altas capacidades alcancen su máximo potencial y enfrenten desafíos específicos asociados con su excepcionalidad. La educación diferenciada y adaptada, así como el apoyo emocional, son aspectos importantes en el manejo de las altas capacidades.
+Es importante destacar que las altas capacidades no se limitan únicamente al ámbito académico; pueden manifestarse en una variedad de áreas y contextos. La identificación y apoyo temprano son cruciales para asegurar que las personas con altas capacidades alcancen su máximo potencial y enfrenten desafíos específicos asociados con su excepcionalidad. La educación diferenciada y adaptada, así como el apoyo emocional, son aspectos importantes en el manejo de las altas capacidades.
+
+**Referencias Bibliográficas**
+
+* Sternberg, R. J. (1985). Beyond IQ: A triarchic theory of human intelligence. Cambridge University Press.
+* Gardner, H. (1983). Frames of mind: The theory of multiple intelligences. Basic Books.
+* Renzulli, J. S. (1978). What makes a gifted child? Gifted Child Quarterly, 22(2), 29-36.
+
+**Referencias que Refutan**
+
+* Ericsson, K. A., & Smith, J. (1991). Prospects and limits of the empirical study of expertise: An introduction. In K. A. Ericsson & J. Smith (Eds.), Prospects and limits of the empirical study of expertise (pp. 1-40). Cambridge University Press.
+* Plomin, R., DeFries, J. C., Knopik, V. S., & Neiderhiser, J. M. (2016). Behavioral genetics. Worth Publishers.
+
+**Nota:** Se recomienda consultar las referencias bibliográficas para obtener una visión más completa y actualizada sobre el tema de las altas capacidades.

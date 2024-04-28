@@ -4,7 +4,7 @@
 
 ## Introducción a la Personotecnia
 1. [[Definición y conceptos básicos (Personotecnia)]]
-2. Historia de la Personotecnia
+2. [[Historia de la Personotecnia]]
 3. Importancia y aplicaciones en la actualidad
 
 ## Fundamentos de la Personalidad

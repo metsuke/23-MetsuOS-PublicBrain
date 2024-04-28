@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/開.md",
+                "file": "PublicBrain/階.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/開.md",
+                "file": "PublicBrain/階.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/開.md",
+                "file": "PublicBrain/階.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/開.md"
+                "file": "PublicBrain/階.md"
               }
             }
           },
@@ -165,6 +165,9 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
+    "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/階.md",
+    "PublicBrain/開.md",
     "PublicBrain/運.md",
     "PublicBrain/Libros recomendados (Aprender sobre IA).md",
     "PublicBrain/Impacto de la IA en la sociedad.md",
@@ -172,8 +175,6 @@
     "PublicBrain/Definición y conceptos básicos (Personotecnia).md",
     "PublicBrain/Cursos en línea y tutoriales (Aprender sobre IA).md",
     "PublicBrain/Aprender sobre Personotecnia.md",
-    "PublicBrain/Kanji - Grado 3.md",
-    "PublicBrain/開.md",
     "PublicBrain/界.md",
     "PublicBrain/荷.md",
     "PublicBrain/化.md",
@@ -190,7 +191,6 @@
     "Definición y conceptos básicos (Personotecnia).md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Inteligencia Artificial.md",
-    "Cursos en línea y tutoriales (Aprender sobre IA).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

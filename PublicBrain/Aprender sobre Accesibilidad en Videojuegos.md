@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.519Z
-modified: 2024-04-14T14:29:04.050Z
+modified: 2024-04-28T21:25:45.432Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 87
+ver_rev: 88
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,6 @@ tags:
 # Aprender sobre Accesibilidad en Videojuegos
 
 [[PublicBrain/Index#Plena Inclusión]]
-
 
 ## I. Introducción a la Accesibilidad en Videojuegos
 

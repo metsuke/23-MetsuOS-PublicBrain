@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
-    "PublicBrain/Promting Database.md",
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
     "PublicBrain/Texto Alternativo para contenido en tiempo real (Mejora).md",
@@ -190,7 +191,6 @@
     "寒.md",
     "PublicBrain/階.md",
     "PublicBrain/開.md",
-    "PublicBrain/運.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

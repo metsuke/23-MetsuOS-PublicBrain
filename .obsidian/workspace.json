@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/寒.md",
+                "file": "PublicBrain/Kanji - Grado 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/寒.md",
+                "file": "PublicBrain/Kanji - Grado 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/寒.md",
+                "file": "PublicBrain/Kanji - Grado 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/寒.md"
+                "file": "PublicBrain/Kanji - Grado 3.md"
               }
             }
           },
@@ -165,9 +165,10 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
+    "PublicBrain/感.md",
     "PublicBrain/Kanji - Grado 3.md",
-    "寒.md",
     "PublicBrain/寒.md",
+    "寒.md",
     "PublicBrain/階.md",
     "PublicBrain/開.md",
     "PublicBrain/運.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Kanji - Grado 2.md",
     "Historia de la Personotecnia.md",
     "Aprender sobre Personotecnia.md",
-    "Definición y conceptos básicos (Personotecnia).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

@@ -92,7 +92,7 @@ tags:
 ## Recursos para Aprender sobre IA
 
 - Cursos en línea y tutoriales
-- Libros recomendados
+- [[Libros recomendados (Aprender sobre IA)]]
 - Comunidades en línea y foros
 - Proyectos prácticos
 

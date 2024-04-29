@@ -25,7 +25,7 @@ tags:
 
 ## I. Introducción a la Intersección entre Ciencia y Arte
 
-   - Definición y contexto histórico.
+   - [[Definición y contexto histórico (Intersección Ciencia-Arte)]]
    - [[Importancia de entender la relación entre ciencia y arte]]
    - [[Exploración de conceptos fundamentales de la relacion entre arte y ciencia]]
 

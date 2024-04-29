@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre la Relación entre Ciencia y Arte.md",
+                "file": "Definición y contexto histórico (Intersección Ciencia-Arte).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre la Relación entre Ciencia y Arte.md",
+                "file": "Definición y contexto histórico (Intersección Ciencia-Arte).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre la Relación entre Ciencia y Arte.md",
+                "file": "Definición y contexto histórico (Intersección Ciencia-Arte).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre la Relación entre Ciencia y Arte.md"
+                "file": "Definición y contexto histórico (Intersección Ciencia-Arte).md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
-    "Importancia de entender la relación entre ciencia y arte.md",
     "PublicBrain/Aprender sobre la Relación entre Ciencia y Arte.md",
+    "Definición y contexto histórico (Intersección Ciencia-Arte).md",
+    "Importancia de entender la relación entre ciencia y arte.md",
     "PublicBrain/Aprender sobre Pyxel.md",
     "PublicBrain/¿Qué es Pyxel?.md",
     "PublicBrain/Qué es PixiJS y su historia.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "PublicBrain/Promting Database.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

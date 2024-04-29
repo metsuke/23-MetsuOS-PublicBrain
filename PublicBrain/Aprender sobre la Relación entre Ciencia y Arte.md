@@ -23,11 +23,10 @@ tags:
 
 [[PublicBrain/Index]]
 
-# Curso: Explorando la Relación entre Ciencia y Arte
-
 ## I. Introducción a la Intersección entre Ciencia y Arte
+
    - Definición y contexto histórico.
-   - Importancia de entender la relación entre ciencia y arte.
+   - [[Importancia de entender la relación entre ciencia y arte]]
    - [[Exploración de conceptos fundamentales de la relacion entre arte y ciencia]]
 
 ## II. La Ciencia como Fuente de Inspiración en las Artes

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/宮.md",
+                "file": "PublicBrain/球.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/宮.md",
+                "file": "PublicBrain/球.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/宮.md",
+                "file": "PublicBrain/球.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/宮.md"
+                "file": "PublicBrain/球.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/球.md",
     "PublicBrain/宮.md",
     "PublicBrain/級.md",
     "PublicBrain/急.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Importancia de las APIs en el desarrollo de software.md",
     "Importancia de las APIs en el desarrollo de software.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "PublicBrain/Qué es una API (IDRA-EBay).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

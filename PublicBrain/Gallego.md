@@ -1,6 +1,9 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
@@ -12,15 +15,15 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Gallego
 
 [[Aprender Idioma Gallego]]
 
-¡Claro! El gallego es una lengua romance que se habla principalmente en la comunidad autónoma de Galicia, en el noroeste de España. También se habla en algunas zonas limítrofes de Asturias y Castilla y León, así como en comunidades de emigrantes gallegos en otros países.
+El gallego es una lengua romance que se habla principalmente en la comunidad autónoma de Galicia, en el noroeste de España. También se habla en algunas zonas limítrofes de Asturias y Castilla y León, así como en comunidades de emigrantes gallegos en otros países.
 
 Aquí tienes algunos aspectos destacados sobre el idioma gallego:
 

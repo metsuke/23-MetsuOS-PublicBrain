@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/苦.md",
+                "file": "PublicBrain/具.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/苦.md",
+                "file": "PublicBrain/具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/苦.md",
+                "file": "PublicBrain/具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/苦.md"
+                "file": "PublicBrain/具.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/具.md",
     "PublicBrain/苦.md",
     "PublicBrain/区.md",
     "PublicBrain/銀.md",
@@ -190,7 +191,6 @@
     "Importancia de entender la relación entre ciencia y arte.md",
     "PublicBrain/Aprender sobre Pyxel.md",
     "PublicBrain/¿Qué es Pyxel?.md",
-    "PublicBrain/Qué es PixiJS y su historia.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-04-28T19:43:23.317Z
+modified: 2024-04-29T09:03:09.950Z
 supervisado: 2024-04-14T14:29:03.798Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 105
+ver_rev: 106
 nav_primary: 
 nav_secondary: 
 tags:
@@ -44,7 +44,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 				* [[Rol Expertos en PPC|Rol Expertos en PPC]]
 				* [[Rol Expertos en SEO|Expertos en SEO]]
 			* [[Departamento Creativo (Microagencia Marketing Digital)|Creativo]]
-				* Diseño Gráfico
+				* [[Rol Diseño Gráfico|Diseño Gráfico]]
 				* Redacción publicitaria
 				* Desarrollo web
 

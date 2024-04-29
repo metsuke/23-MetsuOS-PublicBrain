@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-04-26T11:21:05.227Z
+modified: 2024-04-29T11:09:55.336Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 60
+ver_rev: 61
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,8 @@ tags:
 # Índice
 
 ## I. Introducción
-   - A. [[Propósito del curso (Estudio pensamiento y filosofía de una persona)]]
+
+   - [[Propósito del curso (Estudio pensamiento y filosofía de una persona)]]
    - B. [[Justificación (Estudio persamiento y filosofía de una persona)]]
    - C. [[Objetivos de aprendizaje (Estudio persamiento y filosofía de una persona)]]
    - D. [[Metodología de enseñanza (Estudio persamiento y filosofía de una persona)]]

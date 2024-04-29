@@ -23,7 +23,7 @@ tags:
 
 [[Aprender Idiomas]]
 
-* FI | Finlandes
+* FI | [[Idioma Finlandés|Finlandes]]
 	* Niveles Oficiales FI
 	* Niveles y Exámenes Adicionales FI
 * [[MOS Dictionary FI (Diccionario MetsuOS)]]

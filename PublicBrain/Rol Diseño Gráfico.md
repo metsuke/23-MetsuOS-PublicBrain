@@ -1,6 +1,9 @@
 ---
-iaStatus: 1
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES

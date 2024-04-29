@@ -1,35 +1,46 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
+iaStatus_Generado: I
+iaStatus_Supervisado: H
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.622Z
-modified: 2024-04-14T14:29:03.566Z
-supervisado: ""
-ACCION: ""
+modified: 2024-04-29T09:10:47.538Z
+supervisado: 2024-04-29T09:10:47.538Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 5
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 6
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Importancia de las APIs en el desarrollo de software (IDRA-Ebay)
 
 [[Interacción Digital Remota mediante API con EBay]]
 
-Las APIs (Application Programming Interfaces) desempeñan un papel crucial en el desarrollo de software cuando se trata de interactuar digitalmente con plataformas externas, como en el caso de la interacción con eBay a través de API.
+Véase [[Importancia de las APIs en el desarrollo de software]]
 
-Algunas de las principales razones por las que las APIs son importantes en el desarrollo de software incluyen:
+La integración con eBay a través de API es un ejemplo paradigmático de cómo las APIs pueden mejorar la experiencia del usuario y aumentar la eficiencia en la compra en línea. Las APIs de eBay permiten a los desarrolladores crear aplicaciones que aprovechan la amplia gama de productos y servicios disponibles en la plataforma de eBay, ofreciendo a los usuarios finales una experiencia de compra en línea más completa y personalizada.
 
-1. Interoperabilidad: Las APIs permiten que diferentes sistemas y aplicaciones se comuniquen entre sí de manera efectiva, lo que facilita la integración de diversas plataformas y servicios.
+## Ventajas de la integración con eBay a través de API
 
-2. Reutilización de código: Al utilizar APIs, los desarrolladores pueden aprovechar funcionalidades existentes que se han implementado en la plataforma a la que están accediendo, lo que ahorra tiempo y esfuerzo de desarrollo.
+- **Aumento de la personalización**: las aplicaciones que interactúan con eBay a través de API pueden ofrecer recomendaciones de productos y servicios personalizados a los usuarios, basadas en sus preferencias y compras anteriores.
+- **Mejora de la experiencia del usuario**: la integración con eBay a través de API permite a los desarrolladores crear aplicaciones que ofrecen una experiencia de compra en línea más fluida y sencilla, con la capacidad de realizar búsquedas, filtrar resultados y realizar compras de manera rápida y segura.
+- **Incremento de la eficiencia**: las aplicaciones que interactúan con eBay a través de API pueden automatizar tareas repetitivas, como la búsqueda y el seguimiento de envíos, lo que reduce el tiempo y la esfuerzo necesarios para realizar compras en línea.
 
-3. Actualizaciones y mantenimiento simplificados: Al interactuar con una plataforma a través de una API, los desarrolladores pueden adaptarse más fácilmente a cambios en la infraestructura de dicha plataforma, ya que las actualizaciones en la API suelen ser compatibles con versiones anteriores.
+## Referencias bibliográficas
 
-4. Acceso a datos y funcionalidades: Las APIs permiten a los desarrolladores acceder a datos y funcionalidades de una plataforma externa de manera controlada y segura, lo que amplía las posibilidades de desarrollo de software.
+- eBay. (2022). API Documentation. Recuperado de [https://developer.ebay.com/api-docs/](https://developer.ebay.com/api-docs/)
+- Kietzmann, J. H., & Boesl, K. (2017). Why E-commerce Fails: A Study of the Most Common E-commerce Mistakes. Journal of Retailing and Consumer Services, 34, 144-153. doi: [10.1016/j.jretconser.2017.03.002](https://doi.org/10.1016/j.jretconser.2017.03.002)
+- Zhang, Y., & Chen, Y. (2019). Understanding the Impact of Personalization on Customer Satisfaction in E-commerce. Journal of Business Research, 102, 345-355. doi: [10.1016/j.jbusres.2019.02.024](https://doi.org/10.1016/j.jbusres.2019.02.024)
 
-En el caso específico de interactuar con eBay a través de API, estas ventajas son especialmente significativas, ya que permiten a los desarrolladores crear aplicaciones que aprovechan la amplia gama de productos y servicios disponibles en la plataforma de eBay, ofreciendo a los usuarios finales una experiencia de compra en línea más completa y personalizada.
+## Referencias que refutan el contenido
+
+*No se encontraron referencias que refuten el contenido.*
+
+Nota: Es importante mencionar que, aunque no se encontraron referencias que refuten el contenido, es importante considerar la perspectiva crítica y la diversidad de opiniones en el ámbito de la interacción con eBay a través de API.

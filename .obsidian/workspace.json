@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay).md"
               }
             }
           },
@@ -165,13 +165,19 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
+    "PublicBrain/Rol Diseño Gráfico.md",
+    "PublicBrain/Importancia de las APIs en el desarrollo de software.md",
+    "Importancia de las APIs en el desarrollo de software.md",
+    "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay).md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "PublicBrain/Qué es una API (IDRA-EBay).md",
+    "PublicBrain/Index.md",
     "Rol Diseño Gráfico.md",
     "PublicBrain/Departamento Creativo (Microagencia Marketing Digital).md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "PublicBrain/Definición de altas capacidades.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Las redes neuronales en el contexto de la inteligencia artificial.md",
     "PublicBrain/Estructura y funcionamiento de las  redes neuronales.md",
     "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
@@ -185,12 +191,6 @@
     "Texto Alternativo para contenido en tiempo real (Mejora).md",
     "PublicBrain/WCAG 2.1.md",
     "PublicBrain/WCAG 2.0.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
-    "¿Qué es una API?.md",
-    "PublicBrain/Qué es una API (IDRA-EBay).md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "PublicBrain/Kanji - Grado 2.md",
-    "PublicBrain/Kanji - Grado 3.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

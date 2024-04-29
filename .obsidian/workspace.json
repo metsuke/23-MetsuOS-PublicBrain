@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Qué es PixiJS y su historia.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Qué es PixiJS y su historia.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Qué es PixiJS y su historia.md",
+                "file": "PublicBrain/Aprender sobre Pyxel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Qué es PixiJS y su historia.md"
+                "file": "PublicBrain/Aprender sobre Pyxel.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
+    "PublicBrain/¿Qué es Pyxel?.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "PublicBrain/Qué es PixiJS y su historia.md",
     "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/Propósito del curso (Estudio pensamiento y filosofía de una persona).md",
-    "PublicBrain/Qué es PixiJS y su historia.md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona.md",
     "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay).md",
     "PublicBrain/Rol Diseño Gráfico.md",
@@ -189,8 +191,6 @@
     "PublicBrain/Promting Database.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
-    "PublicBrain/Texto Alternativo para contenido en tiempo real (Mejora).md",
-    "PublicBrain/¿Qué es una API?.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

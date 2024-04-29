@@ -30,8 +30,9 @@ tags:
    - [[Exploración de conceptos fundamentales de la relacion entre arte y ciencia]]
 
 ## II. La Ciencia como Fuente de Inspiración en las Artes
+
    - Influencia de los descubrimientos científicos en la creatividad artística.
-   - Ejemplos de obras de arte inspiradas en conceptos científicos.
+   - [[Ejemplos de obras de arte inspiradas en conceptos científicos (Intersección Ciencia-Arte)]]
 
 ## III. Pintura y Ciencia
    - Análisis de obras de pintura que reflejan principios científicos.

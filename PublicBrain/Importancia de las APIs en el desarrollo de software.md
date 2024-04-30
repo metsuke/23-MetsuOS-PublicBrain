@@ -1,24 +1,27 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-29T09:08:40.846Z
-modified: 2024-04-29T09:10:39.313Z
-supervisado: ""
-ACCION: ""
-ver_major: 0
-ver_minor: 3
-ver_rev: 1
-nav_primary: []
-nav_secondary: []
-tags: []
+modified: 2024-04-30T20:03:45.727Z
+supervisado: 2024-04-29T09:10:39.313Z
+ACCION: 
+ver_major: "-"2
+ver_minor: 4
+ver_rev: 2
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Importancia de las APIs en el desarrollo de software
 
-[[PublicBrain/PublicIndex/Index|Index]]
+[[Aprender sobre Interacción Digital Remota mediante API]]
 
 Las APIs (Application Programming Interfaces) desempeñan un papel fundamental en el desarrollo de software, permitiendo la comunicación efectiva entre diferentes sistemas y aplicaciones. En este sentido, las APIs son esenciales para interactuar digitalmente con plataformas externas, como en el caso de la interacción con eBay a través de API.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Rol Diseño Gráfico.md",
+                "file": "PublicBrain/Introducción a eBay y su API (IDRA-Ebay).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Rol Diseño Gráfico.md",
+                "file": "PublicBrain/Introducción a eBay y su API (IDRA-Ebay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Rol Diseño Gráfico.md",
+                "file": "PublicBrain/Introducción a eBay y su API (IDRA-Ebay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Rol Diseño Gráfico.md"
+                "file": "PublicBrain/Introducción a eBay y su API (IDRA-Ebay).md"
               }
             }
           },
@@ -165,11 +165,19 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay).md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
+    "PublicBrain/Importancia de las APIs en el desarrollo de software.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/PublicIndex/Index.md",
+    "PublicBrain/¿Qué es una API?.md",
+    "PublicBrain/Qué es una API (IDRA-EBay).md",
+    "PublicBrain/Rol Diseño Gráfico.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Rol Expertos en SEO.md",
     "PublicBrain/Qué es PixiJS y su historia.md",
     "PublicBrain/Aprender sobre PixiJS.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Anidando sprites y creando escenas interactivas.md",
     "PublicBrain/¿Qué es Pyxel?.md",
@@ -183,14 +191,6 @@
     "PublicBrain/Números del 21 al 100 (EN Flashcards).md",
     "PublicBrain/Números del 11 al 20 (EN Flashcards).md",
     "Números del 11 al 20 (EN Flashcards).md",
-    "PublicBrain/Números del 1 al 10 (EN Flashcards).md",
-    "PublicBrain/A2-EO.md",
-    "PublicBrain/A2-AR.md",
-    "PublicBrain/A1-RU.md",
-    "PublicBrain/Aprender con Sani Ladam.md",
-    "PublicBrain/Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos..md",
-    "PublicBrain/Gimme Chocolate!!.md",
-    "PublicBrain/Gallego.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

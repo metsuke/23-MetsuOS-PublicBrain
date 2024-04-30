@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.007Z
-modified: 2024-04-29T11:24:00.866Z
-supervisado: ""
-ACCION: ""
+modified: 2024-04-30T06:26:03.250Z
+supervisado: 2024-04-29T11:24:00.866Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 5
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 6
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # ¿Qué es Pyxel?
 
@@ -48,6 +51,6 @@ Pyxel es una excelente opción para aquellos que disfrutan del arte pixelado y d
 
 ## Referencias que refutan el contenido
 
-- Itch.io. (n.d.). Pyxel. Recuperado de <https://itch.io/s/pyxel> (Nota: Itch.io es una plataforma de distribución de juegos indie, pero no proporciona información detallada sobre Pyxel)
+- Itch.io. (n.d.). Pyxel. Recuperado de <https://itch.io/s/pyxel> (Nota: "I"tch.io es una plataforma de distribución de juegos indie, pero no proporciona información detallada sobre Pyxel)
 - Reddit. (2020). r/Pyxel. Recuperado de <https://www.reddit.com/r/Pyxel/> (Nota: La comunidad de Reddit r/Pyxel es un espacio de discusión y apoyo para los usuarios de Pyxel, pero no proporciona información detallada sobre el software)
 

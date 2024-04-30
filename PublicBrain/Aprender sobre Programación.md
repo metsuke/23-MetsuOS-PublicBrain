@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.575Z
-modified: 2024-04-27T14:48:50.293Z
+modified: 2024-04-30T06:27:04.633Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
@@ -49,4 +49,5 @@ tags:
 ## Librarías y Frameworks
 
 * [[Aprender sobre Mermaid]]
-* [[Aprender sobre PixiJS]]
+* [[Aprender sobre PixiJS]]+
+* [[Aprender sobre Pyxel]]

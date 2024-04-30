@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-04-28T20:34:03.714Z
+modified: 2024-04-30T06:27:48.464Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 101
+ver_rev: 102
 nav_primary: 
 nav_secondary: 
 tags:
@@ -103,7 +103,9 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Aprender sobre Videojuegos]]
 * Aprender sobre Desarrollo de Videojuegos
-	* [[Aprender sobre Pyxel]]
+	* Aprender sobre MPL
+		* [[Aprender sobre PixiJS]]
+		* [[Aprender sobre Pyxel]]
 	
 ### Plena Inclusión
 

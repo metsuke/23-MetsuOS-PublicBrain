@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/所.md",
+                "file": "PublicBrain/勝.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/所.md",
+                "file": "PublicBrain/勝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/所.md",
+                "file": "PublicBrain/勝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/所.md"
+                "file": "PublicBrain/勝.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 3.md",
-    "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/勝.md",
     "PublicBrain/所.md",
+    "PublicBrain/Kanji - Grado 2.md",
     "PublicBrain/使.md",
     "PublicBrain/仕.md",
     "PublicBrain/皿.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Aprender sobre Pyxel.md",
     "PublicBrain/¿Qué es Pyxel?.md",
     "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md",
-    "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

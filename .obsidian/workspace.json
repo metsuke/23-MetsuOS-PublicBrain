@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/向.md",
+                "file": "PublicBrain/幸.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/向.md",
+                "file": "PublicBrain/幸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/向.md",
+                "file": "PublicBrain/幸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/向.md"
+                "file": "PublicBrain/幸.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 3.md",
+    "幸.md",
+    "PublicBrain/幸.md",
     "PublicBrain/向.md",
     "PublicBrain/湖.md",
     "PublicBrain/庫.md",
@@ -189,8 +191,6 @@
     "Rol Redacción publicitaria.md",
     "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Departamento Creativo (Microagencia Marketing Digital).md",
-    "PublicBrain/Rol Diseño Gráfico.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

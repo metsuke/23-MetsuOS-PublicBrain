@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/根.md",
+                "file": "PublicBrain/祭.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/根.md",
+                "file": "PublicBrain/祭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/根.md",
+                "file": "PublicBrain/祭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/根.md"
+                "file": "PublicBrain/祭.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 3.md",
-    "根.md",
+    "PublicBrain/祭.md",
     "PublicBrain/根.md",
+    "根.md",
     "PublicBrain/号.md",
     "PublicBrain/港.md",
     "PublicBrain/幸.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Qué es PixiJS y su historia.md",
     "PublicBrain/Rol Redacción publicitaria.md",
     "PublicBrain/Introducción a eBay y su API (IDRA-Ebay).md",
-    "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

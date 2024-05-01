@@ -1,6 +1,6 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "H"
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 iaStatus_Model: ""
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.616Z
-modified: 2024-04-28T21:23:51.480Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-01T21:40:00.747Z
+supervisado: 2024-04-28T21:23:51.480Z
+ACCION: 
 ver_major: 0
 ver_minor: 3
-ver_rev: 86
+ver_rev: 87
 nav_primary: 
 nav_secondary: 
 tags:
@@ -38,13 +38,13 @@ necesito una tabla detallada y exhaustiva de características técnicas del vide
 ### Idiomas
 
 * En el contexto de aprender idioma Gallego, necesito un indice de contenidos exhaustivo y detallado para estudiar el nivel A1 
-
-Idiomas / Diccionario
+#### Idiomas / Diccionario
 
 En el contexto "Aprender Idioma Japones", dame un índice exhaustivo y detallado, para crear un indice ordenado alfabeticamente un diccionario entre ese idioma y espalñol. Damelo en markdown para poder copiarlo. La lista generada debe ser numerada
 
 (MetsuOS Choice) En el contexto "Aprender Idioma ingles", dame un índice  ordenado alfabeticamente un diccionario entre ese idioma y espalñol. Damelo en markdown para poder copiarlo. La lista generada debe ser numerada. Insisto no quiero una lista de palabras, sino de secciones en que dividir el diccionario.
 
+#### Idiomas / Flashcards
 
 En el contexto "Aprender Idioma Chino", dame un índice exhaustivo y detallado, para crear un indice ordenado por radicales un diccionario entre ese idioma y espalñol. Damelo en markdown para poder copiarlo. La lista generada debe ser numerada
 
@@ -58,14 +58,13 @@ En el contexto de crear un diccionario idioma japones a español, puedes darme u
 ### Interacción Digital Remota
 
 * En el contexto de "Aprender sobre Interacción Digital Remota mediante API" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "Interacción Digital Remota mediante API con Discord". Dámelo en markdown para poder copiarlo.
+* En el contexto de "CONTEXTO" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "TEMA". Dámelo en markdown para poder copiarlo.
 
+#### Geografía World of Warcraft 
 
-*En el contexto de "CONTEXTO" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "TEMA". Dámelo en markdown para poder copiarlo.
+* En el contexto de "Aprender sobre Geografía en World of Warcraft" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "Aprender sobre Geografía de Nazmir (Zandalar) en World of Warcraft". Dámelo en markdown para poder copiarlo.
 
-*En el contexto de "Aprender sobre Geografía en World of Warcraft" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "Aprender sobre Geografía de Nazmir (Zandalar) en World of Warcraft". Dámelo en markdown para poder copiarlo.
-
-
-	* DEPRECATED: En el contexto de "CONTEXTO" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "TEMA". Dámelo en markdown para poder copiarlo , con encabezados ## para los modulos. Tras cada ## debe haber una linea en blanco. Por favor no incluyas la palabra Leccion en los puntos de las lecciones. Desarrolla el contenido de cada modulo de forma exhaustiva y detallada
+* DEPRECATED: En el contexto de "CONTEXTO" necesito el indice tecnicamente exhaustivo y detallado para un curso sobre "TEMA". Dámelo en markdown para poder copiarlo , con encabezados ## para los modulos. Tras cada ## debe haber una linea en blanco. Por favor no incluyas la palabra Leccion en los puntos de las lecciones. Desarrolla el contenido de cada modulo de forma exhaustiva y detallada
 * En el contexto de "CONTEXTO" puedes hablarme sobre "TEMA".
 ## Aprender Idiomas
 

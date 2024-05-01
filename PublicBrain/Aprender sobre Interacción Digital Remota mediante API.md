@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.552Z
-modified: 2024-04-25T10:39:45.900Z
+modified: 2024-05-01T21:32:56.518Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 66
+ver_rev: 67
 nav_primary: 
 nav_secondary: 
 tags:
@@ -40,6 +40,7 @@ tags:
 * [[Interacción Digital Remota mediante API con Mercado Libre]]
 * [[Interacción Digital Remota mediante API con Microsoft]]
 * [[Interacción Digital Remota mediante API con Pinterest]]
+* [[Interacción Digital Remota mediante API con Pocket]]
 * [[Interacción Digital Remota mediante API con Telegram]]
 * [[Intearacción Digital Remota mediante API con TodoColección]]
 * [[Interacción Digital Remota mediante API con Youtube]]

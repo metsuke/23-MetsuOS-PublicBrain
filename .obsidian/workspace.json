@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 3.md",
+                "file": "PublicBrain/所.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Aprender sobre PixiJS",
+                "query": "所",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 3.md",
+                "file": "PublicBrain/所.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 3.md",
+                "file": "PublicBrain/所.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 3.md"
+                "file": "PublicBrain/所.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
-    "PublicBrain/使.md",
     "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/Kanji - Grado 2.md",
+    "PublicBrain/所.md",
+    "PublicBrain/使.md",
     "PublicBrain/仕.md",
     "PublicBrain/皿.md",
     "PublicBrain/祭.md",
@@ -189,8 +191,6 @@
     "PublicBrain/¿Qué es Pyxel?.md",
     "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md",
     "PublicBrain/Aprender sobre PixiJS.md",
-    "PublicBrain/Beneficios de utilizar la API de eBay (IDRA-Ebay).md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

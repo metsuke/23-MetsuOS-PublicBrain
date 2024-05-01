@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md",
+                "file": "PublicBrain/Características y ventajas de Pyxel.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md",
+                "file": "PublicBrain/Características y ventajas de Pyxel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md",
+                "file": "PublicBrain/Características y ventajas de Pyxel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md"
+                "file": "PublicBrain/Características y ventajas de Pyxel.md"
               }
             }
           },
@@ -165,10 +165,12 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "PublicBrain/¿Qué es Pyxel?.md",
+    "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md",
     "PublicBrain/Aprender sobre PixiJS.md",
     "PublicBrain/Beneficios de utilizar la API de eBay (IDRA-Ebay).md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
-    "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md",
     "PublicBrain/Qué es PixiJS y su historia.md",
     "PublicBrain/Rol Redacción publicitaria.md",
     "PublicBrain/Introducción a eBay y su API (IDRA-Ebay).md",
@@ -187,8 +189,6 @@
     "PublicBrain/Rol Expertos en SEO.md",
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Anidando sprites y creando escenas interactivas.md",
-    "PublicBrain/¿Qué es Pyxel?.md",
-    "PublicBrain/Aprender sobre Pyxel.md",
     "PublicBrain/Aprender sobre Altas Capacidades.md",
     "PublicBrain/Definición de altas capacidades.md",
     "PublicBrain/_templates",

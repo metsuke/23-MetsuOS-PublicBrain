@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Género y número de sustantivos (A1-AR).md",
+                "file": "PublicBrain/Interpretación de la información.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Género y número de sustantivos (A1-AR).md",
+                "file": "PublicBrain/Interpretación de la información.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Género y número de sustantivos (A1-AR).md",
+                "file": "PublicBrain/Interpretación de la información.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Género y número de sustantivos (A1-AR).md"
+                "file": "PublicBrain/Interpretación de la información.md"
               }
             }
           },
@@ -165,6 +165,9 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
+    "PublicBrain/Glosario de Marketing Digital.md",
+    "PublicBrain/A1-SV.md",
+    "PublicBrain/Género y número de sustantivos (A1-AR).md",
     "PublicBrain/Guten Abend.md",
     "PublicBrain/Guten Tag.md",
     "PublicBrain/Guten Morgen.md",
@@ -188,9 +191,6 @@
     "PublicBrain/Kanji - Grado 2.md",
     "PublicBrain/使.md",
     "PublicBrain/仕.md",
-    "PublicBrain/皿.md",
-    "PublicBrain/祭.md",
-    "PublicBrain/根.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

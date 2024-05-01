@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-04-29T21:19:28.145Z
+modified: 2024-05-01T19:33:44.105Z
 supervisado: 2024-04-14T14:29:03.798Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 107
+ver_rev: 108
 nav_primary: 
 nav_secondary: 
 tags:
@@ -45,7 +45,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 				* [[Rol Expertos en SEO|Expertos en SEO]]
 			* [[Departamento Creativo (Microagencia Marketing Digital)|Creativo]]
 				* [[Rol Diseño Gráfico|Diseño Gráfico]]
-				* Redacción publicitaria
+				* [[Rol Redacción publicitaria|Redacción publicitaria]]
 				* Desarrollo web
 
 ```mermaid

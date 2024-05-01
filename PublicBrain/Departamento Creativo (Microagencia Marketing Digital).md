@@ -29,7 +29,7 @@ En una microagencia de marketing digital, el departamento creativo desempeña un
 ## Perfiles
 
 * [[Rol Diseño Gráfico|Diseño Gráfico]]
-* Redacción publicitaria
+* [[Rol Redacción publicitaria|Redacción publicitaria]]
 * Desarrollo web
 
 ## Estructura

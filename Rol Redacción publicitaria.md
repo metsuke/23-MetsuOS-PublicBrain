@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-01T19:34:05.032Z
+modified: 2024-05-01T19:39:34.672Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Rol Redacción publicitaria
 
 [[Estructurar una Microagencia de Marketing Digital]] 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 3.md",
+                "file": "PublicBrain/童.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 3.md",
+                "file": "PublicBrain/童.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 3.md",
+                "file": "PublicBrain/童.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 3.md"
+                "file": "PublicBrain/童.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "PublicBrain/動.md",
     "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/童.md",
+    "PublicBrain/動.md",
     "PublicBrain/等.md",
     "PublicBrain/登.md",
     "PublicBrain/湯.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Características de enfoque.md",
     "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
-    "PublicBrain/Importancia de la accesibilidad en el aprendizaje en línea.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

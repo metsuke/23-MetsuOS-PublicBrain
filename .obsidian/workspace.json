@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "PublicBrain/昔.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "PublicBrain/昔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md",
+                "file": "PublicBrain/昔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS.md"
+                "file": "PublicBrain/昔.md"
               }
             }
           },
@@ -165,9 +165,12 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "PublicBrain/Creación de un lienzo (canvas) en PixiJS 🟥.md",
-    "PublicBrain/Aprender sobre PixiJS.md",
+    "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/昔.md",
     "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md",
+    "PublicBrain/Aprender sobre PixiJS.md",
+    "PublicBrain/Qué es PixiJS y su historia.md",
+    "PublicBrain/Creación de un lienzo (canvas) en PixiJS 🟥.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Pyxel.md",
     "PublicBrain/Instalación y configuración del entorno de desarrollo.md",
@@ -196,11 +199,8 @@
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜",
     "PublicBrain/Redes inalámbricas - Wi-Fi y estándares.md",
     "PublicBrain/Direcciones IP y su estructura.md",
-    "PublicBrain/DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md",
-    "PublicBrain/Registro como desarrollador en eBay (IDRA-Ebay).md",
     "PublicBrain/_resources/Interacción Digital Remota mediante API con EBay/32ed632dcc8da4178ab206b66f082b19_MD5.svg",
     "PublicBrain/_resources/Interacción Digital Remota mediante API con EBay",
-    "PublicBrain/Beneficios de utilizar la API de eBay (IDRA-Ebay).md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

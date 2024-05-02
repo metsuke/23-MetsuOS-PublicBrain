@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.077Z
 modified: 2024-05-02T19:26:17.283Z
-supervisado: ""
-ACCION: ""
+supervisado: 2024-05-02T19:26:17.283Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
+ver_minor: 4
 ver_rev: 4
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Creación de un lienzo (canvas) en PixiJS 🟥 
 

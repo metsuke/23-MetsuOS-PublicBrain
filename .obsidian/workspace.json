@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md"
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay.md"
               }
             }
           },
@@ -177,8 +177,14 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "PublicBrain/Registro como desarrollador en eBay (IDRA-Ebay).md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
+    "PublicBrain/_resources/Interacción Digital Remota mediante API con EBay/32ed632dcc8da4178ab206b66f082b19_MD5.svg",
+    "PublicBrain/_resources/Interacción Digital Remota mediante API con EBay",
+    "PublicBrain/Beneficios de utilizar la API de eBay (IDRA-Ebay).md",
+    "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay).md",
     "DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
     "Direcciones IP y su estructura.md",
     "Redes inalámbricas - Wi-Fi y estándares.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
@@ -198,11 +204,6 @@
     "PublicBrain/Interpretación de la información.md",
     "PublicBrain/Glosario de Marketing Digital.md",
     "PublicBrain/A1-SV.md",
-    "PublicBrain/Género y número de sustantivos (A1-AR).md",
-    "PublicBrain/Guten Abend.md",
-    "PublicBrain/Guten Tag.md",
-    "PublicBrain/Guten Morgen.md",
-    "PublicBrain/Grandson.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",
@@ -215,7 +216,6 @@
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
     "PublicBrain/Definición de almacenamiento (HWLibre",
     "Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
-    "Definición de almacenamiento (HWLibre",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6a21b73f15c7ff5a1fc2a76d9bf404f0_MD5.svg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/e69e62d441b5c2ff080b37ec0cd0ce99_MD5.svg",
@@ -223,7 +223,6 @@
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/6f2a065b5aa9412e16d8ee435f517a35_MD5.png",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/5f3d9d68df22071b9dfd8596b9ed1a6e_MD5.jpg",
     "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/32ed632dcc8da4178ab206b66f082b19_MD5.svg",
-    "PublicBrain/_resources/Vision del CPS de Javier G. Recuenco/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "Untitled.canvas"
   ]
 }

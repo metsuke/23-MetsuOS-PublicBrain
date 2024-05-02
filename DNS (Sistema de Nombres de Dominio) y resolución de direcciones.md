@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-02T14:39:07.075Z
+modified: 2024-05-02T14:43:21.999Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # DNS (Sistema de Nombres de Dominio) y resolución de direcciones
 
 [[Aprender sobre Redes e Internet]]

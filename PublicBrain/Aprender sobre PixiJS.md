@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-04-30T06:28:17.110Z
+modified: 2024-05-02T19:12:26.369Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 85
+ver_rev: 86
 nav_primary: 
 nav_secondary: 
 tags:
@@ -82,3 +82,5 @@ tags:
 - [[Implementación de características avanzadas (física, partículas, etc.) en PixiJS]]
 - [[Optimización y despliegue del proyecto final en PixiJS]]
 - [[Presentación y revisión del proyecto final (PixiJS)]]
+
+[[⬛🟥 🟨 🟩 🟦 ⬜]]

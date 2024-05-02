@@ -23,7 +23,7 @@ tags:
 
 [[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] 
 
-[[Docs Database]] | [[IA Database]] | [[Promting Database]] | [[Tools Database]] 
+[[Docs Database]] | [[IA Database]] | [[Promting Database]] | [[Tools Database]] | [[⬛🟥 🟨 🟩 🟦 ⬜]]
 
 [[Arrojando Luz sobre Polémicas Linguísticas]] | [[GPT4All Testing]]
 

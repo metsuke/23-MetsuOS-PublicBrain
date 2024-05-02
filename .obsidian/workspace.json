@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1db346e40f4a4ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "adc73f56e695274f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
+                "file": "PublicBrain/Aprender sobre PixiJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md"
+                "file": "PublicBrain/Aprender sobre PixiJS.md"
               }
             }
           },
@@ -175,14 +163,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1db346e40f4a4ef5",
+  "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "PublicBrain/Características de enfoque.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
-    "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
-    "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
-    "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Pyxel.md",
+    "PublicBrain/Instalación y configuración del entorno de desarrollo.md",
+    "PublicBrain/Aprender sobre PixiJS.md",
+    "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
+    "PublicBrain/Características y ventajas de Pyxel.md",
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
+    "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
+    "PublicBrain/Características de enfoque.md",
+    "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
     "PublicBrain/Importancia de la accesibilidad en el aprendizaje en línea.md",
     "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
@@ -209,10 +201,6 @@
     "PublicBrain/Beneficios de utilizar la API de eBay (IDRA-Ebay).md",
     "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay).md",
     "DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md",
-    "PublicBrain/Aprender sobre Redes e Internet.md",
-    "Direcciones IP y su estructura.md",
-    "Redes inalámbricas - Wi-Fi y estándares.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

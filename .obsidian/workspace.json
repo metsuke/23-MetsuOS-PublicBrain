@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/昔.md",
+                "file": "PublicBrain/全.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/昔.md",
+                "file": "PublicBrain/全.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/昔.md",
+                "file": "PublicBrain/全.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/昔.md"
+                "file": "PublicBrain/全.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/全.md",
     "PublicBrain/昔.md",
     "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md",
     "PublicBrain/Aprender sobre PixiJS.md",
@@ -198,7 +199,6 @@
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/32ed632dcc8da4178ab206b66f082b19_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜",
     "PublicBrain/Redes inalámbricas - Wi-Fi y estándares.md",
-    "PublicBrain/Direcciones IP y su estructura.md",
     "PublicBrain/_resources/Interacción Digital Remota mediante API con EBay/32ed632dcc8da4178ab206b66f082b19_MD5.svg",
     "PublicBrain/_resources/Interacción Digital Remota mediante API con EBay",
     "PublicBrain/_templates",

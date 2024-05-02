@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md"
               }
             }
           },
@@ -177,7 +177,9 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
+    "PublicBrain/Importancia de la accesibilidad en el aprendizaje en línea.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
     "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
     "PublicBrain/Promting Database.md",
     "Características de enfoque.md",
@@ -211,8 +213,6 @@
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
     "PublicBrain/¿Qué es una API?.md",
     "PublicBrain/Interacción Digital Remota mediante API con Pocket.md",
-    "Interacción Digital Remota mediante API con Pocket.md",
-    "PublicBrain/Index.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

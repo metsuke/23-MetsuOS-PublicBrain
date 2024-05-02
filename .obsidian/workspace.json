@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/発.md",
+                "file": "PublicBrain/Hebreo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/発.md",
+                "file": "PublicBrain/Hebreo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/発.md",
+                "file": "PublicBrain/Hebreo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/発.md"
+                "file": "PublicBrain/Hebreo.md"
               }
             }
           },
@@ -165,8 +165,25 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/Hardware Libre - Memoria Volatil.md",
+    "PublicBrain/Hardware Libre - Almacenamiento.md",
+    "PublicBrain/Hardware Libre - Microprocesadores.md",
+    "PublicBrain/Hacer compras en el mercado (A1-SW).md",
+    "PublicBrain/Halo 3 (Bungie Studios, 2007).md",
+    "PublicBrain/Habari.md",
+    "PublicBrain/Habari za asubuhi.md",
+    "PublicBrain/Hablar en Publico.md",
+    "PublicBrain/Hallo.md",
+    "PublicBrain/HSKK (Hanyu Shuiping Kouyu Kaochang - Examen de Expresión Oral en Chino).md",
+    "PublicBrain/HSK4-ZH.md",
+    "PublicBrain/HSK6-ZH.md",
+    "PublicBrain/HSK5-ZH.md",
+    "PublicBrain/H.md",
+    "PublicBrain/HSK3-ZH.md",
+    "PublicBrain/HSK2-ZH.md",
+    "PublicBrain/A1-GL.md",
     "PublicBrain/発.md",
+    "PublicBrain/Kanji - Grado 3.md",
     "PublicBrain/畑.md",
     "PublicBrain/箱.md",
     "PublicBrain/倍.md",
@@ -174,23 +191,6 @@
     "PublicBrain/波.md",
     "PublicBrain/農.md",
     "PublicBrain/童.md",
-    "PublicBrain/動.md",
-    "PublicBrain/等.md",
-    "PublicBrain/登.md",
-    "PublicBrain/湯.md",
-    "PublicBrain/島.md",
-    "PublicBrain/豆.md",
-    "PublicBrain/投.md",
-    "PublicBrain/笛.md",
-    "PublicBrain/全.md",
-    "PublicBrain/昔.md",
-    "PublicBrain/Configuración del entorno de desarrollo (PixiJS).md",
-    "PublicBrain/Aprender sobre PixiJS.md",
-    "PublicBrain/Qué es PixiJS y su historia.md",
-    "PublicBrain/Creación de un lienzo (canvas) en PixiJS 🟥.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Pyxel.md",
-    "PublicBrain/Instalación y configuración del entorno de desarrollo.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

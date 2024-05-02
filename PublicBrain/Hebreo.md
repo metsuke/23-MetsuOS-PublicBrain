@@ -1,5 +1,5 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
 a11y: 0
 checked: 0
@@ -12,15 +12,15 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Hebreo
 
 [[Aprender Idioma Hebreo]]
 
-¡Claro! El hebreo es un idioma semítico perteneciente al grupo afroasiático y es la lengua oficial de Israel. Aquí tienes algunos aspectos importantes sobre el idioma hebreo:
+El hebreo es un idioma semítico perteneciente al grupo afroasiático y es la lengua oficial de Israel. Aquí tienes algunos aspectos importantes sobre el idioma hebreo:
 
 ### Historia y Contexto:
 

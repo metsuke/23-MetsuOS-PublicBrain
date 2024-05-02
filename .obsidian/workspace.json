@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Características de enfoque.md",
+                "file": "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Promting Database.md",
+                "file": "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "所",
+                "query": "sabidu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Características de enfoque.md",
+                "file": "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Características de enfoque.md",
+                "file": "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Características de enfoque.md"
+                "file": "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md"
               }
             }
           },
@@ -177,12 +177,14 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
-    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
+    "PublicBrain/Promting Database.md",
     "Características de enfoque.md",
+    "PublicBrain/WCAG 2.1.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay.md",
     "⬛🟥 🟨 🟩 🟦 ⬜.md",
-    "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",
@@ -204,7 +206,6 @@
     "Direcciones IP y su estructura.md",
     "Redes inalámbricas - Wi-Fi y estándares.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
-    "PublicBrain/Promting Database.md",
     "PublicBrain/Departamento Creativo (Microagencia Marketing Digital).md",
     "PublicBrain/Rol Redacción publicitaria.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
@@ -212,7 +213,6 @@
     "PublicBrain/Interacción Digital Remota mediante API con Pocket.md",
     "Interacción Digital Remota mediante API con Pocket.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender Idiomas.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

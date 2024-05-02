@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f84e85b087d42f41",
+            "id": "adc73f56e695274f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining.md"
+                "file": "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md"
               }
             }
           },
@@ -177,10 +177,15 @@
   },
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
-    "PublicBrain/Importancia de la accesibilidad en el aprendizaje en línea.md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
-    "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
+    "PublicBrain/Características de enfoque.md",
+    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos.md",
     "PublicBrain/⬛🟥 🟨 🟩 🟦 ⬜.md",
+    "PublicBrain/Importancia de la accesibilidad en la industria del gaming.md",
+    "PublicBrain/¿Qué es la accesibilidad en videojuegos?.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining.md",
+    "PublicBrain/Importancia de la accesibilidad en el aprendizaje en línea.md",
+    "PublicBrain/¿Qué es la accesibilidad en E-Learning?.md",
     "PublicBrain/Promting Database.md",
     "Características de enfoque.md",
     "PublicBrain/WCAG 2.1.md",
@@ -208,11 +213,6 @@
     "Direcciones IP y su estructura.md",
     "Redes inalámbricas - Wi-Fi y estándares.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
-    "PublicBrain/Departamento Creativo (Microagencia Marketing Digital).md",
-    "PublicBrain/Rol Redacción publicitaria.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API.md",
-    "PublicBrain/¿Qué es una API?.md",
-    "PublicBrain/Interacción Digital Remota mediante API con Pocket.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

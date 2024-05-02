@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-04-30T06:27:48.464Z
+modified: 2024-05-02T18:53:10.263Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 102
+ver_rev: 103
 nav_primary: 
 nav_secondary: 
 tags:
@@ -111,9 +111,11 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Aprender sobre Accesibilidad]]
 	* [[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
-	* Aprender sobre [[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas]] ([[WCAG 2.0]] | [[WCAG 2.1]])
-	* [[Aprender sobre Accesibilidad en ELearining]]
-	* [[Aprender sobre Accesibilidad en Videojuegos]]
+	* Aprender sobre 
+		* [[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas]] ⬛
+		* ([[WCAG 2.0]] ⬛ | [[WCAG 2.1]]⬛)
+	* [[Aprender sobre Accesibilidad en ELearining]] ⬛
+	* [[Aprender sobre Accesibilidad en Videojuegos]] ⬛
 * [[Aprender sobre Altas Capacidades]]
 
 ### Productividad

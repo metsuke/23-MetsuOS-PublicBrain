@@ -48,7 +48,7 @@ tags:
 * Historia y evolución de Internet
 * Protocolo HTTP y navegadores web
 * Correo electrónico y protocolos asociados (SMTP, POP, IMAP)
-* DNS (Sistema de Nombres de Dominio) y resolución de direcciones
+* [[DNS (Sistema de Nombres de Dominio) y resolución de direcciones]]
 ## **Servicios y Aplicaciones en Internet**
 
 * World Wide Web (WWW) y sitios web

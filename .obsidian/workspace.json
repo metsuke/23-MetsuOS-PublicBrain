@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Direcciones IP y su estructura.md",
+                "file": "DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Direcciones IP y su estructura.md",
+                "file": "DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Direcciones IP y su estructura.md",
+                "file": "DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Direcciones IP y su estructura.md"
+                "file": "DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre Redes e Internet.md",
+    "DNS (Sistema de Nombres de Dominio) y resolución de direcciones.md",
     "Direcciones IP y su estructura.md",
     "Redes inalámbricas - Wi-Fi y estándares.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
@@ -202,7 +203,6 @@
     "PublicBrain/Guten Tag.md",
     "PublicBrain/Guten Morgen.md",
     "PublicBrain/Grandson.md",
-    "PublicBrain/Grandfather.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

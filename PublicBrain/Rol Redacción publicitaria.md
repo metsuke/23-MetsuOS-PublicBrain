@@ -1,5 +1,5 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
 a11y: 0
 checked: 0
@@ -8,13 +8,13 @@ translations:
 created: 2024-05-01T19:34:05.032Z
 modified: 2024-05-01T19:39:34.672Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
 ver_rev: 1
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Rol Redacción publicitaria
 
@@ -54,8 +54,13 @@ tags: []
 	* Excelente ortografía y gramática.
 	* Habilidades de investigación.
 	* Trabajo en equipo.
-### Cursos Recomendados para el Rol
+## Cursos recomendados
 
-* Curso de Escritura Online.
-* Curso de copywriting para Plataformas Digitales.
-* Curso de Técnicas de Storytelling para Marketing.
+* [Búsqueda en Platzi Redacción Publicitaria)](https://platzi.com/buscar/?search=Redacción%20publicitaria))
+
+ ### Escuelas Platzi Recomendadas
+
+* [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
+* [Escuela de Inglés](https://platzi.com/escuela/ingles/)
+
+{{MOS::Templates::Platzi_Referal}}

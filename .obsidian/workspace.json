@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes inalámbricas - Wi-Fi y estándares.md",
+                "file": "Direcciones IP y su estructura.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes inalámbricas - Wi-Fi y estándares.md",
+                "file": "Direcciones IP y su estructura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes inalámbricas - Wi-Fi y estándares.md",
+                "file": "Direcciones IP y su estructura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes inalámbricas - Wi-Fi y estándares.md"
+                "file": "Direcciones IP y su estructura.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   "active": "1db346e40f4a4ef5",
   "lastOpenFiles": [
     "PublicBrain/Aprender sobre Redes e Internet.md",
+    "Direcciones IP y su estructura.md",
     "Redes inalámbricas - Wi-Fi y estándares.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital.md",
     "PublicBrain/Promting Database.md",
@@ -202,7 +203,6 @@
     "PublicBrain/Guten Morgen.md",
     "PublicBrain/Grandson.md",
     "PublicBrain/Grandfather.md",
-    "PublicBrain/Griego.md",
     "PublicBrain/_templates",
     "PublicBrain/MOS_Templates",
     "MOS_Templates",

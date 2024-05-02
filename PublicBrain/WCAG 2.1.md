@@ -45,7 +45,7 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
         - 1.2.2 [[Texto Alternativo para contenido en tiempo real (Mejora)]]
     - [[Pauta 2 - Control del Teclado]] (Mejora)
 	    - [[Accesibilidad del teclado]]
-        - 2.1.4 Características de enfoque (Mejora)
+        - 2.1.4 [[Características de enfoque]] (Mejora)
     - **Pauta 3. Contenido que parpadea, se desplaza o se mueve automáticamente (Mejora)**
         - 3.2.6 Tres destellos o más (Mejora)
         - 3.3.5 Cambios en movimiento (Mejora)

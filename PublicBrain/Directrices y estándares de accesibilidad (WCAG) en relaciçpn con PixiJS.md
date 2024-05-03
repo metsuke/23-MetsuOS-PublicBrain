@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T10:18:53.749Z
-modified: 2024-04-14T14:29:03.824Z
+modified: 2024-05-03T21:33:53.451Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Directrices y estándares de accesibilidad (WCAG) en relaciçpn con PixiJS
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 Al aprender PixiJS, es importante tener en cuenta las directrices y estándares de accesibilidad web para garantizar que tus aplicaciones sean accesibles para todos los usuarios, incluidas las personas con discapacidades. Una de las guías de accesibilidad web más reconocidas y utilizadas es el Web Content Accessibility Guidelines (WCAG), desarrollado por el World Wide Web Consortium (W3C). Aquí hay algunos puntos clave de WCAG que se pueden aplicar al trabajar con PixiJS:
 

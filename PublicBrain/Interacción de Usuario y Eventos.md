@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T04:09:26.381Z
-modified: 2024-04-14T14:29:03.552Z
+modified: 2024-05-03T21:33:54.305Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Interacción de Usuario y Eventos
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 Por supuesto, en PixiJS, la interacción de usuario y los eventos son fundamentales para crear experiencias interactivas en aplicaciones y juegos web. Aquí te explico cómo puedes manejar la interacción del usuario y los eventos en PixiJS:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T00:28:36.887Z
-modified: 2024-04-14T14:29:03.287Z
+modified: 2024-05-03T21:38:25.251Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Publicación en plataformas populares de distribución de juegos (Pyxel)
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 ¡Claro! Una vez que hayas desarrollado tu juego en Pyxel y estés listo para compartirlo con el mundo, puedes considerar publicarlo en plataformas populares de distribución de juegos. Aquí tienes una lista de algunas de las plataformas más populares y cómo puedes publicar tu juego en ellas:
 

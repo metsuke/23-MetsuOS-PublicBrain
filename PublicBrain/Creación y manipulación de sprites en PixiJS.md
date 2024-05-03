@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T07:46:24.979Z
-modified: 2024-04-14T14:29:03.845Z
+modified: 2024-05-03T21:33:53.197Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Creación y manipulación de sprites en PixiJS
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 ¡Por supuesto! En PixiJS, los sprites son elementos fundamentales para representar gráficos en la pantalla. Los sprites pueden ser imágenes, texturas o incluso objetos gráficos que pueden ser manipulados y animados en tu aplicación o juego. Aquí tienes una guía básica sobre la creación y manipulación de sprites en PixiJS:
 

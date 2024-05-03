@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-18T03:51:12.396Z
-modified: 2024-04-18T03:57:31.018Z
+modified: 2024-05-03T21:33:54.592Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Presentación y revisión del proyecto final (PixiJS)
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 Al presentar y revisar tu proyecto final en PixiJS, es importante destacar los aspectos clave de tu trabajo y recibir retroalimentación constructiva. Aquí tienes algunos pasos que puedes seguir para realizar una presentación efectiva y una revisión detallada de tu proyecto:
 

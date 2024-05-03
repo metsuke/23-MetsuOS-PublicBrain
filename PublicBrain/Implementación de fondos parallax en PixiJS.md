@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T03:53:32.501Z
-modified: 2024-04-14T14:29:03.573Z
+modified: 2024-05-03T21:33:54.102Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Implementación de fondos parallax en PixiJS
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 ¡Claro! La implementación de fondos parallax es una técnica común en el desarrollo de juegos y aplicaciones web con PixiJS para crear efectos visuales atractivos y mejorar la sensación de profundidad en la escena. Aquí tienes una descripción de cómo se puede implementar:
 

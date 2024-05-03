@@ -9,26 +9,26 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-05-03T05:21:54.709Z
+modified: 2024-05-03T21:36:11.129Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 87
+ver_rev: 88
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender sobre PixiJS
+# Aprender sobre PixiJS ⚫①
 
 [[Aprender sobre Programación]]
 
 ## Introducción a PixiJS y Gráficos Básicos
 
-- [[Qué es PixiJS y su historia]] 🟥 
-- [[Configuración del entorno de desarrollo (PixiJS)]] 🟥 
-- [[Creación de un lienzo (canvas) en PixiJS 🟥]]
-- [[Dibujando formas básicas y gráficos (PixiJS)]] ⬛
+- [[Qué es PixiJS y su historia 🔴②]]
+- [[Configuración del entorno de desarrollo (PixiJS)  🔴②]]
+- [[Creación de un lienzo (canvas) en PixiJS 🔴②]]
+- [[Dibujando formas básicas y gráficos (PixiJS) ⚫①]] 
 
 ## [[Trabajo con Sprites y Texturas]]
 
@@ -92,4 +92,4 @@ tags:
 - [[Optimización y despliegue del proyecto final en PixiJS]] ⬛
 - [[Presentación y revisión del proyecto final (PixiJS)]] ⬛
 
-[[⚫🔴 🟡 🟢 🔵⚪]]
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

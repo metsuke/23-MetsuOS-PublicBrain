@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T00:47:18.850Z
-modified: 2024-04-14T14:29:03.802Z
+modified: 2024-05-03T21:38:11.728Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Estrategias de marketing y promoción para juegos Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 ¡Claro! La promoción y el marketing son aspectos fundamentales para dar a conocer tu juego Pyxel y atraer a jugadores. Aquí tienes algunas estrategias de marketing y promoción que puedes utilizar para promocionar tu juego Pyxel:
 

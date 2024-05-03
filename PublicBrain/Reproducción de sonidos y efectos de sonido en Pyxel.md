@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T21:00:33.594Z
-modified: 2024-04-14T14:29:03.276Z
+modified: 2024-05-03T21:38:25.448Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Reproducción de sonidos y efectos de sonido en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Pyxel es un programa de creación de pixeles y sonidos que te permite reproducir sonidos y efectos de sonido de forma sencilla. Puedes cargar archivos de sonido en formato WAV en Pyxel y asignarlos a diferentes eventos en tu proyecto, como por ejemplo la música de fondo, efectos de sonido para acciones de los personajes, etc.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T10:13:29.833Z
-modified: 2024-04-14T14:29:03.861Z
+modified: 2024-05-03T21:33:52.751Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Conceptos básicos de accesibilidad web (PixiJS)
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 Al aprender PixiJS, es importante comprender los conceptos básicos de accesibilidad web para garantizar que tus aplicaciones y juegos sean accesibles para todos los usuarios, incluidas las personas con discapacidades. Aquí hay algunos conceptos básicos de accesibilidad web que puedes aplicar al trabajar con PixiJS:
 

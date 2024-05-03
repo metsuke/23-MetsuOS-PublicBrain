@@ -1,6 +1,24 @@
-# Términos y conceptos básicos en tipografía
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-03T21:22:58.642Z
+modified: 2024-05-03T21:27:00.604Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
+# Términos y conceptos básicos en tipografía ⚫①
 
-[[Aprender sobre Tipografía]]
+[[Aprender sobre Tipografía ⚫①]]
 
 1. Tipografía: Se refiere al arte y técnica de componer textos mediante la selección y disposición de tipos (letras) en una página. La tipografía tiene un impacto significativo en la legibilidad, la estética y la comunicación visual de un texto.
 
@@ -21,3 +39,5 @@
 9. Jerarquía tipográfica: Se refiere a la organización visual y estructural de distintos niveles de texto (como títulos, subtítulos, cuerpo de texto, etc.) mediante el uso de diferentes tamaños, estilos y colores de fuente. La jerarquía tipográfica ayuda a guiar al lector a través del contenido de manera efectiva.
 
 10. Familia tipográfica: Es un conjunto de tipos de letra relacionados entre sí y diseñados para funcionar bien juntos. Una familia tipográfica puede incluir diferentes estilos (cursiva, negrita, regular, etc.) que mantienen una coherencia visual.
+
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

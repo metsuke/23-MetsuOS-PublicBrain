@@ -95,4 +95,4 @@ tags:
    - [[Recursos, herramientas y comunidades de apoyo (a11y en videojuegos)]] ⬛
    - [[Próximos pasos para seguir aprendiendo y contribuyendo (A11y en videojuegos)]] ⬛
 
-[[⚫🔴 🟡 🟢 🔵⚪]]
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]]

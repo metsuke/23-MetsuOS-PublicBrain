@@ -9,25 +9,25 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.592Z
-modified: 2024-04-14T14:29:04.033Z
+modified: 2024-05-03T21:27:06.992Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Tipografía
+# Aprender sobre Tipografía ⚫①
 
 [[PublicBrain/Index]]
 
 ## [[ Introducción a la Tipografía]]
 
-- [[Historia de la tipografía]]
-- Importancia de la tipografía en el diseño
-- [[Términos y conceptos básicos en tipografía]]
+- [[Historia de la tipografía ⚫①]]
+- [[Importancia de la tipografía en el diseño ⚫①]]
+- [[Términos y conceptos básicos en tipografía ⚫①]]
 ## Anatomía de las Fuentes
 
 - Elementos de una letra
@@ -61,3 +61,5 @@ tags:
 - Herramientas y software para tipografía
 - Bibliografía y lecturas recomendadas
 - Comunidades y foros de diseño tipográfico
+
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

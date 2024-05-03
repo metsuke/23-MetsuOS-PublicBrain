@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T04:16:26.504Z
-modified: 2024-04-14T14:29:03.850Z
+modified: 2024-05-03T21:38:10.806Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Creación de animaciones simples en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 En Pyxel, la creación de animaciones simples es una parte importante para dar vida a tus proyectos de pixel art. Aquí te explico cómo puedes crear animaciones básicas en Pyxel:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T10:25:32.492Z
-modified: 2024-04-14T14:29:03.846Z
+modified: 2024-05-03T21:38:11.202Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Creación de sistemas de puntuación y marcadores en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 En Pyxel, la creación de sistemas de puntuación y marcadores es una parte importante para muchos juegos. Puedes implementar sistemas simples o más complejos según las necesidades de tu juego. Aquí te muestro un ejemplo básico de cómo podrías implementar un sistema de puntuación y marcador en Pyxel:
 

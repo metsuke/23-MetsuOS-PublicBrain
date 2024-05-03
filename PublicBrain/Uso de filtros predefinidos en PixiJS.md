@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-13T12:55:20.984Z
-modified: 2024-04-14T14:29:03.220Z
+modified: 2024-05-03T21:33:55.216Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de filtros predefinidos en PixiJS
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 ¡Claro! En PixiJS, los filtros predefinidos son una característica poderosa que te permite aplicar efectos visuales a tus elementos de visualización. Estos filtros son efectos listos para usar que puedes aplicar a sprites, texturas o contenedores para lograr diferentes efectos estéticos en tu aplicación o juego.
 

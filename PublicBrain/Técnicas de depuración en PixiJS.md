@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-16T06:26:01.904Z
-modified: 2024-04-16T06:30:16.216Z
+modified: 2024-05-03T21:33:55.008Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Técnicas de depuración en PixiJS
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 Depurar aplicaciones PixiJS es fundamental para identificar y corregir errores en tu código y asegurar un funcionamiento óptimo. Aquí tienes algunas técnicas de depuración que pueden resultarte útiles:
 

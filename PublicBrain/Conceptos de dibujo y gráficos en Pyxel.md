@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T07:50:12.286Z
-modified: 2024-04-14T14:29:03.859Z
+modified: 2024-05-03T21:38:10.584Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Conceptos de dibujo y gráficos en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Por supuesto, en el contexto de aprender sobre Pyxel, es importante comprender los conceptos básicos de dibujo y gráficos que son fundamentales para utilizar esta herramienta de creación de pixel art. Aquí tienes una descripción de algunos de los conceptos clave:
 

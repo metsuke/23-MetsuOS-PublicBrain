@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T04:13:21.621Z
-modified: 2024-04-14T14:29:03.871Z
+modified: 2024-05-03T21:38:08.130Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Carga y visualización de sprites en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 En Pyxel, la carga y visualización de sprites es un aspecto esencial para crear gráficos y animaciones en tus proyectos de pixel art. Aquí te explico cómo cargar y mostrar sprites en Pyxel:
 

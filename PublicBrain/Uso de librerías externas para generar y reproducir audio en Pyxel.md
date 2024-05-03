@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T21:02:46.211Z
-modified: 2024-04-14T14:29:03.218Z
+modified: 2024-05-03T21:38:25.596Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de librerías externas para generar y reproducir audio en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 En Pyxel, aunque la biblioteca en sí misma no ofrece una funcionalidad completa para la generación y reproducción avanzada de audio, puedes integrar otras librerías externas para lograr estas funciones. Dos opciones comunes son Pygame y librosa.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-13T12:57:16.175Z
-modified: 2024-04-14T14:29:04.075Z
+modified: 2024-05-03T21:33:52.286Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Animación de efectos y transiciones en PixiJS
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 ¡Por supuesto! Animar efectos y transiciones es una parte emocionante del desarrollo con PixiJS, ya que te permite agregar movimiento y dinamismo a tus aplicaciones y juegos. Aquí tienes algunos pasos y conceptos clave para animar efectos y transiciones en PixiJS:
 

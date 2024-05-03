@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-17T14:37:36.740Z
-modified: 2024-04-17T14:48:08.303Z
+modified: 2024-05-03T21:38:20.844Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Integración de elementos gráficos, sonidos y mecánicas de juego (Pyxel)
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 La integración de elementos gráficos, sonidos y mecánicas de juego en Pyxel es esencial para crear una experiencia de juego completa y atractiva. Aquí hay una guía sobre cómo llevar a cabo esta integración de manera efectiva:
 

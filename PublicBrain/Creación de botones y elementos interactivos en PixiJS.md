@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T20:41:17.399Z
-modified: 2024-04-14T14:29:03.850Z
+modified: 2024-05-03T21:33:53.082Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Creación de botones y elementos interactivos en PixiJS
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 ¡Claro! La creación de botones y elementos interactivos en PixiJS es una parte fundamental del desarrollo de aplicaciones y juegos web. Aquí tienes una guía básica sobre cómo crear botones y otros elementos interactivos:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T07:54:32.940Z
-modified: 2024-04-14T14:29:03.826Z
+modified: 2024-05-03T21:38:11.467Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Dibujando formas geométricas básicas (Pyxel)
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 En Pyxel, puedes dibujar formas geométricas básicas, como rectángulos, círculos y líneas, utilizando sus funciones de dibujo integradas. Aquí tienes una descripción de cómo dibujar algunas de estas formas:
 

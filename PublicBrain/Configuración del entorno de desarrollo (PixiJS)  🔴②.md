@@ -9,23 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.031Z
-modified: 2024-05-02T19:41:15.083Z
+modified: 2024-05-03T21:35:35.464Z
 supervisado: 2024-05-01T19:55:44.414Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Configuración del entorno de desarrollo (PixiJS)
+# Configuración del entorno de desarrollo (PixiJS)  🔴②
 
-[[Aprender sobre PixiJS]]
-
-# Configuración del entorno de desarrollo (PixiJS)
-
-[Aprender sobre PixiJS](#)
+[[Aprender sobre PixiJS ⚫①]]
 
 Para configurar un entorno de desarrollo para utilizar PixiJS, debes seguir los siguientes pasos:
 
@@ -96,3 +92,5 @@ Siguiendo estos pasos, habrás configurado con éxito tu entorno de desarrollo p
 * No se han encontrado referencias que refuten el contenido presentado.
 
 *Nota:* Es importante mencionar que la sección de referencias que refutan el contenido está vacía, ya que no se encontraron fuentes que contradigan el contenido presentado.
+
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

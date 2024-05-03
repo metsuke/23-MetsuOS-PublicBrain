@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T11:43:03.276Z
-modified: 2024-04-14T14:29:03.214Z
+modified: 2024-05-03T21:38:25.695Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de máscaras de colisión y cajas delimitadoras en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 En Pyxel, el uso de máscaras de colisión y cajas delimitadoras es fundamental para la detección precisa de colisiones entre objetos en tu juego. Estas técnicas te permiten definir áreas específicas de tus sprites que se utilizarán para la detección de colisiones, en lugar de depender únicamente de la forma y el tamaño del sprite en su totalidad. Aquí te explico cómo puedes utilizar máscaras de colisión y cajas delimitadoras en Pyxel:
 

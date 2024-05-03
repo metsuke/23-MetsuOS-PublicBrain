@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.105Z
-modified: 2024-04-14T14:29:03.826Z
+modified: 2024-05-03T21:34:33.323Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Dibujando formas básicas y gráficos (PixiJS)
+# Dibujando formas básicas y gráficos (PixiJS) ⚫①
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 En PixiJS, puedes dibujar formas básicas y gráficos utilizando la clase `Graphics`. Esta clase te permite crear y manipular gráficos vectoriales en tu lienzo. Aquí te muestro cómo puedes dibujar algunas formas básicas y gráficos con PixiJS:
 
@@ -85,3 +85,5 @@ En PixiJS, puedes dibujar formas básicas y gráficos utilizando la clase `Graph
    ```
 
 Estos son solo algunos ejemplos de cómo puedes dibujar formas básicas y gráficos utilizando PixiJS. Puedes combinar estas técnicas para crear gráficos más complejos y experiencias visuales interactivas en tu aplicación web.
+
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

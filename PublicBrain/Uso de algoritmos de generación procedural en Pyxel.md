@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T03:59:58.298Z
-modified: 2024-04-14T14:29:03.221Z
+modified: 2024-05-03T21:38:25.543Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de algoritmos de generación procedural en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Claro, en Pyxel puedes implementar algoritmos de generación procedural para crear contenido de manera dinámica y variada. Aquí te dejo una guía sobre cómo puedes hacerlo:
 

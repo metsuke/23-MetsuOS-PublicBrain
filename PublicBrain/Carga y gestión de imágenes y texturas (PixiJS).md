@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T07:43:18.747Z
-modified: 2024-04-14T14:29:03.871Z
+modified: 2024-05-03T21:33:52.679Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Carga y gestión de imágenes y texturas (PixiJS)
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 Por supuesto, en el contexto de aprender PixiJS, la carga y gestión de imágenes y texturas es un aspecto fundamental para crear contenido visual en tus aplicaciones o juegos. PixiJS proporciona una manera fácil y eficiente de cargar y manejar imágenes y texturas. Aquí hay una guía básica sobre cómo hacerlo:
 

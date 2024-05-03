@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T04:17:06.672Z
-modified: 2024-04-14T14:29:03.213Z
+modified: 2024-05-03T21:38:25.789Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de paletas de colores y modos de mezcla en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 En Pyxel, el uso de paletas de colores y modos de mezcla es esencial para dar estilo y crear efectos visuales interesantes en tus proyectos de pixel art. Aquí te explico cómo puedes utilizar paletas de colores y modos de mezcla en Pyxel:
 

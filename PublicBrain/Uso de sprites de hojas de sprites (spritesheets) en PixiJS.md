@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T00:24:55.726Z
-modified: 2024-04-14T14:29:03.213Z
+modified: 2024-05-03T21:33:55.259Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de sprites de hojas de sprites (spritesheets) en PixiJS
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 ¡Por supuesto! El uso de hojas de sprites (spritesheets) es una técnica común en el desarrollo de juegos y aplicaciones con PixiJS. Una hoja de sprites es una imagen que contiene múltiples frames de animación o imágenes de diferentes elementos del juego. Aquí te muestro cómo puedes usar hojas de sprites en PixiJS:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T07:47:38.862Z
-modified: 2024-04-14T14:29:04.075Z
+modified: 2024-05-03T21:33:52.174Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Anidando sprites y creando escenas interactivas
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 ¡Por supuesto! Anidar sprites y crear escenas interactivas son aspectos esenciales al trabajar con PixiJS para construir aplicaciones o juegos visualmente atractivos y dinámicos. Aquí tienes una guía sobre cómo hacerlo:
 

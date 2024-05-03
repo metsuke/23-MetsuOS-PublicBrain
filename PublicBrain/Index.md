@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-05-03T05:21:54.810Z
+modified: 2024-05-03T21:27:00.520Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 105
+ver_rev: 106
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] 
 
-[[Docs Database]] | [[IA Database]] | [[Promting Database]] | [[Tools Database]] | [[⚫🔴 🟡 🟢 🔵⚪]]
+[[Docs Database]] | [[IA Database]] | [[Promting Database]] | [[Tools Database]] | [[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]]
 
 [[Arrojando Luz sobre Polémicas Linguísticas]] | [[GPT4All Testing]]
 
@@ -84,7 +84,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Diseño
 
-* [[Aprender sobre Tipografía]]
+* [[Aprender sobre Tipografía ⚫①]]
 
 ### Física
 
@@ -104,8 +104,8 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre Videojuegos]]
 * Aprender sobre Desarrollo de Videojuegos
 	* Aprender sobre MPL
-		* [[Aprender sobre PixiJS]]
-		* [[Aprender sobre Pyxel]]
+		* [[Aprender sobre PixiJS ⚫①]]
+		* [[Aprender sobre Pyxel  ⚫①]]
 	
 ### Plena Inclusión
 
@@ -156,3 +156,5 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ## En proceso de inventario ...
 
 * [[Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)]]
+
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

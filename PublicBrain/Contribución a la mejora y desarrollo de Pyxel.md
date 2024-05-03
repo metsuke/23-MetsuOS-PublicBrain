@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-16T10:43:46.361Z
-modified: 2024-04-16T10:48:27.713Z
+modified: 2024-05-03T21:38:10.678Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Contribución a la mejora y desarrollo de Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Contribuir al desarrollo y mejora de Pyxel es una excelente manera de participar activamente en la comunidad y ayudar a hacer crecer esta herramienta. Aquí hay algunas formas en las que puedes contribuir al proyecto Pyxel:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-13T13:19:07.817Z
-modified: 2024-04-14T14:29:03.323Z
+modified: 2024-05-03T21:38:21.191Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Optimización y rendimiento de juegos en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
  ¡Claro! La optimización y el rendimiento son aspectos críticos en el desarrollo de juegos, incluso en entornos como Pyxel. Aquí tienes algunas estrategias y técnicas para mejorar la optimización y el rendimiento de tus juegos en Pyxel:
 

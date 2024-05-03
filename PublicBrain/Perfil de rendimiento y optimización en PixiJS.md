@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-16T06:27:01.446Z
-modified: 2024-04-16T06:30:16.241Z
+modified: 2024-05-03T21:33:54.477Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Perfil de rendimiento y optimización en PixiJS
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 Para mejorar el rendimiento de una aplicación PixiJS y optimizar su funcionamiento, es importante realizar un perfil de rendimiento y aplicar las técnicas adecuadas de optimización. Aquí tienes algunas sugerencias para realizar un perfil de rendimiento y optimizar una aplicación PixiJS:
 

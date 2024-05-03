@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.750Z
-modified: 2024-04-14T14:29:03.544Z
+modified: 2024-05-03T21:27:00.542Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Introducción a la Tipografía
 
-[[Aprender sobre Tipografía]]
+[[Aprender sobre Tipografía ⚫①]]
 
 La tipografía es el arte y técnica de disponer los caracteres de forma que se puedan leer y comprender con facilidad. Es una disciplina fundamental en el diseño gráfico y en la comunicación visual, ya que la tipografía es una herramienta clave para transmitir un mensaje de manera efectiva.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:46:34.195Z
-modified: 2024-04-15T05:49:16.941Z
+modified: 2024-05-03T21:38:12.000Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Exploración de la comunidad de desarrolladores de Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Explorar la comunidad de desarrolladores de Pyxel puede ser una experiencia enriquecedora y educativa para aquellos que están aprendiendo sobre esta plataforma. Aquí tienes algunas formas de explorar y participar en la comunidad de Pyxel:
 

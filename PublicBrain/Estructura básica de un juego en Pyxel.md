@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.185Z
-modified: 2024-04-14T14:29:03.800Z
+modified: 2024-05-03T21:38:11.865Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Estructura básica de un juego en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 En Pyxel, la estructura básica de un juego implica definir ciertos elementos esenciales que formarán parte de la experiencia de juego. Aquí tienes una descripción de los componentes básicos que suelen estar presentes en la estructura de un juego en Pyxel:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T03:58:47.908Z
-modified: 2024-04-14T14:29:03.847Z
+modified: 2024-05-03T21:38:11.107Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Creación de niveles y escenarios complejos en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Por supuesto, aquí tienes una guía sobre cómo puedes crear niveles y escenarios complejos en Pyxel:
 

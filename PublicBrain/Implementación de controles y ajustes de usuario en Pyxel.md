@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T10:26:47.520Z
-modified: 2024-04-14T14:29:03.573Z
+modified: 2024-05-03T21:38:12.093Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Implementación de controles y ajustes de usuario en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Implementar controles y ajustes de usuario en Pyxel es esencial para permitir a los jugadores personalizar su experiencia de juego y adaptarla a sus preferencias. Aquí hay algunas técnicas comunes que puedes emplear para implementar controles y ajustes de usuario:
 

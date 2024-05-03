@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-16T10:41:57.234Z
-modified: 2024-04-16T10:48:27.696Z
+modified: 2024-05-03T21:38:21.271Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Participación en eventos y concursos de juegos en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Participar en eventos y concursos de juegos es una excelente manera de involucrarte en la comunidad de desarrollo de juegos y ganar visibilidad para tus proyectos. Aquí tienes algunas formas de participar en eventos y concursos relacionados con Pyxel:
 

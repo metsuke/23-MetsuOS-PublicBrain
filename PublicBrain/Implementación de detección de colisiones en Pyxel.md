@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T11:41:46.374Z
-modified: 2024-04-14T14:29:03.573Z
+modified: 2024-05-03T21:38:12.193Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Implementación de detección de colisiones en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 En Pyxel, la implementación de la detección de colisiones es esencial para crear juegos interactivos y realistas. La detección de colisiones permite que los elementos del juego interactúen entre sí y respondan de manera adecuada a las interacciones del jugador. Aquí te explico cómo puedes implementar la detección de colisiones en tus juegos Pyxel:
 

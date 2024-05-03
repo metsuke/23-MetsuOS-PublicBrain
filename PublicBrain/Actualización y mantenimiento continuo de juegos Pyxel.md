@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:45:31.906Z
-modified: 2024-04-15T05:49:16.941Z
+modified: 2024-05-03T21:38:07.863Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Actualización y mantenimiento continuo de juegos Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Cuando se trata de actualizar y mantener continuamente juegos creados con Pyxel, hay varias consideraciones importantes que debes tener en cuenta para garantizar que tus juegos sigan siendo atractivos y funcionales para los jugadores. Aquí tienes algunos aspectos clave a considerar:
 

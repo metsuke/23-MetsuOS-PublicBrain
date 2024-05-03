@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T21:03:44.876Z
-modified: 2024-04-14T14:29:03.571Z
+modified: 2024-05-03T21:38:19.910Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Implementación de menús y pantallas de inicio en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Implementar menús y pantallas de inicio en Pyxel es una parte fundamental para crear una experiencia de usuario atractiva en tus juegos. Puedes lograr esto definiendo diferentes estados de juego y controlando la lógica de visualización de cada uno de ellos.
 

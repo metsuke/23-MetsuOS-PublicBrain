@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T21:01:17.988Z
-modified: 2024-04-14T14:29:03.847Z
+modified: 2024-05-03T21:38:11.029Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Creación de música de fondo y bucles de audio en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Pyxel es una biblioteca de Python especializada en la creación de videojuegos retro. Aunque no es tan conocida por su capacidad de manejar audio como lo es por sus capacidades gráficas, aún así ofrece algunas funciones básicas para trabajar con música de fondo y bucles de audio.
 

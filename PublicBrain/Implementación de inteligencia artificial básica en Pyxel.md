@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-13T13:07:12.618Z
-modified: 2024-04-14T14:29:03.572Z
+modified: 2024-05-03T21:38:19.800Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Implementación de inteligencia artificial básica en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Por supuesto. Implementar inteligencia artificial (IA) básica en Pyxel puede ser una forma interesante de agregar un componente de juego más dinámico y desafiante a tus proyectos. Aquí hay una guía básica para implementar una IA simple en un juego Pyxel:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.075Z
-modified: 2024-04-14T14:29:03.849Z
+modified: 2024-05-03T21:38:10.939Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Creación de la ventana del juego en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Para crear la ventana del juego en Pyxel, primero necesitas inicializar el entorno de juego y configurar algunos parámetros básicos, como el tamaño de la ventana y la paleta de colores. Aquí tienes un ejemplo básico de cómo puedes crear la ventana del juego en Pyxel:
 

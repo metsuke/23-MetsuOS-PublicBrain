@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-13T13:20:28.223Z
-modified: 2024-04-14T14:29:03.810Z
+modified: 2024-05-03T21:38:11.633Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Empaquetado y distribución de juegos Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Claro, empaquetar y distribuir juegos hechos con Pyxel es fundamental para que otros puedan disfrutar de tu trabajo. Aquí hay algunos pasos y consideraciones para empaquetar y distribuir tus juegos Pyxel:
 

@@ -1,6 +1,24 @@
-# Historia de la tipografía
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-03T21:21:32.460Z
+modified: 2024-05-03T21:27:06.897Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
+# Historia de la tipografía ⚫①
 
-[[Aprender sobre Tipografía]]
+[[Aprender sobre Tipografía ⚫①]]
 
 La historia de la tipografía se remonta a la antigua Mesopotamia, donde se utilizaban sellos de arcilla para marcar escrituras en tablillas de arcilla. Sin embargo, la tipografía tal como la conocemos hoy en día se originó en Europa durante la Edad Media.
 
@@ -11,3 +29,5 @@ A lo largo de los siglos, la tipografía ha evolucionado con la introducción de
 En el siglo XIX, con la Revolución Industrial, la tipografía experimentó un gran avance con la invención de nuevas técnicas de impresión, como la linotipia y la tipografía fotográfica. En el siglo XX, con la llegada de la era digital, la tipografía se transformó nuevamente con la creación de fuentes digitales y programas de diseño gráfico que permitieron una mayor personalización y creatividad en el diseño de textos.
 
 Hoy en día, la tipografía sigue siendo un elemento fundamental en el diseño gráfico, la publicidad, la comunicación visual y en muchos otros campos. Los diseñadores tipográficos continúan explorando nuevas formas de expresión y experimentando con diferentes estilos y técnicas para crear diseños tipográficos innovadores y creativos.
+
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

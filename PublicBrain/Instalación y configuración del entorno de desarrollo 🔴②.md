@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.661Z
-modified: 2024-05-02T19:20:00.401Z
+modified: 2024-05-03T21:39:50.397Z
 supervisado: 2024-04-14T14:29:03.560Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Instalación y configuración del entorno de desarrollo
+# Instalación y configuración del entorno de desarrollo 🔴②
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 ## Instalación de Python
 
@@ -56,4 +56,5 @@ tags:
 - No se encontraron referencias bibliográficas que refuten este contenido.
 
 **Nota:** Es importante mencionar que la instalación de Python y Pyxel puede variar dependiendo del sistema operativo y la versión de Python utilizada.
-```
+
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

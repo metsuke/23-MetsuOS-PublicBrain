@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-17T14:38:56.300Z
-modified: 2024-04-17T14:48:08.304Z
+modified: 2024-05-03T21:38:11.921Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Evaluación y presentación del proyecto final (Pyxel)
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 La evaluación y presentación del proyecto final en Pyxel es crucial para mostrar tu trabajo y recibir retroalimentación sobre tu juego. Aquí tienes algunos pasos a seguir para llevar a cabo esta etapa de manera efectiva:
 

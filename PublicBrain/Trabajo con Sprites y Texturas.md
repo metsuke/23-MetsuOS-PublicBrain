@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.814Z
-modified: 2024-04-14T14:29:03.226Z
+modified: 2024-05-03T21:33:54.879Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Trabajo con Sprites y Texturas
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 Trabajar con sprites y texturas es una parte fundamental al utilizar PixiJS para crear juegos y aplicaciones interactivas. Los sprites son imágenes que pueden ser manipuladas y animadas en la pantalla, mientras que las texturas representan la imagen o patrón utilizados por los sprites. Aquí tienes una guía básica sobre cómo trabajar con sprites y texturas en PixiJS:
 

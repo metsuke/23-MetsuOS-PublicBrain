@@ -6,27 +6,25 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.586Z
-modified: 2024-05-03T05:21:54.726Z
+modified: 2024-05-03T21:32:09.159Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 21
+ver_rev: 22
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Aprender sobre Pyxel
+# Aprender sobre Pyxel  ⚫①
 
 [[PublicBrain/Index|Index]]
 
-# Curso: Aprender sobre Pyxel
-
 ## Introducción a Pyxel
 
-- [[¿Qué es Pyxel?]] 🟥
-- [[Características y ventajas de Pyxel]] 🟥
-- [[Instalación y configuración del entorno de desarrollo]] 🟥
+- [[¿Qué es Pyxel?  🔴②]]
+- [[Características y ventajas de Pyxel 🔴②]]
+- [[Instalación y configuración del entorno de desarrollo 🔴②]]
 
 ## Fundamentos de Pyxel
 
@@ -90,4 +88,4 @@ tags: []
 - [[Integración de elementos gráficos, sonidos y mecánicas de juego (Pyxel)]] ⬛
 - [[Evaluación y presentación del proyecto final (Pyxel)]] ⬛
 
-[[⚫🔴 🟡 🟢 🔵⚪]]
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

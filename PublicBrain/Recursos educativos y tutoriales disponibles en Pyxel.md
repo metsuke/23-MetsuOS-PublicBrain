@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:47:52.282Z
-modified: 2024-04-15T05:49:16.940Z
+modified: 2024-05-03T21:38:25.353Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Recursos educativos y tutoriales disponibles en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 ¡Claro! Cuando estás aprendiendo sobre Pyxel, es útil contar con recursos educativos y tutoriales para comprender mejor la plataforma y mejorar tus habilidades de desarrollo de juegos. Aquí tienes algunos recursos educativos disponibles:
 

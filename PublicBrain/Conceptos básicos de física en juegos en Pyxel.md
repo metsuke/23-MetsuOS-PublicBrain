@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T11:35:24.653Z
-modified: 2024-04-14T14:29:03.860Z
+modified: 2024-05-03T21:38:10.445Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Conceptos básicos de física en juegos en Pyxel
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 En los juegos, especialmente en aquellos desarrollados con Pyxel, los conceptos básicos de física pueden agregar realismo y dinamismo a la jugabilidad. Aquí hay algunos conceptos fundamentales de física que son relevantes para los juegos:
 

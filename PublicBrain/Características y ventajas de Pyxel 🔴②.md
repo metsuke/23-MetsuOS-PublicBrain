@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.940Z
-modified: 2024-05-01T20:02:50.474Z
+modified: 2024-05-03T21:39:35.414Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Características y ventajas de Pyxel
+# Características y ventajas de Pyxel 🔴②
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 Pyxel es una herramienta de edición de gráficos de píxeles diseñada para la creación de arte pixelado y animaciones. A continuación, se presentan algunas de sus características y ventajas más destacadas:
 
@@ -55,3 +55,5 @@ En resumen, Pyxel es una herramienta recomendada para aquellos que buscan una he
 - Game Developer. (2020). The Decline of Pixel Art. Recuperado de <https://www.gamedev.net/articles/design-and-game-design/art-and-graphics/the-decline-of-pixel-art-r3516/>
 
 *Nota: El contenido original se ha refinado y humanizado para mejorar la legibilidad y la comprensión. Se han agregado secciones de referencia bibliográficas y de referencias que refutan el contenido para proporcionar una visión más completa y equilibrada.*
+
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

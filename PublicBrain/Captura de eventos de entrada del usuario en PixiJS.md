@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T04:10:16.772Z
-modified: 2024-04-14T14:29:03.873Z
+modified: 2024-05-03T21:33:52.565Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Captura de eventos de entrada del usuario en PixiJS
 
-[[Aprender sobre PixiJS]]
+[[Aprender sobre PixiJS ⚫①]]
 
 En PixiJS, la captura de eventos de entrada del usuario es fundamental para crear interacciones dinámicas en tus aplicaciones y juegos web. Aquí te explico cómo puedes capturar y manejar diferentes tipos de eventos de entrada del usuario:
 

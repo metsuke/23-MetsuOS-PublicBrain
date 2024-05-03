@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T10:23:02.163Z
-modified: 2024-04-14T14:29:03.368Z
+modified: 2024-05-03T21:38:21.013Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Manejo de la entrada de teclado y mouse (Pyxel)
 
-[[Aprender sobre Pyxel]]
+[[Aprender sobre Pyxel  ⚫①]]
 
 En Pyxel, el manejo de la entrada de teclado y mouse es fundamental para interactuar con tus aplicaciones y juegos. Pyxel ofrece funciones integradas para manejar la entrada de teclado y mouse de manera sencilla. Aquí te muestro cómo puedes hacerlo:
 

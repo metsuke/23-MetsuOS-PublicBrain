@@ -90,4 +90,4 @@ tags:
 - [[Resumen de los conceptos clave y conclusiones del curso]] ⬛
 - [[Recursos adicionales, lecturas recomendadas y comunidades de apoyo]] ⬛
 
-[[⚫🔴 🟡 🟢 🔵⚪]]
+[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]]

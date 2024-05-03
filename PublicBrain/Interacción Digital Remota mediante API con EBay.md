@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-05-02T18:35:09.964Z
+modified: 2024-05-03T05:21:54.837Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 68
+ver_rev: 69
 nav_primary: 
 nav_secondary: 
 tags:
@@ -91,5 +91,5 @@ tags:
 - [[Reflexión sobre el aprendizaje y la aplicación práctica IDRA-Ebay]] ⬛
 - [[Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay (IDRA-Ebay)]] ⬛
 
-[[⬛🟥 🟨 🟩 🟦 ⬜]] 
+[[⚫🔴 🟡 🟢 🔵⚪]] 
 

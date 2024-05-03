@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.586Z
-modified: 2024-05-02T19:13:37.989Z
+modified: 2024-05-03T05:21:54.726Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 20
+ver_rev: 21
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -90,4 +90,4 @@ tags: []
 - [[Integración de elementos gráficos, sonidos y mecánicas de juego (Pyxel)]] ⬛
 - [[Evaluación y presentación del proyecto final (Pyxel)]] ⬛
 
-[[⬛🟥 🟨 🟩 🟦 ⬜]]
+[[⚫🔴 🟡 🟢 🔵⚪]]

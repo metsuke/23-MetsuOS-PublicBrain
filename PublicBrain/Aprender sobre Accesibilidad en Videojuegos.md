@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.519Z
-modified: 2024-05-02T18:54:06.919Z
+modified: 2024-05-03T05:21:54.697Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 89
+ver_rev: 90
 nav_primary: 
 nav_secondary: 
 tags:
@@ -95,4 +95,4 @@ tags:
    - [[Recursos, herramientas y comunidades de apoyo (a11y en videojuegos)]] ⬛
    - [[Próximos pasos para seguir aprendiendo y contribuyendo (A11y en videojuegos)]] ⬛
 
-[[⬛🟥 🟨 🟩 🟦 ⬜]]
+[[⚫🔴 🟡 🟢 🔵⚪]]

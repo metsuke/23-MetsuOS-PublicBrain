@@ -25,7 +25,7 @@ tags:
 
 ## [[ Introducción a la Tipografía]]
 
-- Historia de la tipografía
+- [[Historia de la tipografía]]
 - Importancia de la tipografía en el diseño
 - Términos y conceptos básicos en tipografía
 ## Anatomía de las Fuentes

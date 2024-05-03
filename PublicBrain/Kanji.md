@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "-"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: ""
 a11y: 0
@@ -9,14 +9,14 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.813Z
-modified: 2024-04-14T14:29:03.527Z
+modified: 2024-05-02T21:39:55.223Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
-nav_secondary: []
+nav_secondary: 
 tags:
 ---
 # Kanji

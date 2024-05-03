@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "H"
-iaStatus_Supervisado: "-"
+iaStatus_Generado: H
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: ""
 a11y: 0
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-05-02T18:53:10.263Z
+modified: 2024-05-03T05:21:54.810Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 103
+ver_rev: 105
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] 
 
-[[Docs Database]] | [[IA Database]] | [[Promting Database]] | [[Tools Database]] | [[⬛🟥 🟨 🟩 🟦 ⬜]]
+[[Docs Database]] | [[IA Database]] | [[Promting Database]] | [[Tools Database]] | [[⚫🔴 🟡 🟢 🔵⚪]]
 
 [[Arrojando Luz sobre Polémicas Linguísticas]] | [[GPT4All Testing]]
 

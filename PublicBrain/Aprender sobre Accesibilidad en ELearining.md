@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.517Z
-modified: 2024-05-02T18:38:24.996Z
+modified: 2024-05-03T05:21:54.672Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 88
+ver_rev: 89
 nav_primary: 
 nav_secondary: 
 tags:
@@ -90,4 +90,4 @@ tags:
 - [[Resumen de los conceptos clave y conclusiones del curso]] ⬛
 - [[Recursos adicionales, lecturas recomendadas y comunidades de apoyo]] ⬛
 
-[[⬛🟥 🟨 🟩 🟦 ⬜]]
+[[⚫🔴 🟡 🟢 🔵⚪]]

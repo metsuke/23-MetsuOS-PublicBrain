@@ -27,7 +27,7 @@ tags:
 
 - [[Historia de la tipografía]]
 - Importancia de la tipografía en el diseño
-- Términos y conceptos básicos en tipografía
+- [[Términos y conceptos básicos en tipografía]]
 ## Anatomía de las Fuentes
 
 - Elementos de una letra

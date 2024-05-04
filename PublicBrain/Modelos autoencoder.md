@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T20:27:32.385Z
-modified: 2024-04-14T14:29:03.358Z
+modified: 2024-05-04T20:36:22.594Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Modelos autoencoder
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 Un autoencoder es un tipo de red neuronal que se utiliza en aprendizaje no supervisado para aprender una representación de los datos de entrada de manera eficiente. Consiste en dos partes, un codificador que transforma los datos de entrada en una representación comprimida (llamada código latente) y un decodificador que reconstruye los datos de entrada a partir de esta representación.
 

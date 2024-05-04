@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.463Z
-modified: 2024-04-29T21:19:39.987Z
+modified: 2024-05-04T20:36:22.050Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Funciones de activación comunes (Sigmoid, ReLU, Tanh)
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 Las funciones de activación son componentes fundamentales en las redes neuronales artificiales, ya que permiten introducir no linealidades en el modelo, lo que le da la capacidad de aprender y modelar relaciones complejas en los datos. Algunas de las funciones de activación más comunes son:
 

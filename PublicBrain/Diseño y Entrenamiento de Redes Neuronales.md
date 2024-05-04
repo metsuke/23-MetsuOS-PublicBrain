@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.127Z
-modified: 2024-04-22T10:59:17.976Z
+modified: 2024-05-04T20:36:21.761Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Diseño y Entrenamiento de Redes Neuronales
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 El diseño y entrenamiento de redes neuronales es un proceso fundamental en la construcción de modelos de inteligencia artificial. Consiste en definir la arquitectura de la red, que incluye el número de capas ocultas, el número de nodos en cada capa, la función de activación y las conexiones entre los nodos.
 

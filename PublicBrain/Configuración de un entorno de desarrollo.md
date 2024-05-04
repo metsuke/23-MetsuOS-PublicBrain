@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T20:30:14.649Z
-modified: 2024-04-14T14:29:03.858Z
+modified: 2024-05-04T20:36:21.306Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Configuración de un entorno de desarrollo
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 *Configuración de un entorno de desarrollo en inteligencia artificial*
 

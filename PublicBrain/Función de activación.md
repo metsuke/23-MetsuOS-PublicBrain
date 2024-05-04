@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.469Z
-modified: 2024-04-29T21:19:39.987Z
+modified: 2024-05-04T20:36:22.148Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Función de activación
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 En el contexto de las redes neuronales en inteligencia artificial, la función de activación es un componente clave que se utiliza para introducir no linealidades en el modelo. Estas funciones son aplicadas a la salida de cada neurona en la red y juegan un papel crucial en la capacidad de la red para aprender y modelar relaciones complejas en los datos. Aquí hay información sobre las funciones de activación comunes:
 

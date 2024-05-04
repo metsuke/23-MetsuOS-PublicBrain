@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.594Z
-modified: 2024-04-14T14:29:03.311Z
+modified: 2024-05-04T20:36:22.630Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Pesos y bias (Redes Neuronales)
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 En el contexto de las redes neuronales artificiales, los pesos y los bias son parámetros ajustables que se utilizan para determinar el comportamiento de la red.
 

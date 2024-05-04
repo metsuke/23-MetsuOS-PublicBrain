@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.178Z
-modified: 2024-04-14T14:29:03.805Z
+modified: 2024-05-04T20:36:21.857Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Entrenamiento y ajuste de hiperparámetros
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 El entrenamiento de una red neuronal es el proceso de ajustar los parámetros internos de la red para que pueda aprender a realizar una tarea específica, como reconocer patrones en datos o tomar decisiones. Durante el entrenamiento, la red neuronal es alimentada con un conjunto de datos de entrada (por ejemplo, imágenes, texto, señales) junto con las salidas deseadas. La red ajusta sus parámetros internos mediante un algoritmo de optimización para minimizar la diferencia entre las salidas predichas y las salidas reales.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.769Z
-modified: 2024-04-14T14:29:03.538Z
+modified: 2024-05-04T20:28:53.759Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Introducción
 
-[[Aprender sobre Inteligencia Artificial]]
+[[Aprender sobre Inteligencia Artificial ⚫①]]
 
 Una criptomoneda es una forma de moneda digital que utiliza criptografía para garantizar transacciones seguras, controlar la creación de nuevas unidades y verificar la transferencia de activos. Las criptomonedas funcionan en una tecnología conocida como blockchain, que es un libro mayor distribuido y descentralizado que registra todas las transacciones realizadas.
 

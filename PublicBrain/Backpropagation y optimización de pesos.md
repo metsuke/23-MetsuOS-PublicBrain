@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.795Z
-modified: 2024-04-14T14:29:03.984Z
+modified: 2024-05-04T20:36:20.304Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Backpropagation y optimización de pesos
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 Backpropagation es un algoritmo utilizado en redes neuronales para entrenar el modelo, es decir, para ajustar los pesos de las conexiones entre las neuronas de la red de manera que se minimice la función de pérdida.
 

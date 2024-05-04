@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T08:58:27.756Z
-modified: 2024-04-14T14:29:03.795Z
+modified: 2024-05-04T20:36:21.939Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Evaluación de modelos y métricas
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 En el campo de la inteligencia artificial y las redes neuronales, la evaluación de modelos es un paso crucial para determinar la efectividad y el rendimiento de un modelo de aprendizaje automático. La evaluación de un modelo se realiza utilizando métricas específicas que permiten medir su desempeño en tareas específicas, como la clasificación, la regresión, o cualquier otro tipo de problema que se esté abordando.
 

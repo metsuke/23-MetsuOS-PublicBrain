@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T08:57:13.101Z
-modified: 2024-04-14T14:29:03.830Z
+modified: 2024-05-04T20:36:21.678Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Desarrollo de modelos de redes neuronales desde cero
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 El desarrollo de modelos de redes neuronales desde cero es un proceso fundamental en el aprendizaje y comprensión de cómo funcionan estas redes en inteligencia artificial. Al crear un modelo de red neuronal desde cero, se tiene la oportunidad de entender en detalle cada componente y paso involucrado en su implementación.
 

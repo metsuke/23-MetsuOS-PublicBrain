@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.643Z
-modified: 2024-04-14T14:29:04.027Z
+modified: 2024-05-04T20:36:19.776Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Arquitectura de las redes feedforward
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 Por supuesto, estaré encantado de hablarte sobre la arquitectura de las redes neuronales feedforward en el contexto de la inteligencia artificial.
 

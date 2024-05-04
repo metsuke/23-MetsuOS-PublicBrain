@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.935Z
-modified: 2024-04-14T14:29:03.935Z
+modified: 2024-05-04T20:36:20.383Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Capas convolucionales, de pooling y completamente conectadas
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 Las redes neuronales convolucionales (CNN) son un tipo de red neuronal especializado en procesar datos en forma de mallas, como imágenes. Las CNN consisten en varias capas, incluyendo capas convolucionales, capas de pooling y capas completamente conectadas.
 

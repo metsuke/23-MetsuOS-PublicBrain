@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T10:09:15.690Z
-modified: 2024-04-14T14:29:03.305Z
+modified: 2024-05-04T20:36:22.640Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Posibilidades futuras y aplicaciones emergentes
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 Las redes neuronales en inteligencia artificial tienen un potencial enorme y se espera que se conviertan en una tecnología fundamental en muchas áreas en el futuro. Algunas de las posibilidades futuras y aplicaciones emergentes incluyen:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.638Z
-modified: 2024-04-14T14:29:03.280Z
+modified: 2024-05-04T20:36:22.729Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Redes Neuronales Convolucionales (CNNs)
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 Las Redes Neuronales Convolucionales (CNNs) son un tipo de red neuronal especialmente diseñado para procesar datos que tienen una estructura de cuadrícula, como imágenes. Las CNNs han demostrado ser extremadamente efectivas en tareas de visión por computadora, como reconocimiento de objetos, clasificación de imágenes, segmentación semántica, entre otros.
 

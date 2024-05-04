@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Rol Desarrollo web  ⚫①.md",
+                "file": "PublicBrain/Index ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Rol Desarrollo web  ⚫①.md",
+                "file": "PublicBrain/Index ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Rol Desarrollo web  ⚫①.md",
+                "file": "PublicBrain/Index ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Rol Desarrollo web  ⚫①.md"
+                "file": "PublicBrain/Index ⚫①.md"
               }
             }
           },
@@ -165,32 +165,32 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
-    "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital  ⚫①.md",
-    "PublicBrain/Index ⚫①.md",
-    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
-    "PublicBrain/Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ⚫①.md",
-    "PublicBrain/Departamento Creativo (Microagencia Marketing Digital)  ⚫①.md",
-    "PublicBrain/Rol Desarrollo web  ⚫①.md",
-    "Rol Desarrollo web.md",
-    "PublicBrain/Rol Redacción publicitaria.md",
-    "PublicBrain/Promting Database ⚫①.md",
-    "PublicBrain/Aprender sobre Tipografía ⚫①.md",
-    "PublicBrain/Términos y conceptos básicos en tipografía ⚫①.md",
-    "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
-    "PublicBrain/¿Qué es Pyxel?  🔴②.md",
-    "PublicBrain/Instalación y configuración del entorno de desarrollo 🔴②.md",
-    "PublicBrain/Características y ventajas de Pyxel 🔴②.md",
-    "PublicBrain/Importancia de la tipografía en el diseño ⚫①.md",
-    "PublicBrain/Historia de la tipografía ⚫①.md",
-    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
-    "PublicBrain/Creación de un lienzo (canvas) en PixiJS 🔴②.md",
-    "PublicBrain/Configuración del entorno de desarrollo (PixiJS)  🔴②.md",
-    "PublicBrain/Qué es PixiJS y su historia 🔴②.md",
-    "PublicBrain/Dibujando formas básicas y gráficos (PixiJS) ⚫①.md",
-    "Términos y conceptos básicos en tipografía ⚫①.md",
-    "Importancia de la tipografía en el diseño ⚫①.md",
-    "Historia de la tipografía ⚫①.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial ⚫①.md",
+    "PublicBrain/¿Qué es la Inteligencia Artificial? ⚫①.md",
+    "PublicBrain/La Inteligencia Artificial en tanto ciencia ⚫①.md",
+    "PublicBrain/Historia y evolución de la IA ⚫①.md",
+    "PublicBrain/Aplicaciones de la IA en la vida cotidiana ⚫①.md",
+    "PublicBrain/Aprendizaje automático (Machine Learning) ⚫①.md",
+    "PublicBrain/Conceptos básicos sobre Machine Learning ⚫①.md",
+    "PublicBrain/Tipos de aprendizaje automático (supervisado, no supervisado, reforzado) ⚫①.md",
+    "PublicBrain/Algoritmos de aprendizaje automático (regresión, clasificación, clustering) ⚫①.md",
+    "PublicBrain/Redes Neuronales Artificiales ⚫①.md",
+    "PublicBrain/Estructura y funcionamiento de las  redes neuronales ⚫①.md",
+    "PublicBrain/Entrenamiento de redes neuronales ⚫①.md",
+    "PublicBrain/Aplicaciones de redes neuronales profundas (Deep Learning) ⚫①.md",
+    "PublicBrain/Python en IA ⚫①.md",
+    "PublicBrain/Bibliotecas populares (NumPy, pandas, scikit-learn, TensorFlow, PyTorch) ⚫①.md",
+    "PublicBrain/Ejemplos de código (Python IA) ⚫①.md",
+    "PublicBrain/Entornos de desarrollo (IDEs) para IA ⚫①.md",
+    "PublicBrain/Regulaciones y directrices éticas en Inteligencia Artificial ⚫①.md",
+    "PublicBrain/Jupyter Notebook ⚫①.md",
+    "PublicBrain/Google Colab ⚫①.md",
+    "PublicBrain/IDEs especializados en IA ⚫①.md",
+    "PublicBrain/Recopilación y Preprocesamiento de Datos ⚫①.md",
+    "PublicBrain/Adquisición de datos ⚫①.md",
+    "PublicBrain/Limpieza y normalización de datos ⚫①.md",
+    "PublicBrain/Exploración de datos (Data Exploration) ⚫①.md",
+    "PublicBrain/Ingeniería de características (Feature Engineering) ⚫①.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

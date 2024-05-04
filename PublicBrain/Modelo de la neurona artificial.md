@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.202Z
-modified: 2024-04-14T14:29:03.359Z
+modified: 2024-05-04T20:36:28.208Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Modelo de la neurona artificial
 
-[[Redes Neuronales Artificiales]]
+[[Redes Neuronales Artificiales ⚫①]]
 
 ¡Por supuesto! El modelo de la neurona artificial es fundamental en el estudio de las redes neuronales en inteligencia artificial. Es la unidad básica de procesamiento en una red neuronal artificial y está inspirada en la estructura y funcionamiento de las neuronas biológicas.
 

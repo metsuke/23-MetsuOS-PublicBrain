@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T07:31:14.426Z
-modified: 2024-04-14T14:29:03.225Z
+modified: 2024-05-04T20:36:23.023Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Transfer learning
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 El Transfer learning es una técnica en el campo del aprendizaje profundo (deep learning) donde se aprovecha el conocimiento adquirido al entrenar un modelo en una tarea específica para luego utilizar ese conocimiento en una tarea relacionada pero diferente. En lugar de entrenar un modelo desde cero para cada nueva tarea, el Transfer learning permite reutilizar parte o la totalidad de un modelo previamente entrenado y adaptarlo a la nueva tarea.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:33:45.516Z
-modified: 2024-04-15T05:37:37.783Z
+modified: 2024-05-04T20:28:53.540Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Influencia y legado en la filosofía contemporánea (Estudio persamiento y filosofía de una persona)
 
-[[Aprender sobre Inteligencia Artificial]]
+[[Aprender sobre Inteligencia Artificial ⚫①]]
 
 Claro, la influencia y el legado de una persona en la filosofía contemporánea pueden ser muy significativos y duraderos. Aquí hay algunas formas en las que el pensamiento y la filosofía de una persona pueden influir en la filosofía contemporánea:
 

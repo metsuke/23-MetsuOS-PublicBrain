@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T10:10:00.125Z
-modified: 2024-04-14T14:29:03.234Z
+modified: 2024-05-04T20:36:22.928Z
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Tendencias y avances en investigación
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 actual en el campo de las redes neuronales?
 

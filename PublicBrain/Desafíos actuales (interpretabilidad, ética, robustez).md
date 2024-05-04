@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T10:19:25.280Z
-modified: 2024-04-14T14:29:03.831Z
+modified: 2024-05-04T20:36:21.506Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Desafíos actuales (interpretabilidad, ética, robustez)
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 Los desafíos actuales en el campo de las redes neuronales en inteligencia artificial incluyen la interpretabilidad, la ética y la robustez.
 

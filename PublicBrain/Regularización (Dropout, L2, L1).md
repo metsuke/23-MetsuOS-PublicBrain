@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.640Z
-modified: 2024-04-14T14:29:03.278Z
+modified: 2024-05-04T20:36:22.870Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Regularización (Dropout, L2, L1)
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 La regularización en el contexto de las redes neuronales en inteligencia artificial es una técnica utilizada para prevenir el sobreajuste (overfitting) del modelo a los datos de entrenamiento. El sobreajuste ocurre cuando el modelo se ajusta demasiado a los datos de entrenamiento, capturando incluso el ruido de los datos y no generalizando bien a nuevos ejemplos.
 

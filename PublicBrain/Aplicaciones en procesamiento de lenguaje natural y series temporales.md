@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T03:49:51.336Z
-modified: 2024-04-14T14:29:04.072Z
+modified: 2024-05-04T20:36:19.674Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aplicaciones en procesamiento de lenguaje natural y series temporales
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 Las redes neuronales en inteligencia artificial han sido aplicadas de manera exitosa en diversas áreas, incluyendo el procesamiento de lenguaje natural y el análisis de series temporales.
 

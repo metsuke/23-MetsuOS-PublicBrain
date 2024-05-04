@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.636Z
-modified: 2024-04-14T14:29:03.284Z
+modified: 2024-05-04T20:36:22.712Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Recopilación y preparación de datos
 
-[[Estructura y funcionamiento de las  redes neuronales]]
+[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 
 La recopilación y preparación de datos es una parte fundamental en el proceso de entrenamiento de una red neuronal en inteligencia artificial. A continuación, detallo algunos aspectos importantes de este proceso:
 

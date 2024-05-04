@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-04-29T11:09:55.336Z
+modified: 2024-05-03T21:51:01.017Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 61
+ver_rev: 62
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Curso sobre estudiar el pensamiento y filosofía de una persona
 
-[[PublicBrain/Index|Index]] | [[Aprender con Pablo Grueso]]
+[[Index ⚫①|Index ⚫①]] | [[Aprender con Pablo Grueso]]
 
 # Índice
 

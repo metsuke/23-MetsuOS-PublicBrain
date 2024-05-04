@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.813Z
-modified: 2024-04-25T19:22:04.958Z
+modified: 2024-05-03T21:51:07.305Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 53
+ver_rev: 54
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Tools Database
 
-[[PublicBrain/Index|Index]]
+[[Index ⚫①|Index ⚫①]]
 
 * [Buscador caracteres UTF](https://www.amp-what.com/unicode/search/square)
 * [ChatGPT](https://chat.openai.com/)

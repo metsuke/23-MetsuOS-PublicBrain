@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.488Z
-modified: 2024-04-16T11:21:39.488Z
+modified: 2024-05-03T21:50:54.355Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender a radiografiar un átomo
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 # Curso sobre Aprender a Radiografiar un Átomo
 

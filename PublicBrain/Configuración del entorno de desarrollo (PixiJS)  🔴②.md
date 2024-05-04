@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.031Z
-modified: 2024-05-03T21:35:35.464Z
+modified: 2024-05-04T06:47:03.250Z
 supervisado: 2024-05-01T19:55:44.414Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -93,4 +93,4 @@ Siguiendo estos pasos, habrás configurado con éxito tu entorno de desarrollo p
 
 *Nota:* Es importante mencionar que la sección de referencias que refutan el contenido está vacía, ya que no se encontraron fuentes que contradigan el contenido presentado.
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

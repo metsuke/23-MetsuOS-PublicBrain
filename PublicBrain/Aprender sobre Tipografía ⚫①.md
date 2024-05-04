@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.592Z
-modified: 2024-05-03T21:27:06.992Z
+modified: 2024-05-04T06:47:03.158Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Tipografía ⚫①
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 ## [[ Introducción a la Tipografía]]
 
@@ -62,4 +62,4 @@ tags:
 - Bibliografía y lecturas recomendadas
 - Comunidades y foros de diseño tipográfico
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

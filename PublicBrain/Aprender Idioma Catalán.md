@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.416Z
-modified: 2024-04-14T14:29:04.070Z
+modified: 2024-05-03T21:50:52.492Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender Idioma Catalán
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Index ⚫①#Aprender Idiomas]]
 
 * CA | [[Catalán]] 
 	* [[Niveles Oficiales CA]]

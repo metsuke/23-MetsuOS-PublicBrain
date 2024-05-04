@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.616Z
-modified: 2024-05-02T05:26:21.573Z
+modified: 2024-05-04T06:47:03.495Z
 supervisado: 2024-05-02T05:26:21.573Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 88
+ver_rev: 90
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Promting Database
+# Promting Database ⚫①
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 ## Refinar Contenido
 
@@ -72,3 +72,5 @@ tags:
 ## Recomendar Cursos
 
 * **PROMO CURSO PLATZI (Mas transparente no puedo ser xD)** - puedes crear una reseña sobre el curso de platzi Curso para Estructurar una Microagencia de Marketing Digital necesito un mensaje claro y directo que atraiga estudiantes y al tiempo llame la atencion de la empresa que lo ofrece para colaborar
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

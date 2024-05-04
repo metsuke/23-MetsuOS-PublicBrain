@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.533Z
-modified: 2024-05-02T21:39:17.838Z
+modified: 2024-05-03T21:51:04.041Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Hardware Libre - Microprocesadores
 
-[[PublicBrain/Index]] | [[Libre-SOC]]
+[[Index ⚫①]] | [[Libre-SOC]]
 
 Los microprocesadores juegan un papel crucial. Un microprocesador es una unidad central de procesamiento (CPU) en un sistema informático que realiza las operaciones aritméticas y lógicas básicas. En el ámbito del hardware libre, se busca proporcionar diseños de microprocesadores abiertos, lo que significa que sus especificaciones y planos están disponibles públicamente para que cualquiera los pueda estudiar, modificar y distribuir.
 

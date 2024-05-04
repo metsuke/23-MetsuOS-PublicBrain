@@ -9,23 +9,23 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-05-01T19:33:44.105Z
+modified: 2024-05-04T19:26:08.228Z
 supervisado: 2024-04-14T14:29:03.798Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 108
+ver_rev: 110
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Estructurar una Microagencia de Marketing Digital
+# Estructurar una Microagencia de Marketing Digital  ⚫①
 
-* [[PublicBrain/Index|Imdex]] 
-	* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital]]
+* [[Index ⚫①|Imdex]] 
+	* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital  ⚫①]]
 	* [[Glosario de Marketing Digital]]
 
-Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
+Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ⚫①]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
 
 ## Organigrama de la microagencia
 
@@ -43,10 +43,10 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 				* [[Rol Experto en EMail Marketing|Expertos en Email marketing]]
 				* [[Rol Expertos en PPC|Rol Expertos en PPC]]
 				* [[Rol Expertos en SEO|Expertos en SEO]]
-			* [[Departamento Creativo (Microagencia Marketing Digital)|Creativo]]
+			* [[Departamento Creativo (Microagencia Marketing Digital)  ⚫①|Creativo]]
 				* [[Rol Diseño Gráfico|Diseño Gráfico]]
 				* [[Rol Redacción publicitaria|Redacción publicitaria]]
-				* Desarrollo web
+				* [[Rol Desarrollo web  ⚫①|Desarrollo Web]]
 
 ```mermaid
 graph TD
@@ -92,4 +92,4 @@ graph TD
 * Fase 5: Enlazar esto con la ejecución real de las diferentes tareas via MetsuOS ... FUTURE
 * Fase 6: Georgi Dan ... FUTURE
 
-
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

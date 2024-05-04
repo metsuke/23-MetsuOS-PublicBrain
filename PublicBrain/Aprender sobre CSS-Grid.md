@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.531Z
-modified: 2024-04-14T14:29:04.047Z
+modified: 2024-05-03T21:50:56.330Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre CSS-Grid
 
-[[PublicBrain/Index]] | [Tutorial sobre CSS-Grid](https://www.coltsteele.com/tutorials/mastering-css-grid)
+[[Index ⚫①]] | [Tutorial sobre CSS-Grid](https://www.coltsteele.com/tutorials/mastering-css-grid)
 
 # Curso: Aprender sobre CSS Grid
 

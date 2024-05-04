@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.180Z
-modified: 2024-04-24T21:36:41.262Z
+modified: 2024-05-03T21:51:01.688Z
 supervisado: ""
 ACCION: 
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Español
 
-[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas]]
+[[Index ⚫①]] | [[Estadísticas sobre Idiomas]]
 
 Por supuesto, el español es una lengua romance que se deriva del latín y es hablada por millones de personas en todo el mundo. Aquí tienes información sobre el español como idioma:
 

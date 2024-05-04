@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.940Z
-modified: 2024-05-03T21:39:35.414Z
+modified: 2024-05-04T06:47:03.406Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -56,4 +56,4 @@ En resumen, Pyxel es una herramienta recomendada para aquellos que buscan una he
 
 *Nota: El contenido original se ha refinado y humanizado para mejorar la legibilidad y la comprensión. Se han agregado secciones de referencia bibliográficas y de referencias que refutan el contenido para proporcionar una visión más completa y equilibrada.*
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

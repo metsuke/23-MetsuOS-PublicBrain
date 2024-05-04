@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.357Z
-modified: 2024-04-26T17:24:30.631Z
+modified: 2024-05-03T21:51:03.154Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # FFMPEG - Convertir Mp4 a Mp3 (Extraer audio)
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 Para convertir un archivo MP4 a un archivo MP3 e incrustar la imagen del MP4 como carátula en el archivo MP3 resultante. Aquí tienes el comando que puedes utilizar:
 

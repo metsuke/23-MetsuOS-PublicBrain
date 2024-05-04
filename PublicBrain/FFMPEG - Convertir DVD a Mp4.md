@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.342Z
-modified: 2024-04-26T17:24:30.634Z
+modified: 2024-05-03T21:51:02.461Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # FFMPEG - Convertir DVD a Mp4
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 Para convertir un archivo .iso que contiene un DVD a un archivo MP4 utilizando FFmpeg, puedes seguir estos pasos:
 

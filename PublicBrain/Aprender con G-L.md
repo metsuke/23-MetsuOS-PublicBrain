@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.503Z
-modified: 2024-04-18T05:40:06.238Z
+modified: 2024-05-03T21:50:54.723Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 55
+ver_rev: 56
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender con G-L
 
-[[PublicBrain/Index|Index]]
+[[Index ⚫①|Index ⚫①]]
 
 * Aprender con Gerardo Sanz
 * Aprender con Germán Fernández Sánchez

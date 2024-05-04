@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.532Z
-modified: 2024-05-02T21:39:17.839Z
+modified: 2024-05-03T21:51:03.946Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Hardware Libre - Memoria Volatil
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 En el contexto del hardware libre, las memorias volátiles se refieren a tipos de memoria que pierden su contenido cuando se interrumpe la alimentación eléctrica. Esto significa que no retienen la información una vez que se apaga el dispositivo o se corta la energía. Las memorias volátiles son cruciales para el funcionamiento de los sistemas informáticos y electrónicos, ya que proporcionan un almacenamiento temporal de datos y programas mientras el dispositivo está encendido.
 

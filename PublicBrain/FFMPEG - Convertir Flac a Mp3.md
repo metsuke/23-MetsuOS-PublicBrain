@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.343Z
-modified: 2024-04-26T17:24:30.633Z
+modified: 2024-05-03T21:51:02.582Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # FFMPEG - Convertir Flac a Mp3
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
   
 Para convertir archivos FLAC a MP3 utilizando FFmpeg, sigue estos pasos:

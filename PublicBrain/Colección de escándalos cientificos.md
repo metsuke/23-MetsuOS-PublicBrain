@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.012Z
-modified: 2024-04-14T14:29:03.867Z
+modified: 2024-05-03T21:51:00.306Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Colección de escándalos cientificos
 
-[[PublicBrain/Index|Index]]
+[[Index ⚫①|Index ⚫①]]
 
 Aquí recopilo algunos enlaces a diferentes escandalos científicos que puedan servir para aprender sobre puntos de mejora y comprobación en el entorno (incluida la cuestión sobre como se define la calidad de un científico).
 

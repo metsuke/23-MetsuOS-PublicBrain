@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-05-03T21:27:00.520Z
+modified: 2024-05-04T19:37:39.708Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 106
+ver_rev: 108
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Index
+# Index ⚫①
 
 [[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] 
 
-[[Docs Database]] | [[IA Database]] | [[Promting Database]] | [[Tools Database]] | [[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]]
+[[Docs Database]] | [[IA Database]] | [[Promting Database ⚫①]] | [[Tools Database]] | [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
 
 [[Arrojando Luz sobre Polémicas Linguísticas]] | [[GPT4All Testing]]
 
@@ -31,7 +31,7 @@ DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo fr
 
 ## Desarrollo Estructura Habilidades-Perfiles-Tareas 
 
-* [[Estructurar una Microagencia de Marketing Digital]]
+* [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
 
 ## Aprender Idiomas y Cultura
 
@@ -147,14 +147,14 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ## Cursos externos recomendados
 
-* [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital]]
+* [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ⚫①]]
 
 ## Mis apuntes de ...
 
-* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital]]
+* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital  ⚫①]]
 
 ## En proceso de inventario ...
 
 * [[Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)]]
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

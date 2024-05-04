@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.625Z
-modified: 2024-04-14T14:29:04.031Z
+modified: 2024-05-03T21:50:59.596Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aprender sobre el Mundo Crypto
 
-[[PublicBrain/Index|Index]]
+[[Index ⚫①|Index ⚫①]]
 
 * [[Aprender sobre las pirncipales criptomonedas]]
 * 

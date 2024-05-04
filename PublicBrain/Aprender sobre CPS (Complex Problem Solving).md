@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.530Z
-modified: 2024-04-16T10:47:43.118Z
+modified: 2024-05-03T21:50:56.210Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre CPS (Complex Problem Solving)
 
-[[PublicBrain/Index|Index]]
+[[Index ⚫①|Index ⚫①]]
 
 ## Curso sobre CPS (WIP)
 

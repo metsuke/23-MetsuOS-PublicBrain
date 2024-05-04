@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.571Z
-modified: 2024-04-25T10:40:40.135Z
+modified: 2024-05-03T21:50:58.038Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Objetos de World of Warcraft
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 * [[Catalizador Alquimico (Objeto WOW)]]

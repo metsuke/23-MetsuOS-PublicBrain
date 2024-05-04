@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.746Z
-modified: 2024-04-14T14:29:03.241Z
+modified: 2024-05-03T21:51:07.023Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Swahili
 
-[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas]]
+[[Index ⚫①]] | [[Estadísticas sobre Idiomas]]
 
 El idioma swahili, también conocido como kiswahili, es un idioma bantú que se habla en gran parte de África oriental y central. Es el idioma nacional y oficial de Tanzania y Kenya, y también se habla en Uganda, Ruanda, Burundi, Mozambique, y la República Democrática del Congo.
 

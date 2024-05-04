@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.420Z
-modified: 2024-04-16T21:24:58.502Z
+modified: 2024-05-03T21:50:52.737Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender Idioma Coreano
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Index ⚫①#Aprender Idiomas]]
 
 * KO | [[Coreano]]
 	* [[Niveles Oficiales KO]]

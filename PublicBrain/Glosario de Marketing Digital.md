@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.480Z
-modified: 2024-05-01T20:54:51.218Z
+modified: 2024-05-04T19:37:38.915Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 50
+ver_rev: 51
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Glosario de Marketing Digital
 
-[[Estructurar una Microagencia de Marketing Digital]]
+[[Estructurar una Microagencia de Marketing Digital  ⚫①]]
 
 * [[Lead (Marketing Digital)]]

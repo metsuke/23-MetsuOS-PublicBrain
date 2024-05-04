@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.487Z
-modified: 2024-04-14T14:29:04.056Z
+modified: 2024-05-03T21:50:54.274Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender a programar plugins para World of Warcraft
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 ## Módulo 1: "I"ntroducción a la Creación de Plugins
 

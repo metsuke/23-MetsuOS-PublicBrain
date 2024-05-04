@@ -22,7 +22,7 @@ tags:
 
 # Aprender sobre Programación
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 ## Programación General
 

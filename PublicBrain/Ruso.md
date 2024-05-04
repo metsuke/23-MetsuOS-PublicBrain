@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.658Z
-modified: 2024-04-14T14:29:03.266Z
+modified: 2024-05-03T21:51:06.700Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Ruso
 
-[[PublicBrain/Index#Aprender Idiomas]] | [[Aprender Idioma Ruso]]
+[[Index ⚫①#Aprender Idiomas]] | [[Aprender Idioma Ruso]]
 
 **El ruso es un idioma eslavo oriental ampliamente hablado en Rusia y otros países de Europa del Este y Asia Central.**
 

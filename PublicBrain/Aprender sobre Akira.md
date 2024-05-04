@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.522Z
-modified: 2024-04-15T19:14:24.580Z
+modified: 2024-05-03T21:50:55.679Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Akira
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 "Akira" es una película de animación japonesa de ciencia ficción dirigida por [[Katsuhiro Otomo]], basada en su propio manga del mismo nombre. La película fue lanzada en 1988 y se considera un clásico en el género de la animación japonesa.
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.077Z
-modified: 2024-05-03T21:34:56.148Z
+modified: 2024-05-04T06:47:03.240Z
 supervisado: 2024-05-02T19:26:17.283Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -86,4 +86,4 @@ Al cargar este archivo HTML en un navegador web, deberías ver un lienzo de Pixi
 
 Esperamos que este artículo te haya sido útil para crear un lienzo con PixiJS. ¡Comienza a explorar y crear experiencias visuales y interactivas con PixiJS!
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

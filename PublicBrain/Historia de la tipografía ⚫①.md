@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-03T21:21:32.460Z
-modified: 2024-05-03T21:27:06.897Z
+modified: 2024-05-04T06:47:03.305Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -30,4 +30,4 @@ En el siglo XIX, con la Revolución Industrial, la tipografía experimentó un g
 
 Hoy en día, la tipografía sigue siendo un elemento fundamental en el diseño gráfico, la publicidad, la comunicación visual y en muchos otros campos. Los diseñadores tipográficos continúan explorando nuevas formas de expresión y experimentando con diferentes estilos y técnicas para crear diseños tipográficos innovadores y creativos.
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

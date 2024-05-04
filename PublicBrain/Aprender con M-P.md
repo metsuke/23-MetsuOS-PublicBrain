@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.506Z
-modified: 2024-04-18T05:40:18.857Z
+modified: 2024-05-03T21:50:54.852Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 54
+ver_rev: 55
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender con M-P
 
-[[PublicBrain/Index|Index]]
+[[Index ⚫①|Index ⚫①]]
 
 * Aprender con Marc Vidal
 * Aprender con Manuel Diez Minguito

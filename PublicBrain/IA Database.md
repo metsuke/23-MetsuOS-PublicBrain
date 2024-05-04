@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.573Z
-modified: 2024-04-14T14:29:03.579Z
+modified: 2024-05-03T21:51:04.283Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # IA Database
 
-[[PublicBrain/Index|Index]]
+[[Index ⚫①|Index ⚫①]]
 
 Pretendo crear aqui el core de una base de datos de Modelos IA que incluyan tecnologías compatibles, recursos requeridos, etc.
 

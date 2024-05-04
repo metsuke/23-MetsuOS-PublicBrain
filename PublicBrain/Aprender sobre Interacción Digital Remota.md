@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.553Z
-modified: 2024-04-14T14:29:04.039Z
+modified: 2024-05-03T21:50:57.198Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aprender sobre Interacción Digital Remota
 
-[[PublicBrain/Index|Index]]
+[[Index ⚫①|Index ⚫①]]
 
 En este área de conocimiento, exploraremos diferentes formas y maneras de interacción digital remota, desde API al Metaverso, pasando por pulsar botones con un palo de fregona largo.
 

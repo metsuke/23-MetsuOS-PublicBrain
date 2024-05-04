@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.661Z
-modified: 2024-05-03T21:39:50.397Z
+modified: 2024-05-04T06:47:03.426Z
 supervisado: 2024-04-14T14:29:03.560Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -57,4 +57,4 @@ tags:
 
 **Nota:** Es importante mencionar que la instalación de Python y Pyxel puede variar dependiendo del sistema operativo y la versión de Python utilizada.
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.196Z
-modified: 2024-04-15T05:18:05.193Z
+modified: 2024-05-04T19:37:39.077Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 51
+ver_rev: 52
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital
+# Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital  ⚫①
 
-[[Estructurar una Microagencia de Marketing Digital]]
+[[Estructurar una Microagencia de Marketing Digital  ⚫①]]
 
-Mis apuntes del [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ]] 
+Mis apuntes del [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ⚫①]] 
 
 ## Organigrama
 

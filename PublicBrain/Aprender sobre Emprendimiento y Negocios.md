@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.540Z
-modified: 2024-04-25T10:40:00.938Z
+modified: 2024-05-03T21:50:56.580Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Emprendimiento y Negocios
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 * [¿Qué pueden aprender las startups de la búsqueda de vida extraterrestre? - Sintetia](https://www.sintetia.com/startups-extraterrestres/)
 

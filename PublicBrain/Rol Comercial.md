@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.653Z
-modified: 2024-04-23T22:33:25.283Z
+modified: 2024-05-04T19:37:39.296Z
 supervisado: 2024-04-18T03:43:42.848Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 54
+ver_rev: 55
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Rol Comercial
 
-* [[Estructurar una Microagencia de Marketing Digital]]
+* [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
 	* [[Glosario de Marketing Digital]]
 
 Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.476Z
-modified: 2024-04-14T14:29:04.058Z
+modified: 2024-05-03T21:50:54.112Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender a jugar Parchis
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 # Curso: Aprender Parchís, de cero a pro
 

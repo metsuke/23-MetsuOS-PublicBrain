@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-05-03T21:36:11.129Z
+modified: 2024-05-04T06:47:03.187Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 88
+ver_rev: 89
 nav_primary: 
 nav_secondary: 
 tags:
@@ -92,4 +92,4 @@ tags:
 - [[Optimización y despliegue del proyecto final en PixiJS]] ⬛
 - [[Presentación y revisión del proyecto final (PixiJS)]] ⬛
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

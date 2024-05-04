@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.007Z
-modified: 2024-05-03T21:39:25.916Z
+modified: 2024-05-04T06:47:03.378Z
 supervisado: 2024-04-29T11:24:00.866Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -54,4 +54,4 @@ Pyxel es una excelente opción para aquellos que disfrutan del arte pixelado y d
 - Itch.io. (n.d.). Pyxel. Recuperado de <https://itch.io/s/pyxel> (Nota: "I"tch.io es una plataforma de distribución de juegos indie, pero no proporciona información detallada sobre Pyxel)
 - Reddit. (2020). r/Pyxel. Recuperado de <https://www.reddit.com/r/Pyxel/> (Nota: La comunidad de Reddit r/Pyxel es un espacio de discusión y apoyo para los usuarios de Pyxel, pero no proporciona información detallada sobre el software)
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

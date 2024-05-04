@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.415Z
-modified: 2024-04-22T20:16:36.806Z
+modified: 2024-05-03T21:50:51.893Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender Idioma Aleman
 
-[[PublicBrain/Index#Aprender Idiomas]]
+[[Index ⚫①#Aprender Idiomas]]
 
 * GE | [[Alemán]] 
 	* [[Niveles Oficiales GE]] 

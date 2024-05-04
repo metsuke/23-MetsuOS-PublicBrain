@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-03T21:22:58.642Z
-modified: 2024-05-03T21:27:00.604Z
+modified: 2024-05-04T06:47:03.361Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -40,4 +40,4 @@ tags: []
 
 10. Familia tipográfica: Es un conjunto de tipos de letra relacionados entre sí y diseñados para funcionar bien juntos. Una familia tipográfica puede incluir diferentes estilos (cursiva, negrita, regular, etc.) que mantienen una coherencia visual.
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

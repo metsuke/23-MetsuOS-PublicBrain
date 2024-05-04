@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.590Z
-modified: 2024-04-15T05:37:34.803Z
+modified: 2024-05-03T21:50:58.760Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 77
+ver_rev: 78
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Storytelling
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 ## Introducción al Storytelling
 

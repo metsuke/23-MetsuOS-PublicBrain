@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.105Z
-modified: 2024-05-03T21:34:33.323Z
+modified: 2024-05-04T06:47:03.207Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -86,4 +86,4 @@ En PixiJS, puedes dibujar formas básicas y gráficos utilizando la clase `Graph
 
 Estos son solo algunos ejemplos de cómo puedes dibujar formas básicas y gráficos utilizando PixiJS. Puedes combinar estas técnicas para crear gráficos más complejos y experiencias visuales interactivas en tu aplicación web.
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

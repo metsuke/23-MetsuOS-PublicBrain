@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.604Z
-modified: 2024-04-27T14:49:07.362Z
+modified: 2024-05-03T21:50:59.514Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre cultura internacional a través de los idiomas
 
-[[PublicBrain/index]]
+[[Index ⚫①]]
 
 ## Peliculas/Manga/OVA
 

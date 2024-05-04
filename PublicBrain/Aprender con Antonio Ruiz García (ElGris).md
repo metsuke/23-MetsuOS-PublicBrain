@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.491Z
-modified: 2024-04-17T20:37:03.423Z
+modified: 2024-05-03T21:50:54.519Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender con Antonio Ruiz García (ElGris)
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 * *[[Narrativa y Storytelling en el mundo del videojuego]]
 ## Recursos

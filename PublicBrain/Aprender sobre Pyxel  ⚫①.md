@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.586Z
-modified: 2024-05-03T21:32:09.159Z
+modified: 2024-05-04T06:47:03.453Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 22
+ver_rev: 23
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aprender sobre Pyxel  ⚫①
 
-[[PublicBrain/Index|Index]]
+[[Index ⚫①|Index ⚫①]]
 
 ## Introducción a Pyxel
 
@@ -88,4 +88,4 @@ tags: []
 - [[Integración de elementos gráficos, sonidos y mecánicas de juego (Pyxel)]] ⬛
 - [[Evaluación y presentación del proyecto final (Pyxel)]] ⬛
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

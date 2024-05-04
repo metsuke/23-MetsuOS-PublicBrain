@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-28T19:44:08.840Z
-modified: 2024-05-01T19:34:04.693Z
+modified: 2024-05-04T19:41:29.207Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Departamento Creativo (Microagencia Marketing Digital)
+# Departamento Creativo (Microagencia Marketing Digital)  ⚫①
 
-* [[Estructurar una Microagencia de Marketing Digital]] 
+* [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
 	* [[Glosario de Marketing Digital]]
 
 En una microagencia de marketing digital, el departamento creativo desempeña un papel crucial en la generación de ideas innovadoras y la creación de contenido atractivo para las campañas de marketing de los clientes. Aquí tienes una descripción de las responsabilidades y funciones típicas del departamento creativo:
@@ -30,7 +30,7 @@ En una microagencia de marketing digital, el departamento creativo desempeña un
 
 * [[Rol Diseño Gráfico|Diseño Gráfico]]
 * [[Rol Redacción publicitaria|Redacción publicitaria]]
-* Desarrollo web
+* [[Rol Desarrollo web  ⚫①|Desarrollo Web]]
 
 ## Estructura
 
@@ -100,3 +100,6 @@ El departamento creativo es fundamental para el éxito de una microagencia de ma
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
 
 {{MOS::Templates::Platzi_Referal}}
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+

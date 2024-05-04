@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.517Z
-modified: 2024-05-03T05:21:54.672Z
+modified: 2024-05-04T06:47:03.071Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 89
+ver_rev: 91
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Accesibilidad en ELearining
 
-[[PublicBrain/Index#Plena Inclusión|Plena Inclusión]] 
+[[Index ⚫①#Plena Inclusión|Plena Inclusión]] 
 
 ## Introducción a la Accesibilidad en E-Learning
 
@@ -90,4 +90,4 @@ tags:
 - [[Resumen de los conceptos clave y conclusiones del curso]] ⬛
 - [[Recursos adicionales, lecturas recomendadas y comunidades de apoyo]] ⬛
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]]
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]]

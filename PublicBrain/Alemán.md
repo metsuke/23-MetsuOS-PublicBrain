@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.400Z
-modified: 2024-04-14T14:29:04.078Z
+modified: 2024-05-03T21:50:51.381Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Alemán
 
-[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas]]
+[[Index ⚫①]] | [[Estadísticas sobre Idiomas]]
 
 El idioma alemán es una lengua germánica que se habla principalmente en Alemania, Austria, Suiza, Liechtenstein, Luxemburgo y algunas partes de Bélgica y el norte de Italia. También es uno de los idiomas oficiales de la Unión Europea y uno de los más hablados en Europa.
 

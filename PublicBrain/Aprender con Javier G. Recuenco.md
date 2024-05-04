@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.505Z
-modified: 2024-04-18T05:39:49.266Z
+modified: 2024-05-03T21:50:54.807Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender con Javier G. Recuenco
 
-[[PublicBrain/Index]] | [[Aprender sobre CPS (Complex Problem Solving)]]
+[[Index ⚫①]] | [[Aprender sobre CPS (Complex Problem Solving)]]
 
 * [Javier G. Recuenco | LinkedIn](https://www.linkedin.com/in/javier-g-recuenco-70a708/?originalSubdomain=es)
 

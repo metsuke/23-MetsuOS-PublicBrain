@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-03T21:23:38.678Z
-modified: 2024-05-03T21:27:00.567Z
+modified: 2024-05-04T06:47:03.325Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -34,4 +34,4 @@ La tipografía es un elemento fundamental en el diseño, ya que juega un papel c
 
 En resumen, la tipografía desempeña un papel crucial en el diseño, ya que contribuye a la comunicación efectiva, la expresión de la personalidad y el estilo, el impacto visual, la legibilidad y la coherencia del diseño. Por lo tanto, es importante cuidar la selección y aplicación de la tipografía en cualquier proyecto de diseño.
 
-[[⚫🔴 🟡 🟢 🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 

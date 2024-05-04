@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.554Z
-modified: 2024-04-14T14:29:03.586Z
+modified: 2024-05-03T21:51:04.162Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Hindi
 
-[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas]]
+[[Index ⚫①]] | [[Estadísticas sobre Idiomas]]
 
 El hindi es uno de los idiomas más hablados en el mundo, principalmente en India y Nepal, y es el idioma oficial de la India junto con el inglés. Es una lengua indoaria que se originó en el norte de la India y está estrechamente relacionada con otros idiomas indios, como el urdu, el punjabí y el gujarati.
 

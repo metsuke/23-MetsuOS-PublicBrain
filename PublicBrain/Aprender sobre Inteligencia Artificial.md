@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.551Z
-modified: 2024-04-28T20:26:10.907Z
+modified: 2024-05-03T21:50:57.154Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 81
+ver_rev: 82
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Inteligencia Artificial
 
-[[PublicBrain/Index]]
+[[Index ⚫①]]
 
 ## Introducción a la Inteligencia Artificial
 

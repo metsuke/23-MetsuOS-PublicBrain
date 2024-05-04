@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T04:33:17.264Z
-modified: 2024-04-23T22:34:56.894Z
+modified: 2024-05-04T19:37:38.896Z
 supervisado: 2024-04-14T00:19:45.989Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 12
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Departamento Marketing (Microagencia Marketing Digital)
 
-* [[Estructurar una Microagencia de Marketing Digital]] 
+* [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
 	* [[Glosario de Marketing Digital]]
 
 El departamento de marketing en el contexto de una Microagencia de Marketing Digital es una parte fundamental de cualquier organización, ya que se encarga de promover los productos o servicios de la empresa y de generar demanda entre los consumidores. 

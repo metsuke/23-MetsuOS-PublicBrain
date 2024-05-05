@@ -1,4 +1,6 @@
 
+# Planificación de viajes y reservas (A2-CA)
+
 [[A2-CA]]
 
 En el contexto de Aprender Catalán nivel A2, la planificación de viajes y reservas es una parte importante para poder organizar un viaje de manera eficiente y exitosa. Aquí te presento algunas frases útiles que podrás utilizar en este contexto:

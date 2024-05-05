@@ -1,4 +1,6 @@
 
+# Narración de anécdotas y experiencias (A2-CA)
+
 [[A2-CA]]
 
 Claro, en el nivel A2 de aprendizaje del catalán, una competencia importante es la capacidad de narrar anécdotas y experiencias de forma sencilla. Para ello, es importante dominar el uso de los tiempos verbales en pasado, como el pretérito perfecto compuesto y el pretérito imperfecto.

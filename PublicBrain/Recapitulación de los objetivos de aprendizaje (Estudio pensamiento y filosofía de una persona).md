@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-26T11:19:52.606Z
-modified: 2024-04-26T11:22:37.462Z
+modified: 2024-05-05T14:40:28.097Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Recapitulación de los objetivos de aprendizaje (Estudio persamiento y filosofía de una persona)
+# Recapitulación de los objetivos de aprendizaje (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 

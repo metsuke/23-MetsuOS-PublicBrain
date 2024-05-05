@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T10:28:07.395Z
-modified: 2024-04-14T14:29:03.354Z
+modified: 2024-05-05T14:40:27.888Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Métodos y enfoques de análisis (Estudio persamiento y filosofía de una persona)
+# Métodos y enfoques de análisis (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 

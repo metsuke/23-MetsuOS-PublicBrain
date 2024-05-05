@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T20:35:16.525Z
-modified: 2024-04-14T14:29:03.562Z
+modified: 2024-05-05T14:40:27.770Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Influencias intelectuales y filosóficas (Estudio persamiento y filosofía de una persona)
+# Influencias intelectuales y filosóficas (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 

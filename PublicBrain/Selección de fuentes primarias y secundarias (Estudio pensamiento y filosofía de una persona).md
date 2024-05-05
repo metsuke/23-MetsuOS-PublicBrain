@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T03:52:50.057Z
-modified: 2024-04-14T14:29:03.250Z
+modified: 2024-05-05T14:40:28.314Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Selección de fuentes primarias y secundarias (Estudio persamiento y filosofía de una persona)
+# Selección de fuentes primarias y secundarias (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 

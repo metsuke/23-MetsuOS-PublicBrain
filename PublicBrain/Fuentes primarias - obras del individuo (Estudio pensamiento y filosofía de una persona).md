@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:35:06.693Z
-modified: 2024-04-15T05:37:37.798Z
+modified: 2024-05-05T14:40:27.629Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Fuentes primarias - obras del individuo (Estudio persamiento y filosofía de una persona)
+# Fuentes primarias - obras del individuo (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 

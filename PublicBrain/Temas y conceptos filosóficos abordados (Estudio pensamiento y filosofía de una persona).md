@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T10:26:25.990Z
-modified: 2024-04-14T14:29:03.234Z
+modified: 2024-05-05T14:40:28.374Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Temas y conceptos filosóficos abordados (Estudio persamiento y filosofía de una persona)
+# Temas y conceptos filosóficos abordados (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 

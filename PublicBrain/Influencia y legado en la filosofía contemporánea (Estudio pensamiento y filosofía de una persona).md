@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Influencia y legado en la filosofía contemporánea (Estudio persamiento y filosofía de una persona)
+# Influencia y legado en la filosofía contemporánea (Estudio pensamiento y filosofía de una persona)
 
 [[Aprender sobre Inteligencia Artificial ⚫①]]
 

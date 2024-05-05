@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T09:24:48.944Z
-modified: 2024-04-14T14:29:03.298Z
+modified: 2024-05-05T14:40:27.934Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Principales obras y escritos (Estudio persamiento y filosofía de una persona)
+# Principales obras y escritos (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 

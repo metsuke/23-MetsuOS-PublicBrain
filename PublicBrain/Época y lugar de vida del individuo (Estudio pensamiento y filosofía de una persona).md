@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T09:23:44.205Z
-modified: 2024-04-14T14:29:03.173Z
+modified: 2024-05-05T14:40:28.529Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Época y lugar de vida del individuo (Estudio persamiento y filosofía de una persona)
+# Época y lugar de vida del individuo (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 

@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-26T11:20:27.568Z
-modified: 2024-04-26T11:22:37.462Z
+modified: 2024-05-05T14:40:28.292Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Reflexión sobre la investigación realizada (Estudio persamiento y filosofía de una persona)
+# Reflexión sobre la investigación realizada (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 

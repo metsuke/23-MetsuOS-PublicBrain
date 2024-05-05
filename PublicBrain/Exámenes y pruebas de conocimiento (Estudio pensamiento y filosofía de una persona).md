@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-26T11:19:05.161Z
-modified: 2024-04-26T11:22:37.464Z
+modified: 2024-05-05T14:40:27.576Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Exámenes y pruebas de conocimiento (Estudio persamiento y filosofía de una persona)
+# Exámenes y pruebas de conocimiento (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 

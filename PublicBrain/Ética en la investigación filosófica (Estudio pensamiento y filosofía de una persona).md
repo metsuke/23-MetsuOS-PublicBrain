@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T03:58:29.184Z
-modified: 2024-04-14T14:29:03.172Z
+modified: 2024-05-05T14:40:28.585Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Ética en la investigación filosófica (Estudio persamiento y filosofía de una persona)
+# Ética en la investigación filosófica (Estudio pensamiento y filosofía de una persona)
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 

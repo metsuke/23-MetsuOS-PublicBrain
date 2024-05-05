@@ -90,7 +90,7 @@ tags:
 	* [[Uso de encabezados y listas para guiar la lectura (Lectura Facil)]]
 * [[Apoyo Visual (Lectura Fácil) ⚫①]]
 	* [[Uso de imágenes y gráficos para aclarar conceptos (Lectura Facil)]]
-	* Uso de espaciado y formato legible
+	* [[Uso de espaciado y formato legible (Lectura Fácil) ⚫①]]
 ### Creación de Contenido Accesible y Fácil de Leer
 
 * Redacción Inclusiva

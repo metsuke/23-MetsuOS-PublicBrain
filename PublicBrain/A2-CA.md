@@ -64,7 +64,7 @@ tags:
 
 6.1. [[Comprensión auditiva de diálogos y conversaciones (A2-CA)]]
 6.2. [[Participación en discusiones simples (A2-CA)]]
-6.3. Narración de anécdotas y experiencias.
+6.3. [[Narración de anécdotas y experiencias (A2-CA)]]
 6.4. Conversaciones telefónicas básicas.
 
 ## Módulo 7: Viajes y Turismo

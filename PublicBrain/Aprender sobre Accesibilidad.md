@@ -73,7 +73,7 @@ tags:
 ### Introducción a la Lectura Fácil
 
 * [[¿Qué es la Lectura Fácil?]]
-	* [[Definición y objetivos de la lectura fácil]]
+	* [[Definición y objetivos de la lectura fácil ⚫①]]
 	* [[Importancia de la lectura fácil para la accesibilidad]]
 	* [[Beneficios de la Lectura Fácil]]
 	* [[Cómo la lectura fácil beneficia a diversas audiencias]]
@@ -94,7 +94,7 @@ tags:
 ### Creación de Contenido Accesible y Fácil de Leer
 
 * Redacción Inclusiva
-	* Uso de pronombres neutrales y no sexistas
+	* [[Uso de pronombres neutrales y no sexistas (Lectura Fácil) ⚫①]]
 	* Evitar términos discriminatorios
 * Adaptación de Vocabulario
 	* Sustitución de palabras complicadas por términos más familiares

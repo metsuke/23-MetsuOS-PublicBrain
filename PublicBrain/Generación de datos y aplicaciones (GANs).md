@@ -18,7 +18,7 @@ tags: []
 ---
 # Generación de datos y aplicaciones (GANs)
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 Las Redes Generativas Adversarias (GANs) son un tipo de modelo de inteligencia artificial que se utiliza para generar datos nuevos y realistas a partir de un conjunto de datos de entrada. 
 

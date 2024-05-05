@@ -37,7 +37,7 @@ tags:
 	- [[Tipos de aprendizaje automático (supervisado, no supervisado, reforzado) ⚫①]]
 	- [[Algoritmos de aprendizaje automático (regresión, clasificación, clustering) ⚫①]]
 - [[Redes Neuronales Artificiales ⚫①]]
-	- [[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+	- [[Estructura y funcionamiento de las redes neuronales ⚫①]]
 	- [[Entrenamiento de redes neuronales ⚫①]]
 	- [[Aplicaciones de redes neuronales profundas (Deep Learning) ⚫①]]
 

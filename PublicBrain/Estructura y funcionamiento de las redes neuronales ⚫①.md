@@ -9,23 +9,23 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.187Z
-modified: 2024-05-04T20:28:53.119Z
+modified: 2024-05-05T14:32:21.436Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 41
+ver_rev: 42
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Estructura y funcionamiento de las  redes neuronales ⚫①
+# Estructura y funcionamiento de las redes neuronales ⚫①
 
 [[Aprender sobre Inteligencia Artificial ⚫①]]
 
 ## Introducción a las Redes Neuronales
 
-* [[Las redes neuronales en el contexto de la inteligencia artificial]]
+* [[Las redes neuronales en el contexto de la inteligencia artificial 🔴②]]
 * [[Historia y evolución de las redes neuronales]]
 * [[Aplicaciones de las redes neuronales en la vida real]]
 
@@ -86,3 +86,4 @@ tags:
 * [[Tendencias y avances en investigación]]
 * [[Posibilidades futuras y aplicaciones emergentes]]
 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

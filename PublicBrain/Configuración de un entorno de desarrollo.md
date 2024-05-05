@@ -18,7 +18,7 @@ tags: []
 ---
 # Configuración de un entorno de desarrollo
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 *Configuración de un entorno de desarrollo en inteligencia artificial*
 

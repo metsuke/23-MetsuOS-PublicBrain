@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.829Z
-modified: 2024-05-04T20:36:22.572Z
+modified: 2024-05-05T14:32:21.331Z
 supervisado: 2024-04-14T14:29:03.521Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Las redes neuronales en el contexto de la inteligencia artificial
+# Las redes neuronales en el contexto de la inteligencia artificial 🔴②
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 Las redes neuronales, también conocidas como redes neuronales artificiales (RNA) o perceptrones multicapa (MLP), son un componente fundamental en el campo de la inteligencia artificial (IA). Están inspiradas en la estructura y el funcionamiento de las redes neuronales biológicas del cerebro humano y se utilizan para abordar una amplia variedad de problemas complejos de procesamiento de datos, toma de decisiones y aprendizaje automático.
 
@@ -65,3 +65,5 @@ A pesar de sus beneficios, las redes neuronales también enfrentan desafíos, co
 - Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-457.
 
 _Nota: Las referencias bibliográficas se han incluido para apoyar y expandir el contenido, mientras que las referencias que refutan el contenido han sido incluidas para proporcionar una perspectiva crítica y equilibrada._
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

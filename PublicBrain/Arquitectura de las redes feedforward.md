@@ -21,7 +21,7 @@ tags:
 ---
 # Arquitectura de las redes feedforward
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 Por supuesto, estaré encantado de hablarte sobre la arquitectura de las redes neuronales feedforward en el contexto de la inteligencia artificial.
 

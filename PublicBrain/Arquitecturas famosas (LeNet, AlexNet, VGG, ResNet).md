@@ -18,7 +18,7 @@ tags: []
 ---
 # Arquitecturas famosas (LeNet, AlexNet, VGG, ResNet)
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 Claro, en el campo de la inteligencia artificial y el aprendizaje profundo, hay varias arquitecturas de redes neuronales famosas que han contribuido significativamente al avance de la tecnología. Algunas de las arquitecturas más influyentes incluyen:
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Concepto de convolución
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 En el contexto de las redes neuronales en inteligencia artificial, la convolución es una operación matemática fundamental que se utiliza en las capas convolucionales de una red neuronal convolucional (CNN). La convolución se utiliza para extraer características relevantes de los datos de entrada, como imágenes, a través de filtros o kernels.
 

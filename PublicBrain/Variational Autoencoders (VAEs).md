@@ -18,7 +18,7 @@ tags: []
 ---
 # Variational Autoencoders (VAEs)
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 Los Variational Autoencoders (VAEs) son un tipo de modelo generativo en el campo de la inteligencia artificial que se utiliza para aprender la distribución de datos de entrada complejos y generar nuevas muestras similares a los datos de entrada. 
 

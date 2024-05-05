@@ -18,7 +18,7 @@ tags: []
 ---
 # Desafíos y Futuro de las Redes Neuronales
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 Las redes neuronales han demostrado ser una poderosa herramienta en inteligencia artificial, capaces de resolver una amplia gama de problemas complejos, desde el reconocimiento de imágenes hasta la traducción de lenguaje natural. Sin embargo, todavía existen varios desafíos y áreas de mejora en el campo de las redes neuronales.
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Generación de imágenes y texto
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 La generación de imágenes y texto a través de redes neuronales en inteligencia artificial es un campo fascinante y en constante evolución. 
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Redes Neuronales Feedforward
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 Las Redes Neuronales Feedforward, también conocidas como redes neuronales de propagación hacia adelante, son uno de los tipos más comunes de redes neuronales en inteligencia artificial. En este tipo de red, la información fluye en una sola dirección, desde la capa de entrada, pasando por una o más capas ocultas, hasta la capa de salida.
 

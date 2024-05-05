@@ -18,7 +18,7 @@ tags: []
 ---
 # Problema de gradiente desvaneciente
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 El problema del gradiente desvaneciente es un desafío común que surge al entrenar redes neuronales profundas. Se refiere a la situación en la que los gradientes de error que se propagan hacia atrás a través de la red durante el proceso de entrenamiento se vuelven cada vez más pequeños a medida que se retroceden capas más profundas. 
 

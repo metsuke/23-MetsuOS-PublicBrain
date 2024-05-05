@@ -18,7 +18,7 @@ tags: []
 ---
 # Historia y evolución de las redes neuronales
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 1. **1943 - Modelo McCulloch-Pitts:** La historia de las redes neuronales comienza en la década de 1940 con el modelo McCulloch-Pitts, desarrollado por Warren McCulloch y Walter Pitts. Este modelo fue una representación simplificada de cómo las neuronas biológicas podrían procesar información. Aunque primitivo, sentó las bases para el desarrollo posterior de las redes neuronales.
     

@@ -18,7 +18,7 @@ tags: []
 ---
 # Herramientas y bibliotecas populares (TensorFlow, PyTorch)
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 En el campo de las redes neuronales en inteligencia artificial, existen varias herramientas y bibliotecas populares que se utilizan para diseñar, entrenar y desplegar modelos de redes neuronales. Dos de las herramientas más populares son TensorFlow y PyTorch.
 

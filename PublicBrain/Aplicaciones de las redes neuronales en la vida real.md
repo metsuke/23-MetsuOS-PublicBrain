@@ -21,7 +21,7 @@ tags:
 ---
 # Aplicaciones de las redes neuronales en la vida real
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 Las redes neuronales tienen una amplia gama de aplicaciones en la vida real en diversos campos. Aquí hay algunas áreas donde las redes neuronales son particularmente útiles:
 

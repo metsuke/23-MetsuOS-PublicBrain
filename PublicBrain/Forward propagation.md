@@ -21,7 +21,7 @@ tags:
 ---
 # Forward propagation
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 Forward propagation es el proceso mediante el cual una red neuronal realiza cálculos para obtener la predicción de salida a partir de los datos de entrada. Durante el forward propagation, la información fluye desde la capa de entrada a través de las capas ocultas hasta la capa de salida de la red neuronal.
 

@@ -21,7 +21,7 @@ tags:
 ---
 # Cálculo de la salida de una neurona
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 ### Cálculo de la salida de una neurona en una red neuronal
 

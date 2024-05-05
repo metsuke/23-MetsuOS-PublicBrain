@@ -21,7 +21,7 @@ tags:
 ---
 # Capas ocultas y capa de salida
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 En una red neuronal, las capas ocultas son aquellas que se encuentran entre la capa de entrada y la capa de salida. Estas capas son responsables de procesar la información de entrada y generar las salidas de acuerdo con los patrones que la red haya aprendido durante el entrenamiento.
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Arquitecturas de RNN (LSTM, GRU)
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 Las redes neuronales recurrentes (RNN) son un tipo de red neuronal que tiene conexiones retroalimentadas, lo que les permite retener información sobre secuencias de datos, como texto, audio o series temporales. Sin embargo, las RNN tradicionales tienen dificultades para manejar dependencias a largo plazo debido al problema de desvanecimiento o explosión del gradiente.
 

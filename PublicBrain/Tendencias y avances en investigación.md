@@ -16,7 +16,7 @@ tags: []
 ---
 # Tendencias y avances en investigación
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 actual en el campo de las redes neuronales?
 

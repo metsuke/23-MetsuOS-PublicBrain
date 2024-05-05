@@ -138,7 +138,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	* [[Hardware Libre - Microprocesadores]]
 * [[Aprender sobre el Mundo Crypto]]
 * [[Aprender sobre Inteligencia Artificial ⚫①]]
-	* Aprender sobre [[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+	* Aprender sobre [[Estructura y funcionamiento de las redes neuronales ⚫①]]
 * [[Aprender sobre Interacción Digital Remota]]
 	* [[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 * [[Aprender sobre Programación]]

@@ -18,7 +18,7 @@ tags: []
 ---
 # Inicialización de pesos
 
-[[Estructura y funcionamiento de las  redes neuronales ⚫①]]
+[[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
 La inicialización de pesos en una red neuronal representa cómo se asignan los valores iniciales a los pesos de las conexiones entre las neuronas. La elección de los pesos iniciales es crucial, ya que puede afectar significativamente el rendimiento y el proceso de entrenamiento de la red.
 

@@ -16,9 +16,9 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Registro como desarrollador en eBay (IDRA-Ebay)
+# Registro como desarrollador en eBay (IDRA-Ebay) 🔴②
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 ## Introducción
 
@@ -52,3 +52,5 @@ Es importante seguir las pautas proporcionadas por eBay para garantizar un uso c
 - No se encontraron referencias que refuten el contenido.
 
 **Nota**: El presente contenido es una guía general y no es un consejo jurídico o financiero. Es importante leer y entender las políticas de uso y los términos de servicio antes de comenzar a utilizar la API de eBay.
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

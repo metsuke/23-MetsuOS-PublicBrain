@@ -18,7 +18,7 @@ tags: []
 ---
 # Interacción Digital Remota meduante API con LinkedIn
 
-[[Aprender sobre Interacción Digital Remota mediante API]]
+[[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 
 ## Introducción
 - [[Objetivos del curso (IDRA-LinkedIn)]]

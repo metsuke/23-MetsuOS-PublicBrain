@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Interacción Digital Remota mediante API
+# Aprender sobre Interacción Digital Remota mediante API ⚫①
 
 [[Aprender sobre Interacción Digital Remota]]
 
@@ -31,7 +31,7 @@ tags:
 * [[Interacción Digital Remota mediante API con ChessDotCom]]
 * [[Interacción Digital Remota mediante API con Discord]]
 * [[Interacción Digital Remota mediante API con Dropbox]]
-* [[Interacción Digital Remota mediante API con EBay]]
+* [[Interacción Digital Remota mediante API con EBay ⚫①]]
 * [[Interacción Digital Remota mediante API con Facebook]]
 * [[Interacción Digital Remota mediante API con Github]]
 * [[Interacción Digital Remota mediante API con Google]]
@@ -44,5 +44,7 @@ tags:
 * [[Interacción Digital Remota mediante API con Telegram]]
 * [[Intearacción Digital Remota mediante API con TodoColección]]
 * [[Interacción Digital Remota mediante API con Youtube]]
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
 
 

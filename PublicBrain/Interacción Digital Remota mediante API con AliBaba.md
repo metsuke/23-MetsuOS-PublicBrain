@@ -18,7 +18,7 @@ tags: []
 ---
 # Interacción Digital Remota mediante API con AliBaba
 
-[[Aprender sobre Interacción Digital Remota mediante API]]
+[[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 
 # Curso sobre Interacción Digital Remota mediante API con Alibaba
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Tendencias en la interacción digital remota mediante APIs (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La interacción digital remota mediante APIs es una tendencia en constante crecimiento en el mundo de los negocios online, especialmente en plataformas como eBay. Algunas de las tendencias actuales en este ámbito incluyen:
 

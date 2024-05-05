@@ -18,7 +18,7 @@ tags: []
 ---
 # Autenticación con la API de eBay (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Para interactuar de manera remota con la API de eBay, es necesario autenticarse correctamente para poder realizar consultas y transacciones de manera segura. eBay utiliza el protocolo OAuth 2.0 para la autenticación, que implica el intercambio de credenciales de acceso para obtener un token de acceso que se utilizará en las solicitudes a la API.
 

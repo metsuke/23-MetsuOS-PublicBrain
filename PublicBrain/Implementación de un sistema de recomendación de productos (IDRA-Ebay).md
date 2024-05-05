@@ -18,7 +18,7 @@ tags: []
 ---
 # Implementación de un sistema de recomendación de productos (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Un sistema de recomendación de productos es una herramienta eficaz para ayudar a los usuarios a descubrir productos relevantes y aumentar la interacción y la conversión en una plataforma de comercio electrónico como eBay. 
 

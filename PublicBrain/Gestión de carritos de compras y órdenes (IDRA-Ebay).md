@@ -18,7 +18,7 @@ tags: []
 ---
 # Gestión de carritos de compras y órdenes (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La gestión de carritos de compras y órdenes es una parte fundamental de la interacción digital remota mediante API con eBay. A través de la API de eBay, los desarrolladores pueden implementar funcionalidades para permitir a los usuarios agregar productos a su carrito de compras, modificar el contenido del carrito, realizar el proceso de compra y completar órdenes de manera eficiente.
 

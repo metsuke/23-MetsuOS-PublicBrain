@@ -18,7 +18,7 @@ tags: []
 ---
 # Métodos de prueba de la integración con la API (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Para probar la integración con la API de eBay, se pueden utilizar diferentes métodos y herramientas. Algunas de las prácticas comunes incluyen:
 

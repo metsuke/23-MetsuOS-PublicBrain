@@ -18,7 +18,7 @@ tags: []
 ---
 # Recapitulación de los conceptos clave aprendidos (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Claro, aquí tienes un resumen de los conceptos clave aprendidos en el contexto de la interacción digital remota mediante API con eBay:
 

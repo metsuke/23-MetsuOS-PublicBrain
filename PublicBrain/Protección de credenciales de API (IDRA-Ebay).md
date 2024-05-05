@@ -18,7 +18,7 @@ tags: []
 ---
 # Protección de credenciales de API (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La protección de credenciales de API es un aspecto crucial en cualquier interacción digital remota con plataformas como eBay. Las credenciales de API son los identificadores y contraseñas que se utilizan para autenticar y autorizar a un usuario o aplicación para acceder a la API de eBay. 
 

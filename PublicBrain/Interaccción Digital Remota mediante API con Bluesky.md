@@ -18,7 +18,7 @@ tags: []
 ---
 # Interaccción Digital Remota mediante API con Bluesky
 
-[[Aprender sobre Interacción Digital Remota mediante API]]
+[[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 
 ## Introducción
 - [[¿Qué es Bluesky? (IDRA-Bluesky)]]

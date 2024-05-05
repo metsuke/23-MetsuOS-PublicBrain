@@ -21,9 +21,9 @@ tags:
 ---
 
 
-# Introducción a eBay y su API (IDRA-Ebay)
+# Introducción a eBay y su API (IDRA-Ebay) 🔴②
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 eBay es un sitio de comercio electrónico líder que permite a los usuarios comprar y vender una amplia variedad de productos, desde artículos de colección y moda hasta electrónicos y artículos para el hogar. La plataforma ofrece a los usuarios la oportunidad de encontrar productos únicos y de segunda mano, así como de comprar artículos nuevos directamente de los fabricantes y minoristas.
 
@@ -43,3 +43,5 @@ En resumen, la API de eBay es una herramienta fundamental para los desarrollador
 - No se han encontrado referencias bibliográficas que refuten el contenido.
 
 *Nota:* Como la información proporcionada por eBay es oficial y confiable, no se encontraron referencias que refuten el contenido. Sin embargo, es importante mencionar que la información puede cambiar con el tiempo, por lo que es importante verificar la información en fuentes oficiales de eBay.
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

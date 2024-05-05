@@ -18,7 +18,7 @@ tags: []
 ---
 # Interacción Digital Remota mediante API con Discord
 
-[[Aprender sobre Interacción Digital Remota mediante API]]
+[[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 
 ## Fundamentos de Discord
 - [[¿Qué es Discord? (IDRA-Discord)]]

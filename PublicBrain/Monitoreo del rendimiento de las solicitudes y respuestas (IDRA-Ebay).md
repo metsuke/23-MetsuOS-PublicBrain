@@ -18,7 +18,7 @@ tags: []
 ---
 # Monitoreo del rendimiento de las solicitudes y respuestas (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 El monitoreo del rendimiento de las solicitudes y respuestas en la interacción digital remota mediante API con eBay es fundamental para garantizar un funcionamiento eficiente y efectivo de la integración con la plataforma de eBay. Algunos aspectos importantes a considerar en el monitoreo del rendimiento incluyen:
 

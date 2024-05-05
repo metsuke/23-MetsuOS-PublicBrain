@@ -140,7 +140,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre Inteligencia Artificial ⚫①]]
 	* Aprender sobre [[Estructura y funcionamiento de las  redes neuronales ⚫①]]
 * [[Aprender sobre Interacción Digital Remota]]
-	* [[Aprender sobre Interacción Digital Remota mediante API]]
+	* [[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 * [[Aprender sobre Programación]]
 	* [[Aprender sobre Buenas Prácticas y Código Limpio en Programación]]
 * [[Aprender sobre Redes e Internet]]

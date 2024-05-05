@@ -21,7 +21,7 @@ tags:
 ---
 # Importancia de las APIs en el desarrollo de software
 
-[[Aprender sobre Interacción Digital Remota mediante API]]
+[[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 
 Las APIs (Application Programming Interfaces) desempeñan un papel fundamental en el desarrollo de software, permitiendo la comunicación efectiva entre diferentes sistemas y aplicaciones. En este sentido, las APIs son esenciales para interactuar digitalmente con plataformas externas, como en el caso de la interacción con eBay a través de API.
 

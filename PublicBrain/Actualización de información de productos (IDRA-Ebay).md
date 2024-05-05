@@ -18,7 +18,7 @@ tags: []
 ---
 # Actualización de información de productos (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La actualización de información de productos es esencial para mantener los listados de productos actualizados y precisos en la plataforma de eBay. A través de la interacción digital remota mediante API con eBay, los vendedores tienen la capacidad de actualizar fácilmente la información de sus productos, como precios, cantidades disponibles, descripciones, imágenes y cualquier otra información relevante.
 

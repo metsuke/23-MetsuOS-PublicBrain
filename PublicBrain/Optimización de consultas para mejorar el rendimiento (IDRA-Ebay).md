@@ -18,7 +18,7 @@ tags: []
 ---
 # Optimización de consultas para mejorar el rendimiento (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La optimización de consultas es un proceso clave para mejorar el rendimiento de las interacciones digitales remotas mediante API con eBay. Algunas recomendaciones para optimizar consultas incluyen:
 

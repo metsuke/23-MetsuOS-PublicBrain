@@ -18,7 +18,7 @@ tags: []
 ---
 # Autenticación segura (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La autenticación segura en el contexto de la interacción digital remota mediante API con eBay se refiere al proceso de verificar la identidad de un usuario o una aplicación de forma segura antes de permitir el acceso a los datos o funcionalidades de la plataforma de eBay a través de la API.
 

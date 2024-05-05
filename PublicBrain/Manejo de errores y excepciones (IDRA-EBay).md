@@ -18,7 +18,7 @@ tags: []
 ---
 # Manejo de errores y excepciones (IDRA-EBay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 En la interacción digital remota mediante API con eBay, el manejo de errores y excepciones es esencial para garantizar que la comunicación entre nuestra aplicación y eBay sea fluida y eficiente. Algunos aspectos importantes a tener en cuenta en cuanto al manejo de errores y excepciones son:
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La implementación de registros de actividad y seguimiento de eventos en la interacción digital remota mediante API con eBay es fundamental para monitorear y registrar todas las interacciones que se realizan a través de la API. Esto permite llevar un seguimiento detallado de las acciones realizadas, identificar posibles errores o problemas, y analizar el comportamiento de los usuarios.
 

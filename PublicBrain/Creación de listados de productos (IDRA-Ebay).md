@@ -18,7 +18,7 @@ tags: []
 ---
 # Creación de listados de productos (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Para crear listados de productos en eBay a través de la API, primero debes asegurarte de tener una cuenta de desarrollador en eBay y obtener las credenciales necesarias para acceder a la API. Una vez que tengas las credenciales, puedes utilizar los endpoints de la API de eBay para crear un nuevo listado de productos.
 

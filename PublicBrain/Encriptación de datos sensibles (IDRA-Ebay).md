@@ -18,7 +18,7 @@ tags: []
 ---
 # Encriptación de datos sensibles (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La encriptación de datos sensibles es fundamental en cualquier interacción digital remota, especialmente cuando se trata de acceder a información confidencial a través de APIs como la de eBay. 
 

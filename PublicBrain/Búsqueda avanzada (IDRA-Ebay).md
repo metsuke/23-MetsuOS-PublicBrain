@@ -18,7 +18,7 @@ tags: []
 ---
 # Búsqueda avanzada (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La búsqueda avanzada en eBay es una función que te permite refinar tus resultados de búsqueda para encontrar exactamente lo que estás buscando. Esta función te permite seleccionar diferentes criterios como precio, ubicación del vendedor, tipo de artículo y muchas otras opciones para encontrar el producto que mejor se adapte a tus necesidades.
 

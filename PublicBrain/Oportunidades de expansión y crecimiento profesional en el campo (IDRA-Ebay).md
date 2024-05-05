@@ -18,7 +18,7 @@ tags: []
 ---
 # Oportunidades de expansión y crecimiento profesional en el campo (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 de la interacción digital remota con eBay a través de API, hay varias oportunidades de expansión y crecimiento profesional. Algunas de estas oportunidades incluyen:
 

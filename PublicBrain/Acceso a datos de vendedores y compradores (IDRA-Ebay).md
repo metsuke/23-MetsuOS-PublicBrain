@@ -18,7 +18,7 @@ tags: []
 ---
 # Acceso a datos de vendedores y compradores (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Para acceder a datos de vendedores y compradores a través de la API de eBay, es necesario utilizar las credenciales de autenticación proporcionadas por eBay al registrarse como desarrollador de la API. Una vez que se hayan autenticado, se pueden realizar consultas a la plataforma de eBay para obtener información sobre vendedores y compradores.
 

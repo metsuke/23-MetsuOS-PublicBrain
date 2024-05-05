@@ -18,7 +18,7 @@ tags: []
 ---
 # Principios de seguridad en la interacción con APIs (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Cuando se interactúa con APIs de eBay de forma remota, es fundamental seguir algunos principios de seguridad para proteger la información y los datos sensibles. Algunos de los principales principios de seguridad a tener en cuenta son:
 

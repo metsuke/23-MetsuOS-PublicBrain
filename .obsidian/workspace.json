@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad.md"
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md"
               }
             }
           },
@@ -165,8 +165,19 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "Uso de pronombres neutrales y no sexistas (Lectura Fácil) ⚫①.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API ⚫①.md",
+    "PublicBrain/¿Qué es una API? ⚫①.md",
+    "PublicBrain/Qué es una API (IDRA-EBay) 🔴②.md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
+    "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay) 🔴②.md",
+    "PublicBrain/Introducción a eBay y su API (IDRA-Ebay) 🔴②.md",
+    "PublicBrain/Beneficios de utilizar la API de eBay (IDRA-Ebay) 🔴②.md",
+    "PublicBrain/Registro como desarrollador en eBay (IDRA-Ebay) 🔴②.md",
     "PublicBrain/Aprender sobre Accesibilidad.md",
+    "PublicBrain/Uso de pronombres neutrales y no sexistas (Lectura Fácil) ⚫①.md",
+    "PublicBrain/Uso de espaciado y formato legible (Lectura Fácil) ⚫①.md",
+    "PublicBrain/Apoyo Visual (Lectura Fácil) ⚫①.md",
+    "Uso de pronombres neutrales y no sexistas (Lectura Fácil) ⚫①.md",
     "PublicBrain/Definición y objetivos de la lectura fácil ⚫①.md",
     "Uso de espaciado y formato legible (Lectura Fácil) ⚫①.md",
     "PublicBrain/Uso de imágenes y gráficos para aclarar conceptos (Lectura Facil).md",
@@ -180,17 +191,6 @@
     "PublicBrain/Aprender sobre Inteligencia Artificial ⚫①.md",
     "PublicBrain/¿Qué es la Inteligencia Artificial? ⚫①.md",
     "PublicBrain/La Inteligencia Artificial en tanto ciencia ⚫①.md",
-    "PublicBrain/Historia y evolución de la IA ⚫①.md",
-    "PublicBrain/Aplicaciones de la IA en la vida cotidiana ⚫①.md",
-    "PublicBrain/Aprendizaje automático (Machine Learning) ⚫①.md",
-    "PublicBrain/Conceptos básicos sobre Machine Learning ⚫①.md",
-    "PublicBrain/Tipos de aprendizaje automático (supervisado, no supervisado, reforzado) ⚫①.md",
-    "PublicBrain/Algoritmos de aprendizaje automático (regresión, clasificación, clustering) ⚫①.md",
-    "PublicBrain/Redes Neuronales Artificiales ⚫①.md",
-    "PublicBrain/Estructura y funcionamiento de las  redes neuronales ⚫①.md",
-    "PublicBrain/Entrenamiento de redes neuronales ⚫①.md",
-    "PublicBrain/Aplicaciones de redes neuronales profundas (Deep Learning) ⚫①.md",
-    "PublicBrain/Python en IA ⚫①.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

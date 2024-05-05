@@ -18,7 +18,7 @@ tags: []
 ---
 # Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Para seguir desarrollando habilidades en el campo de las APIs y eBay, aquí tienes algunos pasos que puedes seguir:
 

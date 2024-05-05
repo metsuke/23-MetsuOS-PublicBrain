@@ -18,7 +18,7 @@ tags: []
 ---
 # Interacción Digital Remota mediante API con Instagram
 
-[[Aprender sobre Interacción Digital Remota mediante API]]
+[[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 
 # Curso: Interacción Digital Remota mediante API con Instagram
 

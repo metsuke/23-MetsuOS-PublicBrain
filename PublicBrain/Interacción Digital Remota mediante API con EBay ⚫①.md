@@ -19,20 +19,20 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Interacción Digital Remota mediante API con EBay
+# Interacción Digital Remota mediante API con EBay ⚫①
 
-[[Aprender sobre Interacción Digital Remota mediante API]]
+[[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 
 ## Introducción a las APIs y eBay
 
-- [[Qué es una API (IDRA-EBay)]] 🟥
-- [[Importancia de las APIs en el desarrollo de software (IDRA-Ebay)]] 🟥
-- [[Introducción a eBay y su API (IDRA-Ebay)]] 🟥
-- [[Beneficios de utilizar la API de eBay (IDRA-Ebay)]] 🟥
+- [[Qué es una API (IDRA-EBay) 🔴②]] 
+- [[Importancia de las APIs en el desarrollo de software (IDRA-Ebay) 🔴②]]
+- [[Introducción a eBay y su API (IDRA-Ebay) 🔴②]]
+- [[Beneficios de utilizar la API de eBay (IDRA-Ebay) 🔴②]]
 
 ## Fundamentos de la API de eBay
 
-- [[Registro como desarrollador en eBay (IDRA-Ebay)]]  🟥
+- [[Registro como desarrollador en eBay (IDRA-Ebay) 🔴②]]
 - [[Obtención de credenciales de API (IDRA-Ebay)]] ⬛
 - [[Autenticación con la API de eBay (IDRA-Ebay)]] ⬛
 - [[Documentación de la API de eBay y recursos de ayuda (IDRA-Ebay)]] ⬛

@@ -19,9 +19,9 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Importancia de las APIs en el desarrollo de software (IDRA-Ebay)
+# Importancia de las APIs en el desarrollo de software (IDRA-Ebay) 🔴②
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Véase [[Importancia de las APIs en el desarrollo de software]]
 
@@ -44,3 +44,5 @@ La integración con eBay a través de API es un ejemplo paradigmático de cómo 
 *No se encontraron referencias que refuten el contenido.*
 
 Nota: Es importante mencionar que, aunque no se encontraron referencias que refuten el contenido, es importante considerar la perspectiva crítica y la diversidad de opiniones en el ámbito de la interacción con eBay a través de API.
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

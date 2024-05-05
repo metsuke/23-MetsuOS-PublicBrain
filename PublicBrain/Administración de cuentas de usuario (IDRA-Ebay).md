@@ -18,7 +18,7 @@ tags: []
 ---
 # Administración de cuentas de usuario (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La administración de cuentas de usuario en el contexto de la interacción digital remota mediante API con eBay se refiere a la gestión y control de las cuentas que se utilizan para acceder y realizar transacciones a través de la plataforma de eBay a través de una interfaz de programación de aplicaciones (API).
 

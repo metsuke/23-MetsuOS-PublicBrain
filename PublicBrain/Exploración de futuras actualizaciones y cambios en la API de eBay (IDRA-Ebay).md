@@ -18,7 +18,7 @@ tags: []
 ---
 # Exploración de futuras actualizaciones y cambios en la API de eBay (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 eBay regularmente actualiza su API para mejorar la experiencia del usuario y brindar nuevas funcionalidades a los desarrolladores. Algunas áreas en las que eBay podría estar explorando futuras actualizaciones y cambios en su API incluyen:
 

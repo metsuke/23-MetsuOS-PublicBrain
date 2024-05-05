@@ -21,14 +21,14 @@ tags:
 ---
 # Interacción Digital Remota mediante API con Pocket
 
-[[Aprender sobre Interacción Digital Remota mediante API]]
+[[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 
 ## Introducción
 - Objetivos del curso
 - Breve descripción de Pocket y su API
 
 ## Fundamentos de las APIs
-- [[¿Qué es una API?]]
+- [[¿Qué es una API? ⚫①]]
 - Tipos de APIs
 - Protocolos de comunicación (HTTP, REST, etc.)
 - Autenticación y autorización en APIs

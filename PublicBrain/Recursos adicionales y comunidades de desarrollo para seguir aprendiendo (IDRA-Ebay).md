@@ -18,7 +18,7 @@ tags: []
 ---
 # Recursos adicionales y comunidades de desarrollo para seguir aprendiendo (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Para seguir aprendiendo sobre la interacción digital remota mediante API con eBay, existen varios recursos adicionales y comunidades de desarrollo que pueden ser de gran ayuda. Aquí te menciono algunos de ellos:
 

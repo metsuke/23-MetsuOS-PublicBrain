@@ -18,7 +18,7 @@ tags: []
 ---
 # Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Un sistema de seguimiento de pedidos en tiempo real es una herramienta esencial para proporcionar a los clientes información detallada sobre el estado de sus compras. En el contexto de la interacción digital remota mediante API con eBay, la creación de un sistema de seguimiento de pedidos en tiempo real puede ser una excelente manera de mejorar la experiencia del cliente y fomentar la confianza en tu negocio.
 

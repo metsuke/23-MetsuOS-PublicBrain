@@ -22,5 +22,5 @@ tags: []
 
 En este área de conocimiento, exploraremos diferentes formas y maneras de interacción digital remota, desde API al Metaverso, pasando por pulsar botones con un palo de fregona largo.
 
-[[Aprender sobre Interacción Digital Remota mediante API]]
+[[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 

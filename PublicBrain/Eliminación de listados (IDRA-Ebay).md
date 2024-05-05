@@ -18,7 +18,7 @@ tags: []
 ---
 # Eliminación de listados (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 En el contexto de la interacción digital remota mediante API con eBay, la eliminación de listados se refiere a la acción de eliminar un anuncio o listing de un producto de la plataforma de eBay a través de la API. 
 

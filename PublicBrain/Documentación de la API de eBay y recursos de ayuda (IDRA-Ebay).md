@@ -18,7 +18,7 @@ tags: []
 ---
 # Documentación de la API de eBay y recursos de ayuda (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La documentación de la API de eBay es un recurso fundamental para cualquier desarrollador que desee interactuar remotamente con la plataforma mediante API. A través de la documentación oficial de eBay API, los desarrolladores podrán encontrar toda la información necesaria para integrar sus aplicaciones con la plataforma de eBay, acceder a datos de productos, realizar modificaciones en cuentas de vendedores, gestionar pedidos y mucho más.
 

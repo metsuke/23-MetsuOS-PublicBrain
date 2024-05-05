@@ -18,7 +18,7 @@ tags: []
 ---
 # Consulta de productos disponibles (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 En el contexto de la interacción digital remota mediante API con eBay, la consulta de productos disponibles es una funcionalidad común que permite a los desarrolladores acceder a la información sobre los productos que están disponibles para la venta en la plataforma de eBay. 
 

@@ -19,9 +19,10 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Qué es una API (IDRA-EBay)
+# Qué es una API (IDRA-EBay) 🔴②
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
-Véase [[¿Qué es una API?]]
+Véase [[¿Qué es una API? ⚫①]]
 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

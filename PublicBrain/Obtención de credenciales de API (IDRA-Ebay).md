@@ -18,7 +18,7 @@ tags: []
 ---
 # Obtención de credenciales de API (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Para realizar una interacción digital remota mediante API con eBay, es necesario obtener credenciales de API. Estas credenciales son proporcionadas por eBay a los desarrolladores que deseen utilizar su API para acceder a diferentes funcionalidades de la plataforma.
 

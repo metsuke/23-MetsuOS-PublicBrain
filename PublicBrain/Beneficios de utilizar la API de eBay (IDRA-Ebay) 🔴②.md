@@ -19,9 +19,9 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Beneficios de utilizar la API de eBay (IDRA-Ebay)
+# Beneficios de utilizar la API de eBay (IDRA-Ebay) 🔴②
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La API de eBay es una herramienta poderosa que te permite interactuar de forma remota con la plataforma de eBay, ofreciendo una serie de beneficios que pueden mejorar significativamente tu negocio. Algunos de los beneficios más destacados de utilizar la API de eBay son:
 
@@ -47,3 +47,5 @@ La API de eBay es una herramienta poderosa que te permite interactuar de forma r
 - No se han encontrado referencias que refuten el contenido.
 
 *Nota:* Como la información proporcionada por eBay es oficial y confiable, no se encontraron referencias que refuten el contenido. Sin embargo, es importante mencionar que la información puede cambiar con el tiempo, por lo que es importante verificar la información en fuentes oficiales de eBay.
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

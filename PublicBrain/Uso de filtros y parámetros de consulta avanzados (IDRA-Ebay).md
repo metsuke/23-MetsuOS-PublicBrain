@@ -18,7 +18,7 @@ tags: []
 ---
 # Uso de filtros y parámetros de consulta avanzados (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Cuando interactuamos de forma remota con la API de eBay, es importante comprender cómo se pueden utilizar filtros y parámetros de consulta avanzados para obtener resultados más específicos y relevantes.
 

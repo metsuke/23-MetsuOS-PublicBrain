@@ -18,7 +18,7 @@ tags: []
 ---
 # Interacción Digital Remota mediante API con ChessDotCom
 
-[[Aprender sobre Interacción Digital Remota mediante API]]
+[[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
 
 ## Introducción a las APIs
 - [[¿Qué es una API? (IDRA-ChessDotCom)]]

@@ -18,7 +18,7 @@ tags: []
 ---
 # Desarrollo de un sistema de gestión de inventario (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Un sistema de gestión de inventario es fundamental para cualquier negocio que venda productos en línea, ya que permite mantener un control preciso de los productos disponibles, agilizar los procesos de ventas, optimizar la logística y mejorar la satisfacción del cliente. En el contexto de la interacción digital remota mediante API con eBay, el desarrollo de un sistema de gestión de inventario se vuelve aún más crucial para garantizar una integración fluida y eficiente entre la plataforma de eBay y el inventario de la empresa.
 

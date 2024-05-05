@@ -18,7 +18,7 @@ tags: []
 ---
 # Reflexión sobre el aprendizaje y la aplicación práctica IDRA-Ebay
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 El aprendizaje y la aplicación práctica de la interacción digital remota mediante API con eBay han sido una experiencia muy enriquecedora. 
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Paginación y límites de resultados (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La paginación y los límites de resultados son conceptos importantes en la interacción digital remota mediante API con eBay, ya que permiten a los desarrolladores controlar la cantidad de datos que se recuperan de manera eficiente.
 

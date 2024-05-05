@@ -18,7 +18,7 @@ tags: []
 ---
 # Depuración de problemas y errores comunes (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 Cuando se interactúa con la API de eBay de forma remota, es posible que surjan problemas y errores comunes que deben ser depurados para garantizar un funcionamiento adecuado. Algunos de los problemas y errores comunes que puedes encontrar incluyen:
 

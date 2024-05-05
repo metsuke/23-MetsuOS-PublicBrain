@@ -18,7 +18,7 @@ tags: []
 ---
 # Gestión de pedidos y transacciones (IDRA-Ebay)
 
-[[Interacción Digital Remota mediante API con EBay]]
+[[Interacción Digital Remota mediante API con EBay ⚫①]]
 
 La gestión de pedidos y transacciones es una parte fundamental en la interacción digital remota mediante API con eBay. A través de la API de eBay, los desarrolladores tienen la capacidad de interactuar con los pedidos y transacciones realizadas en la plataforma.
 

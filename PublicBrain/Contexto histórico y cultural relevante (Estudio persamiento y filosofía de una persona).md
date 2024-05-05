@@ -18,7 +18,7 @@ tags: []
 ---
 # Contexto histórico y cultural relevante (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Por supuesto, entender el contexto histórico y cultural relevante es crucial para estudiar el pensamiento y la filosofía de una persona. Este contexto proporciona la atmósfera intelectual, social y política en la que se desarrollan las ideas y los sistemas de pensamiento. Aquí hay algunos aspectos clave que se deben considerar en este contexto:
 

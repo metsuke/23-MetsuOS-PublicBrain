@@ -18,7 +18,7 @@ tags: []
 ---
 # Influencias intelectuales y filosóficas (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Al estudiar el pensamiento y la filosofía de una persona, es fundamental considerar sus influencias intelectuales y filosóficas. Estas influencias pueden provenir de diversas fuentes, como otros filósofos, corrientes filosóficas, movimientos culturales, contextos históricos, experiencias personales, entre otros. 
 

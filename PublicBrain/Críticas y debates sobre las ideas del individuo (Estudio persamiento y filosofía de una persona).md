@@ -18,7 +18,7 @@ tags: []
 ---
 # Críticas y debates sobre las ideas del individuo (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Las críticas y debates sobre las ideas de un individuo son fundamentales para el desarrollo de la filosofía y el pensamiento crítico. A través de la confrontación de ideas, se pueden identificar fortalezas y debilidades en los argumentos propuestos, así como también se pueden abrir nuevas líneas de investigación y reflexión.
 

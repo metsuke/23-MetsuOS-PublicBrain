@@ -19,9 +19,9 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Propósito del curso (Estudio pensamiento y filosofía de una persona)
+# Propósito del curso (Estudio pensamiento y filosofía de una persona) 🔴②
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 El propósito de un curso sobre estudiar el pensamiento y filosofía de una persona es multifacético y se adapta a las necesidades y objetivos del instructor y los estudiantes. A continuación, se presentan los propósitos comunes que se suelen encontrar en estos cursos:
 
@@ -60,3 +60,5 @@ En resumen, el propósito de un curso sobre estudiar el pensamiento y filosofía
 - Kuhn, T. (1962). *La estructura de las revoluciones científicas*. Editorial Fondo de Cultura Económica.
 
 Nota: Se han agregado referencias bibliográficas y se ha incluido una sección de referencias que refutan el contenido para proporcionar una visión más completa y equilibrada del tema.
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

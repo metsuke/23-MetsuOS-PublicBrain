@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender con Pablo Grueso
 
-[[PublicBrain/Index|Index]] | [[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[PublicBrain/Index|Index]] | [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 * [Pablo Grueso: Lo que acabó con ITIL, acabará con Agile. - YouTube](https://www.youtube.com/watch?v=H2G8OW592Ws&ab_channel=TMDpodcast)
 

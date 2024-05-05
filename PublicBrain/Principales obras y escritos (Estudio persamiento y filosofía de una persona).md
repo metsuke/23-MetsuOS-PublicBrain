@@ -18,7 +18,7 @@ tags: []
 ---
 # Principales obras y escritos (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Cuando se estudia el pensamiento y la filosofía de una persona, es fundamental examinar sus principales obras y escritos, ya que estos textos suelen ser la fuente primaria de sus ideas y contribuciones al campo filosófico. A continuación, te daré un ejemplo con algunas obras y escritos de Friedrich Nietzsche, uno de los filósofos más influyentes del siglo XIX:
 

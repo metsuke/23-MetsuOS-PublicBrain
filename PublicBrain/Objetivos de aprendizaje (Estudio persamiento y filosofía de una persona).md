@@ -18,7 +18,7 @@ tags: []
 ---
 # Objetivos de aprendizaje (Estudio persamiento y filosofía de una persona)]]
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Por supuesto, aquí tienes algunos posibles objetivos de aprendizaje para un curso sobre estudiar el pensamiento y la filosofía de una persona:
 

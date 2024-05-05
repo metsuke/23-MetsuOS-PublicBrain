@@ -18,7 +18,7 @@ tags: []
 ---
 # Época y lugar de vida del individuo (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Claro, al estudiar el pensamiento y filosofía de una persona es fundamental tener en cuenta la época y el lugar en el que vivió, ya que estos factores influyen en gran medida en las ideas y creencias que desarrolló el individuo. La época en la que vivió una persona puede determinar los eventos históricos, movimientos culturales, avances tecnológicos y cambios sociales que influenciaron su pensamiento.
 

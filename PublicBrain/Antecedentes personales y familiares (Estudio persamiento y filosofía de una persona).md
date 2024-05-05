@@ -18,7 +18,7 @@ tags: []
 ---
 # Antecedentes personales y familiares (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Los antecedentes personales y familiares de una persona son elementos importantes a tener en cuenta al estudiar su pensamiento y filosofía, ya que pueden influir en su forma de ver el mundo, sus valores, creencias y experiencias que hayan marcado su vida.
 

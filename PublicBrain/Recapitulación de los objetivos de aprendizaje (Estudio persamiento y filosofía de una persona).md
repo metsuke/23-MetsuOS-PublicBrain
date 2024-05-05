@@ -18,7 +18,7 @@ tags: []
 ---
 # Recapitulación de los objetivos de aprendizaje (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Claro, la recapitulación de los objetivos de aprendizaje en un curso sobre estudiar el pensamiento y filosofía de una persona podría incluir los siguientes puntos:
 

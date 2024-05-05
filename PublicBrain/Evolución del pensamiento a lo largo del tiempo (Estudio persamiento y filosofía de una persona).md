@@ -18,7 +18,7 @@ tags: []
 ---
 # Evolución del pensamiento a lo largo del tiempo (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Claro, la evolución del pensamiento de una persona a lo largo del tiempo es un aspecto muy interesante de estudiar en el mundo de la filosofía y la psicología. A medida que una persona atraviesa experiencias, aprendizajes y cambios en su vida, su pensamiento y forma de ver el mundo también se transforma.
 

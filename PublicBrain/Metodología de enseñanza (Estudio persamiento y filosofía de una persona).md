@@ -18,7 +18,7 @@ tags: []
 ---
 # Metodología de enseñanza (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 La metodología de enseñanza para un curso sobre estudiar el pensamiento y filosofía de una persona debe ser diseñada de manera que fomente la reflexión crítica, la participación activa y el debate informado. Aquí hay algunas estrategias que podrían ser efectivas en este contexto:
 

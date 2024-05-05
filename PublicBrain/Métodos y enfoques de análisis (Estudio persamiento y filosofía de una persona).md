@@ -18,7 +18,7 @@ tags: []
 ---
 # Métodos y enfoques de análisis (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Para estudiar el pensamiento y la filosofía de una persona, existen varios métodos y enfoques de análisis que se pueden utilizar. Algunas de las formas más comunes incluyen:
 

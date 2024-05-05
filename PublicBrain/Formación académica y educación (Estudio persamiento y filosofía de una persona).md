@@ -18,7 +18,7 @@ tags: []
 ---
 # Formación académica y educación (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 La formación académica de una persona es crucial para comprender su pensamiento y filosofía. La educación que una persona recibe a lo largo de su vida influye en sus creencias, valores y perspectivas sobre el mundo. 
 

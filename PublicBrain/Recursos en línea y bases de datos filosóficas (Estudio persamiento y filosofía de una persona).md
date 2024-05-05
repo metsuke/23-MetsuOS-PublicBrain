@@ -18,7 +18,7 @@ tags: []
 ---
 # Recursos en línea y bases de datos filosóficas (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Claro, en el contexto de un curso sobre estudiar el pensamiento y filosofía de una persona, es importante utilizar recursos en línea y bases de datos filosóficas que puedan proporcionar información académica de calidad. Aquí te menciono algunas de las opciones disponibles:
 

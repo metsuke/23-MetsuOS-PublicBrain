@@ -18,7 +18,7 @@ tags: []
 ---
 # Técnicas de análisis filosófico (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 En un curso sobre estudiar el pensamiento y filosofía de una persona, las técnicas de análisis filosófico son herramientas fundamentales para examinar, comprender y evaluar las ideas y argumentos presentados por dicha persona. Aquí tienes algunas técnicas importantes de análisis filosófico:
 

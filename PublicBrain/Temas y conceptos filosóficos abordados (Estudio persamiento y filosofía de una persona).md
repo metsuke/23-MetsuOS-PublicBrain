@@ -18,7 +18,7 @@ tags: []
 ---
 # Temas y conceptos filosóficos abordados (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Sí, claro. En un curso sobre el pensamiento y filosofía de una persona, se abordarían diversos temas y conceptos filosóficos que la persona trató en su obra. Algunos ejemplos podrían incluir:
 

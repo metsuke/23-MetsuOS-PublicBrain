@@ -18,7 +18,7 @@ tags: []
 ---
 # Exámenes y pruebas de conocimiento (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Los exámenes y pruebas de conocimiento en un curso sobre estudiar el pensamiento y filosofía de una persona son fundamentales para evaluar la comprensión y asimilación de los conceptos y teorías discutidos en clase. Estas pruebas pueden incluir preguntas de opción múltiple, desarrollo, ensayos y análisis de textos filosóficos.
 

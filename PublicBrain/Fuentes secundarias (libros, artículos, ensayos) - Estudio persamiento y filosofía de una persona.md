@@ -18,7 +18,7 @@ tags: []
 ---
 # Fuentes secundarias (libros, artículos, ensayos) - Estudio persamiento y filosofía de una persona
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Las fuentes secundarias, como libros, artículos y ensayos, son una herramienta fundamental en el estudio del pensamiento y la filosofía de una persona. Estas fuentes suelen ofrecer análisis, interpretaciones y contextualizaciones que ayudan a comprender mejor las ideas y el impacto de la persona en cuestión.
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Diseño de la investigación (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 En el contexto de un curso sobre estudiar el pensamiento y la filosofía de una persona, el diseño de la investigación es fundamental para investigar y comprender las ideas y el pensamiento de un individuo. Aquí hay algunas consideraciones importantes sobre el diseño de la investigación:
 

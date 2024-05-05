@@ -18,7 +18,7 @@ tags: []
 ---
 # Implicaciones y aplicaciones futuras del estudio filosófico (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 El estudio filosófico de una persona conlleva diversas implicaciones y aplicaciones futuras que pueden ser de gran valor tanto a nivel académico como práctico. Algunas de estas implicaciones y aplicaciones son las siguientes:
 

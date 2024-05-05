@@ -18,7 +18,7 @@ tags: []
 ---
 # Eventos políticos, sociales y culturales relevantes (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 En el caso de estudiar el pensamiento y la filosofía de una persona, es importante considerar los eventos políticos, sociales y culturales relevantes que hayan tenido lugar durante su vida. Estos eventos pueden haber tenido un impacto significativo en la forma en que la persona desarrolló sus ideas y en cómo estas fueron moldeadas en respuesta a los cambios en el entorno que los rodeaba.
 

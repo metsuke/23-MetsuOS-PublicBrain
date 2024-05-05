@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Curso sobre estudiar el pensamiento y filosofía de una persona
+# Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①
 
 [[PublicBrain/Index|Index]] | [[Aprender con Pablo Grueso]]
 
@@ -27,7 +27,7 @@ tags:
 
 ## I. Introducción
 
-   - [[Propósito del curso (Estudio pensamiento y filosofía de una persona)]]
+   - [[Propósito del curso (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - B. [[Justificación (Estudio persamiento y filosofía de una persona)]]
    - C. [[Objetivos de aprendizaje (Estudio persamiento y filosofía de una persona)]]
    - D. [[Metodología de enseñanza (Estudio persamiento y filosofía de una persona)]]
@@ -79,3 +79,4 @@ tags:
    - B. [[Reflexión sobre la investigación realizada (Estudio persamiento y filosofía de una persona)]]
    - C. [[Implicaciones y aplicaciones futuras del estudio filosófico (Estudio persamiento y filosofía de una persona)]]
 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

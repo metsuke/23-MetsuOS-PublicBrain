@@ -51,7 +51,7 @@ No estoy de acuerdo con todo lo que dicen todos, mas todos ellos aportan una vis
 * [[Aprender con M-P]]
 * [[Aprender con Q-Z]]
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 ## Aprender sobre ...
 

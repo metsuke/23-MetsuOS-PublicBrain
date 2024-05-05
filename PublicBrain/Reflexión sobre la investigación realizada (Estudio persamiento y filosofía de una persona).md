@@ -18,7 +18,7 @@ tags: []
 ---
 # Reflexión sobre la investigación realizada (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Durante el curso sobre el pensamiento y filosofía de una persona, es importante reflexionar sobre la investigación realizada para comprender mejor la vida, obra y legado del pensador en cuestión. 
 

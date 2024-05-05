@@ -18,7 +18,7 @@ tags: []
 ---
 # Selección de fuentes primarias y secundarias (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 En un curso sobre estudiar el pensamiento y la filosofía de una persona, la selección de fuentes primarias y secundarias es crucial para comprender en profundidad las ideas y el contexto en el que se desarrollaron. Aquí tienes una explicación de cada tipo de fuente y su importancia:
 

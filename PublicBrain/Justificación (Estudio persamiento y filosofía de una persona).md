@@ -18,7 +18,7 @@ tags: []
 ---
 # Justificación (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 La justificación de un curso sobre estudiar el pensamiento y filosofía de una persona puede ser multifacética y depende en gran medida de los objetivos y el enfoque específico del curso. Aquí hay varias razones que podrían justificar la creación y participación en un curso de este tipo:
 

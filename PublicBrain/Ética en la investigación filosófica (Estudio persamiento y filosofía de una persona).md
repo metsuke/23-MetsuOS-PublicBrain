@@ -18,7 +18,7 @@ tags: []
 ---
 # Ética en la investigación filosófica (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 En un curso sobre estudiar el pensamiento y filosofía de una persona, la ética en la investigación filosófica juega un papel crucial en garantizar la integridad, la responsabilidad y el respeto en el proceso de estudio. Aquí tienes algunos aspectos importantes sobre la ética en la investigación filosófica:
 

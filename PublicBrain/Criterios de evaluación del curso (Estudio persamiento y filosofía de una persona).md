@@ -18,7 +18,7 @@ tags: []
 ---
 # Criterios de evaluación del curso (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 A la hora de evaluar un curso sobre el pensamiento y filosofía de una persona, se pueden tener en cuenta diversos criterios para determinar su calidad y efectividad. Algunos de los criterios de evaluación que se pueden considerar son:
 

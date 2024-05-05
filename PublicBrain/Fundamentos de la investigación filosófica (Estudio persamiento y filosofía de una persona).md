@@ -18,7 +18,7 @@ tags: []
 ---
 # Fundamentos de la investigación filosófica (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Para un curso sobre estudiar el pensamiento y la filosofía de una persona, es fundamental comprender los fundamentos de la investigación filosófica. Aquí tienes una descripción de los aspectos básicos que podrían abordarse en este contexto:
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Fuentes primarias - obras del individuo (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Las fuentes primarias en el estudio del pensamiento y la filosofía de una persona son las obras producidas por el individuo en cuestión. Estas obras pueden incluir libros, artículos, ensayos, cartas, diarios, conferencias, entre otros escritos en los que el individuo expone y desarrolla sus ideas, teorías y argumentos.
 

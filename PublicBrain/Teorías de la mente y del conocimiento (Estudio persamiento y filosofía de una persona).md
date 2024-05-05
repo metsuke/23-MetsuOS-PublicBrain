@@ -18,7 +18,7 @@ tags: []
 ---
 # Teorías de la mente y del conocimiento (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Claro, las teorías de la mente y del conocimiento son fundamentales en el estudio del pensamiento y la filosofía de una persona. Estas áreas de estudio se ocupan de comprender cómo los seres humanos perciben, procesan y comprenden el mundo que les rodea, así como también cómo adquieren y utilizan el conocimiento.
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Trabajos y proyectos asignados (Estudio persamiento y filosofía de una persona)
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Durante el curso, es común que se asignen una variedad de trabajos y proyectos para estudiar el pensamiento y la filosofía de una persona en particular. Algunas de las tareas que podrían asignarse incluyen:
 

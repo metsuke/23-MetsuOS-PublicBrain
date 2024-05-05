@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.120Z
-modified: 2024-04-21T14:13:43.841Z
+modified: 2024-05-05T14:17:18.835Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Dimensiones del talento excepcional
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 El concepto de "altas capacidades" se refiere a la presencia de habilidades intelectuales excepcionales en comparación con la población general. Dentro de este contexto, las dimensiones del talento excepcional suelen abordarse desde diversas perspectivas para comprender la diversidad de las habilidades y el potencial excepcional de los individuos. Aquí hay algunas dimensiones clave:
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-05-05T12:56:38.282Z
+modified: 2024-05-05T14:17:19.362Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 109
+ver_rev: 110
 nav_primary: 
 nav_secondary: 
 tags:
@@ -116,7 +116,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 		* ([[WCAG 2.0]] ⬛ | [[WCAG 2.1]]⬛)
 	* [[Aprender sobre Accesibilidad en ELearining]] ⬛
 	* [[Aprender sobre Accesibilidad en Videojuegos]] ⬛
-* [[Aprender sobre Altas Capacidades]]
+* [[Aprender sobre Altas Capacidades ⚫①]]
 
 ### Productividad
 

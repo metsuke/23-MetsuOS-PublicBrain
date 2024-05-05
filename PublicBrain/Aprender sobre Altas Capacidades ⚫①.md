@@ -9,24 +9,24 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.524Z
-modified: 2024-05-05T12:56:40.707Z
+modified: 2024-05-05T14:17:18.497Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 87
+ver_rev: 88
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Altas Capacidades
+# Aprender sobre Altas Capacidades ⚫①
 
 [[PublicBrain/Index]]
 
 ## Tema 1: Conceptualización y Marcos Teóricos
 
-- [[Definición de altas capacidades]]
-- [[Enfoques teóricos relevantes en Altas Capacidades]]
+- [[Definición de altas capacidades 🔴②]]
+- [[Enfoques teóricos relevantes en Altas Capacidades 🔴②]]
 - [[Dimensiones del talento excepcional]]
 
 ## Tema 2: Neurofisiología Cerebral y su Aplicación en la Neuroeducación
@@ -82,3 +82,5 @@ tags:
 ## Cierre y Certificación
 - [[Agradecimientos (Altas Capacidades)]]
 - [[Entrega de certificados de participación]]
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T07:27:09.571Z
-modified: 2024-04-14T14:29:03.829Z
+modified: 2024-05-05T14:17:18.783Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Desarrollo profesional y personal
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 El desarrollo profesional y personal es un aspecto clave en la vida de las personas con altas capacidades, ya que les permite alcanzar su máximo potencial y lograr un crecimiento continuo en diferentes áreas de su vida.
 

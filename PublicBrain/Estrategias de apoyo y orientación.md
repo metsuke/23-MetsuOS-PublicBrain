@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T07:26:06.123Z
-modified: 2024-04-14T14:29:03.803Z
+modified: 2024-05-05T14:17:18.961Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Estrategias de apoyo y orientación
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Para apoyar a personas con altas capacidades, es importante tener en cuenta ciertas estrategias y orientaciones que pueden ser útiles. Algunas de estas estrategias incluyen:
 

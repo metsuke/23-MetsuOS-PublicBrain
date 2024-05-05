@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.393Z
-modified: 2024-04-14T14:29:04.081Z
+modified: 2024-05-05T14:17:18.601Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Adaptaciones curriculares y programas especiales (Altas Capacidades)
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Las adaptaciones curriculares y los programas especiales son estrategias educativas diseñadas para atender las necesidades específicas de los estudiantes con altas capacidades intelectuales. Estas personas pueden presentar un nivel de habilidad cognitiva superior al promedio, lo que a menudo requiere un enfoque educativo personalizado para garantizar que alcancen su máximo potencial.
 

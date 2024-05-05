@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T07:28:24.850Z
-modified: 2024-04-14T14:29:03.241Z
+modified: 2024-05-05T14:17:19.322Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Síntesis del curso
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 El curso sobre altas capacidades ofrece una introducción detallada a este tema, abordando aspectos como la definición de las altas capacidades, las características de las personas superdotadas, las diferentes áreas en las que estas capacidades pueden manifestarse y las dificultades que pueden surgir en su entorno académico, social y emocional.
 

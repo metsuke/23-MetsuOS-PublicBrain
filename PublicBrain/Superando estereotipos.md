@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.742Z
-modified: 2024-04-14T14:29:03.241Z
+modified: 2024-05-05T14:17:19.297Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Superando estereotipos
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Los estereotipos son creencias o prejuicios que se tienen sobre un grupo de personas, en este caso sobre las personas con altas capacidades. Estos estereotipos pueden limitar el desarrollo y la integración de las personas con altas capacidades en la sociedad.
 

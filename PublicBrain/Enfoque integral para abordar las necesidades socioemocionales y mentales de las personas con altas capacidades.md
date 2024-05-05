@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.173Z
-modified: 2024-04-14T14:29:03.808Z
+modified: 2024-05-05T14:17:18.855Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Enfoque integral para abordar las necesidades socioemocionales y mentales de las personas con altas capacidades
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Cuando hablamos de altas capacidades, es importante no centrarnos únicamente en el aspecto intelectual de las personas con estas características, sino también en sus necesidades socioemocionales y mentales. Un enfoque integral que aborde todas estas áreas es fundamental para garantizar el bienestar y el desarrollo pleno de las personas con altas capacidades.
 

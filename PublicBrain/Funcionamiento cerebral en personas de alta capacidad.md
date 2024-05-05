@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.453Z
-modified: 2024-04-29T21:19:39.987Z
+modified: 2024-05-05T14:17:19.002Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Funcionamiento cerebral en personas de alta capacidad
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Las personas de alta capacidad suelen tener un funcionamiento cerebral distinto al de la población general. Se han realizado estudios que demuestran que estas personas poseen una mayor conectividad neuronal en ciertas áreas del cerebro, lo que les permite procesar la información de manera más rápida y eficiente.
 

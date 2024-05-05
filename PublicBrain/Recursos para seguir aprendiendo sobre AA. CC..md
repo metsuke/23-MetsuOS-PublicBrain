@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T03:46:56.253Z
-modified: 2024-04-14T14:29:03.283Z
+modified: 2024-05-05T14:17:19.255Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Recursos para seguir aprendiendo sobre AA. CC.
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Existen una variedad de recursos disponibles para seguir aprendiendo sobre altas capacidades y cómo apoyar a las personas identificadas como superdotadas. Algunos de estos recursos incluyen:
 

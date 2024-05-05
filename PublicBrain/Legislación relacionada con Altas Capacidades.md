@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.107Z
-modified: 2024-04-14T14:29:03.440Z
+modified: 2024-05-05T14:17:19.064Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Legislación relacionada con Altas Capacidades
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 En muchos países, la educación de los niños con altas capacidades está regulada por leyes específicas que garantizan que estos estudiantes reciban la atención especializada que necesitan para desarrollar su potencial al máximo. Algunas de las leyes más relevantes en este ámbito son:
 

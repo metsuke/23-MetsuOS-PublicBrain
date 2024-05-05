@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T16:21:02.086Z
-modified: 2024-04-14T14:29:04.079Z
+modified: 2024-05-05T14:17:18.639Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Agradecimientos (Altas Capacidades)
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Agradecer la oportunidad de aprender y comprender más sobre el tema de altas capacidades es fundamental, ya que nos permite ampliar nuestros conocimientos y mejorar nuestra comprensión sobre las necesidades de las personas con altas capacidades. También es importante agradecer a aquellos expertos, investigadores, profesionales y educadores que han dedicado su tiempo y esfuerzo a estudiar este tema y a compartir su conocimiento con nosotros.
 

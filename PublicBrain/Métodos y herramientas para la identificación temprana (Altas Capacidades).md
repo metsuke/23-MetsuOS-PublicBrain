@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.350Z
-modified: 2024-04-14T14:29:03.354Z
+modified: 2024-05-05T14:17:19.121Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Métodos y herramientas para la identificación temprana (Altas Capacidades)
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Identificar tempranamente a los niños con altas capacidades es fundamental para poder proporcionarles el apoyo y la estimulación adecuados desde una edad temprana. A continuación, se presentan algunos métodos y herramientas que pueden ser útiles en este proceso de identificación:
 

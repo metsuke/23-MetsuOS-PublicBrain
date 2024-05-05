@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.742Z
-modified: 2024-04-14T14:29:03.549Z
+modified: 2024-05-05T14:17:19.056Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Introducción a Neurología Cerebral y su aplicación en la Neuroeducación (Altas Capacidades)
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 **Tema 2: Neurofisiología Cerebral y su Aplicación en la Neuroeducación**
 

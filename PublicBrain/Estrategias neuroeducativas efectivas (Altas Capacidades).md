@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.184Z
-modified: 2024-04-14T14:29:03.801Z
+modified: 2024-05-05T14:17:18.993Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Estrategias neuroeducativas efectivas (Altas Capacidades)
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 En el contexto de las altas capacidades, las estrategias neuroeducativas efectivas son aquellas que tienen en cuenta las características cognitivas y emocionales particulares de los estudiantes con altas capacidades intelectuales. Aquí hay algunas estrategias que se consideran efectivas en el ámbito de la educación para estudiantes con altas capacidades:
 

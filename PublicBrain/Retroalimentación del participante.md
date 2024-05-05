@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T16:27:03.421Z
-modified: 2024-04-14T14:29:03.275Z
+modified: 2024-05-05T14:17:19.277Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Retroalimentación del participante
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 La retroalimentación del participante es crucial cuando se trata de identificar y apoyar a individuos con altas capacidades. Alentando a los participantes a expresar sus pensamientos, sentimientos y necesidades, los profesionales pueden obtener información valiosa sobre sus fortalezas y desafíos, lo que les permite adaptar de manera efectiva sus estrategias de apoyo.
 

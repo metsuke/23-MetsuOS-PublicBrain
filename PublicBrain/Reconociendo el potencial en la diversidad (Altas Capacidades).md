@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.635Z
-modified: 2024-04-14T14:29:03.285Z
+modified: 2024-05-05T14:17:19.221Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Reconociendo el potencial en la diversidad (Altas Capacidades)
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Reconocer el potencial en la diversidad es un aspecto fundamental cuando se trata de identificar y apoyar a las personas con altas capacidades. A menudo, existe la idea errónea de que las altas capacidades se manifiestan de una manera específica y que las personas superdotadas se destacan de manera evidente en un grupo. Sin embargo, la realidad es que las altas capacidades pueden manifestarse de diversas formas y en diferentes áreas, tanto académicas como no académicas.
 

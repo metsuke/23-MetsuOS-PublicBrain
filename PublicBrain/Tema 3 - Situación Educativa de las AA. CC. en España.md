@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.781Z
-modified: 2024-04-14T14:29:03.235Z
+modified: 2024-05-05T14:17:19.354Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Tema 3 - Situación Educativa de las AA. CC. en España
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 En el contexto de aprender sobre altas capacidades, el Tema 3: Situación Educativa de las Altas Capacidades en España aborda el panorama educativo y las políticas relacionadas con la identificación y el apoyo a los estudiantes con altas capacidades intelectuales en el sistema educativo español. Aquí hay algunos puntos clave que podrían abordarse en este tema:
 

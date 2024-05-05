@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T16:28:26.338Z
-modified: 2024-04-14T14:29:03.806Z
+modified: 2024-05-05T14:17:18.936Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Entrega de certificados de participación
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 La entrega de certificados de participación en programas o actividades relacionadas con altas capacidades es una práctica común en muchos centros educativos, organizaciones y eventos especializados. Estos certificados suelen otorgarse a los participantes que han completado con éxito un curso, taller, conferencia u otra actividad académica o formativa relacionada con el tema de las altas capacidades.
 

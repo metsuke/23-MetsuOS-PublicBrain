@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T16:27:45.081Z
-modified: 2024-04-14T14:29:03.289Z
+modified: 2024-05-05T14:17:19.199Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Pruebas de conocimiento (Altas Capacidades)
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Las pruebas de conocimiento son utilizadas como una herramienta para evaluar el nivel de conocimientos y habilidades de una persona en una determinada área. En el contexto de las altas capacidades, estas pruebas pueden ser útiles para identificar el potencial intelectual excepcional de un individuo.
 

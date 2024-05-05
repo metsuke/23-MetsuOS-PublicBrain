@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.120Z
-modified: 2024-04-14T14:29:03.825Z
+modified: 2024-05-05T14:17:18.812Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Diferenciación entre altas capacidades y otros desafíos educativos
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Las altas capacidades se refieren a un nivel excepcionalmente alto de habilidades intelectuales, creativas, académicas o artísticas en comparación con la norma para la edad de una persona. Es importante diferenciar las altas capacidades de otros desafíos educativos, como por ejemplo:
 

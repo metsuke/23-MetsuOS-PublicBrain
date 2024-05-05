@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.608Z
-modified: 2024-04-14T14:29:03.300Z
+modified: 2024-05-05T14:17:19.163Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Presentación y análisis de la metodología (Altas Capacidades)
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Para identificar y atender a las personas con altas capacidades es importante contar con una metodología adecuada que nos guíe en este proceso. A continuación, se presentan y analizan algunas de las metodologías más utilizadas en este ámbito:
 

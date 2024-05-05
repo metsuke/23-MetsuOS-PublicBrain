@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.592Z
-modified: 2024-04-14T14:29:03.574Z
+modified: 2024-05-05T14:17:19.049Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Impacto en el rendimiento académico y emocional (Altas Capacidades)
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 Las altas capacidades pueden tener un impacto tanto en el rendimiento académico como en el aspecto emocional de un individuo.
 

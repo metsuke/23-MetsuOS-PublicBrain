@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.098Z
-modified: 2024-04-30T06:26:03.330Z
+modified: 2024-05-05T14:17:18.726Z
 supervisado: 2024-04-28T21:34:21.115Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Definición de altas capacidades
+# Definición de altas capacidades 🔴②
 
-[[Aprender sobre Altas Capacidades]]
+[[Aprender sobre Altas Capacidades ⚫①]]
 
 **Altas capacidades**, también conocidas como superdotación o talento excepcional, se refieren a la presencia de habilidades intelectuales excepcionales en comparación con la población general. Las personas con altas capacidades muestran un rendimiento intelectual superior en áreas como el cociente intelectual (CI), rendimiento académico, habilidades creativas y talentos específicos.
 
@@ -66,3 +66,5 @@ Es importante destacar que las altas capacidades no se limitan únicamente al á
 * Plomin, R., DeFries, J. C., Knopik, V. S., & Neiderhiser, J. M. (2016). Behavioral genetics. Worth Publishers.
 
 **Nota:** Se recomienda consultar las referencias bibliográficas para obtener una visión más completa y actualizada sobre el tema de las altas capacidades.
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

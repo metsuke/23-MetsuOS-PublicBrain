@@ -16,13 +16,13 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Estructura básica de un juego en Pyxel
+# Estructura básica de un juego en Pyxel 🔴②
 
 [[Aprender sobre Pyxel  ⚫①]]
 
-En Pyxel, la estructura básica de un juego implica definir ciertos elementos esenciales que formarán parte de la experiencia de juego. Aquí tienes una descripción de los componentes básicos que suelen estar presentes en la estructura de un juego en Pyxel:
+En Pyxel, la estructura básica de un juego implica definir ciertos elementos esenciales que formarán parte de la experiencia de juego. A continuación, se presentan los componentes básicos que suelen estar presentes en la estructura de un juego en Pyxel.
 
-### 1. Inicialización del juego:
+## 1. Inicialización del juego
 
 El primer paso es inicializar el entorno de juego, configurando el tamaño de la ventana, la paleta de colores y cualquier otra configuración necesaria.
 
@@ -36,7 +36,7 @@ pyxel.init(ancho, alto, scale=escala, caption="Título del juego")
 pyxel.palette = [color1, color2, ...]
 ```
 
-### 2. Declaración de variables:
+## 2. Declaración de variables
 
 Luego, es importante declarar las variables que serán utilizadas para mantener el estado del juego, como la posición del jugador, el puntaje, el nivel actual, etc.
 
@@ -48,7 +48,7 @@ puntaje = 0
 nivel = 1
 ```
 
-### 3. Definición de funciones:
+## 3. Definición de funciones
 
 A continuación, define las funciones que gestionarán diferentes aspectos del juego, como el dibujo de sprites, la lógica del juego, la detección de colisiones, etc.
 
@@ -62,7 +62,7 @@ def dibujar():
     pass
 ```
 
-### 4. Bucle principal del juego:
+## 4. Bucle principal del juego
 
 El bucle principal del juego es donde se ejecuta la lógica del juego y se actualiza la pantalla en cada fotograma.
 
@@ -85,7 +85,7 @@ while True:
         break
 ```
 
-### 5. Gestión de entrada de usuario:
+## 5. Gestión de entrada de usuario
 
 En Pyxel, puedes controlar la entrada de usuario utilizando las funciones `btn`, `btnp`, `btnr` para verificar si se ha presionado, se está manteniendo o se ha liberado un botón.
 
@@ -105,3 +105,16 @@ def actualizar():
 ```
 
 Estos son los componentes básicos de la estructura de un juego en Pyxel. A partir de aquí, puedes agregar más funcionalidades, como la gestión de colisiones, la reproducción de sonidos, la implementación de menús, etc., para crear un juego completo y divertido.
+
+**Referencias bibliográficas**
+
+- Pyxel Documentation: [https://pyxel.org/docs/](https://pyxel.org/docs/)
+- Pyxel Tutorials: [https://pyxel.org/tutorials/](https://pyxel.org/tutorials/)
+
+**Referencias que refutan este contenido**
+
+- No se encontraron referencias que refuten este contenido.
+
+**Nota**: El contenido presentado es una guía básica para crear un juego en Pyxel. Es importante mencionar que Pyxel es un lenguaje de programación muy potente y flexible, por lo que es posible crear juegos muy complejos y avanzados utilizando esta herramienta.
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

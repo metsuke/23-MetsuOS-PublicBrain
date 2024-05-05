@@ -28,7 +28,7 @@ tags:
 ## I. Introducción
 
    - [[Propósito del curso (Estudio pensamiento y filosofía de una persona) 🔴②]]
-   - B. [[Justificación (Estudio pensamiento y filosofía de una persona) 🔴②]]
+   - [[Justificación (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - C. [[Objetivos de aprendizaje (Estudio pensamiento y filosofía de una persona)]]
    - D. [[Metodología de enseñanza (Estudio pensamiento y filosofía de una persona)]]
    

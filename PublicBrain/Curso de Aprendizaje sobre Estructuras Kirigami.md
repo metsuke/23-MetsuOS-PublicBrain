@@ -9,7 +9,7 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-02-12T23:49:10.491Z
-modified: 2024-05-03T21:51:00.829Z
+modified: 2024-05-05T12:56:43.446Z
 supervisado:
   
 
@@ -38,12 +38,12 @@ supervisado:
  
 ver_major: 0
 ver_minor: 2
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
 ---	# Aprender sobre estructuras Kirigami
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 # Curso de Aprendizaje sobre Estructuras Kirigami
 ## Módulo 1: "I"ntroducción al Kirigami
 - [[Introducción al arte del kirigami]]

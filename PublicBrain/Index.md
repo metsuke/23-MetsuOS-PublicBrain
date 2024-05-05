@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-05-04T19:37:39.708Z
+modified: 2024-05-05T12:56:38.282Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 108
+ver_rev: 109
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Index ⚫①
+# Index
 
 [[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] 
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.654Z
-modified: 2024-05-03T21:51:04.687Z
+modified: 2024-05-05T12:56:44.723Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Inglés
 
-[[Index ⚫①]] | [[Estadísticas sobre Idiomas]]
+[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas]]
 
 El idioma inglés es uno de los idiomas más hablados en el mundo. Es la lengua materna de aproximadamente 360 millones de personas y se estima que otras 1.5 mil millones de personas lo hablan como segunda lengua.
 

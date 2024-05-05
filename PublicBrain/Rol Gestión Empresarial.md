@@ -22,7 +22,7 @@ tags:
 # Rol Gestión Empresarial
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Glosario de Marketing Digital]]
+	* [[Glosario de Marketing Digital ⚫①]]
 
 ## Microagencia de Marketing Digital
 

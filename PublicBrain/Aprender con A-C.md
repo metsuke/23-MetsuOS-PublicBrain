@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.490Z
-modified: 2024-05-03T21:50:54.434Z
+modified: 2024-05-05T12:56:39.849Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 57
+ver_rev: 58
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender con A-C
 
-[[Index ⚫①|Index ⚫①]]
+[[PublicBrain/Index|Index]]
 
 * [[Aprender con Antonio Ruiz García (ElGris)]]
 * Aprender con Ángel Rodríguez Lozano

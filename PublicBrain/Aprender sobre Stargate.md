@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.589Z
-modified: 2024-05-03T21:50:58.719Z
+modified: 2024-05-05T12:56:42.472Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Stargate
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 "Stargate" es una [[Franquicia|franquicia]] de [[Ciencia Ficción|ciencia ficción]] que comenzó con la película "Stargate" lanzada en 1994 y se expandió posteriormente con varias series de televisión. Aquí hay información sobre las principales series de televisión:
 

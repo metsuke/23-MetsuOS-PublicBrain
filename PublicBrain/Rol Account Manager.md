@@ -22,7 +22,7 @@ tags:
 # Rol Account Manager
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Glosario de Marketing Digital]]
+	* [[Glosario de Marketing Digital ⚫①]]
 
 Este rol se encarga de mantener a todos los clientes con una sonrisa
 

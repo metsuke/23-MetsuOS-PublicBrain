@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.545Z
-modified: 2024-05-03T21:50:56.934Z
+modified: 2024-05-05T12:56:41.409Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre GNU Linux
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 ## Introducción a GNU/Linux
 

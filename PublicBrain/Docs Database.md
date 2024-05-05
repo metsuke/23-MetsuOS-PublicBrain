@@ -6,18 +6,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.131Z
-modified: 2024-05-03T21:51:01.110Z
+modified: 2024-05-05T12:56:43.500Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Docs Database
 
-[[Index ⚫①|Index ⚫①]]
+[[PublicBrain/Index|Index]]
 
 * [Mermaid Docs](https://mermaid.js.org/config/usage.html)

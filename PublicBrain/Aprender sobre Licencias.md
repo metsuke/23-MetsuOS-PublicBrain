@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.555Z
-modified: 2024-05-03T21:50:57.329Z
+modified: 2024-05-05T12:56:41.568Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Licencias
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 Las licencias son acuerdos legales que establecen los términos y condiciones para el uso y distribución de diversos tipos de contenido o propiedad intelectual. Aquí te mencionaré algunos tipos comunes de licencias:
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.528Z
-modified: 2024-05-03T21:50:56.105Z
+modified: 2024-05-05T12:56:40.885Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Buenas Prácticas y Código Limpio en Programación
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 # Curso sobre Buenas Prácticas y Código Limpio en Programación
 

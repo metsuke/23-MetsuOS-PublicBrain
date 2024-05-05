@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.336Z
-modified: 2024-05-03T21:51:02.108Z
+modified: 2024-05-05T12:56:44.034Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # FFMPEG - Convertir Aiff a Mp3
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 Para convertir archivos de audio de formato AIFF a MP3 utilizando la herramienta de línea de comandos `ffmpeg`, puedes seguir estos pasos:
 

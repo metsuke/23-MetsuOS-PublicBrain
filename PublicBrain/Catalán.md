@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.943Z
-modified: 2024-05-03T21:51:00.114Z
+modified: 2024-05-05T12:56:43.137Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Catalán
 
-[[Index ⚫①]] | [[Estadísticas sobre Idiomas]] | [diccionari.cat | diccionari.cat](https://www.diccionari.cat/) | [Institut d'Estudis Catalans - Diec2](https://dlc.iec.cat/)
+[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas]] | [diccionari.cat | diccionari.cat](https://www.diccionari.cat/) | [Institut d'Estudis Catalans - Diec2](https://dlc.iec.cat/)
 
 El catalán es un idioma romance hablado principalmente en Cataluña, en el noreste de España, así como en las Islas Baleares, la Comunidad Valenciana, y la región de Alghero en Cerdeña, Italia. También se habla en partes de Francia y Andorra.
 

@@ -22,7 +22,7 @@ tags:
 # Rol Comercial
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
-	* [[Glosario de Marketing Digital]]
+	* [[Glosario de Marketing Digital ⚫①]]
 
 Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 
@@ -79,4 +79,4 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 
 ## Glosario
 
-* [[Lead (Marketing Digital)]]
+* [[Lead (Marketing Digital) ⚫①]]

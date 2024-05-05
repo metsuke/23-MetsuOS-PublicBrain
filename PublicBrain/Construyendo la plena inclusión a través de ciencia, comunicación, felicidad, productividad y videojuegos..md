@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.045Z
-modified: 2024-05-03T21:51:00.551Z
+modified: 2024-05-05T12:56:43.405Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 80
+ver_rev: 81
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,7 @@ Estructura de la Web en proceso de creación
 * Productividad
 * Videojuegos
 
-* [[Index ⚫①]]
+* [[PublicBrain/Index]]
 
 [![volver a la Home](_resources/Home/d127e8f844e447284700247bb17d2e79_MD5.png)](https://metsuke.com/)
 

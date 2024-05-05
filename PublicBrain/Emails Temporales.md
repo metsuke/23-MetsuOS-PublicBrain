@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.168Z
-modified: 2024-05-03T21:51:01.324Z
+modified: 2024-05-05T12:56:43.526Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Emails Temporales
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 
 Aquí está una lista de 25 dominios de correo electrónico temporales, anónimos o descartables:

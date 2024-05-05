@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.576Z
-modified: 2024-05-03T21:51:04.524Z
+modified: 2024-05-05T12:56:44.706Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # IA Tools Database
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 
 ## Color Palette

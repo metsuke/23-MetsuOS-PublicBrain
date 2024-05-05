@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.526Z
-modified: 2024-05-03T21:50:55.906Z
+modified: 2024-05-05T12:56:40.755Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aprender sobre BabyMetal
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 En este proyecto, busco aprender sobre BabyMetal, y el idioma Japonés, así como materias adicionales, de la mano de los análisis de [Andrew Hartley](https://www.youtube.com/@AndrewHartley) que me servirán como base para mis apuntes, y de ahí mi estudio de vocabulario en [[Inglés]] y [[Japonés]], la traducción al [[Español]] y mi estudio sobre ellos, que compartiré aquí como parte de mi public brain.
 

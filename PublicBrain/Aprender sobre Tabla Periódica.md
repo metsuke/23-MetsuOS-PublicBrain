@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.591Z
-modified: 2024-05-03T21:50:58.942Z
+modified: 2024-05-05T12:56:42.683Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aprender sobre Tabla Periódica
 
-[[Index ⚫①]] | [PITable](https://ptable.com/?lang=es#Propiedades)
+[[PublicBrain/Index]] | [PITable](https://ptable.com/?lang=es#Propiedades)
 
 La tabla periódica es una herramienta fundamental en la química que organiza y presenta de manera ordenada todos los elementos químicos conocidos. Fue desarrollada por Dimitri Mendeléyev en 1869 y ha evolucionado con el tiempo a medida que se han descubierto nuevo[[[]]]()s elementos.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.566Z
-modified: 2024-05-03T21:51:06.138Z
+modified: 2024-05-05T12:56:45.071Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Origen del cambio de hora en España
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 Durante el siglo XX, España adoptó el cambio de hora como medida de gestión energética, influido por diversos factores políticos y sociales, entre ellos el papel del régimen franquista. Durante la Segunda Guerra Mundial, España, bajo el liderazgo de Francisco Franco, sincronizó su huso horario con el de Berlín, adoptando el horario de Alemania nazi para alinear los horarios de transporte y comunicación con los de los aliados de Alemania. Esta medida, si bien obedecía a motivos políticos y estratégicos de la época, fue revertida después del conflicto mundial, retornando España a su huso horario tradicional correspondiente al meridiano de Greenwich.
 

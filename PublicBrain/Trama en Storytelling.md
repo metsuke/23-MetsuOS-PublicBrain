@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.821Z
-modified: 2024-05-03T21:51:07.506Z
+modified: 2024-05-05T12:56:45.615Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Trama en Storytelling
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 La trama en storytelling se refiere a la secuencia de eventos que constituyen la estructura central de una historia. Es la línea narrativa que guía al espectador o lector a través de los acontecimientos principales que se desarrollan en la historia. En una trama bien desarrollada, los eventos están conectados de manera lógica y coherente, creando tensión, intriga y conflicto que mantienen el interés del público.
 

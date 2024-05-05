@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.616Z
-modified: 2024-05-04T06:47:03.495Z
+modified: 2024-05-05T12:56:46.221Z
 supervisado: 2024-05-02T05:26:21.573Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 90
+ver_rev: 91
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Promting Database ⚫①
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 ## Refinar Contenido
 

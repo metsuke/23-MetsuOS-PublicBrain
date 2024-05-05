@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.083Z
-modified: 2024-05-04T20:06:58.444Z
+modified: 2024-05-05T12:56:46.387Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 53
+ver_rev: 54
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ⚫①
 
-[[Index ⚫①|Index ⚫①]] | [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital  ⚫①]]
+[[PublicBrain/Index|Index]] | [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital  ⚫①]]
 
 **¡Construye tu propia agencia de marketing digital desde cero con el Curso para Estructurar una Microagencia de Marketing Digital en Platzi!**
 

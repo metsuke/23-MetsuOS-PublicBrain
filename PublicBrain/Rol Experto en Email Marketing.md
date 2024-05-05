@@ -23,7 +23,7 @@ tags:
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
 	* [[Departamento Marketing (Microagencia Marketing Digital)|Departamento Marketing]]
-	* [[Glosario de Marketing Digital]]
+	* [[Glosario de Marketing Digital ⚫①]]
 
 ## Objetivo
 
@@ -57,7 +57,7 @@ tags:
 ## Perfiles más buscados
 
 * Más de 3 años de experiencia en e-mail markleting.
-* Comprensión de la estrategia de generación de [[Lead (Marketing Digital)|leads]].
+* Comprensión de la estrategia de generación de [[Lead (Marketing Digital) ⚫①|leads]].
 * Habilidades Blandas:
 	* Trabajo en un entorno acelerado y gestión de múltiples tareas.
 	* Identificación y entendimiento de tendencias.

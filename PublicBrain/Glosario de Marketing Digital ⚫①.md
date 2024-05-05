@@ -19,8 +19,8 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Glosario de Marketing Digital
+# Glosario de Marketing Digital ⚫①
 
 [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
 
-* [[Lead (Marketing Digital)]]
+* [[Lead (Marketing Digital) ⚫①]]

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.527Z
-modified: 2024-05-03T21:50:56.049Z
+modified: 2024-05-05T12:56:40.778Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Bases de Datos
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 * [[Bases de Datos Relacionales]]
 * [[Bases de Datos No Relacionales]]

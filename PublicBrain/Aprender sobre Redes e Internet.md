@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.588Z
-modified: 2024-05-03T21:50:58.624Z
+modified: 2024-05-05T12:56:42.448Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 74
+ver_rev: 75
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Redes e Internet
 
-[[Index ⚫①]] |  [[Capas de la infraestructura de una red]]
+[[PublicBrain/Index]] |  [[Capas de la infraestructura de una red]]
 
 ## **Introducción a las Redes Informáticas**
 

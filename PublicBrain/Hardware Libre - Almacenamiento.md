@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.531Z
-modified: 2024-05-03T21:51:03.704Z
+modified: 2024-05-05T12:56:44.392Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Hardware Libre - Almacenamiento
 
-[[Index ⚫①|Index ⚫①]]
+[[PublicBrain/Index|Index]]
 
 # Curso de Almacenamiento en el Contexto del Hardware Libre
 

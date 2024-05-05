@@ -20,7 +20,7 @@ tags: []
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
 	* [[Departamento Marketing (Microagencia Marketing Digital)|Departamento Marketing]]
-	* [[Glosario de Marketing Digital]]
+	* [[Glosario de Marketing Digital ⚫①]]
 
 ### Objetivos
 

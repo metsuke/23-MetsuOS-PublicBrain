@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.996Z
-modified: 2024-05-03T21:51:00.210Z
+modified: 2024-05-05T12:56:43.151Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Chino
 
-[[Index ⚫①]] | [[Estadísticas sobre Idiomas]]
+[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas]]
 
 El idioma chino es uno de los idiomas más hablados en el mundo, con más de 1.300 millones de hablantes nativos. Se habla principalmente en la República Popular China, Taiwán, Singapur, Malasia y otros lugares con comunidades chinas significativas.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.586Z
-modified: 2024-05-04T06:47:03.453Z
+modified: 2024-05-05T12:56:46.180Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 23
+ver_rev: 24
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aprender sobre Pyxel  ⚫①
 
-[[Index ⚫①|Index ⚫①]]
+[[PublicBrain/Index|Index]]
 
 ## Introducción a Pyxel
 

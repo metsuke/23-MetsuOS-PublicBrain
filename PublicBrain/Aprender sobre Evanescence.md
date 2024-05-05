@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.541Z
-modified: 2024-05-03T21:50:56.706Z
+modified: 2024-05-05T12:56:41.376Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Evanescence
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 Evanescence es una banda de rock alternativo originaria de Little Rock, Arkansas, Estados Unidos. Se formó en 1995 por la vocalista y pianista Amy Lee y el guitarrista Ben Moody. La banda alcanzó fama internacional a principios de los años 2000 con su álbum debut "Fallen", lanzado en 2003.
 

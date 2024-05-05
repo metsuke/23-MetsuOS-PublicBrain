@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.519Z
-modified: 2024-05-04T06:47:03.104Z
+modified: 2024-05-05T12:56:40.498Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 92
+ver_rev: 93
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Accesibilidad en Videojuegos
 
-[[Index ⚫①#Plena Inclusión]]
+[[PublicBrain/Index#Plena Inclusión]]
 
 ## I. Introducción a la Accesibilidad en Videojuegos
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.176Z
-modified: 2024-05-03T21:51:01.565Z
+modified: 2024-05-05T12:56:43.548Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Entornos Virtuales con Python
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 ## ¿Que python y pip se ejecuta?
 

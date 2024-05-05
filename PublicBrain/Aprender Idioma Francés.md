@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.424Z
-modified: 2024-05-03T21:50:52.874Z
+modified: 2024-05-05T12:56:39.165Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 74
+ver_rev: 75
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender Idioma Francés
 
-[[Index ⚫①#Aprender Idiomas|Aprender Idiomas]]
+[[PublicBrain/Index#Aprender Idiomas|Aprender Idiomas]]
 
 * FR | [[Idioma Francés]]
 	* [[Niveles Oficiales FR]]

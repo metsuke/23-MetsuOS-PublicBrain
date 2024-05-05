@@ -19,9 +19,9 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Lead (Marketing Digital)
+# Lead (Marketing Digital) ⚫①
 
-[[Glosario de Marketing Digital]] | [[PublicBrain/Rol Comercial|Rol Comercial]]
+[[Glosario de Marketing Digital ⚫①]] 
 
 En el contexto del marketing digital, un "lead" se refiere a un individuo que ha mostrado interés en los productos o servicios de una empresa al proporcionar su información de contacto de alguna manera. Este interés puede manifestarse al completar un formulario en línea, suscribirse a una lista de correo electrónico, descargar un recurso, registrarse para un evento, o cualquier otra acción que indique una predisposición a interactuar más con la empresa.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T20:07:03.229Z
-modified: 2024-05-03T21:50:54.684Z
+modified: 2024-05-05T12:56:39.975Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aprender con D-F
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 * Aprender con Daniel Aragay Esteban
 * Aprender con Daniel Iván Reyes

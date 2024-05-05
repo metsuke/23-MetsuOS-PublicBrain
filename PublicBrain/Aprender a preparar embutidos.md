@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.480Z
-modified: 2024-05-03T21:50:54.235Z
+modified: 2024-05-05T12:56:39.475Z
 supervisado: 2024-04-14T14:29:04.058Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender a preparar embutidos
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 * [[Aprender a preparar chorizo]]
 * [[Aprender a preparar lomo]]

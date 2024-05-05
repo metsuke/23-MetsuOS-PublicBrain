@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.600Z
-modified: 2024-05-03T21:50:59.354Z
+modified: 2024-05-05T12:56:42.921Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 74
+ver_rev: 75
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre computación mecánica
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 1. [[Introducción a la Computación Mecánica]]
     - [[Definición de Computación Mecánica]]

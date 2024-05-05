@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.532Z
-modified: 2024-05-03T21:50:56.371Z
+modified: 2024-05-05T12:56:41.054Z
 supervisado: 2024-04-14T14:29:04.047Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 76
+ver_rev: 77
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Computar con Canicas
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 NdA: Esta primera iteración no me convence mucho, no parece que haya sido capaz de guiar a ChatGPT para "imaginar" todo esto. TODO: Usar esta oportunidad para diseñar un proceso "de la idea general al enfoque particular" para explicar a IA en el futuro lo que realmente pretendo de un modo sencillo y predecible, sin perdere el control del modelo IA en ningun momento.
 

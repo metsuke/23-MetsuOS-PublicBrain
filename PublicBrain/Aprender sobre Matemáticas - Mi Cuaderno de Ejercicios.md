@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.558Z
-modified: 2024-05-03T21:50:57.452Z
+modified: 2024-05-05T12:56:41.595Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 Huelga decir que este es mi cuaderno de trabajo, puede contener (Y MUY PROBABLEMENTE CONTENGA) errores así que tómeses con mayor cautela aún.
 ## Mi libro de ejercicios

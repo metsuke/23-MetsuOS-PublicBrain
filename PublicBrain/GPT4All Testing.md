@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.475Z
-modified: 2024-05-03T21:51:03.467Z
+modified: 2024-05-05T12:56:44.376Z
 supervisado: 2024-04-21T10:41:15.510Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # GPT4All Testing
 
-[[Index ⚫①|Index ⚫①]]
+[[PublicBrain/Index|Index]]
 
 - Ejecución local via API
 - Pruebas de elementos mas sencillos como frases cortas.

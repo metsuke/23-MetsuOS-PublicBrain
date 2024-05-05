@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.536Z
-modified: 2024-05-03T21:50:56.491Z
+modified: 2024-05-05T12:56:41.073Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 12
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aprender sobre Diseño de Arquitectura en la Nube
 
-[[Index ⚫①|Index ⚫①]]
+[[PublicBrain/Index|Index]]
 
 ## Introducción a la Arquitectura en la Nube
 - [[¿Qué es la Arquitectura en la Nube?]]

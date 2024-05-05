@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.508Z
-modified: 2024-05-03T21:50:55.051Z
+modified: 2024-05-05T12:56:40.157Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 57
+ver_rev: 58
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender con Q-Z
 
-[[Index ⚫①]]
+[[PublicBrain/Index]]
 
 * Aprender con Rafael Vázquez Peña
 * Aprender con Raquel Ubàguls Galán

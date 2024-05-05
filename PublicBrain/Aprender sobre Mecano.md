@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.563Z
-modified: 2024-05-03T21:50:57.716Z
+modified: 2024-05-05T12:56:41.644Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Mecano
 
-[[Index ⚫①]] | [[Discografía de Mecano]]
+[[PublicBrain/Index]] | [[Discografía de Mecano]]
 
 Iniciamos, siguiendo la estela del proyecto [[Aprender sobre BabyMetal]], el proceso de aprendizaje en torno al grupo Mecano.
 

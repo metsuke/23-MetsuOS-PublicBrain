@@ -19,7 +19,7 @@ tags: []
 # Rol Administración Negocios
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Glosario de Marketing Digital]]
+	* [[Glosario de Marketing Digital ⚫①]]
 
 Este rol se encarga de la gestión de recursos
 

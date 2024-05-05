@@ -22,7 +22,7 @@ tags:
 # Departamento Creativo (Microagencia Marketing Digital)  ⚫①
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Glosario de Marketing Digital]]
+	* [[Glosario de Marketing Digital ⚫①]]
 
 En una microagencia de marketing digital, el departamento creativo desempeña un papel crucial en la generación de ideas innovadoras y la creación de contenido atractivo para las campañas de marketing de los clientes. Aquí tienes una descripción de las responsabilidades y funciones típicas del departamento creativo:
 

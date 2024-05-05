@@ -69,7 +69,7 @@ tags:
 
 ## Módulo 7: Viajes y Turismo
 
-7.1. Planificación de viajes y reservas.
+7.1. [[Planificación de viajes y reservas (A2-CA)]]
 7.2. Conversación en hoteles y restaurantes.
 7.3. Comunicación en situaciones de viaje.
 7.4. Descripción de lugares turísticos.

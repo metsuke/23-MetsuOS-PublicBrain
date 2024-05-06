@@ -45,7 +45,7 @@ tags: []
 - [[Cumplimiento normativo y regulaciones de seguridad en la nube]]
 
 ## Diseño de Arquitecturas en la Nube Multiplataforma
-- Estrategias de integración y interoperabilidad entre plataformas en la nube
+- [[Estrategias de integración y interoperabilidad entre plataformas en la nube]]
 - Implementación de arquitecturas híbridas y multicloud
 - Gestión de entornos y recursos distribuidos en la nube
 

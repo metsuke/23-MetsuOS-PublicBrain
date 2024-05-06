@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-06T16:57:12.647Z
+modified: 2024-05-06T17:02:15.404Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube)
 
 [[Aprender sobre Diseño de Arquitectura en la Nube]]

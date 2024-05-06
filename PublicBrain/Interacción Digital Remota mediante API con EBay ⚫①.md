@@ -33,7 +33,7 @@ tags:
 ## Fundamentos de la API de eBay
 
 - [[Registro como desarrollador en eBay (IDRA-Ebay) 🔴②]]
-- [[Obtención de credenciales de API (IDRA-Ebay)]] ⬛
+- [[Obtención de credenciales de API (IDRA-Ebay) ⚫①]]
 - [[Autenticación con la API de eBay (IDRA-Ebay)]] ⬛
 - [[Documentación de la API de eBay y recursos de ayuda (IDRA-Ebay)]] ⬛
 

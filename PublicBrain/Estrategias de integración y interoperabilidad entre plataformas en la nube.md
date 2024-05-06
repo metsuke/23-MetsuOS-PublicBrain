@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-06T16:55:50.654Z
+modified: 2024-05-06T17:02:15.457Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Estrategias de integración y interoperabilidad entre plataformas en la nube
 
 [[Aprender sobre Diseño de Arquitectura en la Nube]]

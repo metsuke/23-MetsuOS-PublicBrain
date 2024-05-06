@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sabidu",
+                "query": "obtención credenciales",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md"
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md"
               }
             }
           },
@@ -165,8 +165,19 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "Gestión de entornos y recursos distribuidos en la nube.md",
+    "Obtención de credenciales de API (IDRA-Ebay) ⚫①.md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
+    "PublicBrain/Autenticación con la API de eBay (IDRA-Ebay).md",
+    "PublicBrain/Obtención de credenciales de API (IDRA-Ebay).md",
+    "PublicBrain/Documentación de la API de eBay y recursos de ayuda (IDRA-Ebay).md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API ⚫①.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube).md",
+    "PublicBrain/Gestión de entornos y recursos distribuidos en la nube.md",
+    "PublicBrain/Estrategias de integración y interoperabilidad entre plataformas en la nube.md",
+    "PublicBrain/Cliente (Marketing Digital) ⚫①.md",
     "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
+    "Gestión de entornos y recursos distribuidos en la nube.md",
     "Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube).md",
     "Estrategias de integración y interoperabilidad entre plataformas en la nube.md",
     "PublicBrain/Glosario de Marketing Digital ⚫①.md",
@@ -174,23 +185,12 @@
     "PublicBrain/Rol Gestión Empresarial.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
     "PublicBrain/Rol Desarrollo web  ⚫①.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API ⚫①.md",
     "Interacción Digital Remota mediante API con Threads.md",
     "PublicBrain/Planificación de viajes y reservas (A2-CA).md",
     "PublicBrain/Narración de anécdotas y experiencias (A2-CA).md",
     "PublicBrain/Interacción Digital Remota mediante API con Threads.md",
     "PublicBrain/Conversaciones telefónicas básicas (A2-CA).md",
-    "PublicBrain/Aprender Idiomas.md",
-    "PublicBrain/Aprender Idioma Noruego.md",
-    "PublicBrain/A2-NO.md",
-    "PublicBrain/A2-RO.md",
-    "PublicBrain/A2-GE.md",
-    "PublicBrain/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
-    "PublicBrain/Movimiento Grunge de Seattle.md",
-    "PublicBrain/Horarios y citas (N5-JP).md",
-    "PublicBrain/Historia y evolución del kirigami.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

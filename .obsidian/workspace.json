@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube).md",
+                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube).md",
+                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube).md",
+                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube).md"
+                "file": "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
+    "Gestión de entornos y recursos distribuidos en la nube.md",
     "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube.md",
     "Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube).md",
     "Estrategias de integración y interoperabilidad entre plataformas en la nube.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Movimiento Grunge de Seattle.md",
     "PublicBrain/Horarios y citas (N5-JP).md",
     "PublicBrain/Historia y evolución del kirigami.md",
-    "PublicBrain/Historia y relevancia (Aprender C).md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

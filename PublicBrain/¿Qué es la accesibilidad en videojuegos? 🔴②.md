@@ -19,11 +19,9 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# ¿Qué es la accesibilidad en videojuegos?
+# ¿Qué es la accesibilidad en videojuegos? 🔴②
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
-
-# ¿Qué es la accesibilidad en videojuegos?
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 La accesibilidad en videojuegos es un concepto clave que se refiere a la implementación de características y diseños que permiten a personas con discapacidades físicas, sensoriales, cognitivas o emocionales jugar y disfrutar de los videojuegos de la misma manera que cualquier otra persona. Esto implica crear opciones y ajustes que faciliten la jugabilidad para todos, independientemente de sus habilidades o limitaciones.
 
@@ -48,3 +46,5 @@ La accesibilidad en videojuegos no solo beneficia a las personas con discapacida
 * "The Impact of Accessibility on Game Development: A Study of the Challenges and Opportunities" (Journal of Game Development, 2019)
 * "The Role of Accessibility in Game Development: A Survey of Game Developers" (ACM Transactions on Human-Computer Interaction, 2017)
 * "The Challenges of Implementing Accessibility in Video Games: A Case Study" (Journal of Game Development, 2018)
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

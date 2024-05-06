@@ -18,7 +18,7 @@ tags: []
 ---
 # Pruebas con usuarios reales (Accesibilidad Gaming)
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Las pruebas con usuarios reales son una parte fundamental en el proceso de garantizar la accesibilidad en los videojuegos. Estas pruebas implican que personas con discapacidades probadas interactúen con el juego y proporcionen retroalimentación sobre su experiencia de juego.
 

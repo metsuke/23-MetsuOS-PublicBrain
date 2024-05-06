@@ -18,7 +18,7 @@ tags: []
 ---
 # Herramientas y métodos para evaluar la accesibilidad
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Existen varias herramientas y métodos para evaluar la accesibilidad de un videojuego. A continuación te menciono algunos de ellos:
 

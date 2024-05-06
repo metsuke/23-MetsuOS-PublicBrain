@@ -18,7 +18,7 @@ tags: []
 ---
 # Perspectivas y desafíos en la accesibilidad para Videojuegos
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 La accesibilidad en videojuegos es un tema crucial que busca garantizar que todos los jugadores, independientemente de sus capacidades físicas o cognitivas, puedan disfrutar de la experiencia de juego de manera equitativa. Aunque se han realizado avances significativos en esta área, todavía existen desafíos y perspectivas a considerar para lograr una mayor inclusión.
 

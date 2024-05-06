@@ -21,7 +21,7 @@ tags:
 ---
 # Consideraciones para el diseño de personajes
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 El diseño de personajes accesibles en videojuegos es un aspecto fundamental para garantizar que todos los jugadores, independientemente de sus capacidades, puedan disfrutar de la experiencia de juego de forma equitativa. Algunas consideraciones importantes a tener en cuenta al diseñar personajes accesibles son las siguientes:
 

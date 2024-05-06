@@ -21,7 +21,7 @@ tags:
 ---
 # Ajustes de contraste y color
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Los ajustes de contraste y color son aspectos cruciales para mejorar la accesibilidad en los videojuegos, especialmente para aquellos jugadores que tienen dificultades visuales o ciertas condiciones como daltonismo.
 

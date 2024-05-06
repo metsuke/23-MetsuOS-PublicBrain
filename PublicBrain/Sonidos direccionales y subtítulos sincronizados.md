@@ -18,7 +18,7 @@ tags: []
 ---
 # Sonidos direccionales y subtítulos sincronizados
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Los sonidos direccionales y los subtítulos sincronizados son dos elementos importantes para garantizar la accesibilidad en los videojuegos para personas con discapacidad auditiva. 
 

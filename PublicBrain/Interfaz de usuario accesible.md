@@ -18,7 +18,7 @@ tags: []
 ---
 # Interfaz de usuario accesible
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 La interfaz de usuario accesible en videojuegos se refiere a la creación de sistemas de interacción que sean comprensibles y utilizables por todas las personas, independientemente de sus capacidades físicas o cognitivas. Algunas características que hacen que una interfaz de usuario en un videojuego sea accesible son:
 

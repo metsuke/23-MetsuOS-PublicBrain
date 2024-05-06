@@ -21,7 +21,7 @@ tags:
 ---
 # Beneficios de hacer videojuegos accesibles
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Hacer videojuegos accesibles tiene muchos beneficios para los desarrolladores, los jugadores y la industria en general. A continuación, se presentan algunos de los beneficios más importantes:
 

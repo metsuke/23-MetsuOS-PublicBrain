@@ -18,7 +18,7 @@ tags: []
 ---
 # Simplificación de instrucciones y tutoriales
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 La simplificación de instrucciones y tutoriales es una práctica importante en el diseño de videojuegos accesibles. Esto se refiere a la presentación de la información de una manera clara, concisa y fácil de entender para que todos los jugadores puedan comprenderla, independientemente de sus habilidades cognitivas o lingüísticas.
 

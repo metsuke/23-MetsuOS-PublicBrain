@@ -18,7 +18,7 @@ tags: []
 ---
 # Recursos, herramientas y comunidades de apoyo (a11y en videojuegos)
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Para aprender sobre accesibilidad en videojuegos, existen diversos recursos, herramientas y comunidades de apoyo que pueden resultar útiles. Algunos de ellos incluyen:
 

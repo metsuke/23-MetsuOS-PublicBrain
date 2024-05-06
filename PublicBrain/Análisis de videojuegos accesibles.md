@@ -18,7 +18,7 @@ tags: []
 ---
 # Análisis de videojuegos accesibles
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Los análisis de videojuegos accesibles son una herramienta importante para evaluar cómo un videojuego aborda la accesibilidad para jugadores con diferentes tipos de discapacidades. Estos análisis suelen revisar aspectos clave como la configuración de controles personalizables, opciones de subtítulos y audio descriptivo, dificultad ajustable, opciones de color, tamaño de fuente y otros elementos que pueden influir en la accesibilidad del juego.
 

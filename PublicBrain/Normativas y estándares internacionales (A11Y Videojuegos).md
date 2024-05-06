@@ -18,7 +18,7 @@ tags: []
 ---
 # Normativas y estándares internacionales (A11Y Videojuegos)
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 En el ámbito de la accesibilidad en videojuegos, existen varias normativas y estándares internacionales que establecen pautas para garantizar que los juegos sean accesibles para todas las personas. Algunas de las más relevantes son:
 

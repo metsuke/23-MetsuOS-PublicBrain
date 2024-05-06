@@ -21,7 +21,7 @@ tags:
 ---
 # Fundamentos del diseño inclusivo
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 El diseño inclusivo es un enfoque que busca crear productos y servicios que sean accesibles y utilizables por la mayor cantidad de personas posible, independientemente de sus capacidades, edad, género, raza o cualquier otra característica. En el caso de los videojuegos, el diseño inclusivo implica considerar la diversidad de jugadores y adaptar la experiencia de juego para satisfacer las necesidades de todos.
 

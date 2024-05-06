@@ -18,7 +18,7 @@ tags: []
 ---
 # Alternativas para usuarios con problemas auditivos
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Existen varias alternativas para usuarios con problemas auditivos en videojuegos, siendo la más común la inclusión de subtítulos o transcripciones de diálogos. Esto permite a los jugadores con discapacidad auditiva seguir la historia y diálogos del juego de manera eficaz.
 

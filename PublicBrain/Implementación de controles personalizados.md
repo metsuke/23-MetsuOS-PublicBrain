@@ -18,7 +18,7 @@ tags: []
 ---
 # Implementación de controles personalizados
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 La implementación de controles personalizados es una práctica importante en el diseño de videojuegos accesibles, ya que permite a los jugadores adaptar el juego a sus necesidades específicas. Algunas personas pueden tener dificultades para utilizar los controles estándar de un juego debido a discapacidades físicas, cognitivas o sensoriales, por lo que ofrecer la posibilidad de personalizar los controles puede hacer que el juego sea accesible para un público más amplio.
 

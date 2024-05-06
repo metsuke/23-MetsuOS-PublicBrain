@@ -18,7 +18,7 @@ tags: []
 ---
 # Ejemplos de implementación exitosa (Accesibilidad Gaming)
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Una de las implementaciones exitosas de accesibilidad en videojuegos es la inclusión de varias opciones de personalización en el juego "The Last of Us Part II". Este juego de acción y aventura desarrollado por Naughty Dog ofrece una amplia gama de ajustes de accesibilidad que permiten a los jugadores personalizar la experiencia de juego de acuerdo a sus necesidades.
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Accesibilidad Cognitiva
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 La accesibilidad cognitiva se refiere a la adaptación de los videojuegos para que puedan ser jugados por personas con diferentes capacidades cognitivas, como dificultades de comprensión, memoria, concentración o procesamiento de información.
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Indicadores visuales y ayudas contextuales
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Para mejorar la accesibilidad en los videojuegos, es importante incorporar indicadores visuales y ayudas contextuales que puedan guiar a los jugadores durante la experiencia de juego. Estos elementos visuales pueden ser de gran utilidad para jugadores con discapacidades visuales o auditivas, así como para aquellos que sean nuevos en el juego o necesiten instrucciones adicionales.
 

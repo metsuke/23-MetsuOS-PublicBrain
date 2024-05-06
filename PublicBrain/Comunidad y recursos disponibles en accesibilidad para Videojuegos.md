@@ -18,7 +18,7 @@ tags: []
 ---
 # Comunidad y recursos disponibles en accesibilidad para Videojuegos
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 La comunidad de videojuegos accesibles ha ido creciendo en los últimos años, con organizaciones, sitios web y foros que se centran en proporcionar información y recursos sobre este tema. Algunos ejemplos de comunidades y recursos disponibles incluyen:
 

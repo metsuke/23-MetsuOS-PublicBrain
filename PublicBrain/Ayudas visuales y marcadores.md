@@ -18,7 +18,7 @@ tags: []
 ---
 # Ayudas visuales y marcadores
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Las ayudas visuales y marcadores son herramientas importantes para mejorar la accesibilidad en los videojuegos para personas con discapacidades visuales o dificultades de aprendizaje. Estas funciones pueden ayudar a los jugadores a seguir la acción, entender la información en pantalla y navegar por el entorno de juego de manera más efectiva. Algunas de las ayudas visuales y marcadores más comunes incluyen:
 

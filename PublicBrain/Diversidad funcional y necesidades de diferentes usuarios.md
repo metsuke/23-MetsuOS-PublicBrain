@@ -18,7 +18,7 @@ tags: []
 ---
 # Diversidad funcional y necesidades de diferentes usuarios
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 La diversidad funcional se refiere a la variabilidad de capacidades y necesidades que tienen las personas, y es importante considerarla al diseñar videojuegos para garantizar una experiencia inclusiva para todos los jugadores. Algunas de las necesidades de diferentes usuarios que deben tenerse en cuenta incluyen:
 

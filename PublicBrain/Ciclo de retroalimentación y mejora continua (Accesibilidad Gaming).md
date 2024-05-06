@@ -18,7 +18,7 @@ tags: []
 ---
 # Ciclo de retroalimentación y mejora continua (Accesibilidad Gaming)
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 El ciclo de retroalimentación y mejora continua es un proceso fundamental en el desarrollo de videojuegos accesibles. Consiste en recopilar comentarios y sugerencias de la comunidad de jugadores, incluyendo a personas con discapacidades, para identificar áreas de mejora en la accesibilidad del juego.
 

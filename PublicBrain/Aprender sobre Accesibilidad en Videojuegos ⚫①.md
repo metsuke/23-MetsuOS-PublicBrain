@@ -19,14 +19,14 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Accesibilidad en Videojuegos
+# Aprender sobre Accesibilidad en Videojuegos ⚫①
 
 [[PublicBrain/Index#Plena Inclusión]]
 
 ## I. Introducción a la Accesibilidad en Videojuegos
 
-   - [[¿Qué es la accesibilidad en videojuegos?]] 🟥 
-   - [[Importancia de la accesibilidad en la industria del gaming]]. 🟥 
+   - [[¿Qué es la accesibilidad en videojuegos? 🔴②]]
+   - [[Importancia de la accesibilidad en la industria del gaming 🔴②]]
    - [[Beneficios de hacer videojuegos accesibles]] ⬛
 
 ## II. [[Principios Básicos de Accesibilidad en Videojuegos]] ⬛
@@ -95,4 +95,4 @@ tags:
    - [[Recursos, herramientas y comunidades de apoyo (a11y en videojuegos)]] ⬛
    - [[Próximos pasos para seguir aprendiendo y contribuyendo (A11y en videojuegos)]] ⬛
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]]
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

@@ -18,7 +18,7 @@ tags: []
 ---
 # Reflexiones finales sobre la accesibilidad en videojuegos
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Reflexiones finales sobre la accesibilidad en videojuegos:
 

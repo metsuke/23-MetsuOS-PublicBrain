@@ -18,7 +18,7 @@ tags: []
 ---
 # Implementación de principios aprendidos
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Después de haber aprendido sobre los principios de accesibilidad en videojuegos, es importante implementarlos de manera efectiva para garantizar que todos los jugadores puedan disfrutar de una experiencia de juego inclusiva. Algunas formas de implementar estos principios incluyen:
 

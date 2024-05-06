@@ -19,9 +19,9 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Importancia de la accesibilidad en la industria del gaming
+# Importancia de la accesibilidad en la industria del gaming 🔴②
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 La accesibilidad en la industria del gaming es un tema crucial que ha ganado cada vez más importancia en los últimos años. Como la industria del entretenimiento más popular y extendida, es fundamental que todos los jugadores, independientemente de sus habilidades o discapacidades, tengan la oportunidad de disfrutar de esta forma de entretenimiento.
 
@@ -44,3 +44,4 @@ En resumen, la accesibilidad en la industria del gaming es fundamental para gara
 * "The Myth of Accessibility in Video Games" by J. D. Johnson (2020) - Este artículo argumenta que la accesibilidad en los videojuegos no es un tema importante y que las empresas de videojuegos no deben preocuparse por la accesibilidad.
 * "The Cost of Accessibility in Video Games" by K. M. Brown (2019) - Este artículo sostiene que la accesibilidad en los videojuegos es demasiado costosa y que las empresas de videojuegos no deben invertir en ella.
 
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

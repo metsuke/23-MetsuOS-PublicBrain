@@ -18,7 +18,7 @@ tags: []
 ---
 # Opciones de control y configuración
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Las opciones de control y configuración en los videojuegos son fundamentales para garantizar la accesibilidad para todos los jugadores, especialmente para aquellos con necesidades específicas. Algunas de las opciones que se pueden incluir para mejorar la accesibilidad son:
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Diseño de niveles y mecánicas adaptativas
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 El diseño de niveles y mecánicas adaptativas en videojuegos es fundamental para garantizar que todas las personas, independientemente de sus capacidades, puedan disfrutar de la experiencia de juego. 
 

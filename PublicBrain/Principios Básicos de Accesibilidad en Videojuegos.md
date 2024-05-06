@@ -18,7 +18,7 @@ tags: []
 ---
 # Principios Básicos de Accesibilidad en Videojuegos
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Los principios básicos de accesibilidad en videojuegos se centran en garantizar que todas las personas, independientemente de sus habilidades, puedan disfrutar de la experiencia de jugar. Algunos de los principios básicos de accesibilidad en videojuegos incluyen:
 

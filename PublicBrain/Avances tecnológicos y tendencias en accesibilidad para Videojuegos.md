@@ -18,7 +18,7 @@ tags: []
 ---
 # Avances tecnológicos y tendencias en accesibilidad para Videojuegos
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 En los últimos años, hemos visto importantes avances tecnológicos y tendencias en cuanto a la accesibilidad en videojuegos. Algunos de estos avances incluyen:
 

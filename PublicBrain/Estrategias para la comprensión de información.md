@@ -18,7 +18,7 @@ tags: []
 ---
 # Estrategias para la comprensión de información
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Dentro de los videojuegos, las estrategias para la comprensión de la información son fundamentales para garantizar que todos los jugadores, independientemente de sus capacidades, puedan disfrutar plenamente de la experiencia de juego. Algunas estrategias importantes para mejorar la comprensión de la información en los videojuegos incluyen:
 

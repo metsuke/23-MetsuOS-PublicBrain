@@ -18,7 +18,7 @@ tags: []
 ---
 # Próximos pasos para seguir aprendiendo y contribuyendo (A11y en videojuegos)
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Para seguir aprendiendo sobre accesibilidad en videojuegos y contribuyendo a hacerlos más inclusivos, aquí tienes algunos próximos pasos que podrías considerar:
 

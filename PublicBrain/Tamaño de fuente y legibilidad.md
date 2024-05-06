@@ -18,7 +18,7 @@ tags: []
 ---
 # Tamaño de fuente y legibilidad
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 El tamaño de fuente y la legibilidad son aspectos clave de la accesibilidad en los videojuegos, ya que influyen en la capacidad de los jugadores para leer y comprender la información presentada en pantalla.
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Lecciones aprendidas y recomendaciones (Accesibilidad Gaming)
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 Algunas lecciones importantes que se han aprendido sobre accesibilidad en videojuegos incluyen:
 

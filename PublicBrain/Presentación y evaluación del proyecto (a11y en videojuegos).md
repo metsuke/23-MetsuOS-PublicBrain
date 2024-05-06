@@ -18,7 +18,7 @@ tags: []
 ---
 # Presentación y evaluación del proyecto (a11y en videojuegos)
 
-[[Aprender sobre Accesibilidad en Videojuegos]]
+[[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 La accesibilidad en videojuegos es un tema importante que busca garantizar que todas las personas, independientemente de sus habilidades o discapacidades, puedan disfrutar de una experiencia de juego inclusiva. 
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.031Z
-modified: 2024-05-04T06:47:03.250Z
+modified: 2024-05-06T21:17:00.219Z
 supervisado: 2024-05-01T19:55:44.414Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,7 +33,7 @@ PixiJS requiere ser ejecutado desde un servidor web local para evitar problemas 
 
 Puedes descargar PixiJS desde su [página oficial](https://pixijs.com/download) o utilizar un administrador de paquetes como npm o yarn para instalarlo en tu proyecto. Si estás utilizando npm, puedes instalar PixiJS ejecutando el siguiente comando en tu terminal:
 
-```
+```sh
 npm install pixi.js
 ```
 

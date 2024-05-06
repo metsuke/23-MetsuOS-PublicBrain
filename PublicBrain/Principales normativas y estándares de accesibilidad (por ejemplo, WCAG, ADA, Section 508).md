@@ -18,7 +18,7 @@ tags: []
 ---
 # Principales normativas y estándares de accesibilidad (por ejemplo, WCAG, ADA, Section 508)
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 En el ámbito de la accesibilidad en e-learning, existen varias normativas y estándares importantes que deben tenerse en cuenta para asegurar que los contenidos educativos en línea sean accesibles para todas las personas, independientemente de sus capacidades o discapacidades. Algunas de las normativas y estándares más relevantes son:
 

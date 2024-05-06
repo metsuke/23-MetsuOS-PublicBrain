@@ -18,7 +18,7 @@ tags: []
 ---
 # Desafíos emergentes y áreas de desarrollo futuro
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 En el campo de la accesibilidad en el elearning, existen varios desafíos emergentes y áreas de desarrollo futuro que son importantes de considerar:
 

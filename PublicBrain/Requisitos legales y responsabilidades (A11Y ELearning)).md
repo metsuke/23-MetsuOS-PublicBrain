@@ -18,7 +18,7 @@ tags: []
 ---
 # Requisitos legales y responsabilidades (A11Y ELearning))
 
-[[Aprender sobre Accesibilidad en ELearining]]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]]
 
 En el ámbito de la accesibilidad en elearning, existen varios requisitos legales y responsabilidades que las organizaciones y los profesionales del diseño y desarrollo de contenido online deben tener en cuenta. Algunas de las normativas más relevantes incluyen:
 

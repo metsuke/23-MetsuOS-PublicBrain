@@ -18,7 +18,7 @@ tags: []
 ---
 # Estudio de casos, experiencias y lecciones aprendidas
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Estudiar casos reales de implementación de accesibilidad en elearning puede proporcionar valiosas lecciones aprendidas y experiencias que pueden ayudar a mejorar la calidad de los materiales educativos en línea. Algunas lecciones clave que se pueden extraer de estos estudios de casos incluyen:
 

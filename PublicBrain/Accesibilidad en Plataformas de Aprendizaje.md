@@ -18,7 +18,7 @@ tags: []
 ---
 # Accesibilidad en Plataformas de Aprendizaje
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 La accesibilidad en plataformas de aprendizaje, como los LMS (Sistemas de Gestión del Aprendizaje), es crucial para garantizar que todos los estudiantes, independientemente de sus capacidades físicas o cognitivas, tengan la oportunidad de acceder al contenido educativo de forma equitativa.
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Ejemplos de barreras visuales, auditivas, motoras y cognitivas
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 ¡Claro! Aquí tienes algunos ejemplos de barreras comunes en cada una de estas áreas en el contexto de la accesibilidad en eLearning:
 

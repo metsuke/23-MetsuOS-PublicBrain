@@ -18,7 +18,7 @@ tags: []
 ---
 # Configuración y personalización para mejorar la accesibilidad
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 La configuración y personalización son aspectos fundamentales para mejorar la accesibilidad en el e-learning. Algunas formas en las que podemos utilizar la configuración y personalización para hacer que los contenidos sean más accesibles incluyen:
 

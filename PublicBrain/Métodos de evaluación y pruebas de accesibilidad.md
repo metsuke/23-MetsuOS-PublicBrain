@@ -18,7 +18,7 @@ tags: []
 ---
 # Métodos de evaluación y pruebas de accesibilidad
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Para garantizar que un curso de elearning sea accesible para todas las personas, es importante realizar evaluaciones y pruebas de accesibilidad. Algunos métodos comunes incluyen:
 

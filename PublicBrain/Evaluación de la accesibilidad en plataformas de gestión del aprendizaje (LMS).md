@@ -18,7 +18,7 @@ tags: []
 ---
 # Evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS)
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 La evaluación de la accesibilidad en plataformas de gestión del aprendizaje (LMS) es un proceso importante para garantizar que todos los usuarios, incluidos aquellos con discapacidades, puedan acceder y utilizar de manera efectiva todos los recursos y actividades de aprendizaje en la plataforma.
 

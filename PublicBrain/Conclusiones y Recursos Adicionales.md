@@ -18,7 +18,7 @@ tags: []
 ---
 # Conclusiones y Recursos Adicionales
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 El curso sobre accesibilidad en elearning ha abordado una serie de conceptos clave para garantizar que el contenido educativo en línea sea accesible para todos los usuarios, independientemente de sus capacidades físicas o cognitivas. Algunas de las ideas principales y conclusiones del curso son las siguientes:
 

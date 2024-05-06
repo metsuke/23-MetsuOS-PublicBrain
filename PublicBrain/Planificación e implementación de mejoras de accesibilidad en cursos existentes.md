@@ -18,7 +18,7 @@ tags: []
 ---
 # Planificación e implementación de mejoras de accesibilidad en cursos existentes
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 La planificación e implementación de mejoras de accesibilidad en cursos existentes es una tarea crucial para garantizar que todos los estudiantes tengan la oportunidad de aprender de manera efectiva, independientemente de sus capacidades o necesidades específicas. Aquí hay algunas sugerencias sobre cómo abordar este proceso:
 

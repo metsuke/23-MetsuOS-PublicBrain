@@ -18,7 +18,7 @@ tags: []
 ---
 # Resumen de los conceptos clave y conclusiones del curso
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Algunos de los conceptos clave que se deben tener en cuenta en relación con la accesibilidad en elearning son los siguientes:
 

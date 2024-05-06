@@ -18,7 +18,7 @@ tags: []
 ---
 # Herramientas y recursos para evaluar y mejorar la accesibilidad en E-Learning
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Para evaluar y mejorar la accesibilidad en e-learning, es importante contar con herramientas y recursos que nos permitan identificar posibles barreras y tomar medidas para hacer que el contenido sea más accesible. Aquí te dejo una lista de herramientas y recursos útiles para este propósito:
 

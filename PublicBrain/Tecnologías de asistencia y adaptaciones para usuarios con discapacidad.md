@@ -18,7 +18,7 @@ tags: []
 ---
 # Tecnologías de asistencia y adaptaciones para usuarios con discapacidad
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Las tecnologías de asistencia son herramientas diseñadas para ayudar a las personas con discapacidades a realizar diversas acciones y tareas, incluido el acceso a la tecnología y la información en línea. En el contexto del elearning, existen varias tecnologías de asistencia y adaptaciones que pueden facilitar el acceso y la participación de los usuarios con discapacidad. Algunas de estas tecnologías incluyen:
 

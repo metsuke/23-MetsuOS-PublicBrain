@@ -18,7 +18,7 @@ tags: []
 ---
 # Desarrollo de un videojuego accesible
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Para desarrollar un videojuego accesible, es importante tener en cuenta diversas consideraciones para garantizar que todas las personas, independientemente de sus habilidades o discapacidades, puedan disfrutar plenamente de la experiencia de juego. Algunas de las estrategias clave para crear un videojuego accesible incluyen:
 

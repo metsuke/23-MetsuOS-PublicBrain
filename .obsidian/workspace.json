@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contenido que parpadea, se desplaza o se mueve automáticamente (WCAG 2.1)  ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contenido que parpadea, se desplaza o se mueve automáticamente (WCAG 2.1)  ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contenido que parpadea, se desplaza o se mueve automáticamente (WCAG 2.1)  ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contenido que parpadea, se desplaza o se mueve automáticamente (WCAG 2.1)  ⚫①.md"
+                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "PublicBrain/WCAG 2.1.md",
+    "PublicBrain/Importancia de la accesibilidad en el aprendizaje en línea 🔴②.md",
+    "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md",
+    "PublicBrain/¿Qué es la accesibilidad en E-Learning? 🔴②.md",
     "Contenido que parpadea, se desplaza o se mueve automáticamente (WCAG 2.1)  ⚫①.md",
+    "PublicBrain/WCAG 2.1.md",
     "PublicBrain/WCAG 2.0.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
     "PublicBrain/Obtención de credenciales de API (IDRA-Ebay) ⚫①.md",
@@ -188,9 +191,6 @@
     "Cliente (Marketing Digital) ⚫①.md",
     "PublicBrain/Rol Gestión Empresarial.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
-    "PublicBrain/Rol Desarrollo web  ⚫①.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
-    "Interacción Digital Remota mediante API con Threads.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

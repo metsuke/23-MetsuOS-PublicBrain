@@ -18,7 +18,7 @@ tags: []
 ---
 # Herramientas automáticas y manuales para evaluar la accesibilidad de cursos en línea
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Las herramientas automáticas y manuales son fundamentales para evaluar la accesibilidad de cursos en línea y garantizar que cumplan con las normas y estándares de accesibilidad web. A continuación, te menciono algunas de las herramientas más comunes:
 

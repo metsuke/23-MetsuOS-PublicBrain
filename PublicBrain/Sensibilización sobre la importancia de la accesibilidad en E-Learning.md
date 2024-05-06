@@ -18,7 +18,7 @@ tags: []
 ---
 # Sensibilización sobre la importancia de la accesibilidad en E-Learning
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 La sensibilización sobre la importancia de la accesibilidad en e-learning es fundamental para garantizar que todos los estudiantes, independientemente de sus capacidades o discapacidades, tengan igualdad de oportunidades de acceso a la educación en línea. 
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Formación para diseñadores, desarrolladores y educadores sobre prácticas accesibles
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 La formación para diseñadores, desarrolladores y educadores sobre prácticas accesibles es fundamental para garantizar que los entornos de aprendizaje en línea sean inclusivos y accesibles para todos los usuarios, independientemente de sus capacidades.
 

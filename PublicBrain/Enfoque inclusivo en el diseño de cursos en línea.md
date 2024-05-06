@@ -21,7 +21,7 @@ tags:
 ---
 # Enfoque inclusivo en el diseño de cursos en línea
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Por supuesto, el enfoque inclusivo en el diseño de cursos en línea es fundamental para garantizar que el contenido educativo sea accesible para todos los estudiantes, independientemente de sus habilidades, necesidades o circunstancias. Aquí hay algunos aspectos clave a considerar:
 

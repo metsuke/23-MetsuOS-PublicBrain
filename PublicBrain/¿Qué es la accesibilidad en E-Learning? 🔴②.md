@@ -19,9 +19,9 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# ¿Qué es la accesibilidad en E-Learning?
+# ¿Qué es la accesibilidad en E-Learning? 🔴②
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 La accesibilidad en E-Learning se refiere a la práctica de diseñar y desarrollar entornos virtuales de aprendizaje que sean inclusivos y accesibles para todas las personas, incluyendo aquellas con discapacidades. Esto implica asegurarse de que los materiales de aprendizaje, los métodos de entrega y las plataformas tecnológicas utilizadas sean compatibles con tecnologías de asistencia y sean accesibles para usuarios con diversas necesidades y capacidades.
 
@@ -45,3 +45,5 @@ La accesibilidad en E-Learning no solo beneficia a personas con discapacidades, 
 - No se encontraron referencias bibliográficas que contradigan el contenido, ya que se basa en principios y directrices ampliamente aceptados para la accesibilidad en E-Learning
 
 Recuerda que la accesibilidad en E-Learning es un tema importante y en constante evolución, por lo que es importante mantenerse actualizado sobre las últimas tendencias y recomendaciones.
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

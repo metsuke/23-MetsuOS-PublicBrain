@@ -18,7 +18,7 @@ tags: []
 ---
 # Directrices y mejores prácticas para desarrollar contenido accesible
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Desarrollar contenido accesible es fundamental para garantizar que todas las personas, independientemente de sus características o discapacidades, puedan acceder y participar en el aprendizaje en línea de manera efectiva. A continuación, se presentan algunas directrices y mejores prácticas para desarrollar contenido accesible en elearning:
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Recursos adicionales, lecturas recomendadas y comunidades de apoyo
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Recursos adicionales:
 

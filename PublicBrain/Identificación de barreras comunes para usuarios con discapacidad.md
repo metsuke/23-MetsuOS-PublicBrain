@@ -18,7 +18,7 @@ tags: []
 ---
 # Identificación de barreras comunes para usuarios con discapacidad
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Existen diversas barreras comunes que los usuarios con discapacidad pueden enfrentar al acceder a contenido en línea. Algunas de estas barreras incluyen:
 

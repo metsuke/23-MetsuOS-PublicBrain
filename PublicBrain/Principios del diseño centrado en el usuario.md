@@ -18,7 +18,7 @@ tags: []
 ---
 # Principios del diseño centrado en el usuario
 
-[[¿Qué es la accesibilidad en E-Learning?]]
+[[¿Qué es la accesibilidad en E-Learning? 🔴②]]
 
 El diseño centrado en el usuario es una filosofía que pone al usuario en el centro del proceso de diseño, teniendo en cuenta sus necesidades, habilidades y preferencias en todo momento. En el contexto de la accesibilidad en e-learning, el diseño centrado en el usuario se convierte en un principio fundamental para garantizar que todos los estudiantes, independientemente de sus capacidades, puedan acceder y participar en el contenido de manera efectiva.
 

@@ -19,9 +19,9 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Importancia de la accesibilidad en el aprendizaje en línea
+# Importancia de la accesibilidad en el aprendizaje en línea 🔴②
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 La accesibilidad es un tema clave en el aprendizaje en línea, ya que se refiere a la capacidad de todas las personas, independientemente de sus capacidades o discapacidades, para acceder y utilizar los recursos educativos en línea de manera efectiva. Al garantizar la accesibilidad en el elearning, se brinda la oportunidad a todos los estudiantes de participar de manera equitativa en la educación en línea, lo que promueve la inclusión y la igualdad de oportunidades.
 
@@ -43,3 +43,5 @@ En resumen, la accesibilidad en el elearning es fundamental para garantizar la i
 * Others argue that accessibility is too expensive to implement and maintain, and that it is not a feasible solution for all educational institutions.
 
 *Nota: Las referencias que refutan el contenido son solo ejemplos y no representan una visión general de la literatura sobre el tema.*
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

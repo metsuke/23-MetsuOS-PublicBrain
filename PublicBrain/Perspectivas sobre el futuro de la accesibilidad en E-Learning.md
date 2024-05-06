@@ -18,7 +18,7 @@ tags: []
 ---
 # Perspectivas sobre el futuro de la accesibilidad en E-Learning
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 El futuro de la accesibilidad en e-learning se presenta prometedor, ya que cada vez más organizaciones y educadores reconocen la importancia de garantizar que sus plataformas y contenidos sean accesibles para todos los usuarios, incluidas las personas con discapacidades.
 

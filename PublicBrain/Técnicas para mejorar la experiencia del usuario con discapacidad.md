@@ -18,7 +18,7 @@ tags: []
 ---
 # Técnicas para mejorar la experiencia del usuario con discapacidad
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 En el ámbito de la accesibilidad en e-learning, existen diversas técnicas que se pueden implementar para mejorar la experiencia de usuario de las personas con discapacidad. Algunas de estas técnicas son las siguientes:
 

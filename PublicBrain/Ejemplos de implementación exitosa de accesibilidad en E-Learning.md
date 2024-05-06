@@ -18,7 +18,7 @@ tags: []
 ---
 # Ejemplos de implementación exitosa de accesibilidad en E-Learning
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 Claro, a continuación te mencionaré algunos ejemplos de implementación exitosa de accesibilidad en e-learning:
 

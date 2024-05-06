@@ -18,7 +18,7 @@ tags: []
 ---
 # Mantenimiento y seguimiento de la accesibilidad en el desarrollo de contenido futuro
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 El mantenimiento y seguimiento de la accesibilidad en el desarrollo de contenido futuro son aspectos clave para asegurar que los cursos en línea sean accesibles para todos los usuarios, incluyendo aquellos con discapacidades. Aquí hay algunas prácticas recomendadas para incorporar la accesibilidad de manera continua en tus proyectos de e-learning:
 

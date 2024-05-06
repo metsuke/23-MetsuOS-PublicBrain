@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: ""
 a11y: 0
@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:58.517Z
 modified: 2024-05-05T12:56:40.467Z
 supervisado: ""
-ACCION: ""
+ACCION: 
 ver_major: 0
 ver_minor: 3
 ver_rev: 92
@@ -19,14 +19,14 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Accesibilidad en ELearining
+# Aprender sobre Accesibilidad en ELearining ⚫①
 
 [[PublicBrain/Index#Plena Inclusión|Plena Inclusión]] 
 
 ## Introducción a la Accesibilidad en E-Learning
 
-- [[¿Qué es la accesibilidad en E-Learning?]] 🟥
-- [[Importancia de la accesibilidad en el aprendizaje en línea]] 🟥
+- [[¿Qué es la accesibilidad en E-Learning? 🔴②]]
+- [[Importancia de la accesibilidad en el aprendizaje en línea 🔴②]]
 - [[Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad]] ⬛
 
 ## Normativas y Estándares de Accesibilidad
@@ -90,4 +90,4 @@ tags:
 - [[Resumen de los conceptos clave y conclusiones del curso]] ⬛
 - [[Recursos adicionales, lecturas recomendadas y comunidades de apoyo]] ⬛
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]]
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

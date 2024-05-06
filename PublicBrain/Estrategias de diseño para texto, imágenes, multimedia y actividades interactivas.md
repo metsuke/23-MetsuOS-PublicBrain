@@ -18,7 +18,7 @@ tags: []
 ---
 # Estrategias de diseño para texto, imágenes, multimedia y actividades interactivas
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 A continuación, te describo algunas estrategias de diseño para mejorar la accesibilidad en elearning en relación con el texto, imágenes, multimedia y actividades interactivas:
 

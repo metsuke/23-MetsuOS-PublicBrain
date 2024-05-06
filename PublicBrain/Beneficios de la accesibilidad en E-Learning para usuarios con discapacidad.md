@@ -21,7 +21,7 @@ tags:
 ---
 # Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad
 
-[[Aprender sobre Accesibilidad en ELearining]]
+[[Aprender sobre Accesibilidad en ELearining ⚫①]]
 
 La accesibilidad en elearning, es decir, la creación de contenido educativo en línea que sea accesible para usuarios con discapacidad, tiene una serie de beneficios significativos para estos usuarios. Algunos de los principales beneficios son:
 

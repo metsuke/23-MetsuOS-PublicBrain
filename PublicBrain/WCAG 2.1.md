@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.940Z
-modified: 2024-05-02T18:35:46.914Z
+modified: 2024-05-06T20:43:07.042Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 79
+ver_rev: 80
 nav_primary: 
 nav_secondary: 
 tags:
@@ -46,7 +46,7 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
     - [[Pauta 2 - Control del Teclado]] (Mejora)
 	    - [[Accesibilidad del teclado]]
         - 2.1.4 [[Características de enfoque]] (Mejora)
-    - **Pauta 3. Contenido que parpadea, se desplaza o se mueve automáticamente (Mejora)**
+    - **Pauta 3. [[Contenido que parpadea, se desplaza o se mueve automáticamente (WCAG 2.1)  ⚫①]] (Mejora)**
         - 3.2.6 Tres destellos o más (Mejora)
         - 3.3.5 Cambios en movimiento (Mejora)
     - **[[Pauta 4 - Compatible]] (Mejora)**

@@ -46,7 +46,7 @@ tags: []
 
 ## Diseño de Arquitecturas en la Nube Multiplataforma
 - [[Estrategias de integración y interoperabilidad entre plataformas en la nube]]
-- Implementación de arquitecturas híbridas y multicloud
+- [[Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube)]]
 - Gestión de entornos y recursos distribuidos en la nube
 
 ## Automatización y Orquestación de Arquitecturas en la Nube

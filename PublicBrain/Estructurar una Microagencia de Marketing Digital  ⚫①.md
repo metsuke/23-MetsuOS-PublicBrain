@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-05-05T12:56:46.266Z
+modified: 2024-05-06T16:49:08.491Z
 supervisado: 2024-04-14T14:29:03.798Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 111
+ver_rev: 112
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,7 +33,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 	:Organizaciones::Negocio:
 		:MicroagenciaPublicidad::GetStructure]}
 
-* [[Rol Gestión Empresarial|Gestión ste rol se Empresarial]]
+* [[Rol Gestión Empresarial|Gestión Empresarial]]
 	* [[PublicBrain/Rol Comercial|Comercial]]
 	* [[Rol Administración Negocios|Administración]]
 	* [[Rol Account Manager|Account Manager]]

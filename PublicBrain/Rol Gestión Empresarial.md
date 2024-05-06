@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.654Z
-modified: 2024-05-05T13:51:11.813Z
+modified: 2024-05-06T16:51:13.358Z
 supervisado: 2024-04-14T14:29:03.268Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 12
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,7 @@ tags:
 
 ## Microagencia de Marketing Digital
 
-Este rol se encarga de entender bien necesidades de los clientes, definir con detalle el perfil del negocio, delegar la ejecución en las personas elegidas y supervisar resultados.
+Este rol se encarga de entender bien necesidades de los [[Cliente (Marketing Digital) ⚫①|clientes]], definir con detalle el perfil del negocio, delegar la ejecución en las personas elegidas y supervisar resultados.
 
 ### Procesos 
 

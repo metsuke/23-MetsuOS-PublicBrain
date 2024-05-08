@@ -63,7 +63,7 @@ tags:
 ## Evaluación y Pruebas Finales
 
 6.1. Evaluaciones continuas de cada módulo.
-6.2. Simulacros de exámenes completos del N5.
+6.2. [[Simulacros de exámenes completos del N5-JP]]
 6.3. Revisión de resultados y retroalimentación.
 6.4. Evaluación final de preparación para el Nivel 5.
 

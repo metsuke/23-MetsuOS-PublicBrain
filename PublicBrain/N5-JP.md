@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.363Z
-modified: 2024-04-14T14:29:03.352Z
+modified: 2024-05-08T21:29:08.164Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 76
+ver_rev: 77
 nav_primary: 
 nav_secondary: 
 tags:
@@ -57,7 +57,7 @@ tags:
 
 5.1. [[Pruebas de práctica para cada sección del examen N5 (N5-JP)]]
 5.2. [[Estrategias de tiempo y técnicas de examen (N5-JP)]]
-5.3. Preparación específica para las secciones del N5.
+5.3. [[Preparación específica para las secciones del N5-JP]]
 5.4. Resolución de ejercicios y preguntas de exámenes anteriores.
 
 ## Evaluación y Pruebas Finales

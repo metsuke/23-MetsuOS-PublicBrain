@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simulacros de exámenes completos del N5-JP.md",
+                "file": "PublicBrain/N5-JP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simulacros de exámenes completos del N5-JP.md",
+                "file": "PublicBrain/N5-JP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simulacros de exámenes completos del N5-JP.md",
+                "file": "PublicBrain/N5-JP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simulacros de exámenes completos del N5-JP.md"
+                "file": "PublicBrain/N5-JP.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
+    "PublicBrain/Preparación específica para las secciones del N5-JP.md",
     "PublicBrain/N5-JP.md",
     "Simulacros de exámenes completos del N5-JP.md",
     "Introducción a la gastronomía japonesa (N5-JP).md",
@@ -190,7 +191,6 @@
     "PublicBrain/Autenticación con la API de eBay (IDRA-Ebay).md",
     "PublicBrain/返.md",
     "送.md",
-    "PublicBrain/平.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

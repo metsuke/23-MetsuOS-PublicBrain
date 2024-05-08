@@ -1,10 +1,11 @@
 {
   "accentColor": "#e7311d",
   "textFontFamily": "Helvetica Neue",
-  "baseFontSize": 13,
+  "baseFontSize": 20,
   "cssTheme": "",
   "enabledCssSnippets": [
     "style"
   ],
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSizeAction": true
 }

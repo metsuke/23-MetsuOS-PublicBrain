@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.661Z
-modified: 2024-05-04T06:47:03.426Z
+modified: 2024-05-06T21:24:31.528Z
 supervisado: 2024-04-14T14:29:03.560Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -31,7 +31,7 @@ tags:
 ## Instalación de Pyxel
 
 - Abre una terminal o línea de comandos y ejecuta el siguiente comando para instalar Pyxel:
-  ```
+  ```bash
   pip install pyxel
   ```
 - Verifica que la instalación se haya realizado correctamente mediante el comando `pip list pyxel`.

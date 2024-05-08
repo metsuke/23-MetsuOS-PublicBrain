@@ -25,3 +25,4 @@ tags:
 
 * [[Cliente (Marketing Digital) ⚫①]]
 * [[Lead (Marketing Digital) ⚫①]]
+* [[Perfil de un Negocio (Marketing Digital) ⚫①]]

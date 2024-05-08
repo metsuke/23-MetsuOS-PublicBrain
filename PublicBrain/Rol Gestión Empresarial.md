@@ -26,7 +26,7 @@ tags:
 
 ## Microagencia de Marketing Digital
 
-Este rol se encarga de entender bien necesidades de los [[Cliente (Marketing Digital) ⚫①|clientes]], definir con detalle el perfil del negocio, delegar la ejecución en las personas elegidas y supervisar resultados.
+Este rol se encarga de entender bien necesidades de los [[Cliente (Marketing Digital) ⚫①|clientes]], definir con detalle el [[Perfil de un Negocio (Marketing Digital) ⚫①|perfil del negocio]], delegar la ejecución en las personas elegidas y supervisar resultados.
 
 ### Procesos 
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.077Z
-modified: 2024-05-04T06:47:03.240Z
+modified: 2024-05-06T21:25:10.524Z
 supervisado: 2024-05-02T19:26:17.283Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,7 @@ PixiJS es una potente biblioteca JavaScript para la creación de gráficos inter
 
 Primero, asegúrate de tener instalado Node.js y npm en tu sistema. Luego, puedes instalar PixiJS a través de npm ejecutando el siguiente comando en tu terminal:
 
-```sh
+```bash
 npm install pixi.js
 ```
 

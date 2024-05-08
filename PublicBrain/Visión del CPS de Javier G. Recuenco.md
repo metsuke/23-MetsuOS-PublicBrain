@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Vision del CPS de Javier G. Recuenco
+# Visión del CPS de Javier G. Recuenco
 
 [[Aprender con Javier G. Recuenco]] | [[Aprender sobre CPS (Complex Problem Solving)]]
 
@@ -36,7 +36,7 @@ El []"mapa del framework" necesario para trabajar CPS](https://pbs.twimg.com/med
 
 ```mermaid
 mindmap
-  root(5 Atractores CPS)
+  root(Pilares del CPS)
 	  :::mermaid_mindmap_root
 	  (Business Acumen)
 		  :::mermaid_mindmap_text
@@ -48,7 +48,7 @@ mindmap
 		  :::mermaid_mindmap_text
 ```
 
-* 5 Atractores CPS
+* Pilares del CPS
 	* Business Acumen
 	* The X Factor
 	* Technology Ecosystem
@@ -56,7 +56,7 @@ mindmap
 
 
 
-## Hilos Turra especificos sobre CPS
+## Hilos Turra específicos sobre CPS
 
 * [¿Qué es el CPS, que no y otras mierdas? Lección 01 (2024-03-09)](https://twitter.com/Recuenco/status/1766352097409134910)
 * ¿Qué es el CPS, que no y otras mierdas? Lección 02 (Proximamente)

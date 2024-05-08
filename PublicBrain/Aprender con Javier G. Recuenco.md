@@ -29,7 +29,7 @@ En este proyecto tomo los "hilos turra" de [Javier G. Recuenco](https://www.link
 
 ## WIP
 
-* [[Vision del CPS de Javier G. Recuenco]]
+* [[Visión del CPS de Javier G. Recuenco]]
 * [[Visión del concepto de Relato de Havier G. Recuenco]]
 
 ## Review

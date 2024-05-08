@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md"
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "PublicBrain/Obtención de credenciales de API (IDRA-Ebay) 🔴②.md",
+    "PublicBrain/Dibujando formas básicas y gráficos (PixiJS) 🔴②.md",
+    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
+    "PublicBrain/Obtención de credenciales de API (IDRA-Ebay) 🔴②.md",
     "PublicBrain/Registro como desarrollador en eBay (IDRA-Ebay) 🔴②.md",
     "PublicBrain/Beneficios de utilizar la API de eBay (IDRA-Ebay) 🔴②.md",
     "PublicBrain/Introducción a eBay y su API (IDRA-Ebay) 🔴②.md",
@@ -180,7 +182,6 @@
     "PublicBrain/Index.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
     "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
     "PublicBrain/Configuración del entorno de desarrollo (PixiJS)  🔴②.md",
     "PublicBrain/Perfil de un Negocio (Marketing Digital) ⚫①.md",
     "PublicBrain/Visión del concepto de Relato de Havier G. Recuenco.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Cliente (Marketing Digital) ⚫①.md",
     "PublicBrain/Creación de un lienzo (canvas) en PixiJS 🔴②.md",
     "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
-    "PublicBrain/Instalación y configuración del entorno de desarrollo 🔴②.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

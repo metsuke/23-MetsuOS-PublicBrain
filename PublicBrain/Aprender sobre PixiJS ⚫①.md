@@ -28,7 +28,7 @@ tags:
 - [[Qué es PixiJS y su historia 🔴②]]
 - [[Configuración del entorno de desarrollo (PixiJS)  🔴②]]
 - [[Creación de un lienzo (canvas) en PixiJS 🔴②]]
-- [[Dibujando formas básicas y gráficos (PixiJS) ⚫①]] 
+- [[Dibujando formas básicas y gráficos (PixiJS) 🔴②]] 
 
 ## [[Trabajo con Sprites y Texturas]]
 

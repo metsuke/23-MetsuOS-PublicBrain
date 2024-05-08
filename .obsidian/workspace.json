@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/命.md",
+                "file": "PublicBrain/面.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/命.md",
+                "file": "PublicBrain/面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/命.md",
+                "file": "PublicBrain/面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/命.md"
+                "file": "PublicBrain/面.md"
               }
             }
           },
@@ -165,7 +165,10 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
+    "PublicBrain/送.md",
     "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/面.md",
+    "PublicBrain/命.md",
     "PublicBrain/味.md",
     "PublicBrain/放.md",
     "PublicBrain/勉.md",
@@ -188,9 +191,6 @@
     "PublicBrain/Qué es una API (IDRA-EBay) 🔴②.md",
     "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
     "PublicBrain/¿Qué es Complex Problem Solving?.md",
-    "PublicBrain/Visión del CPS de Javier G. Recuenco.md",
-    "PublicBrain/Aprender con Javier G. Recuenco.md",
-    "PublicBrain/Aprender con G-L.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

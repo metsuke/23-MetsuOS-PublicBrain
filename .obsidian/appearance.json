@@ -2,9 +2,9 @@
   "accentColor": "#e7311d",
   "textFontFamily": "Helvetica Neue",
   "baseFontSize": 13,
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "",
   "enabledCssSnippets": [
-    "terminal"
+    "style"
   ],
-  "theme": "obsidian"
+  "theme": "moonstone"
 }

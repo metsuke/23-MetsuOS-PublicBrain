@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.920Z
-modified: 2024-04-14T14:29:03.206Z
+modified: 2024-05-08T06:17:52.642Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 51
+ver_rev: 52
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Visión del concepto de Relato de Havier G. Recuenco
+	# Visión del concepto de Relato de Javier G. Recuenco
 
 [[Aprender con Javier G. Recuenco]]
 

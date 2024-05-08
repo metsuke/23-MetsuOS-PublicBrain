@@ -1,0 +1,164 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  color: #000;
+  line-height: 1.5;
+}
+
+header {
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* Esto asegura que la imagen cubra toda la ventana del navegador */
+  width: 100vw;
+  height:auto;
+  
+  color: #fff;
+  padding: 10px 0 10px 0;
+  text-align: center;
+
+  margin: 0; /* Elimina los márgenes predeterminados del body */
+}
+
+h1 {
+  font-size: 24px;
+  color: #c20000;
+}
+
+header h1 {
+  font-size:2rem;
+  color:white;
+  line-height:3rem!important;
+  background-color: rgba(0,0,0,0.5)!important;;
+}
+
+h2 {
+  font-size: 20px;
+  color: #008500;
+}
+
+header h2 {
+  font-size:1.4rem;
+  color: #ddd01b;
+  line-height:1.6rem!important;
+  background-color: rgba(0,0,0,0.5)!important;;
+}
+
+h3 {
+  font-size: 16px;
+  color: #040479;
+}
+
+header .logo {
+  background-color: white;
+  border: 10px solid white;
+  border-radius: 50%;max-width:20%;
+}
+
+nav {
+  background-color: #000;
+  border-top:2px solid red;
+  border-bottom:1px solid red;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  margin: 0 10px;
+}
+
+main {
+  padding: 20px;
+  margin-bottom:14rem;
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  padding: 4px;
+  text-align: center;
+  /*position: fixed;
+  bottom: 0;*/
+  height: 8rem;
+  width: 100%;
+}
+
+a {
+  color: #a31600;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer a {
+  color:#fff;
+}
+
+
+
+
+  p {
+    margin-bottom: 10px;
+  }
+  
+  blockquote {
+    font-style: italic;
+    border-left: 4px solid #ab0404;
+    padding-left: 1rem;
+  }
+  
+  pre {
+    background-color: #eef53f;
+    border-top: 4px solid #000;
+    width:100%;
+    padding:1rem;
+    font-weight: bold;
+}
+pre.mermaid {
+  background-color: white;
+  border-top: 2px solid red;
+}
+
+  code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #eef53f;
+    color: #000;
+    padding: .4rem;
+    overflow:scroll;
+  }
+  
+  hr {
+    border:1px solid #000;
+  }
+  
+  body,header,footer {
+    max-width:1600px;
+    margin:auto;
+  }
+
+  pre,code {
+    white-space: pre-wrap;
+  }
+
+  code code, code pre code{
+    border-top:0;
+  }
+
+  code pre {
+    padding:0;
+  }
+
+  .mermaid_mindmap_root {
+    color:black;
+    font-weight: bold;;
+  }
+
+  .mermaid_mindmap_text {
+    color:black;
+  }

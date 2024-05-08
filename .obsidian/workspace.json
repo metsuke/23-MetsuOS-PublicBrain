@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Autenticación con la API de eBay (IDRA-Ebay).md",
+                "file": "PublicBrain/勉.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Autenticación con la API de eBay (IDRA-Ebay).md",
+                "file": "PublicBrain/勉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Autenticación con la API de eBay (IDRA-Ebay).md",
+                "file": "PublicBrain/勉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Autenticación con la API de eBay (IDRA-Ebay).md"
+                "file": "PublicBrain/勉.md"
               }
             }
           },
@@ -165,10 +165,12 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "PublicBrain/返.md",
     "PublicBrain/Kanji - Grado 3.md",
-    "送.md",
     "勉.md",
+    "PublicBrain/勉.md",
+    "PublicBrain/Autenticación con la API de eBay (IDRA-Ebay).md",
+    "PublicBrain/返.md",
+    "送.md",
     "PublicBrain/平.md",
     "PublicBrain/Creación de la ventana del juego en Pyxel 🔴②.md",
     "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
@@ -189,8 +191,6 @@
     "PublicBrain/Aprender con G-L.md",
     "PublicBrain/Index.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
-    "PublicBrain/Aprender sobre Programación.md",
-    "PublicBrain/Configuración del entorno de desarrollo (PixiJS)  🔴②.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

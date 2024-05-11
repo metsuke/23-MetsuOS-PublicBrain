@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-11T21:00:29.795Z
+modified: 2024-05-11T21:05:18.363Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Requisitos de orientación
 
 [[WCAG 2.0]] | [[WCAG 2.1]]

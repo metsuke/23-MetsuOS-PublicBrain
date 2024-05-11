@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.517Z
-modified: 2024-05-06T20:47:52.610Z
+modified: 2024-05-11T21:05:05.714Z
 supervisado: ""
 ACCION: 
 ver_major: 0
 ver_minor: 3
-ver_rev: 93
+ver_rev: 94
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ tags:
 
 - [[¿Qué es la accesibilidad en E-Learning? 🔴②]]
 - [[Importancia de la accesibilidad en el aprendizaje en línea 🔴②]]
-- [[Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad]] ⬛
+- [[Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad ⚫①]]
 
 ## Normativas y Estándares de Accesibilidad
 

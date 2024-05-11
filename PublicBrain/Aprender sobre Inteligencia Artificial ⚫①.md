@@ -93,7 +93,7 @@ tags:
 
 - [[Cursos en línea y tutoriales (Aprender sobre IA) ⚫①]]
 - [[Libros recomendados (Aprender sobre IA) ⚫①]]
-- Comunidades en línea y foros
+- [[Comunidades en línea y foros sobre IA ⚫①]]
 - Proyectos prácticos
 
 ## Avances y Tendencias en IA

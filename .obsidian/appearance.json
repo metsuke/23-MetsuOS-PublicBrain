@@ -1,10 +1,11 @@
 {
   "accentColor": "#e7311d",
   "textFontFamily": "Helvetica Neue",
-  "baseFontSize": 20,
+  "baseFontSize": 19,
   "cssTheme": "",
   "enabledCssSnippets": [
-    "style"
+    "style",
+    "mermaid"
   ],
   "theme": "moonstone",
   "baseFontSizeAction": true

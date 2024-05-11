@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
 iaStatus_Generado: H
-iaStatus_Supervisado: "-"
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: 
 a11y: 0
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.917Z
-modified: 2024-05-08T19:13:13.198Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-11T14:26:31.792Z
+supervisado: 2024-05-10T19:20:40.025Z
+ACCION: 
 ver_major: 0
-ver_minor: 3
-ver_rev: 77
+ver_minor: 4
+ver_rev: 84
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,27 +32,22 @@ En este libro trato de comprender y en el futuro modelar, el Mindset CPS de Javi
 
 ## Elementos Estructurales
 
-El []"mapa del framework" necesario para trabajar CPS](https://pbs.twimg.com/media/EplBMYCXUAIzB9n?format=png&name=900x900) desarrollado quedaría tal que así (WIP)
+El ["mapa del framework" necesario para trabajar CPS](https://pbs.twimg.com/media/EplBMYCXUAIzB9n?format=png&name=900x900) desarrollado quedaría tal que así (WIP)
 
 ```mermaid
 mindmap
-  root(Pilares del CPS)
-	  :::mermaid_mindmap_root
-	  (Business Acumen)
-		  :::mermaid_mindmap_text
-	  ))The X Factor((
-		  :::mermaid_mindmap_text
-	  (Technology Ecosystem)
-		  :::mermaid_mindmap_text
-	  (Complexity Sciences)
-		  :::mermaid_mindmap_text
+ root (Pilares del CPS)
+  (Business Acumen)
+  ))The X Factor((
+  (Technology Ecosystem)
+  (Complexity Sciences)
 ```
 
 * Pilares del CPS
 	* Business Acumen
 	* The X Factor
 	* Technology Ecosystem
-	* Complexity Sciences
+	* [ ] Complexity Sciences[[]()]()
 
 
 

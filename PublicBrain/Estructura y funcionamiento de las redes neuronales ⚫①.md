@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.187Z
-modified: 2024-05-05T14:32:21.436Z
+modified: 2024-05-11T21:29:41.252Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 42
+ver_rev: 43
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,7 @@ tags:
 ## Introducción a las Redes Neuronales
 
 * [[Las redes neuronales en el contexto de la inteligencia artificial 🔴②]]
-* [[Historia y evolución de las redes neuronales]]
+* [[Historia y evolución de las redes neuronales 🔴②]]
 * [[Aplicaciones de las redes neuronales en la vida real]]
 
 ## Fundamentos de las Neuronas Artificiales

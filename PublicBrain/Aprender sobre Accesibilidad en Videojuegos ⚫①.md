@@ -27,7 +27,7 @@ tags:
 
    - [[¿Qué es la accesibilidad en videojuegos? 🔴②]]
    - [[Importancia de la accesibilidad en la industria del gaming 🔴②]]
-   - [[Beneficios de hacer videojuegos accesibles]] ⬛
+   - [[Beneficios de hacer videojuegos accesibles 🔴②]]
 
 ## II. [[Principios Básicos de Accesibilidad en Videojuegos]] ⬛
 

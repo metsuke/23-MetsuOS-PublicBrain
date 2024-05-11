@@ -27,7 +27,7 @@ tags:
 
 - [[¿Qué es la accesibilidad en E-Learning? 🔴②]]
 - [[Importancia de la accesibilidad en el aprendizaje en línea 🔴②]]
-- [[Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad ⚫①]]
+- [[Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad 🔴②]]
 
 ## Normativas y Estándares de Accesibilidad
 

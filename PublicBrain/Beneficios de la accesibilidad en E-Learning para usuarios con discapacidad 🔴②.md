@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad ⚫①
+# Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad 🔴②
 
 [[Aprender sobre Accesibilidad en ELearining ⚫①]]
 

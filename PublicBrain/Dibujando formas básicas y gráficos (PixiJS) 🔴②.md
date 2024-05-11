@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.105Z
-modified: 2024-05-08T20:11:49.433Z
+modified: 2024-05-11T21:48:56.863Z
 supervisado: 2024-05-04T06:47:03.207Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,9 +24,6 @@ tags:
 [[Aprender sobre PixiJS ⚫①]]
 
 Aquí tienes el contenido formateado en Markdown con encabezados jerárquicos:
-
-```markdown
-# Dibujando formas básicas y gráficos con PixiJS
 
 ## Introducción
 

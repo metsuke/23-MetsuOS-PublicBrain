@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.632Z
-modified: 2024-05-04T06:47:03.269Z
+modified: 2024-05-11T21:54:23.367Z
 supervisado: 2024-04-14T14:29:03.285Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,17 @@ PixiJS es una biblioteca de renderizado 2D en JavaScript que se utiliza para cre
 ## Orígenes y evolución
 
 La historia de PixiJS comienza en 2013, cuando Mat Groves, un desarrollador de software con experiencia en gráficos y renderizado, decidió crear una biblioteca de renderizado 2D que fuera fácil de usar, rápida y eficiente. Después de varios años de desarrollo y pruebas, PixiJS se lanzó al mercado en 2013. A lo largo de los años, la biblioteca ha seguido evolucionando con actualizaciones regulares para añadir nuevas características y mejorar el rendimiento.
+
+
+```mermaid
+timeline
+	title Inicios de PixiJS
+	2013: Crear biblioteca (Create library)
+	2013: Desarrollo y pruebas (Development and testing)
+	2013: Lanzamiento en 2013 (Launch in 2013)
+	2013+: Evolución continua (Ongoing evolution)
+```
+
 
 ## Características y beneficios
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.524Z
-modified: 2024-05-05T14:17:18.497Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-13T19:55:29.949Z
+supervisado: 2024-05-05T14:17:18.497Z
+ACCION: 
 ver_major: 0
 ver_minor: 3
-ver_rev: 88
+ver_rev: 89
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ tags:
 
 - [[Definición de altas capacidades 🔴②]]
 - [[Enfoques teóricos relevantes en Altas Capacidades 🔴②]]
-- [[Dimensiones del talento excepcional]]
+- [[Dimensiones del talento excepcional 🔴②]]
 
 ## Tema 2: Neurofisiología Cerebral y su Aplicación en la Neuroeducación
 * [[Introducción a Neurología Cerebral y su aplicación en la Neuroeducación (Altas Capacidades)]]

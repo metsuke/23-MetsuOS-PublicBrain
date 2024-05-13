@@ -55,7 +55,7 @@ tags:
 
 ## Módulo 5: Tiempo Libre y Pasatiempos
 
-- Hablar sobre actividades de tiempo libre
+- [[Hablar sobre actividades de tiempo libre (HSK1-ZH) ⚫①]]
 - Deportes y aficiones
 - Ver películas y escuchar música
 - Planificar actividades sociales

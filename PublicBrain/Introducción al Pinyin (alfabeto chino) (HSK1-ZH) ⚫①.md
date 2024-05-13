@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Introducción al Pinyin (alfabeto chino) (HSK1-ZH)
+# Introducción al Pinyin (alfabeto chino) (HSK1-ZH) ⚫①
 
 [[HSK1-ZH]]
 

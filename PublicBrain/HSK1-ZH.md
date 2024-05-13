@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.517Z
-modified: 2024-04-14T14:29:03.718Z
+modified: 2024-05-13T20:39:14.016Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 76
+ver_rev: 77
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,24 +27,24 @@ tags:
 
 ## Módulo 1: "I"ntroducción al Chino y Pinyin
 
-- [[¿Qué es el chino mandarín? (HSK1-ZH)]]
-- [[El sistema de escritura chino (HSK1-ZH)]]
-- [[Introducción al Pinyin (alfabeto chino) (HSK1-ZH)]]
-- [[Pronunciación y entonación en chino (HSK1-ZH)]]
+- [[¿Qué es el chino mandarín? (HSK1-ZH) ⚫①]]
+- [[El sistema de escritura chino (HSK1-ZH) ⚫①]]
+- [[Introducción al Pinyin (alfabeto chino) (HSK1-ZH) ⚫①]]
+- [[Pronunciación y entonación en chino (HSK1-ZH) ⚫①]]
 
 ## Módulo 2: Saludos y Conversación Básica
 
-- [[Saludos y presentaciones (HSK1-ZH)]]
-- [[Preguntar y dar información personal (HSK1-ZH)]]
-- [[Expresar agradecimiento y disculpa (HSK1-ZH)]]
-- [[Números y fechas en chino (HSK1-ZH)]]
+- [[Saludos y presentaciones (HSK1-ZH) ⚫①]]
+- [[Preguntar y dar información personal (HSK1-ZH) ⚫①]]
+- [[Expresar agradecimiento y disculpa (HSK1-ZH) ⚫①]]
+- [[Números y fechas en chino (HSK1-ZH) ⚫①]]
 
 ## Módulo 3: Vida Cotidiana y Rutina
 
-- Hablar sobre la familia
-- [[Describir la casa y las habitaciones (HSK1-ZH)]]
-- [[La rutina diaria (HSK1-ZH)]]
-- [[Comidas y restaurantes en China (HSK1-ZH)]]
+- [[Hablar sobre la familia (HSK-ZH) ⚫①]]
+- [[Describir la casa y las habitaciones (HSK1-ZH) ⚫①]]
+- [[La rutina diaria (HSK1-ZH) ⚫①]]
+- [[Comidas y restaurantes en China (HSK1-ZH) ⚫①]]
 
 ## Módulo 4: Compras y Viajes
 

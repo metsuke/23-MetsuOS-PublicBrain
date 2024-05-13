@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Preguntar y dar información personal (HSK1-ZH)
+# Preguntar y dar información personal (HSK1-ZH) ⚫①
 
 [[HSK1-ZH]]
 

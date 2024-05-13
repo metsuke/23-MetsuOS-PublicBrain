@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "PublicBrain/HSK1-ZH.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "PublicBrain/HSK1-ZH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "PublicBrain/HSK1-ZH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md"
+                "file": "PublicBrain/HSK1-ZH.md"
               }
             }
           },
@@ -165,8 +165,22 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "PublicBrain/順.md",
+    "PublicBrain/Comidas y restaurantes en China (HSK1-ZH) ⚫①.md",
+    "PublicBrain/HSK1-ZH.md",
+    "PublicBrain/La rutina diaria (HSK1-ZH) ⚫①.md",
+    "PublicBrain/Describir la casa y las habitaciones (HSK1-ZH) ⚫①.md",
+    "PublicBrain/Números y fechas en chino (HSK1-ZH) ⚫①.md",
+    "PublicBrain/Expresar agradecimiento y disculpa (HSK1-ZH) ⚫①.md",
+    "PublicBrain/Preguntar y dar información personal (HSK1-ZH) ⚫①.md",
+    "PublicBrain/Saludos y presentaciones (HSK1-ZH) ⚫①.md",
+    "PublicBrain/Pronunciación y entonación en chino (HSK1-ZH) ⚫①.md",
+    "PublicBrain/Introducción al Pinyin (alfabeto chino) (HSK1-ZH) ⚫①.md",
+    "PublicBrain/El sistema de escritura chino (HSK1-ZH) ⚫①.md",
+    "PublicBrain/¿Qué es el chino mandarín? (HSK1-ZH) ⚫①.md",
+    "Hablar sobre la familia (HSK-ZH) ⚫①.md",
+    "HSK-ZH.md",
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/順.md",
     "PublicBrain/氏.md",
     "PublicBrain/札.md",
     "PublicBrain/材.md",
@@ -177,20 +191,6 @@
     "PublicBrain/路.md",
     "PublicBrain/練.md",
     "PublicBrain/列.md",
-    "PublicBrain/礼.md",
-    "PublicBrain/緑.md",
-    "PublicBrain/両.md",
-    "PublicBrain/旅.md",
-    "PublicBrain/流.md",
-    "PublicBrain/落.md",
-    "PublicBrain/様.md",
-    "陽.md",
-    "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
-    "PublicBrain/Conceptos de dibujo y gráficos en Pyxel 🔴②.md",
-    "PublicBrain/Creación de la ventana del juego en Pyxel 🔴②.md",
-    "PublicBrain/Estructura básica de un juego en Pyxel 🔴②.md",
-    "PublicBrain/Instalación y configuración del entorno de desarrollo 🔴②.md",
-    "PublicBrain/Características y ventajas de Pyxel 🔴②.md",
     "PublicBrain/_resources/Rol Administración Negocios",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",

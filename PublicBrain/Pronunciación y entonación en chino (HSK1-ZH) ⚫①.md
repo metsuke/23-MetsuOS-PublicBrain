@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Pronunciación y entonación en chino (HSK1-ZH)
+# Pronunciación y entonación en chino (HSK1-ZH) ⚫①
 
 [[HSK1-ZH]]
 

@@ -6,14 +6,14 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.011Z
-modified: 2024-04-14T14:29:03.177Z
+modified: 2024-05-13T20:39:08.031Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# ¿Qué es el chino mandarín? (HSK1-ZH)
+# ¿Qué es el chino mandarín? (HSK1-ZH) ⚫①

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.938Z
-modified: 2024-04-14T14:29:03.199Z
+modified: 2024-05-13T20:51:54.255Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Vocabulario relacionado con la familia (A1-EN)
+# Vocabulario relacionado con la familia (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 En el nivel A1 de aprendizaje del idioma inglés, es importante adquirir vocabulario relacionado con la familia para poder describir a las personas cercanas y hablar sobre relaciones familiares de manera básica. Aquí tienes un listado de vocabulario relacionado con la familia en inglés:
 

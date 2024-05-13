@@ -21,7 +21,7 @@ tags:
 ---
 # El sistema de escritura chino (HSK1-ZH) ⚫①
 
-[[HSK1-ZH]]
+[[HSK1-ZH ⚫①]]
   
 El sistema de escritura chino es uno de los sistemas de escritura más antiguos y complejos del mundo. Se basa en caracteres chinos, que son símbolos gráficos utilizados para representar palabras y morfemas en chino. En el contexto del HSK (Hanyu Shuiping Kaoshi) Nivel 1, que es el nivel más básico del examen de competencia en chino mandarín, se esperaría que los estudiantes tengan un conocimiento limitado de los caracteres chinos y se centren principalmente en la comunicación oral y las habilidades de lectura y escritura elementales.
 

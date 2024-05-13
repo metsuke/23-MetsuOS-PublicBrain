@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.914Z
-modified: 2024-04-14T14:29:03.207Z
+modified: 2024-05-13T20:51:54.790Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Verbos en presente simple (A1-EN)
+# Verbos en presente simple (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 En el nivel A1 de aprendizaje del idioma inglés, los verbos en presente simple son una parte fundamental para poder comunicarse de forma básica en este idioma. En el presente simple, los verbos se utilizan para expresar acciones que ocurren de forma habitual, rutinaria o verdades universales. Aquí te presento algunos ejemplos de verbos en presente simple en inglés:
 

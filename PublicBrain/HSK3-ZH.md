@@ -21,7 +21,7 @@ tags:
 ---
 # HSK3-ZH
 
-[[Aprender Idioma Chino]]
+[[Aprender Idioma Chino ⚫①]]
 
 <-- [[HSK2-ZH]] |  [[HSK4-ZH]]  -->
 

@@ -35,7 +35,7 @@ DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo fr
 
 ## Aprender Idiomas y Cultura
 
-* [[Aprender Idiomas]]
+* [[Aprender Idiomas ⚫①]]
 * [[Aprender sobre sistemas de escritura]]
 * [[Aprender sobre cultura internacional a través de los idiomas]]
 

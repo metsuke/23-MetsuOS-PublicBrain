@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Euskera
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * EU | [[Euskera]]
 	* [[Niveles Oficiales EU]]

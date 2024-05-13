@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.758Z
-modified: 2024-04-14T14:29:03.540Z
+modified: 2024-05-13T20:39:27.504Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Introducción al Pinyin (alfabeto chino) (HSK1-ZH) ⚫①
 
-[[HSK1-ZH]]
+[[HSK1-ZH ⚫①]]
 
 En el contexto de aprender chino mandarín, el Pinyin es un sistema de romanización que representa los sonidos del idioma chino mediante letras latinas. El Pinyin es esencial para aquellos que están comenzando a aprender chino, ya que facilita la pronunciación de los caracteres chinos. Aquí hay una introducción básica al Pinyin:
 

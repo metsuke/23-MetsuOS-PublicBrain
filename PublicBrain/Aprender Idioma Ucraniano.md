@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Ucraniano
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * UK | [[Ucraniano]] 
 	* [[Niveles Oficiales UK]]

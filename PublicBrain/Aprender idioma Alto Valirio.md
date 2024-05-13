@@ -18,7 +18,7 @@ tags: []
 ---
 # Aprender idioma Alto Valirio
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * Alto Valirio
 	* Niveles Oficiales Alto Valirio

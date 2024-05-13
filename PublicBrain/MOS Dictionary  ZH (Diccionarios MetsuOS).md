@@ -18,7 +18,7 @@ tags: []
 ---
 # MOS Dictionary  ZH (Diccionarios MetsuOS)
 
-[[Aprender Idioma Chino]]
+[[Aprender Idioma Chino ⚫①]]
 
 Un diccionario chino-español puede organizarse de varias formas, pero una forma común es ordenarlo alfabéticamente según el pinyin (sistema de romanización del chino mandarín) o por el radical del carácter chino. Aquí tienes dos opciones comunes de organización:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.618Z
-modified: 2024-04-14T14:29:03.292Z
+modified: 2024-05-13T20:51:54.218Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Pronunciación básica (A1-EN)
+# Pronunciación básica (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 ¡Claro! En el nivel A1 de aprendizaje de inglés, la pronunciación básica es esencial para comunicarse de manera efectiva. Aquí hay algunos aspectos importantes de la pronunciación básica en inglés que los estudiantes de nivel A1 deben tener en cuenta:
 

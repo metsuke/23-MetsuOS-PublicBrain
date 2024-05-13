@@ -18,7 +18,7 @@ tags: []
 ---
 # Aprender idioma Húngaro
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * HU | Húngaro
 	* Niveles Oficiales HU

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.327Z
-modified: 2024-04-14T14:29:03.786Z
+modified: 2024-05-13T20:51:54.754Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Expresiones para hablar sobre el tiempo (A1-EN)
+# Expresiones para hablar sobre el tiempo (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 Claro, aquí te dejo algunas expresiones para hablar sobre el tiempo en inglés:
 

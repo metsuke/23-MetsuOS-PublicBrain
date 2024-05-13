@@ -19,9 +19,9 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# HSK1-ZH
+# HSK1-ZH ⚫①
 
-[[Aprender Idioma Chino]]
+[[Aprender Idioma Chino ⚫①]]
 
 <-- [[HSK6-ZH]] |  [[HSK2-ZH]]  -->
 

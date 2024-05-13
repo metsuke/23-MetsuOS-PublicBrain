@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T04:18:10.608Z
-modified: 2024-04-14T14:29:03.829Z
+modified: 2024-05-13T20:40:45.034Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Describir la casa y las habitaciones (HSK1-ZH) ⚫①
 
-[[HSK1-ZH]]
+[[HSK1-ZH ⚫①]]
 
 La casa es un lugar donde vivimos y pasamos la mayor parte de nuestro tiempo. Generalmente, una casa tiene varias habitaciones que cumplen diferentes funciones. 
 

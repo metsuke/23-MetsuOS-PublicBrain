@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.590Z
-modified: 2024-04-14T14:29:03.313Z
+modified: 2024-05-13T20:51:54.508Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Pedir ayuda y direcciones (A1-EN)
+# Pedir ayuda y direcciones (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 Cuando estás aprendiendo inglés a nivel A1, es importante saber cómo pedir ayuda y direcciones. A continuación te presento algunas frases útiles que puedes utilizar en estas situaciones:
 

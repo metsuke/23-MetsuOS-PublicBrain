@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Gallego
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
   
 * GL | [[Gallego]]
 	* [[Niveles Oficiales GL]]

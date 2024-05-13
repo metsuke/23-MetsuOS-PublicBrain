@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.910Z
-modified: 2024-04-14T14:29:03.948Z
+modified: 2024-05-13T20:52:06.169Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # C2-EN
 
-[[Aprender Idioma Inglés]]
+[[Aprender Idioma Inglés ⚫①]]
 
-<-- [[C1-EN]] | [[A1-EN]] -->
+<-- [[C1-EN]] | [[A1-EN ⚫①]] -->
 
 ## Módulo 1: Comunicación Avanzada
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.569Z
-modified: 2024-04-14T14:29:03.580Z
+modified: 2024-05-13T20:51:54.348Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Hora y fechas básicas (A1-EN)
+# Hora y fechas básicas (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 La hora y las fechas son aspectos básicos y fundamentales para comunicarnos en cualquier idioma. Aquí te explico algunos conceptos básicos sobre la hora y las fechas en inglés:
 

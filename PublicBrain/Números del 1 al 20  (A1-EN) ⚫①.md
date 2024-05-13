@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.525Z
-modified: 2024-04-14T14:29:03.332Z
+modified: 2024-05-13T20:51:54.181Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Números del 1 al 20  (A1-EN)
+# Números del 1 al 20  (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 los números del 1 al 20 en inglés. Aquí tienes la lista:
 

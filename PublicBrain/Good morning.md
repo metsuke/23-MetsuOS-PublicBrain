@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.485Z
-modified: 2024-05-01T20:55:36.336Z
+modified: 2024-05-13T20:46:29.109Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Good morning
 
-[[Saludos y presentaciones (A1-EN)]]
+[[Saludos y presentaciones (A1-EN) ⚫①]]
 
 "Good morning" es una forma común de saludar en inglés cuando se encuentra a alguien por la mañana o se empieza el día.
 

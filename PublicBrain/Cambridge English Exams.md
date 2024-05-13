@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.934Z
-modified: 2024-04-15T06:26:18.522Z
+modified: 2024-05-13T20:52:06.208Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Cambridge English Exams
 
-[[Aprender Idioma Inglés]]
+[[Aprender Idioma Inglés ⚫①]]
 
 Los exámenes de Cambridge English, se incluyen los diferentes niveles de los exámenes de Cambridge y los temas a tratar en cada uno de ellos.
 

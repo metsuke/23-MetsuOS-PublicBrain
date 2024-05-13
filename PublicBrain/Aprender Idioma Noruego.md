@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Noruego
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * NO | [[Noruego]]
 	* [[Niveles Oficiales NO]]

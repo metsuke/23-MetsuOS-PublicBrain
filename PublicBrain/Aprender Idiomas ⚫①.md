@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.442Z
-modified: 2024-05-05T12:56:39.276Z
+modified: 2024-05-13T20:52:05.997Z
 supervisado: 2024-04-14T14:29:04.063Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 87
+ver_rev: 88
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender Idiomas
+# Aprender Idiomas ⚫①
 
 [[PublicBrain/Index|Index]]
 
@@ -30,7 +30,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * CS [[Aprender Idioma Checo]]
 * DA [[Aprender Idioma Danés]]
 * EL [[Aprender idioma Griego]]
-* EN [[Aprender Idioma Inglés]]
+* EN [[Aprender Idioma Inglés ⚫①]]
 * EO [[Aprender Idioma Esperanto]]
 * ES [[Aprender Idioma Español]]
 * EU [[Aprender Idioma Euskera]]
@@ -63,7 +63,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * UK [[Aprender Idioma Ucraniano]]
 * VLC [[Aprender Idioma Valenciano]]
 * VI [[Aprender Idioma Vietnamita]]
-* ZH [[Aprender Idioma Chino]]
+* ZH [[Aprender Idioma Chino ⚫①]]
 
 ## Idiomas de Ficción
 

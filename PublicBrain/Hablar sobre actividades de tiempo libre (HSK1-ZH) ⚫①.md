@@ -1,6 +1,24 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-13T20:41:47.105Z
+modified: 2024-05-13T20:45:48.070Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Hablar sobre actividades de tiempo libre (HSK1-ZH) ⚫①
 
-[[HSK1-ZH]]
+[[HSK1-ZH ⚫①]]
 
 ¡Claro! Cuando hablamos sobre actividades de tiempo libre en chino, podemos mencionar diferentes hobbies y pasatiempos que nos gusta hacer en nuestro tiempo libre. Por ejemplo, podríamos decir:
 

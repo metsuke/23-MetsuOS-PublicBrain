@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Valenciano
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * VLC | [[Valenciano]]
 	* [[Niveles Oficiales VLC]]

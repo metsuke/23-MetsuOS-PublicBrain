@@ -18,7 +18,7 @@ tags: []
 ---
 # Hablar sobre la familia (HSK-ZH) ⚫①
 
-[[HSK1-ZH]]
+[[HSK1-ZH ⚫①]]
 
 La familia es un tema muy importante cuando se aprende un nuevo idioma, ya que es algo que solemos discutir con frecuencia. Aquí tienes algunas frases y vocabulario relacionado con la familia en chino mandarín:
 

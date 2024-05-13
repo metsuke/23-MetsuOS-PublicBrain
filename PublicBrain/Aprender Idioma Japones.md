@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Japones
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * JP | [[Japonés]] 
 	* [[Sistemas de escritura japoneses]]

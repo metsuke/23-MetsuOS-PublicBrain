@@ -9,23 +9,23 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.428Z
-modified: 2024-04-22T20:09:48.856Z
+modified: 2024-05-13T20:52:05.802Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender Idioma Inglés
+# Aprender Idioma Inglés ⚫①
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * EN | [[Inglés]] 
 	* [[Niveles Oficiales EN]]
-		* Nivel A: [[A1-EN]] | [[A2-EN]] 
+		* Nivel A: [[A1-EN ⚫①]] | [[A2-EN]] 
 		* Nivel B: [[B1-EN]] | [[B2-EN]] 
 		* Nivel C: [[C1-EN]] | [[C2-EN]] 
 	* [[Niveles y Exámenes Adicionales EN]]

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.473Z
-modified: 2024-04-14T14:29:03.339Z
+modified: 2024-05-13T20:52:06.331Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Niveles y Exámenes Adicionales EN
 
-[[Aprender Idioma Inglés]] | [[Niveles Oficiales EN]]
+[[Aprender Idioma Inglés ⚫①]] | [[Niveles Oficiales EN]]
 
 Amás de los exámenes y niveles de [[inglés]] oficiales, existen otros exámenes y certificaciones que son ampliamente reconocidos y relevantes en el ámbito internacional para evaluar las habilidades en inglés. Estos exámenes son ofrecidos por diferentes instituciones y organizaciones, y pueden ser útiles para diversos fines, como el acceso a programas académicos, la búsqueda de empleo, la migración y el desarrollo profesional. Algunos de los exámenes de inglés más reconocidos fuera de los niveles oficiales incluyen:
 

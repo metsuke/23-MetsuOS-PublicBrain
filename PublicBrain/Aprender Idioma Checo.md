@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Checo
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * CS | [[Checo]]
 	* [[Niveles Oficiales CS]]

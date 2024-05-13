@@ -21,7 +21,7 @@ tags:
 ---
 # BCT (Business Chinese Test
 
-[[Aprender Idioma Chino]]
+[[Aprender Idioma Chino ⚫①]]
 
 ## Módulo 1: "I"ntroducción al BCT
 

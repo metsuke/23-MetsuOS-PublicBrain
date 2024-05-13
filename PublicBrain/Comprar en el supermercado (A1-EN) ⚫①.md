@@ -6,20 +6,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.023Z
-modified: 2024-04-14T14:29:03.865Z
+modified: 2024-05-13T20:51:54.624Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 
-# Comprar en el supermercado (A1-EN)
+# Comprar en el supermercado (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 Comprar en el supermercado es una situación muy común en la vida diaria. Aquí te dejo algunos ejemplos de frases y vocabulario que puedes utilizar cuando vayas al supermercado:
 

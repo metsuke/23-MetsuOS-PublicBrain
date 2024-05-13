@@ -18,7 +18,7 @@ tags: []
 ---
 # Aprender Idioma Vietnamita
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * [[MOS Dictionary VI (Diccionario MetsuOS)]]
 * [[MOS Flascards VI (Flashcards MetsuOS)]]

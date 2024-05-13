@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.161Z
-modified: 2024-04-23T20:14:35.358Z
+modified: 2024-05-13T20:51:54.130Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# El alfabeto inglés (A1-EN)
+# El alfabeto inglés (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 El alfabeto [[inglés]] es un conjunto de letras que se utiliza para escribir en el idioma inglés y en varios otros idiomas. Consta de 26 letras y se basa en el alfabeto latino. Las letras del alfabeto inglés son las siguientes:
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Aprender Idioma Portugués
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * [[MOS Dictionary PT (Diccionario MetsuOS)]]
 * [[MOS Flascards PT (Flashcards MetsuOS)]]

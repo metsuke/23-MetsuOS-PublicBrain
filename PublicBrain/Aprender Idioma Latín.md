@@ -18,7 +18,7 @@ tags: []
 ---
 # Aprender Idioma Latín
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 1. Salutationes et introductiones (Saludos e introducciones)
 2. Numeri et enumerationes (Números y contar)

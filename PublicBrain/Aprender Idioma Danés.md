@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Danés
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * DA | [[Danés]]
 	* [[Niveles Oficiales DA]]

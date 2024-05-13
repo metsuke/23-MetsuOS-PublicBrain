@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T04:19:10.662Z
-modified: 2024-04-14T14:29:03.866Z
+modified: 2024-05-13T20:41:16.843Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Comidas y restaurantes en China (HSK1-ZH) ⚫①
 
-[[HSK1-ZH]]
+[[HSK1-ZH ⚫①]]
 
 En China, la comida juega un papel muy importante en la cultura y en la vida diaria de las personas. La cocina china es conocida por su diversidad de sabores, ingredientes frescos y técnicas de cocción únicas. Algunos platos populares en China incluyen el arroz frito, el pollo agridulce, el pato laqueado, los dumplings, la sopa wonton, el hot pot y el famoso dim sum.
 

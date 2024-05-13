@@ -21,7 +21,7 @@ tags:
 ---
 # HSKK (Hanyu Shuiping Kouyu Kaochang - Examen de Expresión Oral en Chino)
 
-[[Aprender Idioma Chino]]
+[[Aprender Idioma Chino ⚫①]]
 
 ## Módulo 1: "I"ntroducción al HSKK
 

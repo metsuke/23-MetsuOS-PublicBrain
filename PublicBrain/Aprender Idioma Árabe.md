@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Árabe
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * AR | [[Árabe]] 
 	* [[Niveles Oficiales AR]]

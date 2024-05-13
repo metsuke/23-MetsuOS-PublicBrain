@@ -21,9 +21,9 @@ tags:
 ---
 # HSK2-ZH
 
-[[Aprender Idioma Chino]]
+[[Aprender Idioma Chino ⚫①]]
 
-<-- [[HSK1-ZH]] |  [[HSK3-ZH]]  -->
+<-- [[HSK1-ZH ⚫①]] |  [[HSK3-ZH]]  -->
 
 ## Módulo 1: "I"ntroducción al HSK 2
 

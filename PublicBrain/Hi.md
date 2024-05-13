@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.552Z
-modified: 2024-05-05T19:48:52.823Z
+modified: 2024-05-13T20:46:29.164Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Hi
 
-[[Saludos y presentaciones (A1-EN)]]
+[[Saludos y presentaciones (A1-EN) ⚫①]]
 
 "Hi" es una de las formas más comunes de saludar a alguien en inglés y se utiliza en situaciones informales. Es una abreviatura de "hello", que también se utiliza como saludo, pero "hi" se considera más informal y amistoso.
 

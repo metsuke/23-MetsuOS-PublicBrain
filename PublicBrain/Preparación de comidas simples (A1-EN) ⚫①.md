@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.608Z
-modified: 2024-04-14T14:29:03.302Z
+modified: 2024-05-13T20:51:54.698Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Preparación de comidas simples (A1-EN)
+# Preparación de comidas simples (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 Preparación de comidas simples es un tema importante para aprender cuando estás estudiando el idioma inglés en nivel A1, ya que te permitirá comunicarte de manera efectiva en situaciones cotidianas, como comprar ingredientes, seguir recetas, y hablar sobre tus hábitos alimenticios.
 

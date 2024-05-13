@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.606Z
-modified: 2024-04-14T14:29:03.303Z
+modified: 2024-05-13T20:51:54.433Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Preguntas básicas (A1-EN)
+# Preguntas básicas (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 Claro, en el nivel A1 de inglés, uno de los primeros aspectos que se aprenden son las preguntas básicas. Algunas de las preguntas más comunes que se suelen enseñar a este nivel son:
 

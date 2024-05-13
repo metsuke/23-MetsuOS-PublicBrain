@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.669Z
-modified: 2024-04-14T14:29:03.254Z
+modified: 2024-05-13T20:39:54.858Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 51
+ver_rev: 52
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Saludos y presentaciones (HSK1-ZH) ⚫①
 
-[[HSK1-ZH]]
+[[HSK1-ZH ⚫①]]
 
 En el aprendizaje del idioma chino mandarín a nivel A1, es importante conocer los saludos y las formas de presentación básicas. A continuación, te presento algunas frases y expresiones comunes para saludar y presentarte en chino mandarín:
 

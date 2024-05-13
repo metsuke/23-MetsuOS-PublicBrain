@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.926Z
-modified: 2024-04-14T14:29:03.201Z
+modified: 2024-05-13T20:51:54.533Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Vocabulario de alimentos (A1-EN)
+# Vocabulario de alimentos (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 Claro, en el contexto de aprender inglés a nivel A1, el vocabulario de alimentos es muy importante para poder comunicarse alrededor de comidas y recetas. Algunas palabras que podrían ser útiles incluyen:
 

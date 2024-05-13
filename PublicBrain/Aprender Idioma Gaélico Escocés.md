@@ -18,7 +18,7 @@ tags: []
 ---
 # Aprender Idioma Gaélico Escocés
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * [[MOS Dictionary GD (Diccionario MetsuOS)]]
 * [[MOS Flascards GD (Flashcards MetsuOS)]]

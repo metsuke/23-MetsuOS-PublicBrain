@@ -18,7 +18,7 @@ tags: []
 ---
 # MOS Flascards GD (Flashcards MetsuOS)
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 1. Fáilte agus slán (Saludos y despedidas)
 2. Cé chomh maith is atá tú? (Cómo estás?)

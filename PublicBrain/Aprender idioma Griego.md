@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender idioma Griego
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * EL | [[Griego]]
 	* Niveles Oficiales EL

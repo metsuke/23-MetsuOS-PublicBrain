@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.567Z
-modified: 2024-04-14T14:29:03.581Z
+modified: 2024-05-13T20:51:54.781Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Hobbies y pasatiempos (A1-EN)
+# Hobbies y pasatiempos (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 Claro, en el nivel A1 de inglés, es común aprender a hablar sobre hobbies y pasatiempos. Los hobbies son actividades que realizamos por placer en nuestro tiempo libre. Algunos ejemplos de hobbies y pasatiempos comunes que puedes mencionar en este nivel son:
 

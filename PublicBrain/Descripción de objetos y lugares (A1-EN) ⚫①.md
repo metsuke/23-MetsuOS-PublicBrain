@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.104Z
-modified: 2024-04-21T14:13:43.857Z
+modified: 2024-05-13T20:51:54.296Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Descripción de objetos y lugares (A1-EN)
+# Descripción de objetos y lugares (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 En el nivel A1 de aprendizaje del idioma inglés, la capacidad para describir objetos y lugares es fundamental. Aquí te proporciono una visión general de cómo se puede abordar este aspecto del aprendizaje:
 

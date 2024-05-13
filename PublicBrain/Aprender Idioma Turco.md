@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Turco
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * TR | [[Turco]]
 	* [[Niveles Oficiales TR]]

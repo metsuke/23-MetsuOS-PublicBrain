@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Sueco
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * SV | [[Sueco]] 
 	* [[Niveles Oficiales SV]]

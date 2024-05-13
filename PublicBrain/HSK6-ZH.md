@@ -21,9 +21,9 @@ tags:
 ---
 # HSK6-ZH
 
-[[Aprender Idioma Chino]]
+[[Aprender Idioma Chino ⚫①]]
 
-<-- [[HSK5-ZH]] |  [[HSK1-ZH]]  -->
+<-- [[HSK5-ZH]] |  [[HSK1-ZH ⚫①]]  -->
 
 ## Módulo 1: "I"ntroducción al HSK 6
 

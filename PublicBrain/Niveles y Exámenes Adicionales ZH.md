@@ -18,7 +18,7 @@ tags: []
 ---
 # Niveles y Exámenes Adicionales ZH
 
-[[Aprender Idioma Chino]] | [[Niveles Oficiales ZH]]
+[[Aprender Idioma Chino ⚫①]] | [[Niveles Oficiales ZH]]
 
 Además del HSK (Examen de Chino para Hablantes de Otros Idiomas), existen otros exámenes y certificaciones relevantes para evaluar y acreditar el dominio del idioma chino. Estos exámenes y certificaciones pueden ser útiles para diferentes propósitos, como la educación, la búsqueda de empleo y la inmersión en la cultura y la sociedad chinas. Algunos de estos exámenes y certificaciones incluyen:
 

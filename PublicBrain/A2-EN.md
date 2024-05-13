@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.373Z
-modified: 2024-05-01T21:14:20.420Z
+modified: 2024-05-13T20:52:05.923Z
 supervisado: 2024-04-14T14:29:04.088Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # A2-EN
 
-[[Aprender Idioma Inglés]]
+[[Aprender Idioma Inglés ⚫①]]
 
-<-- [[A1-EN]] | [[B1-EN]] -->
+<-- [[A1-EN ⚫①]] | [[B1-EN]] -->
 
 ## Módulo 1: Ampliación de Vocabulario
 

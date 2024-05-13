@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.578Z
-modified: 2024-04-14T14:29:03.578Z
+modified: 2024-05-13T20:52:06.254Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # IELTS (International English Language Testing System)
 
-[[Aprender Idioma Inglés]]
+[[Aprender Idioma Inglés ⚫①]]
 
 El examen IELTS (International English Language Testing System), que incluye las secciones clave del examen y los temas a tratar en cada una de ellas:
 

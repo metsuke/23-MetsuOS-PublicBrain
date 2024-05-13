@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.324Z
-modified: 2024-04-25T10:42:26.155Z
+modified: 2024-05-13T20:51:54.320Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Expresiones de cortesía (A1-EN)
+# Expresiones de cortesía (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 Las expresiones de cortesía son frases que se usan para ser amables y educados en situaciones sociales. Son muy importantes en el idioma inglés y son fundamentales para establecer una buena comunicación con hablantes nativos.
 

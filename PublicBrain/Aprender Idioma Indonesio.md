@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Indonesio
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * ID| Indonesio
 	* Niveles Oficiales ID

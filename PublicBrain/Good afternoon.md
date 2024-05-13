@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.484Z
-modified: 2024-05-01T20:55:36.337Z
+modified: 2024-05-13T20:46:29.059Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Good afternoon
 
-[[Saludos y presentaciones (A1-EN)]]
+[[Saludos y presentaciones (A1-EN) ⚫①]]
 
 "Good afternoon" es una expresión en [[inglés]] que se utiliza para saludar a alguien durante la tarde. Se podría traducir al español como "buenas tardes".
 

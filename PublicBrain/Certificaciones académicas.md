@@ -21,7 +21,7 @@ tags:
 ---
 # Certificaciones académicas
 
-[[Aprender Idioma Chino]]
+[[Aprender Idioma Chino ⚫①]]
 
 ## Módulo 1: "I"ntroducción a las Certificaciones Académicas en Chino
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T09:43:47.617Z
-modified: 2024-04-29T22:00:19.675Z
+modified: 2024-05-13T20:52:06.281Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # MOS FlashCards EN (Flashcards MetsuOS)
 
-[[Aprender Idioma Inglés]]
+[[Aprender Idioma Inglés ⚫①]]
 
 # Índice
 

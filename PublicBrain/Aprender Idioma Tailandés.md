@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Tailandés
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * TH | [[Tailandés]]
 	* [[Niveles Oficiales TH]]

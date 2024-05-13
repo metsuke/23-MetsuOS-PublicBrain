@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.620Z
-modified: 2024-04-14T14:29:03.292Z
+modified: 2024-05-13T20:39:42.652Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Pronunciación y entonación en chino (HSK1-ZH) ⚫①
 
-[[HSK1-ZH]]
+[[HSK1-ZH ⚫①]]
 
 Al aprender chino, la pronunciación y la entonación son aspectos fundamentales debido a la naturaleza tonal del idioma. El chino mandarín, en particular, es un idioma tonal, lo que significa que el tono con el que pronuncias una sílaba puede cambiar completamente el significado de una palabra. Aquí hay una breve descripción de los tonos en chino mandarín:
 

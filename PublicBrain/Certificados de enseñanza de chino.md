@@ -21,7 +21,7 @@ tags:
 ---
 # Certificados de enseñanza de chino
 
-[[Aprender Idioma Chino]]
+[[Aprender Idioma Chino ⚫①]]
 
 ## Módulo 1: "I"ntroducción a los Certificados de Enseñanza de Chino
 

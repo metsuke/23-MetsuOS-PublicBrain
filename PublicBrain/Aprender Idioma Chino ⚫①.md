@@ -19,13 +19,13 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Aprender Idioma Chino
+# Aprender Idioma Chino ⚫①
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * ZH | [[Chino]]
 	* [[Niveles Oficiales ZH]]
-		* [[HSK1-ZH]] |  [[HSK2-ZH]] 
+		* [[HSK1-ZH ⚫①]] |  [[HSK2-ZH]] 
 		* [[HSK3-ZH]] |  [[HSK4-ZH]] 
 		* [[HSK5-ZH]] |  [[HSK6-ZH]] 
 	* [[Niveles y Exámenes Adicionales ZH]]

@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Ruso
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * RU | [[Ruso]]
 	*  [[Niveles Oficiales RU]]

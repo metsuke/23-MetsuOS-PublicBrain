@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.446Z
-modified: 2024-04-29T21:19:39.989Z
+modified: 2024-05-13T20:51:54.382Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Frases para pedir y dar información personal (A1-EN)
+# Frases para pedir y dar información personal (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 Pedir información personal:
 1. What's your name? (¿Cuál es tu nombre?)

@@ -18,7 +18,7 @@ tags: []
 ---
 # Aprender idioma Navajo
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * NAV | Navajo
 	* Niveles Oficiales nav

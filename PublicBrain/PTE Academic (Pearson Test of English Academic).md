@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.572Z
-modified: 2024-04-14T14:29:03.319Z
+modified: 2024-05-13T20:52:06.405Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # PTE Academic (Pearson Test of English Academic)
 
-[[Aprender Idioma Inglés]]
+[[Aprender Idioma Inglés ⚫①]]
 
 ## Sección 1: Comprensión Oral (Listening)
 

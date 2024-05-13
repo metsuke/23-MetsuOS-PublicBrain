@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T11:14:44.190Z
-modified: 2024-04-14T14:29:04.067Z
+modified: 2024-05-13T20:52:05.958Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 49
+ver_rev: 50
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender Idioma Ingles
 
-Véase [[Aprender Idioma Inglés]]
+Véase [[Aprender Idioma Inglés ⚫①]]
 

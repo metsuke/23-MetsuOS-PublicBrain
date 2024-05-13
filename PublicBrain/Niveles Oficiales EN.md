@@ -6,23 +6,23 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.416Z
-modified: 2024-04-14T14:29:03.346Z
+modified: 2024-05-13T20:52:06.316Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Niveles Oficiales EN
 
-[[Aprender Idioma Inglés]] | [[Niveles y Exámenes Adicionales EN]]
+[[Aprender Idioma Inglés ⚫①]] | [[Niveles y Exámenes Adicionales EN]]
 
 En el contexto del idioma [[inglés]], los niveles oficiales se refieren a estándares de competencia lingüística que se utilizan para evaluar y clasificar el nivel de habilidad en inglés de una persona. Estos niveles son importantes para la enseñanza, el aprendizaje y la certificación del idioma, ya que ayudan a las personas a comprender su nivel de habilidad y a los empleadores o instituciones educativas a tomar decisiones informadas sobre la competencia en inglés de un individuo. Uno de los sistemas de clasificación más ampliamente reconocidos es el Marco Común Europeo de Referencia para las Lenguas (MCER o CEFR por sus siglas en inglés), que divide los niveles en seis:
 
-1. **A1 (Nivel de Principiante)**: En este nivel, los estudiantes pueden comprender y utilizar expresiones familiares y cotidianas básicas. Pueden presentarse a sí mismos, hacer preguntas sencillas y responder a ellas. [[A1-EN]]
+1. **A1 (Nivel de Principiante)**: En este nivel, los estudiantes pueden comprender y utilizar expresiones familiares y cotidianas básicas. Pueden presentarse a sí mismos, hacer preguntas sencillas y responder a ellas. [[A1-EN ⚫①]]
     
 2. **A2 (Nivel Básico)**: En este nivel, los estudiantes pueden comunicarse en situaciones cotidianas y simples. Pueden hablar sobre temas como la familia, el trabajo, el entorno y actividades de ocio. [[A2-EN]]
     

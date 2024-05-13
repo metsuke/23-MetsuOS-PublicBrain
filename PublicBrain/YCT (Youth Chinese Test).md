@@ -18,7 +18,7 @@ tags: []
 ---
 # YCT (Youth Chinese Test)
 
-[[Aprender Idioma Chino]]
+[[Aprender Idioma Chino ⚫①]]
 
 ## Módulo 1: Introducción al YCT
 

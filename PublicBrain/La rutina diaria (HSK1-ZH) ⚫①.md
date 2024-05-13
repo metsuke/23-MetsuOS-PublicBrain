@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T04:17:27.502Z
-modified: 2024-04-14T14:29:03.521Z
+modified: 2024-05-13T20:41:00.629Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # La rutina diaria (HSK1-ZH) ⚫①
 
-[[HSK1-ZH]]
+[[HSK1-ZH ⚫①]]
 
 La rutina diaria es una parte importante de la vida de una persona, ya que establece una estructura y proporciona un sentido de organización en el día a día. En el aprendizaje del idioma ZH en nivel A1, es fundamental poder describir tu rutina diaria en chino. Aquí tienes un ejemplo de cómo podrías hablar de tu rutina diaria en chino:
 

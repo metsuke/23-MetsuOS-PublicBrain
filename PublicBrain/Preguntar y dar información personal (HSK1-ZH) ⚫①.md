@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.605Z
-modified: 2024-04-14T14:29:03.304Z
+modified: 2024-05-13T20:40:03.174Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Preguntar y dar información personal (HSK1-ZH) ⚫①
 
-[[HSK1-ZH]]
+[[HSK1-ZH ⚫①]]
 
 Preguntar y dar información personal es una parte importante de aprender un idioma, ya que nos permite practicar la comunicación básica y conocer más sobre las personas con las que interactuamos. Aquí te dejo algunos ejemplos de cómo preguntar y dar información personal en chino mandarín (ZH) nivel A1:
 

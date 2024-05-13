@@ -18,7 +18,7 @@ tags: []
 ---
 # MOS FlashCards ZH (Flashcards MetsuOS)
 
-[[Aprender Idioma Chino]]
+[[Aprender Idioma Chino ⚫①]]
 
 # Índice
 

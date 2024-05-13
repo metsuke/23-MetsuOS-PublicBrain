@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender Idioma Español
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * ES | [[Español]] 
 	* [[Niveles Oficiales ES ]]

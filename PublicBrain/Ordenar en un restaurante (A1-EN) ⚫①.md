@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.564Z
-modified: 2024-04-14T14:29:03.322Z
+modified: 2024-05-13T20:51:54.579Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Ordenar en un restaurante (A1-EN)
+# Ordenar en un restaurante (A1-EN) ⚫①
 
-[[A1-EN]]
+[[A1-EN ⚫①]]
 
 Cuando estás en un restaurante y quieres hacer un pedido, es importante poder ordenar de manera clara y precisa. Aquí tienes algunas frases y vocabulario útil que puedes utilizar en un restaurante:
 

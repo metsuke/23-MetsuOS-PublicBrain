@@ -18,7 +18,7 @@ tags: []
 ---
 # Niveles Oficiales ZH
 
-[[Aprender Idioma Chino]] | [[Niveles y Exámenes Adicionales ZH]]
+[[Aprender Idioma Chino ⚫①]] | [[Niveles y Exámenes Adicionales ZH]]
 
 El idioma chino cuenta con su propio sistema de niveles oficiales para evaluar el dominio del idioma, conocido como el "Hanyu Shuiping Kaoshi" o "HSK" (Examen de Chino para Hablantes de Otros Idiomas). El HSK es el examen de referencia para medir la competencia en chino mandarín y es ampliamente reconocido en todo el mundo. Los niveles oficiales en el HSK incluyen:
 

@@ -18,7 +18,7 @@ tags: []
 ---
 # Aprender Idioma Gaélico Irlandés
 
-[[Aprender Idiomas]]
+[[Aprender Idiomas ⚫①]]
 
 * [[MOS Dictionary GA (Diccionario MetsuOS)]]
 * [[MOS Flascards GA (Flashcards MetsuOS)]]

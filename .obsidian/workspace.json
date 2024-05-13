@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/様.md",
+                "file": "PublicBrain/落.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/様.md",
+                "file": "PublicBrain/落.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/様.md",
+                "file": "PublicBrain/落.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/様.md"
+                "file": "PublicBrain/落.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/落.md",
     "PublicBrain/様.md",
     "陽.md",
     "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API ⚫①.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
-    "PublicBrain/Qué es una API (IDRA-EBay) 🔴②.md",
     "PublicBrain/_resources/Rol Administración Negocios",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",

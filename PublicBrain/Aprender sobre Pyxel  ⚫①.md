@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: 
 a11y: 0
 checked: 0
 lang: ES
@@ -8,13 +8,13 @@ translations:
 created: 2024-04-06T23:48:58.586Z
 modified: 2024-05-08T19:13:13.736Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 2
 ver_rev: 27
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre Pyxel  ⚫①
 
@@ -30,7 +30,7 @@ tags: []
 
 - [[Estructura básica de un juego en Pyxel 🔴②]]
 - [[Creación de la ventana del juego en Pyxel 🔴②]]
-- [[Conceptos de dibujo y gráficos en Pyxel]] ⬛
+- [[Conceptos de dibujo y gráficos en Pyxel 🔴②]]
 - [[Manejo de eventos de entrada del usuario]] ⬛
 
 ## Elementos Gráficos en Pyxel

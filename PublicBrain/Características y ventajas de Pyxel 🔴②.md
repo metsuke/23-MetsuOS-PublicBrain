@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.940Z
-modified: 2024-05-04T06:47:03.406Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-13T20:10:04.585Z
+supervisado: 2024-05-04T06:47:03.406Z
+ACCION: 
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 7
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Características y ventajas de Pyxel 🔴②
 
@@ -44,12 +47,12 @@ Pyxel es compatible con Pyxel Edit, una herramienta de creación de arte pixelad
 
 En resumen, Pyxel es una herramienta recomendada para aquellos que buscan una herramienta especializada en la creación de arte pixelado con una interfaz intuitiva y herramientas diseñadas específicamente para ese propósito.
 
-**Referencias bibliográficas**
+## Referencias bibliográficas
 
 - Pyxel. (s.f.). Características de Pyxel. Recuperado de <https://www.pyxel.com/characteristics>
 - Pixel Art. (s.f.). Historia del arte pixelado. Recuperado de <https://www.pixelart.com/history>
 
-**Referencias que refutan el contenido**
+## Referencias que refutan el contenido
 
 - Gamasutra. (2019). The Evolution of Pixel Art. Recuperado de <https://www.gamasutra.com/view/feature/131454/the_evolution_of_pixel_art.php>
 - Game Developer. (2020). The Decline of Pixel Art. Recuperado de <https://www.gamedev.net/articles/design-and-game-design/art-and-graphics/the-decline-of-pixel-art-r3516/>

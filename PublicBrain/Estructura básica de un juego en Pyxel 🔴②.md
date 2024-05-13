@@ -1,20 +1,20 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.185Z
-modified: 2024-05-05T18:57:48.470Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-13T20:10:04.556Z
+supervisado: 2024-05-05T18:57:48.470Z
+ACCION: 
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 6
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Estructura básica de un juego en Pyxel 🔴②
 
@@ -106,12 +106,12 @@ def actualizar():
 
 Estos son los componentes básicos de la estructura de un juego en Pyxel. A partir de aquí, puedes agregar más funcionalidades, como la gestión de colisiones, la reproducción de sonidos, la implementación de menús, etc., para crear un juego completo y divertido.
 
-**Referencias bibliográficas**
+## Referencias bibliográficas
 
 - Pyxel Documentation: [https://pyxel.org/docs/](https://pyxel.org/docs/)
 - Pyxel Tutorials: [https://pyxel.org/tutorials/](https://pyxel.org/tutorials/)
 
-**Referencias que refutan este contenido**
+## Referencias que refutan este contenido
 
 - No se encontraron referencias que refuten este contenido.
 

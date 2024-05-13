@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.197Z
-modified: 2024-05-05T19:51:19.529Z
+modified: 2024-05-13T20:58:46.681Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 76
+ver_rev: 77
 nav_primary: 
 nav_secondary: 
 tags:
@@ -115,8 +115,8 @@ Un cuaderno de apuntes absolutamente caótico, pero necesario.
 
 ### IA
 
-* [[IA Tools Database]]
-* [[IA Simular Comportamiento Humano]]
+* [[IA Tools Database ⚫①]]
+* [[IA Simular Comportamiento Humano ⚫①]]
 
 ### Javascript
 

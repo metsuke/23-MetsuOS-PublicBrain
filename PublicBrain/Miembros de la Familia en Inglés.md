@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.192Z
-modified: 2024-04-14T14:29:03.362Z
+modified: 2024-05-13T20:57:56.231Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -39,7 +39,7 @@ Lista de los miembros de la familia en [[inglés]]:
 - [[Nephew]]: Sobrino
 - [[Niece]]: Sobrina
 - [[Cousin]]: Primo/prima
-- [[Husband]]: Esposo
+- [[Husband ⚫①]]: Esposo
 - [[Wife]]: Esposa
 - [[Spouse]]: Cónyuge
 - [[In-laws]]: Suegros

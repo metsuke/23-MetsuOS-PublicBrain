@@ -26,7 +26,7 @@ tags:
 ## Introducción a la Gestión de Tareas
 
 - [[Qué es la gestión de tareas]]
-- [[Importancia de la gestión de tareas en la vida cotidiana y en el trabajo]]
+- [[Importancia de la gestión de tareas en la vida cotidiana y en el trabajo ⚫①]]
 
 ## Métodos Tradicionales de Gestión de Tareas
 

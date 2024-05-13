@@ -1,5 +1,5 @@
 ---
-iaStatus: 0
+iaStatus: 1
 iaStatus_Model: ""
 a11y: 0
 checked: 0
@@ -12,11 +12,11 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 27
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# IA Tools Database
+# IA Tools Database ⚫①
 
 [[PublicBrain/Index]]
 

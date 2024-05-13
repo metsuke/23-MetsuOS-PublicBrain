@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.673Z
-modified: 2024-04-14T14:29:03.253Z
+modified: 2024-05-13T20:58:14.592Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -24,7 +24,7 @@ Es importante conocer algunas expresiones de saludo y presentación básicas par
 
 **Saludos:**
 
-1. "[[Hola]]" - Saludo común que significa "hello" en inglés.
+1. "[[Hola ⚫①]]" - Saludo común que significa "hello" en inglés.
 2. "Buenos días" - Significa "good morning" y se utiliza por la mañana.
 3. "Buenas tardes" - Significa "good afternoon" y se utiliza a partir del mediodía.
 4. "Buenas noches" - Significa "good evening" o "good night" y se utiliza al final del día.

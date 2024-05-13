@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-13T20:55:54.190Z
+modified: 2024-05-13T20:58:34.681Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Planificar actividades de ocio (A1-EN) ⚫①
 
 [[A1-EN ⚫①]]

@@ -27,7 +27,7 @@ tags:
 
 * [[¿Qué es la Accesibilidad?]]
 	* [[Definición y concepto de accesibilidad]]
-	* [[Importancia de la accesibilidad para todas las personas]]
+	* [[Importancia de la accesibilidad para todas las personas ⚫①]]
 * Leyes y Normativas
 	* [[Visión general de leyes y regulaciones sobre accesibilidad]]
 	* [[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas]]

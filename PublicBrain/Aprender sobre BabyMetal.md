@@ -53,7 +53,7 @@ En resumen, BABYMETAL es un grupo musical japonés que fusiona el heavy metal co
 1. "[[BabyMetal Death]]" ([[Letra "BabyMetal Death"]]) <-- Work Pointer
 2. "[[Megitsune]]"[[BabyMetal Death]]
 3. "[[Gimme Chocolate!!]]" 
-4. "[[Iine!]]"
+4. "[[Iine! ⚫①]]"
 5. "[[Akatsuki]]"
 6. "[[Doki Doki Morning]]"  
 7. "[[Onedari Daisakusen]]"
@@ -62,7 +62,7 @@ En resumen, BABYMETAL es un grupo musical japonés que fusiona el heavy metal co
 10. "[[Catch Me If You Can]]"
 11. "[[Rondo of Nightmare]]"
 12. "[[Headbangeeeeerrrrr!!!!!]]"
-13. "[[Ijime, Dame, Zettai]]"
+13. "[[Ijime, Dame, Zettai ⚫①]]"
 		
 ### Álbum: "Metal Resistance" (2016)
   

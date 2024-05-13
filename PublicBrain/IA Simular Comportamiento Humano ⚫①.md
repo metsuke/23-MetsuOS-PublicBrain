@@ -1,22 +1,22 @@
 ---
-iaStatus: 0
+iaStatus: 1
 iaStatus_Model: ""
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.574Z
-modified: 2024-04-14T14:29:03.579Z
+modified: 2024-05-13T20:58:46.713Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# IA Simular Comportamiento Humano
+# IA Simular Comportamiento Humano ⚫①
 
 Estudio innovador de [#iA](https://mastodon.metsuke.com/tags/iA) de Stanford.
 

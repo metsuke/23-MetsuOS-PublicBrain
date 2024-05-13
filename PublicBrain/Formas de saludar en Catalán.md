@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.390Z
-modified: 2024-04-27T14:47:12.286Z
+modified: 2024-05-13T20:58:14.520Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 En [[catalán]], existen diferentes formas de saludar que pueden variar según el momento del día y la situación social. Aquí te presento algunas de las formas más comunes de saludar en catalán:
 
--   "[[Hola]]": Esta es una de las formas más comunes y sencillas de saludar en catalán. Se puede usar en cualquier momento del día y es adecuada en situaciones formales e informales.
+-   "[[Hola ⚫①]]": Esta es una de las formas más comunes y sencillas de saludar en catalán. Se puede usar en cualquier momento del día y es adecuada en situaciones formales e informales.
     
 -   "[[Bona nit]]": Esta expresión se utiliza para desear una buena noche, y se usa generalmente al despedirse de alguien al final del día.
     

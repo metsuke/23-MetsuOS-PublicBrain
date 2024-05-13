@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.397Z
-modified: 2024-04-27T14:52:46.312Z
+modified: 2024-05-13T20:58:14.568Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Formas de saludar en [[Español]]
-1.  "[[Hola]]": es una forma casual y amigable de saludar a alguien. Es la forma más común y se usa en la mayoría de las situaciones informales.
+1.  "[[Hola ⚫①]]": es una forma casual y amigable de saludar a alguien. Es la forma más común y se usa en la mayoría de las situaciones informales.
     
 2.  "Buenos días": se utiliza para saludar a alguien por la mañana. Es una forma más formal que "hola" y es común en situaciones más profesionales.
     

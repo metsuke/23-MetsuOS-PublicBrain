@@ -1,5 +1,5 @@
 ---
-iaStatus: 0
+iaStatus: 3
 iaStatus_Model: ""
 a11y: 0
 checked: 0
@@ -12,11 +12,11 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Importancia de la accesibilidad para todas las personas
+# Importancia de la accesibilidad para todas las personas ⚫①
 
 [[Aprender sobre Accesibilidad]]
 

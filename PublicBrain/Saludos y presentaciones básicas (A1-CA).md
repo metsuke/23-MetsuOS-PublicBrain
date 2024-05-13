@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.672Z
-modified: 2024-04-14T14:29:03.253Z
+modified: 2024-05-13T20:58:14.578Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -22,7 +22,7 @@ tags: []
 
 ## Saludos:
 
-1. **[[Hola]]**: Es la forma más común de saludar y se traduce como "hola" en español. Se utiliza en la mayoría de las situaciones.
+1. **[[Hola ⚫①]]**: Es la forma más común de saludar y se traduce como "hola" en español. Se utiliza en la mayoría de las situaciones.
     
 2. **[[Bon dia]]**: Significa "buenos días." Se utiliza en la mañana para saludar.
     

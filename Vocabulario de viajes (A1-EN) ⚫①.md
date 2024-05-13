@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-13T20:54:05.426Z
+modified: 2024-05-13T20:58:34.667Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Vocabulario de viajes (A1-EN) ⚫①
 
 [[A1-EN ⚫①]]

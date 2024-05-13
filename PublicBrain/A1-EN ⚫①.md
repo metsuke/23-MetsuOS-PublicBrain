@@ -62,7 +62,7 @@ tags:
 
 ## Módulo 6: Viajes y Transporte
 
-6.1. Vocabulario de viajes.
+6.1. [[Vocabulario de viajes (A1-EN) ⚫①]]
 6.2. [[Comprar boletos y reservar alojamiento (A1-EN) ⚫①]]
 6.3. En el aeropuerto y la estación de tren.
 6.4. Direcciones y transporte público.

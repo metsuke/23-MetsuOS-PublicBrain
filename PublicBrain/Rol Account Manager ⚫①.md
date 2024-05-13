@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "H"
-iaStatus_Supervisado: "-"
+iaStatus_Generado: H
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: ""
 a11y: 0
@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.652Z
-modified: 2024-05-13T19:35:15.377Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-13T21:04:54.843Z
+supervisado: 2024-05-13T19:35:15.377Z
+ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 56
+ver_rev: 57
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Rol Account Manager
+# Rol Account Manager ⚫①
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
 	* [[Glosario de Marketing Digital ⚫①]]

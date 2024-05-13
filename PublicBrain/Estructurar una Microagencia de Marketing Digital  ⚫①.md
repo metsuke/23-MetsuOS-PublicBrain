@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-05-13T19:38:36.272Z
+modified: 2024-05-13T21:04:44.505Z
 supervisado: 2024-04-14T14:29:03.798Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 114
+ver_rev: 115
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,9 +34,9 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 		:MicroagenciaPublicidad::GetStructure]}
 
 * [[Rol Gestión Empresarial|Gestión Empresarial]]
-	* [[PublicBrain/Rol Comercial|Comercial]]
+	* [[Rol Comercial ⚫①|Comercial]]
 	* [[Rol Administración Negocios|Administración]]
-	* [[Rol Account Manager|Account Manager]]
+	* [[Rol Account Manager ⚫①|Account Manager]]
 		* [[Rol Project Manager|Project Manager]]
 			* [[Departamento Marketing (Microagencia Marketing Digital)|Marketing]]
 				* [[Rol Experto en Embudos de Venta|Expertos en Embudos de ventas]]

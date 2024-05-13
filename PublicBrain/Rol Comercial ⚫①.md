@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "H"
-iaStatus_Supervisado: "-"
+iaStatus_Generado: H
+iaStatus_Supervisado: S
 iaStatus_Validado: "-"
 iaStatus_Model: ""
 a11y: 0
@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.653Z
-modified: 2024-05-13T18:26:33.221Z
-supervisado: 2024-04-18T03:43:42.848Z
+modified: 2024-05-13T21:04:54.841Z
+supervisado: 2024-05-13T18:26:33.221Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 57
+ver_rev: 58
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Rol Comercial
+# Rol Comercial ⚫①
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
 	* [[Glosario de Marketing Digital ⚫①]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "PublicBrain/欠.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "PublicBrain/欠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "PublicBrain/欠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md"
+                "file": "PublicBrain/欠.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
+    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/欠.md",
     "PublicBrain/Kanji - Grado 3.md",
     "PublicBrain/旗.md",
     "PublicBrain/和.md",
@@ -175,7 +177,6 @@
     "PublicBrain/緑.md",
     "PublicBrain/両.md",
     "PublicBrain/旅.md",
-    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
     "PublicBrain/流.md",
     "PublicBrain/落.md",
     "PublicBrain/様.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/Aprender sobre PixiJS ⚫①.md",
     "PublicBrain/Carga y gestión de imágenes y texturas (PixiJS) 🔴②.md",
-    "PublicBrain/Dibujando formas básicas y gráficos (PixiJS) 🔴②.md",
     "PublicBrain/_resources/Rol Administración Negocios",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",

@@ -51,7 +51,7 @@ tags:
 - Ir de compras y negociar precios
 - Planificar un viaje y comprar boletos
 - Dar direcciones y tomar un taxi
-- Pedir comida en un restaurante
+- [[Pedir comida en un restaurante (HSK1-ZH) ⚫①]]
 
 ## Módulo 5: Tiempo Libre y Pasatiempos
 

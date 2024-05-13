@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T00:19:29.895Z
-modified: 2024-05-05T13:51:11.738Z
+modified: 2024-05-13T19:38:13.261Z
 supervisado: 2024-04-16T21:49:53.049Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
@@ -72,4 +72,6 @@ tags:
 * [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
 
-{{MOS::Templates::Platzi_Referal}}
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:59.622Z
 modified: 2024-05-06T19:14:51.319Z
 supervisado: 2024-04-29T09:10:47.538Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 8

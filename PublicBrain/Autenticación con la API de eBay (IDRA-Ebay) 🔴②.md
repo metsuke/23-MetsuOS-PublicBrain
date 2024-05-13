@@ -1,22 +1,22 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.669Z
-modified: 2024-05-11T20:58:56.515Z
+modified: 2024-05-13T19:41:57.759Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 8
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Autenticación con la API de eBay (IDRA-Ebay) ⚫①
+# Autenticación con la API de eBay (IDRA-Ebay) 🔴②
 
 [[Interacción Digital Remota mediante API con EBay ⚫①]]
 
@@ -52,4 +52,6 @@ Es importante recordar que el token de acceso tiene una vigencia limitada, por l
 - No se encontraron referencias que refuten el contenido presentado.
 
 Nota: Es importante mencionar que el contenido presentado es una guía general y que es recomendable consultar la documentación oficial de eBay para obtener información actualizada y precisa sobre la autenticación con la API de eBay.
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
 

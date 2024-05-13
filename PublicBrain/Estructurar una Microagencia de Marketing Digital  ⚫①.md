@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-05-07T19:49:30.257Z
+modified: 2024-05-13T19:38:36.272Z
 supervisado: 2024-04-14T14:29:03.798Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 113
+ver_rev: 114
 nav_primary: 
 nav_secondary: 
 tags:
@@ -80,7 +80,7 @@ graph TD
 ```
 
 
-{{MOS::Templates::Platzi_Referal}}
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
 
 ## Log
 

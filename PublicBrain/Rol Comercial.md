@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.653Z
-modified: 2024-05-05T13:51:27.996Z
+modified: 2024-05-13T18:26:33.221Z
 supervisado: 2024-04-18T03:43:42.848Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 56
+ver_rev: 57
 nav_primary: 
 nav_secondary: 
 tags:
@@ -75,8 +75,10 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 * [Escuela de Marketing Digital](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
 
-{{MOS::Templates::Platzi_Referal}}
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
 
 ## Glosario
 
 * [[Lead (Marketing Digital) ⚫①]]
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

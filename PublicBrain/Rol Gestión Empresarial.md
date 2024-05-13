@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.654Z
-modified: 2024-05-08T06:12:17.391Z
+modified: 2024-05-13T18:26:01.640Z
 supervisado: 2024-04-14T14:29:03.268Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 14
+ver_rev: 15
 nav_primary: 
 nav_secondary: 
 tags:
@@ -55,4 +55,6 @@ Este rol se encarga de entender bien necesidades de los [[Cliente (Marketing Dig
 * [Escuela de Negocios](https://platzi.com/escuela/negocios/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
 
-{{MOS::Templates::Platzi_Referal}}
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

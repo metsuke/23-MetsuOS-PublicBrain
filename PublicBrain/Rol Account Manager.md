@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.652Z
-modified: 2024-05-05T13:51:11.495Z
+modified: 2024-05-13T19:35:15.377Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 55
+ver_rev: 56
 nav_primary: 
 nav_secondary: 
 tags:
@@ -94,4 +94,6 @@ Este rol se encarga de mantener a todos los clientes con una sonrisa
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
 * [Escuela de Startups](https://platzi.com/escuela/startups/)
 
-{{MOS::Templates::Platzi_Referal}}
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

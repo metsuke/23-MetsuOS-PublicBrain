@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.655Z
-modified: 2024-05-05T13:51:11.867Z
+modified: 2024-05-13T19:36:19.911Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 12
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -82,4 +82,6 @@ Este rol responde a la necesidad de coordinar y asegurarse del buen desarrollo d
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
 * [Escuela de Startups](https://platzi.com/escuela/startups/)
 
-{{MOS::Templates::Platzi_Referal}}
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

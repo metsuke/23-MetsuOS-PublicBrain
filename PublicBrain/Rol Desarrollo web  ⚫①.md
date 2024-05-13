@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-04T19:26:13.399Z
-modified: 2024-05-05T13:52:33.815Z
+modified: 2024-05-13T18:18:54.662Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -79,6 +79,6 @@ tags: []
 * [Escuela Programación y Software](https://platzi.com/escuela/programacion-software/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
 
-{{MOS::Templates::Platzi_Referal}}
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
 
 [[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥

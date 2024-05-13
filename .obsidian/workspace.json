@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md"
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md"
               }
             }
           },
@@ -165,32 +165,33 @@
   },
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
-    "PublicBrain/Qué es PixiJS y su historia 🔴②.md",
-    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
-    "PublicBrain/Configuración del entorno de desarrollo (PixiJS)  🔴②.md",
-    "PublicBrain/Dibujando formas básicas y gráficos (PixiJS) 🔴②.md",
-    "PublicBrain/Objetivos de aprendizaje (Estudio pensamiento y filosofía de una persona) 🔴②.md",
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
-    "PublicBrain/Aprender con Pablo Grueso.md",
-    "PublicBrain/Historia y evolución de las redes neuronales 🔴②.md",
-    "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
-    "PublicBrain/Beneficios de hacer videojuegos accesibles 🔴②.md",
-    "PublicBrain/Requisitos de orientación.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos ⚫①.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md",
-    "PublicBrain/Beneficios de la accesibilidad en E-Learning para usuarios con discapacidad 🔴②.md",
-    "PublicBrain/WCAG 2.1.md",
-    "Requisitos de orientación.md",
-    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Qué es una API (IDRA-EBay) 🔴②.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
-    "PublicBrain/Autenticación con la API de eBay (IDRA-Ebay) ⚫①.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial ⚫①.md",
-    "PublicBrain/Proyectos prácticos en IA ⚫①.md",
-    "PublicBrain/Comunidades en línea y foros sobre IA ⚫①.md",
-    "Proyectos prácticos en IA ⚫①.md",
-    "Comunidades en línea y foros sobre IA ⚫①.md",
-    "PublicBrain/Regulaciones y directrices éticas en Inteligencia Artificial ⚫①.md",
+    "PublicBrain/Importancia de las APIs en el desarrollo de software (IDRA-Ebay) 🔴②.md",
+    "PublicBrain/Introducción a eBay y su API (IDRA-Ebay) 🔴②.md",
+    "PublicBrain/Beneficios de utilizar la API de eBay (IDRA-Ebay) 🔴②.md",
+    "PublicBrain/Registro como desarrollador en eBay (IDRA-Ebay) 🔴②.md",
+    "PublicBrain/Obtención de credenciales de API (IDRA-Ebay) 🔴②.md",
+    "PublicBrain/Autenticación con la API de eBay (IDRA-Ebay) 🔴②.md",
+    "PublicBrain/Documentación de la API de eBay y recursos de ayuda (IDRA-Ebay) 🔴②.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
+    "PublicBrain/Rol Redacción publicitaria.md",
+    "PublicBrain/Rol Desarrollo web  ⚫①.md",
+    "PublicBrain/Rol Diseño Gráfico.md",
+    "PublicBrain/Departamento Creativo (Microagencia Marketing Digital)  ⚫①.md",
+    "PublicBrain/Rol Expertos en SEO.md",
+    "PublicBrain/Rol Expertos en PPC.md",
+    "PublicBrain/Rol Experto en EMail Marketing.md",
+    "PublicBrain/Rol Experto en Embudos de Venta.md",
+    "PublicBrain/Departamento Marketing (Microagencia Marketing Digital).md",
+    "PublicBrain/Rol Project Manager.md",
+    "PublicBrain/Rol Account Manager.md",
+    "PublicBrain/Rol Administración Negocios.md",
+    "PublicBrain/Rol Comercial.md",
+    "PublicBrain/Rol Gestión Empresarial.md",
+    "PublicBrain/_resources/Rol Administración Negocios",
+    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",
@@ -211,7 +212,6 @@
     "PublicBrain/Untitled.canvas",
     "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "PublicBrain/Importancia del almacenamiento en sistemas informáticos (HWLibre",
-    "PublicBrain/Definición de almacenamiento (HWLibre",
     "Untitled.canvas"
   ]
 }

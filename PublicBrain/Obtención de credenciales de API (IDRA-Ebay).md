@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.551Z
-modified: 2024-05-11T20:58:56.643Z
+modified: 2024-05-13T19:41:57.996Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 76
+ver_rev: 77
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,8 +34,8 @@ tags:
 
 - [[Registro como desarrollador en eBay (IDRA-Ebay) 🔴②]]
 - [[Obtención de credenciales de API (IDRA-Ebay) 🔴②]]
-- [[Autenticación con la API de eBay (IDRA-Ebay) ⚫①]] ⬛
-- [[Documentación de la API de eBay y recursos de ayuda (IDRA-Ebay)]] ⬛
+- [[Autenticación con la API de eBay (IDRA-Ebay) 🔴②]] ⬛
+- [[Documentación de la API de eBay y recursos de ayuda (IDRA-Ebay) 🔴②]] ⬛
 
 ## Exploración de los Endpoints Principales
 

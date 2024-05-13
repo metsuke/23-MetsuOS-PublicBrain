@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T04:33:17.264Z
-modified: 2024-05-05T13:51:11.418Z
+modified: 2024-05-13T19:36:42.566Z
 supervisado: 2024-04-14T00:19:45.989Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 14
+ver_rev: 15
 nav_primary: 
 nav_secondary: 
 tags:
@@ -92,5 +92,7 @@ graph TD
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
 
-{{MOS::Templates::Platzi_Referal}}
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+
+[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
 

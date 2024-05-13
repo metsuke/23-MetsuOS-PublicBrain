@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/礼.md",
+                "file": "PublicBrain/列.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/礼.md",
+                "file": "PublicBrain/列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/礼.md",
+                "file": "PublicBrain/列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/礼.md"
+                "file": "PublicBrain/列.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 3.md",
+    "PublicBrain/列.md",
     "PublicBrain/礼.md",
     "PublicBrain/緑.md",
     "PublicBrain/両.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Configuración del entorno de desarrollo (PixiJS)  🔴②.md",
     "PublicBrain/Qué es PixiJS y su historia 🔴②.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Altas Capacidades ⚫①.md",
     "PublicBrain/_resources/Rol Administración Negocios",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",

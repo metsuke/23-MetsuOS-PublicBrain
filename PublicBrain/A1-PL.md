@@ -23,4 +23,4 @@ tags:
 
 [[Aprender Idioma Polaco]]
 
-<-- [[C2-PL]] | [[A2-PL]] -->
+<-- [[C2-PL]] | [[A2-PL ⚫①]] -->

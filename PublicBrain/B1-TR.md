@@ -23,4 +23,4 @@ tags:
 
 [[Aprender Idioma Turco]]
 
-<-- [[A2-TR]] | [[B2-TR]] -->
+<-- [[A2-TR ⚫①]] | [[B2-TR]] -->

@@ -23,4 +23,4 @@ tags:
 
 [[Aprender Idioma Italiano]]
 
-<-- [[A2-IT]] | [[B2-IT]] -->
+<-- [[A2-IT ⚫①]] | [[B2-IT]] -->

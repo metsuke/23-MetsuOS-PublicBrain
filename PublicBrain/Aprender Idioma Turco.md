@@ -25,7 +25,7 @@ tags:
 
 * TR | [[Turco]]
 	* [[Niveles Oficiales TR]]
-		* [[A1-TR]] | [[A2-TR]]
+		* [[A1-TR]] | [[A2-TR ⚫①]]
 		* [[B1-TR]] | [[B2-TR]]
 		* [[C1-TR]] | [[C2-TR]]
 	* Niveles y Exámenes Adicionales TR

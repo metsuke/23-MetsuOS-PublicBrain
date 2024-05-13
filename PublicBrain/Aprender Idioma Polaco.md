@@ -25,7 +25,7 @@ tags:
 
   * PL | [[Polaco]]
 	* [[Niveles Oficiales PL]]
-		* [[A1-PL]] | [[A2-PL]]
+		* [[A1-PL]] | [[A2-PL ⚫①]]
 		* [[B1-PL]] | [[B2-PL]]
 		* [[C1-PL]] | [[C2-PL]]
 	* Niveles y Exámenes Adicionales PL

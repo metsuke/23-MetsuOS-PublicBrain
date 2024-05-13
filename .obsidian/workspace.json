@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/札.md",
+                "file": "PublicBrain/氏.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/札.md",
+                "file": "PublicBrain/氏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/札.md",
+                "file": "PublicBrain/氏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/札.md"
+                "file": "PublicBrain/氏.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "adc73f56e695274f",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/氏.md",
     "PublicBrain/札.md",
     "PublicBrain/材.md",
     "PublicBrain/欠.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Instalación y configuración del entorno de desarrollo 🔴②.md",
     "PublicBrain/Características y ventajas de Pyxel 🔴②.md",
     "PublicBrain/¿Qué es Pyxel?  🔴②.md",
-    "PublicBrain/Aprender sobre Programación.md",
     "PublicBrain/_resources/Rol Administración Negocios",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",

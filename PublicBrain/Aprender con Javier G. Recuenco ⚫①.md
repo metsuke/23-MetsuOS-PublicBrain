@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.505Z
-modified: 2024-05-13T20:56:57.498Z
+modified: 2024-05-14T14:11:37.855Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 80
+ver_rev: 82
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender con Javier G. Recuenco
+# Aprender con Javier G. Recuenco ⚫①
 
-[[PublicBrain/Index]] | [[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender con G-L ⚫①]] | [[Aprender sobre CPS (Complex Problem Solving)]]
 
 * [Javier G. Recuenco | LinkedIn](https://www.linkedin.com/in/javier-g-recuenco-70a708/?originalSubdomain=es)
 
@@ -29,7 +29,7 @@ En este proyecto tomo los "hilos turra" de [Javier G. Recuenco](https://www.link
 
 ## WIP
 
-* [[Visión del CPS de Javier G. Recuenco]]
+* [[Visión del CPS de Javier G. Recuenco ⚫①]]
 * [[Visión del concepto de Relato de Havier G. Recuenco ⚫①]]
 
 ## Review

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.920Z
-modified: 2024-05-13T20:56:57.329Z
+modified: 2024-05-14T06:20:41.065Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 53
+ver_rev: 54
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Visión del concepto de Relato de Havier G. Recuenco ⚫①
 	# Visión del concepto de Relato de Javier G. Recuenco
 
-[[Aprender con Javier G. Recuenco]]
+[[Aprender con Javier G. Recuenco ⚫①]]
 
 "l relato es fundamental porque nunca hay tiempo ni recursos suficientes para saber la verdad hasta mucho después de que la validez del relato haya caducado. El farsante sabe que su tiempo es limitado, por eso se dedica a rapiñar todo lo que puede a toda prisa." (fuente: https://twitter.com/Recuenco/status/1560191242662805505)
 

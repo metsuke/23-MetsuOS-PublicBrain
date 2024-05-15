@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.026Z
-modified: 2024-04-17T20:36:41.786Z
+modified: 2024-05-14T06:20:40.874Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Comunicación
 
-[[Aprender con Javier G. Recuenco]]
+[[Aprender con Javier G. Recuenco ⚫①]]
 
 La comunicación es un proceso fundamental en la interacción humana que implica el intercambio de información, ideas, emociones y significados entre dos o más personas. Es una capacidad esencial que nos permite compartir y comprender el mundo que nos rodea, establecer relaciones, transmitir conocimientos, expresar nuestras necesidades y sentimientos, y colaborar con otros.
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-05-13T19:54:59.490Z
+modified: 2024-05-14T06:29:54.935Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 113
+ver_rev: 114
 nav_primary: 
 nav_secondary: 
 tags:
@@ -47,9 +47,9 @@ No estoy de acuerdo con todo lo que dicen todos, mas todos ellos aportan una vis
 
 * [[Aprender con A-C]]
 * [[Aprender con D-F]]
-* [[Aprender con G-L]]
+* [[Aprender con G-L ⚫①]]
 * [[Aprender con M-P]]
-* [[Aprender con Q-Z]]
+* [[Aprender con Q-Z ⚫①]]
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -112,10 +112,10 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre Accesibilidad]]
 	* [[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
 	* Aprender sobre 
-		* [[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas]] ⬛
-		* ([[WCAG 2.0]] ⬛ | [[WCAG 2.1]]⬛)
-	* [[Aprender sobre Accesibilidad en ELearining ⚫①]] ⬛
-	* [[Aprender sobre Accesibilidad en Videojuegos ⚫①]] ⬛
+		* [[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas]]
+		* ([[WCAG 2.0]] | [[WCAG 2.1]])
+	* [[Aprender sobre Accesibilidad en ELearining ⚫①]]
+	* [[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 * [[Aprender sobre Altas Capacidades ⚫①]]
 
 ### Productividad
@@ -157,4 +157,4 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)]]
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

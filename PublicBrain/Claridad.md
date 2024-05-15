@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.010Z
-modified: 2024-04-16T11:23:24.694Z
+modified: 2024-05-14T06:20:40.848Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Claridad
 
-[[Aprender con Javier G. Recuenco]]
+[[Aprender con Javier G. Recuenco ⚫①]]
 
 En el contexto de la comunicación y el diseño de interfaces, se refiere a la cualidad de un mensaje o una interfaz de ser claro, comprensible y fácil de entender para los usuarios. Es la capacidad de transmitir información de manera efectiva, minimizando la ambigüedad, la confusión y la posibilidad de interpretaciones erróneas.
 

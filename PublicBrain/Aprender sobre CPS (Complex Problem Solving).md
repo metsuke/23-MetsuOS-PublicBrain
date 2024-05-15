@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.530Z
-modified: 2024-05-08T19:13:13.753Z
+modified: 2024-05-14T06:22:29.837Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 79
+ver_rev: 80
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,7 @@ tags:
 - [[¿Qué es Complex Problem Solving?]]
 - [[Importancia y aplicaciones de CPS en diversos campos]]
 - [[Lo primero, otras perspectivas sobre CPS]]
-	- [[Visión del CPS de Javier G. Recuenco]]
+	- [[Visión del CPS de Javier G. Recuenco ⚫①]]
 - [[Enfoque histórico y evolución de la resolución de problemas complejos]]
 
 ### Teorías y Modelos de Resolución de Problemas

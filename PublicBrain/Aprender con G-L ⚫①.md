@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.503Z
-modified: 2024-05-05T12:56:40.012Z
+modified: 2024-05-14T06:20:40.793Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 57
+ver_rev: 58
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender con G-L
+# Aprender con G-L ⚫①
 
 [[PublicBrain/Index|Index]]
 
@@ -31,7 +31,7 @@ tags:
 * Aprender con Iker Jiménez
 * Aprender con Isaac Asimov
 * Aprender con Jackes Cousteau
-* [[Aprender con Javier G. Recuenco]]
+* [[Aprender con Javier G. Recuenco ⚫①]]
 * Aprender con Jéssica Arribas Arranz
 * Aprender con Joaquín Sánchez Aguilar
 * Aprender con Jon Sistiaga

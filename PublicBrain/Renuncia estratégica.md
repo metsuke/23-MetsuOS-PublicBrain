@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.645Z
-modified: 2024-04-14T14:29:03.277Z
+modified: 2024-05-14T06:20:40.959Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Renuncia estratégica
 
-[[Aprender con Javier G. Recuenco]]
+[[Aprender con Javier G. Recuenco ⚫①]]
 
 La "renuncia estratégica" es un concepto utilizado en diferentes contextos, como el ámbito empresarial o el liderazgo, para describir el acto de renunciar a algo de manera planificada y deliberada con el fin de lograr un objetivo o beneficiarse a largo plazo.
 

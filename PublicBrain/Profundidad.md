@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.615Z
-modified: 2024-04-14T14:29:03.293Z
+modified: 2024-05-14T06:20:40.911Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Profundidad
 
-[[Aprender con Javier G. Recuenco]]
+[[Aprender con Javier G. Recuenco ⚫①]]
   
 La profundidad es un concepto que puede aplicarse en diferentes contextos y tiene múltiples significados dependiendo del contexto en el que se utilice. Aquí te presentaré algunos ejemplos de cómo se puede entender la profundidad en diferentes ámbitos:
 

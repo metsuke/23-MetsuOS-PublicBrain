@@ -91,5 +91,5 @@ tags:
 - [[Reflexión sobre el aprendizaje y la aplicación práctica IDRA-Ebay]] ⬛
 - [[Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay (IDRA-Ebay)]] ⬛
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
 

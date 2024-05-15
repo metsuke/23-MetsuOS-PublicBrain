@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.508Z
-modified: 2024-05-05T12:56:40.157Z
+modified: 2024-05-14T06:25:03.701Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 58
+ver_rev: 59
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender con Q-Z
+# Aprender con Q-Z ⚫①
 
 [[PublicBrain/Index]]
 
@@ -27,6 +27,7 @@ tags:
 * Aprender con Raquel Ubàguls Galán
 * Aprender con Raul Ordoñez (jasp)
 * Aprender con Ricardo Moure
+* [[Aprender con Roberto Vaquero ⚫①]]
 * [[Aprender con Rodrigo Taramona]]
 * Aprender con Roger Antonsen
 * Aprender con Rosa Lencero Guillermo

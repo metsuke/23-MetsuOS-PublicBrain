@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.553Z
-modified: 2024-04-14T14:29:03.328Z
+modified: 2024-05-14T06:20:40.893Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Ofuscación
 
-[[Aprender con Javier G. Recuenco]]
+[[Aprender con Javier G. Recuenco ⚫①]]
 
 La ofuscación es un proceso utilizado en el campo de la programación y la seguridad informática para dificultar la comprensión o el análisis del código fuente de un programa. Consiste en aplicar técnicas de transformación al código fuente con el objetivo de hacerlo más confuso y menos legible para los humanos, mientras se mantiene su funcionalidad para las máquinas.
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.917Z
-modified: 2024-05-11T14:26:31.792Z
+modified: 2024-05-14T06:20:41.030Z
 supervisado: 2024-05-10T19:20:40.025Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 84
+ver_rev: 85
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Visión del CPS de Javier G. Recuenco
+# Visión del CPS de Javier G. Recuenco ⚫①
 
-[[Aprender con Javier G. Recuenco]] | [[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender con Javier G. Recuenco ⚫①]] | [[Aprender sobre CPS (Complex Problem Solving)]]
 
 ---
 * [CPS Notebook (notion.site)](https://cps-notebook.notion.site/CPS-Notebook-81fe17dc15d04e9db085cf7f747d0c16)*

@@ -90,4 +90,4 @@ tags:
 - [[Resumen de los conceptos clave y conclusiones del curso]] ⬛
 - [[Recursos adicionales, lecturas recomendadas y comunidades de apoyo]] ⬛
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

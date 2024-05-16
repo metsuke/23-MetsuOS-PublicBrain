@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T07:50:12.286Z
-modified: 2024-05-13T20:17:53.943Z
-supervisado: 2024-05-03T21:38:10.584Z
+modified: 2024-05-16T19:20:51.327Z
+supervisado: 2024-05-13T20:17:53.943Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -61,4 +61,4 @@ Una vez que hayas terminado tu creación en Pyxel, puedes exportarla en diferent
 
 Nota: Las referencias bibliográficas y las referencias que refutan el contenido son solo ejemplos y no representan una lista exhaustiva de fuentes.
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

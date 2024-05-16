@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:59.075Z
 modified: 2024-05-13T20:17:53.939Z
 supervisado: 2024-05-08T20:11:49.755Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 7
@@ -76,3 +76,5 @@ Al ejecutar este código, deberías ver una ventana de juego con el tamaño espe
 * Reddit. (s.f.). Pyxel Discussion. Recuperado de <https://www.reddit.com/r/gamedev/comments/pyxel_discussion/>
 
 Este formato utiliza diferentes niveles de encabezados jerárquicos para organizar el contenido de manera clara y concisa. ¡Espero que esto te sea útil! Si necesitas más ayuda, ¡no dudes en preguntar!
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

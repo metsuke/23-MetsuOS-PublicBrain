@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.940Z
-modified: 2024-05-13T20:10:04.585Z
-supervisado: 2024-05-04T06:47:03.406Z
+modified: 2024-05-16T19:20:51.333Z
+supervisado: 2024-05-13T20:10:04.585Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -59,4 +59,4 @@ En resumen, Pyxel es una herramienta recomendada para aquellos que buscan una he
 
 *Nota: El contenido original se ha refinado y humanizado para mejorar la legibilidad y la comprensión. Se han agregado secciones de referencia bibliográficas y de referencias que refutan el contenido para proporcionar una visión más completa y equilibrada.*
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

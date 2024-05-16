@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:59.661Z
 modified: 2024-05-13T20:10:04.535Z
 supervisado: 2024-05-06T21:24:31.528Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 8
@@ -57,4 +57,4 @@ tags:
 
 **Nota:** Es importante mencionar que la instalación de Python y Pyxel puede variar dependiendo del sistema operativo y la versión de Python utilizada.
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

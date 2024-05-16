@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md"
               }
             }
           },
@@ -165,6 +165,14 @@
   },
   "active": "0f67456dc9942a87",
   "lastOpenFiles": [
+    "PublicBrain/Características y ventajas de Pyxel 🔴②.md",
+    "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
+    "PublicBrain/Instalación y configuración del entorno de desarrollo 🔴②.md",
+    "PublicBrain/Estructura básica de un juego en Pyxel 🔴②.md",
+    "PublicBrain/Creación de la ventana del juego en Pyxel 🔴②.md",
+    "PublicBrain/Conceptos de dibujo y gráficos en Pyxel 🔴②.md",
+    "PublicBrain/¿Qué es Pyxel?  🔴②.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Carga y gestión de imágenes y texturas (PixiJS) 🔴②.md",
     "PublicBrain/Aprender sobre PixiJS ⚫①.md",
     "PublicBrain/Dibujando formas básicas y gráficos (PixiJS) 🔴②.md",
@@ -183,14 +191,6 @@
     "PublicBrain/Aprender Idioma Japones ⚫①.md",
     "PublicBrain/Hiragana.md",
     "PublicBrain/あ.md",
-    "PublicBrain/Tools Database ⚫①.md",
-    "PublicBrain/Introducción a los principios de la Lectura Fácil ⚫①.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender a preparar embutidos.md",
-    "PublicBrain/Aprender a preparar morcilla negra ⚫①.md",
-    "PublicBrain/Introducción a la Morcilla Negra ⚫①.md",
-    "PublicBrain/Introducción a WCAG 2.1 ⚫①.md",
-    "PublicBrain/WCAG 2.0 ⚫①.md",
     "PublicBrain/_resources/Rol Administración Negocios",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",

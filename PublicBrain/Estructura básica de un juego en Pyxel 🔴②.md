@@ -1,8 +1,8 @@
 ---
 iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:59.185Z
 modified: 2024-05-13T20:10:04.556Z
 supervisado: 2024-05-05T18:57:48.470Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 6
@@ -120,4 +120,4 @@ Estos son los componentes básicos de la estructura de un juego en Pyxel. A part
 
 **Nota**: El contenido presentado es una guía básica para crear un juego en Pyxel. Es importante mencionar que Pyxel es un lenguaje de programación muy potente y flexible, por lo que es posible crear juegos muy complejos y avanzados utilizando esta herramienta.
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

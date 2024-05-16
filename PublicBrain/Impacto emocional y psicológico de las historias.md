@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.590Z
-modified: 2024-04-14T14:29:03.575Z
+modified: 2024-05-15T21:33:24.413Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Impacto emocional y psicológico de las historias
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 El impacto emocional y psicológico de las historias es significativo y profundo. Las historias tienen el poder de evocar una amplia gama de emociones en los individuos, desde la emoción y la empatía hasta el miedo y la tristeza. Esto se debe a que las narraciones conectan con nuestra naturaleza humana más profunda y nos permiten experimentar vicariamente las experiencias de los personajes en la historia.
 

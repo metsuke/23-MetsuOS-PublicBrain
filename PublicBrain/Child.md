@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.995Z
-modified: 2024-04-16T11:23:24.695Z
+modified: 2024-05-15T21:27:55.002Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Child
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"child" es una palabra en [[inglés]] que se utiliza para referirse a un niño o niña, es decir, a una persona que aún no ha alcanzado la edad adulta. El término se aplica generalmente a individuos desde su nacimiento hasta su adolescencia.
+"child" es una palabra en [[Inglés ⚫①]] que se utiliza para referirse a un niño o niña, es decir, a una persona que aún no ha alcanzado la edad adulta. El término se aplica generalmente a individuos desde su nacimiento hasta su adolescencia.
 
 Un "child" es considerado dependiente y está en proceso de crecimiento y desarrollo. La palabra también puede utilizarse de manera más amplia para referirse a cualquier persona joven, sin importar su edad exacta.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.947Z
-modified: 2024-04-14T14:29:03.192Z
+modified: 2024-05-15T21:30:15.286Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Witdrawn
 
-"Withdrawn" es un adjetivo en [[inglés]] que se utiliza para describir a una persona que es reservada, tímida o introvertida. Se refiere a alguien que tiende a mantenerse apartado de los demás, evita el contacto social y muestra una actitud distante o retraída.
+"Withdrawn" es un adjetivo en [[Inglés ⚫①]] que se utiliza para describir a una persona que es reservada, tímida o introvertida. Se refiere a alguien que tiende a mantenerse apartado de los demás, evita el contacto social y muestra una actitud distante o retraída.
 
 Algunos ejemplos de frases con "withdrawn" incluyen:
 

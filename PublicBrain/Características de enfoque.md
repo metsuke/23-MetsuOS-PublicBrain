@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-02T18:35:47.099Z
-modified: 2024-05-02T18:39:29.042Z
+modified: 2024-05-15T21:34:59.145Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Características de enfoque
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 En el contexto de WCAG 2.1 (Web Content Accessibility Guidelines 2.1), las características de enfoque se refieren a la capacidad de los usuarios de navegar y operar un sitio web utilizando únicamente el teclado, sin depender del uso del mouse u otros dispositivos de puntero. Estas características son fundamentales para garantizar la accesibilidad de un sitio web para personas con discapacidades motoras, que pueden tener dificultades para utilizar un mouse o un dispositivo de puntero debido a limitaciones físicas o de destreza.
 

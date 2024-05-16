@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-05T13:56:21.630Z
-modified: 2024-05-05T14:03:37.788Z
+modified: 2024-05-15T21:21:16.493Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de espaciado y formato legible (Lectura Fácil) ⚫①
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 El uso de espaciado y formato legible es fundamental en la creación de textos en Lectura Fácil. A continuación, se presentan algunas consideraciones clave para garantizar un espaciado adecuado y un formato legible:
 

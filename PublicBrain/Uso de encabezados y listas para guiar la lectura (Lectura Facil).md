@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.889Z
-modified: 2024-04-14T14:29:03.221Z
+modified: 2024-05-15T21:21:16.453Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de encabezados y listas para guiar la lectura (Lectura Facil)
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 En el contexto de aprender sobre Lectura Fácil, el uso de encabezados y listas es fundamental para guiar la lectura y mejorar la comprensión de texto para una amplia gama de lectores. Aquí te explico cómo se utilizan estos elementos:
 

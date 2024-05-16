@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.799Z
-modified: 2024-04-14T14:29:03.229Z
+modified: 2024-05-15T21:38:39.811Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Tipos básicos - int, float, char en Lenguaje C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 Por supuesto. Aquí te explico brevemente sobre los tipos de datos básicos en C:
 

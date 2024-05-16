@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.187Z
-modified: 2024-04-24T21:36:41.258Z
+modified: 2024-05-15T21:21:15.321Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Estructura y Organización (Lectura Facil)
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 La estructura y organización en el texto de Lectura Fácil es esencial para facilitar la comprensión de los lectores con dificultades. Algunos aspectos importantes de la estructura y organización en Lectura Fácil son:
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.395Z
-modified: 2024-04-14T14:29:04.081Z
+modified: 2024-05-15T21:34:59.104Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Adaptación de contenido
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 WCAG 2.0:
 La pauta 1.3 de WCAG 2.0 se enfoca en la adaptación de contenido en el contexto de la accesibilidad web.

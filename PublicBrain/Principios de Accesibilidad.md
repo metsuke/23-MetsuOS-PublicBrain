@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.611Z
-modified: 2024-04-14T14:29:03.297Z
+modified: 2024-05-15T21:21:16.431Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Principios de Accesibilidad
 
-[[Aprender sobre Accesibilidad]]] | [[WCAG 2.0]] | [[WCAG 2.1]]
+[[Aprender sobre Accesibilidad ⚫①]]] | [[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 | Principio de Accesibilidad (ES) | Versiones de WCAG | CA        | EN        | JA       |
 |---------------------------|-------------------|----------------|---------------|---------------|
@@ -56,4 +56,4 @@ WCAG 2.0 se basa en cuatro principios fundamentales, conocidos como el acrónimo
 
 A lo largo de esta documentación, exploraremos en detalle cómo aplicar estos principios y cumplir con las directrices de WCAG 2.0 para crear contenido web accesible.
 
-[[Español]]
+[[Español ⚫①]]

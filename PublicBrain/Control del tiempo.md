@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.055Z
-modified: 2024-04-14T14:29:03.853Z
+modified: 2024-05-15T21:34:59.233Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Control del tiempo
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 En el contexto de la accesibilidad web, el control del tiempo es un aspecto crucial que puede afectar la experiencia de los usuarios, especialmente aquellos con discapacidades que pueden requerir más tiempo para procesar la información presentada en una página web. Uno de los elementos clave para controlar el tiempo en el contexto de la accesibilidad web es el uso del elemento <TOKEN>.
 

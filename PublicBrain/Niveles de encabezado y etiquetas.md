@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.461Z
-modified: 2024-04-14T14:29:03.339Z
+modified: 2024-05-15T21:34:59.904Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Niveles de encabezado y etiquetas
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 En el contexto de la accesibilidad web, los niveles de encabezado y etiquetas desempeñan un papel crucial para garantizar que el contenido sea presentado de manera clara y estructurada para todos los usuarios, incluyendo aquellos que utilizan tecnologías de asistencia como lectores de pantalla. 
 

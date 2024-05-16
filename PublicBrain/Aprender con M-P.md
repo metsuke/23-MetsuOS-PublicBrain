@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.506Z
-modified: 2024-05-05T12:56:40.089Z
+modified: 2024-05-16T17:15:01.791Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 56
+ver_rev: 57
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,4 +28,4 @@ tags:
 * Aprender con Operador Nuclear
 * Aprender con Oscar Feito
 * Aprender con Pablo Fuente
-* [[Aprender con Pablo Grueso]]
+* [[Aprender con Pablo Grueso ⚫①]]

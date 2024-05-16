@@ -6,21 +6,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.701Z
-modified: 2024-04-14T14:29:03.243Z
+modified: 2024-05-15T21:27:55.662Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Spouse
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"Spouse" es un sustantivo en [[Inglés]] que se refiere a un esposo o esposa en relación a su pareja en un matrimonio. Es un término de género neutral que abarca a parejas tanto masculinas como femeninas. La palabra "spouse" se usa a menudo en contextos formales o legales para referirse a la pareja casada de una persona, y es una forma respetuosa de denotar la relación matrimonial sin especificar el género.
+"Spouse" es un sustantivo en [[Inglés ⚫①]] que se refiere a un esposo o esposa en relación a su pareja en un matrimonio. Es un término de género neutral que abarca a parejas tanto masculinas como femeninas. La palabra "spouse" se usa a menudo en contextos formales o legales para referirse a la pareja casada de una persona, y es una forma respetuosa de denotar la relación matrimonial sin especificar el género.
 
 Por ejemplo, podrías escuchar o leer frases como:
 

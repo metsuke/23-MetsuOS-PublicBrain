@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.409Z
-modified: 2024-04-29T21:19:39.996Z
+modified: 2024-05-15T21:30:14.063Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Formas de saludar en Ingles
 
-1.  "[[Hello]]": es una forma común y universal de saludar a alguien en [[inglés]]. Es informal y puede usarse en cualquier momento del día.
+1.  "[[Hello]]": es una forma común y universal de saludar a alguien en [[Inglés ⚫①]]. Es informal y puede usarse en cualquier momento del día.
     
 2.  "[[Hi]]": es otra forma informal de saludar a alguien en inglés. Es menos formal que "hello" y se usa principalmente en situaciones informales.
     

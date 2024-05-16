@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T03:36:55.721Z
-modified: 2024-04-14T14:29:03.577Z
+modified: 2024-05-15T21:34:59.463Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Idioma de partes
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 ### WCAG 2.0
 En el contexto de WCAG 2.0, la pauta 8.2 "Idioma de partes" se refiere a la necesidad de identificar claramente el idioma principal de cada sección de contenido dentro de una página web. Esto es fundamental para garantizar que los usuarios, especialmente aquellos que utilizan tecnologías de asistencia, puedan interpretar correctamente el contenido presentado. Al definir el idioma de las partes de una página, se facilita la adaptación y presentación del contenido de manera adecuada.

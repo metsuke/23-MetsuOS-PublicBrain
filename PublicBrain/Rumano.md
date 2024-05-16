@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.657Z
-modified: 2024-05-05T12:56:45.085Z
+modified: 2024-05-15T21:26:58.326Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Rumano
 
-[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas]]
+[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas ⚫①]]
 
 El rumano es un idioma románico que se habla principalmente en Rumania, Moldavia y algunas partes de Ucrania. También es hablado por comunidades de emigrantes rumanos en todo el mundo.
 

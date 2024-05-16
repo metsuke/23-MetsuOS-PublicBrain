@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.336Z
-modified: 2024-04-26T14:26:10.626Z
+modified: 2024-05-15T21:25:37.676Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Exámenes del Instituto de Educación a Distancia de la Universidad de Delhi (DU SOL)
 
-[[Aprender Idioma Hindi]]
+[[Aprender Idioma Hindi ⚫①]]
 
 ## Requisitos Previos
 - Conocimiento sólido de Hindi

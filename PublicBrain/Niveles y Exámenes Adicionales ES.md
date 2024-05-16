@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.476Z
-modified: 2024-04-14T14:29:03.338Z
+modified: 2024-05-15T21:36:00.230Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +20,7 @@ tags: []
 
 [[Aprender Idioma Español]] | [[Niveles Oficiales ES]]
 
-Además de los niveles oficiales basados en el Marco Común Europeo de Referencia para las Lenguas (MCERL), existen exámenes y certificaciones relevantes para evaluar el dominio del idioma [[español]]. Estos exámenes son ampliamente reconocidos y pueden ser beneficiosos para diversos fines, como la educación, la búsqueda de empleo y la migración. Algunos de los exámenes de español más relevantes incluyen:
+Además de los niveles oficiales basados en el Marco Común Europeo de Referencia para las Lenguas (MCERL), existen exámenes y certificaciones relevantes para evaluar el dominio del idioma [[Español ⚫①]]. Estos exámenes son ampliamente reconocidos y pueden ser beneficiosos para diversos fines, como la educación, la búsqueda de empleo y la migración. Algunos de los exámenes de español más relevantes incluyen:
 
 1. **Diploma de Español como Lengua Extranjera (DELE):** El DELE es uno de los exámenes de español más reconocidos a nivel mundial y es emitido por el Instituto Cervantes en nombre del Ministerio de Educación y Formación Profesional de España. Ofrece diferentes niveles que van desde A1 hasta C2, lo que permite a los estudiantes demostrar su competencia en el idioma español en diversos contextos.
     

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.488Z
-modified: 2024-05-13T20:46:29.122Z
+modified: 2024-05-15T21:30:14.156Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Formas de despedirse en Inglés]] | [[Saludos y presentaciones (A1-EN) ⚫①]]
 
-"Goodbye" es una palabra en [[inglés]] que se utiliza para despedirse. Es una forma común de terminar una conversación o un encuentro cuando se espera que no haya más interacción en el futuro cercano.
+"Goodbye" es una palabra en [[Inglés ⚫①]] que se utiliza para despedirse. Es una forma común de terminar una conversación o un encuentro cuando se espera que no haya más interacción en el futuro cercano.
 
 "Goodbye" se puede considerar una contracción de la frase "God be with you" (Dios esté contigo), que era una forma tradicional de despedirse en inglés antiguo. A lo largo del tiempo, la frase se abrevió y se convirtió en "goodbye".
 

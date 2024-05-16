@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T11:23:29.507Z
-modified: 2024-04-14T14:29:03.538Z
+modified: 2024-05-15T21:33:24.465Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Introducción, desarrollo y clímax en Storytelling
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 Claro, en el storytelling, la estructura de una historia generalmente sigue un patrón que incluye la introducción, desarrollo y clímax.
 

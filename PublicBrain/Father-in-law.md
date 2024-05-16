@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.364Z
-modified: 2024-04-26T17:24:30.624Z
+modified: 2024-05-15T21:27:55.115Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Father-in-law
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"Father-in-law" en [[inglés]] se refiere al padre de la esposa o esposo de una persona. Es un término utilizado para describir la relación familiar que se establece a través del matrimonio o de una unión de pareja. Aquí hay más detalles:
+"Father-in-law" en [[Inglés ⚫①]] se refiere al padre de la esposa o esposo de una persona. Es un término utilizado para describir la relación familiar que se establece a través del matrimonio o de una unión de pareja. Aquí hay más detalles:
 
 - **Father-in-law:** Suegro (padre del esposo o esposa).
 

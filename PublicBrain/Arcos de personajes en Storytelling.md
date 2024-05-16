@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:37:34.853Z
-modified: 2024-04-15T05:43:48.231Z
+modified: 2024-05-15T21:33:24.096Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Arcos de personajes en Storytelling
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 Claro, los arcos de personajes son una parte fundamental en la narrativa de una historia. Se refiere al viaje emocional y de desarrollo que experimenta un personaje a lo largo de la trama. 
 

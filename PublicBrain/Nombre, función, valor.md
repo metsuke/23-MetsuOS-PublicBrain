@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.506Z
-modified: 2024-04-14T14:29:03.335Z
+modified: 2024-05-15T21:34:59.947Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Nombre, función, valor
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 En la accesibilidad web, es fundamental comprender el papel de elementos como el <TOKEN>, que desempeña un papel crucial para garantizar que las personas con discapacidades puedan acceder y utilizar la información en línea de manera efectiva.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.179Z
-modified: 2024-04-14T14:29:03.805Z
+modified: 2024-05-15T21:33:24.363Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Escenario en Storytelling
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 En el contexto del storytelling, el "escenario" se refiere al entorno o ambiente donde se desarrolla la historia. Es el espacio físico, emocional y contextual en el cual las acciones y eventos de la narrativa tienen lugar.
 

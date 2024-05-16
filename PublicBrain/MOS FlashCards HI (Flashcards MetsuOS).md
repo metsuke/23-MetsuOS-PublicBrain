@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T13:09:22.003Z
-modified: 2024-04-15T13:13:13.996Z
+modified: 2024-05-15T21:25:37.712Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # MOS FlashCards HI (Flashcards MetsuOS)
 
-[[Aprender Idioma Hindi]]
+[[Aprender Idioma Hindi ⚫①]]
 
 ¡Por supuesto! Aquí tienes un índice exhaustivo y detallado de temas relacionados con el aprendizaje del idioma hindi para crear tus flashcards de vocabulario:
 

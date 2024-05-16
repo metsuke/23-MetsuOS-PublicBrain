@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.389Z
-modified: 2024-04-14T14:29:04.083Z
+modified: 2024-05-15T21:26:39.769Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Formas de saludar en Hindi]]
 
-"Aadaab" (आदाब) es una palabra que proviene del idioma urdu y es comúnmente utilizada en el [[hindi]] y otros idiomas indios. Es una forma respetuosa de saludar y mostrar cortesía, especialmente en la cultura del subcontinente indio.
+"Aadaab" (आदाब) es una palabra que proviene del idioma urdu y es comúnmente utilizada en el [[Hindi ⚫①]] y otros idiomas indios. Es una forma respetuosa de saludar y mostrar cortesía, especialmente en la cultura del subcontinente indio.
 
 La palabra "Aadaab" no tiene una traducción literal en inglés, pero se puede entender como un gesto de respeto, saludo y cortesía. Se utiliza principalmente para saludar a alguien de manera formal o para mostrar respeto hacia personas mayores, figuras de autoridad o personas a quienes se quiere tratar con especial consideración.
 

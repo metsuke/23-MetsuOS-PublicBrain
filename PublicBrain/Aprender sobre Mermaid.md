@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.565Z
-modified: 2024-04-14T14:29:04.038Z
+modified: 2024-05-15T21:39:12.151Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Mermaid
 
-[[Aprender sobre Programación]]
+[[Aprender sobre Programación ⚫①]]
 
 ## Introducción a Mermaid
 

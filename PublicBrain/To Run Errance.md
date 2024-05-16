@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.808Z
-modified: 2024-04-14T14:29:03.228Z
+modified: 2024-05-15T21:30:14.912Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # To Run Errance
 
-La frase "to run errands" en [[inglés]] se refiere a realizar tareas o recados. La palabra "errand" se utiliza para describir una tarea pequeña o un deber que se debe cumplir, como ir al supermercado, recoger un paquete o hacer diligencias específicas.
+La frase "to run errands" en [[Inglés ⚫①]] se refiere a realizar tareas o recados. La palabra "errand" se utiliza para describir una tarea pequeña o un deber que se debe cumplir, como ir al supermercado, recoger un paquete o hacer diligencias específicas.
 
 La expresión "to run errands" se utiliza para indicar que alguien está ocupado realizando varias tareas o recados. Por ejemplo, podrías decir: "I need to run errands today" (Hoy necesito hacer recados) o "She's out running errands at the moment" (Ella está ocupada haciendo tareas en este momento).
 

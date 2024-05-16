@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.585Z
-modified: 2024-04-14T14:29:03.315Z
+modified: 2024-05-15T21:35:00.107Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 **Pauta 3: Contenido que parpadea, se desplaza o se mueve automáticamente**
 

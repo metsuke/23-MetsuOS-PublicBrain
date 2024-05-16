@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.493Z
-modified: 2024-05-01T20:55:36.335Z
+modified: 2024-05-15T21:27:55.177Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Grandfather
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"Grandfather" es una palabra en [[inglés]] que se refiere al abuelo, es decir, el padre de uno de los padres de una persona. Es una relación de parentesco que conecta a una persona con sus abuelos paternos.
+"Grandfather" es una palabra en [[Inglés ⚫①]] que se refiere al abuelo, es decir, el padre de uno de los padres de una persona. Es una relación de parentesco que conecta a una persona con sus abuelos paternos.
 
 Algunos puntos importantes sobre "grandfather" son:
 

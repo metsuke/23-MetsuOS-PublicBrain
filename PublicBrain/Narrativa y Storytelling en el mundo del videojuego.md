@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.380Z
-modified: 2024-04-14T14:29:03.351Z
+modified: 2024-05-15T21:33:24.505Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Narrativa y Storytelling en el mundo del videojuego
 
-[[Aprender sobre Videojuegos]] | [[Aprender con Antonio Ruiz García (ElGris)]] | [[Aprender sobre Storytelling]]
+[[Aprender sobre Videojuegos]] | [[Aprender con Antonio Ruiz García (ElGris)]] | [[Aprender sobre Storytelling ⚫①]]
 
 Dentro del marco de mi estudio sobre videojuegos y su historia, su evolución y tñecnicas, así como su influencia en la evolución socio-cultural humana, me embarco en un estudio ampliado, tomando como base este trabajo de Antonio Ruiz García ["Videojuegos, una narrativa en evolución: Knight Lore, Half-Life 2 y Heavy Rain como casos de estudio”](https://idus.us.es/bitstream/handle/11441/28546/TFG%20-%20%20Videojuegos%20Narrativa%20Evoluci%C3%B3n%20-%20Antonio%20Ruiz%20Garc%C3%ADa.pdf) y construyendo a partir de el.
 

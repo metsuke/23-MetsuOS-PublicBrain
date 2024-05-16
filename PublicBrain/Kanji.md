@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.813Z
-modified: 2024-05-02T21:39:55.223Z
+modified: 2024-05-15T21:48:17.392Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 74
+ver_rev: 75
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Kanji
 
-[[Aprender Idioma Japones]] | [[Japonés]]
+[[Aprender Idioma Japones ⚫①]] | [[Japonés]]
 
 [[Hiragana]] | [[Katakana]] | [[Sistemas de escritura japoneses]]
 

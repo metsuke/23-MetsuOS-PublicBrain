@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.498Z
-modified: 2024-05-01T20:55:36.333Z
+modified: 2024-05-15T21:36:00.023Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Formas de saludar en Alemán]]
 
-"Guten Morgen" es una expresión en [[Alemán]] que significa "Buenos días" en [[español]]. Es una forma común de saludar a alguien al comienzo del día.
+"Guten Morgen" es una expresión en [[Alemán]] que significa "Buenos días" en [[Español ⚫①]]. Es una forma común de saludar a alguien al comienzo del día.
 
 La palabra "guten" es el adjetivo "gut" (bueno) en su forma de plural, que concuerda con el sustantivo "Morgen" (mañana). La "M" en "Morgen" se escribe en mayúscula para indicar que se está utilizando como sustantivo y no como un sustantivo común.
 

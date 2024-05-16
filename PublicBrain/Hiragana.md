@@ -1,27 +1,27 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.557Z
-modified: 2024-04-22T09:52:57.358Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-15T21:51:58.276Z
+supervisado: 2024-04-22T09:52:57.358Z
+ACCION: 
 ver_major: 0
-ver_minor: 3
-ver_rev: 74
+ver_minor: 4
+ver_rev: 75
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Hiragana
 
-[[Aprender Idioma Japones]] | [[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
+[[Aprender Idioma Japones ⚫①]] | [[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
 
 [[Katakana]] | [[Kanji]] | [[Sistemas de escritura japoneses]]
 
@@ -70,3 +70,5 @@ Dominar el hiragana es un paso importante en el aprendizaje del idioma [[Japoné
 じゃ じゅ じょ 
 びゃ びゅ びょ 
 ぴゃ ぴゅ ぴょ
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

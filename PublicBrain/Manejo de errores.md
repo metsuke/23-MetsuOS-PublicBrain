@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.151Z
-modified: 2024-04-14T14:29:03.368Z
+modified: 2024-05-15T21:34:59.739Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Manejo de errores
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 En el contexto de la accesibilidad web, el manejo de errores es crucial para garantizar que todas las personas, independientemente de sus capacidades, puedan acceder al contenido de un sitio web de manera efectiva. En este sentido, el elemento <TOKEN> juega un papel importante en la experiencia del usuario al proporcionar retroalimentación sobre posibles problemas o errores en la interacción con la página.
 

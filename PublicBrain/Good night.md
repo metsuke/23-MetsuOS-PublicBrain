@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.486Z
-modified: 2024-05-01T20:55:36.336Z
+modified: 2024-05-15T21:35:59.944Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Formas de despedirse en Inglés]]
 
-"Good night" es una expresión en [[inglés]] que se traduce al [[español]] como "buenas noches". Es una forma común y cortés de desear a alguien una buena noche o despedirse antes de ir a dormir.
+"Good night" es una expresión en [[Inglés ⚫①]] que se traduce al [[Español ⚫①]] como "buenas noches". Es una forma común y cortés de desear a alguien una buena noche o despedirse antes de ir a dormir.
 
 "Good night" se utiliza en diversos contextos, tanto formales como informales. Puede ser utilizado entre amigos, familiares, compañeros de trabajo o incluso en situaciones más profesionales. Es una forma educada de mostrar consideración y desearle a alguien que tenga una noche agradable y tranquila.
 

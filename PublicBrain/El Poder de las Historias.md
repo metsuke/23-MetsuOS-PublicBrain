@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.160Z
-modified: 2024-04-23T20:14:35.359Z
+modified: 2024-05-15T21:33:24.306Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # El Poder de las Historias
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 El storytelling, o contar historias, es una forma poderosa de comunicación que ha sido utilizada a lo largo de la historia para transmitir información, inspirar, conectar emocionalmente y motivar a la acción. Aquí hay algunas razones por las cuales las historias tienen un poder significativo:
 

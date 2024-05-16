@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T08:29:57.051Z
-modified: 2024-04-14T14:29:03.231Z
+modified: 2024-05-15T21:35:00.781Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Tiempo suficiente
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 ### WCAG 2.0
 En la versión 2.0 de las Pautas de Accesibilidad al Contenido Web (WCAG), el punto 2.2 se refiere a "Tiempo suficiente". Aquí se establece que se debe proporcionar a los usuarios suficiente tiempo para leer y usar el contenido. Específicamente, los criterios clave incluyen:

@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.494Z
-modified: 2024-05-01T20:55:42.638Z
+modified: 2024-05-15T21:27:55.279Z
 supervisado: 2024-04-14T14:29:03.725Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Grandparents
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"Grandparents" es una palabra en [[inglés]] que se refiere a los abuelos en la familia. Son los padres de los padres de una persona. Es decir, son los padres del padre o la madre de alguien.
+"Grandparents" es una palabra en [[Inglés ⚫①]] que se refiere a los abuelos en la familia. Son los padres de los padres de una persona. Es decir, son los padres del padre o la madre de alguien.
 
 Hay dos tipos de abuelos: los abuelos paternos y los abuelos maternos. Los abuelos paternos son los padres del padre de una persona, mientras que los abuelos maternos son los padres de la madre.
 

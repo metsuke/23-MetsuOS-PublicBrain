@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.009Z
-modified: 2024-04-16T11:23:24.694Z
+modified: 2024-05-15T21:21:14.968Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Claridad y Sencillez
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 La Lectura Fácil se basa en los principios de claridad y sencillez para hacer que la información sea accesible para una amplia variedad de lectores, incluidos aquellos con dificultades de lectura o comprensión. Aquí se abordan los aspectos clave relacionados con la claridad y sencillez en el contexto de la Lectura Fácil:
 

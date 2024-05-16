@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.563Z
-modified: 2024-04-14T14:29:03.324Z
+modified: 2024-05-15T21:38:39.691Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Operadores y Expresiones en Lenguaje C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 Claro, en el lenguaje C, los operadores son símbolos que indican una operación a ser realizada entre dos valores, llamados operandos. Las expresiones en C están formadas por operadores y operandos que se combinan de acuerdo a reglas específicas para producir un resultado.
 

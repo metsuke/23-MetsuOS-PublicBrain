@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.175Z
-modified: 2024-04-14T14:29:03.365Z
+modified: 2024-05-15T21:21:16.033Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Mejora de la comprensión y la inclusión
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 La "Lectura Fácil" es una estrategia diseñada para mejorar la accesibilidad a la información, especialmente para aquellas personas con dificultades de lectura o comprensión. La mejora de la comprensión y la inclusión en el contexto de la Lectura Fácil implica hacer que los textos sean más comprensibles y accesibles para una audiencia más amplia. Aquí hay algunos aspectos clave relacionados con la mejora de la comprensión y la inclusión en el ámbito de la Lectura Fácil:
 

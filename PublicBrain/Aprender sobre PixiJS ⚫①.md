@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-05-13T20:05:21.750Z
+modified: 2024-05-15T21:39:12.183Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 92
+ver_rev: 94
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre PixiJS ⚫①
 
-[[Aprender sobre Programación]]
+[[Aprender sobre Programación ⚫①]]
 
 ## Introducción a PixiJS y Gráficos Básicos
 
@@ -92,4 +92,4 @@ tags:
 - [[Optimización y despliegue del proyecto final en PixiJS]] ⬛
 - [[Presentación y revisión del proyecto final (PixiJS)]] ⬛
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

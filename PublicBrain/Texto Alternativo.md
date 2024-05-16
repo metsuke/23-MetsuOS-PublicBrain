@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.786Z
-modified: 2024-04-14T14:29:03.231Z
+modified: 2024-05-15T21:35:00.639Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Texto Alternativo
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 El texto alternativo es un atributo clave para la accesibilidad web, ya que proporciona una descripción textual de un elemento multimedia, como una imagen, un video o un audio, para aquellos usuarios que no pueden acceder al contenido visual o que utilizan lectores de pantalla. Este texto alternativo, también conocido como "alt text", ayuda a las personas con discapacidad visual a entender el contenido de la página web y a navegar de manera efectiva.
 

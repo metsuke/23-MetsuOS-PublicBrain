@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.948Z
-modified: 2024-04-16T11:23:24.696Z
+modified: 2024-05-15T21:25:37.419Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Certificación de Hindi Pragya
 
-[[Aprender Idioma Hindi]]
+[[Aprender Idioma Hindi ⚫①]]
 
 ## Requisitos Previos
 - Conocimiento básico de Hindi

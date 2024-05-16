@@ -9,25 +9,25 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.466Z
-modified: 2024-04-14T14:29:04.059Z
+modified: 2024-05-15T21:22:58.188Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender a Programar desde Cero
 
-[[Aprender sobre Programación]]
+[[Aprender sobre Programación ⚫①]]
 
 ## Introducción a la Programación
 
 * [[¿Qué es la programación?]]
 	- [[Definición de programación y conceptos fundamentales]]
-	- [[Importancia de la programación en la actualidad]]
+	- [[Importancia de la programación en la actualidad ⚫①]]
 - Entendiendo el Software
 	- [[Diferencia entre hardware y software]]
 	- Tipos de software: sistemas operativos, aplicaciones, etc.

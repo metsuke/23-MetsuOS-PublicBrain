@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.678Z
-modified: 2024-05-13T20:46:29.181Z
+modified: 2024-05-15T21:30:14.578Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +20,7 @@ tags: []
 
 [[Formas de despedirse en Inglés]]  | [[Saludos y presentaciones (A1-EN) ⚫①]]
 
-"See you later" es una expresión común en [[inglés]] que se utiliza para despedirse de alguien con la intención de volver a encontrarse en un futuro cercano. Esta frase es informal y amigable, y se emplea principalmente en situaciones casuales entre amigos, compañeros de trabajo o conocidos.
+"See you later" es una expresión común en [[Inglés ⚫①]] que se utiliza para despedirse de alguien con la intención de volver a encontrarse en un futuro cercano. Esta frase es informal y amigable, y se emplea principalmente en situaciones casuales entre amigos, compañeros de trabajo o conocidos.
 
 "See you later" se traduce literalmente como "Nos vemos luego" en español. Sin embargo, es importante tener en cuenta que no se refiere necesariamente a un encuentro físico posterior en el mismo día. En su lugar, transmite la idea de que esperas encontrarte con la persona nuevamente en algún momento, sin especificar cuándo ni dónde.
 

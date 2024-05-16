@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.388Z
-modified: 2024-04-14T14:29:04.083Z
+modified: 2024-05-15T21:22:21.028Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # API de World of Warcraft
 
-[[Aprender a programar plugins para World of Warcraft]]
+[[Aprender a programar plugins para World of Warcraft ⚫①]]
 
 Al menos hasta enero de 2022, World of Warcraft (WoW) proporciona una API para permitir a los desarrolladores acceder y manipular ciertos datos del juego. Sin embargo, ten en cuenta que esta información puede haber cambiado, y te recomiendo verificar la documentación oficial de Blizzard Entertainment para obtener la información más actualizada.
 

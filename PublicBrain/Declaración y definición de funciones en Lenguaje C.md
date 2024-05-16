@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T10:19:38.030Z
-modified: 2024-04-14T14:29:03.834Z
+modified: 2024-05-15T21:38:39.218Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Declaración y definición de funciones en Lenguaje C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 Claro, en C, las funciones se declaran y se definen para modularizar el código y facilitar su reutilización. Aquí te explico cómo se declaran y definen las funciones en C:
 

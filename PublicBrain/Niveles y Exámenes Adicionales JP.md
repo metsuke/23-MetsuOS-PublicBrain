@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.486Z
-modified: 2024-04-14T14:29:03.337Z
+modified: 2024-05-15T21:48:19.209Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Niveles y Exámenes Adicionales JP
 
-[[Aprender Idioma Japones]] | [[Niveles Oficiales JP]]
+[[Aprender Idioma Japones ⚫①]] | [[Niveles Oficiales JP]]
 
 Además del JLPT (Japanese Language Proficiency Test) que es el examen de referencia para el idioma [[japonés]], existen otros exámenes y certificaciones relevantes que pueden ser útiles para diferentes fines y objetivos de aprendizaje. Algunos de estos exámenes y certificaciones incluyen:
 

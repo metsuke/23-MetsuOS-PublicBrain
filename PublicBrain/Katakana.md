@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.816Z
-modified: 2024-04-14T14:29:03.526Z
+modified: 2024-05-15T21:30:14.400Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Katakana
 
-[[Aprender Idioma Japones]] | [[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
+[[Aprender Idioma Japones ⚫①]] | [[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
 
 [[Hiragana]] | [[Kanji]] | [[Sistemas de escritura japoneses]]
 
@@ -30,7 +30,7 @@ Aquí tienes algunos aspectos clave sobre el katakana:
     
 2.  Pronunciación: Cada símbolo katakana representa una sílaba o sonido básico del japonés. Por ejemplo, "ア" se pronuncia "a", "カ" se pronuncia "ka", "サ" se pronuncia "sa" y así sucesivamente. Al combinar los caracteres katakana, se forman las palabras y los nombres extranjeros en japonés.
     
-3.  Uso: El katakana se utiliza principalmente para transcribir palabras extranjeras y préstamos lingüísticos. Por ejemplo, palabras en [[inglés]] como "コーヒー" (kōhī, café) y "テレビ" (terebi, televisión) se escriben en katakana. También se utiliza para escribir nombres extranjeros y términos técnicos relacionados con campos como la ciencia, la tecnología, la música y la moda.
+3.  Uso: El katakana se utiliza principalmente para transcribir palabras extranjeras y préstamos lingüísticos. Por ejemplo, palabras en [[Inglés ⚫①]] como "コーヒー" (kōhī, café) y "テレビ" (terebi, televisión) se escriben en katakana. También se utiliza para escribir nombres extranjeros y términos técnicos relacionados con campos como la ciencia, la tecnología, la música y la moda.
     
 4.  Énfasis y estilo: En ocasiones, el katakana se utiliza para resaltar o enfatizar ciertas palabras o frases en textos japoneses. También se utiliza en letreros, rótulos publicitarios y en ocasiones informales para crear un efecto visual llamativo o moderno.
     

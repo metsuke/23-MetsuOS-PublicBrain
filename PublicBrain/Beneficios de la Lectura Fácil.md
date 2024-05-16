@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.804Z
-modified: 2024-04-14T14:29:03.982Z
+modified: 2024-05-15T21:21:14.948Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Beneficios de la Lectura Fácil
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 La Lectura Fácil es una herramienta valiosa que busca hacer la información más accesible para diversas audiencias, especialmente para aquellas con dificultades de comprensión lectora o necesidades específicas. Aquí hay algunos beneficios clave de la Lectura Fácil:
 

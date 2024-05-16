@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.684Z
-modified: 2024-04-14T14:29:03.247Z
+modified: 2024-05-15T21:27:55.492Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Sibling
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
 "sibling" es una palabra en [inglés]() que se utiliza para referirse a un hermano o hermana. Es un término neutral de género, lo que significa que se aplica tanto a hermanos como a hermanas sin hacer distinción de género.
 

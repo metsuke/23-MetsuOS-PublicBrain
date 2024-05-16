@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.698Z
-modified: 2024-04-14T14:29:03.244Z
+modified: 2024-05-15T21:27:55.605Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Son-in-law
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
 "Son-in-law" es un término en inglés que se utiliza para referirse al esposo de la hija de alguien. Es un sustantivo compuesto compuesto por tres partes:
 

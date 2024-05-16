@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-06T20:36:13.784Z
-modified: 2024-05-06T20:43:54.919Z
+modified: 2024-05-15T21:34:59.198Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Contenido que parpadea, se desplaza o se mueve automáticamente (WCAG 2.1)  ⚫①
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 Dentro del contexto de las Directrices de Accesibilidad para el Contenido Web (WCAG) 2.1, las pautas referentes al contenido que parpadea, se desplaza o se mueve automáticamente tienen como objetivo garantizar que las personas con discapacidades, especialmente aquellas que pueden ser susceptibles a la epilepsia fotosensible o que tienen dificultades para concentrarse o seguir el contenido en movimiento, puedan acceder al contenido web de manera segura y efectiva.
 

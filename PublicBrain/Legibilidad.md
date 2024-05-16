@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T03:34:55.008Z
-modified: 2024-04-14T14:29:03.509Z
+modified: 2024-05-15T21:34:59.632Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Legibilidad
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 ### WCAG 2.0:
 En el caso de WCAG 2.0, la pauta 8.3 de Legibilidad se centra en garantizar que el contenido web sea legible y comprensible para la mayor cantidad posible de usuarios. Algunos aspectos clave que se abordan en esta pauta incluyen:

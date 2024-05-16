@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.566Z
-modified: 2024-05-05T19:56:43.552Z
+modified: 2024-05-15T21:38:39.647Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Historia y relevancia (Aprender C)
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 **Historia del Lenguaje C:**
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.097Z
-modified: 2024-04-21T14:13:43.862Z
+modified: 2024-05-15T21:38:39.205Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Declaración de variables y asignación en Lenguaje C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 La declaración de variables y la asignación son conceptos fundamentales en el lenguaje de programación C. Aquí te proporcionaré una introducción básica:
 

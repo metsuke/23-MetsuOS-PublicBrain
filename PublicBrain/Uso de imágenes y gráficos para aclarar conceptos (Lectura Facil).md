@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.891Z
-modified: 2024-04-14T14:29:03.219Z
+modified: 2024-05-15T21:21:16.528Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de imágenes y gráficos para aclarar conceptos (Lectura Facil)
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 El uso de imágenes y gráficos es una herramienta muy útil para aclarar conceptos en el contexto de la lectura fácil. Estas imágenes pueden ser pictogramas, dibujos sencillos o gráficos que complementan el texto y facilitan la comprensión de la información.
 

@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.526Z
-modified: 2024-05-13T21:00:41.928Z
+modified: 2024-05-15T21:35:59.659Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 29
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +20,7 @@ tags: []
 
 [[PublicBrain/Index]]
 
-En este proyecto, busco aprender sobre BabyMetal, y el idioma Japonés, así como materias adicionales, de la mano de los análisis de [Andrew Hartley](https://www.youtube.com/@AndrewHartley) que me servirán como base para mis apuntes, y de ahí mi estudio de vocabulario en [[Inglés]] y [[Japonés]], la traducción al [[Español]] y mi estudio sobre ellos, que compartiré aquí como parte de mi public brain.
+En este proyecto, busco aprender sobre BabyMetal, y el idioma Japonés, así como materias adicionales, de la mano de los análisis de [Andrew Hartley](https://www.youtube.com/@AndrewHartley) que me servirán como base para mis apuntes, y de ahí mi estudio de vocabulario en [[Inglés ⚫①]] y [[Japonés]], la traducción al [[Español ⚫①]] y mi estudio sobre ellos, que compartiré aquí como parte de mi public brain.
 
 Empiezo en la primera semana de Junio de 2023 y he calculado unos 4 años de trabajo, que igual són más, ya lo iremos descubriendo.
 

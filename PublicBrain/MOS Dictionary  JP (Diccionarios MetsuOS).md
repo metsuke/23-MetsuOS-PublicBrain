@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T13:27:24.866Z
-modified: 2024-04-15T13:32:17.697Z
+modified: 2024-05-15T21:48:17.494Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # MOS Dictionary  JP (Diccionarios MetsuOS)
 
-[[Aprender Idioma Japones]]
+[[Aprender Idioma Japones ⚫①]]
 
 ¡Claro! Aquí tienes un índice exhaustivo y detallado de palabras y expresiones en japonés ordenadas alfabéticamente para crear un diccionario entre ese idioma y el español:
 

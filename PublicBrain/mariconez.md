@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.977Z
-modified: 2024-04-14T14:29:03.185Z
+modified: 2024-05-15T21:36:00.483Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +20,7 @@ tags: []
 
 [[Aprender sobre Mecano]] | [[Discografía de Mecano]]
 
-El término "mariconez" es una palabra en [[español]] que se utiliza en algunos países de habla hispana como un término despectivo y ofensivo dirigido a personas homosexuales o a hombres que se perciben como menos masculinos según estereotipos de género tradicionales. Es importante destacar que esta palabra es considerada altamente peyorativa y discriminativa, y su uso puede ser hiriente y perjudicial.
+El término "mariconez" es una palabra en [[Español ⚫①]] que se utiliza en algunos países de habla hispana como un término despectivo y ofensivo dirigido a personas homosexuales o a hombres que se perciben como menos masculinos según estereotipos de género tradicionales. Es importante destacar que esta palabra es considerada altamente peyorativa y discriminativa, y su uso puede ser hiriente y perjudicial.
 
 El uso de términos como "mariconez" es inapropiado y va en contra de los principios de respeto, igualdad y no discriminación. Es esencial fomentar un lenguaje inclusivo y respetuoso que promueva la aceptación de la diversidad en todas sus formas.
 

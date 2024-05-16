@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.381Z
-modified: 2024-04-27T14:47:18.683Z
+modified: 2024-05-15T21:30:14.012Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Formas de despedirse en Inglés
 
-En [[inglés]], hay varias formas comunes de despedirse. Aquí tienes algunas opciones:
+En [[Inglés ⚫①]], hay varias formas comunes de despedirse. Aquí tienes algunas opciones:
 
 1.  "[[Goodbye]]": Es la forma más común y general de despedirse. Se puede utilizar en cualquier contexto, ya sea formal o informal.
     

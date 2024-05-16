@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.494Z
-modified: 2024-05-01T20:55:36.334Z
+modified: 2024-05-15T21:27:55.206Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Grandmother
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"Grandmother" es una palabra en [[inglés]] que se refiere a la "abuela" en español. Es un término utilizado para describir la relación de parentesco entre una persona y la madre de uno de sus padres.
+"Grandmother" es una palabra en [[Inglés ⚫①]] que se refiere a la "abuela" en español. Es un término utilizado para describir la relación de parentesco entre una persona y la madre de uno de sus padres.
 
 Algunos puntos importantes sobre "grandmother" son:
 

@@ -10,12 +10,12 @@ lang: ES
 translations:
   - S
 created: 2024-04-06T23:49:00.634Z
-modified: 2024-05-13T19:52:00.150Z
-supervisado: 2024-04-28T20:56:37.137Z
+modified: 2024-05-16T17:13:57.891Z
+supervisado: 2024-05-13T19:52:00.150Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,6 +24,6 @@ tags:
 
 [[Interacción Digital Remota mediante API con EBay ⚫①]]
 
-Véase [[¿Qué es una API? ⚫①]]
+Véase [[¿Qué es una API? 🔴②]]
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

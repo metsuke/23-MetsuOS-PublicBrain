@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.780Z
-modified: 2024-04-14T14:29:03.534Z
+modified: 2024-05-15T21:48:17.325Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # JLPT Teacher Training Program
 
-[[Aprender Idioma Japones]]
+[[Aprender Idioma Japones ⚫①]]
 
 ## Módulo 1: Introducción al Programa de Formación de Profesores del JLPT
 

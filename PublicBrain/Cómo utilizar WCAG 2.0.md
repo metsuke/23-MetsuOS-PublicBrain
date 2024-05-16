@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.090Z
-modified: 2024-04-18T04:41:31.819Z
+modified: 2024-05-15T21:34:59.316Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Cómo utilizar WCAG 2.0
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 El Web Content Accessibility Guidelines (WCAG) 2.0 es una serie de pautas desarrolladas por el World Wide Web Consortium (W3C) para mejorar la accesibilidad web. Estas pautas están diseñadas para garantizar que el contenido web sea accesible para todas las personas, incluyendo aquellas con discapacidades, como discapacidades visuales, auditivas, motoras o cognitivas. A continuación, te proporciono una introducción sobre cómo utilizar WCAG 2.0 para hacer que tu contenido web sea más accesible:
 

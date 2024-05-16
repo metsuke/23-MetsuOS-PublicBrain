@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.053Z
-modified: 2024-04-17T20:36:41.780Z
+modified: 2024-05-15T21:34:59.188Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Contenido moviéndose automáticamente
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 En el contexto de la accesibilidad web, el elemento <TOKEN> juega un papel crucial en garantizar que los usuarios con discapacidades puedan acceder al contenido de manera efectiva. Algunas personas pueden tener dificultades para interactuar con contenido que se mueve automáticamente, como animaciones o carruseles, por lo que es importante seguir las pautas de accesibilidad para garantizar una experiencia inclusiva para todos los usuarios.
 

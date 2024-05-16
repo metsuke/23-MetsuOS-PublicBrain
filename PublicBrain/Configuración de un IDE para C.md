@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.030Z
-modified: 2024-04-17T20:36:41.784Z
+modified: 2024-05-15T21:38:39.185Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Configuración de un IDE para C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 Configurar un entorno de desarrollo integrado (IDE) es una parte crucial al aprender a programar en C desde cero. Aquí te dejo una guía básica para configurar un IDE para C:
 

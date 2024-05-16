@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:35:50.731Z
-modified: 2024-04-15T05:37:37.799Z
+modified: 2024-05-15T21:33:24.184Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Creación y desarrollo de personajes memorables en Storytelling
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 La creación y desarrollo de personajes memorables es fundamental en el mundo del storytelling, ya que son ellos quienes llevan la historia, conectan con el público y generan empatía. A continuación, te comparto algunos consejos para crear personajes memorables:
 

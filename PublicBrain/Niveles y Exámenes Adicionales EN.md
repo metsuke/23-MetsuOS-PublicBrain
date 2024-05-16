@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.473Z
-modified: 2024-05-13T20:52:06.331Z
+modified: 2024-05-15T21:30:14.514Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +20,7 @@ tags: []
 
 [[Aprender Idioma Inglés ⚫①]] | [[Niveles Oficiales EN]]
 
-Amás de los exámenes y niveles de [[inglés]] oficiales, existen otros exámenes y certificaciones que son ampliamente reconocidos y relevantes en el ámbito internacional para evaluar las habilidades en inglés. Estos exámenes son ofrecidos por diferentes instituciones y organizaciones, y pueden ser útiles para diversos fines, como el acceso a programas académicos, la búsqueda de empleo, la migración y el desarrollo profesional. Algunos de los exámenes de inglés más reconocidos fuera de los niveles oficiales incluyen:
+Amás de los exámenes y niveles de [[Inglés ⚫①]] oficiales, existen otros exámenes y certificaciones que son ampliamente reconocidos y relevantes en el ámbito internacional para evaluar las habilidades en inglés. Estos exámenes son ofrecidos por diferentes instituciones y organizaciones, y pueden ser útiles para diversos fines, como el acceso a programas académicos, la búsqueda de empleo, la migración y el desarrollo profesional. Algunos de los exámenes de inglés más reconocidos fuera de los niveles oficiales incluyen:
 
 1. **TOEFL (Test of English as a Foreign Language):** El TOEFL es un examen ampliamente aceptado para evaluar la capacidad de los hablantes no nativos de inglés para comprender y utilizar el inglés en contextos académicos. Es requerido por muchas universidades y programas académicos en países de habla inglesa.
     

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.568Z
-modified: 2024-04-14T14:29:03.321Z
+modified: 2024-05-15T21:41:19.161Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Osciloscopio
 
-[[Plataformas de Videojuegos a lo largo de la historia]]
+[[Plataformas de Videojuegos a lo largo de la historia ⚫①]]
   
 Un osciloscopio es un instrumento electrónico utilizado en ingeniería y ciencias para medir y visualizar señales eléctricas en el dominio del tiempo. No es una plataforma adecuada para ejecutar videojuegos debido a sus limitaciones y propósito específico.
 

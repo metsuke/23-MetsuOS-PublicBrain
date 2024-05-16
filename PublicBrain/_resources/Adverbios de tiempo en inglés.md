@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.957Z
-modified: 2024-04-14T14:29:04.096Z
+modified: 2024-05-15T21:30:15.299Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Adverbios de tiempo en inglés
 
-Los adverbios de tiempo son palabras que se utilizan para indicar cuándo sucede o sucedió una acción. En [[inglés]], hay muchos adverbios de tiempo comunes que se utilizan con frecuencia en el lenguaje cotidiano. A continuación, te presento algunos de los más utilizados:
+Los adverbios de tiempo son palabras que se utilizan para indicar cuándo sucede o sucedió una acción. En [[Inglés ⚫①]], hay muchos adverbios de tiempo comunes que se utilizan con frecuencia en el lenguaje cotidiano. A continuación, te presento algunos de los más utilizados:
 
 -    Always (siempre): 100%
 -   Usually (usualmente): 90%

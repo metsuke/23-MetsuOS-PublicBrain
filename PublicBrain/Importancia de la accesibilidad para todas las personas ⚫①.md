@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.605Z
-modified: 2024-05-13T21:04:47.001Z
+modified: 2024-05-15T21:21:17.011Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Importancia de la accesibilidad para todas las personas ⚫①
 
-[[Aprender sobre Accesibilidad]]
+[[Aprender sobre Accesibilidad ⚫①]]
 
   La accesibilidad es de suma importancia para todas las personas, independientemente de sus habilidades o discapacidades, y desempeña un papel fundamental en la creación de una sociedad inclusiva y equitativa. Aquí se presentan algunas razones por las cuales la accesibilidad es esencial para todas las personas:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.179Z
-modified: 2024-04-14T14:29:03.364Z
+modified: 2024-05-15T21:30:14.420Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Mellifluous
 
-Mellifluous" es una palabra en [[inglés]] que se utiliza para describir algo, como un sonido o una voz, que es agradablemente suave, dulce y musical para el oído. Se utiliza para describir un tono o una melodía rica y fluida que es relajante y agradable.
+Mellifluous" es una palabra en [[Inglés ⚫①]] que se utiliza para describir algo, como un sonido o una voz, que es agradablemente suave, dulce y musical para el oído. Se utiliza para describir un tono o una melodía rica y fluida que es relajante y agradable.
 
 La palabra "mellifluous" proviene del latín "mellifluus", que significa "que fluye como la miel". Esta palabra captura la idea de algo que fluye suavemente y es dulce, como la miel. Se utiliza comúnmente para elogiar voces, sonidos, música o palabras que tienen una calidad armónica y placentera.
 

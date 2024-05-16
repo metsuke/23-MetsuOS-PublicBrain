@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.519Z
-modified: 2024-05-11T21:26:17.513Z
+modified: 2024-05-15T21:24:15.271Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 95
+ver_rev: 97
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,7 +39,7 @@ tags:
 
    - [[Fundamentos del diseño inclusivo]] ⬛
    - [[Consideraciones para el diseño de personajes]] ⬛
-   - [[Interfaz de usuario accesible]] ⬛
+   - [[Interfaz de usuario accesible ⚫①]]
 
 ## IV. Accesibilidad Visual
 
@@ -95,4 +95,4 @@ tags:
    - [[Recursos, herramientas y comunidades de apoyo (a11y en videojuegos)]] ⬛
    - [[Próximos pasos para seguir aprendiendo y contribuyendo (A11y en videojuegos)]] ⬛
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

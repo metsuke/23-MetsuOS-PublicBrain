@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.730Z
-modified: 2024-04-14T14:29:03.243Z
+modified: 2024-05-15T21:30:14.856Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Strive
 
-"Strive" es un verbo en [[inglés]] que se utiliza para describir un esfuerzo continuo y dedicado hacia un objetivo o meta. Implica trabajar arduamente, hacer todo lo posible y superar obstáculos para lograr un resultado deseado. "Strive" se asocia con el compromiso, la determinación y la perseverancia.
+"Strive" es un verbo en [[Inglés ⚫①]] que se utiliza para describir un esfuerzo continuo y dedicado hacia un objetivo o meta. Implica trabajar arduamente, hacer todo lo posible y superar obstáculos para lograr un resultado deseado. "Strive" se asocia con el compromiso, la determinación y la perseverancia.
 
 Algunos ejemplos de frases con "strive" incluyen:
 

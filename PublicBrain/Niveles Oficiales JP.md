@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.434Z
-modified: 2024-04-14T14:29:03.343Z
+modified: 2024-05-15T21:48:17.904Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Niveles Oficiales JP
 
-[[Aprender Idioma Japones]] | [[Niveles y Exámenes Adicionales JP]]
+[[Aprender Idioma Japones ⚫①]] | [[Niveles y Exámenes Adicionales JP]]
 
 Para aprender el idioma [[japonés]], los niveles oficiales se basan en el "Japanese Language Proficiency Test" (JLPT), que es un examen estandarizado ampliamente reconocido en todo el mundo para evaluar el dominio del japonés como lengua extranjera. El JLPT se divide en varios niveles, cada uno de los cuales representa un nivel diferente de competencia en el idioma japonés. Estos niveles oficiales son:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-11T21:00:29.795Z
-modified: 2024-05-11T21:05:18.363Z
+modified: 2024-05-15T21:35:00.319Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Requisitos de orientación
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 Los requisitos de orientación en el contexto de WCAG 2.1 se refieren a garantizar que el contenido web sea presentado de una manera que permita a todos los usuarios, independientemente de sus habilidades físicas o cognitivas, orientarse y comprender la estructura y el significado del contenido de manera efectiva. Estos requisitos están diseñados para mejorar la accesibilidad y la usabilidad del contenido web para una amplia gama de usuarios, incluyendo aquellos con discapacidades.
 

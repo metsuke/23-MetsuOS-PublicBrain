@@ -6,21 +6,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.545Z
-modified: 2024-04-14T14:29:03.330Z
+modified: 2024-05-15T21:21:16.243Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Objetivo de WCAG 2.1
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
-[[Aprender sobre Accesibilidad]]] | [[Objetivo de WCAG 2.0]] 
+[[Aprender sobre Accesibilidad ⚫①]]] | [[Objetivo de WCAG 2.0]] 
 
 ## Introducción:
 

@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.094Z
-modified: 2024-04-18T05:42:11.687Z
+modified: 2024-05-15T21:27:55.048Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Daughter
 
-[[Miembros de la Familia en Inglés]] | [[Daughter (Banda Musical)]]
+[[Miembros de la Familia en Inglés ⚫①]] | [[Daughter (Banda Musical)]]
 
-En [[inglés]], la palabra "daughter" se refiere a una niña o mujer en relación a sus padres. Es la descendiente femenina de uno o ambos padres.
+En [[Inglés ⚫①]], la palabra "daughter" se refiere a una niña o mujer en relación a sus padres. Es la descendiente femenina de uno o ambos padres.
 
 Una hija generalmente comparte un vínculo cercano con sus padres y es un miembro importante de la familia. Puede tener un papel de apoyo y cuidado dentro de la unidad familiar, y su relación con sus padres puede evolucionar y cambiar a medida que crece.
 

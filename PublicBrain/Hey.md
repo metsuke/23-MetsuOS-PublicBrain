@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.551Z
-modified: 2024-05-05T19:48:52.823Z
+modified: 2024-05-15T21:30:14.383Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Hey
 
-"Hey" es una expresión en [[inglés]] que se utiliza como interjección o saludo informal, similar a "hola" o "oye" en español. Se utiliza principalmente en situaciones informales entre amigos, conocidos o familiares, y su tono puede variar dependiendo del contexto.
+"Hey" es una expresión en [[Inglés ⚫①]] que se utiliza como interjección o saludo informal, similar a "hola" o "oye" en español. Se utiliza principalmente en situaciones informales entre amigos, conocidos o familiares, y su tono puede variar dependiendo del contexto.
 
 El uso de "hey" puede ser considerado informal y puede ser percibido como inapropiado en algunas situaciones formales o profesionales. En cambio, se utiliza más comúnmente en situaciones informales, como en conversaciones informales o en interacciones sociales.
 

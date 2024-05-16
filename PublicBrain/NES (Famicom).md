@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.366Z
-modified: 2024-04-14T14:29:03.352Z
+modified: 2024-05-15T21:41:19.143Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # NES (Famicom)
 
-[[Plataformas de Videojuegos a lo largo de la historia]]
+[[Plataformas de Videojuegos a lo largo de la historia ⚫①]]
 
 La NES (Nintendo Entertainment System) es una consola de videojuegos de 8 bits lanzada por Nintendo en 1983 en Japón como Famicom (Family Computer) y en 1985 en América del Norte como NES. Es una de las consolas más influyentes en la historia de los videojuegos y ayudó a revitalizar la industria de los videojuegos después de la crisis de 1983 en América del Norte.
 

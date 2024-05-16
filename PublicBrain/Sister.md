@@ -6,21 +6,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.687Z
-modified: 2024-04-14T14:29:03.246Z
+modified: 2024-05-15T21:27:55.581Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Sister
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"**Sister**" es una palabra en [[inglés]] que se refiere a una **hermana**. Es un término utilizado para describir la relación de parentesco entre dos mujeres que tienen al menos uno de los mismos padres biológicos.
+"**Sister**" es una palabra en [[Inglés ⚫①]] que se refiere a una **hermana**. Es un término utilizado para describir la relación de parentesco entre dos mujeres que tienen al menos uno de los mismos padres biológicos.
 
 Algunos puntos importantes sobre la palabra "sister" son:
 

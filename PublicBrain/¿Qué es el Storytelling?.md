@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.010Z
-modified: 2024-04-14T14:29:03.178Z
+modified: 2024-05-15T21:33:24.665Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # ¿Qué es el Storytelling?
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 El **storytelling** (narración de historias) es una técnica de comunicación que se utiliza para transmitir información, emociones y mensajes de manera efectiva a través de relatos y narrativas. Se trata de contar historias de manera convincente para involucrar a la audiencia y captar su atención.
 

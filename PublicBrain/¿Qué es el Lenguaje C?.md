@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.009Z
-modified: 2024-04-14T14:29:03.178Z
+modified: 2024-05-15T21:38:40.086Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # ¿Qué es el Lenguaje C?
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 El lenguaje de programación C es un lenguaje de programación de propósito general que fue creado originalmente por Dennis Ritchie en los laboratorios Bell de AT&T en la década de 1970. Es uno de los lenguajes de programación más antiguos y sigue siendo ampliamente utilizado en la actualidad.
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.091Z
-modified: 2024-04-18T04:41:31.819Z
+modified: 2024-05-15T21:34:59.339Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Cómo utilizar WCAG 2.1
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 Las pautas de accesibilidad web WCAG (Web Content Accessibility Guidelines) 2.1 son una versión actualizada de las WCAG 2.0 que se centran en mejorar aún más la accesibilidad de los sitios web y aplicaciones para una audiencia más amplia, incluyendo personas con discapacidades. A continuación, te mostraré cómo utilizar WCAG 2.1 para hacer que tu contenido web sea más accesible:
 

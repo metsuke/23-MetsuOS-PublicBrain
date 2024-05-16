@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T21:07:58.048Z
-modified: 2024-04-14T21:13:33.357Z
+modified: 2024-05-15T21:38:38.798Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Arrays y Punteros en Lenguaje C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 ¡Claro! Los arreglos (arrays) y los punteros son conceptos fundamentales en C y están estrechamente relacionados. Aquí te explico cómo interactúan los arreglos y los punteros en C:
 

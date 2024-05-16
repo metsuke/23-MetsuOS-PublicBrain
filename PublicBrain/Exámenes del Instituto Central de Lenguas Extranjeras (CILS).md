@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.335Z
-modified: 2024-04-26T17:24:30.636Z
+modified: 2024-05-15T21:25:37.652Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Exámenes del Instituto Central de Lenguas Extranjeras (CILS)
 
-[[Aprender Idioma Hindi]]
+[[Aprender Idioma Hindi ⚫①]]
 
 ## Requisitos Previos
 - Nivel intermedio o avanzado de conocimiento de Hindi

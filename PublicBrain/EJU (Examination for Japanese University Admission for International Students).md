@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.140Z
-modified: 2024-04-22T10:59:17.972Z
+modified: 2024-05-15T21:48:16.313Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # EJU (Examination for Japanese University Admission for International Students)
 
-[[Aprender Idioma Japones]]
+[[Aprender Idioma Japones ⚫①]]
 
 ## Módulo 1: "I"ntroducción al EJU
 

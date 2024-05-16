@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.482Z
-modified: 2024-04-14T14:29:03.338Z
+modified: 2024-05-15T21:25:37.742Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Niveles y Exámenes Adicionales HI
 
-[[Aprender Idioma Hindi]] | [[Niveles Oficiales HI]]
+[[Aprender Idioma Hindi ⚫①]] | [[Niveles Oficiales HI]]
 
 Existen varios exámenes y certificaciones relevantes para evaluar y demostrar la competencia en el idioma hindi. Estos exámenes son útiles para estudiantes, profesionales y personas que desean acreditar sus habilidades en hindi. Algunos de los exámenes y certificaciones más conocidos son:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.593Z
-modified: 2024-04-14T14:29:03.312Z
+modified: 2024-05-15T21:33:24.608Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Personajes en Storytelling
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 Dentro del contexto del storytelling, los personajes desempeñan un papel fundamental en la narrativa, ya que son quienes impulsan la trama, generan empatía con el público y brindan profundidad y complejidad a la historia. Aquí hay algunas consideraciones importantes sobre los personajes en el storytelling:
 

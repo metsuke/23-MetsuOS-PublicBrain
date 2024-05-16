@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.676Z
-modified: 2024-04-14T14:29:03.252Z
+modified: 2024-05-15T21:26:40.246Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +20,7 @@ tags: []
 
 [[Formas de saludar en Hindi]]
 
-"Sat Sri Akal" es una frase en idioma [[hindi]] que se utiliza como saludo y expresión de respeto en la fe sij. Es una combinación de dos palabras: "Sat" que significa "verdad" y "Sri Akal" que se traduce aproximadamente como "Dios es eterno" o "Dios es inmortal".
+"Sat Sri Akal" es una frase en idioma [[Hindi ⚫①]] que se utiliza como saludo y expresión de respeto en la fe sij. Es una combinación de dos palabras: "Sat" que significa "verdad" y "Sri Akal" que se traduce aproximadamente como "Dios es eterno" o "Dios es inmortal".
 
 Los sijs utilizan "Sat Sri Akal" como saludo tanto para saludarse entre ellos como para desear bendiciones. Es una forma de reconocer la presencia divina en cada individuo y transmitir los valores de la verdad y la eternidad. Además, es una expresión comúnmente utilizada en ceremonias religiosas y en la comunidad sij en general.
 

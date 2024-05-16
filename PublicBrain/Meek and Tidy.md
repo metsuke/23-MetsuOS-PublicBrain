@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.172Z
-modified: 2024-04-14T14:29:03.365Z
+modified: 2024-05-15T21:30:14.410Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Meek and Tidy
 
-La expresión "meek and tidy" en [[inglés]] combina los adjetivos "meek" y "tidy" para describir a alguien o algo que es modesto y ordenado.
+La expresión "meek and tidy" en [[Inglés ⚫①]] combina los adjetivos "meek" y "tidy" para describir a alguien o algo que es modesto y ordenado.
 
 El término "meek" se refiere a una actitud o comportamiento suave, humilde y sumiso. Indica una disposición tranquila y obediente, a menudo asociada con la modestia y la falta de arrogancia.
 

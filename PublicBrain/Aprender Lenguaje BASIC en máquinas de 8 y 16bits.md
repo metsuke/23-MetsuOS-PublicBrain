@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.444Z
-modified: 2024-04-14T14:29:04.063Z
+modified: 2024-05-15T21:39:11.036Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender Lenguaje BASIC en máquinas de 8 y 16bits
 
-[[Aprender sobre Programación]]
+[[Aprender sobre Programación ⚫①]]
 ## Introducción
 
 - Breve introducción a la programación en máquinas de 8 y 16 bits.

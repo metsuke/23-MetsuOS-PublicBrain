@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T21:19:48.781Z
-modified: 2024-04-14T14:29:03.814Z
+modified: 2024-05-15T21:33:24.269Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Ejemplos de historias poderosas (Storytelling)
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 Claro, existen numerosos ejemplos de historias poderosas que han impactado a las personas a lo largo de la historia. Algunos de estos ejemplos incluyen:
 

@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.622Z
-modified: 2024-05-05T14:40:52.807Z
-supervisado: 2024-04-14T14:29:03.291Z
+modified: 2024-05-16T17:19:39.739Z
+supervisado: 2024-05-05T14:40:52.807Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -61,4 +61,4 @@ En resumen, el propósito de un curso sobre estudiar el pensamiento y filosofía
 
 Nota: Se han agregado referencias bibliográficas y se ha incluido una sección de referencias que refutan el contenido para proporcionar una visión más completa y equilibrada del tema.
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

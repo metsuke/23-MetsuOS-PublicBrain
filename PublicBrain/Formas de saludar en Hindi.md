@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.404Z
-modified: 2024-04-29T21:19:39.996Z
+modified: 2024-05-15T21:26:39.926Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Formas de saludar en Hindi
 
-El [[hindi]] es un idioma rico en cultura y tradiciones, y las formas de saludo son una parte importante de la comunicación cotidiana. Aquí hay algunas formas comunes de saludar en hindi:
+El [[Hindi ⚫①]] es un idioma rico en cultura y tradiciones, y las formas de saludo son una parte importante de la comunicación cotidiana. Aquí hay algunas formas comunes de saludar en hindi:
 
 1.  [[Namaste]]: Este es uno de los saludos más populares en hindi y se usa en todo el país. Se realiza juntando las palmas de las manos en el pecho y diciendo "Namaste", que significa "te saludo".
     

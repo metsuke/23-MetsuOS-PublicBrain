@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T08:30:50.929Z
-modified: 2024-04-14T14:29:03.349Z
+modified: 2024-05-15T21:34:59.769Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Nivel A (Requisitos Básicos)
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 ### WCAG 2.0
 En WCAG 2.0, el elemento esencial del Nivel A es garantizar que el contenido sea perceptible, operable y comprensible para todos los usuarios. Algunos aspectos clave de este nivel incluyen:

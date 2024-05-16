@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.921Z
-modified: 2024-04-14T14:29:03.203Z
+modified: 2024-05-15T21:21:16.675Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Visión general de leyes y regulaciones sobre accesibilidad
 
-[[Aprender sobre Accesibilidad]]
+[[Aprender sobre Accesibilidad ⚫①]]
 
 Las leyes y regulaciones sobre accesibilidad en el contexto de facilitar el acceso a personas con discapacidad. Es importante tener en cuenta que estas leyes pueden variar significativamente de un país a otro, pero aquí te presentaré una visión general de las tendencias y enfoques comunes que suelen aplicarse en muchas regiones del mundo.
 

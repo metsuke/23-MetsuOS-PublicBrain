@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T10:13:38.443Z
-modified: 2024-04-14T14:29:03.976Z
+modified: 2024-05-15T21:38:39.063Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Bucles - for, while, do-while
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 Por supuesto, los bucles son una parte fundamental en la programación y son utilizados para ejecutar un bloque de código repetidamente hasta que se cumpla una condición específica. En el lenguaje C, los bucles más comunes son `for`, `while`, y `do-while`. Aquí tienes una explicación de cada uno:
 

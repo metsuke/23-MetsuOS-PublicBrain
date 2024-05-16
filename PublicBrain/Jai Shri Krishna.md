@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.789Z
-modified: 2024-04-14T14:29:03.534Z
+modified: 2024-05-15T21:26:40.107Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +20,7 @@ tags: []
 
 [[Formas de saludar en Hindi]]
 
-"Jai Shri Krishna" es una frase en sánscrito y en [[hindi]] que se utiliza para rendir homenaje y expresar devoción al Señor Krishna, una figura importante en la mitología hindú. "Jai" significa "victoria" o "saludos", mientras que "Shri Krishna" se refiere al dios Krishna.
+"Jai Shri Krishna" es una frase en sánscrito y en [[Hindi ⚫①]] que se utiliza para rendir homenaje y expresar devoción al Señor Krishna, una figura importante en la mitología hindú. "Jai" significa "victoria" o "saludos", mientras que "Shri Krishna" se refiere al dios Krishna.
 
 Krishna es considerado una encarnación del dios Vishnu en la tradición hindú y es una figura muy reverenciada en la cultura y religión indias. Se le describe como un niño divino, un amigo, un amante y un líder espiritual en las escrituras hindúes, especialmente en el Bhagavad Gita y el Mahabharata.
 

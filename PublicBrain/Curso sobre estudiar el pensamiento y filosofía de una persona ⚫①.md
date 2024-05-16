@@ -1,27 +1,27 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-05-11T21:33:21.594Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T17:19:39.793Z
+supervisado: 2024-05-11T21:33:21.594Z
+ACCION: 
 ver_major: 0
-ver_minor: 3
-ver_rev: 66
+ver_minor: 4
+ver_rev: 67
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①
 
-[[PublicBrain/Index|Index]] | [[Aprender con Pablo Grueso]]
+[[PublicBrain/Index|Index]] | [[Aprender con Pablo Grueso ⚫①]]
 
 # Índice
 
@@ -79,4 +79,4 @@ tags:
    - B. [[Reflexión sobre la investigación realizada (Estudio pensamiento y filosofía de una persona)]]
    - C. [[Implicaciones y aplicaciones futuras del estudio filosófico (Estudio pensamiento y filosofía de una persona)]]
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

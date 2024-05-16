@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.447Z
-modified: 2024-04-14T14:29:04.062Z
+modified: 2024-05-15T21:39:11.223Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aprender Lenguaje CSharp
 
-[[Aprender sobre Programación]]
+[[Aprender sobre Programación ⚫①]]
 
 ## Módulo 1: Introducción a C#
 

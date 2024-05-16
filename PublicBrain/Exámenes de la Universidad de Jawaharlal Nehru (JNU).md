@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.333Z
-modified: 2024-04-25T10:42:26.143Z
+modified: 2024-05-15T21:25:37.616Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Exámenes de la Universidad de Jawaharlal Nehru (JNU)
 
-[[Aprender Idioma Hindi]]
+[[Aprender Idioma Hindi ⚫①]]
 
 ## Requisitos Previos
 - Conocimiento sólido de Hindi

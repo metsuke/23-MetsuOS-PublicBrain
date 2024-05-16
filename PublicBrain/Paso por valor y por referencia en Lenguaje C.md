@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T21:05:10.737Z
-modified: 2024-04-14T21:07:21.096Z
+modified: 2024-05-15T21:38:39.713Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Paso por valor y por referencia en Lenguaje C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 ¡Claro! En C, cuando pasas argumentos a una función, puedes hacerlo por valor o por referencia. Aquí te explico la diferencia entre ambos:
 

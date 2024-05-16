@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.817Z
-modified: 2024-04-14T14:29:03.977Z
+modified: 2024-05-15T21:27:54.957Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Brother-in-law
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"Brother-in-law" en [[inglés]] se refiere a la relación de parentesco con el hermano de una persona o al esposo de la hermana de una persona. Esta palabra compuesta se desglosa en dos partes:
+"Brother-in-law" en [[Inglés ⚫①]] se refiere a la relación de parentesco con el hermano de una persona o al esposo de la hermana de una persona. Esta palabra compuesta se desglosa en dos partes:
 
 - "Brother": Significa "hermano". Se refiere al hermano de una persona, ya sea biológico o a través del matrimonio.
     

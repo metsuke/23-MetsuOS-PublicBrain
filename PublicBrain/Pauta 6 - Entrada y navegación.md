@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.588Z
-modified: 2024-04-14T14:29:03.314Z
+modified: 2024-05-15T21:35:00.152Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Pauta 6 - Entrada y navegación
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 En el contexto de la accesibilidad web, la Pauta 6 se enfoca en la "Entrada y navegación", es decir, en asegurar que los usuarios puedan interactuar de manera efectiva con los elementos interactivos y navegar por el contenido de manera intuitiva. Un elemento fundamental dentro de esta pauta es el **formulario de búsqueda**, el cual permite a los usuarios encontrar información específica de manera rápida y sencilla.
 

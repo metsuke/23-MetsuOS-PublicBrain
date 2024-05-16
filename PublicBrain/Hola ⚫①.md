@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.568Z
-modified: 2024-05-13T20:58:42.719Z
+modified: 2024-05-15T21:36:00.700Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,5 +36,5 @@ Al igual que en español, "hola" es una palabra informal y generalmente se utili
 [[Saludos y presentaciones básicas (A1-ES)]]
 
 
-  [[Español]]: "Hola" es una forma informal de saludar a alguien en español. Se utiliza 
+  [[Español ⚫①]]: "Hola" es una forma informal de saludar a alguien en español. Se utiliza 
   comúnmente en España y en muchos países de América Latina.

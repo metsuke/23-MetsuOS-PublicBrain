@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.329Z
-modified: 2024-04-25T10:42:26.154Z
+modified: 2024-05-15T21:25:37.499Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Exámenes de Nivel Nacional de Certificación en Habilidades en Idiomas (NACIL)
 
-[[Aprender Idioma Hindi]]
+[[Aprender Idioma Hindi ⚫①]]
 
 ## Requisitos Previos
 - Conocimiento sólido de Hindi

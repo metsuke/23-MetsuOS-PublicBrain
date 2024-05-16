@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.054Z
-modified: 2024-04-14T14:29:03.854Z
+modified: 2024-05-15T21:34:59.210Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Control de teclado
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 En el contexto de la accesibilidad web, el control de teclado es un aspecto fundamental para garantizar que las personas con discapacidad puedan navegar y utilizar los sitios web de manera efectiva. El elemento  es crucial para permitir que los usuarios puedan interactuar con el contenido a través del teclado.
 

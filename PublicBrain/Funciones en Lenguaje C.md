@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T10:15:07.862Z
-modified: 2024-04-14T14:29:03.763Z
+modified: 2024-05-15T21:38:39.599Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Funciones en Lenguaje C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 ¡Por supuesto! Las funciones son bloques de código que realizan una tarea específica y pueden ser llamadas desde otras partes del programa para ejecutar esa tarea. En C, las funciones son una parte fundamental del lenguaje y se utilizan para dividir el código en partes más pequeñas y manejables, lo que facilita la organización y la reutilización del código. Aquí tienes una explicación detallada sobre las funciones en C:
 

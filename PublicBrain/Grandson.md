@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.496Z
-modified: 2024-05-01T20:55:36.334Z
+modified: 2024-05-15T21:27:55.304Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Grandson
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"grandson" en [[inglés]] significa "nieto" en español. Un grandson (nieto) es el hijo de tu propio hijo o hija. Es parte de la segunda generación en la línea familiar.
+"grandson" en [[Inglés ⚫①]] significa "nieto" en español. Un grandson (nieto) es el hijo de tu propio hijo o hija. Es parte de la segunda generación en la línea familiar.
 
 Por ejemplo, si tienes un hijo o hija, y ellos tienen un hijo, ese niño sería tu grandson (nieto). Del mismo modo, si eres abuelo o abuela, el hijo de tu hijo o hija también sería tu grandson (nieto).
 

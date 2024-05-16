@@ -6,18 +6,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.946Z
-modified: 2024-04-14T14:29:03.192Z
+modified: 2024-05-15T21:27:55.731Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Wife
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"wife" en [[inglés]] significa "esposa". Es el término que se utiliza para referirse a la mujer que está casada con un hombre. En contextos formales o neutrales, se utiliza la palabra "wife" para describir la relación marital.
+"wife" en [[Inglés ⚫①]] significa "esposa". Es el término que se utiliza para referirse a la mujer que está casada con un hombre. En contextos formales o neutrales, se utiliza la palabra "wife" para describir la relación marital.

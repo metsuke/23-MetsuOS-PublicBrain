@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.680Z
-modified: 2024-04-14T14:29:03.250Z
+modified: 2024-05-15T21:30:14.675Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Serendipity
 
-[[Inglés]]
+[[Inglés ⚫①]]
 
 "Serendipity" es un sustantivo que se refiere a la ocurrencia o descubrimiento afortunado de algo valioso o agradable, que ocurre de manera inesperada mientras se busca o se hace algo más. También puede referirse al acto de encontrar algo valioso o hacer un descubrimiento significativo de manera accidental.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.686Z
-modified: 2024-04-14T14:29:03.246Z
+modified: 2024-05-15T21:48:19.237Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Sistemas de escritura japoneses
 
-[[Aprender Idioma Japones]] | [[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
+[[Aprender Idioma Japones ⚫①]] | [[N5-JP]] | [[Hiragana y Katakana - Lectura y escritura básica (N5-JP)]]
 
 [[Hiragana]] | [[Katakana]] | [[Kanji]] 
 

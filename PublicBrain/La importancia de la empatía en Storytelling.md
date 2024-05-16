@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T11:22:51.772Z
-modified: 2024-04-14T14:29:03.522Z
+modified: 2024-05-15T21:33:24.484Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # La importancia de la empatía en Storytelling
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 La empatía es fundamental en el Storytelling porque nos permite conectarnos emocionalmente con nuestro público. Al ponernos en el lugar del otro, podemos comprender sus sentimientos, pensamientos y necesidades, lo que nos ayuda a crear historias que resuenen con ellos.
 

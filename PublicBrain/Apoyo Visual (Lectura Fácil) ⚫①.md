@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-05T13:53:45.229Z
-modified: 2024-05-05T13:56:10.646Z
+modified: 2024-05-15T21:21:14.739Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Apoyo Visual (Lectura Fácil) ⚫①
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 El apoyo visual es una herramienta importante en la creación de materiales en Lectura Fácil. Consiste en el uso de imágenes, iconos, colores y otros elementos visuales que complementan el texto escrito y facilitan la comprensión de la información.
 

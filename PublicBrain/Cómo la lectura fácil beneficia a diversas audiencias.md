@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.088Z
-modified: 2024-04-18T04:32:31.296Z
+modified: 2024-05-15T21:21:15.162Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Cómo la lectura fácil beneficia a diversas audiencias
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 La lectura fácil es una herramienta que permite trascender el límite de la lectura. Se han hecho estudios para determinar el impacto de la lectura fácil en la vida de las personas, y se ha visto que tiene un efecto positivo y que aumenta la productividad y la calidad de vida.
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.193Z
-modified: 2024-04-24T21:36:35.938Z
+modified: 2024-05-15T21:21:15.345Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Evitar jergas y tecnicismos
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 Dentro del contexto de aprender sobre Lectura Fácil, es fundamental evitar el uso de jergas y tecnicismos para garantizar la accesibilidad y comprensión del texto por parte de un público amplio, incluidas personas con dificultades de comprensión o lectura. Aquí hay algunas razones por las que es importante evitar jergas y tecnicismos en la Lectura Fácil:
 

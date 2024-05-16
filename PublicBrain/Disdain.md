@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.125Z
-modified: 2024-04-22T10:59:17.977Z
+modified: 2024-05-15T21:30:13.683Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Disdain
 
-La palabra "disdain" en [[inglés]] se refiere a un sentimiento de desprecio, desdén o menosprecio hacia algo o alguien. Representa una actitud de menospreciar o considerar algo como indigno de atención, respeto o importancia.
+La palabra "disdain" en [[Inglés ⚫①]] se refiere a un sentimiento de desprecio, desdén o menosprecio hacia algo o alguien. Representa una actitud de menospreciar o considerar algo como indigno de atención, respeto o importancia.
 
 Cuando una persona siente "disdain" hacia algo, generalmente muestra una actitud de superioridad o desdén hacia ello. Puede manifestarse a través de gestos, expresiones faciales o comentarios condescendientes. El "disdain" implica una actitud de menosprecio hacia algo o alguien, considerándolo inferior o indigno de atención.
 

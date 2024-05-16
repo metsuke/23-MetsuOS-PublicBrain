@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.363Z
-modified: 2024-05-08T21:29:08.164Z
+modified: 2024-05-15T21:48:17.814Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 77
+ver_rev: 78
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # N5-JP
 
-[[Aprender Idioma Japones]]
+[[Aprender Idioma Japones ⚫①]]
 
 <-- [[N1-JP]] | [[N4-JP]] -->
 

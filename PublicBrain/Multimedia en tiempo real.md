@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.304Z
-modified: 2024-04-14T14:29:03.355Z
+modified: 2024-05-15T21:34:59.761Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Multimedia en tiempo real
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 En el contexto de la accesibilidad web, el uso de multimedia en tiempo real, como videos y audio en directo, es un aspecto importante a considerar para garantizar que todas las personas puedan acceder y disfrutar de contenido en línea de manera inclusiva. Uno de los elementos clave para lograr esto es el elemento <TOKEN>, el cual juega un papel fundamental en la experiencia de usuario.
 

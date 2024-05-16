@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-05T13:58:20.788Z
-modified: 2024-05-05T14:03:37.766Z
+modified: 2024-05-15T21:21:16.639Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de pronombres neutrales y no sexistas (Lectura Fácil) ⚫①
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 El uso de pronombres neutrales y no sexistas es una práctica inclusiva que busca evitar la discriminación por género en el lenguaje. En el caso de la lectura fácil, es importante utilizar pronombres neutrales para garantizar que todas las personas se sientan identificadas y representadas al leer un texto.
 

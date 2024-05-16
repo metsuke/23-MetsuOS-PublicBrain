@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.016Z
-modified: 2024-04-16T11:23:24.692Z
+modified: 2024-05-15T21:38:39.108Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Comparación con otros lenguajes (Aprender C)
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 ¡Claro! El lenguaje de programación C tiene características distintivas que lo diferencian de otros lenguajes. Aquí hay algunas comparaciones con otros lenguajes populares:
 

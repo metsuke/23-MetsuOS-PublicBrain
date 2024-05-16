@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T19:04:57.137Z
-modified: 2024-04-14T14:29:03.797Z
+modified: 2024-05-15T21:38:39.568Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Estructuras de Control
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 ¡Claro! Las estructuras de control en el lenguaje C son esenciales para controlar el flujo de ejecución de un programa. Permiten tomar decisiones, ejecutar bloques de código repetidamente y controlar el comportamiento de un programa. Aquí tienes una descripción de las principales estructuras de control en C:
 

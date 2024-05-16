@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.738Z
-modified: 2024-05-01T20:55:05.582Z
+modified: 2024-05-15T21:34:59.590Z
 supervisado: ""
 ACCION: 
 ver_major: 0
 ver_minor: 3
-ver_rev: 52
+ver_rev: 53
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Interpretación de la información
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 **WCAG 2.0:**
 

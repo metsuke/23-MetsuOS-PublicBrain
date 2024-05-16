@@ -6,21 +6,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.389Z
-modified: 2024-04-14T14:29:03.350Z
+modified: 2024-05-15T21:27:55.396Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Nephew
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"Nephew" es una palabra en [[inglés]] que se utiliza para referirse al "sobrino" en español. Se utiliza para describir a un hijo de un hermano o una hermana. En otras palabras, el sobrino es el hijo de un tío o una tía.
+"Nephew" es una palabra en [[Inglés ⚫①]] que se utiliza para referirse al "sobrino" en español. Se utiliza para describir a un hijo de un hermano o una hermana. En otras palabras, el sobrino es el hijo de un tío o una tía.
 
 La palabra "nephew" se utiliza tanto en contextos formales como informales para referirse al familiar en esta relación. Puede ser usado en conversaciones cotidianas, así como en documentos legales o situaciones más serias.
 

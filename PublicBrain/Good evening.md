@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.485Z
-modified: 2024-05-13T20:46:29.079Z
+modified: 2024-05-15T21:30:14.121Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Saludos y presentaciones (A1-EN) ⚫①]]
 
-"Good evening" es una expresión en [[inglés]] que se utiliza para desear una buena noche. Es la forma más común y educada de saludar por la tarde y por la noche en inglés.
+"Good evening" es una expresión en [[Inglés ⚫①]] que se utiliza para desear una buena noche. Es la forma más común y educada de saludar por la tarde y por la noche en inglés.
 
 La expresión "Good evening" se compone de dos palabras: "Good" que significa "bueno" y "evening" que significa "tarde/noche". Se utiliza desde alrededor de las 6 de la tarde hasta la medianoche.
 

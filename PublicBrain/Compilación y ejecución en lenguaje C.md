@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.018Z
-modified: 2024-04-16T11:23:24.692Z
+modified: 2024-05-15T21:38:39.163Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Compilación y ejecución en lenguaje C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 La compilación y ejecución son dos procesos fundamentales en el desarrollo de programas en lenguaje C.
   

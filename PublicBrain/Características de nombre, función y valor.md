@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T08:32:49.310Z
-modified: 2024-04-14T14:29:03.873Z
+modified: 2024-05-15T21:34:59.156Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Características de nombre, función y valor
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 ### WCAG 2.0
 En WCAG 2.0, la pauta 10.2 se centra en garantizar que los elementos de la interfaz de usuario tengan nombres, funciones y valores que sean claros y significativos para los usuarios. Algunos aspectos clave de esta pauta son:

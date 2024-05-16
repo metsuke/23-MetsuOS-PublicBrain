@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.858Z
-modified: 2024-04-14T14:29:03.223Z
+modified: 2024-05-15T21:38:39.838Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Tu Primer Programa en C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 Es emocionante comenzar a aprender un nuevo lenguaje de programación como C. Tu primer programa en C es una experiencia emocionante y fundamental. Aquí te guiaré a través de los pasos para crear tu primer programa en C, que generalmente es un programa "Hola Mundo".
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.893Z
-modified: 2024-04-14T14:29:03.218Z
+modified: 2024-05-15T21:21:16.567Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de lenguaje claro y simple
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 ¡Claro! El uso de lenguaje claro y simple es fundamental al hablar sobre "Lectura Fácil". Aquí hay algunos puntos clave sobre su importancia y cómo se implementa:
 

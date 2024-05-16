@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.906Z
-modified: 2024-04-14T14:29:03.210Z
+modified: 2024-05-15T21:30:15.071Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Verbo "To Be" en [[Inglés]]
+# Verbo "To Be" en [[Inglés ⚫①]]
 
 ¡Por supuesto! "To be" es uno de los verbos más importantes en inglés, ya que se utiliza en muchos contextos diferentes. Este verbo se traduce al español como "ser" o "estar", y se utiliza para describir o identificar algo o alguien.
 

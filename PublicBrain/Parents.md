@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.580Z
-modified: 2024-04-14T14:29:03.317Z
+modified: 2024-05-15T21:27:55.454Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Parents
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
 La palabra "parents" se refiere a los padres, es decir, las personas que han concebido o adoptado a un niño o niña. Los padres desempeñan un papel fundamental en la vida de sus hijos, proporcionando cuidado, apoyo y orientación. También son responsables de la crianza y educación de sus hijos, ayudándoles a desarrollarse física, emocional y socialmente.
 

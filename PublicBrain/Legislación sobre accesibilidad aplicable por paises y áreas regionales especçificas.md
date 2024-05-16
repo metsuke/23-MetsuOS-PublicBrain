@@ -6,21 +6,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.109Z
-modified: 2024-04-14T14:29:03.439Z
+modified: 2024-05-15T21:21:15.973Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas
 
-[[Aprender sobre Accesibilidad]]
+[[Aprender sobre Accesibilidad ⚫①]]
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 | País            | Normas W3C Aplicables    | Legislación sobre Accesibilidad                                      |
 |-----------------|--------------------------|-----------------------------------------------------------------------|

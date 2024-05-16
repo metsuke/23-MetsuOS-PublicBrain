@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.190Z
-modified: 2024-04-14T14:29:03.796Z
+modified: 2024-05-15T21:34:59.418Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Etiquetas o instrucciones
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 En el contexto de la accesibilidad web, las etiquetas o instrucciones juegan un papel crucial para garantizar que todas las personas puedan interactuar de manera efectiva con el contenido en línea. En este sentido, el elemento <TOKEN> es fundamental para proporcionar información adicional y facilitar la comprensión de los usuarios, especialmente aquellos que utilizan tecnologías de asistencia.
 

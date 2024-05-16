@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.526Z
-modified: 2024-04-14T14:29:03.332Z
+modified: 2024-05-15T21:36:00.356Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Números en Inglés
 
-Los números en [[inglés]] son muy similares a los números en [[español]], pero hay algunas diferencias. Aquí te dejo una lista de los números del 0 al 20:
+Los números en [[Inglés ⚫①]] son muy similares a los números en [[Español ⚫①]], pero hay algunas diferencias. Aquí te dejo una lista de los números del 0 al 20:
 
 0 - zero
 1 - one

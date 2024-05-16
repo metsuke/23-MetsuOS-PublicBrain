@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.811Z
-modified: 2024-04-14T14:29:03.227Z
+modified: 2024-05-15T21:30:14.939Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Toddler
 
-"Toddler" es un sustantivo en [[inglés]] que se utiliza para referirse a un niño pequeño que ha comenzado a caminar y explorar el mundo que le rodea. Un toddler generalmente se encuentra en la etapa de desarrollo entre el primer y tercer año de vida.
+"Toddler" es un sustantivo en [[Inglés ⚫①]] que se utiliza para referirse a un niño pequeño que ha comenzado a caminar y explorar el mundo que le rodea. Un toddler generalmente se encuentra en la etapa de desarrollo entre el primer y tercer año de vida.
 
 Algunas características comunes de los toddlers incluyen su capacidad para caminar de manera más estable, su creciente curiosidad y exploración del entorno, y su desarrollo del lenguaje y la comunicación. Durante esta etapa, los toddlers están experimentando un rápido crecimiento y desarrollo físico, cognitivo y emocional.
 

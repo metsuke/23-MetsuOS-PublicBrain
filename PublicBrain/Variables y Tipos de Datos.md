@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.898Z
-modified: 2024-04-14T14:29:03.212Z
+modified: 2024-05-15T21:38:40.062Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Variables y Tipos de Datos
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 Claro, en el lenguaje C, las variables son espacios de memoria que se utilizan para almacenar valores. Cada variable tiene un tipo de dato que determina qué tipo de valor puede almacenar y la cantidad de memoria que requerirá.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.565Z
-modified: 2024-04-14T14:29:03.322Z
+modified: 2024-05-15T21:21:16.295Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Organización lógica del contenido (Lectura Facil)
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 La organización lógica del contenido en el contexto de la Lectura Fácil implica presentar la información de manera estructurada y secuencial, de modo que sea fácil de comprender y seguir para las personas con dificultades de lectura.
 

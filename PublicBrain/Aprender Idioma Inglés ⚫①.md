@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.428Z
-modified: 2024-05-13T20:52:05.802Z
+modified: 2024-05-15T21:29:42.019Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 74
+ver_rev: 75
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Aprender Idiomas ⚫①]]
 
-* EN | [[Inglés]] 
+* EN | [[Inglés ⚫①]] 
 	* [[Niveles Oficiales EN]]
 		* Nivel A: [[A1-EN ⚫①]] | [[A2-EN]] 
 		* Nivel B: [[B1-EN]] | [[B2-EN]] 
@@ -37,3 +37,5 @@ tags:
 		* [[OET (Occupational English Test)]]
 	* [[MOS Dictionary EN (Diccionario MetsuOS)]]
 	* [[MOS FlashCards EN (Flashcards MetsuOS)]])
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

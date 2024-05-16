@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.101Z
-modified: 2024-05-05T13:58:02.457Z
+modified: 2024-05-15T21:21:15.270Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Definición y objetivos de la lectura fácil ⚫①
 
-[[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+[[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 
 La lectura fácil es una técnica de comunicación que se utiliza para hacer que el contenido escrito sea más accesible y comprensible para una amplia variedad de lectores, en particular, para personas con dificultades de lectura, comprensión o discapacidades cognitivas. Sus principales objetivos son:
 

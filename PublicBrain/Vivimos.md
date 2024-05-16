@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.923Z
-modified: 2024-04-14T14:29:03.202Z
+modified: 2024-05-15T21:36:00.428Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -22,7 +22,7 @@ tags: []
 
 CA [[Vivim]] | EN [[we live in]] | ES [[Vivimos]] | JP [[共に生きる]]
 
-"vivimos" es la primera persona del plural del verbo "vivir" en [[español]]. El verbo "vivir" se utiliza para describir la acción de estar en un estado de vida, habitar en un lugar o existir en un entorno particular. "Vivimos" indica que un grupo de personas, "nosotros" en este caso, está llevando a cabo la acción de vivir en un lugar específico.
+"vivimos" es la primera persona del plural del verbo "vivir" en [[Español ⚫①]]. El verbo "vivir" se utiliza para describir la acción de estar en un estado de vida, habitar en un lugar o existir en un entorno particular. "Vivimos" indica que un grupo de personas, "nosotros" en este caso, está llevando a cabo la acción de vivir en un lugar específico.
 
 El verbo "vivir" es fundamental en el lenguaje, ya que se utiliza para expresar la ubicación y las condiciones en las que una persona o un grupo de personas tienen su hogar. Además, puede ser utilizado en una variedad de contextos para hablar de cómo se experimenta la vida en diferentes lugares y situaciones. Por ejemplo, "vivimos en una ciudad pequeña" o "vivimos en un mundo globalizado".
 

@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.771Z
-modified: 2024-04-14T14:29:03.237Z
+modified: 2024-05-15T21:30:14.874Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +20,7 @@ tags: []
 
 [[Formas de despedirse en Inglés]]
 
-"Take care" es una expresión en [[inglés]] que se utiliza como despedida amistosa y afectuosa. Su traducción al español sería "Cuídate" o "Ten cuidado". Es una forma común de desearle a alguien que se cuide y esté seguro.
+"Take care" es una expresión en [[Inglés ⚫①]] que se utiliza como despedida amistosa y afectuosa. Su traducción al español sería "Cuídate" o "Ten cuidado". Es una forma común de desearle a alguien que se cuide y esté seguro.
 
 "Take care" se utiliza para mostrar preocupación y consideración por la persona a la que te diriges. Puede ser utilizado en una variedad de situaciones, ya sea al despedirse de un amigo, un familiar o incluso un conocido. Es una forma amable de recordarle a alguien que tenga cuidado y se mantenga a salvo.
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-01T21:33:06.724Z
-modified: 2024-05-05T14:13:52.501Z
+modified: 2024-05-16T17:13:07.515Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,7 +28,7 @@ tags:
 - Breve descripción de Pocket y su API
 
 ## Fundamentos de las APIs
-- [[¿Qué es una API? ⚫①]]
+- [[¿Qué es una API? 🔴②]]
 - Tipos de APIs
 - Protocolos de comunicación (HTTP, REST, etc.)
 - Autenticación y autorización en APIs

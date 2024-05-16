@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.035Z
-modified: 2024-04-14T14:29:03.857Z
+modified: 2024-05-15T21:33:24.131Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Conflicto y resolución en Storytelling
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 El conflicto y la resolución son elementos fundamentales en una historia que mantienen a la audiencia interesada y comprometida con la trama. El conflicto es el problema central o la crisis que enfrentan los personajes, que puede ser interno (conflicto emocional o moral) o externo (conflicto con otros personajes o situaciones externas). La resolución es el punto en el que se resuelve el conflicto y se llega a una conclusión satisfactoria, ya sea a través de un cambio en los personajes, una solución al problema o una revelación que cambia la situación.
 

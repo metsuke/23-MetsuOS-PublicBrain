@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.442Z
-modified: 2024-05-13T20:52:05.997Z
+modified: 2024-05-15T20:49:40.351Z
 supervisado: 2024-04-14T14:29:04.063Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 88
+ver_rev: 89
 nav_primary: 
 nav_secondary: 
 tags:
@@ -41,12 +41,12 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * GE  [[Aprender Idioma Aleman]]
 * GL [[Aprender Idioma Gallego]]
 * HAW [[Aprender Idioma Hawaiano]]
-* HE [[Aprender Idioma Hebreo]]
-* HI [[Aprender Idioma Hindi]]
+* HE [[Aprender Idioma Hebreo ⚫①]]
+* HI [[Aprender Idioma Hindi ⚫①]]
 * HU [[Aprender idioma Húngaro]]
 * ID [[Aprender Idioma Indonesio]]
 * IT [[Aprender Idioma Italiano]]
-* JP [[Aprender Idioma Japones]]
+* JP [[Aprender Idioma Japones ⚫①]]
 * KO [[Aprender Idioma Coreano]]
 * LA [[Aprender Idioma Latín]]
 * NAV [[Aprender idioma Navajo]]
@@ -69,6 +69,6 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 
 * [[Aprender idioma Alto Valirio]]
 
- * [[Estadísticas sobre Idiomas]]
+ * [[Estadísticas sobre Idiomas ⚫①]]
  * [Sistemas de escritura del mundo](https://www.worldswritingsystems.org/)
  * [[Textos Religiosos y sus Idiomas de Origen]]

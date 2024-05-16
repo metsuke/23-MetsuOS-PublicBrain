@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.984Z
-modified: 2024-04-14T14:29:03.184Z
+modified: 2024-05-15T21:30:15.350Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -22,7 +22,7 @@ tags: []
 
 EN [[nightmare]] | JP [[悪夢]]
 
-**"Nightmare"** es una palabra en [[inglés]] que se traduce al español como "pesadilla." Se utiliza para describir un sueño extremadamente desagradable o aterrador que a menudo causa angustia o temor en la persona que lo experimenta. Las pesadillas suelen estar asociadas con imágenes perturbadoras, situaciones angustiantes o eventos que generan miedo.
+**"Nightmare"** es una palabra en [[Inglés ⚫①]] que se traduce al español como "pesadilla." Se utiliza para describir un sueño extremadamente desagradable o aterrador que a menudo causa angustia o temor en la persona que lo experimenta. Las pesadillas suelen estar asociadas con imágenes perturbadoras, situaciones angustiantes o eventos que generan miedo.
 
 Además de su uso literal para describir sueños inquietantes, la palabra "nightmare" también se utiliza en un sentido figurado para referirse a situaciones, eventos o problemas que son extremadamente difíciles, desafiantes o desagradables. Por ejemplo, alguien podría decir que vivir una situación particular es como "una pesadilla" si es especialmente estresante o problemática.
 

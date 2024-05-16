@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T11:22:22.100Z
-modified: 2024-04-14T14:29:03.837Z
+modified: 2024-05-15T21:33:24.218Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Cómo conocer a tu audiencia en Storytelling
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 Conocer a tu audiencia es fundamental para desarrollar una buena historia. Aquí te dejo algunos consejos sobre cómo puedes conocer a tu audiencia:
 

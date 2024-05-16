@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.586Z
-modified: 2024-05-13T20:17:53.958Z
+modified: 2024-05-15T20:36:23.405Z
 supervisado: 2024-05-08T19:13:13.736Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
@@ -91,4 +91,4 @@ tags:
 - [[Integración de elementos gráficos, sonidos y mecánicas de juego (Pyxel)]] ⬛
 - [[Evaluación y presentación del proyecto final (Pyxel)]] ⬛
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

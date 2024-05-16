@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-05-14T06:29:54.935Z
+modified: 2024-05-15T21:22:21.393Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 114
+ver_rev: 116
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] 
 
-[[Docs Database]] | [[IA Database]] | [[Promting Database ⚫①]] | [[Tools Database]] | [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
+[[Docs Database]] | [[IA Database]] | [[Promting Database ⚫①]] | [[Tools Database ⚫①]] | [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
 
 [[Arrojando Luz sobre Polémicas Linguísticas]] | [[GPT4All Testing]]
 
@@ -80,7 +80,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Comunicación
 
-* [[Aprender sobre Storytelling]]
+* [[Aprender sobre Storytelling ⚫①]]
 
 ### Diseño
 
@@ -99,7 +99,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender a jugar Parchis]]
 
 * [[Aprender sobre World of Warcraft]]
-* [[Aprender a programar plugins para World of Warcraft]]
+* [[Aprender a programar plugins para World of Warcraft ⚫①]]
 
 * [[Aprender sobre Videojuegos]]
 * Aprender sobre Desarrollo de Videojuegos
@@ -109,11 +109,11 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	
 ### Plena Inclusión
 
-* [[Aprender sobre Accesibilidad]]
-	* [[Aprender sobre Accesibilidad#Accesibilidad y Lectura Fácil]]
+* [[Aprender sobre Accesibilidad ⚫①]]
+	* [[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 	* Aprender sobre 
 		* [[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas]]
-		* ([[WCAG 2.0]] | [[WCAG 2.1]])
+		* ([[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]])
 	* [[Aprender sobre Accesibilidad en ELearining ⚫①]]
 	* [[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 * [[Aprender sobre Altas Capacidades ⚫①]]
@@ -141,7 +141,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	* Aprender sobre [[Estructura y funcionamiento de las redes neuronales ⚫①]]
 * [[Aprender sobre Interacción Digital Remota]]
 	* [[Aprender sobre Interacción Digital Remota mediante API ⚫①]]
-* [[Aprender sobre Programación]]
+* [[Aprender sobre Programación ⚫①]]
 	* [[Aprender sobre Buenas Prácticas y Código Limpio en Programación]]
 * [[Aprender sobre Redes e Internet]]
 

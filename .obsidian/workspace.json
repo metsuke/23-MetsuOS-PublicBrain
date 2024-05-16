@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "72448c9e62509df4",
+        "id": "2085773b25023e9b",
         "type": "tabs",
         "children": [
           {
-            "id": "adc73f56e695274f",
+            "id": "0f67456dc9942a87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md",
+                "file": "PublicBrain/Propósito del curso (Estudio pensamiento y filosofía de una persona) 🔴②.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md",
+                "file": "PublicBrain/Propósito del curso (Estudio pensamiento y filosofía de una persona) 🔴②.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md",
+                "file": "PublicBrain/Propósito del curso (Estudio pensamiento y filosofía de una persona) 🔴②.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md"
+                "file": "PublicBrain/Propósito del curso (Estudio pensamiento y filosofía de una persona) 🔴②.md"
               }
             }
           },
@@ -163,34 +163,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "adc73f56e695274f",
+  "active": "0f67456dc9942a87",
   "lastOpenFiles": [
-    "PublicBrain/WCAG 2.0.md",
+    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
+    "PublicBrain/Aprender con Pablo Grueso ⚫①.md",
+    "PublicBrain/Qué es una API (IDRA-EBay) 🔴②.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
+    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API ⚫①.md",
+    "PublicBrain/¿Qué es una API? 🔴②.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
+    "PublicBrain/Aprender Idiomas ⚫①.md",
+    "PublicBrain/Aprender Idioma Japones ⚫①.md",
+    "PublicBrain/Hiragana.md",
+    "PublicBrain/あ.md",
+    "PublicBrain/Tools Database ⚫①.md",
+    "PublicBrain/Introducción a los principios de la Lectura Fácil ⚫①.md",
     "PublicBrain/Index.md",
-    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
-    "PublicBrain/Rol Project Manager.md",
-    "PublicBrain/Aprender con G-L ⚫①.md",
-    "PublicBrain/Aprender con Javier G. Recuenco ⚫①.md",
-    "PublicBrain/Aprender con Roberto Vaquero ⚫①.md",
-    "PublicBrain/Aprender con Q-Z ⚫①.md",
-    "Aprender con Roberto Vaquero ⚫①.md",
-    "PublicBrain/Aprender con M-P.md",
-    "PublicBrain/Aprender sobre CPS (Complex Problem Solving).md",
-    "PublicBrain/Visión del CPS de Javier G. Recuenco ⚫①.md",
-    "PublicBrain/MOS_Templates/Platzi_Referal.md",
-    "PublicBrain/Platzi_Referal.md",
-    "PublicBrain/A2-TR ⚫①.md",
-    "PublicBrain/Vocabulario de viajes (A1-EN) ⚫①.md",
-    "PublicBrain/Planificar actividades de ocio (A1-EN) ⚫①.md",
-    "PublicBrain/A2-PL ⚫①.md",
-    "PublicBrain/A2-IT ⚫①.md",
-    "PublicBrain/Rol Account Manager ⚫①.md",
-    "PublicBrain/Rol Comercial ⚫①.md",
-    "PublicBrain/Importancia de la educación financiera ⚫①.md",
-    "PublicBrain/Importancia de la gestión de tareas en la vida cotidiana y en el trabajo ⚫①.md",
-    "PublicBrain/Importancia de la accesibilidad para todas las personas ⚫①.md",
+    "PublicBrain/Aprender a preparar embutidos.md",
+    "PublicBrain/Aprender a preparar morcilla negra ⚫①.md",
+    "PublicBrain/Introducción a la Morcilla Negra ⚫①.md",
+    "PublicBrain/Introducción a WCAG 2.1 ⚫①.md",
+    "PublicBrain/WCAG 2.0 ⚫①.md",
+    "PublicBrain/Introducción a WCAG 2.0 ⚫①.md",
+    "PublicBrain/Plataformas de Videojuegos a lo largo de la historia ⚫①.md",
+    "PublicBrain/Intellivision ⚫①.md",
+    "PublicBrain/Aprender sobre Programación ⚫①.md",
+    "PublicBrain/Aprender el Lenguaje C desde Cero ⚫①.md",
+    "PublicBrain/Instalación de un compilador C ⚫①.md",
+    "PublicBrain/Aprender Idioma Español.md",
     "PublicBrain/_resources/Rol Administración Negocios",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",

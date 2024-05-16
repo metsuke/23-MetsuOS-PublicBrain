@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.179Z
-modified: 2024-04-24T21:36:41.262Z
+modified: 2024-05-15T21:25:37.474Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Escritura y pronunciación (Basico-HI)
 
-[[Aprender Idioma Hindi]]
+[[Aprender Idioma Hindi ⚫①]]
 
 La escritura del idioma Hindi se realiza utilizando el "Devanagari", un sistema de escritura que consta de 11 vocales y 33 consonantes. A diferencia del alfabeto latino, en el Devanagari, las vocales se representan por símbolos independientes y se sitúan por encima, por debajo o alrededor de las consonantes.
 

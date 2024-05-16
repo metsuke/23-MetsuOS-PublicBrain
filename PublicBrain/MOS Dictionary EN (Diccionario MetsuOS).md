@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-22T20:09:49.991Z
-modified: 2024-04-22T20:19:21.688Z
+modified: 2024-05-15T21:28:45.752Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # MOS Dictionary EN (Diccionario MetsuOS)
 
-[[Aprender Idioma Ingles]]
+[[Aprender Idioma Ingles ⚫①]]
 
 1. A
 2. B

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.031Z
-modified: 2024-04-17T20:36:41.783Z
+modified: 2024-05-15T21:38:39.192Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Configuración del Entorno de Desarrollo para Lenguaje C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 Configurar el entorno de desarrollo es un paso fundamental al aprender el lenguaje de programación C. Aquí te proporciono una guía básica para configurar un entorno de desarrollo para C desde cero:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.584Z
-modified: 2024-04-14T14:29:03.316Z
+modified: 2024-05-15T21:35:00.050Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Pauta 1 - Texto Alternativo
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 Claro, aquí tienes los bloques para la Pauta 1: Texto Alternativo, uno para WCAG 2.0 y otro para WCAG 2.1:
 

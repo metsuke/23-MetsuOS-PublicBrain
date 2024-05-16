@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.100Z
-modified: 2024-04-21T14:13:43.860Z
+modified: 2024-05-15T21:21:15.251Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Definición y concepto de accesibilidad
 
-[[Aprender sobre Accesibilidad]]
+[[Aprender sobre Accesibilidad ⚫①]]
 
 Accesibilidad se refiere a la capacidad de las personas, independientemente de sus discapacidades o limitaciones, para acceder y utilizar productos, servicios, entornos físicos y digitales de manera efectiva. En el contexto de "Aprender sobre accesibilidad", es importante comprender algunos conceptos clave relacionados con la accesibilidad:
 

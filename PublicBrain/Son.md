@@ -6,21 +6,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.698Z
-modified: 2024-04-14T14:29:03.244Z
+modified: 2024-05-15T21:27:55.637Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Son
 
-[[Miembros de la Familia en Inglés]]
+[[Miembros de la Familia en Inglés ⚫①]]
 
-"son" es una palabra en [[inglés]] que se utiliza para referirse a un hijo masculino. A continuación, te proporciono más información sobre el término "son":
+"son" es una palabra en [[Inglés ⚫①]] que se utiliza para referirse a un hijo masculino. A continuación, te proporciono más información sobre el término "son":
 
 1. Definición: "Son" se refiere a un niño o un hombre en relación con sus padres. Es el opuesto de "daughter" (hija) y se utiliza específicamente para referirse a los hijos varones.
     

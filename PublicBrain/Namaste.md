@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.378Z
-modified: 2024-04-14T14:29:03.351Z
+modified: 2024-05-15T21:26:40.167Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Namaste
 
-"Namaste" es una palabra en [[hindi]] que se utiliza como saludo y muestra de respeto en la cultura india. Es una expresión común que se utiliza tanto en el hindi como en otros idiomas de la India.
+"Namaste" es una palabra en [[Hindi ⚫①]] que se utiliza como saludo y muestra de respeto en la cultura india. Es una expresión común que se utiliza tanto en el hindi como en otros idiomas de la India.
 
 La palabra "Namaste" se compone de dos partes: "namaḥ" y "te". "Namaḥ" se traduce como "saludo" o "adoración", mientras que "te" significa "a ti". Por lo tanto, en conjunto, "Namaste" puede traducirse aproximadamente como "te saludo" o "te adoro".
 

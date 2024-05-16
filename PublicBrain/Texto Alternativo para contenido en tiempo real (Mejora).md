@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-28T21:06:13.038Z
-modified: 2024-04-28T21:13:14.471Z
+modified: 2024-05-15T21:35:00.617Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Texto Alternativo para contenido en tiempo real (Mejora)
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 Dentro del contexto de aprender WCAG 2.1 (Directrices de Accesibilidad para el Contenido Web), el texto alternativo para contenido en tiempo real es una característica importante para mejorar la accesibilidad de los usuarios con discapacidades que utilizan tecnologías de asistencia, como lectores de pantalla.
 

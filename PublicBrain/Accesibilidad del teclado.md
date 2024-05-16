@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.392Z
-modified: 2024-04-14T14:29:04.082Z
+modified: 2024-05-15T21:34:59.071Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Accesibilidad del teclado
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 Accesibilidad del teclado en el contexto de la accesibilidad web se refiere a garantizar que los usuarios que dependen del teclado para navegar y interactuar con un sitio web puedan hacerlo de manera efectiva y sin barreras. Esto implica asegurarse de que todos los elementos interactivos, como botones, enlaces y formularios, sean accesibles mediante el teclado.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T14:28:05.737Z
-modified: 2024-04-15T13:06:42.444Z
+modified: 2024-05-15T21:48:17.528Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # MOS FlashCards JP (Flashcards MetsuOS)
 
-[[Aprender Idioma Japones]]
+[[Aprender Idioma Japones ⚫①]]
 
 ## Índice de Temáticas para Aprender Japonés
 

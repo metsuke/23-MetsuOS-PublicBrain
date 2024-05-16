@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.037Z
-modified: 2024-05-05T12:56:45.649Z
+modified: 2024-05-15T21:26:58.461Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Árabe
 
-[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas]]
+[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas ⚫①]]
 
 El idioma árabe es una de las lenguas más habladas en el mundo, con más de 420 millones de hablantes nativos en todo el mundo. Es una lengua semítica que tiene su origen en la Península Arábiga y es el idioma oficial de más de 20 países, principalmente en el norte de África y en el Medio Oriente.
 

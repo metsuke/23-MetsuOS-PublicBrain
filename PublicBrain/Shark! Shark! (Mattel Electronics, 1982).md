@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.682Z
-modified: 2024-04-14T14:29:03.248Z
+modified: 2024-05-15T21:40:23.023Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +20,7 @@ tags: []
 
 [[Aprender sobre Videojuegos]] | [[Videojuegos a lo largo de la Historia]]
 
-"Shark! Shark!" es un videojuego clásico lanzado por [[Mattel Electronics]] en 1982 para la consola [[Intellivision]]. Fue diseñado por Don Daglow y está considerado como uno de los títulos más populares de la plataforma.
+"Shark! Shark!" es un videojuego clásico lanzado por [[Mattel Electronics]] en 1982 para la consola [[Intellivision ⚫①]]. Fue diseñado por Don Daglow y está considerado como uno de los títulos más populares de la plataforma.
 
 ### Jugabilidad:
 

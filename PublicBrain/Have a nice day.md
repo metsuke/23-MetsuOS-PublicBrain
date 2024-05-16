@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.534Z
-modified: 2024-05-05T19:48:52.827Z
+modified: 2024-05-15T21:30:14.290Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Formas de despedirse en Inglés]]
 
-"Have a nice day" es una expresión común en [[inglés]] que se utiliza para desearle a alguien que tenga un buen día. Es una forma amigable de despedirse y transmitir buenos deseos. La frase se desglosa de la siguiente manera:
+"Have a nice day" es una expresión común en [[Inglés ⚫①]] que se utiliza para desearle a alguien que tenga un buen día. Es una forma amigable de despedirse y transmitir buenos deseos. La frase se desglosa de la siguiente manera:
 
 - "Have" es el verbo en infinitivo "tener" en segunda persona del singular.
 - "a" es un artículo indefinido que se traduce como "un" en español.

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.652Z
-modified: 2024-04-14T14:29:03.273Z
+modified: 2024-05-15T21:35:00.386Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Robusto
 
-[[WCAG 2.0]] | [[WCAG 2.1]]
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 Por supuesto, el principio "Robusto" en las Pautas de Accesibilidad para el Contenido Web (WCAG) se refiere a la capacidad del contenido web de ser interpretado de manera confiable por una amplia variedad de tecnologías, incluidos los asistentes de voz, lectores de pantalla y otros dispositivos de asistencia. Aquí tienes una breve descripción de este principio para WCAG 2.0 y WCAG 2.1:
 

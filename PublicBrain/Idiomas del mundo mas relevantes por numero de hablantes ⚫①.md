@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.585Z
-modified: 2024-05-13T21:04:47.006Z
+modified: 2024-05-15T21:26:40.340Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,9 +25,9 @@ tags:
 | Posición | Idioma | Número de hablantes |
 | --- | --- | --- |
 | 1 | [[Chino]] mandarín | 918 millones |
-| 2 | [[Español]] | 460 millones |
-| 3 | [[Inglés]] | 379 millones |
-| 4 | [[Hindi]] | 341 millones |
+| 2 | [[Español ⚫①]] | 460 millones |
+| 3 | [[Inglés ⚫①]] | 379 millones |
+| 4 | [[Hindi ⚫①]] | 341 millones |
 | 5 | [[Árabe]] | 315 millones |
 | 6 | Bengalí | 228 millones |
 | 7 | Portugués | 221 millones |

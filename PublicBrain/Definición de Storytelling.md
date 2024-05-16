@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.097Z
-modified: 2024-04-18T05:42:11.674Z
+modified: 2024-05-15T21:33:24.247Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Definición de Storytelling
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
   
 El storytelling es una técnica de comunicación que implica contar historias de manera efectiva para transmitir mensajes, ideas o información de manera persuasiva y memorable. En el contexto de aprender sobre storytelling, es importante comprender su definición y las corrientes más importantes que han influido en esta disciplina. A continuación, te proporciono una definición general de storytelling y algunas de las corrientes más destacadas en torno a esta técnica:

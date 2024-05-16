@@ -9,25 +9,25 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.583Z
-modified: 2024-05-13T20:58:56.971Z
+modified: 2024-05-15T21:26:58.506Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Idiomas del mundo mas relevantes en negocios ⚫①
 
-[[Estadísticas sobre Idiomas]]
+[[Estadísticas sobre Idiomas ⚫①]]
 | Idioma       | Volumen de negocio (billones de dólares) |
 |--------------|----------------------------------------|
-| [[Inglés]]       | 28,0                                   |
+| [[Inglés ⚫①]]       | 28,0                                   |
 | [[Chino]] Mandarín     | 27,7                                   |
 | [[Japonés]]      | 1,8                                    |
-| [[Español]]      | 1,5                                    |
+| [[Español ⚫①]]      | 1,5                                    |
 | Francés      | 1,3                                    |
 | [[Alemán]]       | 1,1                                    |
 | Italiano     | 0,9                                    |
@@ -37,7 +37,7 @@ tags:
 | Ruso         | 0,5                                    |[[[[]]]]
 | Neerlandés   | 0,4                                    |
 | Turco        | 0,4                                    |
-| [[Hindi]]        | 0,4                                    |
+| [[Hindi ⚫①]]        | 0,4                                    |
 | Sueco        | 0,3                                    |
 | Polaco       | 0,3                                    |
 | Hebreo       | 0,3                                    |
@@ -53,9 +53,9 @@ tags:
 
 | Índice | Idioma            | Número de hablantes | Volumen de negocio |
 | ------ | ---------------- | ------------------ | ------------------ |
-| 1      | [[Inglés]]            | 1.132 millones      | Alto               |
+| 1      | [[Inglés ⚫①]]            | 1.132 millones      | Alto               |
 | 2      | [[Chino]] (mandarín)  | 1.117 millones      | Alto               |
-| 3      | [[Español]]           | 534 millones        | Medio-alto         |
+| 3      | [[Español ⚫①]]           | 534 millones        | Medio-alto         |
 | 4      | Árabe             | 274 millones        | Medio              |
 | 5      | Francés           | 274 millones        | Medio              |
 | 6      | Alemán            | 132 millones        | Medio              |
@@ -65,7 +65,7 @@ tags:
 | 10     | Italiano          | 85 millones         | Medio              |
 | 11     | Coreano           | 77 millones         | Medio              |
 | 12     | Neerlandés        | 29 millones         | Medio              |
-| 13     | [[Hindi]]             | 615 millones        | Medio-bajo         |
+| 13     | [[Hindi ⚫①]]             | 615 millones        | Medio-bajo         |
 | 14     | Turco             | 83 millones         | Medio-bajo         |
 | 15     | Polaco            | 45 millones         | Medio-bajo         |
 | 16     | Sueco             | 10 millones         | Medio-bajo         |

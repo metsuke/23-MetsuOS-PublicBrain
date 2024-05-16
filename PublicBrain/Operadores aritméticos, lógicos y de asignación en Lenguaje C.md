@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.561Z
-modified: 2024-04-14T14:29:03.324Z
+modified: 2024-05-15T21:38:39.669Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Operadores aritméticos, lógicos y de asignación en Lenguaje C
 
-[[Aprender el Lenguaje C desde Cero]]
+[[Aprender el Lenguaje C desde Cero ⚫①]]
 
 ¡Por supuesto! Aquí tienes una explicación sobre los operadores aritméticos, lógicos y de asignación en el contexto de aprender el lenguaje C desde cero:
 

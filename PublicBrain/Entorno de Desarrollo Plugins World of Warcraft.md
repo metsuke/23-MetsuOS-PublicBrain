@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.175Z
-modified: 2024-04-23T20:14:24.749Z
+modified: 2024-05-15T21:22:21.264Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Entorno de Desarrollo Plugins World of Warcraft
 
-[[Aprender a programar plugins para World of Warcraft]]
+[[Aprender a programar plugins para World of Warcraft ⚫①]]
 
 El entorno de desarrollo para crear plugins de World of Warcraft se basa en el uso de software específico para la programación y la modificación del juego. Los principales elementos que conforman este entorno son:
 

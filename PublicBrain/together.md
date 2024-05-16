@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.996Z
-modified: 2024-04-14T14:29:03.183Z
+modified: 2024-05-15T21:30:15.364Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -22,7 +22,7 @@ tags: []
 
 CA [[junts]] | EN [[together]] | ES [[Juntos]] | JP [[共]] 
 
-Together" es una palabra en [[inglés]] que significa "juntos" o "en conjunto". Puede referirse a varias situaciones y contextos, y su significado depende del contexto en el que se utilice. Aquí te proporciono algunas formas comunes en las que se usa esta palabra:
+Together" es una palabra en [[Inglés ⚫①]] que significa "juntos" o "en conjunto". Puede referirse a varias situaciones y contextos, y su significado depende del contexto en el que se utilice. Aquí te proporciono algunas formas comunes en las que se usa esta palabra:
 
 1. **Juntos en Relaciones**: "Together" se utiliza a menudo para describir a dos o más personas que están en una relación cercana o que están compartiendo tiempo y experiencias. Por ejemplo, una pareja que está "together" está en una relación romántica o comprometida.
     

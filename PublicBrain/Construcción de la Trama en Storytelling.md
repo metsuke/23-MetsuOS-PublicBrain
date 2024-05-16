@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:36:53.785Z
-modified: 2024-04-15T05:37:37.800Z
+modified: 2024-05-15T21:33:24.157Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Construcción de la Trama en Storytelling
 
-[[Aprender sobre Storytelling]]
+[[Aprender sobre Storytelling ⚫①]]
 
 Claro, la construcción de la trama es un elemento fundamental en el arte de contar historias o storytelling. Consiste en la forma en que se desarrolla y se estructura la narrativa de una historia, incluyendo la introducción de personajes, la presentación del conflicto principal, el desarrollo de eventos y situaciones que mantienen el interés del público, y finalmente la resolución o desenlace.
 

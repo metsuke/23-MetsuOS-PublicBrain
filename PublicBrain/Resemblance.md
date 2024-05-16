@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.647Z
-modified: 2024-04-14T14:29:03.275Z
+modified: 2024-05-15T21:30:14.563Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Resemblance
 
-"Resemblance" es una palabra en [[inglés]] que se utiliza para describir la similitud o semejanza entre dos o más personas, objetos o conceptos. Se refiere a la apariencia o característica que comparten, lo que los hace parecerse o tener una conexión visual o conceptual.
+"Resemblance" es una palabra en [[Inglés ⚫①]] que se utiliza para describir la similitud o semejanza entre dos o más personas, objetos o conceptos. Se refiere a la apariencia o característica que comparten, lo que los hace parecerse o tener una conexión visual o conceptual.
 
 "Resemblance" se utiliza comúnmente para hablar de similitudes físicas, como el parecido entre dos personas que comparten rasgos faciales similares o entre objetos que tienen características visuales en común. También se puede utilizar para describir similitudes en términos de personalidad, comportamiento o incluso en términos abstractos, como una semejanza en la estructura de dos conceptos o ideas.
 

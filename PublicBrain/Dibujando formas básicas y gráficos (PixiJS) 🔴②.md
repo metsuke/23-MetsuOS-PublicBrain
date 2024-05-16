@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.105Z
-modified: 2024-05-13T20:02:38.302Z
+modified: 2024-05-16T19:15:05.411Z
 supervisado: 2024-05-11T21:48:56.863Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -108,8 +108,7 @@ En este artículo, hemos visto cómo dibujar formas básicas y gráficos utiliza
 
 - Phaser. (s.f.). Phaser vs Pixi.js. En Phaser. <https://phaser.io/phaser-vs-pixi-js/> (argumenta que Phaser es una mejor opción que PixiJS para desarrollar juegos en la web)
 -  CreateJS. (s.f.). EaselJS vs Pixi.js. En CreateJS. <https://createjs.com/easeljs-vs-pixi-js/> (argumenta que EaselJS es una mejor opción que PixiJS para desarrollar gráficos en la web)
-```
 
 Este formato utiliza diferentes niveles de encabezados jerárquicos para organizar el contenido de manera clara y concisa. ¡Espero que esto te sea útil! Si necesitas más ayuda, ¡no dudes en preguntar!
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

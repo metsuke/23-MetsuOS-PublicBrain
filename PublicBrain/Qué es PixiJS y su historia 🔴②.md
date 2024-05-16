@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.632Z
-modified: 2024-05-13T20:02:38.217Z
+modified: 2024-05-16T19:13:10.520Z
 supervisado: 2024-05-11T21:54:23.367Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -61,4 +61,4 @@ La comunidad activa que rodea a PixiJS ha contribuido al desarrollo de la biblio
 
 Es importante mencionar que, aunque PixiJS es una biblioteca muy popular y utilizada en muchos proyectos, no es la única biblioteca de renderizado 2D disponible en el mercado. Otros desarrolladores pueden tener preferencias por bibliotecas como Phaser o PlayCanvas, por ejemplo.
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

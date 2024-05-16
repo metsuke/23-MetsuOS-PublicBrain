@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.031Z
-modified: 2024-05-13T20:02:38.313Z
-supervisado: 2024-05-07T19:55:12.183Z
+modified: 2024-05-16T19:15:04.607Z
+supervisado: 2024-05-13T20:02:38.313Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
@@ -93,4 +93,4 @@ Siguiendo estos pasos, habrás configurado con éxito tu entorno de desarrollo p
 
 *Nota:* Es importante mencionar que la sección de referencias que refutan el contenido está vacía, ya que no se encontraron fuentes que contradigan el contenido presentado.
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴②  🟡 ③ 🟢④ 🔵⑤ ⚪⑥ 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

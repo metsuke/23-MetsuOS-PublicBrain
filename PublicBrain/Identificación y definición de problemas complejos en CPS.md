@@ -18,7 +18,7 @@ tags: []
 ---
 # Identificación y definición de problemas complejos en CPS
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 Los problemas complejos se caracterizan por ser situaciones que involucran múltiples variables, interacciones no lineales y falta de estructura clara para encontrar una solución. Identificar y definir correctamente un problema complejo es fundamental para poder abordarlo de manera efectiva. Algunas pautas para identificar y definir problemas complejos incluyen:
 

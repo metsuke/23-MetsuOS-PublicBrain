@@ -18,7 +18,7 @@ tags: []
 ---
 # Reflexión y aprendizaje a partir de la experiencia en CPS
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 La reflexión y aprendizaje a partir de la experiencia son componentes fundamentales en el desarrollo de habilidades de resolución de problemas complejos (CPS). Al enfrentarnos a desafíos complicados, es crucial no solo encontrar soluciones inmediatas, sino también reflexionar sobre el proceso y los resultados obtenidos para aprender y mejorar en futuras situaciones similares.
 

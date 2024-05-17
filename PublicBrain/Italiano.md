@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.771Z
-modified: 2024-04-14T14:29:03.535Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T21:01:38.602Z
+supervisado: 2024-04-14T14:29:03.535Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Italiano
 
@@ -30,10 +33,12 @@ El italiano es una lengua romance que se originó en la región de Italia y es h
     
 4. **Género y número:** El italiano es una lengua que asigna género (masculino o femenino) a los sustantivos y adjetivos. Además, tiene dos números, singular y plural.
     
-5. **Conjugación verbal:** El italiano es conocido por su sistema de conjugación verbal que varía según la persona, el número, el tiempo y el modo. Los verbos se dividen en tres conjugaciones: -are, -ere, y -ire.
+5. **Conjugación verbal:** El italiano es conocido por su sistema de conjugación verbal que varía según la persona, el número, el tiempo y el modo. Los verbos se dividen en tres conjugaciones: "-"are, -ere, y -ire.
     
 6. **Artículos definidos e indefinidos:** Al igual que en otros idiomas romance, el italiano utiliza artículos definidos (il, la, lo, i, gli, le) e indefinidos (un, uno, una, un', degli, delle) que concuerdan en género y número con el sustantivo al que modifican.
     
 7. **Uso de gestos:** Los italianos son conocidos por su expresividad y el uso frecuente de gestos para comunicarse. Los gestos son una parte integral de la comunicación en Italia y a menudo se utilizan para enfatizar puntos o expresar emociones.
     
 8. **Influencia cultural:** El italiano es la lengua oficial de Italia y es hablado en otras regiones como Suiza, San Marino y el Vaticano. Además, tiene una rica herencia cultural y literaria, con contribuciones notables en áreas como la música, el arte y la literatura.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

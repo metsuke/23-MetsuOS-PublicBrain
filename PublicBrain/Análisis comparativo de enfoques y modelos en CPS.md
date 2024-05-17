@@ -18,7 +18,7 @@ tags: []
 ---
 # Análisis comparativo de enfoques y modelos en CPS
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 Existen varios enfoques y modelos para abordar el problema de resolver problemas complejos (CPS). A continuación se presenta un análisis comparativo de algunos de los enfoques y modelos más relevantes en este campo:
 

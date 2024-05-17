@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.804Z
-modified: 2024-05-15T20:38:26.572Z
+modified: 2024-05-16T21:03:38.827Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 30
+ver_rev: 31
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -26,6 +26,6 @@ Los kanji de grado 1, también conocidos como "kanji básicos" o "kanji de prime
 
 Recuerda que estos kanji representan conceptos básicos y objetos cotidianos. A medida que los estudiantes avanzan en su educación, se les enseñan kanji más complejos y específicos.
 
-<< [[Jinmeiyō-kanji]] || [[Kanji - Grado 2]] >>
+<< [[Jinmeiyō-kanji ⚫①]] || [[Kanji - Grado 2]] >>
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

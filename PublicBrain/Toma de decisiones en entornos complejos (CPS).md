@@ -18,7 +18,7 @@ tags: []
 ---
 # Toma de decisiones en entornos complejos (CPS)
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 La toma de decisiones en entornos complejos es un proceso cognitivo multidimensional que implica la evaluación de múltiples factores interrelacionados y la identificación de soluciones óptimas en situaciones dinámicas y ambiguas. Este tipo de entornos se caracterizan por la presencia de múltiples variables, interdependencias entre los elementos, incertidumbre y cambios constantes.
 

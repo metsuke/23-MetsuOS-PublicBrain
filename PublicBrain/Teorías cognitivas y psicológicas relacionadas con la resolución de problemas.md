@@ -18,7 +18,7 @@ tags: []
 ---
 # Teorías cognitivas y psicológicas relacionadas con la resolución de problemas
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 Existen varias teorías cognitivas y psicológicas que están relacionadas con la resolución de problemas, especialmente en el campo de la psicología cognitiva. Algunas de las teorías más relevantes incluyen:
 

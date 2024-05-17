@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.758Z
-modified: 2024-04-14T14:29:03.540Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T21:01:38.605Z
+supervisado: 2024-04-14T14:29:03.540Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Introducción al alfabeto Hindi (Basico-HI)
 
@@ -76,3 +79,5 @@ El alfabeto hindi se llama "Devanagari" y consta de 11 vocales y 33 consonantes.
 Ten en cuenta que algunas letras tienen diacríticos que pueden cambiar su pronunciación. Además, hay símbolos adicionales para sonidos combinados y conjuntos de consonantes.
 
 Aprender el alfabeto Devanagari es esencial para poder leer y escribir en hindi. Puedes encontrar recursos en línea, como tutoriales en video y aplicaciones, que te ayudarán a familiarizarte con la escritura de estas letras. Practicar la escritura y la pronunciación es clave para mejorar tus habilidades en hindi.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

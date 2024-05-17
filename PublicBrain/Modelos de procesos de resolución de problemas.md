@@ -18,7 +18,7 @@ tags: []
 ---
 # Modelos de procesos de resolución de problemas
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 Existen varios modelos de procesos de resolución de problemas que pueden utilizarse en el contexto de Complex Problem Solving (CPS). Algunos de los modelos más comunes incluyen:
 

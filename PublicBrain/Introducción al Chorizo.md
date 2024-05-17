@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.755Z
-modified: 2024-04-14T14:29:03.542Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T21:01:38.606Z
+supervisado: 2024-04-14T14:29:03.542Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Introducción al Chorizo
 
@@ -27,3 +30,5 @@ Existen diferentes variedades de chorizo, que pueden variar en su nivel de pican
 El chorizo se puede consumir de diversas formas, ya sea frito, asado, cocido o simplemente como aperitivo en tapas. Es un ingrediente muy versátil que se utiliza en una gran variedad de platos, como guisos, arroces, empanadas, salsas, etc.
 
 Preparar chorizo en casa puede ser una actividad divertida y gratificante, ya que nos permite controlar los ingredientes que utilizamos y ajustar la receta a nuestro gusto personal. Además, el chorizo casero suele tener un sabor más auténtico y natural que el comercial. ¡Anímate a aprender a preparar tu propio chorizo y disfrutar de su delicioso sabor!
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

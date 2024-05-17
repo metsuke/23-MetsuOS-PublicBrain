@@ -1,26 +1,29 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.776Z
-modified: 2024-05-15T21:48:17.277Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T21:08:16.761Z
+supervisado: 2024-05-15T21:48:17.277Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # JLPT Business Japanese Proficiency Test (BJT)
 
 [[Aprender Idioma Japones ⚫①]]
 
-## Módulo 1: Introducción al Japonés de Negocios
+## Módulo 1: "I"ntroducción al Japonés de Negocios
 
 1.1. Vocabulario y frases clave en el entorno empresarial japonés.
 1.2. Presentación y etiqueta empresarial en japonés.
@@ -61,5 +64,7 @@ tags: []
 6.2. Simulacros de exámenes completos del BJT en condiciones reales.
 6.3. Revisión de resultados y retroalimentación.
 6.4. Evaluación final de preparación para el Business Japanese Proficiency Test (BJT).
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
 
 

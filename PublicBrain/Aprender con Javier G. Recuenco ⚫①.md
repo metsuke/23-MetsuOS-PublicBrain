@@ -21,7 +21,7 @@ tags:
 ---
 # Aprender con Javier G. Recuenco ⚫①
 
-[[Aprender con G-L ⚫①]] | [[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender con G-L ⚫①]] | [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 * [Javier G. Recuenco | LinkedIn](https://www.linkedin.com/in/javier-g-recuenco-70a708/?originalSubdomain=es)
 
@@ -46,6 +46,8 @@ En este proyecto tomo los "hilos turra" de [Javier G. Recuenco](https://www.link
 * [[Profundidad]]
 * [[Renuncia estratégica]]
 * [[Tradeoffs]]
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
 
 
 

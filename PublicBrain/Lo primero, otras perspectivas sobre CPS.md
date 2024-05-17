@@ -18,7 +18,7 @@ tags: []
 ---
 # Lo primero, otras perspectivas sobre CPS
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 Además de la perspectiva clásica de la psicología cognitiva, existen otras disciplinas y enfoques que también estudian el complejo problema de resolver problemas complejos. Algunos de ellos son:
 

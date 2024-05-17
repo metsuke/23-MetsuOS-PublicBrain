@@ -3,18 +3,18 @@ iaStatus: 8
 iaStatus_Generado: I
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.813Z
-modified: 2024-05-15T21:48:17.392Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T21:08:16.757Z
+supervisado: 2024-05-15T21:48:17.392Z
+ACCION: 
 ver_major: 0
-ver_minor: 3
-ver_rev: 75
+ver_minor: 4
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
@@ -55,4 +55,6 @@ El aprendizaje de los kanji requiere dedicación y práctica, ya que cada carác
 * [[Kanji - Grado 7 - Jôyô kanji]]
 * [[Kanji - Grado 8 - Jôyô kanji]]
 * [[Kanji - Grado 9 - Jôyô kanji]]
-* [[Jinmeiyō-kanji]] (Para nombres)
+* [[Jinmeiyō-kanji ⚫①]] (Para nombres)
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.789Z
-modified: 2024-05-15T21:26:40.107Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T21:08:16.760Z
+supervisado: 2024-05-15T21:26:40.107Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Jai Shri Krishna
 
@@ -27,3 +30,5 @@ Krishna es considerado una encarnación del dios Vishnu en la tradición hindú 
 Decir "Jai Shri Krishna" es una forma de mostrar respeto y reverencia a Krishna, y se usa comúnmente entre los seguidores del hinduismo para saludar o despedirse, así como para expresar devoción y gratitud hacia él.
 
 En resumen, "Jai Shri Krishna" es una expresión en hindi que expresa reverencia y devoción al Señor Krishna, una figura central en la mitología y la religión hindú.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -18,7 +18,7 @@ tags: []
 ---
 # Comprensión y análisis de problemas en CPS
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 La comprensión y el análisis de problemas son habilidades esenciales en el contexto de la resolución de problemas complejos. Para abordar con éxito un problema complejo, es fundamental tener una comprensión profunda de la situación, identificar claramente cuál es el problema en cuestión, y analizar sus causas y posibles consecuencias.
 

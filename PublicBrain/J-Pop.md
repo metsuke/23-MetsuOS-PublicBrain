@@ -1,22 +1,27 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.772Z
-modified: 2024-04-14T14:29:03.535Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T21:01:38.602Z
+supervisado: 2024-04-14T14:29:03.535Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # J-Pop
+
+[[Aprender sobre BabyMetal]]
 
 J-Pop es el término abreviado utilizado para referirse a la música pop japonesa. Es un género musical popular en Japón que combina elementos de la música pop occidental con influencias culturales japonesas. El J-Pop abarca una amplia variedad de estilos y subgéneros, y ha ganado popularidad tanto en Japón como a nivel internacional.
 
@@ -36,3 +41,5 @@ A lo largo de los años, numerosos artistas han dejado su huella en el J-Pop. Al
     
 
 Estos son solo algunos ejemplos, pero el J-Pop abarca una amplia gama de artistas y estilos. El género ha evolucionado a lo largo de los años, adoptando influencias de la música pop occidental y fusionándolas con elementos únicos de la cultura japonesa. El J-Pop continúa siendo un género musical vibrante y emocionante con una base de seguidores apasionados tanto dentro como fuera de Japón.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

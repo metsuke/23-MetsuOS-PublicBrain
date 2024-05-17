@@ -18,7 +18,7 @@ tags: []
 ---
 # Importancia y aplicaciones de CPS en diversos campos
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 La resolución de problemas complejos (CPS) es una habilidad crucial en una variedad de campos y situaciones. Aquí se presentan algunas aplicaciones y la importancia de CPS en diversos ámbitos:
 

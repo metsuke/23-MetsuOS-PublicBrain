@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.769Z
-modified: 2024-04-14T14:29:03.539Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T21:01:38.604Z
+supervisado: 2024-04-14T14:29:03.539Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Introducción al arte del kirigami
 
@@ -29,3 +32,5 @@ El arte del kirigami requiere de habilidad y paciencia para realizar los cortes 
 El kirigami es una forma de arte versátil que se puede aplicar en diversas áreas, como la decoración, la moda, la arquitectura o incluso la ingeniería. Es una forma de arte accesible para personas de todas las edades y niveles de habilidad, que puede ser una actividad creativa y terapéutica.
 
 En resumen, el kirigami es una forma creativa y fascinante de arte que combina el plegado y el corte de papel para crear diseños tridimensionales y detallados. Es una técnica única que permite explorar la creatividad y la expresión artística a través de un medio sencillo como el papel.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

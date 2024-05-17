@@ -18,7 +18,7 @@ tags: []
 ---
 # Generación y evaluación de soluciones en CPS
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 La generación y evaluación de soluciones son dos aspectos fundamentales del proceso de resolución de problemas complejos (CPS). A continuación, se describen brevemente cada uno de estos aspectos:
 

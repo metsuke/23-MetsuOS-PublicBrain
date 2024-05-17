@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.799Z
-modified: 2024-04-14T14:29:03.533Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T21:08:16.759Z
+supervisado: 2024-04-14T14:29:03.533Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Japón
 
@@ -33,3 +36,5 @@ En cuanto a la tecnología, Japón es reconocido como líder mundial en [[innova
 Japón también cuenta con una [[naturaleza]] diversa y hermosa, con montañas majestuosas, como el [[Monte Fuji]], y exuberantes bosques. Los [[jardines japoneses tradicionales]], con su meticulosa atención al [[paisajismo]] y los [[espacios zen]], también son un [[símbolo]] de [[tranquilidad]] y [[serenidad]].
 
 En resumen, Japón es un país fascinante que combina una rica historia y tradiciones arraigadas con una mentalidad innovadora y tecnológica. Su cultura, gastronomía, artesanía y paisajes hacen de Japón un destino único y atractivo para visitantes de todo el mundo.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

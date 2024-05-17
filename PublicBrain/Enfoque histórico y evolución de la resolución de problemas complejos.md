@@ -18,7 +18,7 @@ tags: []
 ---
 # Enfoque histórico y evolución de la resolución de problemas complejos
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 La resolución de problemas complejos ha sido un aspecto fundamental en la evolución del ser humano a lo largo de la historia. Desde los tiempos prehistóricos, nuestros antepasados han tenido que enfrentarse a desafíos que requerían soluciones creativas y efectivas para sobrevivir, como la caza de animales, la construcción de refugios o la búsqueda de alimentos.
 

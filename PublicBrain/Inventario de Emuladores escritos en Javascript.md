@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.770Z
-modified: 2024-04-14T14:29:03.537Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T21:01:38.603Z
+supervisado: 2024-04-14T14:29:03.537Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Inventario de Emuladores escritos en Javascript
 
@@ -350,3 +353,5 @@ En esta sección caracterizo y clasifico diferentes emuladores realizados en Jav
 
 * [Página del proyecto donde probarlos](https://emulatorjs.netlify.app/)
 * [Listado de Frederic Cambus](https://github.com/fcambus/jsemu#readme-ov-file) - Desde aquí quiero agradecerle a Frederic en especial, dado que su proyecto es inspiración y base de la lista de emuladores a evaluar, estudiar e inventariar de la que parte esta sección de mi Public Brain.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

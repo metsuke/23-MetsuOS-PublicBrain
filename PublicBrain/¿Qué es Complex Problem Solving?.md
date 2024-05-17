@@ -18,7 +18,7 @@ tags: []
 ---
 # ¿Qué es Complex Problem Solving?
 
-[[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 Complex Problem Solving (CPS), o resolución de problemas complejos, es una habilidad cognitiva que implica la capacidad de enfrentar y resolver problemas no estructurados o mal definidos en entornos dinámicos y cambiantes. Estos problemas suelen ser ambiguos, multifacéticos y requieren la integración de diferentes fuentes de información para llegar a una solución efectiva.
 

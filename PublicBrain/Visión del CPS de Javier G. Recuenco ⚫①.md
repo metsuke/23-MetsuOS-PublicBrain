@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:49:00.917Z
 modified: 2024-05-14T06:20:41.030Z
 supervisado: 2024-05-10T19:20:40.025Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 85
@@ -21,7 +21,7 @@ tags:
 ---
 # Visión del CPS de Javier G. Recuenco ⚫①
 
-[[Aprender con Javier G. Recuenco ⚫①]] | [[Aprender sobre CPS (Complex Problem Solving)]]
+[[Aprender con Javier G. Recuenco ⚫①]] | [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 ---
 * [CPS Notebook (notion.site)](https://cps-notebook.notion.site/CPS-Notebook-81fe17dc15d04e9db085cf7f747d0c16)*
@@ -56,5 +56,7 @@ mindmap
 * [¿Qué es el CPS, que no y otras mierdas? Lección 01 (2024-03-09)](https://twitter.com/Recuenco/status/1766352097409134910)
 * ¿Qué es el CPS, que no y otras mierdas? Lección 02 (Proximamente)
 
-[[Aprender sobre CPS (Complex Problem Solving)]]]
+[[Aprender sobre CPS (Complex Problem Solving) ⚫①]]]
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
 

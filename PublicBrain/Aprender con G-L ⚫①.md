@@ -46,3 +46,5 @@ tags:
 * Aprender sobre Juan Soto Ivars
 * Aprener con Juanjo Navarro Mínguez
 * Aprender con Luis Quevedo
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

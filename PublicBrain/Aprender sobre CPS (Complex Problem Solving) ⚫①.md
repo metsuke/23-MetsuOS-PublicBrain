@@ -1,9 +1,9 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:58.530Z
 modified: 2024-05-14T06:22:29.837Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
 ver_rev: 80
@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Aprender sobre CPS (Complex Problem Solving)
+# Aprender sobre CPS (Complex Problem Solving) ⚫①
 
 [[PublicBrain/Index|Index]]
 
@@ -83,5 +83,7 @@ tags:
 - Lecturas recomendadas y recursos adicionales.
 - Artículos académicos y libros de referencia.
 - Sitios web y recursos en línea relacionados con CPS.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
 
 

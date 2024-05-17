@@ -1,26 +1,29 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.780Z
-modified: 2024-05-15T21:48:17.325Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-16T21:01:47.982Z
+supervisado: 2024-05-16T21:01:47.982Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # JLPT Teacher Training Program
 
 [[Aprender Idioma Japones ⚫①]]
 
-## Módulo 1: Introducción al Programa de Formación de Profesores del JLPT
+## Módulo 1: "I"ntroducción al Programa de Formación de Profesores del JLPT
 
 1.1. Visión general del programa y objetivos de la formación.
 1.2. Roles y responsabilidades del instructor de JLPT.
@@ -61,6 +64,8 @@ tags: []
 6.2. Preparación para el examen de certificación de profesores JLPT.
 6.3. Evaluación práctica y retroalimentación.
 6.4. Certificación y reconocimiento como profesor JLPT.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
 
 
 

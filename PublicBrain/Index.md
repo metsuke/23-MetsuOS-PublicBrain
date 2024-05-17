@@ -101,7 +101,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre World of Warcraft]]
 * [[Aprender a programar plugins para World of Warcraft ⚫①]]
 
-* [[Aprender sobre Videojuegos]]
+* [[Aprender sobre Videojuegos ⚫①]]
 * Aprender sobre Desarrollo de Videojuegos
 	* Aprender sobre MPL
 		* [[Aprender sobre PixiJS ⚫①]]

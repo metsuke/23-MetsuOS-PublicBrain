@@ -22,7 +22,7 @@ tags:
 # Plataformas de Videojuegos a lo largo de la historia ⚫①
 [[]]# Plataformas de Videojuegos a lo largo de la historia
 
-[[Aprender sobre Videojuegos]]
+[[Aprender sobre Videojuegos ⚫①]]
 
 Esta es una lista en construcción de plataformas donde se han ejecutado juegos a lo largo de la historia. 
 

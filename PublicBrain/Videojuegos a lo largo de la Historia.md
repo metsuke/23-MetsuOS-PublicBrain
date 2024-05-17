@@ -18,7 +18,7 @@ tags: []
 ---
 # Videojuegos a lo largo de la Historia
 
-[[Aprender sobre Videojuegos]]
+[[Aprender sobre Videojuegos ⚫①]]
 
 ## A-F
 * [[Adventure (Atari, Inc., 1979)]].

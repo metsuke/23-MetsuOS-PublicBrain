@@ -19,11 +19,11 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Videojuegos
+# Aprender sobre Videojuegos ⚫①
 
 [[PublicBrain/Index]]
 
-* [[Aprender sobre Historia Mundial del Videojuego]]
+* [[Aprender sobre Historia Mundial del Videojuego ⚫①]]
 
 * [[Desarrolladores de Videojuegos a lo largo de la Historia]]
 * [[Plataformas de Videojuegos a lo largo de la historia ⚫①]]
@@ -34,3 +34,5 @@ tags:
 
 * [[Narrativa y Storytelling en el mundo del videojuego]]
 * [[Inventario de Emuladores escritos en Javascript]] 
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -18,7 +18,7 @@ tags: []
 ---
 # Importancia cultural y social de los videojuegos
 
-[[Aprender sobre Historia Mundial del Videojuego]]
+[[Aprender sobre Historia Mundial del Videojuego ⚫①]]
 
 Los videojuegos han adquirido una gran importancia cultural y social en la sociedad actual. Se han convertido en una forma popular de entretenimiento a nivel mundial y han llegado a ser considerados una forma de arte, gracias a la creatividad y la innovación que se reflejan en su diseño y en su narrativa.
 

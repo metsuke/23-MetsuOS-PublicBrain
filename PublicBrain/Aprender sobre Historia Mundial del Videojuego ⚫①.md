@@ -1,8 +1,8 @@
 ---
 iaStatus: 8
-iaStatus_Model: ""
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:58.550Z
 modified: 2024-04-14T14:29:04.040Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
 ver_rev: 73
@@ -19,9 +19,9 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Historia Mundial del Videojuego
+# Aprender sobre Historia Mundial del Videojuego ⚫①
 
-[[Aprender sobre Videojuegos]]
+[[Aprender sobre Videojuegos ⚫①]]
 
 ## Introducción a la Historia del Videojuego
 - [[Definición de videojuego]]
@@ -66,3 +66,5 @@ tags:
 - Reflexiones sobre la evolución de los videojuegos
 - Impacto cultural, social y económico de los videojuegos en el mundo
 - Futuro de la industria del videojuego
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

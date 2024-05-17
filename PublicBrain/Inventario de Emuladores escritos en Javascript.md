@@ -21,7 +21,7 @@ tags:
 ---
 # Inventario de Emuladores escritos en Javascript
 
-[[Aprender sobre Videojuegos]]
+[[Aprender sobre Videojuegos ⚫①]]
 
 **INICIAMOS Seccion propia con información reorganizada y traducida que evolucionará por su lado**
 

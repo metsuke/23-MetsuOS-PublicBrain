@@ -1,17 +1,17 @@
 ---
-iaStatus: 8
-iaStatus_Model: ""
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus: 5
+iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-a11y: 0
+a11y: -2
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.563Z
 modified: 2024-05-11T21:31:14.572Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 2
 ver_rev: 29
@@ -64,7 +64,6 @@ En la actualidad, las redes neuronales transformadoras (como BERT y GPT) han rev
 La investigación en redes neuronales sigue avanzando, con un enfoque en hacer que los modelos sean más eficientes, interpretables y adaptables. También se investiga en áreas emergentes como la computación cuántica y las redes neuronales biológicas.
 
 Referencias bibliográficas
--------------------------
 
 * McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. Bulletin of Mathematical Biophysics, 5(4), 115-133.
 * Rosenblatt, F. (1958). The perceptron: A probabilistic model for information storage and organization in the brain. Psychological Review, 65(2), 386-408.
@@ -73,10 +72,9 @@ Referencias bibliográficas
 * LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436-444.
 
 Referencias que refutan este contenido
-------------------------------------
 
-* * No se han encontrado referencias que refuten el contenido presentado.
+* No se han encontrado referencias que refuten el contenido presentado.
 
 Nota: El contenido original se ha revisado y mejorado para mejorar la claridad y la coherencia. Se han agregado referencias bibliográficas para apoyar el contenido y se ha eliminado la sección de "Futuro - Investigación Continua" para enfocarse en la historia y evolución de las redes neuronales.
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:59.829Z
 modified: 2024-05-05T14:32:21.331Z
 supervisado: 2024-04-14T14:29:03.521Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 29
@@ -66,4 +66,4 @@ A pesar de sus beneficios, las redes neuronales también enfrentan desafíos, co
 
 _Nota: Las referencias bibliográficas se han incluido para apoyar y expandir el contenido, mientras que las referencias que refutan el contenido han sido incluidas para proporcionar una perspectiva crítica y equilibrada._
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

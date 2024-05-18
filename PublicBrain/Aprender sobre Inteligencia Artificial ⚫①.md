@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
-iaStatus_Model: ""
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.551Z
-modified: 2024-05-11T20:09:26.837Z
+modified: 2024-05-18T20:43:05.174Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 86
+ver_rev: 87
 nav_primary: 
 nav_secondary: 
 tags:
@@ -125,5 +125,7 @@ tags:
 	* Implementación de Redes Neuronales en Python + Pytorch
 
 * Implementación de AMP-AI en Python
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
 
 

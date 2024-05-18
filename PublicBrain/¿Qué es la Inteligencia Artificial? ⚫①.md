@@ -40,5 +40,6 @@ Existen varios enfoques dentro de la IA:
     
 7. **Inteligencia Artificial General (AGI):** Se refiere a la creación de sistemas que puedan llevar a cabo cualquier tarea intelectual que un ser humano pueda hacer. Actualmente, la mayoría de la IA se centra en tareas específicas (IA estrecha o "narrow AI").
     
-
 En resumen, la Inteligencia Artificial es una disciplina que busca emular la inteligencia humana en sistemas computacionales. A través de diversos enfoques y técnicas, la IA ha demostrado su capacidad para realizar tareas complejas y contribuir a una amplia gama de campos, desde la medicina y la industria hasta la investigación y el entretenimiento.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.586Z
-modified: 2024-05-16T19:20:51.363Z
-supervisado: 2024-05-15T20:36:23.405Z
+modified: 2024-05-18T21:32:10.184Z
+supervisado: 2024-05-16T19:20:51.363Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 30
+ver_rev: 31
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,6 @@ tags:
 # Aprender sobre Pyxel  ⚫①
 
 [[PublicBrain/Index|Index]]
-
 ## Introducción a Pyxel
 
 - [[¿Qué es Pyxel?  🔴②]]
@@ -34,7 +33,7 @@ tags:
 - [[Estructura básica de un juego en Pyxel 🔴②]]
 - [[Creación de la ventana del juego en Pyxel 🔴②]]
 - [[Conceptos de dibujo y gráficos en Pyxel 🔴②]]
-- [[Manejo de eventos de entrada del usuario]] ⬛
+- [[Manejo de eventos de entrada del usuario en Pyxel 🔴②]]
 
 ## Elementos Gráficos en Pyxel
 

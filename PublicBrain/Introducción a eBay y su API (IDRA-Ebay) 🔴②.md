@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:59.746Z
 modified: 2024-05-13T19:55:29.822Z
 supervisado: 2024-05-06T19:14:51.257Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 8
@@ -44,4 +44,4 @@ En resumen, la API de eBay es una herramienta fundamental para los desarrollador
 
 *Nota:* Como la información proporcionada por eBay es oficial y confiable, no se encontraron referencias que refuten el contenido. Sin embargo, es importante mencionar que la información puede cambiar con el tiempo, por lo que es importante verificar la información en fuentes oficiales de eBay.
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

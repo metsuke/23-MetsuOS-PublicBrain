@@ -1,8 +1,8 @@
 ---
 iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:59.132Z
 modified: 2024-05-13T19:48:12.373Z
 supervisado: 2024-05-13T19:48:12.373Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 8
@@ -71,4 +71,4 @@ Nota: Las referencias bibliográficas y las referencias que refutan el contenido
 
 Espero que esto te sea útil. ¡Si necesitas algo más, no dudes en preguntar!
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -1,8 +1,8 @@
 ---
 iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:49:00.639Z
 modified: 2024-05-13T19:55:29.773Z
 supervisado: 2024-05-06T19:14:50.840Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 8
@@ -56,4 +56,4 @@ Es importante seguir las pautas proporcionadas por eBay para garantizar un uso c
 
 **Nota**: El presente contenido es una guía general y no es un consejo jurídico o financiero. Es importante leer y entender las políticas de uso y los términos de servicio antes de comenzar a utilizar la API de eBay.
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -11,7 +11,7 @@ translations:
 created: 2024-05-06T19:13:43.092Z
 modified: 2024-05-13T19:55:29.790Z
 supervisado: 2024-05-08T20:11:48.455Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 4
@@ -62,4 +62,4 @@ En resumen, la obtención de credenciales de API es un paso fundamental para int
 
 - No se encontraron referencias que refuten la obtención de credenciales de API de eBay. Sin embargo, es importante mencionar que la seguridad de las credenciales de API es crucial para evitar accesos no autorizados y proteger la integridad de la cuenta de desarrollador y las aplicaciones.
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:59.622Z
 modified: 2024-05-13T19:55:29.830Z
 supervisado: 2024-05-06T19:14:51.319Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 9
@@ -45,4 +45,4 @@ La integración con eBay a través de API es un ejemplo paradigmático de cómo 
 
 Nota: Es importante mencionar que, aunque no se encontraron referencias que refuten el contenido, es importante considerar la perspectiva crítica y la diversidad de opiniones en el ámbito de la interacción con eBay a través de API.
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

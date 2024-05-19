@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.586Z
-modified: 2024-05-18T21:32:10.184Z
+modified: 2024-05-19T19:33:52.711Z
 supervisado: 2024-05-16T19:20:51.363Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 31
+ver_rev: 32
 nav_primary: 
 nav_secondary: 
 tags:
@@ -37,7 +37,7 @@ tags:
 
 ## Elementos Gráficos en Pyxel
 
-- [[Dibujando formas geométricas básicas (Pyxel)]] ⬛
+- [[Dibujando formas geométricas básicas en Pyxel 🔴②]]
 - [[Carga y visualización de sprites en Pyxel]] ⬛
 - [[Creación de animaciones simples en Pyxel]] ⬛
 - [[Uso de paletas de colores y modos de mezcla en Pyxel]] ⬛

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.371Z
-modified: 2024-05-05T19:41:57.748Z
+modified: 2024-05-19T20:16:32.810Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 82
+ver_rev: 83
 nav_primary: 
 nav_secondary: 
 tags:
@@ -70,7 +70,7 @@ tags:
 ## Módulo 7: Viajes y Turismo
 
 7.1. [[Planificación de viajes y reservas (A2-CA)]]
-7.2. Conversación en hoteles y restaurantes.
+7.2. [[Conversación en hoteles y restaurantes (A2-CA)]]
 7.3. Comunicación en situaciones de viaje.
 7.4. Descripción de lugares turísticos.
 

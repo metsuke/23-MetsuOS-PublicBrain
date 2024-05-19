@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/戦.md",
+                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/戦.md",
+                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/戦.md",
+                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/戦.md"
+                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "0f67456dc9942a87",
   "lastOpenFiles": [
+    "PublicBrain/選.md",
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
     "PublicBrain/戦.md",
     "PublicBrain/Dibujando formas geométricas básicas en Pyxel 🔴②.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Rol Redacción publicitaria.md",
     "PublicBrain/Rol Diseño Gráfico.md",
     "PublicBrain/Departamento Creativo (Microagencia Marketing Digital)  ⚫①.md",
-    "PublicBrain/Manejo de eventos de entrada del usuario en Pyxel 🔴②.md",
     "PublicBrain/_resources/Rol Administración Negocios",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",

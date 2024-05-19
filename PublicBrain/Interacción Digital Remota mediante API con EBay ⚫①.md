@@ -39,7 +39,7 @@ tags:
 
 ## Exploración de los Endpoints Principales
 
-- [[Consulta de productos disponibles (IDRA-Ebay)]] ⬛
+- [[Consulta de productos disponibles (IDRA-Ebay) 🔴②]]
 - [[Búsqueda avanzada (IDRA-Ebay)]] ⬛
 - [[Gestión de pedidos y transacciones (IDRA-Ebay)]] ⬛
 - [[Administración de cuentas de usuario (IDRA-Ebay)]] ⬛

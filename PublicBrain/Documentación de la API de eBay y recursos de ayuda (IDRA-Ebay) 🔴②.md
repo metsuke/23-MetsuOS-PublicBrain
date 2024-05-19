@@ -60,8 +60,7 @@ En resumen, la documentación de la API de eBay y los recursos de ayuda son herr
 * eBay Developer Community. (2022). Retrieved from <https://developer.ebay.com/forums/>
 * API Design Patterns. (2022). Retrieved from <https://www.oreilly.com/library/view/api-design-patterns/9781491971334/>
 
-## Referencias que refutan el contenido
-----------------------------------------
+## Referencias bibliográficas que refutan el contenido
 
 * La documentación de la API de eBay no es lo suficientemente detallada para los desarrolladores principiantes.
 * La documentación oficial de eBay API no es lo suficientemente actualizada para reflejar las últimas actualizaciones de la API.

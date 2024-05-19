@@ -72,7 +72,7 @@ tags:
 7.1. [[Planificación de viajes y reservas (A2-CA)]]
 7.2. [[Conversación en hoteles y restaurantes (A2-CA)]]
 7.3. [[Comunicación en situaciones de viaje (A2-CA)]]
-7.4. Descripción de lugares turísticos.
+7.4. [[Descripción de lugares turísticos (A2-CA)]]
 
 ## Módulo 8: Evaluación y Pruebas Finales
 

@@ -4,17 +4,17 @@ iaStatus_Generado: H
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: ""
-a11y: 0
+a11y: -3
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-05-15T19:00:36.832Z
-supervisado: 2024-04-14T14:29:03.798Z
+modified: 2024-05-19T15:33:32.180Z
+supervisado: 2024-05-15T19:00:36.832Z
 ACCION: 
 ver_major: 0
-ver_minor: 4
-ver_rev: 116
+ver_minor: 5
+ver_rev: 117
 nav_primary: 
 nav_secondary: 
 tags:

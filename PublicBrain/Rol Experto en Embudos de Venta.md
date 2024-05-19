@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T08:02:05.291Z
-modified: 2024-05-13T19:37:32.827Z
+modified: 2024-05-19T15:27:40.687Z
 supervisado: 2024-04-17T06:11:22.113Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
@@ -75,4 +75,4 @@ Diseña la estrategia de marketing para el cliente.
 
 ![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

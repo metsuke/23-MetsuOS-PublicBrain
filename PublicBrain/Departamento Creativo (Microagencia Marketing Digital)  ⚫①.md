@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-28T19:44:08.840Z
-modified: 2024-05-13T19:39:08.900Z
+modified: 2024-05-19T15:29:01.411Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -101,5 +101,5 @@ El departamento creativo es fundamental para el éxito de una microagencia de ma
 
 ![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.652Z
-modified: 2024-05-13T21:04:54.843Z
+modified: 2024-05-19T15:32:29.996Z
 supervisado: 2024-05-13T21:04:54.843Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 57
+ver_rev: 58
 nav_primary: 
 nav_secondary: 
 tags:
@@ -96,4 +96,4 @@ Este rol se encarga de mantener a todos los clientes con una sonrisa
 
 ![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

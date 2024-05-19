@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.653Z
-modified: 2024-05-13T21:04:54.841Z
+modified: 2024-05-19T15:32:48.198Z
 supervisado: 2024-05-13T18:26:33.221Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 58
+ver_rev: 59
 nav_primary: 
 nav_secondary: 
 tags:
@@ -81,4 +81,4 @@ Este rol responde a la pregunta ¿De donde vendrán los próximos clientes?
 
 * [[Lead (Marketing Digital) ⚫①]]
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

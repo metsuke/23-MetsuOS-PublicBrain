@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
 iaStatus_Model: ""
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: H
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.654Z
-modified: 2024-05-13T18:26:01.640Z
+modified: 2024-05-19T15:33:21.353Z
 supervisado: 2024-04-14T14:29:03.268Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 15
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
@@ -57,4 +57,4 @@ Este rol se encarga de entender bien necesidades de los [[Cliente (Marketing Dig
 
 ![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

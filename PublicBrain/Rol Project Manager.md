@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
 iaStatus_Model: ""
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.655Z
-modified: 2024-05-13T19:36:19.911Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-19T15:33:32.075Z
+supervisado: 2024-05-13T19:36:19.911Z
+ACCION: 
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 13
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Rol Project Manager
 
@@ -84,4 +87,4 @@ Este rol responde a la necesidad de coordinar y asegurarse del buen desarrollo d
 
 ![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]] | ①②③④⑤⑥ | ⚫① 🔴② 🟡③ 🟢④ 🔵⑤ ⚪⑥
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

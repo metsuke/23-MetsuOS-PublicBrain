@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/仲.md",
+                "file": "PublicBrain/貯.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/仲.md",
+                "file": "PublicBrain/貯.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/仲.md",
+                "file": "PublicBrain/貯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/仲.md"
+                "file": "PublicBrain/貯.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "0f67456dc9942a87",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/貯.md",
     "PublicBrain/仲.md",
     "PublicBrain/置.md",
     "PublicBrain/単.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Aprender sobre PixiJS ⚫①.md",
     "PublicBrain/Anidando sprites y creando escenas interactivas 🔴②.md",
     "PublicBrain/Creación y manipulación de sprites en PixiJS 🔴②.md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
     "PublicBrain/_resources/Rol Administración Negocios",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",

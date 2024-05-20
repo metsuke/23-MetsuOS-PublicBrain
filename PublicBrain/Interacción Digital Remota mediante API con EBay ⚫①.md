@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-05-19T15:41:22.321Z
+modified: 2024-05-20T17:14:24.924Z
 supervisado: 2024-05-15T19:03:54.371Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 80
+ver_rev: 81
 nav_primary: 
 nav_secondary: 
 tags:
@@ -40,7 +40,7 @@ tags:
 ## Exploración de los Endpoints Principales
 
 - [[Consulta de productos disponibles (IDRA-Ebay) 🔴②]]
-- [[Búsqueda avanzada (IDRA-Ebay)]] ⬛
+- [[Búsqueda avanzada (IDRA-Ebay) 🔴②]]
 - [[Gestión de pedidos y transacciones (IDRA-Ebay)]] ⬛
 - [[Administración de cuentas de usuario (IDRA-Ebay)]] ⬛
 - [[Acceso a datos de vendedores y compradores (IDRA-Ebay)]] ⬛

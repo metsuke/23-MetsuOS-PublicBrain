@@ -1,26 +1,29 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.803Z
-modified: 2024-05-15T21:48:17.363Z
+modified: 2024-05-19T20:23:39.842Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # KEN (Kanken, Kanji Kentei)
 
 [[Aprender Idioma Japones ⚫①]]
 
-## Módulo 1: Introducción al Kanken
+## Módulo 1: "I"ntroducción al Kanken
 
 1.1. Información sobre los niveles y secciones del Kanken.
 1.2. Estrategias generales de preparación para el examen.

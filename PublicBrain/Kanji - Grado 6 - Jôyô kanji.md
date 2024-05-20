@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.808Z
-modified: 2024-05-15T20:39:51.484Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-19T20:23:48.224Z
+supervisado: 2024-05-15T20:39:51.484Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Kanji - Grado 6 - Jôyô kanji
 

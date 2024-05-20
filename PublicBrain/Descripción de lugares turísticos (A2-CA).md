@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-19T20:18:31.349Z
+modified: 2024-05-19T20:23:32.880Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Descripción de lugares turísticos (A2-CA)
 
 [[A2-CA]]

@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.383Z
-modified: 2024-04-14T14:29:04.085Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-19T21:00:18.686Z
+supervisado: 2024-04-14T14:29:04.085Z
+ACCION: 
 ver_major: 0
-ver_minor: 3
-ver_rev: 72
+ver_minor: 4
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
@@ -109,3 +109,4 @@ tags:
 - Comunicación fluida y natural
 - Ampliar la comprensión auditiva
 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

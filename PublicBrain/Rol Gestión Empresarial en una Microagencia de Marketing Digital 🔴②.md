@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.654Z
-modified: 2024-05-20T09:18:19.458Z
+modified: 2024-05-21T19:28:40.377Z
 supervisado: 2024-05-20T09:18:19.458Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 17
+ver_rev: 18
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚫①
+# Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
 	* [[Glosario de Marketing Digital ⚫①]]
@@ -27,7 +27,7 @@ tags:
 
 ## Introducción
 
-La microagencia de marketing digital es un rol clave en la gestión empresarial, que se encarga de entender las necesidades de los [[Cliente (Marketing Digital) ⚫①|clientes]], definir el [[Perfil de un Negocio (Marketing Digital) ⚫①|perfil del negocio]] y delegar la ejecución en las personas elegidas, mientras supervisa los resultados.
+La microagencia de marketing digital es un rol clave en la gestión empresarial, que se encarga de entender las necesidades de los [[Cliente (Marketing Digital)  🔴②|clientes 🔴②]], definir el [[Perfil de un Negocio (Marketing Digital) ⚫①|perfil del negocio ⚫①]] y delegar la ejecución en las personas elegidas, mientras supervisa los resultados.
 
 ## Objetivos
 

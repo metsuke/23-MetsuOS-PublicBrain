@@ -48,7 +48,7 @@ tags: []
 - [[Ethereum 2.0 y la transición a la prueba de participación (Proof of Stake) ⚫①]]
 
 ## Altcoins y otras criptomonedas destacadas
-- Ripple (XRP)
+- [[Ripple (XRP) - Principales Criptomonedas ⚫①]]
 - Litecoin (LTC)
 - Cardano (ADA)
 - Polkadot (DOT)

@@ -6,33 +6,35 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.629Z
-modified: 2024-05-22T06:52:53.325Z
+modified: 2024-05-22T20:07:19.053Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 15
+ver_rev: 16
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aprender sobre las pirncipales criptomonedas ⚫①
-,# Aprender sobre las pirncipales criptomonedas ⚫①
 
 [[Aprender sobre el Mundo Crypto ⚫①]]
 
 ## Introducción
+
 - [[Visión general del curso (Principales Criptomonedas) ⚫①]]
 - [[Objetivos y metas (Principales Criptomonedas)]]
 - [[Requisitos previos (Principales Criptomonedas)]]
 
 ## Fundamentos de las criptomonedas
+
 - [[¿Qué son las criptomonedas?]]
 - [[Historia y evolución del mercado de criptomonedas]]
 - [[Principales características y beneficios de las criptomonedas]]
 - [[Conceptos clave - blockchain, descentralización, criptografía, consenso, etc]]
 
 ## Bitcoin (BTC)
+
 - [[Introducción a Bitcoin]]
 - [[Historia y desarrollo de Bitcoin]]
 - [[Estructura y funcionamiento de la red Bitcoin]]
@@ -41,6 +43,7 @@ tags: []
 - [[Transacciones y confirmaciones en la red Bitcoin]]
 
 ## Ethereum (ETH)
+
 - [[Introducción a Ethereum]]
 - [[Concepto de contratos inteligentes en Ethereum ⚫①]]
 - [[Desarrollo de aplicaciones descentralizadas (DApps) en Ethereum ⚫①]]
@@ -48,16 +51,17 @@ tags: []
 - [[Ethereum 2.0 y la transición a la prueba de participación (Proof of Stake) ⚫①]]
 
 ## Altcoins y otras criptomonedas destacadas
+
 - [[Ripple (XRP) - Principales Criptomonedas ⚫①]]
-- Litecoin (LTC)
+- [[Litecoin (LTC) - Principales Criptomonedas ⚫①]]
 - Cardano (ADA)
 - Polkadot (DOT)
 - Chainlink (LINK)
 - Stellar (XLM)
 - Bitcoin Cash (BCH)
-- y más...
 
 ## Tecnologías y tendencias emergentes en el mundo de las criptomonedas
+
 - DeFi (Finanzas Descentralizadas)
 - NFTs (Tokens No Fungibles)
 - Finanzas autónomas y DAOs (Organizaciones Autónomas Descentralizadas)
@@ -65,6 +69,7 @@ tags: []
 - Mejores prácticas de seguridad y privacidad en el mundo crypto
 
 ## Inversiones y trading en criptomonedas
+
 - Estrategias de inversión a largo plazo
 - Trading en exchanges de criptomonedas
 - Análisis técnico y fundamentales
@@ -72,11 +77,13 @@ tags: []
 - Herramientas y recursos para el trading y seguimiento del mercado
 
 ## Regulación y aspectos legales
+
 - Marco regulatorio de las criptomonedas en diferentes países
 - Implicaciones fiscales de la inversión y el trading en criptomonedas
 - Protección del consumidor y prevención del fraude en el mercado crypto
 
 ## Casos de estudio y proyectos prácticos
+
 - Desarrollo de un portfolio de criptomonedas
 - Implementación de contratos inteligentes en Ethereum
 - Participación en pools de liquidez en DeFi
@@ -84,11 +91,13 @@ tags: []
 - Trading simulado en exchanges de criptomonedas
 
 ## Conclusiones
+
 - Recapitulación de los conceptos clave aprendidos
 - Recursos adicionales y lecturas recomendadas
 - Próximos pasos y oportunidades de aprendizaje
 
 ## Apéndices
+
 - Glosario de términos
 - Referencias y enlaces útiles
 - Ejercicios y desafíos adicionales

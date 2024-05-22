@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T21:16:12.427Z
-modified: 2024-04-14T14:29:03.361Z
+modified: 2024-05-21T19:46:57.274Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Minería de Bitcoin y recompensas de bloque
 
-[[Aprender sobre las pirncipales criptomonedas]]
+[[Aprender sobre las pirncipales criptomonedas ⚫①]]
 
 La minería de Bitcoin es el proceso mediante el cual se asegura y verifica la red de la criptomoneda Bitcoin. Los mineros utilizan poder computacional para resolver complejos problemas matemáticos que validan las transacciones de Bitcoin y las agregan a un registro público conocido como blockchain.
 

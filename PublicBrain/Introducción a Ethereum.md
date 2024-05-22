@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T11:19:56.534Z
-modified: 2024-04-14T14:29:03.550Z
+modified: 2024-05-21T19:46:57.261Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Introducción a Ethereum
 
-[[Aprender sobre las pirncipales criptomonedas]]
+[[Aprender sobre las pirncipales criptomonedas ⚫①]]
 
 Ethereum es una de las criptomonedas más populares y conocidas en el mercado de las criptomonedas. Fue propuesta por el desarrollador Vitalik Buterin en 2013 y lanzada en 2015. A diferencia de Bitcoin, Ethereum no solo es una moneda virtual, sino que también es una plataforma descentralizada que permite la creación de contratos inteligentes y aplicaciones descentralizadas (DApps).
 

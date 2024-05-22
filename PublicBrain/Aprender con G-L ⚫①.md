@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.503Z
-modified: 2024-05-17T11:20:41.844Z
+modified: 2024-05-22T06:53:38.495Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 59
+ver_rev: 60
 nav_primary: 
 nav_secondary: 
 tags:
@@ -42,6 +42,7 @@ tags:
 * Aprender con José Rafael Esteban Durán
 * Aprender con José María Cánovas
 * Aprender con Josefina Cano
+* Aprender con Juan Carlos Monedero
 * Aprender con Juan Ramón Rallo
 * Aprender sobre Juan Soto Ivars
 * Aprener con Juanjo Navarro Mínguez

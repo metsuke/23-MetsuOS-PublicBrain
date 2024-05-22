@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.921Z
-modified: 2024-04-14T14:29:03.202Z
+modified: 2024-05-21T19:48:37.774Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Visión general del curso (Principales Criptomonedas)
+# Visión general del curso (Principales Criptomonedas) ⚫①
 
-[[Aprender sobre las pirncipales criptomonedas]]
+[[Aprender sobre las pirncipales criptomonedas ⚫①]]
 
 Este curso sobre las principales criptomonedas proporciona una visión general de qué son las criptomonedas, cómo funcionan, cuáles son las más conocidas y cómo invertir en ellas. 
   

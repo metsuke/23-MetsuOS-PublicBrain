@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T04:19:18.436Z
-modified: 2024-04-14T14:29:03.860Z
+modified: 2024-05-21T19:46:57.104Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Conceptos clave - blockchain, descentralización, criptografía, consenso, etc
 
-[[Aprender sobre las pirncipales criptomonedas]]
+[[Aprender sobre las pirncipales criptomonedas ⚫①]]
 
 Claro, te puedo explicar algunos conceptos clave relacionados con las criptomonedas:
 

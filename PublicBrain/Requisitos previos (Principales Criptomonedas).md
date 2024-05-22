@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.646Z
-modified: 2024-04-14T14:29:03.276Z
+modified: 2024-05-21T19:46:57.352Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Requisitos previos (Principales Criptomonedas)
 
-[[Aprender sobre las pirncipales criptomonedas]]
+[[Aprender sobre las pirncipales criptomonedas ⚫①]]
 
 Antes de sumergirse en el mundo de las criptomonedas, es importante familiarizarse con algunos conceptos y tecnologías clave. Algunos requisitos previos incluyen:
 

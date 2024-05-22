@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T21:14:29.212Z
-modified: 2024-04-14T14:29:03.584Z
+modified: 2024-05-21T19:46:57.208Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Historia y desarrollo de Bitcoin
 
-[[Aprender sobre las pirncipales criptomonedas]]
+[[Aprender sobre las pirncipales criptomonedas ⚫①]]
 
 Bitcoin es la primera y más famosa criptomoneda del mundo, creada en 2009 por una persona anónima o grupo de personas bajo el seudónimo de Satoshi Nakamoto. El objetivo principal de Bitcoin era crear un sistema de efectivo digital descentralizado que permitiera a las personas realizar transacciones de forma directa, sin la necesidad de intermediarios como bancos o gobiernos.
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T18:59:45.151Z
-modified: 2024-04-14T14:29:03.175Z
+modified: 2024-05-21T19:46:57.414Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # ¿Qué son las criptomonedas?
 
-[[Aprender sobre las pirncipales criptomonedas]]
+[[Aprender sobre las pirncipales criptomonedas ⚫①]]
 
 Las criptomonedas son un tipo de moneda digital que utiliza la criptografía para garantizar de forma segura transacciones financieras, controlar la creación de nuevas unidades y verificar la transferencia de activos. A diferencia de las monedas tradicionales emitidas por los gobiernos y los bancos centrales, las criptomonedas son descentralizadas y funcionan en una red de computadoras distribuida.
 

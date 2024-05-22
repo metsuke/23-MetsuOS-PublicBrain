@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T11:18:53.275Z
-modified: 2024-04-14T14:29:03.197Z
+modified: 2024-05-21T19:46:57.384Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Wallets y almacenamiento seguro de Bitcoin
 
-[[Aprender sobre las pirncipales criptomonedas]]
+[[Aprender sobre las pirncipales criptomonedas ⚫①]]
 
 Un wallet de criptomonedas es una herramienta digital que te permite almacenar, recibir y enviar criptomonedas de forma segura. Para Bitcoin, existen diferentes tipos de wallets, cada uno con sus propias características y niveles de seguridad.
 

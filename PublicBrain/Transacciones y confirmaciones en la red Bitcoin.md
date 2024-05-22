@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T11:19:21.163Z
-modified: 2024-04-14T14:29:03.225Z
+modified: 2024-05-21T19:46:57.361Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Transacciones y confirmaciones en la red Bitcoin
 
-[[Aprender sobre las pirncipales criptomonedas]]
+[[Aprender sobre las pirncipales criptomonedas ⚫①]]
 
 Cuando se realizan transacciones en la red Bitcoin, estas son transmitidas a través de la red peer-to-peer de la criptomoneda para ser validadas y registradas en un bloque de la cadena de bloques (blockchain). Una vez que se envía una transacción, esta pasa a formar parte de un grupo de transacciones pendientes conocido como mempool.
 

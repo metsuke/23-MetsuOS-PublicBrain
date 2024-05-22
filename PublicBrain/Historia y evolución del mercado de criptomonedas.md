@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T19:00:11.719Z
-modified: 2024-04-14T14:29:03.582Z
+modified: 2024-05-21T19:46:57.219Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Historia y evolución del mercado de criptomonedas
 
-[[Aprender sobre las pirncipales criptomonedas]]
+[[Aprender sobre las pirncipales criptomonedas ⚫①]]
 
 Las criptomonedas han existido desde el lanzamiento del Bitcoin en 2009, cuando fue creado por una persona o grupo de personas bajo el seudónimo de Satoshi Nakamoto. Desde entonces, muchas otras criptomonedas han sido desarrolladas, cada una con sus propias características y tecnología subyacente.
 

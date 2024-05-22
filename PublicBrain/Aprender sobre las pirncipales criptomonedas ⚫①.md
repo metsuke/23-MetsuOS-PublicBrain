@@ -6,26 +6,27 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.629Z
-modified: 2024-04-14T14:29:04.030Z
+modified: 2024-05-22T06:52:53.325Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
+ver_rev: 15
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Aprender sobre las pirncipales criptomonedas
+# Aprender sobre las pirncipales criptomonedas ⚫①
+,# Aprender sobre las pirncipales criptomonedas ⚫①
 
-[[Aprender sobre el Mundo Crypto]]
+[[Aprender sobre el Mundo Crypto ⚫①]]
 
-## [[Introducción]]
-- [[Visión general del curso (Principales Criptomonedas)]]
+## Introducción
+- [[Visión general del curso (Principales Criptomonedas) ⚫①]]
 - [[Objetivos y metas (Principales Criptomonedas)]]
 - [[Requisitos previos (Principales Criptomonedas)]]
 
-## [[Fundamentos de las criptomonedas]]
+## Fundamentos de las criptomonedas
 - [[¿Qué son las criptomonedas?]]
 - [[Historia y evolución del mercado de criptomonedas]]
 - [[Principales características y beneficios de las criptomonedas]]
@@ -41,10 +42,10 @@ tags: []
 
 ## Ethereum (ETH)
 - [[Introducción a Ethereum]]
-- [[Concepto de contratos inteligentes en Ethereum]]
-- [[Desarrollo de aplicaciones descentralizadas (DApps) en Ethereum]]
-- [[Estructura de la red Ethereum y su papel en DeFi (Finanzas Descentralizadas)]]
-- Ethereum 2.0 y la transición a la prueba de participación (Proof of Stake)
+- [[Concepto de contratos inteligentes en Ethereum ⚫①]]
+- [[Desarrollo de aplicaciones descentralizadas (DApps) en Ethereum ⚫①]]
+- [[Estructura de la red Ethereum y su papel en DeFi (Finanzas Descentralizadas) ⚫①]]
+- [[Ethereum 2.0 y la transición a la prueba de participación (Proof of Stake) ⚫①]]
 
 ## Altcoins y otras criptomonedas destacadas
 - Ripple (XRP)

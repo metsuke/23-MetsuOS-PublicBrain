@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-05-17T11:19:27.401Z
+modified: 2024-05-21T19:47:05.321Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 117
+ver_rev: 118
 nav_primary: 
 nav_secondary: 
 tags:
@@ -136,7 +136,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	* [[Hardware Libre - Almacenamiento]]
 	* [[Hardware Libre - Memoria Volatil]]
 	* [[Hardware Libre - Microprocesadores]]
-* [[Aprender sobre el Mundo Crypto]]
+* [[Aprender sobre el Mundo Crypto ⚫①]]
 * [[Aprender sobre Inteligencia Artificial ⚫①]]
 	* Aprender sobre [[Estructura y funcionamiento de las redes neuronales ⚫①]]
 * [[Aprender sobre Interacción Digital Remota]]

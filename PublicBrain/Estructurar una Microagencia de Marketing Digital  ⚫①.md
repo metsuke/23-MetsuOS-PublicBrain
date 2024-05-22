@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-05-21T19:29:57.345Z
+modified: 2024-05-22T19:33:55.480Z
 supervisado: 2024-05-15T19:00:36.832Z
 ACCION: 
 ver_major: 0
 ver_minor: 5
-ver_rev: 119
+ver_rev: 120
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,7 +34,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 		:MicroagenciaPublicidad::GetStructure]}
 
 * [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②|Gestión Empresarial  🔴②]]
-	* [[Rol Comercial ⚫①|Comercial]]
+	* [[Rol Comercial 🔴②|Comercial 🔴②]]
 	* [[Rol Administración Negocios|Administración]]
 	* [[Rol Account Manager ⚫①|Account Manager]]
 		* [[Rol Project Manager|Project Manager]]

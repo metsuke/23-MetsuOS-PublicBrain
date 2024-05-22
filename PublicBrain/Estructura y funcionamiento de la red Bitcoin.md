@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T21:15:27.086Z
-modified: 2024-04-14T14:29:03.799Z
+modified: 2024-05-21T19:46:57.157Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Estructura y funcionamiento de la red Bitcoin
 
-[[Aprender sobre las pirncipales criptomonedas]]
+[[Aprender sobre las pirncipales criptomonedas ⚫①]]
 
 La red de Bitcoin es una red descentralizada de nodos que se comunican entre sí para mantener el funcionamiento de la criptomoneda. En términos generales, la red funciona de la siguiente manera:
 

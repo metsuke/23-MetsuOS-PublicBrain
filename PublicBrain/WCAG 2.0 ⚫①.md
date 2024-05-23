@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.939Z
-modified: 2024-05-15T21:21:16.781Z
+modified: 2024-05-23T20:52:57.679Z
 supervisado: 2024-05-15T21:21:16.781Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 91
+ver_rev: 92
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,9 @@ tags:
 
 [[Aprender sobre Accesibilidad ⚫①]]
 
-[[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas][[WCAG 2.0 ⚫①]]0]] | [[WCAG 2.1 ⚫①]]
+[[Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas]]
+
+[[WCAG 2.0 ⚫①]] | [[WCAG 2.1 ⚫①]]
 
 
 WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W3C) que establece pautas y criterios de accesibilidad web para garantizar que los sitios web y las aplicaciones sean accesibles para todas las personas, incluyendo aquellas con discapacidades. A continuación, encontrarás un índice detallado de WCAG 2.0:
@@ -49,7 +51,7 @@ WCAG 2.0 es una especificación desarrollada por el World Wide Web Consortium (W
         - 2.3 [[Teclado (sin excepciones)]]
     - **[[Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente]]**
         - 3.1 [[Interrupción del contenido que parpadea ⚫①]]
-        - 3.2 [[Tres destellos o más]]
+        - 3.2 [[Tres destellos o más ⚫①]]
         - 3.3 [[Contenido moviéndose automáticamente]]
     - **[[Pauta 4 - Compatible]]**
         - 4.1 [[Interpretación de la información]]

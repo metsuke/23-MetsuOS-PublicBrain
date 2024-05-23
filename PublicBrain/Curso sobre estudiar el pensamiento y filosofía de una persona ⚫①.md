@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-05-16T17:19:39.793Z
+modified: 2024-05-23T20:16:54.123Z
 supervisado: 2024-05-11T21:33:21.594Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 67
+ver_rev: 68
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,10 +29,11 @@ tags:
 
    - [[Propósito del curso (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Justificación (Estudio pensamiento y filosofía de una persona) 🔴②]]
-   - C. [[Objetivos de aprendizaje (Estudio pensamiento y filosofía de una persona) 🔴②]]
-   - D. [[Metodología de enseñanza (Estudio pensamiento y filosofía de una persona) 🔴②]]
+   - [[Objetivos de aprendizaje (Estudio pensamiento y filosofía de una persona) 🔴②]]
+   - [[Metodología de enseñanza (Estudio pensamiento y filosofía de una persona) 🔴②]]
    
 ## II. Marco Teórico
+
    - A. [[Fundamentos de la investigación filosófica (Estudio pensamiento y filosofía de una persona)]]
    - B. [[Teorías de la mente y del conocimiento (Estudio pensamiento y filosofía de una persona)]]
    - C. [[Contexto histórico y cultural relevante (Estudio pensamiento y filosofía de una persona)]]

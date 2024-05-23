@@ -41,7 +41,7 @@ tags:
 
 - [[Consulta de productos disponibles (IDRA-Ebay) 🔴②]] ⬛
 - [[Búsqueda avanzada (IDRA-Ebay) 🔴②]] ⬛
-- [[Gestión de pedidos y transacciones (IDRA-Ebay)]] ⬛
+- [[Gestión de pedidos y transacciones (IDRA-Ebay) 🔴②]] ⬛
 - [[Administración de cuentas de usuario (IDRA-Ebay)]] ⬛
 - [[Acceso a datos de vendedores y compradores (IDRA-Ebay)]] ⬛
 

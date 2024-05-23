@@ -30,7 +30,7 @@ tags:
    - [[Propósito del curso (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Justificación (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - C. [[Objetivos de aprendizaje (Estudio pensamiento y filosofía de una persona) 🔴②]]
-   - D. [[Metodología de enseñanza (Estudio pensamiento y filosofía de una persona)]]
+   - D. [[Metodología de enseñanza (Estudio pensamiento y filosofía de una persona) 🔴②]]
    
 ## II. Marco Teórico
    - A. [[Fundamentos de la investigación filosófica (Estudio pensamiento y filosofía de una persona)]]

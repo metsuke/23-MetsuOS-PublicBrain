@@ -35,7 +35,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 
 * [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②|Gestión Empresarial  🔴②]]
 	* [[Rol Comercial 🔴②|Comercial 🔴②]]
-	* [[Rol Administración Negocios|Administración]]
+	* [[Rol Administración Negocios 🔴②|Administración 🔴②]]
 	* [[Rol Account Manager ⚫①|Account Manager]]
 		* [[Rol Project Manager|Project Manager]]
 			* [[Departamento Marketing (Microagencia Marketing Digital)|Marketing]]

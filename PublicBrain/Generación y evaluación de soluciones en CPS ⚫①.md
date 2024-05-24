@@ -1,22 +1,25 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-16T10:46:19.482Z
-modified: 2024-05-17T11:19:27.335Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-24T16:29:21.375Z
+supervisado: 2024-05-17T11:19:27.335Z
+ACCION: 
 ver_major: 0
-ver_minor: 3
-ver_rev: 2
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 3
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Generación y evaluación de soluciones en CPS
+# Generación y evaluación de soluciones en CPS ⚫①
 
 [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
@@ -31,3 +34,5 @@ Evaluación de soluciones: Una vez que se han generado diversas alternativas par
 Durante la evaluación de soluciones, es importante tener en cuenta tanto los aspectos cuantitativos como cualitativos, así como considerar posibles consecuencias no previstas. También es recomendable involucrar a diferentes partes interesadas en el proceso de evaluación, para asegurar que se tomen en cuenta diferentes perspectivas y se llegue a una decisión informada y consensuada.
 
 En resumen, la generación y evaluación de soluciones son dos pasos cruciales en el proceso de resolución de problemas complejos, ya que permiten explorar diversas alternativas y seleccionar la opción más adecuada para abordar la situación en cuestión. Ambos aspectos requieren de creatividad, análisis crítico y colaboración para garantizar resultados efectivos y sostenibles.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

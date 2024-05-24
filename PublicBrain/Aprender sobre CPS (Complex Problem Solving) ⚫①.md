@@ -8,13 +8,13 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-04-06T23:48:58.530Z
-modified: 2024-05-17T11:21:27.109Z
+created: 2024-05-24T16:41:05.474Z
+modified: 2024-05-24T16:43:35.250Z
 supervisado: 2024-05-14T06:22:29.837Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 81
+ver_rev: 82
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,22 +26,25 @@ tags:
 ## Curso sobre CPS (WIP)
 
 ### Introducción a CPS
-- [[¿Qué es Complex Problem Solving?]]
-- [[Importancia y aplicaciones de CPS en diversos campos]]
-- [[Lo primero, otras perspectivas sobre CPS]]
+
+- [[¿Qué es Complex Problem Solving? 🔴②]]
+- [[Importancia y aplicaciones de CPS en diversos campos ⚫①]]
+- [[Lo primero, otras perspectivas sobre CPS ⚫①]]
 	- [[Visión del CPS de Javier G. Recuenco ⚫①]]
-- [[Enfoque histórico y evolución de la resolución de problemas complejos]]
+- [[Enfoque histórico y evolución de la resolución de problemas complejos ⚫①]]
 
 ### Teorías y Modelos de Resolución de Problemas
-- [[Teorías cognitivas y psicológicas relacionadas con la resolución de problemas]]
-- [[Modelos de procesos de resolución de problemas]]
-- [[Análisis comparativo de enfoques y modelos en CPS]]
+
+- [[Teorías cognitivas y psicológicas relacionadas con la resolución de problemas ⚫①]]
+- [[Modelos de procesos de resolución de problemas ⚫①]]
+- [[Análisis comparativo de enfoques y modelos en CPS ⚫①]]
 
 ### Componentes de CPS
-- [[Identificación y definición de problemas complejos en CPS]]
-- [[Comprensión y análisis de problemas en CPS]]
-- [[Generación y evaluación de soluciones en CPS]]
-- [[Toma de decisiones en entornos complejos (CPS)]]
+
+- [[Identificación y definición de problemas complejos en CPS ⚫①]]
+- [[Comprensión y análisis de problemas en CPS ⚫①]]
+- [[Generación y evaluación de soluciones en CPS ⚫①]]
+- [[Toma de decisiones en entornos complejos (CPS) ⚫①]]
 - [[Reflexión y aprendizaje a partir de la experiencia en CPS]]
 
 ### Habilidades y Estrategias de Resolución de Problemas

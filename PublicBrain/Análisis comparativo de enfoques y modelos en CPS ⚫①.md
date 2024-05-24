@@ -1,22 +1,25 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T11:13:39.056Z
-modified: 2024-05-17T11:19:27.251Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-24T16:29:22.480Z
+supervisado: 2024-05-17T11:19:27.251Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 4
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 5
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Análisis comparativo de enfoques y modelos en CPS
+# Análisis comparativo de enfoques y modelos en CPS ⚫①
 
 [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
@@ -33,3 +36,5 @@ Existen varios enfoques y modelos para abordar el problema de resolver problemas
 En términos comparativos, cada uno de estos enfoques y modelos ofrece una perspectiva única sobre la resolución de problemas complejos. Mientras que el enfoque de Polya se enfoca en la comprensión y planificación del problema, el modelo DSRP destaca la importancia de descomponer y sintetizar la información. Por otro lado, el modelo IDEAL se centra en un enfoque sistemático y secuencial para abordar problemas, mientras que el enfoque de Osborn y Parnes se centra en la generación creativa de ideas.
 
 En última instancia, la elección del enfoque o modelo adecuado para abordar problemas complejos dependerá del contexto específico y de las preferencias individuales del solucionador de problemas. La combinación de diferentes enfoques y técnicas puede ser beneficiosa para enfrentar con éxito los desafíos que presentan los problemas complejos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

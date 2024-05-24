@@ -1,22 +1,25 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T08:01:52.777Z
-modified: 2024-05-17T11:19:27.307Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-24T16:29:21.401Z
+supervisado: 2024-05-17T11:19:27.307Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 4
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 5
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Enfoque histórico y evolución de la resolución de problemas complejos
+# Enfoque histórico y evolución de la resolución de problemas complejos ⚫①
 
 [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
@@ -29,3 +32,5 @@ En el ámbito de la psicología, la resolución de problemas complejos ha sido o
 En la actualidad, con el avance de la tecnología y la globalización, los problemas a los que nos enfrentamos son cada vez más interconectados, dinámicos y complejos. Es por ello que la resolución de problemas complejos se ha convertido en una habilidad fundamental en diversos ámbitos, como la ciencia, la economía, la política, la ingeniería, la medicina, entre otros.
 
 El término de Complex Problem Solving (CPS) ha surgido en este contexto, refiriéndose a la capacidad de las personas para abordar problemas complejos de manera efectiva, identificar patrones, generar soluciones creativas y tomar decisiones informadas. En este sentido, el aprendizaje y desarrollo de la CPS se ha convertido en una competencia clave en el mundo actual, donde la incertidumbre y la volatilidad son cada vez más comunes.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

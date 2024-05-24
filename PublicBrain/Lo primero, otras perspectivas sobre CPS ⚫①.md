@@ -1,22 +1,25 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.127Z
-modified: 2024-05-17T11:19:27.422Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-24T16:29:21.004Z
+supervisado: 2024-05-17T11:19:27.422Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 4
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 5
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Lo primero, otras perspectivas sobre CPS
+# Lo primero, otras perspectivas sobre CPS ⚫①
 
 [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
@@ -31,3 +34,5 @@ Además de la perspectiva clásica de la psicología cognitiva, existen otras di
 4. Perspectiva de la creatividad: La creatividad también juega un papel importante en la resolución de problemas complejos. Los enfoques basados en la creatividad buscan estimular la generación de nuevas ideas y soluciones originales para abordar problemas complejos de maneras innovadoras.
 
 En resumen, la resolución de problemas complejos es un tema multidisciplinario que involucra a diversas áreas del conocimiento, como la psicología cognitiva, la inteligencia artificial, la gestión de proyectos, la toma de decisiones y la creatividad. Cada una de estas perspectivas aporta una visión única sobre cómo abordar y resolver problemas complejos en diferentes contextos y situaciones.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

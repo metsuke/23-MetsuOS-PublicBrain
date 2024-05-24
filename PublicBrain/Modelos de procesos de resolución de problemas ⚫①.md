@@ -1,22 +1,25 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T08:02:43.315Z
-modified: 2024-05-17T11:19:27.459Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-24T16:29:20.994Z
+supervisado: 2024-05-17T11:19:27.459Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 4
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 5
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Modelos de procesos de resolución de problemas
+# Modelos de procesos de resolución de problemas ⚫①
 
 [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
@@ -29,3 +32,5 @@ Existen varios modelos de procesos de resolución de problemas que pueden utiliz
 3. Modelos de resolución de problemas basados en la inteligencia artificial: Con el avance de la tecnología, han surgido modelos de resolución de problemas basados en la inteligencia artificial que utilizan algoritmos y análisis de datos para abordar problemas complejos en diversas áreas. Estos modelos pueden involucrar el uso de técnicas de aprendizaje automático, optimización y simulación para encontrar soluciones eficaces y eficientes.
 
 En el contexto de CPS, es importante seleccionar el modelo de resolución de problemas adecuado según la naturaleza del problema, el entorno en el que se encuentra y los recursos disponibles. Además, la capacidad de adaptarse a diferentes situaciones y la habilidad para integrar múltiples perspectivas y enfoques son clave para abordar problemas complejos de manera efectiva.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

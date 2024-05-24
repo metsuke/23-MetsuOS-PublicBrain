@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Rol Administración Negocios 🔴②.md",
+                "file": "PublicBrain/Reflexión y aprendizaje a partir de la experiencia en CPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "様",
+                "query": "Curso sobre CPS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Rol Administración Negocios 🔴②.md",
+                "file": "PublicBrain/Reflexión y aprendizaje a partir de la experiencia en CPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Rol Administración Negocios 🔴②.md",
+                "file": "PublicBrain/Reflexión y aprendizaje a partir de la experiencia en CPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Rol Administración Negocios 🔴②.md"
+                "file": "PublicBrain/Reflexión y aprendizaje a partir de la experiencia en CPS.md"
               }
             }
           },
@@ -165,8 +165,25 @@
   },
   "active": "0f67456dc9942a87",
   "lastOpenFiles": [
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
+    "PublicBrain/Aprender sobre CPS (Complex Problem Solving) ⚫①.md",
+    "PublicBrain/Toma de decisiones en entornos complejos (CPS) ⚫①.md",
+    "PublicBrain/Generación y evaluación de soluciones en CPS ⚫①.md",
+    "PublicBrain/Visión del CPS de Javier G. Recuenco ⚫①.md",
+    "PublicBrain/Aprender con Javier G. Recuenco ⚫①.md",
+    "PublicBrain/Aprender con G-L ⚫①.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
+    "PublicBrain/Comprensión y análisis de problemas en CPS ⚫①.md",
+    "PublicBrain/Identificación y definición de problemas complejos en CPS ⚫①.md",
+    "PublicBrain/Análisis comparativo de enfoques y modelos en CPS ⚫①.md",
+    "PublicBrain/Modelos de procesos de resolución de problemas ⚫①.md",
+    "PublicBrain/Teorías cognitivas y psicológicas relacionadas con la resolución de problemas ⚫①.md",
+    "PublicBrain/Lo primero, otras perspectivas sobre CPS ⚫①.md",
+    "PublicBrain/Enfoque histórico y evolución de la resolución de problemas complejos ⚫①.md",
+    "PublicBrain/Importancia y aplicaciones de CPS en diversos campos ⚫①.md",
+    "PublicBrain/¿Qué es Complex Problem Solving? 🔴②.md",
     "PublicBrain/Rol Administración Negocios 🔴②.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
     "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
     "PublicBrain/WCAG 2.1 ⚫①.md",
     "Cambios en movimiento.md",
@@ -175,22 +192,6 @@
     "PublicBrain/().md",
     "PublicBrain/Tres destellos o más ⚫①.md",
     "WCAG 2.0.md",
-    "().md",
-    "PublicBrain/WCAG 2.0 ⚫①.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos..md",
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
-    "PublicBrain/Metodología de enseñanza (Estudio pensamiento y filosofía de una persona) 🔴②.md",
-    "PublicBrain/Aprender Idiomas ⚫①.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota mediante API ⚫①.md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
-    "PublicBrain/Gestión de pedidos y transacciones (IDRA-Ebay) 🔴②.md",
-    "PublicBrain/Aprender sobre el Mundo Crypto ⚫①.md",
-    "PublicBrain/Aprender sobre las pirncipales criptomonedas ⚫①.md",
-    "PublicBrain/Litecoin (LTC) - Principales Criptomonedas ⚫①.md",
-    "PublicBrain/Ripple (XRP) - Principales Criptomonedas ⚫①.md",
-    "PublicBrain/Ethereum 2.0 y la transición a la prueba de participación (Proof of Stake) ⚫①.md",
     "PublicBrain/_resources/Rol Gestión Empresarial",
     "PublicBrain/_resources/Rol Administración Negocios",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
@@ -211,7 +212,6 @@
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",
-    "PublicBrain/Principales componentes del almacenamiento (discos duros, unidades de estado sólido, etc.) - HWLibre",
     "Untitled.canvas"
   ]
 }

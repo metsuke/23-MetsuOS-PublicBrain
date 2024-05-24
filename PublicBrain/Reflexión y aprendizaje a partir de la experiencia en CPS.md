@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -8,13 +8,13 @@ translations:
 created: 2024-04-16T10:47:45.371Z
 modified: 2024-05-17T11:19:27.485Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
 ver_rev: 2
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Reflexión y aprendizaje a partir de la experiencia en CPS
 
@@ -29,3 +29,5 @@ Aprender a partir de la experiencia implica no solo analizar el resultado final,
 Además, la reflexión y el aprendizaje continuo nos permiten desarrollar una mentalidad de mejora constante, en la que cada desafío se convierte en una oportunidad para crecer y perfeccionar nuestras habilidades de CPS. Al integrar la retroalimentación de nuestras experiencias pasadas, podemos perfeccionar nuestras estrategias, ampliar nuestro repertorio de herramientas y enriquecer nuestra capacidad para abordar problemas complejos de manera efectiva y creativa.
 
 En resumen, la reflexión y el aprendizaje a partir de la experiencia son pilares fundamentales en el desarrollo de habilidades de resolución de problemas complejos, ya que nos permiten extraer lecciones valiosas, identificar áreas de mejora y cultivar una mentalidad de aprendizaje continuo que nos ayuda a enfrentar desafíos cada vez más complejos con confianza y eficacia.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

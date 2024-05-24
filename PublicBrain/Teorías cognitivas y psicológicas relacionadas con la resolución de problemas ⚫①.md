@@ -1,22 +1,25 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T08:03:27.457Z
-modified: 2024-05-17T11:19:27.505Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-24T16:29:20.961Z
+supervisado: 2024-05-17T11:19:27.505Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 4
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 5
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Teorías cognitivas y psicológicas relacionadas con la resolución de problemas
+# Teorías cognitivas y psicológicas relacionadas con la resolución de problemas ⚫①
 
 [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
@@ -31,3 +34,5 @@ Existen varias teorías cognitivas y psicológicas que están relacionadas con l
 4. Teoría de la inteligencia fluida y cristalizada: La inteligencia fluida se refiere a la capacidad de razonar y resolver problemas de forma independiente de conocimientos previos, mientras que la inteligencia cristalizada se basa en el conocimiento y la experiencia acumulada. Ambos tipos de inteligencia juegan un papel importante en la resolución de problemas, ya que la fluida ayuda a encontrar soluciones creativas y novedosas, mientras que la cristalizada proporciona el conocimiento necesario para abordar problemas específicos.
 
 Estas teorías cognitivas y psicológicas proporcionan un marco teórico para comprender cómo las personas abordan y resuelven problemas complejos, como aquellos que se encuentran en el contexto del Problemas Complejos (CPS). Estudiar y aplicar estas teorías puede ayudar a mejorar las habilidades de resolución de problemas y la toma de decisiones en diversos ámbitos de la vida personal y profesional.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

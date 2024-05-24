@@ -1,22 +1,25 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: I
+iaStatus_Supervisado: H
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T11:17:37.428Z
-modified: 2024-05-17T11:19:27.550Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-24T16:29:20.959Z
+supervisado: 2024-05-17T11:19:27.550Z
+ACCION: S
 ver_major: 0
-ver_minor: 2
-ver_rev: 4
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 5
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Toma de decisiones en entornos complejos (CPS)
+# Toma de decisiones en entornos complejos (CPS) ⚫①
 
 [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
@@ -37,3 +40,5 @@ Para abordar la toma de decisiones en entornos complejos, es fundamental contar 
 6. Automonitoreo y autorregulación: Ser consciente de los propios sesgos cognitivos y emocionales, y ser capaz de regular las propias emociones para tomar decisiones más objetivas.
 
 En resumen, la toma de decisiones en entornos complejos requiere un enfoque holístico y una combinación de habilidades cognitivas, emocionales y sociales para abordar con éxito los desafíos y aprovechar las oportunidades que se presentan en entornos complejos y dinámicos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

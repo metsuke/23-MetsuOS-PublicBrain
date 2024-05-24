@@ -31,7 +31,7 @@ tags:
 
 ## Normativas y Estándares de Accesibilidad
 
-- [[Principales normativas y estándares de accesibilidad (por ejemplo, WCAG, ADA, Section 508)]] ⬛
+- [[Principales normativas y estándares de accesibilidad (por ejemplo, WCAG, ADA, Section 508) 🔴②]]
 - [[Requisitos legales y responsabilidades (A11Y ELearning))]] ⬛
 
 ## Barreras de Accesibilidad en E-Learning

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.551Z
-modified: 2024-05-23T20:02:05.216Z
+modified: 2024-05-24T19:10:50.900Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 80
+ver_rev: 81
 nav_primary: 
 nav_secondary: 
 tags:
@@ -42,7 +42,7 @@ tags:
 - [[Consulta de productos disponibles (IDRA-Ebay) 🔴②]] ⬛
 - [[Búsqueda avanzada (IDRA-Ebay) 🔴②]] ⬛
 - [[Gestión de pedidos y transacciones (IDRA-Ebay) 🔴②]] ⬛
-- [[Administración de cuentas de usuario (IDRA-Ebay)]] ⬛
+- [[Administración de cuentas de usuario (IDRA-Ebay) 🔴②]] ⬛
 - [[Acceso a datos de vendedores y compradores (IDRA-Ebay)]] ⬛
 
 ## Implementación de Operaciones CRUD

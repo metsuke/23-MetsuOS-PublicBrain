@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.524Z
-modified: 2024-05-13T19:55:29.949Z
+modified: 2024-05-24T20:26:08.124Z
 supervisado: 2024-05-05T14:17:18.497Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 89
+ver_rev: 90
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,7 +30,8 @@ tags:
 - [[Dimensiones del talento excepcional 🔴②]]
 
 ## Tema 2: Neurofisiología Cerebral y su Aplicación en la Neuroeducación
-* [[Introducción a Neurología Cerebral y su aplicación en la Neuroeducación (Altas Capacidades)]]
+
+* [[Introducción a Neurología Cerebral y su aplicación en la Neuroeducación (Altas Capacidades) 🔴②]]
 - [[Funcionamiento cerebral en personas de alta capacidad]]
 - [[Estrategias neuroeducativas efectivas (Altas Capacidades)]]
 

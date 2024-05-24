@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.519Z
-modified: 2024-05-15T21:24:15.271Z
+modified: 2024-05-24T19:52:47.201Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 97
+ver_rev: 98
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,9 +29,9 @@ tags:
    - [[Importancia de la accesibilidad en la industria del gaming 🔴②]]
    - [[Beneficios de hacer videojuegos accesibles 🔴②]]
 
-## II. [[Principios Básicos de Accesibilidad en Videojuegos]] ⬛
+## II. Principios Básicos de Accesibilidad en Videojuegos
 
-   - [[Conceptos fundamentales de accesibilidad (A11Y Videojuegos)]] ⬛
+   - [[Conceptos fundamentales de accesibilidad (A11Y Videojuegos) 🔴②]]
    - [[Normativas y estándares internacionales (A11Y Videojuegos)]] ⬛
    - [[Diversidad funcional y necesidades de diferentes usuarios]] ⬛
 

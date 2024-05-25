@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Modelo de la neurona artificial 🔴②.md",
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Modelo de la neurona artificial 🔴②.md",
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Modelo de la neurona artificial 🔴②.md",
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Modelo de la neurona artificial 🔴②.md"
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md"
               }
             }
           },
@@ -165,6 +165,11 @@
   },
   "active": "0f67456dc9942a87",
   "lastOpenFiles": [
+    "PublicBrain/Interacción de Usuario y Eventos.md",
+    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+    "PublicBrain/Trabajo con Sprites y Texturas.md",
+    "PublicBrain/Aplicando transformaciones y animaciones a sprites (PixiJS) 🔴②.md",
+    "PublicBrain/Modelo de la neurona artificial 🔴②.md",
     "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
     "PublicBrain/Acceso a datos de vendedores y compradores (IDRA-Ebay) 🔴②.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
@@ -186,12 +191,7 @@
     "PublicBrain/Generación y evaluación de soluciones en CPS ⚫①.md",
     "PublicBrain/Visión del CPS de Javier G. Recuenco ⚫①.md",
     "PublicBrain/Aprender con Javier G. Recuenco ⚫①.md",
-    "PublicBrain/Aprender con G-L ⚫①.md",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
-    "PublicBrain/Comprensión y análisis de problemas en CPS ⚫①.md",
-    "PublicBrain/Identificación y definición de problemas complejos en CPS ⚫①.md",
-    "PublicBrain/Análisis comparativo de enfoques y modelos en CPS ⚫①.md",
-    "PublicBrain/Modelos de procesos de resolución de problemas ⚫①.md",
     "PublicBrain/_resources/Rol Gestión Empresarial",
     "PublicBrain/_resources/Rol Administración Negocios",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",

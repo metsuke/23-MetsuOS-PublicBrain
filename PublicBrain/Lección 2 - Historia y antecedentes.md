@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -8,13 +8,13 @@ translations:
 created: 2024-04-06T23:48:59.925Z
 modified: 2024-04-14T14:29:03.517Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 2 - Historia y antecedentes
 
@@ -33,3 +33,5 @@ A medida que avanzaba la tecnología, las computadoras electrónicas se volviero
 La computación mecánica sigue siendo importante en ciertas áreas, como la criptografía y la simulación de sistemas mecánicos complejos. Aunque ha sido superada en gran medida por la computación electrónica, la computación mecánica sigue siendo una disciplina relevante y fascinante.
 
 En resumen, la historia de la computación mecánica se remonta a los antiguos griegos y romanos, pero fue en los siglos XVII y XIX cuando se produjeron avances significativos en esta área. La invención de la máquina de Pascal y la máquina diferencial sentaron las bases para el desarrollo de las computadoras electrónicas en el siglo XX. Aunque la computación mecánica ha sido superada en gran medida por la electrónica, sigue siendo relevante en ciertas áreas y es una disciplina fascinante de estudiar.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

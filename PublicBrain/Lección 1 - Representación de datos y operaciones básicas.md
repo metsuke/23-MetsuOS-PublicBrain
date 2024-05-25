@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -8,13 +8,13 @@ translations:
 created: 2024-04-06T23:48:59.863Z
 modified: 2024-04-14T14:29:03.517Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 1 - Representación de datos y operaciones básicas
 
@@ -31,3 +31,5 @@ Para realizar operaciones de suma y resta con canicas, se deben seguir ciertas r
 Para realizar operaciones de resta con canicas, se siguen reglas similares. Por ejemplo, para restar dos números binarios, se colocan las canicas correspondientes a cada dígito en fila y se sustraen de derecha a izquierda, prestando y llevando canicas de las posiciones adyacentes si es necesario.
 
 En resumen, en la lección 1 de aprendizaje de computación mecánica con canicas, se enseña a representar datos y realizar operaciones básicas utilizando canicas. Esto proporciona una introducción práctica al sistema binario y a los conceptos básicos de la computación mecánica.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

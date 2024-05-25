@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -8,13 +8,13 @@ translations:
 created: 2024-04-06T23:48:59.902Z
 modified: 2024-04-14T14:29:03.517Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 2 - Algoritmos simples con canicas
 
@@ -33,3 +33,5 @@ Aquí hay algunos ejemplos de algoritmos simples que podríamos implementar util
 4. Ordenar una lista de números: Para ordenar una lista de números utilizando canicas, podríamos utilizar un algoritmo de ordenación, como el algoritmo de burbuja. Podríamos tener canicas de diferentes colores para representar cada número en la lista y comparar las posiciones de las canicas adyacentes para intercambiarlas si están en el orden incorrecto. Repetiríamos este proceso hasta que todos los números estén en el orden correcto.
 
 Estos son solo algunos ejemplos de algoritmos simples que se pueden implementar utilizando canicas. La idea principal es utilizar las canicas como una herramienta tangible para representar y simular los pasos de un algoritmo y resolver problemas utilizando métodos de computación mecánica.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -1,20 +1,20 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.858Z
-modified: 2024-04-14T14:29:03.518Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-25T21:35:09.318Z
+supervisado: 2024-04-14T14:29:03.518Z
+ACCION: 
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 1 - Modelado de sistemas físicos con canicas
 
@@ -27,4 +27,6 @@ El modelado de sistemas físicos con canicas nos permite visualizar y entender m
 Además, el modelado con canicas nos ayuda a desarrollar habilidades de pensamiento computacional, como la resolución de problemas, la lógica, la creatividad y la capacidad de predecir y analizar el comportamiento de los sistemas físicos. A través de experimentos prácticos con canicas, podemos explorar y aprender sobre temas como la cinemática, la dinámica y la energía en un entorno divertido y práctico.
 
 En resumen, la lección 1 del aprendizaje de computación mecánica con canicas nos introduce al poder del modelado de sistemas físicos con una herramienta simple y efectiva como las canicas, preparándonos para explorar conceptos más avanzados en las próximas lecciones.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
 

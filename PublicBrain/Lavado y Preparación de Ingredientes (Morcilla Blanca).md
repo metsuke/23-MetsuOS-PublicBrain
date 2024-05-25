@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.830Z
-modified: 2024-04-14T14:29:03.521Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-25T21:35:09.321Z
+supervisado: 2024-04-14T14:29:03.521Z
+ACCION: 
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lavado y Preparación de Ingredientes (Morcilla Blanca)
 
@@ -49,3 +52,5 @@ Por supuesto. En el proceso de preparación de la morcilla blanca, es importante
 6. Sangre: La sangre se debe tamizar para retirar cualquier pequeño coágulo que pudiera haber, y se incorpora a la mezcla de ingredientes de manera gradual para evitar que se coagule antes de cocinarse.
 
 Siguiendo estos pasos de lavado y preparación de ingredientes, se garantiza que la morcilla blanca tenga un sabor equilibrado y una textura perfecta al momento de cocinarla.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

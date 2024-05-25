@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -8,13 +8,13 @@ translations:
 created: 2024-04-06T23:49:00.035Z
 modified: 2024-04-14T14:29:03.516Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 2 - Modelado cuántico con canicas
 
@@ -29,3 +29,5 @@ Al modelar sistemas cuánticos con canicas, podemos simular fenómenos cuántico
 Además, al manipular las canicas y observar su comportamiento, podemos entender conceptos fundamentales de la mecánica cuántica, como el principio de incertidumbre de Heisenberg y el concepto de función de onda.
 
 En resumen, el modelado cuántico con canicas es una forma intuitiva y visual de aprender sobre los principios de la mecánica cuántica, ayudándonos a comprender mejor el extraño y fascinante mundo de lo subatómico.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preparar un itinerario de viaje (A1-SW).md",
+                "file": "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preparar un itinerario de viaje (A1-SW).md",
+                "file": "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preparar un itinerario de viaje (A1-SW).md",
+                "file": "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preparar un itinerario de viaje (A1-SW).md"
+                "file": "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md"
               }
             }
           },
@@ -165,8 +165,23 @@
   },
   "active": "0f67456dc9942a87",
   "lastOpenFiles": [
-    "PublicBrain/A1-SW.md",
+    "PublicBrain/Lección 2 - Simulación de procesos y fenómenos.md",
+    "PublicBrain/Lección 2 - Implementación de algoritmos con canicas.md",
+    "PublicBrain/Lección 2 - Algoritmos simples con canicas.md",
+    "PublicBrain/Lección 1 - Introducción a la computación cuántica.md",
+    "PublicBrain/Lección 2 - Historia y antecedentes.md",
+    "PublicBrain/Lección 2 - Modelado cuántico con canicas.md",
+    "PublicBrain/Lección 1 - Representación de datos y operaciones básicas.md",
+    "PublicBrain/Lección 1 - Qué es la Computación con Canicas.md",
+    "PublicBrain/Lección 1 - Modelado de sistemas físicos con canicas.md",
+    "PublicBrain/Lección 1 - Avances y tendencias en computación con canicas.md",
+    "PublicBrain/Lección 1 - Diseño de sistemas con canicas.md",
+    "PublicBrain/Importancia y aplicaciones de CPS en diversos campos ⚫①.md",
+    "PublicBrain/Kurt Cobain.md",
+    "PublicBrain/Lavado y Preparación de Ingredientes (Morcilla Blanca).md",
+    "PublicBrain/Kwaheri.md",
     "Preparar un itinerario de viaje (A1-SW).md",
+    "PublicBrain/A1-SW.md",
     "PublicBrain/念.md",
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
     "PublicBrain/熱.md",
@@ -176,21 +191,6 @@
     "PublicBrain/堂.md",
     "PublicBrain/灯.md",
     "PublicBrain/努.md",
-    "PublicBrain/徒.md",
-    "PublicBrain/伝.md",
-    "PublicBrain/典.md",
-    "PublicBrain/的.md",
-    "PublicBrain/停.md",
-    "PublicBrain/底.md",
-    "PublicBrain/低.md",
-    "PublicBrain/腸.md",
-    "PublicBrain/兆.md",
-    "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
-    "PublicBrain/Carga y visualización de sprites en Pyxel 🔴②.md",
-    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
-    "PublicBrain/Interacción de Usuario y Eventos.md",
-    "PublicBrain/Trabajo con Sprites y Texturas.md",
-    "PublicBrain/Aplicando transformaciones y animaciones a sprites (PixiJS) 🔴②.md",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",
     "PublicBrain/_resources/Rol Administración Negocios",

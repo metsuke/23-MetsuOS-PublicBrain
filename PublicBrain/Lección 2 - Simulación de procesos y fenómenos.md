@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -8,13 +8,13 @@ translations:
 created: 2024-04-06T23:49:00.079Z
 modified: 2024-04-14T14:29:03.514Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 2 - Simulación de procesos y fenómenos
 
@@ -27,3 +27,5 @@ En esta lección, aprendemos a utilizar software de simulación para crear model
 Al simular procesos y fenómenos, podemos explorar diversas variables de manera controlada, observar cómo interactúan entre sí y cómo afectan el resultado final. Esto nos brinda una valiosa herramienta para analizar situaciones complejas, tomar decisiones informadas y diseñar soluciones más eficientes y efectivas.
 
 En resumen, la simulación de procesos y fenómenos nos permite experimentar de forma virtual, de manera segura y eficiente, para comprender mejor el comportamiento de sistemas complejos como el de las canicas en un tablero, y aplicar este conocimiento en la resolución de problemas del mundo real.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

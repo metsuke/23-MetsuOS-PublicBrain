@@ -1,20 +1,20 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.860Z
-modified: 2024-04-14T14:29:03.517Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-25T21:35:11.890Z
+supervisado: 2024-04-14T14:29:03.517Z
+ACCION: 
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 1 - Qué es la Computación con Canicas
 
@@ -31,3 +31,5 @@ La idea principal detrás de la computación con canicas es usar canicas y difer
 Una de las ventajas de la computación con canicas es que promueve el pensamiento creativo y el razonamiento lógico. Al utilizar un enfoque diferente e interactivo, fomenta la experimentación y el descubrimiento de diferentes soluciones a un problema. Esto puede ser especialmente útil para aquellos que tienen dificultades para comprender conceptos abstractos de programación.
 
 En resumen, la computación con canicas es un enfoque único y práctico para aprender conceptos de programación utilizando canicas como herramienta principal. Es una forma divertida y creativa de comprender conceptos fundamentales de la computación, y puede ser especialmente beneficioso para aquellos que tienen dificultades para comprender conceptos abstractos de programación.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.824Z
-modified: 2024-04-14T14:29:03.525Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-25T21:35:09.323Z
+supervisado: 2024-04-14T14:29:03.525Z
+ACCION: 
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Kurt Cobain
 
@@ -36,3 +39,5 @@ Algunos aspectos destacados de la vida y carrera de Kurt Cobain incluyen:
     
 
 Kurt Cobain sigue siendo una figura icónica en la historia del rock, y su música y legado continúan influyendo a artistas y oyentes de todo el mundo. A pesar de su corta vida, dejó una marca indeleble en la música contemporánea y sigue siendo recordado como uno de los músicos más influyentes del siglo XX.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

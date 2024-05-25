@@ -43,7 +43,7 @@ tags:
 - [[Búsqueda avanzada (IDRA-Ebay) 🔴②]] ⬛
 - [[Gestión de pedidos y transacciones (IDRA-Ebay) 🔴②]] ⬛
 - [[Administración de cuentas de usuario (IDRA-Ebay) 🔴②]] ⬛
-- [[Acceso a datos de vendedores y compradores (IDRA-Ebay)]] ⬛
+- [[Acceso a datos de vendedores y compradores (IDRA-Ebay) 🔴②]] ⬛
 
 ## Implementación de Operaciones CRUD
 

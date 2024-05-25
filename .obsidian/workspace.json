@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/念.md",
+                "file": "Preparar un itinerario de viaje (A1-SW).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/念.md",
+                "file": "Preparar un itinerario de viaje (A1-SW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/念.md",
+                "file": "Preparar un itinerario de viaje (A1-SW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/念.md"
+                "file": "Preparar un itinerario de viaje (A1-SW).md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "0f67456dc9942a87",
   "lastOpenFiles": [
-    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/A1-SW.md",
+    "Preparar un itinerario de viaje (A1-SW).md",
     "PublicBrain/念.md",
+    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
     "PublicBrain/熱.md",
     "PublicBrain/毒.md",
     "PublicBrain/特.md",
@@ -189,8 +191,6 @@
     "PublicBrain/Interacción de Usuario y Eventos.md",
     "PublicBrain/Trabajo con Sprites y Texturas.md",
     "PublicBrain/Aplicando transformaciones y animaciones a sprites (PixiJS) 🔴②.md",
-    "PublicBrain/Modelo de la neurona artificial 🔴②.md",
-    "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",
     "PublicBrain/_resources/Rol Administración Negocios",

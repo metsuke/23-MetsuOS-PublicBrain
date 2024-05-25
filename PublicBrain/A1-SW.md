@@ -101,7 +101,7 @@ tags:
 
 - [[Reservar alojamiento (A1-SW]])
 - [[Comprar boletos (A1-SW)]]
-- Preparar un itinerario de viaje
+- [[Preparar un itinerario de viaje (A1-SW)]]
 
 ### Lección 12: En el Destino
 

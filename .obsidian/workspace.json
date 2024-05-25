@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md"
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "0f67456dc9942a87",
   "lastOpenFiles": [
-    "PublicBrain/Interacción de Usuario y Eventos.md",
+    "PublicBrain/Carga y visualización de sprites en Pyxel 🔴②.md",
+    "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
     "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+    "PublicBrain/Interacción de Usuario y Eventos.md",
     "PublicBrain/Trabajo con Sprites y Texturas.md",
     "PublicBrain/Aplicando transformaciones y animaciones a sprites (PixiJS) 🔴②.md",
     "PublicBrain/Modelo de la neurona artificial 🔴②.md",
@@ -189,8 +191,6 @@
     "PublicBrain/Aprender sobre CPS (Complex Problem Solving) ⚫①.md",
     "PublicBrain/Toma de decisiones en entornos complejos (CPS) ⚫①.md",
     "PublicBrain/Generación y evaluación de soluciones en CPS ⚫①.md",
-    "PublicBrain/Visión del CPS de Javier G. Recuenco ⚫①.md",
-    "PublicBrain/Aprender con Javier G. Recuenco ⚫①.md",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",
     "PublicBrain/_resources/Rol Administración Negocios",

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.187Z
-modified: 2024-05-24T20:31:44.695Z
+modified: 2024-05-25T20:48:39.622Z
 supervisado: 2024-05-18T20:56:04.837Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 45
+ver_rev: 46
 nav_primary: 
 nav_secondary: 
 tags:
@@ -31,7 +31,7 @@ tags:
 
 ## Fundamentos de las Neuronas Artificiales
 
-* [[Modelo de la neurona artificial]]
+* [[Modelo de la neurona artificial 🔴②]]
 * [[Función de activación]]
 * [[Pesos y bias (Redes Neuronales)]]
 * [[Cálculo de la salida de una neurona]]

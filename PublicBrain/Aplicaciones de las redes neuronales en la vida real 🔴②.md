@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: ""
 a11y: 0
@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.412Z
-modified: 2024-05-05T14:39:22.312Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-24T20:56:04.577Z
+supervisado: 2024-05-05T14:39:22.312Z
+ACCION: 
 ver_major: 0
-ver_minor: 3
-ver_rev: 74
+ver_minor: 4
+ver_rev: 75
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aplicaciones de las redes neuronales en la vida real
+# Aplicaciones de las redes neuronales en la vida real 🔴②
 
 [[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
@@ -60,3 +60,5 @@ Las redes neuronales tienen una amplia gama de aplicaciones en la vida real en d
 - **Pronóstico y tratamiento:** Las redes neuronales analizan grandes conjuntos de datos médicos para predecir enfermedades, identificar patrones de tratamiento efectivos y personalizar la atención médica.
 
 Estas son solo algunas de las aplicaciones de las redes neuronales en la vida real. Su capacidad para aprender patrones complejos a partir de grandes conjuntos de datos las hace extremadamente versátiles y poderosas en una amplia variedad de aplicaciones prácticas.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/費.md",
+                "file": "PublicBrain/必.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/費.md",
+                "file": "PublicBrain/必.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/費.md",
+                "file": "PublicBrain/必.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/費.md"
+                "file": "PublicBrain/必.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "3a02c0573034dc8c",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/必.md",
     "PublicBrain/費.md",
     "PublicBrain/飛.md",
     "PublicBrain/飯.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Aprender sobre Inteligencia Artificial ⚫①.md",
     "Carreras en IA ⚫①.md",
     "IA en la medicina personalizada ⚫①.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
     "_resources/El Proyecto (WOI)",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",

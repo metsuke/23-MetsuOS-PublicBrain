@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-05-26T17:22:43.290Z
+modified: 2024-05-26T17:32:18.895Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # IA en la medicina personalizada ⚫①
 
 [[Aprender sobre Inteligencia Artificial ⚫①]]

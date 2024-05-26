@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-05-25T20:13:57.166Z
+modified: 2024-05-26T17:29:45.476Z
 supervisado: 2024-05-15T19:03:54.371Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 84
+ver_rev: 85
 nav_primary: 
 nav_secondary: 
 tags:
@@ -47,7 +47,7 @@ tags:
 
 ## Implementación de Operaciones CRUD
 
-- [[Creación de listados de productos (IDRA-Ebay)]] ⬛
+- [[Creación de listados de productos (IDRA-Ebay) 🔴②]]
 - [[Actualización de información de productos (IDRA-Ebay)]] ⬛
 - [[Eliminación de listados (IDRA-Ebay)]] ⬛
 - [[Gestión de carritos de compras y órdenes (IDRA-Ebay)]] ⬛
@@ -73,7 +73,7 @@ tags:
 - [[Creación de un sistema de seguimiento de pedidos en tiempo real (IDRA-Ebay)]] ⬛
 - [[Implementación de un sistema de recomendación de productos (IDRA-Ebay)]] ⬛
 
-## [[Pruebas, Depuración y Monitoreo (IDRA-Ebay)]]
+## Pruebas, Depuración y Monitoreo (IDRA-Ebay)
 
 - [[Métodos de prueba de la integración con la API (IDRA-Ebay)]] ⬛
 - [[Depuración de problemas y errores comunes (IDRA-Ebay)]] ⬛

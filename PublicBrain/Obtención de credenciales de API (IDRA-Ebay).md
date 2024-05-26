@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.551Z
-modified: 2024-05-25T20:13:57.191Z
+modified: 2024-05-26T17:29:08.133Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 82
+ver_rev: 83
 nav_primary: 
 nav_secondary: 
 tags:
@@ -47,7 +47,7 @@ tags:
 
 ## Implementación de Operaciones CRUD
 
-- [[Creación de listados de productos (IDRA-Ebay)]] ⬛
+- [[Creación de listados de productos (IDRA-Ebay) 🔴②]] ⬛
 - [[Actualización de información de productos (IDRA-Ebay)]] ⬛
 - [[Eliminación de listados (IDRA-Ebay)]] ⬛
 - [[Gestión de carritos de compras y órdenes (IDRA-Ebay)]] ⬛

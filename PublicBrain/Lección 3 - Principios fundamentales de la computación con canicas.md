@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 3 - Principios fundamentales de la computación con canicas
 
@@ -33,3 +33,5 @@ En la lección anterior, aprendimos sobre la representación de números en el s
 5. Algoritmos eficientes: En la computación mecánica con canicas, al igual que en la computadora convencional, es importante diseñar algoritmos eficientes para minimizar la cantidad de canicas y movimientos necesarios para realizar una operación. El diseño de algoritmos eficientes es un aspecto importante para optimizar la computación mecánica con canicas y mejorar su rendimiento.
 
 En resumen, los principios fundamentales de la computación mecánica con canicas incluyen la idea de máquinas de Turing, estados y transiciones, cómputo de Turing universal, complejidad computacional y diseño de algoritmos eficientes. Estos conceptos proporcionan las bases teóricas para trabajar con canicas como elementos de cómputo y realizar operaciones computacionales.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

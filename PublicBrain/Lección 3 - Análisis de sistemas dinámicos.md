@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 3 - Análisis de sistemas dinámicos
 
@@ -33,3 +33,5 @@ Algunos conceptos clave que se abordan en esta lección incluyen:
 4. Control de sistemas dinámicos: Una aplicación importante del análisis de sistemas dinámicos es el diseño de estrategias de control para influir en el comportamiento del sistema. Esto puede implicar la implementación de controladores que ajusten las entradas del sistema para mantenerlo en un estado deseado.
 
 En resumen, el análisis de sistemas dinámicos en computación mecánica con canicas es una herramienta poderosa para comprender cómo los sistemas evolucionan en el tiempo y cómo se pueden diseñar estrategias efectivas de control. Mediante la modelación, simulación y análisis de sistemas dinámicos, es posible estudiar una amplia variedad de fenómenos físicos y optimizar el comportamiento de los sistemas en función de los objetivos deseados.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

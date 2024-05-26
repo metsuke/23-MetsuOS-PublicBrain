@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 3 - Integración con otras disciplinas
 
@@ -27,3 +27,5 @@ Al integrar la computación mecánica con canicas con otras disciplinas, se pued
 En el ámbito de la ingeniería, la integración de la computación mecánica con canicas permite diseñar y optimizar sistemas mecánicos de manera más eficiente, al simular el movimiento y la interacción de las canicas en distintos escenarios. Además, la combinación con la informática permite desarrollar algoritmos y software especializado para realizar cálculos y simulaciones de forma automatizada.
 
 En resumen, la integración de la computación mecánica con canicas con otras disciplinas amplía las posibilidades de aplicación y el alcance de esta herramienta, permitiendo abordar problemas complejos desde una perspectiva multidisciplinaria y colaborativa.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/変.md",
+                "file": "PublicBrain/Lección 4 - Aplicaciones y desafíos de la computación cuántica mecanica con canicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/変.md",
+                "file": "PublicBrain/Lección 4 - Aplicaciones y desafíos de la computación cuántica mecanica con canicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/変.md",
+                "file": "PublicBrain/Lección 4 - Aplicaciones y desafíos de la computación cuántica mecanica con canicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/変.md"
+                "file": "PublicBrain/Lección 4 - Aplicaciones y desafíos de la computación cuántica mecanica con canicas.md"
               }
             }
           },
@@ -165,8 +165,14 @@
   },
   "active": "3a02c0573034dc8c",
   "lastOpenFiles": [
-    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/Lección 4 - Aplicaciones y relevancia actual.md",
+    "PublicBrain/Lección 3 - Análisis de sistemas dinámicos.md",
+    "PublicBrain/Lección 3 - Principios fundamentales de la computación con canicas.md",
+    "PublicBrain/Lección 3 - Circuitos lógicos y compuertas.md",
+    "PublicBrain/Lección 3 - Integración con otras disciplinas.md",
+    "PublicBrain/Lección 4 - Aplicaciones en ciencia e ingeniería.md",
     "PublicBrain/変.md",
+    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
     "PublicBrain/辺.md",
     "PublicBrain/別.md",
     "PublicBrain/兵.md",
@@ -185,12 +191,6 @@
     "PublicBrain/梅.md",
     "PublicBrain/敗.md",
     "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
-    "PublicBrain/Creación de animaciones simples en Pyxel 🔴②.md",
-    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
-    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
-    "PublicBrain/Captura de eventos de entrada del usuario en PixiJS 🔴②.md",
-    "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "_resources/El Proyecto (WOI)",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",

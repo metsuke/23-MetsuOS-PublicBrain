@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 4 - Aplicaciones y relevancia actual
 
@@ -29,3 +29,5 @@ Además de los juegos, la computación mecánica con canicas también se utiliza
 Otra aplicación relevante de la computación mecánica con canicas se encuentra en la investigación científica y la simulación de sistemas complejos. Los científicos e ingenieros utilizan modelos computacionales basados en canicas para simular el comportamiento de sistemas físicos complejos, como redes de transporte, sistemas de distribución de carga o procesos de flujo en tuberías. Estas simulaciones pueden ayudar a comprender mejor el comportamiento de estos sistemas y encontrar soluciones efectivas para mejorar su rendimiento.
 
 En resumen, la computación mecánica con canicas tiene una serie de aplicaciones prácticas y es relevante en campos como los juegos de ingenio, la industria automotriz, la manufactura y la investigación científica. Es importante entender y aprender los principios fundamentales de la computación mecánica con canicas, ya que puede abrir nuevas perspectivas en la resolución de problemas y el diseño de sistemas eficientes.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 4 - Aplicaciones y desafíos de la computación cuántica mecanica con canicas
 
@@ -48,3 +48,5 @@ La computación cuántica ofrece un paradigma completamente diferente para proce
    - Los ordenadores cuánticos son actualmente costosos de construir y operar. Además, el acceso a la tecnología cuántica es limitado y restringido a unos pocos centros de investigación y empresas.
 
 Integrar conceptos de computación cuántica en la mecánica con canicas no solo proporciona una visión de vanguardia de la computación, sino que también presenta desafíos y oportunidades emocionantes para explorar y superar.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

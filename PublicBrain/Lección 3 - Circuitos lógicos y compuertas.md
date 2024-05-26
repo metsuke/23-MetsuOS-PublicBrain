@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 3 - Circuitos lógicos y compuertas
 
@@ -35,3 +35,5 @@ La compuerta XOR realiza la operación XOR en sus entradas. La salida de una com
 Estas compuertas lógicas se pueden combinar en diferentes configuraciones para construir circuitos lógicos más complejos. Por ejemplo, podemos utilizar compuertas AND, OR y NOT para construir una compuerta XOR. 
 
 Los circuitos lógicos y las compuertas son fundamentales en la computación y la electrónica, ya que permiten realizar operaciones lógicas y procesar información de manera digital. A medida que avanzamos en el aprendizaje de computación mecánica con canicas, iremos explorando más sobre los circuitos lógicos y su aplicación en diferentes sistemas.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

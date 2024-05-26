@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "PublicBrain/府.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "PublicBrain/府.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "PublicBrain/府.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md"
+                "file": "PublicBrain/府.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "3a02c0573034dc8c",
   "lastOpenFiles": [
-    "PublicBrain/付.md",
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/府.md",
+    "PublicBrain/付.md",
     "PublicBrain/票.md",
     "PublicBrain/必.md",
     "PublicBrain/費.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Carreras en IA ⚫①.md",
     "PublicBrain/Creación de listados de productos (IDRA-Ebay) 🔴②.md",
     "IA cuántica ⚫①.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial ⚫①.md",
     "_resources/El Proyecto (WOI)",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",

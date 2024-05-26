@@ -105,7 +105,7 @@ tags:
 
 ## Desarrollo Profesional en IA
 
-- Carreras en IA
+- [[Carreras en IA ⚫①]]
 - Certificaciones en IA
 - Perfil del profesional en IA
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/敗.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/敗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/敗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/敗.md"
               }
             }
           },
@@ -165,12 +165,14 @@
   },
   "active": "3a02c0573034dc8c",
   "lastOpenFiles": [
+    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/敗.md",
+    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
     "PublicBrain/Creación de animaciones simples en Pyxel 🔴②.md",
     "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
     "PublicBrain/Aprender sobre PixiJS ⚫①.md",
     "PublicBrain/Captura de eventos de entrada del usuario en PixiJS 🔴②.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API ⚫①.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
@@ -189,8 +191,6 @@
     "MOS Generational Dictionary ES (Diccionario Neologismos MetsuOS).md",
     "PublicBrain/Aprender Idioma Español.md",
     "PublicBrain/Aprender Idiomas ⚫①.md",
-    "PublicBrain/Alemán ⚫①.md",
-    "PublicBrain/ALPT3-AR.md",
     "_resources/El Proyecto (WOI)",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",

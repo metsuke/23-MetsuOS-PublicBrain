@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.945Z
-modified: 2024-04-14T14:29:03.192Z
+modified: 2024-05-26T09:20:35.504Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +20,7 @@ tags: []
 
 [[Formas de saludar en Alemán]]
 
-"Wie geht's?" es una expresión en [[Alemán]] que se utiliza comúnmente para preguntar "¿Cómo estás?" o "¿Cómo te va?". Es una forma coloquial y amistosa de saludar a alguien y mostrar interés por su bienestar.
+"Wie geht's?" es una expresión en [[Alemán ⚫①]] que se utiliza comúnmente para preguntar "¿Cómo estás?" o "¿Cómo te va?". Es una forma coloquial y amistosa de saludar a alguien y mostrar interés por su bienestar.
 
 "Wie geht's?" es una abreviatura de la forma completa "Wie geht es dir?" o "Wie geht es Ihnen?" que significan "¿Cómo estás?" y "¿Cómo está usted?", respectivamente. La elección entre "dir" y "Ihnen" depende del nivel de formalidad de la situación y la relación con la persona a la que se está dirigiendo.
 

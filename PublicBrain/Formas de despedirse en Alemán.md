@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.379Z
-modified: 2024-04-27T14:47:18.684Z
+modified: 2024-05-26T09:20:34.817Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Formas de despedirse en Alemán
  
 
-En [[alemán]], existen varias formas de despedirse, cada una con su nivel de formalidad y contexto adecuado. Aquí tienes algunas de las formas más comunes de decir adiós en alemán:
+En [[Alemán ⚫①]], existen varias formas de despedirse, cada una con su nivel de formalidad y contexto adecuado. Aquí tienes algunas de las formas más comunes de decir adiós en alemán:
 
 1. **[[Auf Wiedersehen]]:** Esta es una forma estándar y educada de decir "adiós". Se puede utilizar en la mayoría de las situaciones formales e informales.
     

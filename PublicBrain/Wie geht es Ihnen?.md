@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.945Z
-modified: 2024-04-14T14:29:03.192Z
+modified: 2024-05-26T09:20:35.452Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +20,7 @@ tags: []
 
 [[Formas de saludar en Alemán]]
 
-"Wie geht es Ihnen?" es una frase en [[Alemán]] que se traduce al español como "¿Cómo está usted?" o "¿Cómo se encuentra?". Es una expresión común utilizada para preguntarle a alguien sobre su estado de bienestar o cómo se siente. Es una forma educada y formal de preguntar sobre el estado de una persona en alemán.
+"Wie geht es Ihnen?" es una frase en [[Alemán ⚫①]] que se traduce al español como "¿Cómo está usted?" o "¿Cómo se encuentra?". Es una expresión común utilizada para preguntarle a alguien sobre su estado de bienestar o cómo se siente. Es una forma educada y formal de preguntar sobre el estado de una persona en alemán.
 
 Al hacer esta pregunta, se muestra interés por el bienestar de la otra persona y se abre la oportunidad para que compartan cómo se sienten física y emocionalmente. Es una forma cortés de iniciar una conversación y demostrar consideración hacia los demás.
 

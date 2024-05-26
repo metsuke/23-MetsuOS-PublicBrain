@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.389Z
-modified: 2024-04-27T14:47:18.669Z
+modified: 2024-05-26T09:20:34.846Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Formas de saludar en Alemán
 	
-El idioma [[Alemán]] tiene varias formas de saludar, y es común utilizar diferentes saludos dependiendo del contexto y del nivel de formalidad. Aquí tienes algunas formas comunes de saludar en alemán:
+El idioma [[Alemán ⚫①]] tiene varias formas de saludar, y es común utilizar diferentes saludos dependiendo del contexto y del nivel de formalidad. Aquí tienes algunas formas comunes de saludar en alemán:
 
 1. "[[Hallo]]" o "Hallo zusammen" - Este saludo es similar a "Hola" en español y se puede utilizar en situaciones informales tanto en persona como por teléfono.
     

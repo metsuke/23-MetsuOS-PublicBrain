@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.587Z
-modified: 2024-05-05T12:56:42.017Z
+modified: 2024-05-26T09:20:34.761Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 75
 nav_primary: 
 nav_secondary: 
 tags:
@@ -49,7 +49,7 @@ Aquí tienes algunos aspectos clave sobre Rammstein:
     
 5. **Impacto cultural:** Rammstein ha tenido un gran impacto en la música y la cultura pop en todo el mundo. Han vendido millones de discos y han llenado estadios en sus giras. Sus videos musicales a menudo son provocativos y han generado controversia en varias ocasiones.
     
-6. **Letras en [[alemán]]:** Aunque Rammstein ha lanzado algunas canciones con letras en inglés, la mayoría de sus canciones están en alemán. Esto les ha ayudado a mantener su autenticidad y singularidad en la escena musical internacional.
+6. **Letras en [[Alemán ⚫①]]:** Aunque Rammstein ha lanzado algunas canciones con letras en inglés, la mayoría de sus canciones están en alemán. Esto les ha ayudado a mantener su autenticidad y singularidad en la escena musical internacional.
     
 
 Rammstein es considerada una de las bandas de metal industrial más influyentes y exitosas del mundo. Su música y su estilo distintivo han ganado seguidores leales en todo el mundo y han dejado una marca duradera en la música contemporánea.

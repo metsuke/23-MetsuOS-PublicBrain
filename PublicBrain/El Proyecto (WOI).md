@@ -8,8 +8,8 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-05-25T21:40:47.127Z
-modified: 2024-05-25T21:43:23.295Z
+created: 2024-04-06T23:48:58.349Z
+modified: 2024-05-25T21:43:23.875Z
 supervisado: 2024-04-14T14:29:03.100Z
 ACCION: 
 ver_major: 0
@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# El Proyecto (W)
+# El Proyecto (WOI)
 
 [![volver a la Home](_resources/El%20Proyecto/d127e8f844e447284700247bb17d2e79_MD5.png)](https://metsuke.com/)
 

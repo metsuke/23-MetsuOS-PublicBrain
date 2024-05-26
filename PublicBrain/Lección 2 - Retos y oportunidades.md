@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.071Z
-modified: 2024-04-14T14:29:03.515Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-25T21:43:23.550Z
+supervisado: 2024-04-14T14:29:03.515Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 4
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 2 - Retos y oportunidades
 
@@ -37,3 +40,5 @@ Sin embargo, también existen muchas oportunidades al aprender computación mec�
 3. Colaboración y trabajo en equipo: Trabajar en proyectos de computación mecánica con canicas puede fomentar la colaboración entre estudiantes, ya que muchas veces se requiere el trabajo en equipo para alcanzar soluciones eficaces.
 
 En resumen, aprender computación mecánica con canicas puede presentar desafíos, pero también ofrece oportunidades únicas para adquirir habilidades técnicas, fomentar la creatividad y promover la colaboración entre los estudiantes.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

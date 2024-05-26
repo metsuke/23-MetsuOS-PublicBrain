@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.681Z
-modified: 2024-04-14T14:29:03.249Z
+modified: 2024-05-26T09:20:35.288Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -19,7 +19,7 @@ tags: []
 # Servus
 [[Formas de saludar en Alemán]]
 
-"Servus" es una palabra en [[Alemán]] que se utiliza como saludo informal. Es una forma común de decir "hola" o "adiós" en algunas regiones de habla alemana, especialmente en Austria y partes de Baviera, Alemania.
+"Servus" es una palabra en [[Alemán ⚫①]] que se utiliza como saludo informal. Es una forma común de decir "hola" o "adiós" en algunas regiones de habla alemana, especialmente en Austria y partes de Baviera, Alemania.
 
 "Servus" proviene del latín "servus", que significa "siervo" o "esclavo". A lo largo del tiempo, la palabra evolucionó hasta convertirse en una forma coloquial de saludo entre personas en el sur de Alemania y Austria.
 

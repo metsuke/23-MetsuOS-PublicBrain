@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.499Z
-modified: 2024-05-01T20:55:36.333Z
+modified: 2024-05-26T09:20:35.092Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Formas de saludar en Alemán]]
 
-"Guten Tag" es una expresión en [[Alemán]] que se utiliza para saludar durante el día. Es equivalente a decir "Buen día" o "Hola" en español. Literalmente, "Guten Tag" se traduce como "Buen día".
+"Guten Tag" es una expresión en [[Alemán ⚫①]] que se utiliza para saludar durante el día. Es equivalente a decir "Buen día" o "Hola" en español. Literalmente, "Guten Tag" se traduce como "Buen día".
 
 Es una forma formal y educada de saludar a alguien en alemán, y es comúnmente utilizada en situaciones profesionales, comerciales o cuando se conoce a alguien por primera vez. También puede utilizarse en situaciones informales, aunque en ese caso se prefieren saludos más coloquiales, como "Hallo" o "Hi".
 

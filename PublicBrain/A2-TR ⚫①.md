@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.384Z
-modified: 2024-05-13T21:11:09.834Z
+modified: 2024-05-25T21:42:19.976Z
 supervisado: 2024-04-14T14:29:04.084Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,4 +23,4 @@ tags:
 
 [[Aprender Idioma Turco]]
 
-<-- [[A1-TR]] | [[B1-TR]] -->
+<-- [[A1-TR ⚫①]] | [[B1-TR]] -->

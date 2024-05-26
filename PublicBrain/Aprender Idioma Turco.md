@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.439Z
-modified: 2024-05-13T20:52:48.371Z
+modified: 2024-05-25T21:42:20.314Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,7 +25,7 @@ tags:
 
 * TR | [[Turco]]
 	* [[Niveles Oficiales TR]]
-		* [[A1-TR]] | [[A2-TR ⚫①]]
+		* [[A1-TR ⚫①]] | [[A2-TR ⚫①]]
 		* [[B1-TR]] | [[B2-TR]]
 		* [[C1-TR]] | [[C2-TR]]
 	* Niveles y Exámenes Adicionales TR

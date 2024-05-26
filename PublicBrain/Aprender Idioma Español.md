@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.421Z
-modified: 2024-05-15T21:37:45.853Z
+modified: 2024-05-26T10:23:47.464Z
 supervisado: 2024-05-13T20:52:47.076Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,6 +34,7 @@ tags:
 		* [[SIELE (Servicio Internacional de Evaluación de la Lengua Española)]]
 		* [[CCSE (Examen de Conocimientos Constitucionales y Socioculturales de España)]]
 	* [[MOS Dictionary ES (Diccionario MetsuOS)]]
+	* [[MOS Generational Dictionary ES (Diccionario Neologismos MetsuOS)]]
 	* [[MOS Flascards ES (Flashcards MetsuOS)]]
 
 

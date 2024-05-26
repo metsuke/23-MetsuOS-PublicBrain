@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.583Z
-modified: 2024-05-15T21:26:58.506Z
+modified: 2024-05-26T09:20:35.258Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,7 @@ tags:
 | [[Japonés]]      | 1,8                                    |
 | [[Español ⚫①]]      | 1,5                                    |
 | Francés      | 1,3                                    |
-| [[Alemán]]       | 1,1                                    |
+| [[Alemán ⚫①]]       | 1,1                                    |
 | Italiano     | 0,9                                    |
 | Portugués    | 0,7                                    |
 | [[Árabe]]        | 0,7                                    |

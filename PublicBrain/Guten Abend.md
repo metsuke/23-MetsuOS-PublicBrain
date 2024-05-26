@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.497Z
-modified: 2024-05-01T20:55:36.333Z
+modified: 2024-05-26T09:20:34.871Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Formas de saludar en Alemán]]
 
-"Guten Abend" es una expresión en [[Alemán]] que se utiliza para saludar y desear una "buena noche" a alguien. Literalmente, "Guten Abend" se traduce como "Buenas tardes" en español, aunque en alemán se utiliza como saludo por la noche, similar a "Buenas noches" en español.
+"Guten Abend" es una expresión en [[Alemán ⚫①]] que se utiliza para saludar y desear una "buena noche" a alguien. Literalmente, "Guten Abend" se traduce como "Buenas tardes" en español, aunque en alemán se utiliza como saludo por la noche, similar a "Buenas noches" en español.
 
 En el idioma alemán, los saludos varían dependiendo de la hora del día. Por lo general, "Guten Abend" se utiliza a partir de las 18:00 horas, cuando ya es considerado por la cultura alemana como la noche o el atardecer.
 

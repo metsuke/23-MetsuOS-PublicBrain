@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.667Z
-modified: 2024-04-14T14:29:04.023Z
+modified: 2024-05-26T09:20:34.776Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Formas de despedirse en Alemán]]
 
-"Auf Wiedersehen" es una expresión en [[Alemán]] que se utiliza para despedirse. Su traducción literal sería "Hasta la vista". Aquí tienes más información al respecto:
+"Auf Wiedersehen" es una expresión en [[Alemán ⚫①]] que se utiliza para despedirse. Su traducción literal sería "Hasta la vista". Aquí tienes más información al respecto:
 
 - "Auf" significa "hasta" en este contexto.
 - "Wiedersehen" se compone de dos partes: "wieder", que significa "de nuevo", y "sehen", que significa "ver". En conjunto, "Wiedersehen" se traduce como "ver de nuevo" o "vista".

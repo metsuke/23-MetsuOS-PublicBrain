@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2085773b25023e9b",
+        "id": "466fc2a8721533a4",
         "type": "tabs",
         "children": [
           {
-            "id": "0f67456dc9942a87",
+            "id": "3a02c0573034dc8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Curso sobre CPS",
+                "query": "Proyecto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md",
+                "file": "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md"
+                "file": "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md"
               }
             }
           },
@@ -163,8 +163,27 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0f67456dc9942a87",
+  "active": "3a02c0573034dc8c",
   "lastOpenFiles": [
+    "PublicBrain/Rol Project Manager 🔴②.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/MOS Generational Dictionary ES (Diccionario Neologismos MetsuOS).md",
+    "MOS Generational Dictionary ES (Diccionario Neologismos MetsuOS).md",
+    "PublicBrain/Aprender Idioma Español.md",
+    "PublicBrain/Aprender Idiomas ⚫①.md",
+    "PublicBrain/Alemán ⚫①.md",
+    "PublicBrain/ALPT3-AR.md",
+    "PublicBrain/ALPT1-AR.md",
+    "PublicBrain/A1-TR ⚫①.md",
+    "El Proyecto.md",
+    "PublicBrain/Lección 2 - Retos y oportunidades.md",
+    "PublicBrain/Arkadia.md",
+    "_resources/El Proyecto (WOI)",
+    "El Proyecto (WOI).md",
+    "PublicBrain/Preparar un itinerario de viaje (A1-SW).md",
+    "PublicBrain/El Proyecto (WOI).md",
+    "PublicBrain/Lección 3 - Algoritmos cuánticos básicos.md",
     "PublicBrain/Lección 2 - Simulación de procesos y fenómenos.md",
     "PublicBrain/Lección 2 - Implementación de algoritmos con canicas.md",
     "PublicBrain/Lección 2 - Algoritmos simples con canicas.md",
@@ -173,24 +192,6 @@
     "PublicBrain/Lección 2 - Modelado cuántico con canicas.md",
     "PublicBrain/Lección 1 - Representación de datos y operaciones básicas.md",
     "PublicBrain/Lección 1 - Qué es la Computación con Canicas.md",
-    "PublicBrain/Lección 1 - Modelado de sistemas físicos con canicas.md",
-    "PublicBrain/Lección 1 - Avances y tendencias en computación con canicas.md",
-    "PublicBrain/Lección 1 - Diseño de sistemas con canicas.md",
-    "PublicBrain/Importancia y aplicaciones de CPS en diversos campos ⚫①.md",
-    "PublicBrain/Kurt Cobain.md",
-    "PublicBrain/Lavado y Preparación de Ingredientes (Morcilla Blanca).md",
-    "PublicBrain/Kwaheri.md",
-    "Preparar un itinerario de viaje (A1-SW).md",
-    "PublicBrain/A1-SW.md",
-    "PublicBrain/念.md",
-    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
-    "PublicBrain/熱.md",
-    "PublicBrain/毒.md",
-    "PublicBrain/特.md",
-    "PublicBrain/働.md",
-    "PublicBrain/堂.md",
-    "PublicBrain/灯.md",
-    "PublicBrain/努.md",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",
     "PublicBrain/_resources/Rol Administración Negocios",
@@ -208,7 +209,6 @@
     "PublicBrain/MOS_Templates",
     "MOS_Templates",
     "carpeta sin título",
-    "_templates",
     "PublicBrain/_resources/Hilo Turra Arquitecturas Dinámicas de incentivos/0dcec5f9e486f51899558f2b21650e2e_MD5.jpg",
     "PublicBrain/_resources/Motion Design/TimkJHOajFbGuYHw.jpeg",
     "PublicBrain/Untitled.canvas",

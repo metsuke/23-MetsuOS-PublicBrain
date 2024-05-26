@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.415Z
-modified: 2024-05-05T12:56:38.813Z
+modified: 2024-05-26T09:20:34.658Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 77
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[PublicBrain/Index#Aprender Idiomas]]
 
-* GE | [[Alemán]] 
+* GE | [[Alemán ⚫①]] 
 	* [[Niveles Oficiales GE]] 
 		* [[A1-GE]] | [[A2-GE]]
 		* [[B1-GE]] | [[B2-GE]]

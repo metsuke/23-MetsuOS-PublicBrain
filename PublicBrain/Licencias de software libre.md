@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.120Z
-modified: 2024-04-14T14:29:03.381Z
+modified: 2024-05-26T19:43:24.396Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Licencias de software libre
 
@@ -193,3 +196,4 @@ DISCLAIMER No estoy seguro de haber interrogado correctamente a la IA, tendre qu
 | Dojo                 |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   -  |   ✓   |
 | CeCILL               |   ✓     |    ✓     |    ✓     |  ✓  |   ✓    |  ✓  |    ✓      |  ✓  |  ✓  |  ✓   |   ✓   |    ✓     |    ✓     |     ✓      |   ✓      |     ✓      |    ✓     |   ✓   |      ✓      |  ✓  |      ✓     |   ✓      |        ✓         |   ✓  |   -   |
 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

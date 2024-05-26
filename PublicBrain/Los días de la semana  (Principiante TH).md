@@ -1,20 +1,20 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.128Z
-modified: 2024-04-14T14:29:03.379Z
+modified: 2024-05-26T19:43:40.605Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Los días de la semana  (Principiante TH)
 
@@ -33,3 +33,5 @@ tags: []
 Recuerda que los nombres de los días de la semana se escriben con minúscula, a menos que estén al inicio de una oración o formen parte de un nombre propio.
 
 Si quieres saber cómo decir una fecha específica o si tienes alguna pregunta específica sobre los días de la semana, ¡no dudes en preguntar!
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

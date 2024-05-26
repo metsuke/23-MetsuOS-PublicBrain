@@ -1,20 +1,20 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.112Z
-modified: 2024-04-14T14:29:03.428Z
+modified: 2024-05-26T19:43:17.527Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Libre-SOC
 
@@ -40,3 +40,5 @@ Libre-SOC es un proyecto que tiene como objetivo desarrollar un microprocesador 
     
 
 Es importante tener en cuenta que la información sobre proyectos de hardware libre puede evolucionar con el tiempo, y es posible que haya habido desarrollos adicionales en el proyecto Libre-SOC desde mi última actualización. Para obtener la información más reciente, te recomendaría consultar los recursos en línea del proyecto o la comunidad relacionada.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.114Z
-modified: 2024-04-14T14:29:03.427Z
+modified: 2024-05-26T19:43:24.397Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 26
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Licencia Pública General de GNU (GNU GPL)
 
@@ -40,3 +43,5 @@ Las características principales de la Licencia Pública General de GNU (GNU GPL
 Es importante tener en cuenta que la GNU GPL se aplica solo al código fuente del software y no a los datos o recursos utilizados por el programa. También existen diferentes versiones de la licencia, como la GPLv2 y la GPLv3, cada una con sus propias características y actualizaciones.
 
 La GNU GPL ha sido fundamental en el desarrollo de la comunidad de software libre y de código abierto, y ha sido adoptada por numerosos proyectos de software en todo el mundo. Gracias a su enfoque en las libertades del usuario y el copyleft, ha fomentado la colaboración y la creación de proyectos compartidos y colaborativos. Si estás interesado en utilizar software con licencia GPL o contribuir a proyectos con esta licencia, es esencial comprender y cumplir con sus términos y condiciones.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

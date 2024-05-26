@@ -21,7 +21,7 @@ tags:
 ---
 # Atari, Inc.
 
-[[Adventure (Atari, Inc., 1979)]]
+[[Adventure (Atari, Inc., 1979) 🔴②]]
 
 ![Atari Logo - Image from Wikipedia](PublicBrain/_resources/Atari,%20Inc./f10403824396c9f7a0a737218a8319bb_MD5.svg)
 

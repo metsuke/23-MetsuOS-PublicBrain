@@ -21,7 +21,7 @@ tags:
 ---
 # Atari 2600
 
-[[Adventure (Atari, Inc., 1979)]]
+[[Adventure (Atari, Inc., 1979) 🔴②]]
 
 ![Logo Atari 2600 - Image from Wikipedia](PublicBrain/_resources/Atari%202600/fce189396d6ff3b6222811e7e0369047_MD5.svg)
 
@@ -57,7 +57,7 @@ DISCLAIMER: Listado en revisión
 
 ### 1979
 
-- [[Adventure (Atari, Inc., 1979)]]
+- [[Adventure (Atari, Inc., 1979) 🔴②]]
 
 ### REV
 

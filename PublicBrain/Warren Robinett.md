@@ -18,7 +18,7 @@ tags: []
 ---
 # Warren Robinett
 
-[[Adventure (Atari, Inc., 1979)]]
+[[Adventure (Atari, Inc., 1979) 🔴②]]
 
 ![Warren Robinett - Image from Wikipedia](PublicBrain/_resources/Warren%20Robinett/7750f47be10903fc6120b8b1e5219221_MD5.jpg)
 

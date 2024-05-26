@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/梅.md",
+                "file": "PublicBrain/博.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/梅.md",
+                "file": "PublicBrain/博.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/梅.md",
+                "file": "PublicBrain/博.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/梅.md"
+                "file": "PublicBrain/博.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "3a02c0573034dc8c",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/博.md",
     "PublicBrain/梅.md",
     "PublicBrain/敗.md",
     "PublicBrain/Index.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Rol Project Manager 🔴②.md",
     "PublicBrain/MOS Generational Dictionary ES (Diccionario Neologismos MetsuOS).md",
     "MOS Generational Dictionary ES (Diccionario Neologismos MetsuOS).md",
-    "PublicBrain/Aprender Idioma Español.md",
     "_resources/El Proyecto (WOI)",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",

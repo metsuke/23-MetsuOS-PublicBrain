@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/粉.md",
+                "file": "PublicBrain/兵.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/粉.md",
+                "file": "PublicBrain/兵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/粉.md",
+                "file": "PublicBrain/兵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/粉.md"
+                "file": "PublicBrain/兵.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "3a02c0573034dc8c",
   "lastOpenFiles": [
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/兵.md",
     "PublicBrain/粉.md",
     "PublicBrain/副.md",
     "PublicBrain/夫.md",
@@ -190,7 +191,6 @@
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API ⚫①.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
     "PublicBrain/Pruebas, Depuración y Monitoreo (IDRA-Ebay).md",
-    "PublicBrain/IA en la medicina personalizada ⚫①.md",
     "_resources/El Proyecto (WOI)",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",

@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 3 - Simulación de fenómenos físicos
 
@@ -27,3 +27,5 @@ La simulación de fenómenos físicos se basa en la aplicación de principios f�
 En el caso de las canicas, la simulación nos permite estudiar cómo influyen factores como la masa, la velocidad inicial, la fricción y la gravedad en su movimiento. Podemos realizar simulaciones para predecir la trayectoria de una canica al ser lanzada, o para estudiar cómo se distribuyen las canicas en un tablero después de una serie de movimientos.
 
 La simulación de fenómenos físicos es una herramienta fundamental en la computación mecánica con canicas, ya que nos permite explorar y comprender de manera profunda los principios físicos que rigen el movimiento de los objetos, así como también nos brinda la oportunidad de experimentar con diferentes parámetros y condiciones para observar cómo afectan el comportamiento del sistema. Mediante la simulación, podemos obtener información valiosa que nos ayude a tomar decisiones informadas y a mejorar el diseño y la eficiencia de los sistemas mecánicos con los que trabajamos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

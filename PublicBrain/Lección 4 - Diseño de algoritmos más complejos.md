@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 4 - Diseño de algoritmos más complejos
 
@@ -35,3 +35,5 @@ En el contexto de aprender computación con canicas, la Lección 4: Diseño de a
 6. **Diseño de algoritmos eficientes**: Los estudiantes podrían aprender estrategias para diseñar algoritmos eficientes que minimicen el tiempo de ejecución y el uso de memoria, como la optimización y la selección del algoritmo adecuado para un problema dado.
 
 En resumen, la Lección 4 sobre el Diseño de algoritmos más complejos en el contexto de aprender computación con canicas se centraría en proporcionar a los estudiantes las herramientas y técnicas necesarias para abordar problemas más desafiantes y diseñar algoritmos eficientes para resolverlos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

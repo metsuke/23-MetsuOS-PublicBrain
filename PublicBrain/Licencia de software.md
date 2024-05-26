@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Licencia de software
 
@@ -34,3 +34,5 @@ Existen varios tipos de licencias de software, y cada una puede tener diferentes
     
 
 Es importante leer y comprender cuidadosamente la licencia de software antes de utilizar o distribuir un programa, ya que las restricciones y permisos pueden variar significativamente entre diferentes tipos de licencias. Además, las licencias de software pueden afectar cómo se puede utilizar el software en proyectos comerciales, académicos o de código abierto. Por lo tanto, es esencial asegurarse de cumplir con los términos y condiciones establecidos en la licencia correspondiente.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

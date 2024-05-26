@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 4 - Exploración de la computación cuántica
 
@@ -29,3 +29,5 @@ La exploración de la computación cuántica en el contexto de aprender computac
 Además, la computación cuántica también nos ofrece la posibilidad de desarrollar algoritmos cuánticos, como el algoritmo de Grover o el algoritmo de Shor, que pueden resolver ciertos problemas de manera exponencialmente más rápida que los algoritmos clásicos. Estos algoritmos pueden ser aplicados en el contexto de la computación mecánica con canicas para resolver problemas más complejos y desafiantes de una manera más eficaz y elegante.
 
 En resumen, la exploración de la computación cuántica en el contexto de aprender computación mecánica con canicas nos permite adentrarnos en un fascinante mundo de posibilidades y aplicaciones avanzadas de la mecánica cuántica en el campo de la informática. Mediante la comprensión y aplicación de los principios de la computación cuántica, podemos ampliar nuestros horizontes y desarrollar nuevas habilidades y capacidades para resolver problemas de una manera innovadora y revolucionaria.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

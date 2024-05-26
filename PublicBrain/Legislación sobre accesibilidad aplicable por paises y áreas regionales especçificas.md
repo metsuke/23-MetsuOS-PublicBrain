@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Legislación sobre accesibilidad aplicable por paises y áreas regionales especçificas
 
@@ -40,4 +40,4 @@ tags: []
 | Japón           | WCAG 2.0                | [Ley de Promoción de Accesibilidad (Japón)](https://www.japaneselawtranslation.go.jp/law/detail/?vm=04&re=01&id=1994)                          |
 | Kenia           | WCAG 2.0                | [Ley de Personas con Discapacidad (Kenia)](http://www.kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=No.%2014%20of%202003)                           |
 
-
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

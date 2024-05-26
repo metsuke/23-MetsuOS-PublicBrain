@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -12,9 +12,9 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 25
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Lección 4 - Reflexión sobre el impacto social y ético
 
@@ -29,3 +29,5 @@ Además, es crucial considerar la equidad y la justicia en el desarrollo y aplic
 Por último, es fundamental reflexionar sobre la privacidad y la seguridad de los datos en el contexto de la computación mecánica con canicas. A medida que recopilamos y procesamos cada vez más información personal a través de esta tecnología, es importante garantizar que se proteja la privacidad de las personas y que se utilice de manera segura y ética.
 
 En resumen, al aprender y trabajar con computación mecánica con canicas, es crucial considerar el impacto social y ético de esta tecnología para asegurarnos de que se utilice de manera responsable y beneficiosa para todos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

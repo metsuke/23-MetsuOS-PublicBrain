@@ -1,5 +1,7 @@
 # Carreras en IA ⚫①
 
+[[Aprender sobre Inteligencia Artificial ⚫①]]
+
 En el campo de la Inteligencia Artificial, existen diversas carreras y oportunidades laborales para aquellos interesados en incursionar en este ámbito en constante crecimiento. Algunas de las carreras relacionadas con la IA son:
 
 1. Ingeniería en Inteligencia Artificial: Esta especialización se enfoca en el desarrollo de sistemas y algoritmos de inteligencia artificial, aplicados a diferentes áreas como el procesamiento del lenguaje natural, la visión por computadora, o la robótica, entre otros.

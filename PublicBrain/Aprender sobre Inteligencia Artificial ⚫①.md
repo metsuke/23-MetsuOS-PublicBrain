@@ -101,7 +101,7 @@ tags:
 - IA cuántica
 - IA explicable (Explainable AI)
 - IA en el Internet de las Cosas (IoT)
-- IA en la medicina personalizada
+- [[IA en la medicina personalizada ⚫①]]
 
 ## Desarrollo Profesional en IA
 

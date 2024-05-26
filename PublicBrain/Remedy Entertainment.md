@@ -18,7 +18,7 @@ tags: []
 ---
 # Remedy Entertainment
 
-[[Alan Wake (Remedy Entertainment, 2010)]]
+[[Alan Wake (Remedy Entertainment, 2010) 🔴②]]
 
 ![Logo Remedy Entertainment - From Wikipedia](PublicBrain/_resources/Remedy%20Entertainment/77ad2e92382897d333d5f8b846200e35_MD5.png|white)
 

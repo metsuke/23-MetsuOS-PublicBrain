@@ -29,7 +29,7 @@ En [[catalán]], existen diferentes formas de saludar que pueden variar según e
     
 -   "[[Bon dia]]": Es la forma de saludar para desear buenos días. Se utiliza generalmente en el comienzo del día, aunque también puede utilizarse a lo largo de la mañana.
     
--   "[[Adéu]]": Es la forma de despedida más común en catalán, aunque también se puede usar para saludar en algunos contextos informales. Se puede traducir como "adiós".
+-   "[[Adéu 🔴②]]": Es la forma de despedida más común en catalán, aunque también se puede usar para saludar en algunos contextos informales. Se puede traducir como "adiós".
     
 -   "[[Fins ara]]": Es una forma de despedida que significa "hasta ahora". Se utiliza como una forma de decir "hasta la próxima vez que nos veamos".
     

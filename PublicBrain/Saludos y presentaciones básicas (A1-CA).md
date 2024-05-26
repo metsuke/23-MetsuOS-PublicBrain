@@ -30,7 +30,7 @@ tags: []
     
 4. **Bon vespre**: Significa "buenas noches" (cuando comienza la noche).
     
-5. **[[Adéu]]**: Significa "adiós." Se utiliza al despedirse.
+5. **[[Adéu 🔴②]]**: Significa "adiós." Se utiliza al despedirse.
     
 
 ## Presentaciones:

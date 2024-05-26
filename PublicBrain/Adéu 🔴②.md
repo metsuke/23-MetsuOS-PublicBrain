@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Adéu
+# Adéu 🔴②
 
 [[Saludos y presentaciones básicas (A1-CA)]]
 

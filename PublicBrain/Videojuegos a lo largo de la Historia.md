@@ -22,7 +22,7 @@ tags: []
 
 ## A-F
 * [[Adventure (Atari, Inc., 1979)]].
-* [[Alan Wake (Remedy Entertainment, 2010)]]. 
+* [[Alan Wake (Remedy Entertainment, 2010) 🔴②]]. 
 * [[Ant Attack (Quicksilva, 1983)]].
 * [[Assassin's Creed (Ubisoft Montreal, 2007)]]
 * [[Assassin's Creed IV (Ubisoft, 2013)]]

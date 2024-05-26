@@ -18,4 +18,4 @@ tags: []
 ---
 # Microsoft Windows
 
-[[Alan Wake (Remedy Entertainment, 2010)]]
+[[Alan Wake (Remedy Entertainment, 2010) 🔴②]]

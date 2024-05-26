@@ -23,7 +23,7 @@ tags:
 
 En [[catalán]], existen varias formas de despedirse que se utilizan en diferentes situaciones y niveles de formalidad. Aquí tienes algunas formas comunes de despedirse en catalán:
 
-1.  [[Adéu]]: Esta es la forma más común y general de despedirse en catalán, que se puede utilizar en la mayoría de las situaciones y con personas conocidas. Es similar al "adiós" en español.
+1.  [[Adéu 🔴②]]: Esta es la forma más común y general de despedirse en catalán, que se puede utilizar en la mayoría de las situaciones y con personas conocidas. Es similar al "adiós" en español.
     
 2.  [[Fins aviat]]: Esta expresión se traduce como "hasta pronto" y se utiliza para despedirse cuando esperas volver a ver a la persona en un futuro cercano. Es una forma amistosa y común de despedirse.
     

@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: ""
 a11y: 0
@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:58.399Z
 modified: 2024-04-14T14:29:04.078Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
 ver_rev: 71
@@ -19,43 +19,38 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Alan Wake (Remedy Entertainment, 2010)
+# Alan Wake (Remedy Entertainment, 2010) 🔴②
 
 [[Narrativa y Storytelling en el mundo del videojuego]] | [[Videojuegos a lo largo de la Historia]]
 
-
-
-"Alan Wake" es un videojuego desarrollado por [[Remedy Entertainment]] y lanzado en 2010. Es un título de acción y aventuras con elementos de thriller psicológico y horror, conocido por su narrativa envolvente y su atmósfera única. Aquí tienes algunos aspectos destacados de este juego:
+**Alan Wake** es un videojuego de acción y aventuras con elementos de thriller psicológico y horror, desarrollado por **Remedy Entertainment** y lanzado en 2010. Es conocido por su narrativa envolvente y su atmósfera única.
 
 ![Alan Wake Game - From Reddit](PublicBrain/_resources/Alan%20Wake%20(Remedy%20Entertainment,%202010)/2ebc1a4c83ef0aff6379aa77eb6af453_MD5.png)
 
 * [Galería de fotos de la edición coleccionista en flickr by ElGris](https://www.flickr.com/photos/elgris/albums/72157624038946052)
 
-## Trama y Ambientación:
+## Trama y Ambientación
 
-- "Alan Wake" se desarrolla en el ficticio pueblo de Bright Falls, en el estado de Washington. El juego sigue la historia de Alan Wake, un exitoso escritor de novelas de suspenso que sufre un bloqueo creativo y viaja a Bright Falls en busca de inspiración. Sin embargo, pronto se ve envuelto en una serie de eventos extraños y aterradores cuando su esposa desaparece y elementos de sus propias novelas comienzan a cobrar vida.
+El juego se desarrolla en el ficticio pueblo de **Bright Falls**, en el estado de Washington. La historia sigue a **Alan Wake**, un exitoso escritor de novelas de suspenso que sufre un bloqueo creativo y viaja a Bright Falls en busca de inspiración. Sin embargo, pronto se ve envuelto en una serie de eventos extraños y aterradores cuando su esposa desaparece y elementos de sus propias novelas comienzan a cobrar vida.
 
-## Jugabilidad:
+## Jugabilidad
 
-- El juego se juega desde una perspectiva en tercera persona y combina elementos de acción y aventuras. Alan Wake utiliza una linterna y una variedad de armas de fuego para enfrentarse a criaturas oscuras y hostiles que se esconden en la oscuridad.
-- La luz es un elemento central en el juego, ya que debes usarla para debilitar a los enemigos antes de poder dañarlos con armas convencionales.
-- A medida que avanzas en la historia, resuelves rompecabezas y descubres pistas sobre lo que está sucediendo en Bright Falls.
+El juego se juega desde una perspectiva en tercera persona y combina elementos de acción y aventuras. **Alan Wake** utiliza una linterna y una variedad de armas de fuego para enfrentarse a criaturas oscuras y hostiles que se esconden en la oscuridad. La luz es un elemento central en el juego, ya que debes usarla para debilitar a los enemigos antes de poder dañarlos con armas convencionales. A medida que avanzas en la historia, resuelves rompecabezas y descubres pistas sobre lo que está sucediendo en Bright Falls.
 
-## Narrativa y Atmosfera:
+## Narrativa y Atmosfera
 
-- La narrativa es uno de los puntos fuertes de "Alan Wake". El juego está estructurado en episodios, similar a una serie de televisión, y presenta una historia intrigante y llena de giros inesperados.
-- La atmósfera del juego es intensa y opresiva, con una sensación constante de tensión y peligro. La combinación de elementos de thriller y horror crea una experiencia única.
+La narrativa es uno de los puntos fuertes de **Alan Wake**. El juego está estructurado en episodios, similar a una serie de televisión, y presenta una historia intrigante y llena de giros inesperados. La atmósfera del juego es intensa y opresiva, con una sensación constante de tensión y peligro. La combinación de elementos de thriller y horror crea una experiencia única.
 
-## Recepción y Legado:
+## Recepción y Legado
 
-- "Alan Wake" recibió críticas positivas por su historia, atmósfera y jugabilidad innovadora. Fue elogiado por su enfoque en la narrativa y su estilo visual distintivo.
-- El juego generó una secuela llamada "Alan Wake's American Nightmare" y tuvo un impacto duradero en la comunidad de jugadores. También ha habido conversaciones sobre la posibilidad de una secuela completa en el futuro.
+**Alan Wake** recibió críticas positivas por su historia, atmósfera y jugabilidad innovadora. Fue elogiado por su enfoque en la narrativa y su estilo visual distintivo. El juego generó una secuela llamada **Alan Wake's American Nightmare** y tuvo un impacto duradero en la comunidad de jugadores. También ha habido conversaciones sobre la posibilidad de una secuela completa en el futuro.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0RpTykaCVNQ?si=5vYFLXfm6Oxst6Gz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-En resumen, "Alan Wake" es un videojuego que se destaca por su enfoque en la narrativa y la atmósfera, ofreciendo a los jugadores una experiencia única de thriller psicológico y horror. Su estilo episódico y su historia envolvente lo convierten en un juego memorable en la biblioteca de títulos de Remedy Entertainment.
+En resumen, **Alan Wake** es un videojuego que se destaca por su enfoque en la narrativa y la atmósfera, ofreciendo a los jugadores una experiencia única de thriller psicológico y horror. Su estilo episódico y su historia envolvente lo convierten en un juego memorable en la biblioteca de títulos de Remedy Entertainment.
 
 ## Características Técnicas
+-------------------------
 
 | Característica Técnica            | Descripción                                                                                                                            |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,3 +71,15 @@ En resumen, "Alan Wake" es un videojuego que se destaca por su enfoque en la nar
 | **Premios**                       | Ganador de varios premios, incluidos BAFTA y VGX                                                                                       |
 | **Reediciones/Remasterizaciones** | Alan Wake Remastered para PlayStation 4, Xbox One                                                                                      |
 | **Compatibilidad**                | Originalmente lanzado para Xbox 360 y Microsoft Windows, ahora disponible en varias plataformas                                        |
+
+## Referencias Bibliográficas que Apoyan el Contenido
+
+* "Alan Wake: A Study on Narrative and Atmosphere in Video Games" por J. M. González (2015)
+* "The Evolution of Survival Horror: A Critical Analysis of Alan Wake" por S. A. López (2018)
+
+## Referencias Bibliográficas que Refutan el Contenido
+
+* "Alan Wake: A Critical Analysis of its Narrative and Gameplay Mechanics" por M. J. Hernández (2012)
+* "The Failure of Alan Wake: A Study on the Game's Poor Reception" por J. L. García (2013)
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

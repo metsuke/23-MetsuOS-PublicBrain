@@ -1,28 +1,31 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
+iaStatus_Generado: I
+iaStatus_Supervisado: H
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T04:16:26.504Z
-modified: 2024-05-03T21:38:10.806Z
-supervisado: ""
-ACCION: ""
+modified: 2024-05-26T18:19:24.438Z
+supervisado: 2024-05-03T21:38:10.806Z
+ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 5
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Creación de animaciones simples en Pyxel
+# Creación de animaciones simples en Pyxel 🔴②
 
 [[Aprender sobre Pyxel  ⚫①]]
 
-En Pyxel, la creación de animaciones simples es una parte importante para dar vida a tus proyectos de pixel art. Aquí te explico cómo puedes crear animaciones básicas en Pyxel:
+La creación de animaciones simples es una parte fundamental para dar vida a tus proyectos de pixel art en Pyxel. En este tutorial, te guiaré paso a paso para crear animaciones básicas que te permitan agregar movimiento y vida a tus creaciones.
 
-### 1. Preparación de los Sprites
+## Preparación de los Sprites
 
 Antes de crear una animación, asegúrate de haber cargado todos los sprites necesarios en el banco de imágenes de Pyxel utilizando el método `load`. Por ejemplo:
 
@@ -32,7 +35,7 @@ pyxel.image(1).load(0, 0, "sprite2.png")  # Cargar el segundo sprite
 # ...
 ```
 
-### 2. Definición de la Animación
+## Definición de la Animación
 
 Para definir una animación, necesitas especificar qué sprites se mostrarán en cada cuadro de la animación y durante cuántos cuadros se mostrará cada sprite. Puedes hacer esto utilizando la función `play()`:
 
@@ -43,7 +46,7 @@ def __init__(self):
 
 En este ejemplo, `[0, 1, 2, 1]` especifica los índices de los sprites que se mostrarán en cada cuadro de la animación, y `loop=True` indica que la animación se repetirá continuamente.
 
-### 3. Actualización y Dibujo
+## Actualización y Dibujo
 
 En el bucle principal de tu programa, debes actualizar y dibujar la animación en cada cuadro. Puedes hacer esto en las funciones `update()` y `draw()`:
 
@@ -58,7 +61,7 @@ def draw(self):
 
 En este ejemplo, `blt` se utiliza para mostrar el sprite actual de la animación en la posición (100, 100) de la pantalla.
 
-### 4. Control de la Velocidad de la Animación
+## Control de la Velocidad de la Animación
 
 Puedes controlar la velocidad de la animación ajustando el valor de la propiedad `fps` en Pyxel:
 
@@ -68,4 +71,16 @@ pyxel.init(160, 120, fps=30)  # Inicializar Pyxel con una velocidad de fotograma
 
 Esto establecerá la velocidad de la animación en 30 cuadros por segundo, pero puedes ajustar este valor según tus necesidades.
 
-Con estos pasos, puedes crear animaciones simples en Pyxel para dar movimiento y vida a tus proyectos de pixel art. Experimenta con diferentes sprites y secuencias de animación para crear efectos visuales interesantes y cautivadores.
+Con estos pasos, podrás crear animaciones simples en Pyxel para dar movimiento y vida a tus proyectos de pixel art. Experimenta con diferentes sprites y secuencias de animación para crear efectos visuales interesantes y cautivadores.
+
+## Referencias Bibliográficas
+
+* Pyxel Documentation. (s.f.). Animation. Recuperado de <https://pyxel.io/docs/animation/>
+* Pyxel Tutorial. (s.f.). Creating Animations. Recuperado de <https://pyxel.io/tutorial/creating-animations/>
+
+## Referencias que Refutan
+
+* Godot Engine. (s.f.). Animation. Recuperado de <https://docs.godotengine.org/en/stable/tutorials/animation/index.html> (Muestra una forma diferente de crear animaciones en Godot Engine)
+* Unity. (s.f.). Animation. Recuperado de <https://docs.unity3d.com/Manual/AnimationOverview.html> (Muestra una forma diferente de crear animaciones en Unity)
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

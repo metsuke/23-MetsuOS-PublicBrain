@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "3a02c0573034dc8c",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
+    "PublicBrain/Creación de animaciones simples en Pyxel 🔴②.md",
+    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
     "PublicBrain/Aprender sobre PixiJS ⚫①.md",
     "PublicBrain/Captura de eventos de entrada del usuario en PixiJS 🔴②.md",
-    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API ⚫①.md",
@@ -189,8 +191,6 @@
     "PublicBrain/Aprender Idiomas ⚫①.md",
     "PublicBrain/Alemán ⚫①.md",
     "PublicBrain/ALPT3-AR.md",
-    "PublicBrain/ALPT1-AR.md",
-    "PublicBrain/A1-TR ⚫①.md",
     "_resources/El Proyecto (WOI)",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",

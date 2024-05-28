@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+                "file": "PublicBrain/Uso de paletas de colores y modos de mezcla en Pyxel 🔴②.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+                "file": "PublicBrain/Uso de paletas de colores y modos de mezcla en Pyxel 🔴②.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+                "file": "PublicBrain/Uso de paletas de colores y modos de mezcla en Pyxel 🔴②.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md"
+                "file": "PublicBrain/Uso de paletas de colores y modos de mezcla en Pyxel 🔴②.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "d873459d63eea20a",
   "lastOpenFiles": [
-    "PublicBrain/Implementación de interacción de usuario (clics, toques, arrastres) en PixiJS 🔴②.md",
+    "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
     "PublicBrain/Aprender sobre PixiJS ⚫①.md",
+    "PublicBrain/Implementación de interacción de usuario (clics, toques, arrastres) en PixiJS 🔴②.md",
     "PublicBrain/Normativas y estándares internacionales (A11Y Videojuegos) 🔴②.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos ⚫①.md",
     "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md",
@@ -209,7 +210,6 @@
     "PublicBrain/Adventure (Atari, Inc., 1979) 🔴②.md",
     "PublicBrain/Alan Wake (Remedy Entertainment, 2010) 🔴②.md",
     "PublicBrain/Adéu 🔴②.md",
-    "PublicBrain/Aprender Idioma Catalán.md",
     "_resources/El Proyecto (WOI)",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",

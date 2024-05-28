@@ -40,7 +40,7 @@ tags:
 - [[Dibujando formas geométricas básicas en Pyxel 🔴②]]
 - [[Carga y visualización de sprites en Pyxel 🔴②]]
 - [[Creación de animaciones simples en Pyxel 🔴②]]
-- [[Uso de paletas de colores y modos de mezcla en Pyxel]] ⬛
+- [[Uso de paletas de colores y modos de mezcla en Pyxel 🔴②]]
 
 ## Sonido y Música en Pyxel
 

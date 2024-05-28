@@ -28,7 +28,7 @@ tags:
 ### Introducción a CPS
 
 - [[¿Qué es Complex Problem Solving? 🔴②]]
-- [[Importancia y aplicaciones de CPS en diversos campos ⚫①]]
+- [[Importancia y aplicaciones de CPS en diversos campos 🔴②]]
 - [[Lo primero, otras perspectivas sobre CPS ⚫①]]
 	- [[Visión del CPS de Javier G. Recuenco ⚫①]]
 - [[Enfoque histórico y evolución de la resolución de problemas complejos ⚫①]]

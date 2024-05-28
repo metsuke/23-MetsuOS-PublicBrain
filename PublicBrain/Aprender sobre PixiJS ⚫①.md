@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-05-27T13:38:00.138Z
+modified: 2024-05-28T17:59:59.915Z
 supervisado: 2024-05-19T19:26:28.183Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 100
+ver_rev: 101
 nav_primary: 
 nav_secondary: 
 tags:
@@ -40,7 +40,7 @@ tags:
 ## Interacción de Usuario y Eventos
 
 - [[Captura de eventos de entrada del usuario en PixiJS 🔴②]]
-- [[Implementación de interacción de usuario (clics, toques, arrastres) en PixiJS]] ⬛
+- [[Implementación de interacción de usuario (clics, toques, arrastres) en PixiJS 🔴②]]
 - [[Creación de botones y elementos interactivos en PixiJS]] ⬛
 - [[Gestión de eventos y detección de colisiones en PixiJS]] ⬛
 

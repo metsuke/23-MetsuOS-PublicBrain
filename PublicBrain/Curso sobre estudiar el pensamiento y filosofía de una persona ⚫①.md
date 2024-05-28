@@ -34,7 +34,7 @@ tags:
    
 ## II. Marco Teórico
 
-   - A. [[Fundamentos de la investigación filosófica (Estudio pensamiento y filosofía de una persona)]]
+   - [[Fundamentos de la investigación filosófica (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - B. [[Teorías de la mente y del conocimiento (Estudio pensamiento y filosofía de una persona)]]
    - C. [[Contexto histórico y cultural relevante (Estudio pensamiento y filosofía de una persona)]]
    

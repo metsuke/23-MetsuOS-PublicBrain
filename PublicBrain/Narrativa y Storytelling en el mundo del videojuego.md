@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.380Z
-modified: 2024-05-17T11:26:26.861Z
+modified: 2024-05-27T10:51:26.024Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 29
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Narrativa y Storytelling en el mundo del videojuego
+ # Narrativa y Storytelling en el mundo del videojuego
 
 [[Aprender sobre Videojuegos ⚫①]] | [[Aprender con Antonio Ruiz García (ElGris)]] | [[Aprender sobre Storytelling ⚫①]]
 

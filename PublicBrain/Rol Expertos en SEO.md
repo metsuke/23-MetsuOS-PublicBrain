@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-22T09:42:44.266Z
-modified: 2024-05-19T15:28:46.483Z
+modified: 2024-05-28T10:24:21.698Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 7
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -19,7 +19,7 @@ tags: []
 # Rol Expertos en SEO
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Departamento Marketing (Microagencia Marketing Digital)|Departamento Marketing]]
+	* [[Departamento Marketing (Microagencia Marketing Digital) 🔴②|Departamento Marketing]]
 	* [[Glosario de Marketing Digital ⚫①]]
 
 ### Objetivos

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T23:24:01.149Z
-modified: 2024-05-19T15:28:00.383Z
+modified: 2024-05-28T10:24:21.575Z
 supervisado: 2024-04-16T21:49:52.999Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 11
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Rol Experto en EMail Marketing
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Departamento Marketing (Microagencia Marketing Digital)|Departamento Marketing]]
+	* [[Departamento Marketing (Microagencia Marketing Digital) 🔴②|Departamento Marketing]]
 	* [[Glosario de Marketing Digital ⚫①]]
 
 ## Objetivo

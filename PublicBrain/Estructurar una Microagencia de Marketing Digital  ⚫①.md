@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-05-26T16:40:33.911Z
+modified: 2024-05-28T10:24:21.519Z
 supervisado: 2024-05-15T19:00:36.832Z
 ACCION: 
 ver_major: 0
 ver_minor: 5
-ver_rev: 123
+ver_rev: 125
 nav_primary: 
 nav_secondary: 
 tags:
@@ -38,7 +38,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 	* [[Rol Administración Negocios 🔴②|Administración 🔴②]]
 	* [[Rol Account Manager 🔴②|Account Manager 🔴②]]
 		* [[Rol Project Manager 🔴②|Project Manager 🔴②]]
-			* [[Departamento Marketing (Microagencia Marketing Digital)|Marketing]]
+			* [[Departamento Marketing (Microagencia Marketing Digital) 🔴②|Marketing 🔴②]]
 				* [[Rol Experto en Embudos de Venta|Expertos en Embudos de ventas]]
 				* [[Rol Experto en EMail Marketing|Expertos en Email marketing]]
 				* [[Rol Expertos en PPC|Rol Expertos en PPC]]

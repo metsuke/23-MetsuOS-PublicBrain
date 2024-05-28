@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T08:02:05.291Z
-modified: 2024-05-19T15:27:40.687Z
+modified: 2024-05-28T10:24:21.600Z
 supervisado: 2024-04-17T06:11:22.113Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 11
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Rol Experto en Embudos de Venta
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Departamento Marketing (Microagencia Marketing Digital)|Departamento Marketing]]
+	* [[Departamento Marketing (Microagencia Marketing Digital) 🔴②|Departamento Marketing]]
 	* [[Glosario de Marketing Digital ⚫①]]
 
 (del ing. Sales Funnel Expert.)

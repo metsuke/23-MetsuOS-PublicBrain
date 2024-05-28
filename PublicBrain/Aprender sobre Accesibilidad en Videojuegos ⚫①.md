@@ -1,9 +1,9 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -11,7 +11,7 @@ translations:
 created: 2024-04-06T23:48:58.519Z
 modified: 2024-05-27T13:37:59.989Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
 ver_rev: 99
@@ -32,7 +32,7 @@ tags:
 ## II. Principios Básicos de Accesibilidad en Videojuegos
 
    - [[Conceptos fundamentales de accesibilidad (A11Y Videojuegos) 🔴②]]
-   - [[Normativas y estándares internacionales (A11Y Videojuegos)]] ⬛
+   - [[Normativas y estándares internacionales (A11Y Videojuegos) 🔴②]]
    - [[Diversidad funcional y necesidades de diferentes usuarios]] ⬛
 
 ## III. Diseño Inclusivo en Videojuegos

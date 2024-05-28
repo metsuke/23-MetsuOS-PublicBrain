@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
+                "file": "PublicBrain/Etiquetas y nombre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d873459d63eea20a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Etiquetas y nombre.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
+                "file": "PublicBrain/Etiquetas y nombre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
+                "file": "PublicBrain/Etiquetas y nombre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md"
+                "file": "PublicBrain/Etiquetas y nombre.md"
               }
             }
           },
@@ -163,10 +176,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3a02c0573034dc8c",
+  "active": "d873459d63eea20a",
   "lastOpenFiles": [
-    "PublicBrain/Fundamentos de la investigación filosófica (Estudio pensamiento y filosofía de una persona) 🔴②.md",
+    "PublicBrain/WCAG 2.1 ⚫①.md",
+    "PublicBrain/Etiquetas y nombre.md",
+    "PublicBrain/WCAG 2.0 ⚫①.md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
+    "PublicBrain/Fundamentos de la investigación filosófica (Estudio pensamiento y filosofía de una persona) 🔴②.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
     "PublicBrain/Actualización de información de productos (IDRA-Ebay) 🔴②.md",
     "PublicBrain/Importancia y aplicaciones de CPS en diversos campos 🔴②.md",
@@ -194,9 +210,6 @@
     "PublicBrain/Licencia Pública General de GNU (GNU GPL).md",
     "PublicBrain/Licencias de software libre.md",
     "PublicBrain/Lista de paises por numero de puertos francos aduaneros.md",
-    "PublicBrain/Licencia de software.md",
-    "PublicBrain/Lección 4 - Exploración de la computación cuántica.md",
-    "PublicBrain/Lección 4 - Reflexión sobre el impacto social y ético.md",
     "_resources/El Proyecto (WOI)",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
     "PublicBrain/_resources/Rol Gestión Empresarial",

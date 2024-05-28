@@ -1,6 +1,9 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
@@ -57,7 +60,7 @@ Este criterio establece que todo contenido no textual (como imágenes, gráficos
 <img src="imagen.jpg" alt="Descripción de la imagen">
 ```
 
-### Criterio de Éxito 1.3.1: Información y Relaciones
+### Criterio de Éxito 1.3.1: "I"nformación y Relaciones
 
 Este criterio busca asegurar que la estructura y las relaciones entre la información sean explícitas, mediante el uso de etiquetas y elementos semánticos de HTML. Por ejemplo, el uso de `<label>` para asociar una etiqueta de texto con un campo de formulario.
 

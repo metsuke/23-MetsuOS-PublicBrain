@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-05-28T11:15:13.154Z
-supervisado: 2024-05-15T19:03:54.371Z
+modified: 2024-05-29T20:33:37.564Z
+supervisado: 2024-05-28T11:15:13.154Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 87
+ver_rev: 88
 nav_primary: 
 nav_secondary: 
 tags:
@@ -49,7 +49,7 @@ tags:
 
 - [[Creación de listados de productos (IDRA-Ebay) 🔴②]]
 - [[Actualización de información de productos (IDRA-Ebay) 🔴②]]
-- [[Eliminación de listados (IDRA-Ebay)]] ⬛
+- [[Eliminación de listados (IDRA-Ebay) 🔴②]]
 - [[Gestión de carritos de compras y órdenes (IDRA-Ebay)]] ⬛
 
 ## Optimización y Mejoras en la Interacción con la API

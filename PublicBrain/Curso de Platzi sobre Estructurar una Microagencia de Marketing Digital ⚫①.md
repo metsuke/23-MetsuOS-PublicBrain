@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.083Z
-modified: 2024-05-05T12:56:46.387Z
+modified: 2024-05-30T09:53:30.150Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 54
+ver_rev: 55
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,4 +33,4 @@ Lo mejor de todo es que este curso no solo te prepara para el éxito como empren
 
 No pierdas la oportunidad de destacarte en el mundo del marketing digital y llevar tu carrera al siguiente nivel. ¡Únete al Curso para Estructurar una Microagencia de Marketing Digital en Platzi hoy mismo y comienza tu viaje hacia el éxito!
 
-Enlace: [Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital](https://platzi.com/cursos/estructura-microagencia/) 
+Enlace: [Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🌐](https://platzi.com/cursos/estructura-microagencia/) 

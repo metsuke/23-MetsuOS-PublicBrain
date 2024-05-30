@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T04:33:17.264Z
-modified: 2024-05-29T20:18:45.576Z
+modified: 2024-05-30T09:44:57.196Z
 supervisado: 2024-05-28T10:28:19.588Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 19
+ver_rev: 18
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,7 +28,7 @@ El departamento de marketing es un pilar fundamental en cualquier organización,
 
 ## Perfiles
 
-*  [[Rol Experto en Embudos de Venta 🔴②|Expertos en Embudos de ventas]]: especializados en la creación de estrategias de marketing para atraer y retener a los clientes.
+*  [[Rol Experto en Embudos de Venta 🔴②|Expertos en Embudos de ventas 🔴②]]: especializados en la creación de estrategias de marketing para atraer y retener a los clientes.
 * [[Rol Experto en EMail Marketing|Expertos en Email marketing]]: expertos en la creación y envío de correos electrónicos para promover productos o servicios.
 * [[Rol Expertos en PPC|Expertos en PPC]]: expertos en la creación y gestión de campañas publicitarias en línea.
 * [[Rol Expertos en SEO|Expertos en SEO]]: expertos en la optimización de motores de búsqueda para mejorar la visibilidad de la marca en los resultados de búsqueda.
@@ -100,13 +100,13 @@ graph TD
 Nota: La sección de referencias bibliográficas y referencias que refutan se incluyen para proporcionar una visión más amplia y equilibrada del tema. Sin embargo, es importante tener en cuenta que las referencias que refutan pueden no ser necesariamente compatibles con el contenido presentado.
 ## Cursos recomendados
 
-* [Búsqueda en Platzi Departamento Marleting)](https://platzi.com/buscar/?search=Marketing)
+* [Búsqueda en Platzi Departamento Marleting 🌐](https://platzi.com/buscar/?search=Marketing)
 
  ### Escuelas Platzi Recomendadas
 
-* [Escuela Marketing Digital](https://platzi.com/escuela/marketing/)
-* [Escuela de Inglés](https://platzi.com/escuela/ingles/)
-* [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
+* [Escuela Marketing Digital 🌐](https://platzi.com/escuela/marketing/)
+* [Escuela de Inglés 🌐](https://platzi.com/escuela/ingles/)
+* [Escuela Programación y Software 🌐](https://platzi.com/escuela/programacion-software/)
 
 ![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
 

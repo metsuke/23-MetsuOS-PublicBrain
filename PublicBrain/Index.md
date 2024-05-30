@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-05-27T13:38:01.712Z
+modified: 2024-05-30T09:53:56.728Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 119
+ver_rev: 120
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,6 +33,12 @@ DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo fr
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
 
+* TODO: Estructura una Colonia Científica en el borde de la Via Láctea.
+* TODO: Estructurar una Consultora de Accesibilidad Digital
+* TODO: Estructura una Federación de Psicohistoriadores
+* TODO: Estructura una Enciclopedia Galáctica
+* TODO: Estructurar un Estudio de Videojuegos
+* TODO: Estructura el pesebre bajo las estrellas.
 ## Aprender Idiomas y Cultura
 
 * [[Aprender Idiomas ⚫①]]

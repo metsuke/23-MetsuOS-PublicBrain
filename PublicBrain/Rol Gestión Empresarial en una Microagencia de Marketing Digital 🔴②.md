@@ -63,25 +63,25 @@ La microagencia de marketing digital es un rol clave en la gestión empresarial,
 
 ## Referencias Bibliográficas
 
-* [Kotler, P. (2003). Marketing Management. Pearson Education.]
-* [Hoffman, D. L., & Novak, T. P. (1996). Marketing in the age of the internet. Journal of Marketing, 60(3), 1-16.]
-* [Prahalad, C. K., & Hamel, G. (1990). The core competence of the corporation. Harvard Business Review, 68(3), 79-91.]
+* Kotler, P. (2003). Marketing Management. Pearson Education.
+* Hoffman, D. L., & Novak, T. P. (1996). Marketing in the age of the internet. Journal of Marketing, 60(3), 1-16.
+* Prahalad, C. K., & Hamel, G. (1990). The core competence of the corporation. Harvard Business Review, 68(3), 79-91.
 
 ## Referencias que Refutan
 
-* [Porter, M. E. (1985). Competitive Advantage: Creating and Sustaining Superior Performance. Free Press.]
-* [Drucker, P. F. (1954). The Practice of Management. Harper & Row.]
+* Porter, M. E. (1985). Competitive Advantage: Creating and Sustaining Superior Performance. Free Press.
+* Drucker, P. F. (1954). The Practice of Management. Harper & Row.
 
 Nota: Se han utilizado fuentes académicas y de autoridad en el campo del marketing y la gestión empresarial para apoyar y refutar el contenido. Se recomienda consultar las fuentes originales para obtener una comprensión más profunda de los conceptos y teorías presentados.
 
 ## Cursos recomendados
 
-* [Búsqueda en Platzi Rol Gestión Empresarial)](https://platzi.com/buscar/?search=Gesti%C3%B3n%20Empresarial)
+* [Búsqueda en Platzi Rol Gestión Empresarial 🌐](https://platzi.com/buscar/?search=Gesti%C3%B3n%20Empresarial)
 
 ### Escuelas Platzi Recomendadas
 
-* [Escuela de Negocios](https://platzi.com/escuela/negocios/)
-* [Escuela de Inglés](https://platzi.com/escuela/ingles/)
+* [Escuela de Negocios 🌐](https://platzi.com/escuela/negocios/)
+* [Escuela de Inglés 🌐](https://platzi.com/escuela/ingles/)
 
 ![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
 

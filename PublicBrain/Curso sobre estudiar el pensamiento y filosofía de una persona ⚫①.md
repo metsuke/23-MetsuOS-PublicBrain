@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-05-28T11:22:23.295Z
+modified: 2024-06-01T21:18:34.076Z
 supervisado: 2024-05-11T21:33:21.594Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 70
+ver_rev: 71
 nav_primary: 
 nav_secondary: 
 tags:
@@ -35,7 +35,7 @@ tags:
 ## II. Marco Teórico
 
    - [[Fundamentos de la investigación filosófica (Estudio pensamiento y filosofía de una persona) 🔴②]]
-   - B. [[Teorías de la mente y del conocimiento (Estudio pensamiento y filosofía de una persona)]]
+   - [[Teorías de la mente y del conocimiento (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - C. [[Contexto histórico y cultural relevante (Estudio pensamiento y filosofía de una persona)]]
    
 ## III. Metodología de Investigación

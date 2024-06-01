@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.551Z
-modified: 2024-05-27T13:38:00.101Z
+modified: 2024-06-01T21:11:34.527Z
 supervisado: 2024-05-18T20:43:05.174Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 89
+ver_rev: 90
 nav_primary: 
 nav_secondary: 
 tags:
@@ -106,7 +106,7 @@ tags:
 ## Desarrollo Profesional en IA
 
 - [[Carreras en IA ⚫①]]
-- Certificaciones en IA
+- [[Certificaciones en IA ⚫①]]
 - Perfil del profesional en IA
 
 ## Inteligencia Artificial Multimodal Progresiva (MetsukeOS)

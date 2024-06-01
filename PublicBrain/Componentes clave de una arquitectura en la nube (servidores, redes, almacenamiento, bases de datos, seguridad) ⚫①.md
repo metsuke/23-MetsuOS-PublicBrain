@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T20:54:02.456Z
-modified: 2024-05-06T16:55:15.418Z
+modified: 2024-06-01T21:23:09.305Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Componentes clave de una arquitectura en la nube (servidores, redes, almacenamiento, bases de datos, seguridad)
+# Componentes clave de una arquitectura en la nube (servidores, redes, almacenamiento, bases de datos, seguridad) ⚫①
 
-[[Aprender sobre Diseño de Arquitectura en la Nube]]
+[[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 
 En una arquitectura en la nube, algunos de los componentes clave incluyen:
 
@@ -33,3 +33,5 @@ En una arquitectura en la nube, algunos de los componentes clave incluyen:
 5. Seguridad: La seguridad en la nube es un componente crítico, ya que se deben implementar medidas para proteger los datos sensibles y las aplicaciones de posibles ataques. Esto incluye la autenticación, el cifrado, el monitoreo de eventos, la gestión de identidades y accesos, entre otros aspectos.
 
 Estos son solo algunos de los componentes clave de una arquitectura en la nube, y es importante diseñar una arquitectura que tenga en cuenta la escalabilidad, la disponibilidad, el rendimiento y la seguridad para garantizar el éxito de los sistemas en la nube.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

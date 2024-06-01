@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T09:28:11.074Z
-modified: 2024-05-06T16:55:15.668Z
+modified: 2024-06-01T21:26:18.847Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Patrones de diseño para la redundancia y la tolerancia a fallos en la nube
+# Patrones de diseño para la redundancia y la tolerancia a fallos en la nube ⚫①
 
-[[Aprender sobre Diseño de Arquitectura en la Nube]]
+[[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 
 Para garantizar la disponibilidad y fiabilidad de un sistema en la nube, es fundamental implementar patrones de diseño para la redundancia y la tolerancia a fallos. Estos patrones permiten que un sistema continúe operando de manera consistente incluso cuando ocurren cortes de red, errores de hardware o software, o problemas relacionados.
 
@@ -37,3 +37,5 @@ Algunos de los patrones de diseño más comunes para la redundancia y la toleran
 6. **Detección y corrección automática de errores**: Utilizar herramientas de monitoreo y alerta para detectar problemas de manera proactiva y tomar medidas correctivas antes de que afecten a los usuarios finales.
 
 Al implementar estos patrones de diseño para la redundancia y la tolerancia a fallos, se puede garantizar que un sistema en la nube sea capaz de resistir y recuperarse de posibles fallos, maximizando su disponibilidad y fiabilidad.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.610Z
-modified: 2024-05-06T16:55:15.712Z
+modified: 2024-06-01T21:23:10.035Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Principios clave de diseño en la nube
+# Principios clave de diseño en la nube ⚫①
 
-[[Aprender sobre Diseño de Arquitectura en la Nube]]
+[[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 
 1. Escalabilidad: Los sistemas en la nube deben ser capaces de escalar de forma horizontal y vertical para manejar diferentes cargas de trabajo. Esto se logra mediante el uso de recursos elásticos que se pueden ajustar de acuerdo a la demanda.
 
@@ -33,3 +33,5 @@ tags: []
 6. Costo-eficiencia: El diseño en la nube debe ser costeado de forma eficiente, optimizando el uso de recursos y evitando gastos innecesarios. Es importante tener en cuenta el modelo de precios de los proveedores de servicios en la nube y diseñar la arquitectura de acuerdo a las necesidades del negocio.
 
 Estos son algunos de los principios clave de diseño en la nube que deben ser tenidos en cuenta al desarrollar arquitecturas en la nube eficientes y efectivas.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

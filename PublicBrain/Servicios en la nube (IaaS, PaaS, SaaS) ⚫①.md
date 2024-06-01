@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T20:53:09.847Z
-modified: 2024-05-06T16:55:15.838Z
+modified: 2024-06-01T21:23:10.152Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Servicios en la nube (IaaS, PaaS, SaaS)
+# Servicios en la nube (IaaS, PaaS, SaaS) ⚫①
 
-[[Aprender sobre Diseño de Arquitectura en la Nube]]
+[[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 
 Los servicios en la nube se dividen en tres categorías principales: Infraestructura como servicio (IaaS), Plataforma como servicio (PaaS) y Software como servicio (SaaS). Cada uno de estos modelos ofrece diferentes niveles de control, flexibilidad y responsabilidad para los usuarios de la nube.
 
@@ -29,3 +29,5 @@ Los servicios en la nube se dividen en tres categorías principales: Infraestruc
 - **Software como servicio (SaaS)**: En el modelo de SaaS, los proveedores de la nube ofrecen aplicaciones de software que se ejecutan en la nube y se acceden a través de internet. Los usuarios simplemente utilizan las aplicaciones sin tener que preocuparse por la infraestructura subyacente, el mantenimiento del sistema o las actualizaciones de software. Ejemplos de servicios SaaS populares incluyen Salesforce, Microsoft Office 365, Google Workspace y Dropbox.
 
 Cada modelo de servicio en la nube tiene sus propias ventajas y desventajas, y la elección del modelo adecuado depende de las necesidades y requisitos específicos de cada organización o proyecto. Los equipos de arquitectura en la nube deben comprender estos modelos para diseñar soluciones efectivas y escalables en la nube.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

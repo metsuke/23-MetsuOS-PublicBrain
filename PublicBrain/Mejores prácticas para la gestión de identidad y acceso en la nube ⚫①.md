@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T10:38:45.659Z
-modified: 2024-05-06T16:55:15.593Z
+modified: 2024-06-01T21:24:39.175Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Mejores prácticas para la gestión de identidad y acceso en la nube
+# Mejores prácticas para la gestión de identidad y acceso en la nube ⚫①
 
-[[Aprender sobre Diseño de Arquitectura en la Nube]]
+[[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 
  en entornos de nube?
 
@@ -37,3 +37,5 @@ En un entorno de nube, la gestión de identidad y acceso es de vital importancia
 6. **Encriptar los datos**: Para proteger los datos en reposo y en tránsito, se recomienda implementar encriptación tanto a nivel de almacenamiento como de comunicaciones, asegurando que la información sensible esté protegida en todo momento.
 
 Siguiendo estas mejores prácticas para la gestión de identidad y acceso en entornos de nube, las organizaciones pueden fortalecer su seguridad y reducir los riesgos de posibles brechas o amenazas a la infraestructura de la nube.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

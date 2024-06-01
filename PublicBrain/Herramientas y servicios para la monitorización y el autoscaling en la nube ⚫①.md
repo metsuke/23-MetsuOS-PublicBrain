@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T09:28:49.860Z
-modified: 2024-05-06T16:55:15.536Z
+modified: 2024-06-01T21:26:00.113Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Herramientas y servicios para la monitorización y el autoscaling en la nube
+# Herramientas y servicios para la monitorización y el autoscaling en la nube ⚫①
 
-[[Aprender sobre Diseño de Arquitectura en la Nube]]
+[[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 
 La monitorización y el autoscaling son dos aspectos fundamentales en la gestión de una arquitectura en la nube. A continuación, te presento algunas herramientas y servicios que se utilizan comúnmente para llevar a cabo estas tareas:
 
@@ -39,3 +39,5 @@ La monitorización y el autoscaling son dos aspectos fundamentales en la gestió
 3. **Azure Autoscale**: Es un servicio de escalado automático de Microsoft Azure que optimiza la utilización de recursos en función de las métricas de monitorización. Permite definir reglas de escalado basadas en el uso de CPU, memoria u otras métricas personalizadas.
 
 Estas herramientas y servicios son esenciales para garantizar un rendimiento óptimo, una alta disponibilidad y una eficiencia en costes en una arquitectura en la nube. Al integrar la monitorización y el autoscaling en tu infraestructura, podrás adaptarte dinámicamente a las fluctuaciones de la demanda y mejorar la experiencia de los usuarios.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Teorías de la mente y del conocimiento (Estudio pensamiento y filosofía de una persona) 🔴②.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Teorías de la mente y del conocimiento (Estudio pensamiento y filosofía de una persona) 🔴②.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Teorías de la mente y del conocimiento (Estudio pensamiento y filosofía de una persona) 🔴②.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Teorías de la mente y del conocimiento (Estudio pensamiento y filosofía de una persona) 🔴②.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -165,32 +165,32 @@
   },
   "active": "d873459d63eea20a",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube ⚫①.md",
+    "PublicBrain/¿Qué es la Arquitectura en la Nube? ⚫①.md",
+    "PublicBrain/Importancia del diseño de arquitectura en la nube ⚫①.md",
+    "PublicBrain/Principios clave de diseño en la nube ⚫①.md",
+    "PublicBrain/Beneficios y desafíos de la adopción de arquitecturas en la nube ⚫①.md",
+    "PublicBrain/Conceptos básicos de computación en la nube ⚫①.md",
+    "PublicBrain/Modelos de implementación en la nube (pública, privada, híbrida) ⚫①.md",
+    "PublicBrain/Servicios en la nube (IaaS, PaaS, SaaS) ⚫①.md",
+    "PublicBrain/Componentes clave de una arquitectura en la nube (servidores, redes, almacenamiento, bases de datos, seguridad) ⚫①.md",
+    "PublicBrain/Principios de escalabilidad y resiliencia en la nube ⚫①.md",
+    "PublicBrain/Estrategias para la distribución de carga y gestión de tráfico en la nube ⚫①.md",
+    "PublicBrain/Patrones de diseño para la redundancia y la tolerancia a fallos en la nube ⚫①.md",
+    "PublicBrain/Herramientas y servicios para la monitorización y el autoscaling en la nube ⚫①.md",
+    "PublicBrain/Principios de seguridad en la nube ⚫①.md",
+    "PublicBrain/Mejores prácticas para la gestión de identidad y acceso en la nube ⚫①.md",
+    "PublicBrain/Protección de datos en reposo y en tránsito (Arquitectura en la nube) ⚫①.md",
+    "PublicBrain/Cumplimiento normativo y regulaciones de seguridad en la nube ⚫①.md",
+    "PublicBrain/Estrategias de integración y interoperabilidad entre plataformas en la nube ⚫①.md",
+    "PublicBrain/Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube) ⚫①.md",
+    "PublicBrain/Gestión de entornos y recursos distribuidos en la nube  ⚫①.md",
+    "PublicBrain/Teorías de la mente y del conocimiento (Estudio pensamiento y filosofía de una persona) 🔴②.md",
     "PublicBrain/IA explicable (Explainable AI) ⚫①.md",
     "PublicBrain/IA en el Internet de las Cosas (IoT) ⚫①.md",
     "PublicBrain/Certificaciones en IA ⚫①.md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
     "PublicBrain/Aprender con Javier G. Recuenco ⚫①.md",
-    "PublicBrain/Arquitectura de Incentivos.md",
-    "PublicBrain/Arquitectura Dinámica de Incentivos.md",
-    "IA explicable (Explainable AI) ⚫①.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial ⚫①.md",
-    "Certificaciones en IA ⚫①.md",
-    "IA en el Internet de las Cosas (IoT) ⚫①.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
-    "PublicBrain/Departamento Marketing (Microagencia Marketing Digital) 🔴②.md",
-    "PublicBrain/Rol Experto en EMail Marketing 🔴②.md",
-    "PublicBrain/Rol Comercial 🔴②.md",
-    "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital  ⚫①.md",
-    "PublicBrain/Rol Diseño Gráfico.md",
-    "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
-    "PublicBrain/Rol Redacción publicitaria.md",
-    "PublicBrain/Rol Project Manager 🔴②.md",
-    "PublicBrain/Rol Experto en Embudos de Venta 🔴②.md",
-    "PublicBrain/Rol Expertos en SEO.md",
-    "PublicBrain/Rol Expertos en PPC.md",
-    "PublicBrain/Rol Desarrollo web  ⚫①.md",
-    "PublicBrain/Rol Administración Negocios 🔴②.md",
-    "PublicBrain/Rol Account Manager 🔴②.md",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",
     "PublicBrain/_resources/Rol Experto en Embudos de Venta",

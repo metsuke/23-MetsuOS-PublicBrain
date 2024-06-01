@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T10:40:24.239Z
-modified: 2024-05-06T16:55:15.462Z
+modified: 2024-06-01T21:23:59.117Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Cumplimiento normativo y regulaciones de seguridad en la nube
+# Cumplimiento normativo y regulaciones de seguridad en la nube ⚫①
 
-[[Aprender sobre Diseño de Arquitectura en la Nube]]
+[[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 
 El cumplimiento normativo y las regulaciones de seguridad en la nube son aspectos críticos a considerar al diseñar arquitecturas en la nube. Estas regulaciones están destinadas a garantizar que las organizaciones cumplan con estándares específicos de seguridad y privacidad al almacenar y procesar datos en la nube.
 
@@ -33,3 +33,5 @@ Algunas de las regulaciones de seguridad y cumplimiento normativo más important
 4. PCI DSS (Estándar de Seguridad de Datos de la Industria de Tarjetas de Pago): Este estándar se aplica a las organizaciones que procesan pagos con tarjetas de crédito y débito. Las empresas que almacenan datos de tarjetas de pago en la nube deben cumplir con los requisitos de PCI DSS para proteger la información financiera de los clientes.
 
 Al diseñar arquitecturas en la nube, es fundamental tener en cuenta estas regulaciones de seguridad y cumplimiento normativo para garantizar la protección adecuada de los datos y evitar posibles sanciones legales. Es importante trabajar con proveedores de servicios en la nube que cumplan con estas regulaciones y ofrecer garantías de seguridad para proteger la información de la empresa y de sus clientes.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

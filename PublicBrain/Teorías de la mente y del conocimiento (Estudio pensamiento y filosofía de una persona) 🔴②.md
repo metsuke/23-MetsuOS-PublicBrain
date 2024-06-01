@@ -10,10 +10,10 @@ lang: ES
 translations: 
 created: 2024-04-07T07:35:18.767Z
 modified: 2024-06-01T21:19:40.144Z
-supervisado: 2024-05-05T18:48:26.037Z
-ACCION: S
+supervisado: 2024-06-01T21:19:40.144Z
+ACCION: 
 ver_major: 0
-ver_minor: 2
+ver_minor: 4
 ver_rev: 6
 nav_primary: 
 nav_secondary: 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T04:03:11.306Z
-modified: 2024-05-06T16:55:15.436Z
+modified: 2024-06-01T21:23:09.330Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Conceptos básicos de computación en la nube
+# Conceptos básicos de computación en la nube ⚫①
 
-[[Aprender sobre Diseño de Arquitectura en la Nube]]
+[[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 
 La computación en la nube se refiere a la entrega de servicios de computación, como servidores, almacenamiento, bases de datos, redes, software, análisis, entre otros, a través de internet en lugar de depender de recursos locales de hardware o software. Esto permite a las organizaciones acceder a recursos tecnológicos de forma rápida y flexible, pagando únicamente por lo que utilizan, en lugar de tener que invertir en infraestructura costosa y mantenimiento.
 
@@ -46,3 +46,5 @@ Algunos conceptos básicos de computación en la nube son:
    - **Integración**: La integración con sistemas existentes puede resultar compleja y requerir un enfoque cuidadoso.
 
 En general, la computación en la nube ha transformado la forma en que las organizaciones gestionan sus recursos tecnológicos, permitiendo una mayor agilidad y eficiencia en la entrega de servicios digitales.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-06T16:57:12.647Z
-modified: 2024-05-06T17:02:15.404Z
+modified: 2024-06-01T21:23:10.216Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube)
+# Implementación de arquitecturas híbridas y multicloud (Arquitectura en la nube) ⚫①
 
-[[Aprender sobre Diseño de Arquitectura en la Nube]]
+[[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 
 Una arquitectura híbrida combina recursos locales (on-premise) con recursos en la nube para ofrecer flexibilidad y escalabilidad. Por otro lado, una arquitectura multicloud implica utilizar múltiples proveedores de servicios en la nube para distribuir cargas de trabajo, reducir dependencias de un solo proveedor y aumentar la resistencia de la infraestructura.
 
@@ -33,3 +33,5 @@ La implementación de arquitecturas híbridas y multicloud requiere una planific
 - **Migración de cargas de trabajo:** es importante evaluar cuidadosamente qué cargas de trabajo se ejecutarán en cada entorno, considerando factores como costos, rendimiento, seguridad y cumplimiento de normativas.
 
 En resumen, la implementación de arquitecturas híbridas y multicloud puede ofrecer una mayor flexibilidad y capacidad de adaptación a las necesidades cambiantes de una organización, pero requiere un enfoque cuidadoso para garantizar el éxito y la seguridad de la infraestructura.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-05-30T09:53:56.728Z
+modified: 2024-06-01T21:23:09.918Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 120
+ver_rev: 121
 nav_primary: 
 nav_secondary: 
 tags:
@@ -130,7 +130,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Tecnología
 
-* [[Aprender sobre Diseño de Arquitectura en la Nube]]
+* [[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 	* [[Aprender sobre OwnCloud]]
 	* [[Aprender sobre VMWare Cloud]]
 * [[Aprender sobre Computación Mecánica]]

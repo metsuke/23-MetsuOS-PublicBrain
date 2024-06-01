@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T09:29:21.211Z
-modified: 2024-05-06T16:55:15.765Z
+modified: 2024-06-01T21:25:29.573Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Principios de seguridad en la nube
+# Principios de seguridad en la nube ⚫①
 
-[[Aprender sobre Diseño de Arquitectura en la Nube]]
+[[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 
 Los principios de seguridad en la nube son fundamentales para garantizar la protección de los datos y la infraestructura en un entorno en la nube. Algunos de los principios clave de seguridad en la nube son:
 

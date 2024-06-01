@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T20:54:47.671Z
-modified: 2024-05-06T16:55:15.743Z
+modified: 2024-06-01T21:26:59.360Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Principios de escalabilidad y resiliencia en la nube
+# Principios de escalabilidad y resiliencia en la nube ⚫①
 
-[[Aprender sobre Diseño de Arquitectura en la Nube]]
+[[Aprender sobre Diseño de Arquitectura en la Nube ⚫①]]
 
 Los principios de escalabilidad y resiliencia son fundamentales en el diseño de arquitectura en la nube. 
 
@@ -54,3 +54,5 @@ La resiliencia en la nube se refiere a la capacidad de un sistema para mantener 
 - Pruebas de resiliencia: Realizar pruebas periódicas de resiliencia, como pruebas de estrés y de recuperación ante desastres, para asegurarse de que el sistema pueda responder de manera efectiva en situaciones críticas.
 
 En resumen, la escalabilidad y la resiliencia son dos principios clave en el diseño de arquitecturas en la nube que permiten que los sistemas sean flexibles, adaptables y capaces de mantenerse operativos aún en situaciones adversas. Estos principios son fundamentales para garantizar un alto nivel de servicio y satisfacción del usuario en entornos cloud computing.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

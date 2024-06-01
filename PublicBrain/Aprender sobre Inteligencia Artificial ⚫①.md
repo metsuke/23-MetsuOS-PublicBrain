@@ -99,7 +99,7 @@ tags:
 ## Avances y Tendencias en IA
 
 - [[IA cuántica ⚫①]]
-- IA explicable (Explainable AI)
+- [[IA explicable (Explainable AI) ⚫①]]
 - [[IA en el Internet de las Cosas (IoT) ⚫①]]
 - [[IA en la medicina personalizada ⚫①]]
 

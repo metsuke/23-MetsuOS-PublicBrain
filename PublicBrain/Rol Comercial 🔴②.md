@@ -77,6 +77,6 @@ El Rol Comercial es un papel clave en la estrategia de marketing digital, respon
 * [Escuela de Marketing Digital](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

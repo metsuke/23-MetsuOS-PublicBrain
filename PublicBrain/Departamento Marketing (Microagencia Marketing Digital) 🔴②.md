@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T04:33:17.264Z
-modified: 2024-05-30T09:44:57.196Z
+modified: 2024-06-01T21:02:59.170Z
 supervisado: 2024-05-28T10:28:19.588Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 18
+ver_rev: 19
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,7 @@ El departamento de marketing es un pilar fundamental en cualquier organización,
 ## Perfiles
 
 *  [[Rol Experto en Embudos de Venta 🔴②|Expertos en Embudos de ventas 🔴②]]: especializados en la creación de estrategias de marketing para atraer y retener a los clientes.
-* [[Rol Experto en EMail Marketing|Expertos en Email marketing]]: expertos en la creación y envío de correos electrónicos para promover productos o servicios.
+* [[Rol Experto en EMail Marketing 🔴②|Expertos en Email marketing 🔴②]]: expertos en la creación y envío de correos electrónicos para promover productos o servicios.
 * [[Rol Expertos en PPC|Expertos en PPC]]: expertos en la creación y gestión de campañas publicitarias en línea.
 * [[Rol Expertos en SEO|Expertos en SEO]]: expertos en la optimización de motores de búsqueda para mejorar la visibilidad de la marca en los resultados de búsqueda.
 
@@ -108,7 +108,7 @@ Nota: La sección de referencias bibliográficas y referencias que refutan se in
 * [Escuela de Inglés 🌐](https://platzi.com/escuela/ingles/)
 * [Escuela Programación y Software 🌐](https://platzi.com/escuela/programacion-software/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
 

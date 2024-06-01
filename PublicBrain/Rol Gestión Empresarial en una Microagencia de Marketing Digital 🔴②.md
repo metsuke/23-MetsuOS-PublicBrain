@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.654Z
-modified: 2024-05-27T13:38:08.029Z
+modified: 2024-05-30T10:18:42.791Z
 supervisado: 2024-05-21T19:28:40.377Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 20
+ver_rev: 21
 nav_primary: 
 nav_secondary: 
 tags:
@@ -83,6 +83,6 @@ Nota: Se han utilizado fuentes académicas y de autoridad en el campo del market
 * [Escuela de Negocios 🌐](https://platzi.com/escuela/negocios/)
 * [Escuela de Inglés 🌐](https://platzi.com/escuela/ingles/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

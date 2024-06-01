@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a02c0573034dc8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Etiquetas y nombre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d873459d63eea20a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+                "file": "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Proyecto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+                "file": "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+                "file": "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md"
+                "file": "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md"
               }
             }
           },
@@ -178,32 +165,32 @@
   },
   "active": "d873459d63eea20a",
   "lastOpenFiles": [
-    "PublicBrain/Index.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
-    "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
-    "PublicBrain/Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ⚫①.md",
-    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
     "PublicBrain/Departamento Marketing (Microagencia Marketing Digital) 🔴②.md",
+    "PublicBrain/Rol Experto en EMail Marketing 🔴②.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
+    "PublicBrain/Rol Comercial 🔴②.md",
+    "PublicBrain/Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital  ⚫①.md",
+    "PublicBrain/Rol Diseño Gráfico.md",
+    "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
+    "PublicBrain/Rol Redacción publicitaria.md",
+    "PublicBrain/Rol Project Manager 🔴②.md",
+    "PublicBrain/Rol Experto en Embudos de Venta 🔴②.md",
+    "PublicBrain/Rol Expertos en SEO.md",
+    "PublicBrain/Rol Expertos en PPC.md",
+    "PublicBrain/Rol Desarrollo web  ⚫①.md",
+    "PublicBrain/Rol Administración Negocios 🔴②.md",
+    "PublicBrain/Rol Account Manager 🔴②.md",
+    "PublicBrain/Departamento Creativo (Microagencia Marketing Digital)  ⚫①.md",
+    "PublicBrain/Platzi_Referal.md",
+    "PublicBrain/Etiquetas y nombre.md",
+    "PublicBrain/Aprender con Q-Z ⚫①.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+    "PublicBrain/Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ⚫①.md",
     "PublicBrain/Aprender sobre Interacción Digital Remota mediante API ⚫①.md",
     "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
     "PublicBrain/Eliminación de listados (IDRA-Ebay) 🔴②.md",
-    "PublicBrain/Rol Experto en Embudos de Venta 🔴②.md",
     "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
-    "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
-    "PublicBrain/Uso de paletas de colores y modos de mezcla en Pyxel 🔴②.md",
-    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
-    "PublicBrain/Implementación de interacción de usuario (clics, toques, arrastres) en PixiJS 🔴②.md",
-    "PublicBrain/Normativas y estándares internacionales (A11Y Videojuegos) 🔴②.md",
-    "PublicBrain/Aprender sobre Accesibilidad en Videojuegos ⚫①.md",
-    "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md",
-    "PublicBrain/Requisitos legales y responsabilidades (A11Y ELearning) 🔴②.md",
-    "PublicBrain/Etiquetas y nombre.md",
-    "PublicBrain/WCAG 2.1 ⚫①.md",
-    "PublicBrain/WCAG 2.0 ⚫①.md",
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
-    "PublicBrain/Fundamentos de la investigación filosófica (Estudio pensamiento y filosofía de una persona) 🔴②.md",
-    "PublicBrain/Actualización de información de productos (IDRA-Ebay) 🔴②.md",
-    "PublicBrain/Importancia y aplicaciones de CPS en diversos campos 🔴②.md",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",
     "PublicBrain/_resources/Rol Experto en Embudos de Venta",

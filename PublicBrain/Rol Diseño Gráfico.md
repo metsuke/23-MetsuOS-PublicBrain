@@ -75,6 +75,6 @@ tags:
 * [Escuela Programación y Software](https://platzi.com/escuela/programacion-software/)
 
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.508Z
-modified: 2024-05-14T06:25:03.701Z
+modified: 2024-06-01T12:17:34.468Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 59
+ver_rev: 60
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,6 +32,7 @@ tags:
 * Aprender con Roger Antonsen
 * Aprender con Rosa Lencero Guillermo
 * Aprender con Rosana de Matos Silveira
+* Aprender con Samuel Vazquez
 * [[Aprender con Sani Ladam]]
 * [[Aprender con Selva Orejón]]
 * [[Aprender con SizeMatters]]

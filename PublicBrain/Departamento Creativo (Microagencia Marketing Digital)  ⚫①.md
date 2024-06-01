@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-28T19:44:08.840Z
-modified: 2024-05-27T13:38:00.965Z
+modified: 2024-06-01T21:02:43.927Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -99,7 +99,7 @@ El departamento creativo es fundamental para el éxito de una microagencia de ma
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
 

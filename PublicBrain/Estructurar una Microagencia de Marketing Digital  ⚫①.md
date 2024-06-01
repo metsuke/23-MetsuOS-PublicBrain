@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-05-30T09:40:14.538Z
+modified: 2024-06-01T21:03:08.567Z
 supervisado: 2024-05-15T19:00:36.832Z
 ACCION: 
 ver_major: 0
 ver_minor: 5
-ver_rev: 127
+ver_rev: 128
 nav_primary: 
 nav_secondary: 
 tags:
@@ -40,7 +40,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 		* [[Rol Project Manager 🔴②|Project Manager 🔴②]]
 			* [[Departamento Marketing (Microagencia Marketing Digital) 🔴②|Marketing 🔴②]]
 				* [[Rol Experto en Embudos de Venta 🔴②|Expertos en Embudos de ventas 🔴②]]
-				* [[Rol Experto en EMail Marketing|Expertos en Email marketing]]
+				* [[Rol Experto en EMail Marketing 🔴②|Expertos en Email marketing 🔴②]]
 				* [[Rol Expertos en PPC|Rol Expertos en PPC]]
 				* [[Rol Expertos en SEO|Expertos en SEO]]
 			* [[Departamento Creativo (Microagencia Marketing Digital)  ⚫①|Creativo]]
@@ -80,7 +80,7 @@ graph TD
 ```
 
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
 
 ## Log
 

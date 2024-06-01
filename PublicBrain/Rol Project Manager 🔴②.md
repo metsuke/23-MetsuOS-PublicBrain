@@ -104,6 +104,6 @@ Nota: Las referencias bibliográficas y las referencias que refutan el contenido
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
 * [Escuela de Startups](https://platzi.com/escuela/startups/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripcion a Platzi!]]
+![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

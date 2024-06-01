@@ -38,7 +38,7 @@ DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo fr
 * TODO: Estructura una Federación de Psicohistoriadores
 * TODO: Estructura una Enciclopedia Galáctica
 * TODO: Estructurar un Estudio de Videojuegos
-* TODO: Estructura el pesebre bajo las estrellas.
+* TODO: Estructura un pesebre bajo las estrellas.
 ## Aprender Idiomas y Cultura
 
 * [[Aprender Idiomas ⚫①]]

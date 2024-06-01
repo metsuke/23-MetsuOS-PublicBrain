@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.612Z
-modified: 2024-04-14T14:29:03.297Z
+modified: 2024-06-01T21:53:05.055Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Principios de Macroeconomía
+# Principios de Macroeconomía ⚫①
 
-[[Fundamentos de Economía]] | [[Aprender sobre Economía]]
+[[Fundamentos de Economía ⚫①]] | [[Aprender sobre Economía ⚫①]]
 
 La macroeconomía es una rama de la economía que se centra en el estudio de la economía en su conjunto. En este sentido, se analizan variables económicas a nivel global, como el producto interno bruto (PIB), el nivel de empleo, la inflación, la oferta y la demanda agregada, entre otros.
 
@@ -35,3 +35,5 @@ Algunos de los principios fundamentales de la macroeconomía incluyen:
 5. Política económica: La macroeconomía también estudia cómo las políticas económicas, tanto monetarias como fiscales, pueden afectar el crecimiento económico, el empleo, la inflación y otros indicadores económicos. Se analizan los efectos de políticas como la fijación de tasas de interés, la regulación del gasto público y la tributación.
 
 En resumen, los principios de la macroeconomía nos permiten comprender cómo funcionan las economías a nivel global y cómo se pueden tomar decisiones políticas para promover un crecimiento económico sostenible y equitativo.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T11:47:12.791Z
-modified: 2024-04-14T14:29:03.816Z
+modified: 2024-06-01T21:53:04.331Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Economía Mundial
 
-[[Aprender sobre Economía]]
+[[Aprender sobre Economía ⚫①]]
 
 La economía mundial se refiere al estudio y análisis de las interacciones económicas entre los diferentes países y regiones del mundo. En la economía mundial, se examinan aspectos como el comercio internacional, la inversión extranjera, los flujos financieros, las tasas de cambio, las políticas económicas de los distintos países y bloques económicos, entre otros.
 

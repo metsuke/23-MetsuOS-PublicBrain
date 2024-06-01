@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T11:21:39.507Z
-modified: 2024-04-14T14:29:03.817Z
+modified: 2024-06-01T21:58:07.055Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Economía Ecológica
+# Economía Ecológica ⚫①
 
-[[Aprender sobre Economía]]
+[[Aprender sobre Economía ⚫①]]
 
 La Economía Ecológica es una rama de la economía que se enfoca en la interacción entre la economía y el medio ambiente, con el objetivo de desarrollar un modelo económico sostenible que tenga en cuenta no solo los aspectos económicos, sino también los impactos ambientales y sociales de las actividades económicas.
 
@@ -27,3 +27,5 @@ La Economía Ecológica cuestiona el paradigma tradicional de crecimiento econó
 Entre sus herramientas metodológicas se encuentra el análisis de ciclo de vida, la contabilidad ambiental, la evaluación de impacto ambiental y el cálculo de huella ecológica. La Economía Ecológica aboga por un enfoque holístico e interdisciplinario que reconozca la interconexión entre la economía, el medio ambiente y la sociedad.
 
 En resumen, la Economía Ecológica busca promover un desarrollo económico que sea compatible con la preservación del medio ambiente y el bienestar de las generaciones presentes y futuras. Es una disciplina en constante evolución que contribuye a la construcción de un modelo económico más sostenible y equitativo.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

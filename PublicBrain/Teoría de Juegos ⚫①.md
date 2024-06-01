@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T21:16:54.092Z
-modified: 2024-04-14T14:29:03.233Z
+modified: 2024-06-01T21:53:05.147Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Teoría de Juegos
+# Teoría de Juegos ⚫①
 
-[[Aprender sobre Economía]]
+[[Aprender sobre Economía ⚫①]]
 
 La teoría de juegos es una rama de la economía y las matemáticas que estudia el comportamiento estratégico de individuos o empresas en situaciones de interdependencia. En otras palabras, analiza cómo las decisiones de un jugador afectan las decisiones de los demás y cómo pueden maximizar sus ganancias en un entorno competitivo.
 
@@ -27,3 +27,5 @@ En la teoría de juegos, los participantes son denominados jugadores, quienes to
 Algunos conceptos importantes en la teoría de juegos son los juegos de suma cero, donde la ganancia de un jugador se traduce en la pérdida del otro, y los equilibrios de Nash, que son situaciones en las cuales ningún jugador puede mejorar su situación unilateralmente, dado el comportamiento de los demás participantes.
 
 La teoría de juegos tiene aplicaciones en diversos campos como la economía, la política, la biología, la sociología y la informática, entre otros. Es una herramienta poderosa para analizar situaciones complejas de interacción estratégica y entender mejor el comportamiento humano en contextos de competencia y cooperación.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

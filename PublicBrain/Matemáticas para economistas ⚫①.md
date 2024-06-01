@@ -16,9 +16,9 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Matemáticas para economistas
+# Matemáticas para economistas ⚫①
 
-[[Aprender sobre Economía y Finanzas]]
+[[Aprender sobre Economía ⚫①]]
 
 Las matemáticas desempeñan un papel fundamental en la economía, ya que esta disciplina se basa en la modelización y el análisis de fenómenos económicos a través de herramientas matemáticas. A continuación, mencionaré algunas áreas de las matemáticas que son especialmente importantes para los economistas:
 
@@ -33,3 +33,5 @@ Las matemáticas desempeñan un papel fundamental en la economía, ya que esta d
 5. Análisis matemático: Herramientas como las ecuaciones diferenciales y la teoría de funciones son utilizadas en modelos económicos para estudiar la dinámica de variables económicas a lo largo del tiempo.
 
 En resumen, las matemáticas son una herramienta imprescindible para los economistas, ya que les permiten modelar, analizar e interpretar fenómenos económicos de manera rigurosa y precisa. Por lo tanto, es fundamental que los estudiantes de economía adquieran sólidos conocimientos en matemáticas para poder desenvolverse de manera efectiva en este campo.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

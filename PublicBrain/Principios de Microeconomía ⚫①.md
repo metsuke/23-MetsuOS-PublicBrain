@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Principios de Microeconomía
+# Principios de Microeconomía ⚫①
 
 [[Aprender sobre Economía y Finanzas]]
 
@@ -31,3 +31,5 @@ La microeconomía es una rama de la economía que se centra en el estudio del co
 4. Competencia perfecta: La competencia perfecta es un modelo teórico que describe un mercado en el que existe un gran número de compradores y vendedores, productos homogéneos, libre entrada y salida de empresas, y perfecta información. En este tipo de mercado, los precios se determinan por la interacción entre la oferta y la demanda, y las empresas maximizan sus beneficios produciendo donde el costo marginal iguala al precio.
 
 Estos son solo algunos de los principios básicos de la microeconomía. Estudiar estos conceptos te ayudará a comprender mejor cómo funcionan los mercados, las decisiones de consumo y producción, y cómo se asignan los recursos en una economía.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.696Z
-modified: 2024-04-14T14:29:03.245Z
+modified: 2024-06-01T21:53:05.117Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Sociología para economistas
+# Sociología para economistas ⚫①
 
-[[Fundamentos de Economía]] | [[Aprender sobre Economía]]
+[[Fundamentos de Economía ⚫①]] | [[Aprender sobre Economía ⚫①]]
 
 La sociología es una disciplina que se encarga de estudiar la sociedad, sus estructuras, dinámicas y procesos sociales. Para los economistas, el estudio de la sociología resulta relevante ya que las decisiones económicas no se toman en un vacío, sino que están influenciadas por factores sociales, culturales, políticos y psicológicos.
 
@@ -33,3 +33,5 @@ Algunos conceptos y teorías sociológicas importantes para los economistas incl
 4. Conflicto social: La sociología analiza los conflictos sociales, es decir, las tensiones y disputas que surgen entre grupos en la sociedad. Estos conflictos pueden tener implicaciones económicas, como la lucha por recursos escasos o la competencia por empleo.
 
 En resumen, la sociología proporciona a los economistas una perspectiva más amplia y multidimensional de la realidad social en la que se toman las decisiones económicas. Comprender la interacción entre factores sociales y económicos es fundamental para diseñar políticas públicas efectivas y promover un desarrollo económico más inclusivo y sostenible.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

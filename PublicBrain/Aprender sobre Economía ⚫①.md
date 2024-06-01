@@ -6,53 +6,53 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.538Z
-modified: 2024-04-14T14:29:04.046Z
+modified: 2024-06-01T22:05:44.166Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Aprender sobre Economía
+# Aprender sobre Economía ⚫①
 
 [[Aprender sobre Economía y Finanzas]]
 
 Bien, es hora de definir el Roadmap para estudiar economía, a falta de revisar el itinerario que propone la [IE](\"https://www.ie.edu/university/studies/academic-programs/bachelor-economics/study-plan/#program-menu\") con [Juan Ramón Rallo](\"https://www.linkedin.com/in/juan-ram%C3%B3n-rallo-juli%C3%A1n-544b6b57/\") en su equipo, y del [temario de economía de la UOC](\"https://estudios.uoc.edu/es/grados/economia/plan-estudios\"), desde el desconocimiento dos aproximaciones que se me antojan opuestas y complementarias, para crear mi particular roadmap.
 
-- [[Fundamentos de Economía]]
-	- [[Matemáticas para economistas]] 
-	- [[Principios de Microeconomía]]
-	- [[Principios de Macroeconomía]]
-	- [[Sociología para economistas]]
-	- [[Política y Sociedad]]
-		- [[Política y Sociedad - Desarrollo Social]]
-		- [[Política y Sociedad - Desigualdad y Justicia Social]]
-	- [[Economía en la empresa]]
-		- [[Introducción a la empresa]]
-	        - [[Dirección Estratégica]]
-	- [[Historia de la Economía]]
-	- [[Programación para economistas]]
-- [[Economía Estratégica]]
-	- [[Desarrollo y Crecimiento Económico]]
-	- [[Comercio Mundial y Sistema Monetario]]
-	- [[Probabilidad y Estadística]]
-	- [[Teoría de Juegos]]
-	- [[Métodos de investigación para Economistas.]]
-	- [[Econometría]]
-	- [[Optimización]]
-	- [[Economía financiera y Contabilidad]]
-- [[Economía Aplicada]]
-	- [[Economía Ecológica]]
+- [[Fundamentos de Economía ⚫①]]
+	- [[Matemáticas para economistas ⚫①]] 
+	- [[Principios de Microeconomía ⚫①]]
+	- [[Principios de Macroeconomía ⚫①]]
+	- [[Sociología para economistas ⚫①]]
+	- [[Política y Sociedad ⚫①]]
+		- [[Política y Sociedad - Desarrollo Social ⚫①]]
+		- [[Política y Sociedad - Desigualdad y Justicia Social ⚫①]]
+	- [[Economía en la empresa ⚫①]]
+		- [[Introducción a la empresa ⚫①]]
+	        - [[Dirección Estratégica ⚫①]]
+	- [[Historia de la Economía ⚫①]]
+	- [[Programación para economistas ⚫①]]
+- [[Economía Estratégica ⚫①]]
+	- [[Desarrollo y Crecimiento Económico ⚫①]]
+	- [[Comercio Mundial y Sistema Monetario ⚫①]]
+	- [[Probabilidad y Estadística ⚫①]]
+	- [[Teoría de Juegos ⚫①]]
+	- [[Métodos de investigación para Economistas  ⚫①]]
+	- [[Econometría ⚫①]]
+	- [[Optimización ⚫①]]
+	- [[Economía financiera y Contabilidad ⚫①]]
+- [[Economía Aplicada ⚫①]]
+	- [[Economía Ecológica ⚫①]]
 	- Economía de la Educación.
 	- Economía de la Innovación.
 	- Economía del Trabajo.
 	- Economía Industrial.
 	- [[Economía Mundial]]
 		- Economía Española
-		- [[Economía Europea]]
+		- [[Economía Europea ⚫①]]
 			- El mercado de trabajo europeo.
 			- Fiscalidad Avanzada
 		- Economía Internacional

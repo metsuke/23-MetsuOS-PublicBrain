@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T21:18:17.889Z
-modified: 2024-04-14T14:29:03.354Z
+modified: 2024-06-01T22:05:48.612Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Métodos de investigación para Economistas.
+# Métodos de investigación para Economistas  ⚫①
 
-[[Aprender sobre Economía]]
+[[Aprender sobre Economía ⚫①]]
 
 Los economistas utilizan una variedad de métodos de investigación para estudiar fenómenos económicos y tomar decisiones informadas. Algunos de los métodos más comunes incluyen:
 
@@ -33,3 +33,5 @@ Los economistas utilizan una variedad de métodos de investigación para estudia
 5. Análisis de políticas: Los economistas también utilizan métodos de investigación para evaluar el impacto de políticas económicas, como impuestos, subsidios o regulaciones. A través de análisis de costo-beneficio, simulaciones y evaluaciones de impacto, los economistas pueden determinar cómo estas políticas afectan a diferentes sectores de la economía.
 
 En resumen, los economistas utilizan una combinación de modelos teóricos, análisis estadístico, experimentos controlados, investigación de campo y evaluaciones de políticas para analizar fenómenos económicos y proporcionar recomendaciones basadas en evidencia. Estos métodos de investigación ayudan a los economistas a entender mejor la economía y a tomar decisiones informadas para abordar los desafíos económicos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

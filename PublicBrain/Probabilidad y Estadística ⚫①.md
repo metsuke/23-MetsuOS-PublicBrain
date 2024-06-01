@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T04:20:51.800Z
-modified: 2024-04-14T14:29:03.294Z
+modified: 2024-06-01T21:53:05.066Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Probabilidad y Estadística
+# Probabilidad y Estadística ⚫①
 
-[[Aprender sobre Economía]]
+[[Aprender sobre Economía ⚫①]]
 
 La probabilidad y la estadística son dos ramas fundamentales de las matemáticas que tienen una gran relevancia en el campo de la economía. 
 
@@ -27,3 +27,5 @@ La probabilidad se encarga de estudiar la posibilidad de que ocurra un determina
 Por otro lado, la estadística se encarga de recolectar, analizar e interpretar datos para ayudar a la toma de decisiones. En economía, la estadística se utiliza para analizar el comportamiento de variables económicas como la inflación, el crecimiento económico, el desempleo, entre otras, y para realizar pronósticos basados en datos históricos.
 
 En resumen, la probabilidad y la estadística son herramientas fundamentales en el análisis económico, ya que permiten tomar decisiones más acertadas basadas en el estudio de datos y en la evaluación de las posibles situaciones que puedan presentarse en el mercado.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

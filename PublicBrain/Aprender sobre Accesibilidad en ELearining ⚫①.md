@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.517Z
-modified: 2024-05-28T17:52:58.576Z
+modified: 2024-06-02T21:41:20.804Z
 supervisado: ""
 ACCION: 
 ver_major: 0
 ver_minor: 3
-ver_rev: 99
+ver_rev: 100
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,7 +36,7 @@ tags:
 
 ## Barreras de Accesibilidad en E-Learning
 
-- [[Identificación de barreras comunes para usuarios con discapacidad ⚫①]] ⬛
+- [[Identificación de barreras comunes para usuarios con discapacidad 🔴②]] 
 - [[Ejemplos de barreras visuales, auditivas, motoras y cognitivas]] ⬛
 
 ## Diseño Centrado en el Usuario

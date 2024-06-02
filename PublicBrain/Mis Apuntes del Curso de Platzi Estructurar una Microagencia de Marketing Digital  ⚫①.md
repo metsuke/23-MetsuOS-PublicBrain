@@ -451,7 +451,7 @@ En ing. Sales Funnel Expert. Diseña la estrategia de marketing para el cliente.
 
 ### Objetivo
 
-* Establece una estrategia de [[Pauta (Marketing Digital)]]
+* Establece una estrategia de [[Pauta (Marketing Digital) ⚫①]]
 
 ### ¿Qué hacen?
 

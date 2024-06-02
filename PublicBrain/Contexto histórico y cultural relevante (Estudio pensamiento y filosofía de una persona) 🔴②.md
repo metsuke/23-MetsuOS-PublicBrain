@@ -13,7 +13,7 @@ modified: 2024-06-02T21:29:50.262Z
 supervisado: 2024-05-05T18:48:31.633Z
 ACCION: 
 ver_major: 0
-ver_minor: 2
+ver_minor: 4
 ver_rev: 6
 nav_primary: 
 nav_secondary: 

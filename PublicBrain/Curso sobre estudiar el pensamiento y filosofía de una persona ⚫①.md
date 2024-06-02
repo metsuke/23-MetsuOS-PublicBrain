@@ -36,7 +36,7 @@ tags:
 
    - [[Fundamentos de la investigación filosófica (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Teorías de la mente y del conocimiento (Estudio pensamiento y filosofía de una persona) 🔴②]]
-   - C. [[Contexto histórico y cultural relevante (Estudio pensamiento y filosofía de una persona)]]
+   - [[Contexto histórico y cultural relevante (Estudio pensamiento y filosofía de una persona) 🔴②]]
    
 ## III. Metodología de Investigación
    - A. [[Diseño de la investigación (Estudio pensamiento y filosofía de una persona)]]

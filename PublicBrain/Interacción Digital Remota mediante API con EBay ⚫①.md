@@ -50,7 +50,7 @@ tags:
 - [[Creación de listados de productos (IDRA-Ebay) 🔴②]]
 - [[Actualización de información de productos (IDRA-Ebay) 🔴②]]
 - [[Eliminación de listados (IDRA-Ebay) 🔴②]]
-- [[Gestión de carritos de compras y órdenes (IDRA-Ebay)]] ⬛
+- [[Gestión de carritos de compras y órdenes (IDRA-Ebay) 🔴②]]
 
 ## Optimización y Mejoras en la Interacción con la API
 

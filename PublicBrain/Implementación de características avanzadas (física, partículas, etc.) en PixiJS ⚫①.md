@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-18T03:47:46.567Z
-modified: 2024-05-03T21:33:54.004Z
+modified: 2024-06-03T19:56:58.016Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Implementación de características avanzadas (física, partículas, etc.) en PixiJS
+# Implementación de características avanzadas (física, partículas, etc.) en PixiJS ⚫①
 
 [[Aprender sobre PixiJS ⚫①]]
 
@@ -118,3 +118,5 @@ Para agregar efectos de partículas a tu proyecto PixiJS, puedes usar biblioteca
   ```
 
 Estos son solo ejemplos básicos para comenzar con la integración de física y partículas en PixiJS. Puedes explorar más en profundidad cada biblioteca y sus características para lograr efectos más avanzados y personalizados en tus proyectos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

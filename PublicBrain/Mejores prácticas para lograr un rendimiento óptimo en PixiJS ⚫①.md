@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Mejores prácticas para lograr un rendimiento óptimo en PixiJS
+# Mejores prácticas para lograr un rendimiento óptimo en PixiJS ⚫①
 
 [[Aprender sobre PixiJS ⚫①]]
 
@@ -48,3 +48,5 @@ Para lograr un rendimiento óptimo en tus aplicaciones o juegos desarrollados co
    - Perfila tu aplicación regularmente para identificar áreas problemáticas y realizar ajustes según sea necesario.
 
 Siguiendo estas mejores prácticas, puedes optimizar el rendimiento de tus aplicaciones y juegos desarrollados con PixiJS, garantizando una experiencia fluida y receptiva para tus usuarios.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

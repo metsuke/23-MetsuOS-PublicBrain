@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-17T06:27:23.058Z
-modified: 2024-05-03T21:33:53.242Z
+modified: 2024-06-03T20:00:32.354Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Desarrollo de un proyecto completo y accesible utilizando PixiJS
+# Desarrollo de un proyecto completo y accesible utilizando PixiJS ⚫①
 
 [[Aprender sobre PixiJS ⚫①]]
 
@@ -56,3 +56,5 @@ Desarrollar un proyecto completo y accesible utilizando PixiJS implica seguir un
    - Recopila comentarios de los usuarios y realiza mejoras adicionales según sea necesario para mejorar la experiencia del usuario y la calidad de tu aplicación.
 
 Al seguir estos pasos, podrás desarrollar un proyecto completo y accesible utilizando PixiJS de manera efectiva y exitosa. ¡Buena suerte con tu proyecto!
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

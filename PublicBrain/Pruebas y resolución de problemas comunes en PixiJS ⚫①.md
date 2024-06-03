@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-17T06:26:24.051Z
-modified: 2024-05-03T21:33:54.666Z
+modified: 2024-06-03T20:03:35.578Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Pruebas y resolución de problemas comunes en PixiJS
+# Pruebas y resolución de problemas comunes en PixiJS ⚫①
 
 [[Aprender sobre PixiJS ⚫①]]
 
@@ -51,3 +51,5 @@ Al aprender PixiJS, es importante estar preparado para enfrentar desafíos y res
    - Verifica la interoperabilidad con otras bibliotecas y frameworks que puedas estar utilizando en tu proyecto.
 
 Al seguir estas prácticas y estrategias, podrás realizar pruebas efectivas y resolver problemas comunes de manera más eficiente durante el desarrollo con PixiJS.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

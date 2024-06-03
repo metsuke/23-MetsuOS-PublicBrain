@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-18T03:51:12.396Z
-modified: 2024-05-03T21:33:54.592Z
+modified: 2024-06-03T19:56:02.456Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Presentación y revisión del proyecto final (PixiJS)
+# Presentación y revisión del proyecto final (PixiJS) ⚫①
 
 [[Aprender sobre PixiJS ⚫①]]
 
@@ -49,3 +49,5 @@ Al presentar y revisar tu proyecto final en PixiJS, es importante destacar los a
 5. **Feedback del público:** Recibe feedback del público sobre tu proyecto. Escucha atentamente los comentarios y sugerencias de los espectadores, y utiliza esta información para mejorar tu proyecto y tus habilidades como desarrollador.
 
 Al realizar una presentación efectiva y una revisión detallada de tu proyecto PixiJS, podrás destacar tus logros, recibir feedback útil y continuar mejorando como desarrollador de juegos y aplicaciones interactivas.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

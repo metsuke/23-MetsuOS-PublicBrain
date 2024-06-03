@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-18T03:50:21.586Z
-modified: 2024-05-03T21:33:54.443Z
+modified: 2024-06-03T19:56:28.277Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Optimización y despliegue del proyecto final en PixiJS
+# Optimización y despliegue del proyecto final en PixiJS ⚫①
 
 [[Aprender sobre PixiJS ⚫①]]
 
@@ -51,3 +51,5 @@ Después de desarrollar tu proyecto en PixiJS, es importante optimizarlo para me
 6. **Monitorización y mantenimiento:** Una vez que tu proyecto esté desplegado, asegúrate de monitorizar su rendimiento y realizar actualizaciones periódicas para mantenerlo optimizado y seguro.
 
 Siguiendo estos pasos, podrás optimizar y desplegar tu proyecto final de PixiJS de manera eficiente, garantizando una experiencia de usuario óptima y una disponibilidad confiable en la web.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

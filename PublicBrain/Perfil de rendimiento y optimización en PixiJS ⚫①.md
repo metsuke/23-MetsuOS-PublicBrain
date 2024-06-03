@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Perfil de rendimiento y optimización en PixiJS
+# Perfil de rendimiento y optimización en PixiJS ⚫①
 
 [[Aprender sobre PixiJS ⚫①]]
 
@@ -44,3 +44,5 @@ Para mejorar el rendimiento de una aplicación PixiJS y optimizar su funcionamie
    - Realiza pruebas de rendimiento en una variedad de dispositivos y navegadores para asegurarte de que tu aplicación PixiJS funcione correctamente en diferentes entornos. Esto te ayudará a identificar cualquier problema de rendimiento que pueda surgir en dispositivos específicos o configuraciones de navegador.
 
 Al seguir estas sugerencias y optimizar tu aplicación PixiJS en función de los resultados del perfil de rendimiento, podrás crear experiencias interactivas más rápidas y fluidas para tus usuarios.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

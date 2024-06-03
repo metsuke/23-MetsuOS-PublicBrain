@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.187Z
-modified: 2024-06-03T18:59:11.074Z
+modified: 2024-06-03T20:27:23.245Z
 supervisado: 2024-05-18T20:56:04.837Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 48
+ver_rev: 49
 nav_primary: 
 nav_secondary: 
 tags:
@@ -80,10 +80,10 @@ tags:
 * [[Desarrollo de modelos de redes neuronales desde cero]]
 * [[Evaluación de modelos y métricas]]
 
-## [[Desafíos y Futuro de las Redes Neuronales]]
+## Desafíos y Futuro de las Redes Neuronales
 
-* [[Desafíos actuales (interpretabilidad, ética, robustez)]]
-* [[Tendencias y avances en investigación]]
-* [[Posibilidades futuras y aplicaciones emergentes]]
+* [[Desafíos actuales (interpretabilidad, ética, robustez) ⚫①]]
+* [[Tendencias y avances en investigación ⚫①]]
+* [[Posibilidades futuras y aplicaciones emergentes ⚫①]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

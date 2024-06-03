@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md"
+                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md"
               }
             }
           },
@@ -165,8 +165,13 @@
   },
   "active": "13deabf13c40adc1",
   "lastOpenFiles": [
-    "PublicBrain/Reproducción de sonidos y efectos de sonido en Pyxel ⚫①.md",
+    "PublicBrain/Desafíos y Futuro de las Redes Neuronales.md",
+    "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
+    "PublicBrain/Desafíos actuales (interpretabilidad, ética, robustez) ⚫①.md",
+    "PublicBrain/Tendencias y avances en investigación ⚫①.md",
+    "PublicBrain/Posibilidades futuras y aplicaciones emergentes ⚫①.md",
     "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
+    "PublicBrain/Reproducción de sonidos y efectos de sonido en Pyxel ⚫①.md",
     "PublicBrain/Creación de música de fondo y bucles de audio en Pyxel ⚫①.md",
     "PublicBrain/Uso de librerías externas para generar y reproducir audio en Pyxel ⚫①.md",
     "PublicBrain/Implementación de menús y pantallas de inicio en Pyxel ⚫①.md",
@@ -186,11 +191,6 @@
     "PublicBrain/Estrategias de marketing y promoción para juegos Pyxel ⚫①.md",
     "PublicBrain/Actualización y mantenimiento continuo de juegos Pyxel ⚫①.md",
     "PublicBrain/Exploración de la comunidad de desarrolladores de Pyxel ⚫①.md",
-    "PublicBrain/Recursos educativos y tutoriales disponibles en Pyxel ⚫①.md",
-    "PublicBrain/Participación en eventos y concursos de juegos en Pyxel ⚫①.md",
-    "PublicBrain/Contribución a la mejora y desarrollo de Pyxel ⚫①.md",
-    "PublicBrain/Desarrollo de un proyecto práctico de juego completo en Pyxel ⚫①.md",
-    "PublicBrain/Planificación, diseño e implementación de un juego desde cero en Pyxel ⚫①.md",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",
     "PublicBrain/_resources/Rol Experto en Embudos de Venta",

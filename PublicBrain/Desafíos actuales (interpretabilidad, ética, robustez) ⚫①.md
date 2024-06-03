@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T10:19:25.280Z
-modified: 2024-05-05T14:39:22.800Z
+modified: 2024-06-03T20:27:03.992Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Desafíos actuales (interpretabilidad, ética, robustez)
+# Desafíos actuales (interpretabilidad, ética, robustez) ⚫①
 
 [[Estructura y funcionamiento de las redes neuronales ⚫①]]
 
@@ -29,3 +29,5 @@ Los desafíos actuales en el campo de las redes neuronales en inteligencia artif
 3. **Robustez**: Las redes neuronales pueden ser vulnerables a ataques adversarios, en los que pequeñas perturbaciones en los datos de entrada pueden llevar a predicciones incorrectas. Mejorar la robustez de las redes neuronales es crucial para garantizar su fiabilidad en entornos reales donde pueden enfrentarse a situaciones imprevistas o malintencionadas.
 
 En resumen, los desafíos actuales en el campo de las redes neuronales en inteligencia artificial requieren abordar cuestiones de interpretabilidad, ética y robustez para avanzar de manera responsable en el desarrollo y la aplicación de esta tecnología.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

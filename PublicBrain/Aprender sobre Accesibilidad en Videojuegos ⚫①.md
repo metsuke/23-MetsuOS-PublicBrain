@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.519Z
-modified: 2024-05-28T18:02:40.064Z
+modified: 2024-06-03T18:19:43.766Z
 supervisado: 2024-05-27T13:37:59.989Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 100
+ver_rev: 101
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,7 +33,7 @@ tags:
 
    - [[Conceptos fundamentales de accesibilidad (A11Y Videojuegos) 🔴②]]
    - [[Normativas y estándares internacionales (A11Y Videojuegos) 🔴②]]
-   - [[Diversidad funcional y necesidades de diferentes usuarios]] ⬛
+   - [[Diversidad funcional y necesidades de diferentes usuarios 🔴②]]
 
 ## III. Diseño Inclusivo en Videojuegos
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-06-02T21:31:36.152Z
+modified: 2024-06-03T17:46:45.222Z
 supervisado: 2024-05-28T11:15:13.154Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 89
+ver_rev: 91
 nav_primary: 
 nav_secondary: 
 tags:
@@ -54,7 +54,7 @@ tags:
 
 ## Optimización y Mejoras en la Interacción con la API
 
-- [[Paginación y límites de resultados (IDRA-Ebay)]] ⬛
+- [[Paginación y límites de resultados (IDRA-Ebay) 🔴②]]
 - [[Manejo de errores y excepciones (IDRA-EBay)]] ⬛
 - [[Uso de filtros y parámetros de consulta avanzados (IDRA-Ebay)]] ⬛
 - [[Optimización de consultas para mejorar el rendimiento (IDRA-Ebay)]] ⬛

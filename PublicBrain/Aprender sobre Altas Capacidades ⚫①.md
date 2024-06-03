@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.524Z
-modified: 2024-05-27T13:38:00.039Z
+modified: 2024-06-03T18:35:40.073Z
 supervisado: 2024-05-05T14:17:18.497Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 91
+ver_rev: 92
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,7 +32,7 @@ tags:
 ## Tema 2: Neurofisiología Cerebral y su Aplicación en la Neuroeducación
 
 * [[Introducción a Neurología Cerebral y su aplicación en la Neuroeducación (Altas Capacidades) 🔴②]]
-- [[Funcionamiento cerebral en personas de alta capacidad]]
+- [[Funcionamiento cerebral en personas de alta capacidad 🔴②]]
 - [[Estrategias neuroeducativas efectivas (Altas Capacidades)]]
 
 ## [[Tema 3 - Situación Educativa de las AA. CC. en España]]

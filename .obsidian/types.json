@@ -12,6 +12,7 @@
     "translations": "multitext",
     "nav_primary": "multitext",
     "nav_secondary": "multitext",
-    "supervisado": "datetime"
+    "supervisado": "datetime",
+    "ACCION": "text"
   }
 }

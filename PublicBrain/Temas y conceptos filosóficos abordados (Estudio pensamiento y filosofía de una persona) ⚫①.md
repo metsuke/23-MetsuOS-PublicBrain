@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Temas y conceptos filosóficos abordados (Estudio pensamiento y filosofía de una persona)
+# Temas y conceptos filosóficos abordados (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -33,3 +33,5 @@ Sí, claro. En un curso sobre el pensamiento y filosofía de una persona, se abo
 5. Estética: se analizarían sus reflexiones sobre el arte, la belleza, el gusto, la creatividad, la interpretación estética y la experiencia estética.
 
 Estos son solo algunos de los temas y conceptos filosóficos que se podrían abordar en un curso dedicado al estudio del pensamiento de una persona en particular. Cada filósofo o pensador tiene su propio enfoque y contribuciones a estos temas, por lo que el curso se centraría en profundizar en sus ideas y argumentos específicos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

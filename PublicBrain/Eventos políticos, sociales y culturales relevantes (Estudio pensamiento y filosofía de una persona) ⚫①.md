@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Eventos políticos, sociales y culturales relevantes (Estudio pensamiento y filosofía de una persona)
+# Eventos políticos, sociales y culturales relevantes (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -25,3 +25,5 @@ En el caso de estudiar el pensamiento y la filosofía de una persona, es importa
 Por ejemplo, si estudiáramos el pensamiento de un filósofo del siglo XX, sería relevante considerar eventos como las dos guerras mundiales, la Guerra Fría, el surgimiento de movimientos sociales como el feminismo o los derechos civiles, y cambios culturales como la revolución tecnológica. Estos eventos históricos podrían haber influenciado directa o indirectamente las ideas y reflexiones de la persona sobre la sociedad, la política, la ética y la naturaleza humana.
 
 Al analizar estos eventos en conjunto con las obras y escritos de la persona en cuestión, podemos obtener una mejor comprensión de cómo su pensamiento fue moldeado por el contexto histórico en el que vivió y cómo respondió a los desafíos y cambios de su tiempo. De esta manera, podemos enriquecer nuestra comprensión de su filosofía y contribución al pensamiento humano.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Influencias intelectuales y filosóficas (Estudio pensamiento y filosofía de una persona)
+# Influencias intelectuales y filosóficas (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -28,3 +28,4 @@ Al examinar las influencias intelectuales y filosóficas de una persona, podemos
 
 En resumen, al considerar las influencias intelectuales y filosóficas de una persona en el estudio de su pensamiento y filosofía, obtenemos una visión más completa y enriquecedora de su obra, permitiéndonos apreciar mejor su originalidad y su lugar en la historia de la filosofía.
 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Métodos y enfoques de análisis (Estudio pensamiento y filosofía de una persona)
+# Métodos y enfoques de análisis (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -33,3 +33,5 @@ Para estudiar el pensamiento y la filosofía de una persona, existen varios mét
 5. Análisis crítico: Este método implica evaluar de manera crítica las ideas y argumentos de la persona, identificando fortalezas, debilidades, inconsistencias y posibles falacias en su pensamiento filosófico. Se busca analizar y cuestionar sus razonamientos y conclusiones.
 
 En resumen, el estudio del pensamiento y filosofía de una persona puede involucrar una combinación de estos métodos y enfoques de análisis, con el objetivo de comprender de manera completa y profunda las ideas y contribuciones de esa persona al campo filosófico.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-26T11:17:24.456Z
-modified: 2024-05-05T18:52:42.215Z
+modified: 2024-06-03T19:10:58.440Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Trabajos y proyectos asignados (Estudio pensamiento y filosofía de una persona)
+# Trabajos y proyectos asignados (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -33,3 +33,5 @@ Durante el curso, es común que se asignen una variedad de trabajos y proyectos 
 5. Debates y discusiones en grupo: Se pueden organizar debates y discusiones en grupo para profundizar en los temas tratados por el filósofo, fomentando el intercambio de ideas y perspectivas entre los estudiantes.
 
 Estos trabajos y proyectos asignados son importantes para que los estudiantes puedan sumergirse en el pensamiento y la filosofía de una persona en particular, desarrollando habilidades críticas, analíticas y argumentativas en el proceso.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

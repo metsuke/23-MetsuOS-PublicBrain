@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-26T11:20:27.568Z
-modified: 2024-05-05T18:53:03.180Z
+modified: 2024-06-03T19:10:20.166Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Reflexión sobre la investigación realizada (Estudio pensamiento y filosofía de una persona)
+# Reflexión sobre la investigación realizada (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -29,3 +29,5 @@ Además, es crucial reflexionar sobre cómo la filosofía y pensamiento de esta 
 Asimismo, es interesante analizar las influencias que recibió el pensador y cómo estas influencias moldearon su pensamiento y filosofía. ¿Qué corrientes filosóficas o movimientos intelectuales fueron importantes para el desarrollo de sus ideas?
 
 En resumen, al reflexionar sobre la investigación realizada en este curso, se busca profundizar en el conocimiento del pensador estudiado, apreciar su legado y comprender cómo sus ideas continúan siendo relevantes en la actualidad.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

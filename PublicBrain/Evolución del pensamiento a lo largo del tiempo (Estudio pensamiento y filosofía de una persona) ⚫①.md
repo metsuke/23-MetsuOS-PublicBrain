@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Evolución del pensamiento a lo largo del tiempo (Estudio pensamiento y filosofía de una persona)
+# Evolución del pensamiento a lo largo del tiempo (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -29,3 +29,5 @@ Esta evolución del pensamiento puede manifestarse en diferentes áreas de la vi
 En un curso sobre estudiar el pensamiento y filosofía de una persona, se pueden analizar en profundidad los distintos momentos y etapas por los que ha pasado esa persona en su evolución intelectual, así como las influencias y experiencias que han marcado su camino.
 
 En resumen, la evolución del pensamiento de una persona a lo largo del tiempo es un tema apasionante que nos permite comprender mejor cómo las experiencias y aprendizajes moldean nuestra forma de pensar y ver el mundo.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

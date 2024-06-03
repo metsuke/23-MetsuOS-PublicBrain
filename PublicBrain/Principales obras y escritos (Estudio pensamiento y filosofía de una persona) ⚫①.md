@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Principales obras y escritos (Estudio pensamiento y filosofía de una persona)
+# Principales obras y escritos (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -33,3 +33,5 @@ Cuando se estudia el pensamiento y la filosofía de una persona, es fundamental 
 5. **"Más allá del bien y del mal" (Jenseits von Gut und Böse)**: Publicada en 1886, esta obra cuestiona las nociones tradicionales de moralidad y presenta la idea de una moralidad más allá del bien y del mal, basada en la afirmación de la vida y la voluntad de poder.
 
 Estas son solo algunas de las principales obras y escritos de Friedrich Nietzsche, pero su legado filosófico es mucho más amplio y abarca una amplia gama de temas, incluyendo la metafísica, la epistemología, la estética y la política. Al estudiar las obras de Nietzsche, es importante considerar su contexto histórico y cultural, así como también explorar las interpretaciones y críticas de sus ideas por parte de otros filósofos y académicos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Ética en la investigación filosófica (Estudio pensamiento y filosofía de una persona)
+# Ética en la investigación filosófica (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -53,3 +53,5 @@ En un curso sobre estudiar el pensamiento y filosofía de una persona, la ética
 - **Protección de los participantes:** Garantizar la seguridad y el bienestar de los participantes en la investigación, minimizando cualquier riesgo potencial y proporcionando un medio para abordar cualquier preocupación ética que pueda surgir.
 
 Al observar estos principios éticos en la investigación filosófica, los investigadores pueden contribuir de manera significativa al avance del conocimiento y al desarrollo de una sociedad más justa, inclusiva y respetuosa.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

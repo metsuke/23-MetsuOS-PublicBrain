@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Época y lugar de vida del individuo (Estudio pensamiento y filosofía de una persona)
+# Época y lugar de vida del individuo (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -27,3 +27,5 @@ Por ejemplo, si estamos estudiando a un filósofo del siglo XVIII, como Immanuel
 Además, el lugar de vida del individuo también es relevante, ya que la cultura, la religión, la política y las tradiciones de una región pueden influir en las ideas y valores de una persona. Por ejemplo, si estamos estudiando a un pensador nacido en Asia, es importante considerar la influencia de la filosofía oriental en su pensamiento.
 
 En resumen, la época y el lugar de vida del individuo son elementos fundamentales a tener en cuenta al estudiar su pensamiento y filosofía, ya que nos permiten contextualizar sus ideas y comprender mejor su influencia en el mundo en el que vivió.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

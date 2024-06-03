@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-26T11:19:05.161Z
-modified: 2024-05-05T18:52:48.262Z
+modified: 2024-06-03T19:10:00.570Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Exámenes y pruebas de conocimiento (Estudio pensamiento y filosofía de una persona)
+# Exámenes y pruebas de conocimiento (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -27,3 +27,5 @@ Los exámenes y pruebas de conocimiento son una herramienta importante para medi
 Es importante que los exámenes y pruebas de conocimiento en un curso de este tipo sean rigurosos y desafiantes, pero también justos y equitativos. Los estudiantes deben tener la oportunidad de demostrar su comprensión y pensamiento crítico de manera adecuada, sin verse limitados por la estructura de las pruebas.
 
 En resumen, los exámenes y pruebas de conocimiento son una parte esencial de un curso sobre estudiar el pensamiento y filosofía de una persona, ya que contribuyen a la evaluación del aprendizaje de los estudiantes y su capacidad para aplicar los conceptos filosóficos en situaciones concretas.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

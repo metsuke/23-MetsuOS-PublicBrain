@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Técnicas de análisis filosófico (Estudio pensamiento y filosofía de una persona)
+# Técnicas de análisis filosófico (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -51,3 +51,5 @@ En un curso sobre estudiar el pensamiento y filosofía de una persona, las técn
 - **Reflexión personal:** Reflexionar sobre el significado y las implicaciones de las ideas filosóficas para uno mismo y para el mundo en general, fomentando así un mayor entendimiento y aprecio de la filosofía.
 
 Estas técnicas de análisis filosófico proporcionan un marco sólido para explorar y comprender en profundidad el pensamiento y la filosofía de una persona, así como para participar de manera crítica en el diálogo filosófico.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

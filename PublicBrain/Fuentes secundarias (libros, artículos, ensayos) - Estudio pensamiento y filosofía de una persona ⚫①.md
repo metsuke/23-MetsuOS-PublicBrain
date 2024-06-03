@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-21T10:22:32.712Z
-modified: 2024-05-05T18:52:16.568Z
+modified: 2024-06-03T19:36:39.692Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Fuentes secundarias (libros, artículos, ensayos) - Estudio pensamiento y filosofía de una persona
+# Fuentes secundarias (libros, artículos, ensayos) - Estudio pensamiento y filosofía de una persona ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -32,3 +32,5 @@ Algunos ejemplos de fuentes secundarias que pueden ser útiles en el estudio del
 - Traducciones y ediciones anotadas: Que facilitan la comprensión de textos originales y su contexto histórico.
 
 En definitiva, las fuentes secundarias son una valiosa herramienta para enriquecer y profundizar en el estudio del pensamiento y la filosofía de una persona, proporcionando diferentes perspectivas y enfoques que complementan la lectura de sus propias obras.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

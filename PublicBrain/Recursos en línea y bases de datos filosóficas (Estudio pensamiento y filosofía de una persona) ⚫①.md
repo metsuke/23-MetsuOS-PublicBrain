@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-21T10:23:30.384Z
-modified: 2024-05-05T18:52:24.290Z
+modified: 2024-06-03T19:11:57.455Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Recursos en línea y bases de datos filosóficas (Estudio pensamiento y filosofía de una persona)
+# Recursos en línea y bases de datos filosóficas (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -34,3 +34,4 @@ Claro, en el contexto de un curso sobre estudiar el pensamiento y filosofía de 
 
 Además de estas fuentes en línea, también es recomendable consultar las bases de datos y bibliotecas de tu institución académica, ya que suelen contar con recursos especializados en filosofía que pueden ser de gran utilidad para profundizar en el pensamiento y la obra de la persona que estás estudiando.
 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

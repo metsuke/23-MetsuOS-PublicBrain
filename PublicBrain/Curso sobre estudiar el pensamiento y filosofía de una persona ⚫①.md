@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-06-02T21:25:27.050Z
+modified: 2024-06-03T19:11:48.307Z
 supervisado: 2024-05-11T21:33:21.594Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,45 +39,52 @@ tags:
    - [[Contexto histórico y cultural relevante (Estudio pensamiento y filosofía de una persona) 🔴②]]
    
 ## III. Metodología de Investigación
-   - A. [[Diseño de la investigación (Estudio pensamiento y filosofía de una persona)]]
-   - B. [[Selección de fuentes primarias y secundarias (Estudio pensamiento y filosofía de una persona)]]
 
-   - C. [[Técnicas de análisis filosófico (Estudio pensamiento y filosofía de una persona)]]
-   - D. [[Ética en la investigación filosófica (Estudio pensamiento y filosofía de una persona)]]
+   - [[Diseño de la investigación (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Selección de fuentes primarias y secundarias (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Técnicas de análisis filosófico (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Ética en la investigación filosófica (Estudio pensamiento y filosofía de una persona) ⚫①]]
    
 ## IV. Biografía del Individuo
-   - A. [[Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona)]]
-   - B. [[Formación académica y educación (Estudio pensamiento y filosofía de una persona)]]
-   - C. [[Influencias intelectuales y filosóficas (Estudio pensamiento y filosofía de una persona)]]
+
+   - [[Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Formación académica y educación (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Influencias intelectuales y filosóficas (Estudio pensamiento y filosofía de una persona) ⚫①]]
    
 ## V. Contexto Histórico y Cultural
-   - A. [[Época y lugar de vida del individuo (Estudio pensamiento y filosofía de una persona)]]
-   - B. [[Eventos políticos, sociales y culturales relevantes (Estudio pensamiento y filosofía de una persona)]]
+
+   - [[Época y lugar de vida del individuo (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Eventos políticos, sociales y culturales relevantes (Estudio pensamiento y filosofía de una persona) ⚫①]]
    
 ## VI. Desarrollo de Ideas Filosóficas
-   - A. [[Principales obras y escritos (Estudio pensamiento y filosofía de una persona)]]
-   - B. [[Temas y conceptos filosóficos abordados (Estudio pensamiento y filosofía de una persona)]]
-   - C. [[Evolución del pensamiento a lo largo del tiempo (Estudio pensamiento y filosofía de una persona)]]
+
+   - [[Principales obras y escritos (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Temas y conceptos filosóficos abordados (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Evolución del pensamiento a lo largo del tiempo (Estudio pensamiento y filosofía de una persona) ⚫①]]
    
 ## VII. Análisis Filosófico
-   - A. [[Métodos y enfoques de análisis (Estudio pensamiento y filosofía de una persona)]]
-   - B. [[Críticas y debates sobre las ideas del individuo (Estudio pensamiento y filosofía de una persona)]]
-   - C. [[Influencia y legado en la filosofía contemporánea (Estudio pensamiento y filosofía de una persona)]]
+
+   - [[Métodos y enfoques de análisis (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Críticas y debates sobre las ideas del individuo (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Influencia y legado en la filosofía contemporánea (Estudio pensamiento y filosofía de una persona) ⚫①]]
    
 ## VIII. Recursos y Bibliografía
-   - A. [[Fuentes primarias - obras del individuo (Estudio pensamiento y filosofía de una persona)]]
-   - B. [[Fuentes secundarias (libros, artículos, ensayos) - Estudio pensamiento y filosofía de una persona]]
-   - C. [[Recursos en línea y bases de datos filosóficas (Estudio pensamiento y filosofía de una persona)]]
+
+   - [[Fuentes primarias - obras del individuo (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Fuentes secundarias (libros, artículos, ensayos) - Estudio pensamiento y filosofía de una persona ⚫①]]
+   - [[Recursos en línea y bases de datos filosóficas (Estudio pensamiento y filosofía de una persona) ⚫①]]
 
    
 ## IX. Evaluación
-   - A. [[Criterios de evaluación del curso (Estudio pensamiento y filosofía de una persona)]]
-   - B. [[Trabajos y proyectos asignados (Estudio pensamiento y filosofía de una persona)]]
-   - C. [[Exámenes y pruebas de conocimiento (Estudio pensamiento y filosofía de una persona)]]
+
+   - [[Criterios de evaluación del curso (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Trabajos y proyectos asignados (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Exámenes y pruebas de conocimiento (Estudio pensamiento y filosofía de una persona) ⚫①]]
    
 ## X. Conclusiones
-   - A. [[Recapitulación de los objetivos de aprendizaje (Estudio pensamiento y filosofía de una persona)]]
-   - B. [[Reflexión sobre la investigación realizada (Estudio pensamiento y filosofía de una persona)]]
-   - C. [[Implicaciones y aplicaciones futuras del estudio filosófico (Estudio pensamiento y filosofía de una persona)]]
+
+   - [[Recapitulación de los objetivos de aprendizaje (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Reflexión sobre la investigación realizada (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Implicaciones y aplicaciones futuras del estudio filosófico (Estudio pensamiento y filosofía de una persona) ⚫①]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

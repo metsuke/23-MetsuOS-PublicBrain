@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Diseño de la investigación (Estudio pensamiento y filosofía de una persona)
+# Diseño de la investigación (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -41,3 +41,5 @@ En el contexto de un curso sobre estudiar el pensamiento y la filosofía de una 
    - La interpretación de los resultados implica hacer inferencias y sacar conclusiones basadas en el análisis de los datos. Esto puede implicar identificar las influencias en el pensamiento de la persona, examinar cómo sus ideas se relacionan con las de otros filósofos, o analizar la evolución de sus ideas a lo largo del tiempo.
 
 En resumen, el diseño de la investigación en un curso sobre estudiar el pensamiento y la filosofía de una persona es esencial para investigar de manera efectiva y comprender en profundidad las ideas y el pensamiento de un individuo en particular. Un enfoque cuidadoso en cada etapa del proceso de investigación garantizará resultados sólidos y una comprensión más profunda del tema estudiado.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

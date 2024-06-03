@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:33:45.516Z
-modified: 2024-05-05T18:52:02.808Z
+modified: 2024-06-03T19:39:16.578Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Influencia y legado en la filosofía contemporánea (Estudio pensamiento y filosofía de una persona)
+# Influencia y legado en la filosofía contemporánea (Estudio pensamiento y filosofía de una persona) ⚫①
 
-[[Aprender sobre Inteligencia Artificial ⚫①]]
+[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
 Claro, la influencia y el legado de una persona en la filosofía contemporánea pueden ser muy significativos y duraderos. Aquí hay algunas formas en las que el pensamiento y la filosofía de una persona pueden influir en la filosofía contemporánea:
 
@@ -31,3 +31,5 @@ Claro, la influencia y el legado de una persona en la filosofía contemporánea 
 4. Formación de discípulos y seguidores: Una persona influyente en la filosofía puede formar discípulos y seguidores que continúen desarrollando y promoviendo su pensamiento en la filosofía contemporánea. Estos discípulos pueden expandir y aplicar las ideas y teorías de la persona influyente a nuevos contextos y problemas filosóficos.
 
 En resumen, la influencia y el legado de una persona en la filosofía contemporánea pueden manifestarse de diversas formas, desde la inspiración de nuevas teorías hasta el debate crítico y la formación de seguidores que continúan desarrollando su pensamiento.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

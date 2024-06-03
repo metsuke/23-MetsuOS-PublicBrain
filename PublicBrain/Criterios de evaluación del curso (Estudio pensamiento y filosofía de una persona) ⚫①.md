@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-21T10:24:57.682Z
-modified: 2024-05-05T18:52:35.295Z
+modified: 2024-06-03T19:11:18.561Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Criterios de evaluación del curso (Estudio pensamiento y filosofía de una persona)
+# Criterios de evaluación del curso (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -35,3 +35,5 @@ A la hora de evaluar un curso sobre el pensamiento y filosofía de una persona, 
 6. Originalidad y creatividad: Se puede evaluar la originalidad y creatividad de los participantes en la interpretación y aplicación de las ideas de la persona estudiada. Se pueden valorar proyectos creativos, propuestas innovadoras y enfoques originales en los trabajos realizados.
 
 En resumen, al evaluar un curso sobre el pensamiento y filosofía de una persona, es importante tener en cuenta no solo el conocimiento adquirido, sino también la comprensión, análisis crítico, habilidades de argumentación, participación activa, originalidad y creatividad de los participantes. Estos criterios ayudarán a determinar el impacto y la efectividad del curso en el desarrollo del pensamiento crítico y filosófico de los estudiantes.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

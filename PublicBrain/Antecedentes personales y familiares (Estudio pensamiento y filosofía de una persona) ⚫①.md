@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona)
+# Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -27,3 +27,5 @@ Por ejemplo, la educación recibida en el seno familiar y la cultura en la que h
 Además, las experiencias personales, como eventos traumáticos o experiencias gratificantes, pueden haber tenido un papel importante en la formación del pensamiento de una persona. Estas vivencias pueden influir en su forma de ver el mundo, en sus ideales y en la búsqueda de respuestas a las preguntas existenciales.
 
 En resumen, los antecedentes personales y familiares son elementos clave para comprender el pensamiento y filosofía de una persona, ya que pueden ofrecer pistas sobre las influencias y motivaciones que han dado forma a su forma de pensar y actuar.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

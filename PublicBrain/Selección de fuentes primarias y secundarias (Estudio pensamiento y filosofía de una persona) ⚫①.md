@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Selección de fuentes primarias y secundarias (Estudio pensamiento y filosofía de una persona)
+# Selección de fuentes primarias y secundarias (Estudio pensamiento y filosofía de una persona) ⚫①
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 
@@ -43,3 +43,5 @@ Las fuentes secundarias son interpretaciones, análisis y comentarios sobre las 
 3. **Entrevistas y documentales:** Entrevistas con expertos, documentales y programas de televisión que exploran la vida y obra de la persona desde diferentes perspectivas.
 
 La selección adecuada de fuentes primarias y secundarias es fundamental para obtener una comprensión completa y bien fundamentada del pensamiento y la filosofía de una persona. Al combinar ambos tipos de fuentes, los estudiantes pueden examinar tanto la fuente original como las interpretaciones y análisis proporcionados por otros académicos, lo que enriquece su comprensión y apreciación del tema.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

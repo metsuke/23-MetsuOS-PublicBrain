@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "466fc2a8721533a4",
+        "id": "2192b4c786d107dc",
         "type": "tabs",
         "children": [
           {
-            "id": "d873459d63eea20a",
+            "id": "13deabf13c40adc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Funcionamiento cerebral en personas de alta capacidad 🔴②.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Funcionamiento cerebral en personas de alta capacidad 🔴②.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Funcionamiento cerebral en personas de alta capacidad 🔴②.md",
+                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Funcionamiento cerebral en personas de alta capacidad 🔴②.md"
+                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md"
               }
             }
           },
@@ -163,8 +163,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d873459d63eea20a",
+  "active": "13deabf13c40adc1",
   "lastOpenFiles": [
+    "PublicBrain/Función de activación 🔴②.md",
+    "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
+    "PublicBrain/Funcionamiento cerebral en personas de alta capacidad 🔴②.md",
     "PublicBrain/Aprender sobre Altas Capacidades ⚫①.md",
     "PublicBrain/Aprender sobre Accesibilidad en Videojuegos ⚫①.md",
     "PublicBrain/Diversidad funcional y necesidades de diferentes usuarios 🔴②.md",
@@ -188,9 +191,6 @@
     "PublicBrain/Index.md",
     "PublicBrain/Aprender con Q-Z ⚫①.md",
     "PublicBrain/Rol Expertos en PPC 🔴②.md",
-    "PublicBrain/Glosario de Marketing Digital ⚫①.md",
-    "PublicBrain/Pauta (Marketing Digital) ⚫①.md",
-    "PublicBrain/Aprender sobre Economía ⚫①.md",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",
     "PublicBrain/_resources/Rol Experto en Embudos de Venta",

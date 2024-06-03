@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-13T13:19:07.817Z
-modified: 2024-05-03T21:38:21.191Z
+modified: 2024-06-03T20:17:40.762Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Optimización y rendimiento de juegos en Pyxel
+# Optimización y rendimiento de juegos en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -43,3 +43,5 @@ tags: []
 5. **Actualización y comunidad**: Mantente al tanto de las actualizaciones de Pyxel y de las contribuciones de la comunidad. Pyxel y sus bibliotecas relacionadas pueden recibir mejoras y optimizaciones que pueden beneficiar el rendimiento de tu juego.
 
 Al implementar estas técnicas y seguir las mejores prácticas de optimización, podrás mejorar significativamente el rendimiento y la experiencia de juego en tus proyectos de Pyxel.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Creación de música de fondo y bucles de audio en Pyxel
+# Creación de música de fondo y bucles de audio en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -55,3 +55,5 @@ Para crear música de fondo, puedes utilizar instrumentos predefinidos o crear t
 Para crear bucles de audio, puedes dividir tu pista en secciones repetitivas y configurar la reproducción para que se repita continuamente. Esto es útil para crear una banda sonora que se reproduzca en bucle mientras el jugador interactúa con el juego.
 
 En pyxel, puedes importar archivos de audio en formatos como WAV o MP3, o crear tus propios sonidos desde cero utilizando la herramienta de edición de sonido. Experimenta con diferentes instrumentos y efectos para crear la atmósfera perfecta para tu juego o animación. ¡Diviértete explorando la creación de música de fondo y bucles de audio en pyxel!
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

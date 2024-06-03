@@ -5,18 +5,18 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-04-16T10:43:46.361Z
-modified: 2024-05-03T21:38:10.678Z
+created: 2024-04-16T10:44:57.646Z
+modified: 2024-06-03T20:14:32.212Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Contribución a la mejora y desarrollo de Pyxel
+# Desarrollo de un proyecto práctico de juego completo en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -44,3 +44,5 @@ Contribuir al desarrollo y mejora de Pyxel es una excelente manera de participar
    - Ayuda a promover Pyxel compartiendo tus proyectos y creaciones en redes sociales, blogs y otros canales en línea. Cuanta más gente conozca y use Pyxel, más fuerte será la comunidad y más apoyo recibirá el proyecto.
 
 Al contribuir al desarrollo y mejora de Pyxel, estás ayudando a hacer que esta herramienta sea aún mejor y más útil para la comunidad de desarrolladores de juegos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

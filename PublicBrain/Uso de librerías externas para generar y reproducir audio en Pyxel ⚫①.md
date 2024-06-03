@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Uso de librerías externas para generar y reproducir audio en Pyxel
+# Uso de librerías externas para generar y reproducir audio en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -52,3 +52,5 @@ pyxel.run(reproducir_musica)
 En este ejemplo, Pyxel se utiliza para la gestión de la ventana y el bucle principal del juego, mientras que Pygame se encarga de la carga y reproducción del archivo de audio.
 
 Recuerda instalar las bibliotecas externas necesarias antes de ejecutar el código. Puedes instalar Pygame utilizando pip: `pip install pygame`.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

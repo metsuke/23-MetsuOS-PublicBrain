@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Uso de máscaras de colisión y cajas delimitadoras en Pyxel
+# Uso de máscaras de colisión y cajas delimitadoras en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -55,3 +55,5 @@ La elección entre máscaras de colisión y cajas delimitadoras depende de las n
 Independientemente de la técnica que elijas, es importante optimizar la detección de colisiones para garantizar un rendimiento óptimo del juego, especialmente si tienes muchos objetos en pantalla. Esto puede incluir el uso de técnicas de particionamiento espacial o la limitación de las comprobaciones de colisión a objetos cercanos entre sí.
 
 Al utilizar máscaras de colisión y cajas delimitadoras en tu juego Pyxel, puedes mejorar la precisión y eficiencia de la detección de colisiones y crear interacciones más realistas entre los elementos del juego. Experimenta con ambas técnicas y elige la que mejor se adapte a tus necesidades y restricciones de rendimiento.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

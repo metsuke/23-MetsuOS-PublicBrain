@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-13T13:07:12.618Z
-modified: 2024-05-03T21:38:19.800Z
+modified: 2024-06-03T20:18:06.383Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Implementación de inteligencia artificial básica en Pyxel
+# Implementación de inteligencia artificial básica en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -95,3 +95,5 @@ En este ejemplo, la IA sigue al jugador ajustando su posición en función de la
 4. **Prueba y ajusta**: Una vez que hayas implementado tu IA, prueba tu juego y ajusta el comportamiento de la IA según sea necesario para asegurarte de que sea desafiante pero justo.
 
 Esta es solo una introducción básica a cómo podrías implementar inteligencia artificial en un juego Pyxel. Dependiendo de la complejidad de tu juego y de la IA que desees crear, puede ser necesario agregar más lógica y características específicas.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

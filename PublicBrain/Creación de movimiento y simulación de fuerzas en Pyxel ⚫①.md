@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Creación de movimiento y simulación de fuerzas en Pyxel
+# Creación de movimiento y simulación de fuerzas en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -76,3 +76,5 @@ Juego()
 ```
 
 Este ejemplo básico muestra cómo puedes crear movimiento vertical con simulación de gravedad en Pyxel. Puedes expandir este código para incluir otros tipos de movimiento y fuerzas en tu juego.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

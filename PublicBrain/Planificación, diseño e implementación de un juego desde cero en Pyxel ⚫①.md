@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-17T14:36:33.528Z
-modified: 2024-05-03T21:38:21.386Z
+modified: 2024-06-03T20:14:12.370Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Planificación, diseño e implementación de un juego desde cero en Pyxel
+# Planificación, diseño e implementación de un juego desde cero en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -75,3 +75,5 @@ Planificar, diseñar e implementar un juego desde cero en Pyxel implica varios p
    - Distribuye el juego a través de plataformas de distribución en línea o compártelo de manera independiente.
 
 Siguiendo estos pasos, podrás planificar, diseñar e implementar un juego completo en Pyxel desde cero. ¡Buena suerte con tu proyecto de desarrollo de juegos!
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

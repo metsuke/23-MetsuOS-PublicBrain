@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:45:31.906Z
-modified: 2024-05-03T21:38:07.863Z
+modified: 2024-06-03T20:16:09.632Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Actualización y mantenimiento continuo de juegos Pyxel
+# Actualización y mantenimiento continuo de juegos Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -53,3 +53,5 @@ Cuando se trata de actualizar y mantener continuamente juegos creados con Pyxel,
 2. **Recopila comentarios de prueba**: Recluta a beta testers o voluntarios de la comunidad para probar nuevas características y actualizaciones antes de lanzarlas públicamente.
 
 Mantener un juego Pyxel actualizado y en funcionamiento requiere un compromiso continuo con la calidad, la innovación y la satisfacción del jugador. Al centrarte en la corrección de errores, la mejora del contenido y las características, la compatibilidad de la plataforma y la comunicación con la comunidad, puedes mantener tu juego relevante y emocionante para los jugadores a largo plazo.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

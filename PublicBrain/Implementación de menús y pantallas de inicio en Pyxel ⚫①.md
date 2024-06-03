@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Implementación de menús y pantallas de inicio en Pyxel
+# Implementación de menús y pantallas de inicio en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -90,3 +90,5 @@ Juego()
 En este ejemplo, puedes usar las teclas de flecha hacia arriba y hacia abajo para mover la selección entre las opciones, y la tecla ENTER para confirmar la selección. Dependiendo de la opción seleccionada, se imprime un mensaje en la consola. Puedes modificar esta lógica para realizar las acciones que desees al seleccionar cada opción.
 
 Recuerda que estos son solo ejemplos básicos para mostrarte cómo podrías implementar menús y pantallas de inicio en Pyxel. Puedes personalizar y expandir estas implementaciones según las necesidades específicas de tu juego.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

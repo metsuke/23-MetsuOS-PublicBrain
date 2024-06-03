@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T03:59:58.298Z
-modified: 2024-05-03T21:38:25.543Z
+modified: 2024-06-03T20:18:34.113Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Uso de algoritmos de generación procedural en Pyxel
+# Uso de algoritmos de generación procedural en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -73,3 +73,5 @@ Juego()
 ```
 
 Este código utiliza el algoritmo de Perlin Noise para generar un mapa de terreno y lo muestra en la pantalla utilizando los valores generados. Puedes expandir este ejemplo para generar otros tipos de mapas o elementos de juego de manera procedural en Pyxel.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

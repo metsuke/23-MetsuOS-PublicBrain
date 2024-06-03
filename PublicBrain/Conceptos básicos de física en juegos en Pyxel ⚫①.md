@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Conceptos básicos de física en juegos en Pyxel
+# Conceptos básicos de física en juegos en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -41,3 +41,5 @@ La fricción es una fuerza que actúa en dirección opuesta al movimiento de un 
 Las leyes de Newton describen el movimiento de los objetos en respuesta a las fuerzas que actúan sobre ellos. En los juegos, estas leyes pueden aplicarse para crear movimientos y comportamientos realistas de los personajes y objetos. Por ejemplo, la tercera ley de Newton (acción y reacción) puede usarse para simular la retroalimentación de fuerzas entre dos objetos en colisión.
 
 Al comprender y aplicar estos conceptos básicos de física en tus juegos desarrollados con Pyxel, puedes mejorar la jugabilidad y la experiencia del jugador al agregar realismo y dinamismo al mundo del juego.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

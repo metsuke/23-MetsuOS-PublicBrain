@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Manejo de la entrada de teclado y mouse (Pyxel)
+# Manejo de la entrada de teclado y mouse (Pyxel) ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -80,3 +80,5 @@ Juego()
 En este ejemplo, cuando presionas el botón izquierdo del mouse, la posición del rectángulo se actualiza a la posición actual del mouse.
 
 Estos son solo ejemplos básicos de cómo puedes manejar la entrada de teclado y mouse en Pyxel. Puedes combinar estas funciones con la lógica de tu juego o aplicación para crear interacciones más complejas y atractivas. Además, Pyxel ofrece otras funciones útiles para manejar la entrada de teclado y mouse, como detectar eventos de pulsación de teclas específicas o restringir la entrada del mouse a ciertas áreas de la pantalla.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

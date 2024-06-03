@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T00:28:36.887Z
-modified: 2024-05-03T21:38:25.251Z
+modified: 2024-06-03T20:16:57.636Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Publicación en plataformas populares de distribución de juegos (Pyxel)
+# Publicación en plataformas populares de distribución de juegos (Pyxel) ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -38,3 +38,5 @@ tags: []
    - Kongregate es una plataforma de juegos en línea que permite a los desarrolladores cargar y compartir juegos basados en navegador. Puedes publicar tu juego en Kongregate siguiendo su proceso de publicación y proporcionando información sobre tu juego, como capturas de pantalla, descripciones y etiquetas.
 
 Antes de publicar tu juego en cualquier plataforma, asegúrate de revisar y seguir las pautas y políticas de la plataforma específica. Además, considera la posibilidad de promocionar tu juego a través de redes sociales, foros de juegos y otras comunidades en línea para aumentar su visibilidad y llegar a más jugadores.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

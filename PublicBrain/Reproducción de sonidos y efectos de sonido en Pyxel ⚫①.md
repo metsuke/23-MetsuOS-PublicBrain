@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Reproducción de sonidos y efectos de sonido en Pyxel
+# Reproducción de sonidos y efectos de sonido en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -27,3 +27,5 @@ Para reproducir un sonido en Pyxel, puedes utilizar la función , la cual te per
 Además, Pyxel también cuenta con la posibilidad de utilizar instrumentos musicales para crear melodías y pistas musicales. Puedes crear tus propios instrumentos o utilizar los predefinidos en el programa.
 
 En resumen, la reproducción de sonidos y efectos de sonido en Pyxel es una característica importante que te permite añadir una capa adicional de inmersión a tus proyectos de creación de videojuegos o animaciones.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

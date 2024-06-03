@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Perfil de rendimiento y optimización en PixiJS ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Perfil de rendimiento y optimización en PixiJS ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Perfil de rendimiento y optimización en PixiJS ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Perfil de rendimiento y optimización en PixiJS ⚫①.md"
+                "file": "PublicBrain/Aprender sobre Pyxel  ⚫①.md"
               }
             }
           },
@@ -165,32 +165,32 @@
   },
   "active": "13deabf13c40adc1",
   "lastOpenFiles": [
-    "PublicBrain/Perfil de rendimiento y optimización en PixiJS ⚫①.md",
-    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
-    "PublicBrain/Mejores prácticas para lograr un rendimiento óptimo en PixiJS ⚫①.md",
-    "PublicBrain/Pruebas y resolución de problemas comunes en PixiJS ⚫①.md",
-    "PublicBrain/Desarrollo de un proyecto completo y accesible utilizando PixiJS ⚫①.md",
-    "PublicBrain/Implementación de características avanzadas (física, partículas, etc.) en PixiJS ⚫①.md",
-    "PublicBrain/Optimización y despliegue del proyecto final en PixiJS ⚫①.md",
-    "PublicBrain/Presentación y revisión del proyecto final (PixiJS) ⚫①.md",
-    "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
-    "PublicBrain/Diseño de la investigación (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Selección de fuentes primarias y secundarias (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Técnicas de análisis filosófico (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Ética en la investigación filosófica (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Formación académica y educación (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Influencias intelectuales y filosóficas (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Época y lugar de vida del individuo (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Eventos políticos, sociales y culturales relevantes (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Principales obras y escritos (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Temas y conceptos filosóficos abordados (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Evolución del pensamiento a lo largo del tiempo (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Métodos y enfoques de análisis (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Críticas y debates sobre las ideas del individuo (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Influencia y legado en la filosofía contemporánea (Estudio pensamiento y filosofía de una persona) ⚫①.md",
-    "PublicBrain/Aprender sobre Inteligencia Artificial ⚫①.md",
-    "PublicBrain/Fuentes primarias - obras del individuo (Estudio pensamiento y filosofía de una persona) ⚫①.md",
+    "PublicBrain/Reproducción de sonidos y efectos de sonido en Pyxel ⚫①.md",
+    "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
+    "PublicBrain/Creación de música de fondo y bucles de audio en Pyxel ⚫①.md",
+    "PublicBrain/Uso de librerías externas para generar y reproducir audio en Pyxel ⚫①.md",
+    "PublicBrain/Implementación de menús y pantallas de inicio en Pyxel ⚫①.md",
+    "PublicBrain/Manejo de la entrada de teclado y mouse (Pyxel) ⚫①.md",
+    "PublicBrain/Creación de sistemas de puntuación y marcadores en Pyxel ⚫①.md",
+    "PublicBrain/Implementación de controles y ajustes de usuario en Pyxel ⚫①.md",
+    "PublicBrain/Conceptos básicos de física en juegos en Pyxel ⚫①.md",
+    "PublicBrain/Implementación de detección de colisiones en Pyxel ⚫①.md",
+    "PublicBrain/Uso de máscaras de colisión y cajas delimitadoras en Pyxel ⚫①.md",
+    "PublicBrain/Creación de movimiento y simulación de fuerzas en Pyxel ⚫①.md",
+    "PublicBrain/Creación de niveles y escenarios complejos en Pyxel ⚫①.md",
+    "PublicBrain/Uso de algoritmos de generación procedural en Pyxel ⚫①.md",
+    "PublicBrain/Implementación de inteligencia artificial básica en Pyxel ⚫①.md",
+    "PublicBrain/Optimización y rendimiento de juegos en Pyxel ⚫①.md",
+    "PublicBrain/Empaquetado y distribución de juegos Pyxel ⚫①.md",
+    "PublicBrain/Publicación en plataformas populares de distribución de juegos (Pyxel) ⚫①.md",
+    "PublicBrain/Estrategias de marketing y promoción para juegos Pyxel ⚫①.md",
+    "PublicBrain/Actualización y mantenimiento continuo de juegos Pyxel ⚫①.md",
+    "PublicBrain/Exploración de la comunidad de desarrolladores de Pyxel ⚫①.md",
+    "PublicBrain/Recursos educativos y tutoriales disponibles en Pyxel ⚫①.md",
+    "PublicBrain/Participación en eventos y concursos de juegos en Pyxel ⚫①.md",
+    "PublicBrain/Contribución a la mejora y desarrollo de Pyxel ⚫①.md",
+    "PublicBrain/Desarrollo de un proyecto práctico de juego completo en Pyxel ⚫①.md",
+    "PublicBrain/Planificación, diseño e implementación de un juego desde cero en Pyxel ⚫①.md",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",
     "PublicBrain/_resources/Rol Experto en Embudos de Venta",

@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-17T14:37:36.740Z
-modified: 2024-05-03T21:38:20.844Z
+modified: 2024-06-03T20:13:38.572Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Integración de elementos gráficos, sonidos y mecánicas de juego (Pyxel)
+# Integración de elementos gráficos, sonidos y mecánicas de juego (Pyxel) ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -64,3 +64,5 @@ La integración de elementos gráficos, sonidos y mecánicas de juego en Pyxel e
    - Realiza ajustes en las mecánicas de juego según sea necesario para mejorar la jugabilidad y el equilibrio del juego.
 
 Al integrar de manera efectiva elementos gráficos, sonidos y mecánicas de juego en Pyxel, podrás crear juegos envolventes y emocionantes que cautiven a tus jugadores y los mantengan comprometidos durante horas.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

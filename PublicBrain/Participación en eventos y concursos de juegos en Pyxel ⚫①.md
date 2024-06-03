@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-16T10:41:57.234Z
-modified: 2024-05-03T21:38:21.271Z
+modified: 2024-06-03T20:15:08.224Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Participación en eventos y concursos de juegos en Pyxel
+# Participación en eventos y concursos de juegos en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -41,3 +41,5 @@ Participar en eventos y concursos de juegos es una excelente manera de involucra
    - Únete a grupos y comunidades en línea de desarrollo de juegos donde puedas compartir tus proyectos, obtener consejos y colaborar con otros desarrolladores. Las redes sociales como Twitter, Reddit y Discord son excelentes lugares para conectarte con la comunidad de Pyxel y enterarte de eventos y concursos relacionados.
 
 Al participar en eventos y concursos de juegos relacionados con Pyxel, podrás mejorar tus habilidades de desarrollo, obtener retroalimentación para tus proyectos y construir relaciones con otros desarrolladores y profesionales de la industria. Además, es una excelente manera de promover tus juegos y ganar visibilidad en la comunidad de desarrollo de juegos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

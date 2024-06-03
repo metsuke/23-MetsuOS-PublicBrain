@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Implementación de detección de colisiones en Pyxel
+# Implementación de detección de colisiones en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -46,3 +46,5 @@ Para optimizar la detección de colisiones, considera limitar las comprobaciones
 Una vez que detectas una colisión, debes programar la reacción apropiada de los objetos involucrados. Esto puede incluir detener el movimiento, cambiar la dirección, aplicar fuerzas adicionales, cambiar el estado del juego, etc.
 
 Implementar la detección de colisiones en tus juegos Pyxel es crucial para crear interacciones realistas y desafiantes. Recuerda adaptar tu enfoque de detección de colisiones según las necesidades específicas de tu juego y optimizarlo para garantizar un rendimiento óptimo.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

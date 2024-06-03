@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Creación de sistemas de puntuación y marcadores en Pyxel
+# Creación de sistemas de puntuación y marcadores en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -79,3 +79,5 @@ Juego()
 En este ejemplo, se muestra tanto la puntuación actual como la mejor puntuación alcanzada durante la ejecución del juego.
 
 Recuerda que estos son ejemplos básicos para mostrarte cómo podrías implementar sistemas de puntuación y marcadores en Pyxel. Puedes personalizar y expandir estas implementaciones según las necesidades específicas de tu juego. Además, si deseas guardar las puntuaciones entre sesiones de juego, deberás implementar la lógica para guardar y cargar los datos de puntuación en un archivo o base de datos.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

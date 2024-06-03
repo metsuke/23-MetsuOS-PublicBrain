@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:46:34.195Z
-modified: 2024-05-03T21:38:12.000Z
+modified: 2024-06-03T20:15:45.413Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Exploración de la comunidad de desarrolladores de Pyxel
+# Exploración de la comunidad de desarrolladores de Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -47,3 +47,5 @@ Explorar la comunidad de desarrolladores de Pyxel puede ser una experiencia enri
 2. **Comparte tus Recursos**: Si has creado recursos útiles como paletas de colores, tilesets, sprites, música o efectos de sonido, considera compartirlos con la comunidad a través de plataformas como el foro de Pyxel Edit o GitHub. Esto puede ser de gran ayuda para otros desarrolladores que buscan inspiración y recursos para sus proyectos.
 
 Explorar la comunidad de desarrolladores de Pyxel te brinda la oportunidad de aprender, colaborar, inspirarte y compartir tus propias creaciones con una comunidad apasionada de creadores de juegos y artistas visuales.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

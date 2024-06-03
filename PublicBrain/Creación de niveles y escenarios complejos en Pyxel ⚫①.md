@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T03:58:47.908Z
-modified: 2024-05-03T21:38:11.107Z
+modified: 2024-06-03T20:18:56.404Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Creación de niveles y escenarios complejos en Pyxel
+# Creación de niveles y escenarios complejos en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -69,3 +69,5 @@ Juego()
 ```
 
 Este ejemplo muestra cómo cargar un tilemap para el nivel y renderizarlo en la pantalla. Puedes expandir este código para incluir más capas de tilemaps, objetos interactivos y otros elementos para crear niveles más complejos y emocionantes en tu juego.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

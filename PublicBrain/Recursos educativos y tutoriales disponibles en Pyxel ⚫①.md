@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:47:52.282Z
-modified: 2024-05-03T21:38:25.353Z
+modified: 2024-06-03T20:15:25.225Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Recursos educativos y tutoriales disponibles en Pyxel
+# Recursos educativos y tutoriales disponibles en Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -49,3 +49,5 @@ tags: []
 2. **Talleres y seminarios web**: Participa en talleres y seminarios web dedicados a Pyxel y el desarrollo de juegos. Estos eventos en línea pueden ofrecer demostraciones en vivo, sesiones de preguntas y respuestas y oportunidades de aprendizaje interactivo.
 
 Con estos recursos educativos disponibles, puedes mejorar tus habilidades de desarrollo de juegos con Pyxel y explorar todo el potencial creativo que ofrece la plataforma.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

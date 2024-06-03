@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-13T13:20:28.223Z
-modified: 2024-05-03T21:38:11.633Z
+modified: 2024-06-03T20:17:19.648Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Empaquetado y distribución de juegos Pyxel
+# Empaquetado y distribución de juegos Pyxel ⚫①
 
 [[Aprender sobre Pyxel  ⚫①]]
 
@@ -44,3 +44,5 @@ Claro, empaquetar y distribuir juegos hechos con Pyxel es fundamental para que o
    - Una vez que tu juego esté listo para ser distribuido, considera las diferentes plataformas donde podrías promocionarlo y compartirlo. Esto podría incluir plataformas de juegos independientes, redes sociales, foros de juegos y comunidades en línea.
 
 Siguiendo estos pasos y consideraciones, podrás empaquetar y distribuir tus juegos Pyxel de manera efectiva, asegurándote de que lleguen a la mayor audiencia posible y proporcionando una experiencia de juego satisfactoria para tus usuarios.
+
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

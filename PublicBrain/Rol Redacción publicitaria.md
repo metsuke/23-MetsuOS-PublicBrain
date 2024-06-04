@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-01T19:34:05.032Z
-modified: 2024-06-01T21:04:12.611Z
+modified: 2024-06-04T18:45:03.347Z
 supervisado: 2024-05-01T19:39:34.672Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Rol Redacción publicitaria
 
 [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Departamento Creativo (Microagencia Marketing Digital)  ⚫①]]
+	* [[Departamento Creativo (Microagencia Marketing Digital) 🔴②]]
 	* [[Glosario de Marketing Digital ⚫①]]
 
 ### Objetivo

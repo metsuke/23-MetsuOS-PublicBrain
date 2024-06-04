@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-29T09:03:26.793Z
-modified: 2024-06-01T21:04:23.019Z
+modified: 2024-06-04T18:45:03.323Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Rol Diseño Gráfico
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Departamento Creativo (Microagencia Marketing Digital)  ⚫①]]
+	* [[Departamento Creativo (Microagencia Marketing Digital) 🔴②]]
 	* [[Glosario de Marketing Digital ⚫①]]
 
 ### Objetivos

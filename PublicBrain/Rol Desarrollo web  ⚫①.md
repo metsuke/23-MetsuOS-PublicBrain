@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-04T19:26:13.399Z
-modified: 2024-06-01T21:03:35.521Z
+modified: 2024-06-04T18:45:03.313Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -19,7 +19,7 @@ tags: []
 # Rol Desarrollo web  ⚫①
 
 [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Departamento Creativo (Microagencia Marketing Digital)  ⚫①]]
+	* [[Departamento Creativo (Microagencia Marketing Digital) 🔴②]]
 	* [[Glosario de Marketing Digital ⚫①]]
 
 ### Objetivo

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
+                "file": "PublicBrain/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
+                "file": "PublicBrain/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md"
+                "file": "PublicBrain/Index.md"
               }
             }
           },
@@ -165,8 +165,17 @@
   },
   "active": "13deabf13c40adc1",
   "lastOpenFiles": [
-    "PublicBrain/Desafíos y Futuro de las Redes Neuronales.md",
+    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+    "⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
+    "PublicBrain/Departamento Creativo (Microagencia Marketing Digital) 🔴②.md",
+    "PublicBrain/Rol Expertos en SEO 🔴②.md",
+    "PublicBrain/Departamento Marketing (Microagencia Marketing Digital) 🔴②.md",
+    "PublicBrain/Aprender con G-L ⚫①.md",
+    "PublicBrain/Aprender sobre Inteligencia Artificial ⚫①.md",
     "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
+    "PublicBrain/Desafíos y Futuro de las Redes Neuronales.md",
     "PublicBrain/Desafíos actuales (interpretabilidad, ética, robustez) ⚫①.md",
     "PublicBrain/Tendencias y avances en investigación ⚫①.md",
     "PublicBrain/Posibilidades futuras y aplicaciones emergentes ⚫①.md",
@@ -182,15 +191,6 @@
     "PublicBrain/Implementación de detección de colisiones en Pyxel ⚫①.md",
     "PublicBrain/Uso de máscaras de colisión y cajas delimitadoras en Pyxel ⚫①.md",
     "PublicBrain/Creación de movimiento y simulación de fuerzas en Pyxel ⚫①.md",
-    "PublicBrain/Creación de niveles y escenarios complejos en Pyxel ⚫①.md",
-    "PublicBrain/Uso de algoritmos de generación procedural en Pyxel ⚫①.md",
-    "PublicBrain/Implementación de inteligencia artificial básica en Pyxel ⚫①.md",
-    "PublicBrain/Optimización y rendimiento de juegos en Pyxel ⚫①.md",
-    "PublicBrain/Empaquetado y distribución de juegos Pyxel ⚫①.md",
-    "PublicBrain/Publicación en plataformas populares de distribución de juegos (Pyxel) ⚫①.md",
-    "PublicBrain/Estrategias de marketing y promoción para juegos Pyxel ⚫①.md",
-    "PublicBrain/Actualización y mantenimiento continuo de juegos Pyxel ⚫①.md",
-    "PublicBrain/Exploración de la comunidad de desarrolladores de Pyxel ⚫①.md",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",
     "PublicBrain/_resources/Rol Experto en Embudos de Venta",

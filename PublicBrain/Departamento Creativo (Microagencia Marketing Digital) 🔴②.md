@@ -28,7 +28,7 @@ En una microagencia de marketing digital, el departamento creativo es el corazó
 
 ## Perfiles
 
-* [[Rol Diseño Gráfico|Diseño Gráfico]]
+* [[Rol Diseño Gráfico 🔴②|Diseño Gráfico 🔴②]]
 * [[Rol Redacción publicitaria|Redacción publicitaria]]
 * [[Rol Desarrollo web  ⚫①|Desarrollo Web]]
 

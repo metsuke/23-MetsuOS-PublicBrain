@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md"
+                "file": "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "13deabf13c40adc1",
   "lastOpenFiles": [
-    "PublicBrain/Diseño de la investigación (Estudio pensamiento y filosofía de una persona) 🔴②.md",
+    "PublicBrain/Manejo de errores y excepciones (IDRA-EBay) 🔴②.md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
+    "PublicBrain/Diseño de la investigación (Estudio pensamiento y filosofía de una persona) 🔴②.md",
     "PublicBrain/Aprender con Javier G. Recuenco ⚫①.md",
     "PublicBrain/Departamento Creativo (Microagencia Marketing Digital) 🔴②.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
@@ -189,8 +191,6 @@
     "PublicBrain/Creación de música de fondo y bucles de audio en Pyxel ⚫①.md",
     "PublicBrain/Uso de librerías externas para generar y reproducir audio en Pyxel ⚫①.md",
     "PublicBrain/Implementación de menús y pantallas de inicio en Pyxel ⚫①.md",
-    "PublicBrain/Manejo de la entrada de teclado y mouse (Pyxel) ⚫①.md",
-    "PublicBrain/Creación de sistemas de puntuación y marcadores en Pyxel ⚫①.md",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",
     "PublicBrain/_resources/Rol Experto en Embudos de Venta",

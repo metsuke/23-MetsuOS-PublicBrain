@@ -55,7 +55,7 @@ tags:
 ## Optimización y Mejoras en la Interacción con la API
 
 - [[Paginación y límites de resultados (IDRA-Ebay) 🔴②]] ⬛
-- [[Manejo de errores y excepciones (IDRA-EBay)]] ⬛
+- [[Manejo de errores y excepciones (IDRA-EBay) 🔴②]] ⬛
 - [[Uso de filtros y parámetros de consulta avanzados (IDRA-Ebay)]] ⬛
 - [[Optimización de consultas para mejorar el rendimiento (IDRA-Ebay)]] ⬛
 

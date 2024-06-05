@@ -40,7 +40,7 @@ tags:
    
 ## III. Metodología de Investigación
 
-   - [[Diseño de la investigación (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Diseño de la investigación (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Selección de fuentes primarias y secundarias (Estudio pensamiento y filosofía de una persona) ⚫①]]
    - [[Técnicas de análisis filosófico (Estudio pensamiento y filosofía de una persona) ⚫①]]
    - [[Ética en la investigación filosófica (Estudio pensamiento y filosofía de una persona) ⚫①]]

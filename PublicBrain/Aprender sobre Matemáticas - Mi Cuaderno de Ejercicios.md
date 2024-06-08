@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.558Z
-modified: 2024-05-05T12:56:41.595Z
+modified: 2024-06-08T14:46:36.329Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 74
+ver_rev: 75
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,7 +36,9 @@ Huelga decir que este es mi cuaderno de trabajo, puede contener (Y MUY PROBABLEM
 * [[Cuaderno Matemáticas - Ejercicios Binomios al Cuadrado]]
 * [[Cuaderno Matemáticas - Ejercicios Binomios a la n potencia y conjugados]]
 * [[Cuaderno Matemáticas - Ejercicios Factorizacion n-Nomios]]
-[[Cuaderno Matemáticas - Ejercicios Ecuaciones]]
+* [[Cuaderno Matemáticas - Ejercicios Ecuaciones]]
+
+
 
 
 

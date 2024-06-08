@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-06-01T21:23:09.918Z
+modified: 2024-06-07T18:53:43.910Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 121
+ver_rev: 122
 nav_primary: 
 nav_secondary: 
 tags:
@@ -153,11 +153,11 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ## Cursos externos recomendados
 
-* [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ⚫①]]
+* [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②]]
 
 ## Mis apuntes de ...
 
-* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital  ⚫①]]
+* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital 🔴②]]
 
 ## En proceso de inventario ...
 

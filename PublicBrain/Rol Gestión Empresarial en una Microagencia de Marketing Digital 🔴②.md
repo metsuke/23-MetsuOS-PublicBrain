@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.654Z
-modified: 2024-06-01T21:04:17.876Z
+modified: 2024-06-08T21:31:12.140Z
 supervisado: 2024-05-21T19:28:40.377Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 22
+ver_rev: 23
 nav_primary: 
 nav_secondary: 
 tags:
@@ -63,7 +63,7 @@ La microagencia de marketing digital es un rol clave en la gestión empresarial,
 
 ## Referencias Bibliográficas
 
-* Kotler, P. (2003). Marketing Management. Pearson Education.
+* [[Kotler, P. (2003). Marketing Management. Pearson Education ⚫①]]
 * Hoffman, D. L., & Novak, T. P. (1996). Marketing in the age of the internet. Journal of Marketing, 60(3), 1-16.
 * Prahalad, C. K., & Hamel, G. (1990). The core competence of the corporation. Harvard Business Review, 68(3), 79-91.
 

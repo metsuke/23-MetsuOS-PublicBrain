@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-06-05T18:02:25.127Z
+modified: 2024-06-07T18:53:43.831Z
 supervisado: 2024-05-15T19:00:36.832Z
 ACCION: 
 ver_major: 0
 ver_minor: 5
-ver_rev: 133
+ver_rev: 137
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,10 +22,10 @@ tags:
 # Estructurar una Microagencia de Marketing Digital  ⚫①
 
 * [[PublicBrain/Index|Index]] 
-	* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital  ⚫①]]
+	* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital 🔴②]]
 	* [[Glosario de Marketing Digital ⚫①]]
 
-Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital ⚫①]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
+Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
 
 ## Organigrama de la microagencia
 
@@ -45,8 +45,8 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 				* [[Rol Expertos en SEO 🔴②|Expertos en SEO 🔴②]]
 			* [[Departamento Creativo (Microagencia Marketing Digital) 🔴②|Creativo 🔴②]]
 				* [[Rol Diseño Gráfico 🔴②|Diseño Gráfico 🔴②]]
-				* [[Rol Redacción publicitaria|Redacción publicitaria]]
-				* [[Rol Desarrollo web  ⚫①|Desarrollo Web]]
+				* [[Rol Redacción publicitaria 🔴②|Redacción Publicitaria 🔴②]]
+				* [[Rol Desarrollo web 🔴②|Desarrollo Web 🔴②]]
 
 ```mermaid
 graph TD

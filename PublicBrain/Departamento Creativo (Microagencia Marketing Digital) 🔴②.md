@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-28T19:44:08.840Z
-modified: 2024-06-05T18:02:34.774Z
+modified: 2024-06-06T21:01:05.206Z
 supervisado: ""
 ACCION: s
 ver_major: 0
 ver_minor: 3
-ver_rev: 11
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,8 +29,8 @@ En una microagencia de marketing digital, el departamento creativo es el corazó
 ## Perfiles
 
 * [[Rol Diseño Gráfico 🔴②|Diseño Gráfico 🔴②]]
-* [[Rol Redacción publicitaria|Redacción publicitaria]]
-* [[Rol Desarrollo web  ⚫①|Desarrollo Web]]
+* [[Rol Redacción publicitaria 🔴②|Redacción Publicitaria 🔴②]]
+* [[Rol Desarrollo web 🔴②|Desarrollo Web 🔴②]]
 
 ## Estructura
 

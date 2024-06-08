@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.653Z
-modified: 2024-06-01T21:04:29.612Z
+modified: 2024-06-08T21:19:22.915Z
 supervisado: 2024-05-19T15:32:48.198Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 63
+ver_rev: 64
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,7 @@ tags:
 
 ## Introducción
 
-El Rol Comercial es un papel clave en la estrategia de marketing digital, responsable de atraer y convertir [[Lead (Marketing Digital) ⚫①|leads ⚫①]] en [[Cliente (Marketing Digital)  🔴②|clientes 🔴②]]. En este papel, se enfoca en capturar, calificar y desarrollar leads, estableciendo una relación con los posibles clientes y llevándolos hasta la primera reunión con el [[Rol Account Manager 🔴②|Account Manager]].
+El Rol Comercial es un papel clave en la estrategia de marketing digital, responsable de atraer y convertir [[Lead (Marketing Digital) 🔴②|leads ⚫①]] en [[Cliente (Marketing Digital)  🔴②|clientes 🔴②]]. En este papel, se enfoca en capturar, calificar y desarrollar leads, estableciendo una relación con los posibles clientes y llevándolos hasta la primera reunión con el [[Rol Account Manager 🔴②|Account Manager]].
 ## Objetivos
 
 * Capturar, calificar y desarrollar leads que se conviertan en clientes.

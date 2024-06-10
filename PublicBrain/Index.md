@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-06-07T18:53:43.910Z
+modified: 2024-06-10T15:26:26.788Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 122
+ver_rev: 124
 nav_primary: 
 nav_secondary: 
 tags:
@@ -158,6 +158,14 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ## Mis apuntes de ...
 
 * [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital 🔴②]]
+
+## Elementos experimentales...
+
+* [[Patrocinadores de Carlos Alcaraz, estudio por pais de los inversores ⚫①]]
+* [[Patrocinadores de Rafa Nadal, estudio por pais de los inversores ⚫①]]
+
+* [[Patrocinadores del Paris St Germain, estudio por pais de los inversores ⚫①]]
+* [[Patrocinadores del Real Madrid, estudio por pais de los inversores ⚫①]] 
 
 ## En proceso de inventario ...
 

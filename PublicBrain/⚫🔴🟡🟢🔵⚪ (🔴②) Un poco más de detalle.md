@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-04T18:51:41.947Z
-modified: 2024-06-04T18:55:23.568Z
-supervisado: ""
-ACCION: s
+modified: 2024-06-10T14:43:32.805Z
+supervisado: 2024-06-10T14:43:32.805Z
+ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 1
+ver_rev: -1
 nav_primary: 
 nav_secondary: 
 tags:
@@ -53,12 +53,17 @@ Aquí estoy afinando la descripción y características de cada nivel, a la par 
 ## 🟡③ - Yellow3 - Conocimiento Crítico.
 
 * Se abre la posibilidad de otras perspectivas.
-* Se realiza un análisis de coherencia del conjunto del contenido, a fin de evitar problemas de contexto debidos al uso de IA, o despiste del humano. 
-	* TODO: Definir en que consiste exactamente ese análisis de coherencia.
-* TODO: Definición más específica.
+* Se realiza un metaanálisis bibliográfico del contenido del documento, a fin de evitar problemas de contexto debidos a alucinaciones de IA, o despiste del humano. 
+* Respecto a las fuentes que refutan deben tratarse en los documentos que rastrean cada idea, realizando un metanálisis recursivo y multidimensional que nos lleve lo más cerca posible del contexto completo de la materia estudiada.
 ### Técnicas aplicadas en 🟡③
 
-* TODO: Determinar procedimiento y técnicas a aplicar.
+1. Se le pide a una IA potente que tome el texto original realice un análisis exhaustivo del mismo y relacione de forma exhaustiva cada idea con su referencia bibliográfica, incluyendo numeros de página exactos.
+2. Este contenido se crea como nuevo documento "Metaanálisis Bibliográfico de *titulo original*" y se enlaza adecuadamente.
+3. Se comprueba idea por idea, referencia por referencia de forma manual por parte de un humano.
+4. El objeto de este análisis no es la validación científica de cada idea (eso vendrá en fases posteriores) sino la validación de coherencia bibliográfica, evitando contenido inventado.
+5. Esto debe repetirse de forma recursiva si fuese necesario hasta llegar al origen del asunto, recorriendo para ello las referencias de cada idea obtenida de cada fuente hasta la fuente última. Ej: Suma => Idea trasmitida por el profesor => Que lo aprendio de un libro => que a su vez viene de un tratado => que a su vez parte de una demostración matemática de X.
+6. En caso de que una fuente no sea rastreable toca definir causas y efectos en la validez del contenido estudiado (TODO).
+7. Debe realizarse este proceso tanto con las fuentes que apoyan el contenido como con aquellas que lo refutan, buscando los distintos paradigmas existentes, tanto validos como desechados, (ya veremos en fases finales que nada se afirmará al 100% ni nada se desechará al 100%)
 ## 🟢④ - Green4 - Conocimiento Natural.
 
 * Surge al comprender la naturaleza de la realidad y del ser humano en una materia.

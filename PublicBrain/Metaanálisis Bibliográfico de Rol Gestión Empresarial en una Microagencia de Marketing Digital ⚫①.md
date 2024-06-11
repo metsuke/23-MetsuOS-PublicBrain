@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
 iaStatus_Model: llama3-70b-8192
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-06-10T14:35:01.633Z
-modified: 2024-06-10T14:43:12.089Z
+modified: 2024-06-11T21:18:17.659Z
 supervisado: 2024-06-10T14:43:12.089Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 1
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,9 +27,9 @@ A continuación, se presenta un análisis exhaustivo del texto sobre el rol de g
 
 ## Introducción
 
-El texto destaca la importancia del rol de gestión empresarial en una microagencia de marketing digital, que se encarga de entender las necesidades de los clientes, definir el perfil del negocio y delegar la ejecución en las personas elegidas, mientras supervisa los resultados. Esta idea se apoya en la teoría de la gestión empresarial, que se centra en la planificación, organización, dirección y control de los recursos para alcanzar los objetivos de la empresa (Kotler, 2003, p. 15).
+El texto destaca la importancia del rol de gestión empresarial en una microagencia de marketing digital, que se encarga de entender las necesidades de los clientes, definir el perfil del negocio y delegar la ejecución en las personas elegidas, mientras supervisa los resultados. Esta idea se apoya en la [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003)⚫①ç|teoría de la gestión empresarial de Kotle ⚫①]]], que se centra en la planificación, organización, dirección y control de los recursos para alcanzar los objetivos de la empresa - [[Kotler, P. (2003). Marketing Management. Pearson Education ⚫①]], p. 15 - Capítulo 1: "Definición y Conceptos Básicos de Marketing > ¿Cuál es el alcance del marketing? - p.5  en edicion 12ª - p.27 en edición 15ª
 
-**Objetivos**
+	**Objetivos**
 
 Los objetivos del rol de gestión empresarial en una microagencia de marketing digital se centran en:
 

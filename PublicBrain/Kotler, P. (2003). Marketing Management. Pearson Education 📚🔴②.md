@@ -1,31 +1,34 @@
 ---
 iaStatus: 8
 iaStatus_Model: llama3-70b-8192
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-06-08T21:29:34.436Z
-modified: 2024-06-10T15:06:30.415Z
+modified: 2024-06-15T21:39:59.980Z
 supervisado: 2024-06-10T15:06:30.415Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 2
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Kotler, P. (2003). Marketing Management. Pearson Education ⚫①
+# Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②
 
-* ISBN: 8178086549, 9788178086545
 * Referencia Bibliográfica en
 	* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②]]
+* Paradigmas Relacionados:
+	* [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️🔴②]]
 
-"Administración de Marketing" de Philip Kotler es un libro de texto seminal en el campo del marketing, y la edición de 2003 es un recurso ampliamente utilizado y respetado. A continuación, te presento un resumen del contenido y los conceptos clave del libro:
+## Resumen
+
+"Administración de Marketing" de Philip Kotler es un libro de texto seminal en el campo del marketing, y la edición de 2003 es un recurso ampliamente utilizado y respetado. A continuación, te presento un resumen del contenido y los conceptos clave del libro.
 
 ## Estructura del libro
 
@@ -45,7 +48,7 @@ El libro se divide en seis partes, que abarcan los siguientes temas:
 * Explora el comportamiento del consumidor, incluyendo la motivación, la percepción, el aprendizaje, las actitudes y los procesos de toma de decisiones
 * Analiza el comportamiento de compra organizacional y los factores que lo influyen
 
-### Parte 4: "I"nvestigación de Mercado y Sistemas de Información
+### Parte 4: Investigación de Mercado y Sistemas de Información
 
 * Cubre la importancia de la investigación de mercado, el diseño de la investigación, los métodos de recopilación de datos y el análisis de datos
 * Introduce los sistemas de información de marketing y su papel en la toma de decisiones
@@ -73,6 +76,8 @@ Algunos de los conceptos clave presentados en el libro incluyen:
 
 "Administración de Marketing" ha tenido un impacto profundo en el campo del marketing, y ha sido ampliamente adoptado como libro de texto en universidades y escuelas de negocios en todo el mundo. El libro ha influido en el desarrollo del pensamiento y la práctica del marketing, y sus conceptos y marcos continúan moldeando la estrategia y la toma de decisiones de marketing.
 
-Philip Kotler, el autor, es un experto en marketing reconocido y profesor emérito de la Kellogg School of Management de la Universidad Northwestern. Es ampliamente considerado como uno de los marketers más influyentes de todos los tiempos, y su trabajo ha tenido un impacto duradero en el campo del marketing.
+## Referencias Bibliográficas
+
+* Kotler, P. (2003). Marketing Management. Pearson Education. ISBN 8178086549, ISBN 9788178086545
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

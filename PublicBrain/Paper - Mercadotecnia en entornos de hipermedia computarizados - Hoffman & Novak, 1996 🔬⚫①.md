@@ -9,27 +9,27 @@ checked: -3
 lang: ES
 translations: 
 created: 2024-06-15T21:51:43.118Z
-modified: 2024-06-15T21:54:20.205Z
+modified: 2024-06-16T16:29:49.613Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 5
-ver_rev: 1
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996📚 ⚫①
+# Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬⚫①
 
 * Referencia en:
 	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️⚫①]]
+* Publicado originalmente en:
+	* Journal of Marketing, 60(3), 50-68.
 * Leer en:
 	* [(PDF) Marketing in Hypermedia Computer-Mediated Environments: Conceptual Foundations (researchgate.net)](https://www.researchgate.net/publication/2506951_Marketing_in_Hypermedia_Computer-Mediated_Environments_Conceptual_Foundations)
 	* [Hoffman, D. and Novak, T. (1996) Marketing in Hypermedia Computer-Mediated Environments Conceptual Foundations. Journal of Marketing, 60, 50-68. - References - Scientific Research Publishing (scirp.org)](https://www.scirp.org/reference/referencespapers?referenceid=1359340)
 	* [Hoffman and Novak (1996) | Descargar gratis PDF | Flow (Psychology) | Perception (scribd.com)](https://es.scribd.com/document/83207051/Hoffman-and-Novak-1996)
 
-
-¡Claro!
 
 Hoffman, D. L., & Novak, T. P. (1996). Mercadotecnia en entornos de hipermédia computarizados: Fundamentos conceptuales. Journal of Marketing, 60(3), 50-68.
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-11T21:17:55.520Z
-modified: 2024-06-15T21:40:24.848Z
+modified: 2024-06-16T16:33:01.537Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,6 +25,8 @@ tags:
 * [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②]]
 * Referencia en:
 	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️⚫①]]
+* Paradigma en:
+	* [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️🔴②]]
 
 ## La Filosofía de la Gestión de Marketing
 
@@ -32,7 +34,7 @@ La teoría de Philip Kotler se basa en la filosofía de la gestión de marketing
 
 ### 1. Orientación al cliente
 
-La organización se centra en entender y satisfacer las necesidades de los clientes.
+La organización se centra en entender y satisfacer las necesidades de los clientes ( [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️🔴②]],)
 
 ### 2. Segmentación de mercados
 
@@ -112,7 +114,7 @@ Utilizar métricas como el retorno de la inversión (ROI), el costo de adquisici
 
 ## Referencias Bibliográficas que Apoyan el Contenido
 
-* [[Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②]]
+* [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②]]
 * Kotler, P., & Keller, K. L. (2009). Marketing Management. Pearson.
 * McCarthy, E. J. (1960). Basic Marketing: A Managerial Approach. Richard D. Irwin.
 

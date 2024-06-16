@@ -56,7 +56,7 @@ tags:
 
 - [[Paginación y límites de resultados (IDRA-Ebay) 🔴②]] ⬛
 - [[Manejo de errores y excepciones (IDRA-EBay) 🔴②]] ⬛
-- [[Uso de filtros y parámetros de consulta avanzados (IDRA-Ebay)]] ⬛
+- [[Uso de filtros y parámetros de consulta avanzados (IDRA-Ebay) 🔴②]] ⬛
 - [[Optimización de consultas para mejorar el rendimiento (IDRA-Ebay)]] ⬛
 
 ## Consideraciones de Seguridad y Buenas Prácticas

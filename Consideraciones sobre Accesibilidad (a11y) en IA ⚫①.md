@@ -16,3 +16,4 @@ Algunas consideraciones sobre accesibilidad en inteligencia artificial incluyen:
 
 En resumen, las consideraciones sobre accesibilidad en inteligencia artificial son indispensables para garantizar la inclusión y equidad de todas las personas en el uso de esta tecnología. Es importante tener en cuenta las necesidades de todos los usuarios y trabajar en pro de un diseño accesible y equitativo.
 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

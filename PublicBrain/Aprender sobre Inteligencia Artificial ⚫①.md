@@ -112,7 +112,7 @@ tags:
 ## Inteligencia Artificial Multimodal Progresiva (MetsukeOS)
 
 * ¿Qué es Inteligencia Artificial Multimodal Progresiva?
-	* Modelo de Niveles en AMP-AI
+	* [[Modelo de Niveles en AMP-AI (Inteligencia Artificial)  ⚫①]]
 	* [[Consideraciones sobre Accesibilidad (a11y) en IA ⚫①]]
 	* [[Consideraciones sobre consumo energético en IA  ⚫①]]
 	* Consideraciones sobre el control de la IA

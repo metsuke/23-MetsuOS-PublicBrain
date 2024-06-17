@@ -18,3 +18,4 @@ Los niveles en el Modelo de Niveles en AMP-AI se organizan de la siguiente maner
 
 El Modelo de Niveles en AMP-AI proporciona una guía para comprender el proceso de aprendizaje de la inteligencia artificial y cómo se va desarrollando su capacidad a medida que avanza a través de los diferentes niveles.
 
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

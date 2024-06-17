@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-06-10T15:14:13.958Z
+modified: 2024-06-17T10:24:04.856Z
 supervisado: 2024-06-05T18:07:29.324Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
@@ -41,7 +41,7 @@ tags:
 ## III. Metodología de Investigación
 
    - [[Diseño de la investigación (Estudio pensamiento y filosofía de una persona) 🔴②]]
-   - [[Selección de fuentes primarias y secundarias (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Selección de fuentes primarias y secundarias (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Técnicas de análisis filosófico (Estudio pensamiento y filosofía de una persona) ⚫①]]
    - [[Ética en la investigación filosófica (Estudio pensamiento y filosofía de una persona) ⚫①]]
    

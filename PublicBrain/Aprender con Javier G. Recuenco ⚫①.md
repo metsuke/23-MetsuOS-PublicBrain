@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.505Z
-modified: 2024-06-10T15:14:14.127Z
+modified: 2024-06-17T10:14:52.476Z
 supervisado: 2024-06-01T21:15:59.351Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 87
+ver_rev: 88
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Aprender con G-L ⚫①]] | [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
-[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
+Punta de Lanza ---> *** [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]] ***
 
 
 * [Javier G. Recuenco | LinkedIn](https://www.linkedin.com/in/javier-g-recuenco-70a708/?originalSubdomain=es)

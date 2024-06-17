@@ -117,6 +117,7 @@ tags:
 	* [[Consideraciones sobre consumo energético en IA  ⚫①]]
 	* Consideraciones sobre el control de la IA
 	* Consideraciones sobre la simbiosis entre IA y Humano
+	* 
 		*  AMP-AI como copiloto del cerebro humano
 
 * Implementación de Redes Neuronales en Python

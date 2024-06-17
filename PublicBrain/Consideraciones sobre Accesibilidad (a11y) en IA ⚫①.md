@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-06-17T09:48:06.701Z
+modified: 2024-06-17T09:53:47.955Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Consideraciones sobre Accesibilidad (a11y) en IA ⚫①
 
 [[Aprender sobre Inteligencia Artificial ⚫①]]

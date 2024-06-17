@@ -113,7 +113,7 @@ tags:
 
 * ¿Qué es Inteligencia Artificial Multimodal Progresiva?
 	* Modelo de Niveles en AMP-AI
-	* Consideraciones sobre Accesibilidad (a11y)
+	* [[Consideraciones sobre Accesibilidad (a11y) en IA ⚫①]]
 	* [[Consideraciones sobre consumo energético en IA  ⚫①]]
 	* Consideraciones sobre el control de la IA
 	* Consideraciones sobre la simbiosis entre IA y Humano

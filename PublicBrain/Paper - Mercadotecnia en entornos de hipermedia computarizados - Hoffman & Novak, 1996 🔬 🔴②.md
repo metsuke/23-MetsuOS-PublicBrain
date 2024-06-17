@@ -19,10 +19,10 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬🔴②
+# Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②
 
 * Referencia en:
-	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️⚫①]]
+	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 * Publicado originalmente en:
 	* Journal of Marketing, 60(3), 50-68.
 * Leer en:

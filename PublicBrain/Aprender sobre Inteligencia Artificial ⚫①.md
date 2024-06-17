@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.551Z
-modified: 2024-06-10T15:14:14.111Z
+modified: 2024-06-17T09:47:10.192Z
 supervisado: 2024-06-01T21:11:34.527Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 91
+ver_rev: 92
 nav_primary: 
 nav_secondary: 
 tags:
@@ -107,14 +107,14 @@ tags:
 
 - [[Carreras en IA ⚫①]]
 - [[Certificaciones en IA ⚫①]]
-- Perfil del profesional en IA
+- [[Perfil del profesional en IA ⚫①]]
 
 ## Inteligencia Artificial Multimodal Progresiva (MetsukeOS)
 
 * ¿Qué es Inteligencia Artificial Multimodal Progresiva?
 	* Modelo de Niveles en AMP-AI
 	* Consideraciones sobre Accesibilidad (a11y)
-	* Consideraciones sobre consumo energético
+	* [[Consideraciones sobre consumo energético en IA  ⚫①]]
 	* Consideraciones sobre el control de la IA
 	* Consideraciones sobre la simbiosis entre IA y Humano
 		*  AMP-AI como copiloto del cerebro humano

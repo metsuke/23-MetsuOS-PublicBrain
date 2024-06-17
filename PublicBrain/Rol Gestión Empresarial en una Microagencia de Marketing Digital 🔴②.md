@@ -22,7 +22,7 @@ tags:
 # Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️⚫①]]
+	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 	* [[Glosario de Marketing Digital ⚫①]]
 
 
@@ -64,8 +64,8 @@ En una microagencia de marketing digital es clave el rol de gestión empresarial
 
 ## Referencias Bibliográficas
 
-* [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②]]
-* [[Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬🔴②]] 
+* [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚 🔴②]]
+* [[Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②]] 
 * Prahalad, C. K., & Hamel, G. (1990). The core competence of the corporation. Harvard Business Review, 68(3), 79-91.
 
 ## Referencias que Refutan

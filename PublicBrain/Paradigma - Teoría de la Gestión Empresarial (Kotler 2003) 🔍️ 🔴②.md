@@ -9,22 +9,22 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-11T21:17:55.520Z
-modified: 2024-06-16T16:33:01.537Z
+modified: 2024-06-17T04:58:34.126Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️🔴②
+# Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②
 
 
 * [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②]]
 * Referencia en:
-	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️⚫①]]
+	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 * Paradigma en:
 	* [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️🔴②]]
 
@@ -34,7 +34,7 @@ La teoría de Philip Kotler se basa en la filosofía de la gestión de marketing
 
 ### 1. Orientación al cliente
 
-La organización se centra en entender y satisfacer las necesidades de los clientes ( [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️🔴②]],)
+La organización se centra en entender y satisfacer las necesidades de los clientes ( [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②]],)
 
 ### 2. Segmentación de mercados
 
@@ -114,7 +114,7 @@ Utilizar métricas como el retorno de la inversión (ROI), el costo de adquisici
 
 ## Referencias Bibliográficas que Apoyan el Contenido
 
-* [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②]]
+* [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚 🔴②]]
 * Kotler, P., & Keller, K. L. (2009). Marketing Management. Pearson.
 * McCarthy, E. J. (1960). Basic Marketing: A Managerial Approach. Richard D. Irwin.
 

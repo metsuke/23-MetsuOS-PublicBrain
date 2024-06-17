@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-16T16:30:49.006Z
-modified: 2024-06-16T16:33:18.602Z
+modified: 2024-06-17T04:43:30.019Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -68,7 +68,7 @@ Establecer una comunicación efectiva con los clientes para comprender sus neces
 
 ## Referencias bibliográficas que apoyan el contenido
 
-* [[Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬⚫①]]
+* [[Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬🔴②]]
 * Kotler, P., & Keller, K. L. (2016). Marketing Management. Pearson Education Limited.
 * Peppers, D., & Rogers, M. (2017). Managing Customer Relationships: A Strategic Framework. John Wiley & Sons.
 

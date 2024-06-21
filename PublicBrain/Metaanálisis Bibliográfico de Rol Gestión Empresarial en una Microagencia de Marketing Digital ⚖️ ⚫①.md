@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-10T14:35:01.633Z
-modified: 2024-06-17T04:33:51.616Z
+modified: 2024-06-20T19:00:05.973Z
 supervisado: 2024-06-10T14:43:12.089Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 9
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,13 +27,15 @@ A continuación, se presenta un análisis exhaustivo del texto sobre el rol de g
 
 ## Introducción
 
-El texto destaca la importancia del rol de gestión empresarial en una microagencia de marketing digital, que se encarga de entender las necesidades de los clientes, definir el perfil del negocio y delegar la ejecución en las personas elegidas, mientras supervisa los resultados. Esta idea se apoya en el [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②]], que se centra en la planificación, organización, dirección y control de los recursos para alcanzar los objetivos de la empresa - [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚 🔴②]], p. 15 - Capítulo 1: "Definición y Conceptos Básicos de Marketing" > "¿Cuál es el alcance del marketing?" - p.5  en edicion 12ª - p.27 en edición 15ª
+El texto destaca la importancia del rol de gestión empresarial en una microagencia de marketing digital, que se encarga de entender las necesidades de los clientes, definir el perfil del negocio y delegar la ejecución en las personas elegidas, mientras supervisa los resultados. Esta idea se apoya en el [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②]], que se centra en la planificación, organización, dirección y control de los recursos para alcanzar los objetivos de la empresa - [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚 🔴②]], p. 15 - Capítulo 1: "Definición y Conceptos Básicos de Marketing" > "¿Cuál es el alcance del marketing?" - p.5  en ediciones 11ª y 12ª - p.27 en edición 15ª. 
+
+**La diferencia de pg 5 y 15 en ediciones 1 y 11 respectivamente es confirmada como correcta via ChatGPT. Me vendría bien confirmacion por parte de algun poseedor de la primera edicion.**
 ## Objetivos
 
 Los objetivos del rol de gestión empresarial en una microagencia de marketing digital se centran en:
 
 * Entender las necesidades de los clientes: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②]], que se centra en comprender las necesidades y deseos de los clientes para desarrollar estrategias efectivas ([[Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②]], p. 5)**.
-* Definir el perfil del negocio: Esta idea se relaciona con la teoría de la planificación estratégica, que se centra en analizar la situación actual de la empresa y definir objetivos y estrategias para alcanzarlos (Prahalad & Hamel, 1990, p. 82).
+* Definir el perfil del negocio: Esta idea se relaciona con el [[Paradigma - Teoría de la Planificación Estratégica - Prahalad & Hamel, 1990  🔴②]], que se centra en analizar la situación actual de la empresa y definir objetivos y estrategias para alcanzarlos ([[Prahalad & Hamel, 1990, p. 82  🔴②]]).
 * Delegar la ejecución en las personas elegidas: Esta idea se basa en la teoría de la delegación, que se centra en asignar responsabilidades y autoridad a los empleados para que puedan realizar tareas específicas (Drucker, 1954, p. 123).
 * Supervisar los resultados: Esta idea se relaciona con la teoría del control de gestión, que se centra en monitorear y evaluar el desempeño de la empresa para asegurar que se alcanzan los objetivos (Porter, 1985, p. 45).
 

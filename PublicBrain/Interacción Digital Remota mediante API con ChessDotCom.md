@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.688Z
-modified: 2024-06-10T15:26:26.781Z
+modified: 2024-06-19T06:13:56.228Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -24,7 +24,7 @@ tags: []
 - [[¿Qué es una API? (IDRA-ChessDotCom)]]
 - [[Importancia de las APIs en la interacción digital remota (IDRA-ChessDotCom)]]
 - [[Tipos de APIs (IDRA-ChessDotCom)]]
-- Protocolos comunes utilizados en APIs (HTTP, REST, WebSocket, etc.)
+- [[Protocolos comunes utilizados en APIs (HTTP, REST, WebSocket, etc.) (IDRA-ChessDotCom)  ⚫①]]
 
 ## Introducción a Chess.com API
 - Visión general de Chess.com API

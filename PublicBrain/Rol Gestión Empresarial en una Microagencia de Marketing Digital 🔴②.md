@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.654Z
-modified: 2024-06-17T04:43:29.930Z
+modified: 2024-06-18T16:51:19.999Z
 supervisado: 2024-06-10T14:35:11.610Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 31
+ver_rev: 32
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,7 +32,7 @@ En una microagencia de marketing digital es clave el rol de gestión empresarial
 
 ## Objetivos
 
-* Entender las necesidades de los clientes
+* Entender las necesidades de los clientes ([[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②]])
 * Definir el [[Perfil de un Negocio (Marketing Digital) ⚫①|perfil del negocio ⚫①]]
 * Delegar la ejecución en las personas elegidas
 * Supervisar los resultados

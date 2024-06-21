@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-06-10T15:26:26.788Z
+modified: 2024-06-21T20:14:06.542Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 124
+ver_rev: 126
 nav_primary: 
 nav_secondary: 
 tags:
@@ -101,6 +101,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Juegos
 
 * [[Aprender a jugar Ajedrez]]
+	* [[Encoclopedia de Aperturas en ajedrez]]
 * [[Aprender a jugar GO]]
 * [[Aprender a jugar Parchis]]
 
@@ -170,5 +171,6 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ## En proceso de inventario ...
 
 * [[Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)]]
+* [[Pidiendo ayuda sobre gestion de bibliografía general y en ciencia a una IA  ⚫①]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

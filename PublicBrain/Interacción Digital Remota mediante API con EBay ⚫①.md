@@ -57,7 +57,7 @@ tags:
 - [[Paginación y límites de resultados (IDRA-Ebay) 🔴②]]
 - [[Manejo de errores y excepciones (IDRA-EBay) 🔴②]]
 - [[Uso de filtros y parámetros de consulta avanzados (IDRA-Ebay) 🔴②]]
-- [[Optimización de consultas para mejorar el rendimiento (IDRA-Ebay)]] ⬛
+- [[Optimización de consultas para mejorar el rendimiento (IDRA-Ebay) 🔴②]]
 
 ## Consideraciones de Seguridad y Buenas Prácticas
 
@@ -81,12 +81,14 @@ tags:
 - [[Implementación de registros de actividad y seguimiento de eventos (IDRA-Ebay)]] ⬛
 
 ## Futuras Perspectivas y Desarrollos
+
 - [[Exploración de futuras actualizaciones y cambios en la API de eBay (IDRA-Ebay)]] ⬛
 - [[Tendencias en la interacción digital remota mediante APIs (IDRA-Ebay)]] ⬛
 - [[Oportunidades de expansión y crecimiento profesional en el campo (IDRA-Ebay)]] ⬛
 - [[Recursos adicionales y comunidades de desarrollo para seguir aprendiendo (IDRA-Ebay)]] ⬛
 
 ## Conclusión
+
 - [[Recapitulación de los conceptos clave aprendidos (IDRA-Ebay)]] ⬛
 - [[Reflexión sobre el aprendizaje y la aplicación práctica IDRA-Ebay]] ⬛
 - [[Siguientes pasos para seguir desarrollando habilidades en el campo de las APIs y eBay (IDRA-Ebay)]] ⬛

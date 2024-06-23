@@ -37,7 +37,7 @@ tags:
 
 ## III. Diseño Inclusivo en Videojuegos
 
-   - [[Fundamentos del diseño inclusivo]] ⬛
+   - [[Fundamentos del diseño inclusivo 🔴②]]
    - [[Consideraciones para el diseño de personajes]] ⬛
    - [[Interfaz de usuario accesible ⚫①]]
 

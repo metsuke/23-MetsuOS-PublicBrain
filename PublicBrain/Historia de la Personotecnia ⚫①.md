@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
 a11y: 0
 checked: 0
 lang: ES
@@ -12,13 +12,13 @@ ACCION: ""
 ver_major: 0
 ver_minor: 3
 ver_rev: 2
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Historia de la Personotecnia
+# Historia de la Personotecnia ⚫①
 
-[[Aprender sobre Personotecnia]]
+[[Aprender sobre Personotecnia ⚫①]]
 
 La Personotecnia, también conocida como tecnología de la personalidad, ha sido un tema de interés y estudio desde hace muchos años. A continuación, te presento un breve resumen de la historia de la Personotecnia:
 

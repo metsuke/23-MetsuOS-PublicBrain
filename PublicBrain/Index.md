@@ -77,7 +77,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre Economía y Finanzas]]
 * [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 * [[Aprender sobre Estructura Dinamica de Incentivos]]
-* [[Aprender sobre Personotecnia]]
+* [[Aprender sobre Personotecnia ⚫①]]
 
 ### Cocina
 

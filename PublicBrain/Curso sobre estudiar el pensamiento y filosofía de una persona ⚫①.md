@@ -42,7 +42,7 @@ tags:
 
    - [[Diseño de la investigación (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Selección de fuentes primarias y secundarias (Estudio pensamiento y filosofía de una persona) 🔴②]]
-   - [[Técnicas de análisis filosófico (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Técnicas de análisis filosófico (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Ética en la investigación filosófica (Estudio pensamiento y filosofía de una persona) ⚫①]]
    
 ## IV. Biografía del Individuo

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.940Z
-modified: 2024-06-10T15:14:13.568Z
+modified: 2024-06-23T14:17:50.108Z
 supervisado: 2024-06-02T21:36:18.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 87
+ver_rev: 88
 nav_primary: 
 nav_secondary: 
 tags:
@@ -59,7 +59,7 @@ WCAG 2.1 es una actualización de WCAG 2.0 que se centra en abordar las necesida
     - [[Pauta 7 - Identificación y orientación]] (Mejora)
         - 7.1.3 [[Etiquetas y nombre]] (Mejora)
     - **[[Pauta 8. Texto legible y comprensible]] (Mejora)**
-        - 8.1.4 Lectura (Mejora)
+        - 8.1.4 [[Lectura  -  WCAG 2.1  ⚫①]] (Mejora)
     - **Pauta 9. Operabilidad y navegación (Mejora)**
         - 9.1.4 Interacción de apuntar y activar (Mejora)
     - [[Pauta 10 - Compatibilidad]] (Mejora)

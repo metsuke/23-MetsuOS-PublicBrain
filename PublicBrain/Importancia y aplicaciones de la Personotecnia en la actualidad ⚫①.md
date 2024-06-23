@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-06-23T14:00:15.416Z
+modified: 2024-06-23T14:25:15.336Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Importancia y aplicaciones de la Personotecnia en la actualidad ⚫①
 
 [[Aprender sobre Personotecnia ⚫①]]

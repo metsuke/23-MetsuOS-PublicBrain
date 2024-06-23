@@ -51,7 +51,7 @@ tags:
 - Pensamiento crítico y creativo.
 - Habilidades de comunicación y colaboración.
 - Gestión del tiempo y recursos.
-- Adaptabilidad y flexibilidad.
+- [[Adaptabilidad y flexibilidad en CPS ⚫①]]
 - Metacognición y autorregulación.
 
 ### Métodos y Técnicas de Resolución de Problemas

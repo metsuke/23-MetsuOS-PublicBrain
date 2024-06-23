@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.551Z
-modified: 2024-06-17T09:47:10.192Z
+modified: 2024-06-23T11:58:32.934Z
 supervisado: 2024-06-01T21:11:34.527Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 92
+ver_rev: 93
 nav_primary: 
 nav_secondary: 
 tags:
@@ -116,7 +116,7 @@ tags:
 	* [[Consideraciones sobre Accesibilidad (a11y) en IA ⚫①]]
 	* [[Consideraciones sobre consumo energético en IA  ⚫①]]
 	* Consideraciones sobre el control de la IA
-	* Consideraciones sobre la simbiosis entre IA y Humano
+	* [[Consideraciones sobre la simbiosis entre IA y Humano ⚫①]]
 	* 
 		*  AMP-AI como copiloto del cerebro humano
 

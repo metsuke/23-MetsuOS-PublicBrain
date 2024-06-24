@@ -9,24 +9,24 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-20T18:59:58.955Z
-modified: 2024-06-20T19:02:10.304Z
+modified: 2024-06-24T08:53:37.252Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Prahalad & Hamel, 1990, p. 82  🔴②
+# Prahalad & Hamel, 1990, p. 82 🔬 🔴②
 
 [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 
 ## Contexto
 ### La competencia central como impulsor de la ventaja competitiva sostenible
 
-En su artículo seminal [[Paper - "La competencia central de la corporación" (1990), C.K. Prahalad y Gary Hamel  🔴②]] presentaron el concepto de competencia central como un impulsor clave de la ventaja competitiva sostenible. En la página 82, ellos profundizaron en las características de las competencias centrales y cómo pueden ser aprovechadas para crear valor para los clientes.
+En su artículo seminal [[Paper - "La competencia central de la corporación" (1990), C.K. Prahalad y Gary Hamel 🔬🔴②]] presentaron el concepto de competencia central como un impulsor clave de la ventaja competitiva sostenible. En la página 82, ellos profundizaron en las características de las competencias centrales y cómo pueden ser aprovechadas para crear valor para los clientes.
 
 ## Características de las competencias centrales
 ### Identificando las claves de la ventaja competitiva

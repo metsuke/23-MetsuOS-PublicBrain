@@ -9,20 +9,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-20T19:08:05.327Z
-modified: 2024-06-21T20:00:50.449Z
+modified: 2024-06-24T08:53:37.298Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 3
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Paper - "La competencia central de la corporación" (1990), C.K. Prahalad y Gary Hamel  🔴②
+# Paper - "La competencia central de la corporación" (1990), C.K. Prahalad y Gary Hamel 🔬🔴②
 
-* [[Prahalad & Hamel, 1990, p. 82  🔴②]]
-* Leer en:
+* [[Prahalad & Hamel, 1990, p. 82 🔬 🔴②]]
+* Leer en (TODO):
 	* [PDF The Core Competence of the Corporation | Semantic Scholar](https://www.semanticscholar.org/paper/The-Core-Competence-of-the-Corporation-Prahalad-Hamel/47e178921055335a116b2dc99716e72c0a2f03b4)
 	* [The Core Competence of the Corporation | SpringerLink](https://link.springer.com/chapter/10.1007/3-540-30763-X_14)
 	
@@ -120,9 +120,8 @@ En conclusión, "La competencia central de la corporación" es un paper seminal 
 * Prahalad, C. K., & Hamel, G. (1990). The core competence of the corporation. Harvard Business Review, 68(3), 79-91.
 
 ## Referencias que refutan el contenido
------------------------------------------
 
 * Porter, M. E. (1996). What is strategy? Harvard Business Review, 74(6), 61-78. (Argumenta que la competencia central no es suficiente para garantizar el éxito a largo plazo)
 * Barney, J. B. (1991). Firm resources and sustained competitive advantage. Journal of Management, 17(1), 99-120. (Cuestiona la idea de que la competencia central sea la clave para la ventaja competitiva)
 
-
+![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

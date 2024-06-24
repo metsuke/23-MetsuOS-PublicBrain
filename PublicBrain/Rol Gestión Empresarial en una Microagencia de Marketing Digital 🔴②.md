@@ -33,8 +33,8 @@ En una microagencia de marketing digital es clave el rol de gestión empresarial
 ## Objetivos
 
 * Entender las necesidades de los clientes ([[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②]])
-* Definir el [[Perfil de un Negocio (Marketing Digital) ⚫①|perfil del negocio ⚫①]]
-* Delegar la ejecución en las personas elegidas
+* Definir el [[Perfil de un Negocio (Marketing Digital) ⚫①|perfil del negocio ⚫①]] ([[Paradigma - Teoría de la Planificación Estratégica - Prahalad & Hamel, 1990  🔍️ 🔴②]])
+* Delegar la ejecución en las personas elegidas  ([[Paradigma - Teoría de la Delegación 🔍️ 🔴②]])
 * Supervisar los resultados
 
 ## Procesos

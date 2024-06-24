@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.524Z
-modified: 2024-06-10T15:14:14.116Z
+modified: 2024-06-24T17:35:34.826Z
 supervisado: 2024-06-03T18:35:40.073Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 93
+ver_rev: 94
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,7 +33,7 @@ tags:
 
 * [[Introducción a Neurología Cerebral y su aplicación en la Neuroeducación (Altas Capacidades) 🔴②]]
 - [[Funcionamiento cerebral en personas de alta capacidad 🔴②]]
-- [[Estrategias neuroeducativas efectivas (Altas Capacidades)]]
+- [[Estrategias neuroeducativas efectivas (Altas Capacidades) 🔴②]]
 
 ## [[Tema 3 - Situación Educativa de las AA. CC. en España]]
 - [[Panorama actual (Educativa de las AA. CC. en España)]]

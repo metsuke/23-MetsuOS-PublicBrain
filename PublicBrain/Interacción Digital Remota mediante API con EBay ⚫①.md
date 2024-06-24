@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.694Z
-modified: 2024-06-23T14:09:08.267Z
+modified: 2024-06-24T16:30:29.709Z
 supervisado: 2024-06-05T18:09:29.680Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 95
+ver_rev: 96
 nav_primary: 
 nav_secondary: 
 tags:
@@ -61,7 +61,7 @@ tags:
 
 ## Consideraciones de Seguridad y Buenas Prácticas
 
-- [[Principios de seguridad en la interacción con APIs (IDRA-Ebay)]] ⬛
+- [[Principios de seguridad en la interacción con APIs (IDRA-Ebay) 🔴②]]
 - [[Protección de credenciales de API (IDRA-Ebay)]] ⬛
 - [[Autenticación segura (IDRA-Ebay)]] ⬛
 - [[Encriptación de datos sensibles (IDRA-Ebay)]] ⬛

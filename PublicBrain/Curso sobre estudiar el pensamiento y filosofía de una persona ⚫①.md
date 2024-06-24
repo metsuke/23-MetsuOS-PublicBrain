@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-06-23T13:57:31.200Z
+modified: 2024-06-24T19:56:29.842Z
 supervisado: 2024-06-05T18:07:29.324Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 78
+ver_rev: 79
 nav_primary: 
 nav_secondary: 
 tags:
@@ -47,7 +47,7 @@ tags:
    
 ## IV. Biografía del Individuo
 
-   - [[Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Formación académica y educación (Estudio pensamiento y filosofía de una persona) ⚫①]]
    - [[Influencias intelectuales y filosóficas (Estudio pensamiento y filosofía de una persona) ⚫①]]
    

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) 🔴②.md",
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) 🔴②.md",
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) 🔴②.md",
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) 🔴②.md"
+                "file": "PublicBrain/Aprender sobre PixiJS ⚫①.md"
               }
             }
           },
@@ -165,7 +165,10 @@
   },
   "active": "13deabf13c40adc1",
   "lastOpenFiles": [
+    "PublicBrain/Creación de botones y elementos interactivos en PixiJS 🔴②.md",
+    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
+    "PublicBrain/Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) 🔴②.md",
     "PublicBrain/Pesos y bias (Redes Neuronales) 🔴②.md",
     "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
     "PublicBrain/Aprender sobre Altas Capacidades ⚫①.md",
@@ -188,9 +191,6 @@
     "PublicBrain/Aprender sobre Accesibilidad en ELearining ⚫①.md",
     "PublicBrain/Ejemplos de barreras visuales, auditivas, motoras y cognitivas 🔴②.md",
     "PublicBrain/WCAG 2.1 ⚫①.md",
-    "PublicBrain/Lectura  -  WCAG 2.1  ⚫①.md",
-    "Lectura.md",
-    "PublicBrain/Importancia y aplicaciones de la Personotecnia en la actualidad ⚫①.md",
     "PublicBrain/_resources/Aprender sobre Inteligencia Artificial ⚫①",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",

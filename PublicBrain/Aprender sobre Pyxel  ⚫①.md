@@ -45,7 +45,7 @@ tags:
 ## Sonido y Música en Pyxel
 
 - [[Reproducción de sonidos y efectos de sonido en Pyxel 🔴②]]
-- [[Creación de música de fondo y bucles de audio en Pyxel ⚫①]]
+- [[Creación de música de fondo y bucles de audio en Pyxel 🔴②]]
 - [[Uso de librerías externas para generar y reproducir audio en Pyxel ⚫①]]
 
 ## Interacción del Usuario en Pyxel

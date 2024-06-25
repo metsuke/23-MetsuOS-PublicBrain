@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "き.md",
+                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "き.md",
+                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "き.md",
+                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "き.md"
+                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "13deabf13c40adc1",
   "lastOpenFiles": [
+    "PublicBrain/便.md",
+    "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "き.md",
     "PublicBrain/Hiragana.md",
     "PublicBrain/な.md",
-    "き.md",
     "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
     "PublicBrain/Creación de música de fondo y bucles de audio en Pyxel 🔴②.md",
     "PublicBrain/Aprender sobre PixiJS ⚫①.md",
@@ -189,8 +191,6 @@
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
     "PublicBrain/Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) 🔴②.md",
     "PublicBrain/Pesos y bias (Redes Neuronales) 🔴②.md",
-    "PublicBrain/Estructura y funcionamiento de las redes neuronales ⚫①.md",
-    "PublicBrain/Aprender sobre Altas Capacidades ⚫①.md",
     "PublicBrain/_resources/Aprender sobre Inteligencia Artificial ⚫①",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",

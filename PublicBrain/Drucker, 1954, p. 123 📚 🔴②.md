@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-24T08:45:24.685Z
-modified: 2024-06-24T08:50:10.312Z
+modified: 2024-06-25T04:51:00.924Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 
-En su obra "La Práctica de la Dirección" (1954), Peter Drucker destaca la importancia de la delegación efectiva en la gestión. Según Drucker, la delegación es una herramienta fundamental para los gerentes, ya que les permite concentrarse en las tareas más importantes y delegar responsabilidades a otros miembros del equipo.
+En su obra [[Libro - "The Practice of Management" (1954) 📚 🔴②]], Peter Drucker destaca la importancia de la delegación efectiva en la gestión. Según Drucker, la delegación es una herramienta fundamental para los gerentes, ya que les permite concentrarse en las tareas más importantes y delegar responsabilidades a otros miembros del equipo.
 
 ## Ventajas de la Delegación Efectiva
 
@@ -86,7 +86,7 @@ Si no se establecen límites claros, los empleados pueden sentirse abrumados o c
 * Yukl, G. (2013). Leadership in Organizations. Pearson Education. (Capítulo 10: Delegation and Empowerment)
 * Katzenbach, J. R., & Smith, D. K. (1993). The Wisdom of Teams. Harvard Business Review Press. (Capítulo 5: Delegation and Empowerment)
 
-## Referencias que Refutan el contenido
+## Referencias que Refutan el contenido
 
 * Mintzberg, H. (1973). The Nature of Managerial Work. Harper & Row. (Critica la delegación como una herramienta de gestión efectiva)
 * McGregor, D. (1960). The Human Side of Enterprise. McGraw-Hill. (Critica la delegación como una forma de control y no de desarrollo de los empleados)

@@ -45,7 +45,7 @@ Aunque el hiragana se usa principalmente en palabras nativas y partículas grama
 Dominar el hiragana es un paso importante en el aprendizaje del idioma [[Japonés]] y te permitirá leer y escribir palabras básicas y expresiones comunes.
 
 [[あ]] [[い]] [[う]] [[え]] [[お]] 
-[[か]] き [[く]] [[け]] [[こ]] 
+[[か]] [[き]] [[く]] [[け]] [[こ]] 
 さ [[し]] す せ [[そ]] 
 た ち [[つ]] て [[と]] 
 [[な]] [[に]] ぬ [[ね]] [[の]] 

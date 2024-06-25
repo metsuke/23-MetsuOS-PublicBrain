@@ -1,5 +1,5 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo, llama3-70b-8192
 iaStatus_Generado: "I"
 iaStatus_Supervisado: "H"
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T21:01:17.988Z
-modified: 2024-06-10T15:26:27.014Z
+modified: 2024-06-25T17:38:16.667Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:

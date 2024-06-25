@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "Pruebas de vocabulario y gramática (A2-CA).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "Pruebas de vocabulario y gramática (A2-CA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+                "file": "Pruebas de vocabulario y gramática (A2-CA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md"
+                "file": "Pruebas de vocabulario y gramática (A2-CA).md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "13deabf13c40adc1",
   "lastOpenFiles": [
-    "PublicBrain/便.md",
+    "PublicBrain/A2-CA.md",
+    "Pruebas de vocabulario y gramática (A2-CA).md",
     "PublicBrain/Kanji - Grado 4 - Jôyô kanji.md",
+    "PublicBrain/便.md",
     "き.md",
     "PublicBrain/Hiragana.md",
     "PublicBrain/な.md",
@@ -189,8 +191,6 @@
     "PublicBrain/Reproducción de sonidos y efectos de sonido en Pyxel 🔴②.md",
     "PublicBrain/Creación de botones y elementos interactivos en PixiJS 🔴②.md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
-    "PublicBrain/Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) 🔴②.md",
-    "PublicBrain/Pesos y bias (Redes Neuronales) 🔴②.md",
     "PublicBrain/_resources/Aprender sobre Inteligencia Artificial ⚫①",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",

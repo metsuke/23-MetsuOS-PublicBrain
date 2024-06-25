@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.371Z
-modified: 2024-06-10T15:26:27.225Z
+modified: 2024-06-25T19:33:00.066Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 84
+ver_rev: 85
 nav_primary: 
 nav_secondary: 
 tags:
@@ -76,7 +76,7 @@ tags:
 
 ## Módulo 8: Evaluación y Pruebas Finales
 
-8.1. Pruebas de vocabulario y gramática.
+8.1. [[Pruebas de vocabulario y gramática (A2-CA)]]
 8.2. Ejercicios de comprensión de lectura y audición.
 8.3. Diálogos y actividades de expresión oral.
 8.4. Evaluación final del nivel A2 de catalán.

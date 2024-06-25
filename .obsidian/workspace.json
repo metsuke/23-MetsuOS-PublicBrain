@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad ⚫①.md",
+                "file": "PublicBrain/Protección de credenciales de API (IDRA-Ebay).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad ⚫①.md",
+                "file": "PublicBrain/Protección de credenciales de API (IDRA-Ebay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad ⚫①.md",
+                "file": "PublicBrain/Protección de credenciales de API (IDRA-Ebay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Aprender sobre Accesibilidad ⚫①.md"
+                "file": "PublicBrain/Protección de credenciales de API (IDRA-Ebay).md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "13deabf13c40adc1",
   "lastOpenFiles": [
-    "Uso de sinónimos para mejorar la comprensión (Lectura Fácil) ⚫①.md",
+    "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
+    "PublicBrain/Uso de sinónimos para mejorar la comprensión (Lectura Fácil) ⚫①.md",
     "PublicBrain/Aprender sobre Accesibilidad ⚫①.md",
+    "Uso de sinónimos para mejorar la comprensión (Lectura Fácil) ⚫①.md",
     "PublicBrain/Index.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
     "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
@@ -185,12 +187,10 @@
     "PublicBrain/Aprender sobre Altas Capacidades ⚫①.md",
     "PublicBrain/Estrategias neuroeducativas efectivas (Altas Capacidades) 🔴②.md",
     "PublicBrain/Principios de seguridad en la interacción con APIs (IDRA-Ebay) 🔴②.md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
     "PublicBrain/Paradigma - Teoría de la Delegación 🔍️ 🔴②.md",
     "PublicBrain/Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚 🔴②.md",
     "Drucker, 1954, p. 123 📚 🔴②.md",
     "Paradigma - Teoría de la Delegación 🔍️ 🔴②.md",
-    "PublicBrain/Prahalad & Hamel, 1990, p. 82 🔬 🔴②.md",
     "PublicBrain/_resources/Aprender sobre Inteligencia Artificial ⚫①",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",

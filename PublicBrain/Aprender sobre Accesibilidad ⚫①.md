@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.521Z
-modified: 2024-06-10T15:26:27.152Z
+modified: 2024-06-25T06:30:50.951Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 79
+ver_rev: 80
 nav_primary: 
 nav_secondary: 
 tags:
@@ -98,7 +98,7 @@ tags:
 	* Evitar términos discriminatorios
 * Adaptación de Vocabulario
 	* Sustitución de palabras complicadas por términos más familiares
-	* Uso de sinónimos para mejorar la comprensión
+	* [[Uso de sinónimos para mejorar la comprensión (Lectura Fácil) ⚫①]]
 * Estructura de Párrafos y Oraciones
 	* Oraciones cortas y directas
 	* Párrafos concisos para facilitar la lectura

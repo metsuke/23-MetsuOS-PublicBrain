@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-20T18:59:58.955Z
-modified: 2024-06-24T08:53:37.252Z
+modified: 2024-06-27T21:51:25.387Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Prahalad & Hamel, 1990, p. 82 🔬 🔴②
+# Paper - Prahalad & Hamel, 1990, p. 82 🔬 🔴②
 
 [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 

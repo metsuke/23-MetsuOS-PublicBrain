@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-25T04:48:08.559Z
-modified: 2024-06-25T04:52:10.820Z
+modified: 2024-06-27T21:50:59.980Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Libro - "The Practice of Management" (1954) 📚 🔴②
 
-[[Drucker, 1954, p. 123 📚 🔴②]]
+[[Libro - Drucker, 1954, p. 123 📚 🔴②]]
 
 ## Resumen
 

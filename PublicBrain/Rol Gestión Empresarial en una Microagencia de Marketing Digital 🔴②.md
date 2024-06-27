@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.654Z
-modified: 2024-06-24T08:59:43.883Z
+modified: 2024-06-27T21:47:09.600Z
 supervisado: 2024-06-10T14:35:11.610Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 33
+ver_rev: 34
 nav_primary: 
 nav_secondary: 
 tags:
@@ -35,7 +35,7 @@ En una microagencia de marketing digital es clave el rol de gestión empresarial
 * Entender las necesidades de los clientes ([[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②]])
 * Definir el [[Perfil de un Negocio (Marketing Digital) ⚫①|perfil del negocio ⚫①]] ([[Paradigma - Teoría de la Planificación Estratégica - Prahalad & Hamel, 1990  🔍️ 🔴②]])
 * Delegar la ejecución en las personas elegidas  ([[Paradigma - Teoría de la Delegación 🔍️ 🔴②]])
-* Supervisar los resultados
+* Supervisar los resultados ([[Paradigma - Teoría del Control de Gestión 🔴②]])
 
 ## Procesos
 

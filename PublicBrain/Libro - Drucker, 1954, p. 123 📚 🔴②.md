@@ -1,25 +1,25 @@
 ---
 iaStatus: 8
 iaStatus_Model: llama3-70b-8192
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-06-24T08:45:24.685Z
-modified: 2024-06-25T04:51:00.924Z
+modified: 2024-06-27T21:51:04.977Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Drucker, 1954, p. 123 📚 🔴②
+# Libro - Drucker, 1954, p. 123 📚 🔴②
 
 [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 

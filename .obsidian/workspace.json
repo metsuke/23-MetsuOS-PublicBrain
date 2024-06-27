@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/A1-SW.md",
+                "file": "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32a695a1ac46a7b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/A1-SW.md",
+                "file": "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/A1-SW.md",
+                "file": "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/A1-SW.md"
+                "file": "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①.md"
               }
             }
           },
@@ -163,10 +176,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "13deabf13c40adc1",
+  "active": "32a695a1ac46a7b1",
   "lastOpenFiles": [
-    "Interacciones turísticas (A1-SW) ⚫①.md",
+    "PublicBrain/Porter, 1985, p. 45 🔴②.md",
+    "Porter, 1985, p. 45 🔴②.md",
+    "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①.md",
+    "PublicBrain/Paradigma - Teoría del Control de Gestión 🔴②.md",
+    "PublicBrain/Paper - Prahalad & Hamel, 1990, p. 82 🔬 🔴②.md",
+    "PublicBrain/Libro - Drucker, 1954, p. 123 📚 🔴②.md",
+    "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
+    "PublicBrain/_resources/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
+    "Paradigma - Teoría del Control de Gestión 🔴②.md",
     "PublicBrain/A1-SW.md",
+    "PublicBrain/Interacciones turísticas (A1-SW) ⚫①.md",
+    "Interacciones turísticas (A1-SW) ⚫①.md",
     "PublicBrain/Aprender Idioma Swahili.md",
     "PublicBrain/Aprender Idiomas ⚫①.md",
     "PublicBrain/Index.md",
@@ -181,16 +205,6 @@
     "PublicBrain/Hiragana.md",
     "PublicBrain/な.md",
     "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
-    "PublicBrain/Creación de música de fondo y bucles de audio en Pyxel 🔴②.md",
-    "PublicBrain/Aprender sobre PixiJS ⚫①.md",
-    "PublicBrain/Gestión de eventos y detección de colisiones en PixiJS 🔴②.md",
-    "PublicBrain/Protección de credenciales de API (IDRA-Ebay).md",
-    "PublicBrain/Interacción Digital Remota mediante API con EBay ⚫①.md",
-    "PublicBrain/Uso de sinónimos para mejorar la comprensión (Lectura Fácil) ⚫①.md",
-    "PublicBrain/Aprender sobre Accesibilidad ⚫①.md",
-    "Uso de sinónimos para mejorar la comprensión (Lectura Fácil) ⚫①.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
-    "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
     "PublicBrain/_resources/Aprender sobre Inteligencia Artificial ⚫①",
     "PublicBrain/_resources/Rol Expertos en SEO",
     "PublicBrain/_resources/Rol Expertos en PPC",
@@ -200,7 +214,6 @@
     "PublicBrain/_resources/Departamento Marketing (Microagencia Marketing Digital)",
     "_resources/El Proyecto (WOI)",
     "PublicBrain/_resources/Aprender sobre CPS (Complex Problem Solving) ⚫①",
-    "PublicBrain/_resources/Rol Gestión Empresarial",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

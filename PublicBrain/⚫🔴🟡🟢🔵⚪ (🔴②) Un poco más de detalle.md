@@ -50,11 +50,13 @@ Aquí estoy afinando la descripción y características de cada nivel, a la par 
 * El conjunto se afina en formateo por parte de un humano.
 * El conjunto se lee por parte de un humano en busca de errores que puedan corregirse tanto en contenido como en redacción y coherencia básica.
 
-AQUI ESTA LA PUNTA DE LANZA PARA LLEVARLO A LA PRÁCTICA:
+---
+AQUI ESTA, EN ESTE MOMENTO,  LA PUNTA DE LANZA PARA LLEVARLO A LA PRÁCTICA:
 
 * [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②]]
 * [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 
+---
 ## 🟡③ - Yellow3 - Conocimiento Crítico.
 
 * Se abre la posibilidad de otras perspectivas.

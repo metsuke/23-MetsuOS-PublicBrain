@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-04T18:51:41.947Z
-modified: 2024-06-10T14:43:32.805Z
+modified: 2024-06-30T13:20:16.769Z
 supervisado: 2024-06-10T14:43:32.805Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: -1
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
@@ -49,6 +49,11 @@ Aquí estoy afinando la descripción y características de cada nivel, a la par 
 * En esta fase nos fiamos de la fuiente (humano o IA),  asumiendolas en tanto no las compribamos en una fase posterior.
 * El conjunto se afina en formateo por parte de un humano.
 * El conjunto se lee por parte de un humano en busca de errores que puedan corregirse tanto en contenido como en redacción y coherencia básica.
+
+AQUI ESTA LA PUNTA DE LANZA PARA LLEVARLO A LA PRÁCTICA:
+
+* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②]]
+* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 
 ## 🟡③ - Yellow3 - Conocimiento Crítico.
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-06-23T14:00:46.552Z
+modified: 2024-06-29T15:45:56.150Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 127
+ver_rev: 128
 nav_primary: 
 nav_secondary: 
 tags:
@@ -162,6 +162,10 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ## Elementos experimentales...
 
+* [[Enciclopedia con audio y mini gramófono]]
+
+* [[Pidiendo ayuda sobre gestion de bibliografía general y en ciencia a una IA  ⚫①]]
+
 * [[Patrocinadores de Carlos Alcaraz, estudio por pais de los inversores ⚫①]]
 * [[Patrocinadores de Rafa Nadal, estudio por pais de los inversores ⚫①]]
 
@@ -171,6 +175,5 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ## En proceso de inventario ...
 
 * [[Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)]]
-* [[Pidiendo ayuda sobre gestion de bibliografía general y en ciencia a una IA  ⚫①]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

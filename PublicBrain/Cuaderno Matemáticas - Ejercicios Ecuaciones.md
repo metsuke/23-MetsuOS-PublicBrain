@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T20:03:17.227Z
-modified: 2024-06-10T15:26:27.008Z
+modified: 2024-06-30T10:31:46.508Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -52,4 +52,8 @@ $$
 
 #### -x^2+5x-3=0
 
-$$-x^2+5x-3=0$$
+$$-x^2+5x-3=0 \Rightarrow x = \frac{{-5 \pm \sqrt{{5^2 - 4(-1)(-3)}}}}{{2(-1)}} \Rightarrow x = \frac{{-5 \pm \sqrt{{25 - 12}}}}{{-2}} \Rightarrow x = \frac{{-5 \pm \sqrt{{13}}}}{{-2}} \Rightarrow(1)$$
+
+$$(1) \Rightarrow soluciones \space x = \frac{{-5 + \sqrt{{13}}}}{{-2}} \space y \space x = \frac{{-5 - \sqrt{{13}}}}{{-2}}$$
+
+---

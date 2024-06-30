@@ -48,7 +48,7 @@ tags:
 ## IV. Biografía del Individuo
 
    - [[Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) 🔴②]]
-   - [[Formación académica y educación (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Formación académica y educación (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Influencias intelectuales y filosóficas (Estudio pensamiento y filosofía de una persona) ⚫①]]
    
 ## V. Contexto Histórico y Cultural

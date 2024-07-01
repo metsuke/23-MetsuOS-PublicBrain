@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-27T21:51:57.557Z
-modified: 2024-06-27T21:54:48.756Z
+modified: 2024-07-01T17:55:03.739Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,7 +25,7 @@ tags:
 
 ## Introducción
 
-En el contexto de la teoría del control de gestión, Michael Porter (1985) hace una contribución significativa en su libro "Competitive Advantage: Creating and Sustaining Superior Performance". En la página 45, Porter presenta una visión innovadora sobre la relación entre la estrategia y el control de gestión, que ha tenido un impacto duradero en la forma en que las organizaciones abordan la planificación y el control de sus actividades.
+En el contexto de la teoría del control de gestión, Porter hace una contribución significativa en su [[Libro - Competitive Advantage Creating and Sustaining Superior Performance - Michael Porter 1985 📚⚫①]]. En la página 45, Porter presenta una visión innovadora sobre la relación entre la estrategia y el control de gestión, que ha tenido un impacto duradero en la forma en que las organizaciones abordan la planificación y el control de sus actividades.
 
 ## La Teoría del Control de Gestión
 

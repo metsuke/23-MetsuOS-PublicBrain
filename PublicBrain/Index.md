@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-06-30T13:45:03.068Z
+modified: 2024-07-03T21:39:21.337Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 129
+ver_rev: 131
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,7 +25,7 @@ tags:
 
 [[Docs Database]] | [[IA Database]] | [[Promting Database ⚫①]] | [[Tools Database ⚫①]] | [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
 
-[[Arrojando Luz sobre Polémicas Linguísticas]] | [[GPT4All Testing]]
+[[Arrojando Luz sobre Polémicas Linguísticas]] | [[GPT4All Testing]] | [[Creando MetsuOS ⚫①]]
 
 DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo frío y "aburrido", pero recuerden, una vez establecido el contenido, comprobado y gestionado por parte de un humano en fases subsiguientes, la calidez y empatía de la forma de comunicarlo puede modularse dinámicamente y el mensaje ser personalizado, mediante IA, tomando en cuenta todo tipo de parámetros.
 
@@ -175,5 +175,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ## En proceso de inventario ...
 
 * [[Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)]]
+
+![[Apoya el proyecto#MetsuOS Needs You!]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

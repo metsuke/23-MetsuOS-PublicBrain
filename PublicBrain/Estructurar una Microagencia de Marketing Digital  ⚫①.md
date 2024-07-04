@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-06-10T15:14:13.938Z
+modified: 2024-07-03T21:40:18.191Z
 supervisado: 2024-06-09T21:35:05.959Z
 ACCION: 
 ver_major: 0
 ver_minor: 5
-ver_rev: 139
+ver_rev: 140
 nav_primary: 
 nav_secondary: 
 tags:
@@ -91,5 +91,7 @@ graph TD
 * Fase 4: Modelar cada uno de los elementos de responsabilidad, etc, etc, etc) ... FUTURE
 * Fase 5: Enlazar esto con la ejecución real de las diferentes tareas via MetsuOS ... FUTURE
 * Fase 6: Georgi Dan ... FUTURE
+
+![[Apoya el proyecto#MetsuOS Needs You!]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

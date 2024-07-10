@@ -41,7 +41,7 @@ tags:
 * [[Identificación de la Audiencia en Storytelling]]
 	* [[Cómo conocer a tu audiencia en Storytelling]]
 	* [[La importancia de la empatía en Storytelling]]
-* Desarrollo de Personajes
+* [[Desarrollo de Personajes]]
 	* [[Creación y desarrollo de personajes memorables en Storytelling]]
 	* [[Arcos de personajes en Storytelling]]
 * [[Construcción de la Trama en Storytelling]]

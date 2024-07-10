@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dispositivos de red -  routers, switches, hubs, firewalls ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Storytelling ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dispositivos de red -  routers, switches, hubs, firewalls ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Storytelling ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dispositivos de red -  routers, switches, hubs, firewalls ⚫①.md",
+                "file": "PublicBrain/Aprender sobre Storytelling ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dispositivos de red -  routers, switches, hubs, firewalls ⚫①.md"
+                "file": "PublicBrain/Aprender sobre Storytelling ⚫①.md"
               }
             }
           },
@@ -165,11 +165,13 @@
   },
   "active": "32a695a1ac46a7b1",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre Redes e Internet.md",
+    "Desarrollo de Personajes.md",
+    "PublicBrain/Aprender sobre Storytelling ⚫①.md",
+    "PublicBrain/Index.md",
     "Dispositivos de red -  routers, switches, hubs, firewalls ⚫①.md",
+    "PublicBrain/Aprender sobre Redes e Internet.md",
     "PublicBrain/Aprender sobre Diseño de Arquitectura en la Nube ⚫①.md",
     "Automatización de despliegues y configuraciones con herramientas como Terraform y Ansible ⚫①.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
     "PublicBrain/Influencias intelectuales y filosóficas (Estudio pensamiento y filosofía de una persona) 🔴②.md",
     "PublicBrain/Aprender con Javier G. Recuenco ⚫①.md",
@@ -191,8 +193,6 @@
     "PublicBrain/Apoya el proyecto.md",
     "Apoya el proyecto.md",
     "PublicBrain/PublicIndex/Index.md",
-    "Creando MetsuOS.md",
-    "PublicBrain/Kotler, 2003, p. 241 📚 🔴②.md",
     "PublicBrain/_resources/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②",
     "PublicBrain/_resources/Aprender sobre Inteligencia Artificial ⚫①",
     "PublicBrain/_resources/Rol Expertos en SEO",

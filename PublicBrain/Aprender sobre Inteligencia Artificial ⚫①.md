@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.551Z
-modified: 2024-06-30T16:08:40.377Z
+modified: 2024-07-10T20:21:35.267Z
 supervisado: 2024-06-01T21:11:34.527Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 94
+ver_rev: 95
 nav_primary: 
 nav_secondary: 
 tags:
@@ -117,8 +117,7 @@ tags:
 	* [[Consideraciones sobre consumo energético en IA  ⚫①]]
 	* [[Consideraciones sobre el control de la IA ⚫①]]
 	* [[Consideraciones sobre la simbiosis entre IA y Humano ⚫①]]
-	* 
-		*  AMP-AI como copiloto del cerebro humano
+	* [[AMP-AI como copiloto del cerebro humano ⚫①]]
 
 * Implementación de Redes Neuronales en Python
 	* Implementación de Redes Neuronales en Python + numpy

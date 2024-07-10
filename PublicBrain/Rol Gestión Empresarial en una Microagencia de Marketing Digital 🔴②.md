@@ -84,6 +84,4 @@ Nota: Se han utilizado fuentes académicas y de autoridad en el campo del market
 * [Escuela de Negocios 🌐](https://platzi.com/escuela/negocios/)
 * [Escuela de Inglés 🌐](https://platzi.com/escuela/ingles/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
-
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

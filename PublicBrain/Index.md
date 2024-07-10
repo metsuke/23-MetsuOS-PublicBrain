@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-07-03T21:39:21.337Z
+modified: 2024-07-06T16:57:52.081Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 131
+ver_rev: 134
 nav_primary: 
 nav_secondary: 
 tags:
@@ -176,6 +176,4 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)]]
 
-![[Apoya el proyecto#MetsuOS Needs You!]]
-
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

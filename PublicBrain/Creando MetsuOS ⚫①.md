@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-03T20:09:00.383Z
-modified: 2024-07-04T18:41:23.177Z
+modified: 2024-07-05T05:31:52.448Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -106,3 +106,4 @@ o
 "Desarrollar un sistema operativo que gestione tareas automáticas y manuales con apoyo de inteligencia artificial (IA). El sistema operativo debe ser escalable, flexible y accesible para todos los usuarios. El sistema operativo consta de un servidor que utiliza FastAPI para crear una API RESTful, un cliente local que interactúa con el servidor y un cliente web que permite a los usuarios gestionar las tareas a través de una interfaz web. El sistema operativo debe ser seguro, accesible y escalable. ¿Cuál es el ***aspecto específico del sistema operativo que deseas saber más sobre***?"
 
 Por ejemplo, ¿cómo se implementa la autenticación y autorización en el sistema operativo? ¿Cómo se garantiza la accesibilidad en la interfaz de usuario del cliente web? ¿Cuáles son los requisitos de seguridad para la comunicación entre componentes?"
+

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-10T14:35:01.633Z
-modified: 2024-07-02T20:02:31.802Z
+modified: 2024-07-05T11:28:20.648Z
 supervisado: 2024-06-10T14:43:12.089Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 18
+ver_rev: 20
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,7 +36,7 @@ Los objetivos del rol de gestión empresarial en una microagencia de marketing d
 
 * Entender las necesidades de los clientes: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②]], que se centra en comprender las necesidades y deseos de los clientes para desarrollar estrategias efectivas ([[Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②]], p. 5)**.
 * Definir el perfil del negocio: Esta idea se relaciona con el [[Paradigma - Teoría de la Planificación Estratégica - Prahalad & Hamel, 1990  🔍️ 🔴②]], que se centra en analizar la situación actual de la empresa y definir objetivos y estrategias para alcanzarlos ([[Paper - Prahalad & Hamel, 1990, p. 82 🔬 🔴②]]).
-* Delegar la ejecución en las personas elegidas: Esta idea se basa en el [[Paradigma - Teoría de la Delegación 🔍️ 🔴②]], que se centra en asignar responsabilidades y autoridad a los empleados para que puedan realizar tareas específicas ([[Libro - Drucker, 1954, p. 123 📚 🔴②]]).
+* Delegar la ejecución en las personas elegidas: Esta idea se basa en el [[Paradigma - Teoría de la Delegación 🔍️ 🔴②]], que se centra en asignar responsabilidades y autoridad a los empleados para que puedan realizar tareas específicas ([[Concepto - Delegación Efectiva - Drucker, 1954 📚 🔴②]]).
 * Supervisar los resultados: Esta idea se relaciona con el [[Paradigma - Teoría del Control de Gestión 🔴②]], que se centra en monitorear y evaluar el desempeño de la empresa para asegurar que se alcanzan los objetivos ([[Porter, 1985, p. 45 🔴②]]).
 
 ## Procesos
@@ -68,4 +68,4 @@ El texto describe cuatro procesos clave para el rol de gestión empresarial en u
 
 En conclusión, el texto presenta un análisis exhaustivo del rol de gestión empresarial en una microagencia de marketing digital, asociando las referencias bibliográficas detalladas y exhaustivamente con cada una de las ideas presentadas, incluyendo páginas concretas de las referencias.
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

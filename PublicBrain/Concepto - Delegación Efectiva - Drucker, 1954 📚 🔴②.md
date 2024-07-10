@@ -9,21 +9,35 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-24T08:45:24.685Z
-modified: 2024-06-27T21:51:04.977Z
+modified: 2024-07-05T11:28:20.521Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Libro - Drucker, 1954, p. 123 📚 🔴②
+# Concepto - Delegación Efectiva - Drucker, 1954 📚 🔴②
 
 [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 
 En su obra [[Libro - "The Practice of Management" (1954) 📚 🔴②]], Peter Drucker destaca la importancia de la delegación efectiva en la gestión. Según Drucker, la delegación es una herramienta fundamental para los gerentes, ya que les permite concentrarse en las tareas más importantes y delegar responsabilidades a otros miembros del equipo.
+
+** Esto de las referencias a páginas concretas de algo que tiene varias ediciones no me acaba de convencer, tengo que darle una vuelta al método para que tenga sentido y se pueda localizar la información en cualquier edición de un modo racional. **
+## Sobre la página "123"
+
+En "The Practice of Management" (1954) de Peter Drucker, la delegación efectiva es un tema recurrente en varios capítulos. Aunque no hay una sección específica que se titule "Delegación Efectiva", hay varios pasajes que abordan este tema de manera explícita.
+
+Aquí te menciono algunos de los lugares donde Drucker habla sobre delegación efectiva:
+
+1. **Capítulo 5: "The Manager's Job"**: En este capítulo, Drucker destaca la importancia de la delegación como una de las responsabilidades clave del gerente. Argumenta que un gerente debe delegar tareas para liberar tiempo y energía para enfocarse en las decisiones estratégicas y la planificación.
+2. **Capítulo 7: "The Elements of Decision-Making"**: En este capítulo, Drucker habla sobre la necesidad de delegar decisiones a los empleados que tienen la información y la competencia necesarias para tomar decisiones efectivas. Esto ayuda a desarrollar la responsabilidad y la autonomía en el equipo.
+3. **Capítulo 11: "The Manager and His Boss"**: En este capítulo, Drucker discute la importancia de la comunicación efectiva entre el gerente y su jefe. La delegación es un aspecto clave de esta comunicación, ya que el gerente debe informar a su jefe sobre las tareas delegadas y los resultados esperados.
+4. **Capítulo 14: "The Manager and His Team"**: En este capítulo, Drucker habla sobre la importancia de la delegación en el desarrollo del equipo. Argumenta que la delegación efectiva permite a los empleados crecer y desarrollar sus habilidades, lo que a su vez beneficia a la organización.
+
+Aunque no hay una sección específica dedicada a la delegación efectiva, estos capítulos ofrecen consejos y principios para implementar la delegación de manera efectiva en una organización.
 
 ## Ventajas de la Delegación Efectiva
 

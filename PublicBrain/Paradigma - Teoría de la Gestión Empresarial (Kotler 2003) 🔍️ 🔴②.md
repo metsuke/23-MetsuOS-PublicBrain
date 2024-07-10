@@ -125,4 +125,4 @@ Utilizar métricas como el retorno de la inversión (ROI), el costo de adquisici
 
 Espero que esta versión refinada y humanizada del contenido sea de ayuda. ¡Si necesitas algo más, no dudes en preguntar!
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

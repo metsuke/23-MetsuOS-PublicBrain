@@ -92,6 +92,4 @@ graph TD
 * Fase 5: Enlazar esto con la ejecución real de las diferentes tareas via MetsuOS ... FUTURE
 * Fase 6: Georgi Dan ... FUTURE
 
-![[Apoya el proyecto#MetsuOS Needs You!]]
-
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

@@ -54,7 +54,7 @@ tags: []
 
 - [[Ripple (XRP) - Principales Criptomonedas ⚫①]]
 - [[Litecoin (LTC) - Principales Criptomonedas ⚫①]]
-- Cardano (ADA)
+- [[Cardano (ADA) ⚫①]]
 - Polkadot (DOT)
 - Chainlink (LINK)
 - Stellar (XLM)

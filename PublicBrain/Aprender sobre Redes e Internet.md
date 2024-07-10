@@ -41,7 +41,7 @@ tags:
 
 * [[Ethernet y tecnologías de cableado]]
 * [[Redes inalámbricas - Wi-Fi y estándares]]
-* Dispositivos de red -  routers, switches, hubs, firewalls
+* [[Dispositivos de red -  routers, switches, hubs, firewalls ⚫①]]
 * Seguridad en redes: cortafuegos, VPNs, autenticación
 ## **Internet y su Funcionamiento**
 

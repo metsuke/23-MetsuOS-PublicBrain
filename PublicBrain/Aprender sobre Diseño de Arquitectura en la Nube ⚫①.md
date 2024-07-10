@@ -56,7 +56,7 @@ tags:
 
 ## Automatización y Orquestación de Arquitecturas en la Nube
 
-- Automatización de despliegues y configuraciones con herramientas como Terraform y Ansible
+- [[Automatización de despliegues y configuraciones con herramientas como Terraform y Ansible ⚫①]]
 - Orquestación de contenedores con Kubernetes
 - Implementación de pipelines de CI/CD para la entrega continua
 

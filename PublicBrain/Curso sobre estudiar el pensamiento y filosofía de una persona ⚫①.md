@@ -49,7 +49,7 @@ tags:
 
    - [[Antecedentes personales y familiares (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Formación académica y educación (Estudio pensamiento y filosofía de una persona) 🔴②]]
-   - [[Influencias intelectuales y filosóficas (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Influencias intelectuales y filosóficas (Estudio pensamiento y filosofía de una persona) 🔴②]]
    
 ## V. Contexto Histórico y Cultural
 
@@ -87,4 +87,4 @@ tags:
    - [[Reflexión sobre la investigación realizada (Estudio pensamiento y filosofía de una persona) ⚫①]]
    - [[Implicaciones y aplicaciones futuras del estudio filosófico (Estudio pensamiento y filosofía de una persona) ⚫①]]
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

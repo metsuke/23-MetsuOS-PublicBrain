@@ -32,7 +32,7 @@ El sistema operativo se compone de tres componentes principales: un servidor que
 El sistema operativo se diseñó con la accesibilidad en mente, cumpliendo con los estándares de accesibilidad WCAG 2.1 y permitiendo la integración con tecnologías de asistencia. Además, el sistema operativo se enfoca en la seguridad, implementando medidas de autenticación y autorización robustas para proteger los datos de los usuarios.
 
 * [[Introducción a MetsuOS 🔴②]]
-	* Propósito y alcance del sistema operativo
+	* [[Propósito y alcance del sistema operativo 🔴②]]
 	* Requisitos funcionales y no funcionales
 * Arquitectura del Sistema
 	* Diagrama de bloques del sistema operativo

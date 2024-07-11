@@ -9,12 +9,12 @@ checked: -3
 lang: ES
 translations: 
 created: 2024-06-15T21:51:43.118Z
-modified: 2024-06-17T04:40:45.324Z
+modified: 2024-07-11T08:58:38.110Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 5
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -64,4 +64,4 @@ Los autores argumentan que los enfoques de mercadotecnia tradicionales ya no son
 * Krugman, H. E. (1996). The Myth of Interactivity. Journal of Advertising Research, 36(3), 23-28.
 * [Rust, R. T., & Oliver, R. W. (1994). The Death of Advertising. Journal of Advertising, 23(3), 71-77. 🌐](https://www.tandfonline.com/doi/abs/10.1080/00913367.1994.10673444)
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

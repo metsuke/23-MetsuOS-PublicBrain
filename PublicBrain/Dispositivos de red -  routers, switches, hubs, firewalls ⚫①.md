@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-07-10T20:31:20.936Z
+modified: 2024-07-10T20:43:37.451Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Dispositivos de red -  routers, switches, hubs, firewalls ⚫①
 
 [[Aprender sobre Redes e Internet]]

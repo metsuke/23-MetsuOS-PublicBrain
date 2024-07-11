@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-16T16:30:49.006Z
-modified: 2024-06-17T04:43:30.019Z
+modified: 2024-07-11T08:56:42.909Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -77,4 +77,5 @@ Establecer una comunicación efectiva con los clientes para comprender sus neces
 * Fournier, S. (1998). Consumers and Their Brands: Developing Relationship Theory in Consumer Research. Journal of Consumer Research, 24(4), 343-373. (Cuestiona la idea de que los clientes siempre buscan una relación con las marcas)
 * Kozinets, R. V. (2002). The Field Behind the Screen: Using Netnography for Marketing Research in Online Communities. Journal of Marketing Research, 39(1), 61-72. (Cuestiona la efectividad de la investigación de mercado en línea)
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+
+![[Plantilla - 1MT#One More Thing]]

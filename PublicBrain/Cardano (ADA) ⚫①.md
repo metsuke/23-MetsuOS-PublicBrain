@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-07-10T20:35:35.971Z
+modified: 2024-07-10T20:43:37.479Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Cardano (ADA) ⚫①
 
 [[Aprender sobre las pirncipales criptomonedas ⚫①]]

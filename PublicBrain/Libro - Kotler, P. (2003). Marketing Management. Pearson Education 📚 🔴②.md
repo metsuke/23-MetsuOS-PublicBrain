@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-08T21:29:34.436Z
-modified: 2024-06-18T12:38:18.820Z
+modified: 2024-07-11T08:57:18.270Z
 supervisado: 2024-06-10T15:06:30.415Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -82,4 +82,4 @@ Algunos de los conceptos clave presentados en el libro incluyen:
 
 * Kotler, P. (2003). Marketing Management. Pearson Education. ISBN 8178086549, ISBN 9788178086545
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

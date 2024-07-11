@@ -1,17 +1,20 @@
 ---
 iaStatus_Model: Raúl Carrillo Garrido aka metsuke
-iaStatus: 1
+iaStatus: 8
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-07-11T18:35:55.139Z
-modified: 2024-07-11T19:05:23.164Z
+modified: 2024-07-11T20:06:29.601Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 0
-ver_rev: 1
+ver_minor: 2
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:

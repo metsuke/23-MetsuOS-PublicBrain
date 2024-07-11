@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T20:07:03.229Z
-modified: 2024-06-10T15:26:27.155Z
+modified: 2024-07-11T18:39:37.903Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Aprender con D-F
+# Aprender con D-F ⚫①
 
 [[PublicBrain/Index]]
 
@@ -28,6 +28,7 @@ tags: []
 * Aprender con Doctor Jose Miguel Gaona
 * Aprender con Doctora Lujan Comas
 * Aprender con Eduardo Sáenz de Cabezón
+* [[Aprender con Emowe  ⚫①]]
 * Aprender con Enrique de Vicente
 * Aprender con Fabián González Rivas
 * Aprender con Felix Rodriguez de la Fuente
@@ -35,3 +36,5 @@ tags: []
 * Aprender con Fran Gallego
 * Aprender con Francisco José Fernandez-Cruz Sequera
 * Aprender con Freddy Vega
+
+![[Plantilla - 1MT#One More Thing]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-07-06T16:57:52.081Z
+modified: 2024-07-11T18:39:33.204Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 134
+ver_rev: 135
 nav_primary: 
 nav_secondary: 
 tags:
@@ -52,7 +52,7 @@ Por el momento vemos que podemos aprender de cada uno de ellos, de temas relacio
 No estoy de acuerdo con todo lo que dicen todos, mas todos ellos aportan una visión unica sobre aquello de que hablan.
 
 * [[Aprender con A-C]]
-* [[Aprender con D-F]]
+* [[Aprender con D-F ⚫①]]
 * [[Aprender con G-L ⚫①]]
 * [[Aprender con M-P]]
 * [[Aprender con Q-Z ⚫①]]

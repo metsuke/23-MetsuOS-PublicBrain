@@ -70,4 +70,4 @@ Kotler menciona varias herramientas que se pueden utilizar para analizar la comp
 * Morgan, R. M. (2001). Alternative Paradigm for Marketing Theory. Journal of Marketing, 65(2), 121-134. (Cuestiona la visión tradicional del marketing y propone un enfoque más holístico)
 * Fournier, S. (1998). Consumers and Their Brands: Developing Relationship Theory in Consumer Research. Journal of Consumer Research, 24(4), 343-373. (Cuestiona la idea de que los consumidores se comportan de manera racional y propone un enfoque más emocional)
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

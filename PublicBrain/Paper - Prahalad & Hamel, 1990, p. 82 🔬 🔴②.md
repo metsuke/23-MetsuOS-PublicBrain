@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-20T18:59:58.955Z
-modified: 2024-06-27T21:51:25.387Z
+modified: 2024-07-13T20:43:14.861Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -73,5 +73,4 @@ De la página 82 del artículo de Prahalad y Hamel, podemos extraer los siguient
 * Porter, M. E. (1996). What is strategy? Harvard Business Review, 74(6), 61-78. (Cuestiona la importancia de las competencias centrales en la estrategia empresarial)
 * Rumelt, R. P. (1991). How much does industry matter? Strategic Management Journal, 12(3), 167-185. (Cuestiona la relación entre las competencias centrales y la ventaja competitiva)
 
-
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-22T09:42:44.266Z
-modified: 2024-06-10T15:14:13.742Z
+modified: 2024-07-12T14:21:30.184Z
 supervisado: 2024-06-03T10:06:08.639Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 12
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -88,7 +88,4 @@ Los expertos en SEO realizan acciones dentro y fuera de la página para mejorar 
 * [Escuela Marketing Digital 🌐](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés 🌐](https://platzi.com/escuela/ingles/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
-
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
-
+![[Plantilla - 1MT#One More Thing]]

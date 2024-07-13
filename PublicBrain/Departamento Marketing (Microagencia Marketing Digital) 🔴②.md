@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T04:33:17.264Z
-modified: 2024-06-10T15:14:13.954Z
+modified: 2024-07-12T14:17:32.383Z
 supervisado: 2024-06-04T06:01:06.100Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 23
+ver_rev: 24
 nav_primary: 
 nav_secondary: 
 tags:
@@ -108,7 +108,4 @@ Nota: La sección de referencias bibliográficas y referencias que refutan se in
 * [Escuela de Inglés 🌐](https://platzi.com/escuela/ingles/)
 * [Escuela Programación y Software 🌐](https://platzi.com/escuela/programacion-software/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
-
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
-
+![[Plantilla - 1MT#One More Thing]]

@@ -77,4 +77,4 @@ En resumen, Porter (1985, p. 45) destaca la importancia de la relación entre la
 * Mintzberg, H. (1994). The Fall and Rise of Strategic Planning. Harvard Business Review, 72(1), 107-114.
 * Quinn, J. B. (1980). Strategies for Change: Logical Incrementalism. Sloan Management Review, 21(2), 7-21.
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

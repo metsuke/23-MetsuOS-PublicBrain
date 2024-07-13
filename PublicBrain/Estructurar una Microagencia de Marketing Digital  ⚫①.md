@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-07-10T19:52:25.230Z
+modified: 2024-07-11T22:52:24.477Z
 supervisado: 2024-06-09T21:35:05.959Z
 ACCION: 
 ver_major: 0
 ver_minor: 5
-ver_rev: 141
+ver_rev: 143
 nav_primary: 
 nav_secondary: 
 tags:
@@ -78,11 +78,6 @@ graph TD
     PerfilesCreativos --> RedacciónPublicitaria
     PerfilesCreativos --> DesarrolloWeb
 ```
-
-
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
-
-## Log
 
 * Fase 0: Tomar apuntes del curso... DONE
 * Fase 1: Modelar agencia (departamentos, puestos ...) ... IN PROGRESS

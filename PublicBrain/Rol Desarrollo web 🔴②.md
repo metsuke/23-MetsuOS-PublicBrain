@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-04T19:26:13.399Z
-modified: 2024-06-10T15:06:30.345Z
+modified: 2024-07-12T14:31:51.239Z
 supervisado: 2024-06-10T15:06:30.345Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
@@ -97,6 +97,4 @@ Los desarrolladores web ideales tienen las siguientes habilidades y característ
 * [Escuela Programación y Software 🌐](https://platzi.com/escuela/programacion-software/)
 * [Escuela de Inglés 🌐](https://platzi.com/escuela/ingles/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
-
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

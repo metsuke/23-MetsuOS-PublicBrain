@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-24T08:36:59.392Z
-modified: 2024-06-24T08:38:18.035Z
+modified: 2024-07-13T20:44:30.723Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -150,4 +150,4 @@ La delegación se aplica en la sociología, donde los líderes sociales delegan 
 * **Follett, M. P.** (1926). The giving of orders. In H. C. Metcalf (Ed.), Scientific foundations of business administration (pp. 136-147). Williams & Wilkins.
 
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

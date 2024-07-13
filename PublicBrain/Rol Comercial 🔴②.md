@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.653Z
-modified: 2024-06-10T15:14:13.787Z
+modified: 2024-07-12T14:15:44.246Z
 supervisado: 2024-06-08T21:19:22.915Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 65
+ver_rev: 66
 nav_primary: 
 nav_secondary: 
 tags:
@@ -77,6 +77,4 @@ El Rol Comercial es un papel clave en la estrategia de marketing digital, respon
 * [Escuela de Marketing Digital](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés](https://platzi.com/escuela/ingles/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
-
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

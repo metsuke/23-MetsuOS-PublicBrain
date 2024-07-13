@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T23:24:01.149Z
-modified: 2024-06-10T15:14:13.785Z
+modified: 2024-07-12T14:20:18.656Z
 supervisado: 2024-06-01T21:03:34.413Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 15
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
@@ -118,6 +118,4 @@ tags:
 * [Escuela Marketing Digital 🌐](https://platzi.com/escuela/marketing/)
 * [Escuela de Inglés 🌐](https://platzi.com/escuela/ingles/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
-
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

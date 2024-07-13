@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.652Z
-modified: 2024-06-10T15:14:13.789Z
+modified: 2024-07-12T14:16:31.751Z
 supervisado: 2024-06-01T21:03:22.975Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 62
+ver_rev: 63
 nav_primary: 
 nav_secondary: 
 tags:
@@ -114,6 +114,4 @@ Nota: Se han incluido referencias bibliográficas y que refutan para apoyar y co
 * [Escuela Programación y Software (platzi.com)](https://platzi.com/escuela/programacion-software/)
 * [Escuela de Startups](https://platzi.com/escuela/startups/)
 
-![[Platzi_Referal#¡Consigue un mes extra gratis en tu suscripción a Platzi!]]
-
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

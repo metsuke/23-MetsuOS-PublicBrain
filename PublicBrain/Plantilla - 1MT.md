@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-05T05:32:17.875Z
-modified: 2024-07-07T19:07:48.194Z
+modified: 2024-07-12T12:31:24.004Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -30,5 +30,7 @@ tags: []
 </center>
 
 ![[Apoya el proyecto#MetsuOS Needs You!]]
+
+![[Platzi_Referal#Consigue un mes extra gratis en tu suscripción a Platzi y ayúdame a aprender]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

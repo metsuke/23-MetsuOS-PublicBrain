@@ -105,4 +105,4 @@ Si no se establecen límites claros, los empleados pueden sentirse abrumados o c
 * Mintzberg, H. (1973). The Nature of Managerial Work. Harper & Row. (Critica la delegación como una herramienta de gestión efectiva)
 * McGregor, D. (1960). The Human Side of Enterprise. McGraw-Hill. (Critica la delegación como una forma de control y no de desarrollo de los empleados)
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

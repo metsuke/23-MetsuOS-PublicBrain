@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T20:07:03.229Z
-modified: 2024-07-11T18:39:37.903Z
+modified: 2024-07-11T22:52:24.772Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 10
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -33,7 +33,7 @@ tags: []
 * Aprender con Fabián González Rivas
 * Aprender con Felix Rodriguez de la Fuente
 * Aprender con Fernando Miralles
-* Aprender con Fran Gallego
+* [[Aprender con Fran Gallego  ⚫①]]
 * Aprender con Francisco José Fernandez-Cruz Sequera
 * Aprender con Freddy Vega
 

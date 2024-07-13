@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-20T19:08:05.327Z
-modified: 2024-06-27T21:51:25.511Z
+modified: 2024-07-13T20:43:40.798Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -124,4 +124,4 @@ En conclusión, "La competencia central de la corporación" es un paper seminal 
 * Porter, M. E. (1996). What is strategy? Harvard Business Review, 74(6), 61-78. (Argumenta que la competencia central no es suficiente para garantizar el éxito a largo plazo)
 * Barney, J. B. (1991). Firm resources and sustained competitive advantage. Journal of Management, 17(1), 99-120. (Cuestiona la idea de que la competencia central sea la clave para la ventaja competitiva)
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

@@ -125,3 +125,5 @@ En resumen, "Competitive Advantage" de Michael Porter es un libro fundamental qu
 * Rumelt, R. P. (1991). How Much Does Industry Matter? Strategic Management Journal, 12(3), 167-185.
 * D'Aveni, R. A. (1994). Hypercompetition: Managing the Dynamics of Strategic Maneuvering. Free Press.
 * Brandenburger, A. M. (1996). Mapping the Competitive Landscape. Strategic Management Journal, 17(2), 143-164.
+
+![[Plantilla - 1MT#One More Thing]]

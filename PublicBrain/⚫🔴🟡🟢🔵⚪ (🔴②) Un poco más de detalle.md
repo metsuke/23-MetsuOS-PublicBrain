@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-04T18:51:41.947Z
-modified: 2024-06-30T16:40:23.157Z
+modified: 2024-07-14T20:33:38.452Z
 supervisado: 2024-06-10T14:43:32.805Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 17
+ver_rev: 19
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ Aquí estoy afinando la descripción y características de cada nivel, a la par 
 
 ## ⚫① - Dark1 - Conocimiento en Bruto. 
 
-* Modo Cuñao, hablo pero no puedo respaldarlo o si se hace es desde "opinion experta" que solo sirve si se tiene fe en quien la transmite.
+* Modo Cuñao, hablo pero no puedo respaldarlo o si se hace es desde "opinión experta" que solo sirve si se tiene fe en quien la transmite.
 * El texto está completamente en bruto, lo que incluye cualquier cosa escrita por humano o IA
 * No contiene referencias bibliográficas que apoyen o refuten el contenido.
 
@@ -35,18 +35,18 @@ Aquí estoy afinando la descripción y características de cada nivel, a la par 
 
 * Redacción del texto en bruto por parte de un humano o bien mediante IA.
 * Esto se hace "a la antigua", es decir redactando y creando mediante sentido común.
-* El resultado es lo que antiguamente considerabamos conocimiento, en algunos casos conocimiento experto.
+* El resultado es lo que antiguamente considerábamos conocimiento, en algunos casos conocimiento experto.
 
 ## 🔴② - Rojo2 - Conocimiento Impulsivo.
 
-* Aún Pasional, "lo mio es lo correcto" desde una "opinion de experto" o "percepción de aprendiz de estudiante"
+* Aún Pasional, "lo mio es lo correcto" desde una "opinión de experto" o "percepción de aprendiz de estudiante"
 * La redacción del texto está humanizada, para alejarse de la redacción mediante IA.
-* El documento contiene referencias bibliográficas que apoyan y referencias que refutan el contenido, PERO estas aím no han sido validadas, comprobadas y asociadas directamente a ningun segmento específico del contenido.
+* El documento contiene referencias bibliográficas que apoyan y referencias que refutan el contenido, PERO estas aún no han sido validadas, comprobadas y asociadas directamente a ningún segmento específico del contenido.
 #### Técnicas aplicadas en  🔴②
 
 * Se refina la redacción y contenido del documento mediante IA.
 * Se usa IA para incluir referencias bibliográficas que apoyan y otras que refutan el contenido.
-* En esta fase nos fiamos de la fuiente (humano o IA),  asumiendolas en tanto no las compribamos en una fase posterior.
+* En esta fase nos fiamos de la fuente (humano o IA),  asumiéndolas en tanto no las comprobamos en una fase posterior.
 * El conjunto se afina en formateo por parte de un humano.
 * El conjunto se lee por parte de un humano en busca de errores que puedan corregirse tanto en contenido como en redacción y coherencia básica.
 

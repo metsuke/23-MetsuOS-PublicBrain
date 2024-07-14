@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-10T14:35:01.633Z
-modified: 2024-07-10T19:53:50.813Z
+modified: 2024-07-14T20:41:08.711Z
 supervisado: 2024-06-10T14:43:12.089Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 21
+ver_rev: 22
 nav_primary: 
 nav_secondary: 
 tags:
@@ -46,7 +46,7 @@ El texto describe cuatro procesos clave para el rol de gestión empresarial en u
 ### 1. Análisis de la Situación
 
 * Definir la propuesta de valor: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②]], que se centra en desarrollar una propuesta de valor única y atractiva para los clientes ([[Kotler, 2003, p. 241 📚 🔴②]]).
-* Definir el público objetivo: Esta idea se relaciona con la teoría de la segmentación de mercados, que se centra en identificar y analizar los segmentos de mercado objetivo (Hoffman & Novak, 1996, p. 10).
+* Definir el público objetivo: Esta idea se relaciona con el [[Paradigma - Teoría de la Segmentación de Mercados 🔍️ 🔴②]], que se centra en identificar y analizar los segmentos de mercado objetivo (Hoffman & Novak, 1996, p. 10).
 * Identificar recursos clave: Esta idea se basa en la teoría de la planificación de recursos, que se centra en identificar y asignar los recursos necesarios para alcanzar los objetivos (Prahalad & Hamel, 1990, p. 95).
 * Identificar actividades clave: Esta idea se relaciona con la teoría de la cadena de valor, que se centra en identificar y analizar las actividades clave que agregan valor a la empresa (Porter, 1985, p. 67).
 * Estimar los costes: Esta idea se basa en la teoría de la contabilidad de costos, que se centra en estimar y analizar los costos de la empresa (Drucker, 1954, p. 156).

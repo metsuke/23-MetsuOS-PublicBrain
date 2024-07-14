@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2192b4c786d107dc",
+        "id": "77a7c38f770f153f",
         "type": "tabs",
         "children": [
           {
-            "id": "32a695a1ac46a7b1",
+            "id": "127a1afcc276a7c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
+                "file": "PublicBrain/Los días de la semana (A1-AR).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
+                "file": "PublicBrain/Los días de la semana (A1-AR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
+                "file": "PublicBrain/Los días de la semana (A1-AR).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md"
+                "file": "PublicBrain/Los días de la semana (A1-AR).md"
               }
             }
           },
@@ -163,12 +163,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "32a695a1ac46a7b1",
+  "active": "127a1afcc276a7c8",
   "lastOpenFiles": [
+    "PublicBrain/Los pronombres personales (A1-AR).md",
+    "PublicBrain/Los números en tailandés  (Principiante TH).md",
+    "PublicBrain/Los números del 1 al 10.md",
+    "PublicBrain/Los números del 1 al 10 (A1-AR).md",
+    "PublicBrain/Litio.md",
+    "PublicBrain/Los mates más rapidos en ajedrez.md",
+    "PublicBrain/Narrativa y Storytelling en el mundo del videojuego.md",
+    "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
     "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①.md",
     "PublicBrain/Paradigma - Teoría de la Segmentación de Mercados 🔍️ 🔴②.md",
     "Paradigma - Teoría de la Segmentación de Mercados 🔍️ 🔴②.md",
-    "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②.md",
     "PublicBrain/Glosario de Marketing Digital ⚫①.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
     "PublicBrain/Index.md",
@@ -185,13 +192,6 @@
     "PublicBrain/Paper - Prahalad & Hamel, 1990, p. 82 🔬 🔴②.md",
     "PublicBrain/Paper - \"La competencia central de la corporación\" (1990), C.K. Prahalad y Gary Hamel 🔬🔴②.md",
     "PublicBrain/Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②.md",
-    "PublicBrain/Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②.md",
-    "PublicBrain/Rol Desarrollo web 🔴②.md",
-    "PublicBrain/Rol Redacción publicitaria 🔴②.md",
-    "PublicBrain/Rol Diseño Gráfico 🔴②.md",
-    "PublicBrain/Departamento Creativo (Microagencia Marketing Digital) 🔴②.md",
-    "PublicBrain/Rol Expertos en SEO 🔴②.md",
-    "PublicBrain/Rol Expertos en PPC 🔴②.md",
     "PublicBrain/_resources/Plantilla - 1MT",
     "PublicBrain/_resources/Index",
     "PublicBrain/_resources/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②",

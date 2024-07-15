@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-14T20:38:06.287Z
-modified: 2024-07-14T20:41:08.822Z
+modified: 2024-07-15T02:35:42.075Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Paradigma - Teoría de la Segmentación de Mercados 🔍️ 🔴②
+# Paradigma - Teoría de la Segmentación de Mercados 🔍️ 🔴②-🌐🟡③
 
 [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 

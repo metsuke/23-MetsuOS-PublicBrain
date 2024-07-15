@@ -9,21 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-24T08:45:24.685Z
-modified: 2024-07-13T20:45:02.125Z
+modified: 2024-07-15T02:32:30.049Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Concepto - Delegación Efectiva - Drucker, 1954 📚 🔴②
+# Concepto - Delegación Efectiva - Drucker, 1954 📚  🔴②-🌐🟡③
 
 [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 
-En su obra [[Libro - "The Practice of Management" (1954) 📚 🔴②]], Peter Drucker destaca la importancia de la delegación efectiva en la gestión. Según Drucker, la delegación es una herramienta fundamental para los gerentes, ya que les permite concentrarse en las tareas más importantes y delegar responsabilidades a otros miembros del equipo.
+En su obra [[Libro - "The Practice of Management" (1954) 📚  🔴②-🌐🟡③]], Peter Drucker destaca la importancia de la delegación efectiva en la gestión. Según Drucker, la delegación es una herramienta fundamental para los gerentes, ya que les permite concentrarse en las tareas más importantes y delegar responsabilidades a otros miembros del equipo.
 
 ** Esto de las referencias a páginas concretas de algo que tiene varias ediciones no me acaba de convencer, tengo que darle una vuelta al método para que tenga sentido y se pueda localizar la información en cualquier edición de un modo racional. **
 ## Sobre la página "123"

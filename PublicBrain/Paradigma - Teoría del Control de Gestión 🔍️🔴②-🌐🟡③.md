@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-26T20:10:24.848Z
-modified: 2024-06-26T20:12:57.897Z
+modified: 2024-07-15T02:33:29.733Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 4
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Paradigma - Teoría del Control de Gestión 🔴②
+# Paradigma - Teoría del Control de Gestión 🔍️🔴②-🌐🟡③
 
 [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 
@@ -111,4 +111,4 @@ El paradigma de control de gestión es un enfoque importante para analizar y com
 * Weick, K. E. (1979). The Social Psychology of Organizing. Addison-Wesley.
 * Morgan, G. (1986). Images of Organization. Sage Publications.
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

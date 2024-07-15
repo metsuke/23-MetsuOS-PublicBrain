@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-24T08:36:59.392Z
-modified: 2024-07-13T20:44:30.723Z
+modified: 2024-07-15T02:32:08.487Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Paradigma - Teoría de la Delegación 🔍️ 🔴②
+# Paradigma - Teoría de la Delegación 🔍️ 🔴②-🌐🟡③
 
 [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 

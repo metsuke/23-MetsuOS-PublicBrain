@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-20T19:08:05.327Z
-modified: 2024-07-13T20:43:40.798Z
+modified: 2024-07-15T02:29:55.740Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Paper - "La competencia central de la corporación" (1990), C.K. Prahalad y Gary Hamel 🔬🔴②
+# Paper - "La competencia central de la corporación" (1990), C.K. Prahalad y Gary Hamel 🔬 🔴②-🌐🟡③
 
-* [[Paper - Prahalad & Hamel, 1990, p. 82 🔬 🔴②]]
+* [[Paper - Prahalad & Hamel, 1990, p. 82 🔬 🔴②-🌐🟡③]]
 * Leer en (TODO):
 	* [PDF The Core Competence of the Corporation | Semantic Scholar](https://www.semanticscholar.org/paper/The-Core-Competence-of-the-Corporation-Prahalad-Hamel/47e178921055335a116b2dc99716e72c0a2f03b4)
 	* [The Core Competence of the Corporation | SpringerLink](https://link.springer.com/chapter/10.1007/3-540-30763-X_14)

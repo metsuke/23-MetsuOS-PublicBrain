@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-01T17:56:06.562Z
-modified: 2024-07-13T20:46:20.027Z
+modified: 2024-07-15T01:57:03.517Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Libro - Competitive Advantage Creating and Sustaining Superior Performance - Michael Porter 1985 📚⚫①
+# Libro - Competitive Advantage Creating and Sustaining Superior Performance - Michael Porter 1985 📚 🔴②-🌐🟡③
 
-[[Porter, 1985, p. 45 🔴②]]
+[[Porter, 1985, p. 45 📚 🔴②-🌐🟡③]]
 
 ## Introducción
 

@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.186Z
-modified: 2024-06-10T15:26:26.635Z
+modified: 2024-07-15T14:04:37.969Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Metales reciclables presentes en una casa
 
@@ -30,7 +33,7 @@ lista de metales reciclables comunes que se encuentran en una casa:
     
 4. Latón: Llaves, grifos, accesorios de fontanería, instrumentos musicales, componentes de iluminación, decoraciones, etc.
     
-5. Hierro: Herramientas de jardín, muebles de hierro, vigas metálicas, barras de refuerzo, clavos, tornillos, etc.
+5. Hierro: "H"erramientas de jardín, muebles de hierro, vigas metálicas, barras de refuerzo, clavos, tornillos, etc.
     
 6. Plomo: Baterías de plomo-ácido, contrapesos, láminas de plomo, cables recubiertos de plomo, tuberías de plomo (menos comunes en casas modernas debido a preocupaciones de salud).
     

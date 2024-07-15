@@ -9,22 +9,22 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-08T21:29:34.436Z
-modified: 2024-07-11T08:57:18.270Z
+modified: 2024-07-15T02:27:44.734Z
 supervisado: 2024-06-10T15:06:30.415Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚 🔴②
+# Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚 🔴②-🌐🟡③
 
 * Referencia Bibliográfica en
 	* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②]]
 * Paradigmas Relacionados:
-	* [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②]]
+	* [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②-🌐🟡③]]
 * Referencias Google Academics
 	* [primera edicion marketing management kotler - Google Académico](https://scholar.google.es/scholar?q=primera+edicion+marketing+management+kotler&hl=es&as_sdt=0&as_vis=1&oi=scholart)
 

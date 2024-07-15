@@ -9,23 +9,23 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-27T21:51:57.557Z
-modified: 2024-07-13T20:46:04.788Z
+modified: 2024-07-15T01:57:03.392Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Porter, 1985, p. 45 🔴②
+# Porter, 1985, p. 45 📚 🔴②-🌐🟡③
 
 [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
 
 ## Introducción
 
-En el contexto de la teoría del control de gestión, Porter hace una contribución significativa en su [[Libro - Competitive Advantage Creating and Sustaining Superior Performance - Michael Porter 1985 📚⚫①]]. En la página 45, Porter presenta una visión innovadora sobre la relación entre la estrategia y el control de gestión, que ha tenido un impacto duradero en la forma en que las organizaciones abordan la planificación y el control de sus actividades.
+En el contexto de la teoría del control de gestión, Porter hace una contribución significativa en su [[Libro - Competitive Advantage Creating and Sustaining Superior Performance - Michael Porter 1985 📚 🔴②-🌐🟡③]]. En la página 45, Porter presenta una visión innovadora sobre la relación entre la estrategia y el control de gestión, que ha tenido un impacto duradero en la forma en que las organizaciones abordan la planificación y el control de sus actividades.
 
 ## La Teoría del Control de Gestión
 

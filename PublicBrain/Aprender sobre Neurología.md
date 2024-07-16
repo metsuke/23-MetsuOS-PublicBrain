@@ -1,6 +1,6 @@
 ---
 iaStatus: 8
-iaStatus_Model: ""
+iaStatus_Model: gpt-3.5-turbo
 iaStatus_Generado: H
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.570Z
-modified: 2024-06-10T15:26:27.136Z
+modified: 2024-07-16T03:58:58.280Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:

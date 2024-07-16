@@ -9,12 +9,12 @@ checked: -3
 lang: ES
 translations: 
 created: 2024-06-15T21:51:43.118Z
-modified: 2024-07-15T02:02:42.183Z
+modified: 2024-07-16T20:19:34.385Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 5
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -40,7 +40,7 @@ Hoffman y Novak enfatizan la importancia de la interactividad en la mercadotecni
 
 ## El Papel de la Hipermédia
 
-[[Hoffman & Novak, 1996, p. 5📚  ⚫①]]
+[[Hoffman & Novak, 1996, p. 5 📚  🔴②]]
 
 Los autores presentan el concepto de hipermédia, que se refiere al uso de elementos multimedia (por ejemplo, texto, imágenes, audio, video) para crear experiencias inmersivas y interactivas. La hipermédia se convierte en una herramienta fundamental para la mercadotecnia en entornos digitales.
 
@@ -54,7 +54,7 @@ Los autores argumentan que los enfoques de mercadotecnia tradicionales ya no son
 
 ## Referencias
 
-* Hoffman, D. L., & Novak, T. P. (1996). Mercadotecnia en entornos de hipermédia computarizados: Fundamentos conceptuales. Journal of Marketing, 60(3), 50-68.
+* Hoffman, D. L., & Novak, T. P. (1996). Marketing in hypermedia computer-mediated environments: Conceptual foundations. Journal of Marketing, 60(3), 50-68.
 
 ## Referencias Bibliográficas que Apoyan el Contenido
 

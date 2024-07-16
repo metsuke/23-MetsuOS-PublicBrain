@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.193Z
-modified: 2024-06-10T15:26:26.633Z
+modified: 2024-07-16T03:55:25.756Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Miembros de la familia en catalán
 
@@ -22,7 +25,7 @@ Los miembros de la familia en [[catalán]]:
 
 1. [[Pare]] / Marit: Padre / Esposo
 2. [[Mare]] / Mestra: Madre / Esposa
-3. [[Fill]] / [[Filla]]: Hijo / Hija
+3. [[Fill]] / [[Filla]]: "H"ijo / Hija
 4. [[Germans]]: Hermanos
 5. [[Tio]] , [[Oncle]], [[Tiet]] / [[Tieta]]: Tío / Tía
 6. [[Avi]] / Àvia: Abuelo / Abuela

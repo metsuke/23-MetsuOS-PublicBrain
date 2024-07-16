@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.315Z
-modified: 2024-06-10T15:26:26.620Z
+modified: 2024-07-16T03:55:47.652Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Métodos de Gestión de Tareas con papel y lápiz
 
@@ -36,7 +39,7 @@ Esta matriz divide tus tareas en cuatro cuadrantes según su importancia y urgen
 
 Concretamente, las tareas que caen en cada cuadrante se gestionarían del siguiente modo:
 
- - Importante y Urgente: Hacer
+ - Importante y Urgente: "H"acer
 - Importante y No Urgente: Programar
 - No Importante y Urgente: Delegar
 - No Importante y No Urgente: Eliminar

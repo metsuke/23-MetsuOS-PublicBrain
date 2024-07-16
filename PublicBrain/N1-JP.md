@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.353Z
-modified: 2024-06-10T15:26:26.618Z
+modified: 2024-07-16T04:04:19.442Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 28
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # N1-JP
 
@@ -36,7 +39,7 @@ tags: []
 2.3. Expresiones condicionales, causales y hipotéticas.
 2.4. Uso avanzado de la voz pasiva y recursos gramaticales.
 
-## Módulo 3: Habilidades de Comunicación Avanzada
+## Módulo 3: "H"abilidades de Comunicación Avanzada
 
 3.1. Conversaciones en situaciones laborales, académicas y sociales.
 3.2. Comprensión de lectura de textos técnicos y literarios.

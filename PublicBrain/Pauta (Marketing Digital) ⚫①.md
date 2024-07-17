@@ -21,7 +21,7 @@ tags:
 ---
 # Pauta (Marketing Digital) ⚫①
 
-[[Glosario de Marketing Digital ⚫①]] | [[Aprender idioma español]]
+[[Glosario de Marketing Digital ⚫①]] | [[Aprender Idioma Español ⚫①]]
 
 En marketing digital, la palabra pauta usada en latinoamerica, es equivalente a la palabra presupuesto del castellano.
 

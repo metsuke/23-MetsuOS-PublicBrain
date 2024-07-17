@@ -18,7 +18,7 @@ tags: []
 ---
 # Niveles y Exámenes Adicionales ES
 
-[[Aprender Idioma Español]] | [[Niveles Oficiales ES]]
+[[Aprender Idioma Español ⚫①]] | [[Niveles Oficiales ES]]
 
 Además de los niveles oficiales basados en el Marco Común Europeo de Referencia para las Lenguas (MCERL), existen exámenes y certificaciones relevantes para evaluar el dominio del idioma [[Español ⚫①]]. Estos exámenes son ampliamente reconocidos y pueden ser beneficiosos para diversos fines, como la educación, la búsqueda de empleo y la migración. Algunos de los exámenes de español más relevantes incluyen:
 

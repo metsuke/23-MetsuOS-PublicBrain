@@ -18,7 +18,7 @@ tags: []
 ---
 # Saludos y presentaciones básicas (A1-ES)
 
-[[A1-ES]]
+[[A1-ES ⚫①]]
 
 Es importante conocer algunas expresiones de saludo y presentación básicas para comunicarse en situaciones cotidianas. Aquí tienes algunas expresiones útiles:
 

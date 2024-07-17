@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.380Z
-modified: 2024-07-14T21:30:57.442Z
+modified: 2024-07-17T07:46:31.652Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 31
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 32
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Narrativa y Storytelling en el mundo del videojuego
  # Narrativa y Storytelling en el mundo del videojuego

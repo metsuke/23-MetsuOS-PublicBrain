@@ -21,9 +21,9 @@ tags:
 ---
 # C2-ES
 
-[[Aprender Idioma Español]]
+[[Aprender Idioma Español ⚫①]]
 
-<-- [[C1-ES]] | [[A1-ES]] --> 
+<-- [[C1-ES]] | [[A1-ES ⚫①]] --> 
 
 ## Módulo 1: Comunicación Avanzada
 

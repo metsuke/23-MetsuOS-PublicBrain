@@ -21,7 +21,7 @@ tags:
 ---
 # MOS Generational Dictionary ES (Diccionario Neologismos MetsuOS)
 
-[[Aprender Idioma Español]]
+[[Aprender Idioma Español ⚫①]]
 
 Crear un listado exhaustivo de 5000 entradas de neologismos y jerga juvenil asociada a distintas generaciones es una tarea bastante amplia y compleja. Sin embargo, puedo comenzar este proceso proporcionando una lista inicial con algunas entradas de diferentes generaciones. Para un proyecto tan extenso, te recomendaría considerar también colaboraciones comunitarias o el uso de herramientas de recopilación automática de datos.
 

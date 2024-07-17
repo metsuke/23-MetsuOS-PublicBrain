@@ -3,7 +3,7 @@ iaStatus: 8
 iaStatus_Generado: H
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
 a11y: 0
 checked: 0
 lang: ES
@@ -32,7 +32,7 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
 * EL [[Aprender idioma Griego]]
 * EN [[Aprender Idioma Inglés ⚫①]]
 * EO [[Aprender Idioma Esperanto]]
-* ES [[Aprender Idioma Español]]
+* ES [[Aprender Idioma Español ⚫①]]
 * EU [[Aprender Idioma Euskera]]
 * FI [[Aprender Idioma Finlandes]]
 * FR [[PublicBrain/Aprender Idioma Francés]]
@@ -72,3 +72,5 @@ Mis apuntes sobre los Idiomas en proceso de estudio, cada uno tiene una priorida
  * [[Estadísticas sobre Idiomas ⚫①]]
  * [Sistemas de escritura del mundo](https://www.worldswritingsystems.org/)
  * [[Textos Religiosos y sus Idiomas de Origen]]
+
+![[Plantilla - 1MT#One More Thing]]

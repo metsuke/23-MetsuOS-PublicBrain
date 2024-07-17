@@ -18,7 +18,7 @@ tags: []
 ---
 # Vocabulario para la rutina diaria (A1-ES)
 
-[[A1-ES]]
+[[A1-ES ⚫①]]
 
 Claro, en el contexto de aprender el idioma español en el nivel A1, el vocabulario para la rutina diaria es fundamental ya que permite a los estudiantes comunicarse sobre actividades y acciones cotidianas de manera básica. Aquí te presento algunas palabras y frases comunes relacionadas con la rutina diaria:
 

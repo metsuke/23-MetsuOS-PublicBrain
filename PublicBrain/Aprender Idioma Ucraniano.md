@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.440Z
-modified: 2024-06-10T15:26:27.165Z
+modified: 2024-07-17T07:45:00.616Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,7 +25,7 @@ tags:
 
 * UK | [[Ucraniano]] 
 	* [[Niveles Oficiales UK]]
-		* [[Nivel Principiante]]
+		* [[Nivel Principiante UK]]
 		* Nivel Intermedio
 		* Nivel Avanzado
 		* Nivel Lingüista

@@ -21,7 +21,7 @@ tags:
 ---
 # B1-ES
 
-[[Aprender Idioma Español]]
+[[Aprender Idioma Español ⚫①]]
 
 <-- [[A2-ES]] | [[B2-ES]] --> 
 

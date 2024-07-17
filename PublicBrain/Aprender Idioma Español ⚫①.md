@@ -19,13 +19,13 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Aprender Idioma Español
+# Aprender Idioma Español ⚫①
 
 [[Aprender Idiomas ⚫①]]
 
 * ES | [[Español ⚫①]] 
 	* [[Niveles Oficiales ES ]]
-		* Nivel A: [[A1-ES]] | [[A2-ES]] 
+		* Nivel A: [[A1-ES ⚫①]] | [[A2-ES]] 
 		* Nivel B: [[B1-ES]] | [[B2-ES]] 
 		* Nivel C: [[C1-ES]] | [[C2-ES]] 
 	* [[Niveles y Exámenes Adicionales ES]]
@@ -38,4 +38,4 @@ tags:
 	* [[MOS Flascards ES (Flashcards MetsuOS)]]
 
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

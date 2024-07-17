@@ -19,16 +19,16 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# A1-ES
+# A1-ES ⚫①
 
-[[Aprender Idioma Español]]
+[[Aprender Idioma Español ⚫①]]
 
 <-- [[C2-ES]] | [[A2-ES]] --> 
 
 ## Módulo 1: "I"ntroducción al Español
 
 1.1. [[Saludos y presentaciones básicas (A1-ES)]]
-1.2. [[Alfabeto y pronunciación (A1-ES)]]
+1.2. [[Alfabeto y pronunciación en Español (A1-ES) 🔴②]]
 1.3. Los números y las fechas.
 1.4. Expresiones de cortesía.
 
@@ -88,3 +88,4 @@ tags:
 9.3. Diálogos y actividades de expresión oral.
 9.4. Evaluación final del nivel A1 de español.
 
+![[Plantilla - 1MT#One More Thing]]

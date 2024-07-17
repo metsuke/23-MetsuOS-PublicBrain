@@ -21,9 +21,9 @@ tags:
 ---
 # A2-ES
 
-[[Aprender Idioma Español]]
+[[Aprender Idioma Español ⚫①]]
 
-<-- [[A1-ES]] | [[B1-ES]] --> 
+<-- [[A1-ES ⚫①]] | [[B1-ES]] --> 
 
 ## Módulo 1: Ampliación de Vocabulario
 

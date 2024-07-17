@@ -21,7 +21,7 @@ tags:
 ---
 # Certificado de Español - Lengua y Uso (CELU)
 
-[[Aprender Idioma Español]]
+[[Aprender Idioma Español ⚫①]]
 
 ## Nivel Principiante (CELU 1)
 

@@ -21,7 +21,7 @@ tags:
 ---
 # CCSE (Examen de Conocimientos Constitucionales y Socioculturales de España)
 
-[[Aprender Idioma Español]]
+[[Aprender Idioma Español ⚫①]]
 
 ## Módulo 1: "I"ntroducción a España
 

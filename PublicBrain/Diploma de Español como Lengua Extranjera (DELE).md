@@ -21,7 +21,7 @@ tags:
 ---
 # Diploma de Español como Lengua Extranjera (DELE)
 
-[[Aprender Idioma Español]]
+[[Aprender Idioma Español ⚫①]]
 
 ## Nivel A1: "I"nicial
 

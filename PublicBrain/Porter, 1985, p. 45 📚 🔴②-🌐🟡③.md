@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-27T21:51:57.557Z
-modified: 2024-07-15T01:57:03.392Z
+modified: 2024-07-19T21:37:53.406Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Porter, 1985, p. 45 📚 🔴②-🌐🟡③
 
-[[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
+[[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
 
 ## Introducción
 

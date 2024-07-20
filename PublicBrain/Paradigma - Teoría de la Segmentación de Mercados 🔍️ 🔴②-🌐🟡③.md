@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-14T20:38:06.287Z
-modified: 2024-07-15T02:35:42.075Z
+modified: 2024-07-19T21:37:53.317Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Paradigma - Teoría de la Segmentación de Mercados 🔍️ 🔴②-🌐🟡③
 
-[[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
+[[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
 
 La teoría de la segmentación de mercados es un paradigma fundamental en el marketing que se utiliza para dividir un mercado en grupos más pequeños y homogéneos, denominados segmentos, con características y necesidades similares. Esta teoría se basa en la idea de que no todos los consumidores tienen las mismas necesidades y preferencias, por lo que es necesario identificar y entender las diferencias entre ellos para desarrollar estrategias de marketing efectivas.
 ## Orígenes y Evolución

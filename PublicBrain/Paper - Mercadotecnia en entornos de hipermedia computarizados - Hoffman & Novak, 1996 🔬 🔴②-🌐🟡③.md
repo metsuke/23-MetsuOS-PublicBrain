@@ -9,12 +9,12 @@ checked: -3
 lang: ES
 translations: 
 created: 2024-06-15T21:51:43.118Z
-modified: 2024-07-16T20:19:34.385Z
+modified: 2024-07-20T15:36:33.602Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 5
-ver_rev: 7
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②-🌐🟡③
 
 * Referencia en:
-	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
+	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
 * Publicado originalmente en:
 	* Journal of Marketing, 60(3), 50-68.
 * Leer en:
@@ -40,7 +40,7 @@ Hoffman y Novak enfatizan la importancia de la interactividad en la mercadotecni
 
 ## El Papel de la Hipermédia
 
-[[Hoffman & Novak, 1996, p. 5 📚  🔴②]]
+[[Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③]]
 
 Los autores presentan el concepto de hipermédia, que se refiere al uso de elementos multimedia (por ejemplo, texto, imágenes, audio, video) para crear experiencias inmersivas y interactivas. La hipermédia se convierte en una herramienta fundamental para la mercadotecnia en entornos digitales.
 

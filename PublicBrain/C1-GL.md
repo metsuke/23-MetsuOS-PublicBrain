@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.896Z
-modified: 2024-06-10T15:26:27.080Z
+modified: 2024-07-20T14:54:47.565Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,4 +23,4 @@ tags:
 
 [[Aprender Idioma Gallego]]
 
-<-- [[B2-GL]] | [[C2-GL]] -->
+<-- [[B2-GL ⚫①]] | [[C2-GL]] -->

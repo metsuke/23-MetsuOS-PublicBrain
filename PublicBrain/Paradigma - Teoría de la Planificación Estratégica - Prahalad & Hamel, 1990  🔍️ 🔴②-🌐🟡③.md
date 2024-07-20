@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-20T12:24:36.424Z
-modified: 2024-07-15T02:29:09.877Z
+modified: 2024-07-19T21:37:53.306Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Paradigma - Teoría de la Planificación Estratégica - Prahalad & Hamel, 1990  🔍️ 🔴②-🌐🟡③
 
-[[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
+[[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
 
 ## Introducción
 

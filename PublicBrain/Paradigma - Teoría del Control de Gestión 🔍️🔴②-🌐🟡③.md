@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-26T20:10:24.848Z
-modified: 2024-07-15T02:33:29.733Z
+modified: 2024-07-19T21:37:53.330Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 4
-ver_rev: 2
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Paradigma - Teoría del Control de Gestión 🔍️🔴②-🌐🟡③
 
-[[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
+[[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
 
 La teoría del control de gestión, también conocida como paradigma de control, es un enfoque para analizar y comprender la gestión de las organizaciones. Este paradigma se centra en la idea de que la gestión se basa en la toma de decisiones y en la implementación de acciones para alcanzar objetivos y metas.
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.380Z
-modified: 2024-07-17T07:46:31.652Z
+modified: 2024-07-20T14:55:37.604Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 32
+ver_rev: 33
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,7 +32,7 @@ En un futuro es más que probable que esta lista que inicio aquí se convierta e
 
 * [[Adventure (Atari, Inc., 1979) 🔴②]].
 * [[Alan Wake (Remedy Entertainment, 2010) 🔴②]]. 
-* [[Ant Attack (Quicksilva, 1983)]]. 
+* [[Ant Attack (Quicksilva, 1983) ⚫①]]. 
 * [[Assassin's Creed (Ubisoft Montreal, 2007)]]. 
 * [[Assassin's Creed IV - Black Flag (Ubisoft Montreal, 2013).]] 
 * Battlefield 4 (EA Digital Illusions CE, 2013). 

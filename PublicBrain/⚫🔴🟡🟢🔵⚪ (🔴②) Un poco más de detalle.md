@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-04T18:51:41.947Z
-modified: 2024-07-15T20:10:14.023Z
+modified: 2024-07-19T21:37:34.316Z
 supervisado: 2024-06-10T14:43:32.805Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 21
+ver_rev: 23
 nav_primary: 
 nav_secondary: 
 tags:
@@ -55,8 +55,8 @@ Aquí estoy afinando la descripción y características de cada nivel, a la par 
 ---
 AQUI ESTA, EN ESTE MOMENTO,  LA PUNTA DE LANZA PARA LLEVARLO A LA PRÁCTICA:
 
-* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②]]
-* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
+* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②]]
+* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
 
 ---
 ### 🟡③ - Yellow3 - Conocimiento Crítico.
@@ -97,7 +97,7 @@ AQUI ESTA, EN ESTE MOMENTO,  LA PUNTA DE LANZA PARA LLEVARLO A LA PRÁCTICA:
 * TODO: Determinar procedimiento y técnicas a aplicar.
 
 
-## Cuando hablamos de contenido externo ...
+## Cuando hablamos de contenido relacionado con otro contenido ...
 
 ### La Marca   🔴②-🌐🟡③
 
@@ -106,5 +106,9 @@ AQUI ESTA, EN ESTE MOMENTO,  LA PUNTA DE LANZA PARA LLEVARLO A LA PRÁCTICA:
 	* Se hace así como medio para minimizar la "parálisis por análisis" ya que no es realista analizar en un primer impacto todas las fuentes de todos los papers del mundo a la vez, esto debe realizarse por etapas en funcion de necesidades concretas.
 	* Esta es una solución de compromiso, si bien, para que los documentos que los referencia puedan subir por encima de  🟡③, si se requerirá análisis estilo racimo.
 	* La marca se arrastrará recursivamente hasta el origen de la referencia, siempre que esa referencia haya alcanzado, al menos, el nivel  🔴②
+
+### La Marca 🔴②-⚖️🔴②
+
+Cuando exista un metanálisis sobre un documento específico, indicaremos de esta forma el nivel del propio documento y el nivel del metaanálisis asociado a el, de forma que podamos rastrear el nivel de validez asignado en función de la documentación disponible actualmente.
 
 ![[Plantilla - 1MT#One More Thing]]

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.630Z
-modified: 2024-06-10T15:26:26.504Z
+modified: 2024-07-20T14:55:37.695Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Quicksilva
 
-[Quicksilva en Wikipedia](https://en.wikipedia.org/wiki/Quicksilva) | [[Ant Attack (Quicksilva, 1983)]]
+[Quicksilva en Wikipedia](https://en.wikipedia.org/wiki/Quicksilva) | [[Ant Attack (Quicksilva, 1983) ⚫①]]
 
 Quicksilva es una empresa de videojuegos británica que estuvo activa en la década de 1980. Fueron conocidos por publicar varios videojuegos populares para computadoras de la época, incluyendo "Ant Attack," que mencionaste.
 

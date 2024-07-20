@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.916Z
-modified: 2024-06-10T15:26:26.337Z
+modified: 2024-07-20T14:55:37.768Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 30
+ver_rev: 31
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -23,7 +23,7 @@ tags: []
 ## A-F
 * [[Adventure (Atari, Inc., 1979) 🔴②]].
 * [[Alan Wake (Remedy Entertainment, 2010) 🔴②]]. 
-* [[Ant Attack (Quicksilva, 1983)]].
+* [[Ant Attack (Quicksilva, 1983) ⚫①]].
 * [[Assassin's Creed (Ubisoft Montreal, 2007)]]
 * [[Assassin's Creed IV (Ubisoft, 2013)]]
 * [[Asteroids (Atari, 1979-1980)]]

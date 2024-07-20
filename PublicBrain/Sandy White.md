@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.675Z
-modified: 2024-06-10T15:26:26.466Z
+modified: 2024-07-20T14:55:37.747Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Sandy White
 
-[[Ant Attack (Quicksilva, 1983)]]
+[[Ant Attack (Quicksilva, 1983) ⚫①]]
 
 - Responsable de Ant Attack (Quicksilva, 1983).
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-02T20:02:26.542Z
-modified: 2024-07-15T02:27:44.710Z
+modified: 2024-07-19T21:37:53.179Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Kotler, 2003, p. 241 📚 🔴②-🌐🟡③
 
-[[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
+[[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
 
 
 Philip Kotler es considerado uno de los padres del marketing moderno. Nacido en 1931, es un economista y escritor estadounidense que ha dedicado gran parte de su vida a investigar y enseñar sobre el marketing.

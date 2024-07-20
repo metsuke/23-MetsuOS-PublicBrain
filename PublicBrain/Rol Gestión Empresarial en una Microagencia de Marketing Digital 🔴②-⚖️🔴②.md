@@ -9,20 +9,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.654Z
-modified: 2024-07-15T02:29:01.693Z
+modified: 2024-07-19T21:37:34.104Z
 supervisado: 2024-06-10T14:35:11.610Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 36
+ver_rev: 38
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②
+# Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
-	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
+	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
 	* [[Glosario de Marketing Digital ⚫①]]
 
 

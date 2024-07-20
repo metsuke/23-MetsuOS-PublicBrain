@@ -8,19 +8,23 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-04-06T23:48:58.691Z
-modified: 2024-07-20T14:54:47.539Z
+created: 2024-04-06T23:48:58.759Z
+modified: 2024-07-20T14:55:07.358Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 74
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# B1-GL
+# B2-GL ⚫①
 
 [[Aprender Idioma Gallego]]
 
-<-- [[A2-GL]] | [[B2-GL ⚫①]] -->
+<-- [[B1-GL]] | [[C1-GL]] -->
+
+TODO: Desarrollar
+
+![[Plantilla - 1MT#One More Thing]]

@@ -3,18 +3,18 @@ iaStatus: 8
 iaStatus_Generado: H
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-07-11T22:52:24.477Z
+modified: 2024-07-20T15:04:41.482Z
 supervisado: 2024-06-09T21:35:05.959Z
-ACCION: 
+ACCION: S
 ver_major: 0
-ver_minor: 5
-ver_rev: 143
+ver_minor: 4
+ver_rev: 146
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,7 +33,7 @@ Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Market
 	:Organizaciones::Negocio:
 		:MicroagenciaPublicidad::GetStructure]}
 
-* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②|Gestión Empresarial  🔴②]]
+* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②|Gestión Empresarial 🔴②-⚖️🔴②]]
 	* [[Rol Comercial 🔴②|Comercial 🔴②]]
 	* [[Rol Administración Negocios 🔴②|Administración 🔴②]]
 	* [[Rol Account Manager 🔴②|Account Manager 🔴②]]

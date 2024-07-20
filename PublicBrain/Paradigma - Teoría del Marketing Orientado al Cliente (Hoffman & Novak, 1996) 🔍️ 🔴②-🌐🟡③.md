@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-16T16:30:49.006Z
-modified: 2024-07-15T02:26:39.666Z
+modified: 2024-07-19T21:37:53.357Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②-🌐🟡③
 
 * Paradigma en:
-	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
+	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
 
 El paradigma del marketing orientado al cliente es un enfoque que se centra en comprender las necesidades y deseos de los clientes para desarrollar estrategias efectivas que les aporten valor. Esta teoría se basa en la idea de que los clientes son el centro del proceso de marketing, y que la comprensión de sus necesidades y deseos es fundamental para desarrollar productos y servicios que les aporten valor.
 

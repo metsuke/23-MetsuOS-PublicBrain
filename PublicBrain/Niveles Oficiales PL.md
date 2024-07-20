@@ -1,20 +1,20 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.440Z
-modified: 2024-06-10T15:26:26.604Z
+modified: 2024-07-19T16:32:57.233Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 9
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Niveles Oficiales PL
 

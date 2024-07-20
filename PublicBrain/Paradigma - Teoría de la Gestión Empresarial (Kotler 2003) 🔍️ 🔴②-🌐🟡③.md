@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-11T21:17:55.520Z
-modified: 2024-07-15T02:27:44.823Z
+modified: 2024-07-19T21:37:34.294Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 7
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,9 +22,9 @@ tags:
 # Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②-🌐🟡③
 
 
-* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②]]
+* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②]]
 * Referencia en:
-	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️ ⚫①]]
+	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
 
 ## La Filosofía de la Gestión de Marketing
 

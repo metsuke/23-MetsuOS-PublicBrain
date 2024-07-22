@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②.md",
+                "file": "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b65e192f81e27a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Elementos del conocimiento humano y científico  🔴②.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ec29beb867a8a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②.md",
+                "file": "PublicBrain/Elementos del conocimiento humano y científico  🔴②.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②.md",
+                "file": "PublicBrain/Elementos del conocimiento humano y científico  🔴②.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②.md"
+                "file": "PublicBrain/Elementos del conocimiento humano y científico  🔴②.md"
               }
             }
           },
@@ -163,13 +188,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "127a1afcc276a7c8",
+  "active": "b65e192f81e27a23",
   "lastOpenFiles": [
-    "PublicBrain/Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③.md",
-    "PublicBrain/Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②-🌐🟡③.md",
+    "PublicBrain/Estructura del Conocimiento Humano y Científico ⚫①.md",
+    "PublicBrain/Tipos de Citas Bibliográficas  ⚫①.md",
+    "PublicBrain/Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③.md",
     "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②.md",
     "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Elementos del conocimiento humano y científico  🔴②.md",
+    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle.md",
+    "Elementos del conocimiento humano y científico  ⚫①.md",
+    "Tipos de Citas Bibliográficas  ⚫①.md",
+    "Estructura del Conocimiento Humano y Científico ⚫①.md",
+    "PublicBrain/Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②-🌐🟡③.md",
     "PublicBrain/Niveles y Exámenes Adicionales CA.md",
     "PublicBrain/Niveles Oficiales UK.md",
     "PublicBrain/Niveles Oficiales TR.md",
@@ -182,15 +215,7 @@
     "PublicBrain/B1-NO.md",
     "PublicBrain/B1-TR.md",
     "PublicBrain/B2-EU.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle.md",
     "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
-    "PublicBrain/Niveles Oficiales TH.md",
-    "PublicBrain/Niveles Oficiales NO.md",
-    "PublicBrain/Niveles Oficiales RO.md",
-    "PublicBrain/Niveles Oficiales RU.md",
-    "PublicBrain/Niveles Oficiales PL.md",
-    "PublicBrain/Niveles Oficiales KO.md",
     "PublicBrain/_resources/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle",
     "PublicBrain/_resources/Plantilla - 1MT",
     "PublicBrain/_resources/Index",

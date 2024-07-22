@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-10T14:35:01.633Z
-modified: 2024-07-20T15:36:33.624Z
+modified: 2024-07-22T00:59:44.262Z
 supervisado: 2024-06-10T14:43:12.089Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,7 +34,7 @@ El texto destaca la importancia del rol de gestión empresarial en una microagen
 
 Los objetivos del rol de gestión empresarial en una microagencia de marketing digital se centran en:
 
-* Entender las necesidades de los clientes: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②-🌐🟡③]], que se centra en comprender las necesidades y deseos de los clientes para desarrollar estrategias efectivas ([[Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③]])**.
+* Entender las necesidades de los clientes: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②-🌐🟡③]], que se centra en comprender las necesidades y deseos de los clientes para desarrollar estrategias efectivas ([[Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③]])**.
 * Definir el perfil del negocio: Esta idea se relaciona con el [[Paradigma - Teoría de la Planificación Estratégica - Prahalad & Hamel, 1990  🔍️ 🔴②-🌐🟡③]], que se centra en analizar la situación actual de la empresa y definir objetivos y estrategias para alcanzarlos ([[Paper - Prahalad & Hamel, 1990, p. 82 🔬 🔴②-🌐🟡③]]).
 * Delegar la ejecución en las personas elegidas: Esta idea se basa en el [[Paradigma - Teoría de la Delegación 🔍️ 🔴②-🌐🟡③]], que se centra en asignar responsabilidades y autoridad a los empleados para que puedan realizar tareas específicas ([[Concepto - Delegación Efectiva - Drucker, 1954 📚  🔴②-🌐🟡③]]).
 * Supervisar los resultados: Esta idea se relaciona con el [[Paradigma - Teoría del Control de Gestión 🔍️🔴②-🌐🟡③]], que se centra en monitorear y evaluar el desempeño de la empresa para asegurar que se alcanzan los objetivos ([[Porter, 1985, p. 45 📚 🔴②-🌐🟡③]]).

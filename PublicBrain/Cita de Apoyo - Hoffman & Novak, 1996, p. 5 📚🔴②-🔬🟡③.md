@@ -6,21 +6,22 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-15T01:57:54.432Z
-modified: 2024-07-20T15:23:11.234Z
+modified: 2024-07-22T01:00:20.538Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③
+# Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③
 
 * [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
+* [[Tipos de Citas Bibliográficas  ⚫①]]
 
-## Comprender las Necesidades y Deseos de los Clientes en Entornos de Medios de Comunicación por Computadora
+## Comprender las Necesidades y Deseos de los Clientes en Entornos de Medios de Comunicación por Computadora
 
 Los autores Hoffman y Novak exploran el concepto de Entornos de Medios de Comunicación por Computadora (CME) hipermédia, específicamente en el contexto de la Web. Para destacar las características únicas de los CME hipermédia, presentan tres modelos de comunicación, de los cuales senos presentan dos (el tercero se explora en páginas posteriores del mismo estudio).
 

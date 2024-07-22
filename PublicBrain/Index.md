@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-07-19T21:42:24.181Z
+modified: 2024-07-22T00:56:36.384Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 137
+ver_rev: 139
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,12 @@ tags:
 [[Arrojando Luz sobre Polémicas Linguísticas]] | [[GPT4All Testing]] | [[Creando MetsuOS ⚫①]]
 
 DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo frío y "aburrido", pero recuerden, una vez establecido el contenido, comprobado y gestionado por parte de un humano en fases subsiguientes, la calidez y empatía de la forma de comunicarlo puede modularse dinámicamente y el mensaje ser personalizado, mediante IA, tomando en cuenta todo tipo de parámetros.
+
+## Estructura del Conocimiento
+
+* [[Estructura del Conocimiento Humano y Científico ⚫①]]
+	* [[Elementos del conocimiento humano y científico  🔴②]]
+	* [[Tipos de Citas Bibliográficas  ⚫①]]
 
 ## Desarrollo Estructura Habilidades-Perfiles-Tareas 
 

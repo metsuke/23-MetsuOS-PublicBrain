@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T20:41:29.428Z
-modified: 2024-07-20T22:20:27.860Z
+modified: 2024-07-26T10:42:11.365Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,7 +25,7 @@ Aquí te dejo el índice técnico exhaustivo y detallado para un curso sobre "Es
 
 ## Introducción al Conocimiento
 
-* Definición y concepto de conocimiento
+* [[Definición y concepto de conocimiento 🔴②]]
 * Importancia del conocimiento en la sociedad actual
 * Breve historia del conocimiento humano
 * Objetivos y enfoques del curso
@@ -83,8 +83,8 @@ Aquí te dejo el índice técnico exhaustivo y detallado para un curso sobre "Es
 
 ---
 
-[[Elementos del conocimiento humano y científico  🔴②]]
-[[Tipos de Citas Bibliográficas  ⚫①]]
+* [[Elementos del conocimiento humano y científico  🔴②]]
+	* [[Tipos de Citas Bibliográficas  ⚫①]]
 
 ---
 

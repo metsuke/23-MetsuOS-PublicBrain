@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.375Z
-modified: 2024-07-17T07:46:31.655Z
+modified: 2024-07-22T09:32:53.393Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Nacho Cano
 
-[[Aprender sobre Mecano]]
+[[Aprender sobre Mecano ⚫①]]
 
 Nacho Cano, cuyo nombre completo es Ignacio Cano Andrés, es un músico y compositor español conocido por su exitosa carrera en el ámbito de la música pop y su participación en el influyente grupo musical Mecano. Aquí tienes información relevante sobre Nacho Cano:
 

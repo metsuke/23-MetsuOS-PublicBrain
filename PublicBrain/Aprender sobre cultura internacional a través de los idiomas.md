@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.604Z
-modified: 2024-06-10T15:26:27.131Z
+modified: 2024-07-22T09:32:53.248Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 76
+ver_rev: 77
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,7 +32,7 @@ tags:
 
 * [[Aprender sobre BabyMetal]] (JP)
 * [[Aprender sobre Evanescence]] (EN)
-* [[Aprender sobre Mecano]] (ES)
+* [[Aprender sobre Mecano ⚫①]] (ES)
 * [[Aprender sobre Nirvana]] (EN)
 * [[Aprender sobre Rammstein]] (GE)
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.800Z
-modified: 2024-06-10T15:26:26.759Z
+modified: 2024-07-22T09:32:53.319Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # José María Cano
 
-[[Aprender sobre Mecano]]
+[[Aprender sobre Mecano ⚫①]]
 
 José María Cano es un músico y compositor español, conocido por ser uno de los miembros fundadores del exitoso grupo musical Mecano, junto con sus hermanos Ana Torroja y Nacho Cano. Nació el 21 de febrero de 1959 en Madrid, España.
 

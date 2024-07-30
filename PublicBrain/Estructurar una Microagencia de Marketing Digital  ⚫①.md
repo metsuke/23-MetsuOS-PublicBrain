@@ -9,17 +9,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-07-20T15:04:41.482Z
+modified: 2024-07-25T01:19:05.490Z
 supervisado: 2024-06-09T21:35:05.959Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 146
+ver_rev: 148
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Estructurar una Microagencia de Marketing Digital  ⚫①
+bn # Estructurar una Microagencia de Marketing Digital  ⚫①
 
 * [[PublicBrain/Index|Index]] 
 	* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital 🔴②]]

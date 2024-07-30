@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-04T18:51:41.947Z
-modified: 2024-07-19T21:37:34.316Z
+modified: 2024-07-24T13:17:33.020Z
 supervisado: 2024-06-10T14:43:32.805Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 23
+ver_rev: 24
 nav_primary: 
 nav_secondary: 
 tags:
@@ -57,6 +57,9 @@ AQUI ESTA, EN ESTE MOMENTO,  LA PUNTA DE LANZA PARA LLEVARLO A LA PRÁCTICA:
 
 * [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②]]
 * [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
+
+* [[Estructura del Conocimiento Humano y Científico ⚫①]]
+	* [[Elementos del conocimiento humano y científico  🔴②]]
 
 ---
 ### 🟡③ - Yellow3 - Conocimiento Crítico.

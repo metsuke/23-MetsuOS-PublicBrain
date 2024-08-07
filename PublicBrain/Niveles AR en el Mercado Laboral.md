@@ -1,17 +1,20 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.406Z
-modified: 2024-07-19T16:28:05.546Z
+modified: 2024-08-02T15:30:28.555Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -20,7 +23,7 @@ tags:
 
 [[Aprender Idioma Árabe]]
 
-## Módulo 1: Introducción al árabe y su importancia en el mercado laboral
+## Módulo 1: "I"ntroducción al árabe y su importancia en el mercado laboral
 
 - Presentación del curso
 - Importancia del árabe en el mercado laboral global

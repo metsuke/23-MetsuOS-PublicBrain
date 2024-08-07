@@ -1,17 +1,20 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: llama3-70b-8192
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2024-07-22T18:02:13.504Z
+modified: 2024-08-02T15:30:28.618Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +29,7 @@ A continuación, se presentan los diferentes niveles que componen esta estructur
 
 ## Nivel 1: Observación y Experimentación
 
-* **Observaciones**: Hechos y datos recopilados a través de la experiencia y la experimentación. Estas observaciones son la base para la construcción del conocimiento (Kuhn, 1962, p. 10).
+* **Observaciones**: "H"echos y datos recopilados a través de la experiencia y la experimentación. Estas observaciones son la base para la construcción del conocimiento (Kuhn, 1962, p. 10).
 
 ```mermaid
 graph LR
@@ -65,7 +68,7 @@ graph LR
 
 ## Nivel 5: Conceptualización y Categorización
 
-* **Conceptos**: Ideas abstractas que representan objetos, eventos o relaciones. Los conceptos se basan en los principios y proporcionan una representación más abstracta y general de los fenómenos (Kuhn, 1962, p. 50).
+* **Conceptos**: "I"deas abstractas que representan objetos, eventos o relaciones. Los conceptos se basan en los principios y proporcionan una representación más abstracta y general de los fenómenos (Kuhn, 1962, p. 50).
 * **Categorías**: Agrupaciones de conceptos relacionados que permiten clasificar y organizar la información. Las categorías se basan en los conceptos y proporcionan una forma de organizar y clasificar la información (Lakatos, 1970, p. 30).
 
 ```mermaid

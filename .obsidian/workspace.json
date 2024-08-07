@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "127a1afcc276a7c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Beyond - Two Souls (Quantic Dream, 2013).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b65e192f81e27a23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "Si la naturaleza de las religiones es el amor, la compasión y la coexistencia, ¿como es que se pelean entre ellas?  🔴②.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Beyond - Two Souls (Quantic Dream, 2013).md",
+                "file": "Si la naturaleza de las religiones es el amor, la compasión y la coexistencia, ¿como es que se pelean entre ellas?  🔴②.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Beyond - Two Souls (Quantic Dream, 2013).md",
+                "file": "Si la naturaleza de las religiones es el amor, la compasión y la coexistencia, ¿como es que se pelean entre ellas?  🔴②.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Beyond - Two Souls (Quantic Dream, 2013).md"
+                "file": "Si la naturaleza de las religiones es el amor, la compasión y la coexistencia, ¿como es que se pelean entre ellas?  🔴②.md"
               }
             }
           },
@@ -175,44 +163,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "127a1afcc276a7c8",
+  "active": "b65e192f81e27a23",
   "lastOpenFiles": [
-    "PublicBrain/Pa Pa Ya!!.md",
-    "PublicBrain/PHP Template systems by resources consumption.md",
-    "PublicBrain/Pa Pa Ya!!\".md",
-    "PublicBrain/PTE Academic (Pearson Test of English Academic).md",
-    "PublicBrain/PHP Routing system.md",
-    "PublicBrain/Otros tipos de redes - PAN, SAN, CAN, GAN, VLAN, VPN.md",
-    "PublicBrain/Origen del cambio de hora en España.md",
-    "PublicBrain/Osciloscopio.md",
-    "PublicBrain/Operable.md",
-    "PublicBrain/Organización lógica del contenido (Lectura Facil).md",
-    "PublicBrain/Onedari Daisakusen.md",
-    "PublicBrain/Open Nebula.md",
+    "PublicBrain/Arrojando Luz sobre Polémicas Morales.md",
+    "PublicBrain/Comparación entre las principales religiones y Mein Kanpf 🔴②.md",
+    "Si la naturaleza de las religiones es el amor, la compasión y la coexistencia, ¿como es que se pelean entre ellas?  🔴②.md",
+    "PublicBrain/Index.md",
+    "Comparación entre las principales religiones y Mein Kanpf 🔴②.md",
+    "Arrojando Luz sobre Polémicas Morales.md",
+    "PublicBrain/Pranam.md",
+    "PublicBrain/Polaco.md",
+    "PublicBrain/Plump.md",
+    "PublicBrain/PlayStation.md",
+    "PublicBrain/Plates (PHP Templating).md",
+    "PublicBrain/PlayStation 4.md",
+    "PublicBrain/Perceptible.md",
+    "PublicBrain/Personajes en Storytelling.md",
+    "PublicBrain/Planificación de viajes y reservas (A1-CA).md",
+    "PublicBrain/Pedir comida en un restaurante (A1-SW).md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
-    "PublicBrain/BabyMetal - Vestuario.md",
-    "PublicBrain/B2-TR.md",
-    "PublicBrain/Oh! Majinai.md",
-    "PublicBrain/Oncle.md",
-    "PublicBrain/Objetivo de WCAG 2.1.md",
-    "PublicBrain/Objetivos financieros personales.md",
-    "PublicBrain/Ofuscación.md",
-    "PublicBrain/Objetivo de WCAG 2.0.md",
-    "PublicBrain/Obsidian.md",
-    "PublicBrain/Light and Darkness.md",
-    "PublicBrain/Números y fechas en catalán (A1-CA).md",
-    "PublicBrain/OET (Occupational English Test).md",
-    "PublicBrain/Números y expresiones de cantidad (N5-JP).md",
+    "PublicBrain/_resources/Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③",
+    "PublicBrain/_resources/Definición y concepto de conocimiento 🔴②",
+    "PublicBrain/_resources/Elementos del conocimiento humano y científico  🔴②",
+    "PublicBrain/_resources/Estructura del Conocimiento Humano y Científico ⚫①",
+    "PublicBrain/_resources/Niveles Oficiales UK",
+    "PublicBrain/Aprender Idioma Indonesio.md",
+    "PublicBrain/Bon dia.md",
+    "PublicBrain/Borderlands (Gearbox Software, 2009).md",
+    "PublicBrain/Bioshock (2K Games, 2007).md",
+    "PublicBrain/Pauta 4 - Compatible.md",
+    "PublicBrain/Pautas de Accesibilidad.md",
+    "PublicBrain/Pauta 3 - Contenido que parpadea, se desplaza o se mueve automáticamente.md",
+    "PublicBrain/Pauta 2 - Control del Teclado.md",
+    "PublicBrain/Partículas gramaticales y su uso (N5-JP).md",
     "PublicBrain/_resources/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle",
     "PublicBrain/_resources/Plantilla - 1MT",
     "PublicBrain/_resources/Index",
     "PublicBrain/_resources/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②",
     "PublicBrain/_resources/Aprender sobre Inteligencia Artificial ⚫①",
-    "PublicBrain/_resources/Rol Expertos en SEO",
-    "PublicBrain/_resources/Rol Expertos en PPC",
-    "PublicBrain/_resources/Rol Experto en Embudos de Venta",
-    "PublicBrain/_resources/Rol Experto en EMail Marketing",
-    "PublicBrain/_resources/Estructurar una Microagencia de Marketing Digital  ⚫①",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

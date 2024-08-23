@@ -20,7 +20,7 @@ nav_secondary:
 tags:
 ---
 # Estructurar una Microagencia de Marketing Digital  ⚫①
-bn # Estructurar una Microagencia de Marketing Digital  ⚫①
+
 
 * [[PublicBrain/Index|Index]] 
 	* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital 🔴②]]

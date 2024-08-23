@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2024-08-07T03:41:07.159Z
+modified: 2024-08-07T04:11:25.870Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Si la naturaleza de las religiones es el amor, la compasión y la coexistencia, ¿como es que se pelean entre ellas?  🔴②
 
 [[Arrojando Luz sobre Polémicas Morales]]

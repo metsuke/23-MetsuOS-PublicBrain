@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-03T20:09:00.383Z
-modified: 2024-07-11T20:09:48.144Z
+modified: 2024-08-31T19:32:32.347Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,6 +23,7 @@ tags:
 
 [[Index]]
 
+**DISCLAIMER Texto Experimental**
 ## Introducción
 
 El presente documento técnico-funcional describe el sistema operativo diseñado para gestionar tareas automáticas y manuales con apoyo de inteligencia artificial (IA). El objetivo del sistema operativo es proporcionar una plataforma escalable, flexible y accesible para todos los usuarios, permitiendo la gestión eficiente de tareas y la toma de decisiones informadas.
@@ -32,12 +33,13 @@ El sistema operativo se compone de tres componentes principales: un servidor que
 El sistema operativo se diseñó con la accesibilidad en mente, cumpliendo con los estándares de accesibilidad WCAG 2.1 y permitiendo la integración con tecnologías de asistencia. Además, el sistema operativo se enfoca en la seguridad, implementando medidas de autenticación y autorización robustas para proteger los datos de los usuarios.
 
 * [[Introducción a MetsuOS 🔴②]]
-	* [[Propósito y alcance del sistema operativo 🔴②]]
-	* Requisitos funcionales y no funcionales
+	* [[Propósito y alcance del sistema operativo MetsuOS 🔴②]]
+	* [[Requisitos funcionales y no funcionales en MetsuOS 🔴②]]
 * Fundamentos Universales
 	* [[Funcionalidades Universales para gestión de notas en MetsuOS ⚫①]]
 * Arquitectura del Sistema
-	* Diagrama de bloques del sistema operativo
+	* [[Diagrama de bloques del sistema operativo MetsuOS  ⚫①]]
+		* [[Diagrama de bloques del sistema de gestion de conocimiento en MetsuOS ⚫①]]
 	* Componentes del sistema operativo (servidor, cliente local, cliente web)
 	* Interacciones entre componentes
 * Componentes del Sistema

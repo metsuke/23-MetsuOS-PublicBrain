@@ -1,24 +1,27 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: llama3-70b-8192
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-07-04T18:42:21.692Z
-modified: 2024-07-04T18:45:43.596Z
+modified: 2024-08-31T19:36:51.381Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 2
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Introducción a MetsuOS 🔴②
 
-**ADVERTENCIA: Contenido puramente experimental. No esperen mucha coherencia.**
+**DISCLAIMER Texto Experimental**
 
 [[Index]] | [[Creando MetsuOS ⚫①]]
 

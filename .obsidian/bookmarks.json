@@ -32,14 +32,26 @@
       "path": "PublicBrain/Platzi_Referal.md"
     },
     {
-      "type": "file",
-      "ctime": 1720989158663,
-      "path": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md"
-    },
-    {
-      "type": "file",
-      "ctime": 1720989168133,
-      "path": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle.md"
+      "type": "group",
+      "ctime": 1725009883959,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1720989158663,
+          "path": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md"
+        },
+        {
+          "type": "file",
+          "ctime": 1720989168133,
+          "path": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1725009977152,
+          "path": "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md"
+        }
+      ],
+      "title": "SistemaValidacion"
     }
   ]
 }

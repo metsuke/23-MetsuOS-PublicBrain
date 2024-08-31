@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: ""
 a11y: 0
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.429Z
-modified: 2024-06-10T15:26:27.168Z
+modified: 2024-08-30T08:20:28.657Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 77
+ver_rev: 78
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,3 +32,4 @@ tags:
 	* [[MOS Dictionary IT (Diccionario MetsuOS)]]
 	* [[MOS Flascards IT (Flashcards MetsuOS)]]
 
+![[Plantilla - 1MT#One More Thing]]

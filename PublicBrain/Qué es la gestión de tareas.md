@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.633Z
-modified: 2024-06-10T15:26:26.503Z
+modified: 2024-08-30T08:24:51.879Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Qué es la gestión de tareas
 
@@ -40,3 +43,5 @@ A continuación, se destacan los componentes clave de la gestión de tareas:
     
 
 En resumen, la gestión de tareas es un proceso integral que abarca desde la planificación hasta la ejecución y el seguimiento, y es esencial tanto para el logro de metas personales como para la eficiencia en el ámbito laboral. Dominar esta habilidad puede mejorar significativamente tu productividad y capacidad para gestionar tus responsabilidades de manera efectiva.
+
+![[Plantilla - 1MT#One More Thing]]

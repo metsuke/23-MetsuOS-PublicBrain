@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-04T18:51:41.947Z
-modified: 2024-07-24T13:17:33.020Z
+modified: 2024-08-31T15:57:49.959Z
 supervisado: 2024-06-10T14:43:32.805Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 24
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -55,11 +55,18 @@ Aquí estoy afinando la descripción y características de cada nivel, a la par 
 ---
 AQUI ESTA, EN ESTE MOMENTO,  LA PUNTA DE LANZA PARA LLEVARLO A LA PRÁCTICA:
 
-* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②]]
-* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
+* [[Estudio y Análisis científico de la Declaración Universal de los Derechos Humanos  ⚫①
+* [[Estudio y Análisis lógico de la Declaración Universal de los Derechos Humanos   ⚫①]]
+* [[Estudio y Análisis moral de la Declaración Universal de los Derechos Humanos  ⚫①]]
 
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 	* [[Elementos del conocimiento humano y científico  🔴②]]
+
+* [[Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②]]
+
+* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②]]
+* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
+
 
 ---
 ### 🟡③ - Yellow3 - Conocimiento Crítico.

@@ -1,17 +1,20 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.623Z
-modified: 2024-06-10T15:26:26.508Z
+modified: 2024-08-23T07:26:20.986Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,7 +35,7 @@ Los protocolos de comunicación en redes son un conjunto de reglas y estándares
     
 5. **Protocolo de Resolución de Nombres de Dominio (DNS)**: El DNS se utiliza para traducir nombres de dominio, como [www.ejemplo.com](http://www.ejemplo.com/), en direcciones IP numéricas que las computadoras pueden entender. Esto permite la navegación web utilizando nombres en lugar de recordar direcciones IP.
     
-6. **Protocolo de Transferencia de Hipertexto (HTTP)**: HTTP se utiliza para la transferencia de datos en la World Wide Web. Define cómo los navegadores web y los servidores web interactúan y cómo se solicitan y entregan las páginas web.
+6. **Protocolo de Transferencia de Hipertexto (HTTP)**: "H"TTP se utiliza para la transferencia de datos en la World Wide Web. Define cómo los navegadores web y los servidores web interactúan y cómo se solicitan y entregan las páginas web.
     
 7. **Protocolo de Transferencia de Archivos (FTP)**: FTP se utiliza para transferir archivos entre un cliente y un servidor en una red. Permite la subida y descarga de archivos de manera eficiente.
     

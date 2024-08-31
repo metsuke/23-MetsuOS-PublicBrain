@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-08-07T02:34:45.696Z
+modified: 2024-08-31T15:29:06.153Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 140
+ver_rev: 142
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,6 +29,12 @@ tags:
 
 DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo frío y "aburrido", pero recuerden, una vez establecido el contenido, comprobado y gestionado por parte de un humano en fases subsiguientes, la calidez y empatía de la forma de comunicarlo puede modularse dinámicamente y el mensaje ser personalizado, mediante IA, tomando en cuenta todo tipo de parámetros.
 
+## Estructrura de la Moral
+
+* [[Estudio y Análisis científico de la Declaración Universal de los Derechos Humanos  ⚫①
+* [[Estudio y Análisis lógico de la Declaración Universal de los Derechos Humanos   ⚫①]]
+* [[Estudio y Análisis moral de la Declaración Universal de los Derechos Humanos  ⚫①]]
+	
 ## Estructura del Conocimiento
 
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]

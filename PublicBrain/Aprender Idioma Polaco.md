@@ -8,13 +8,13 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2024-04-06T23:48:58.442Z
-modified: 2024-07-17T07:51:37.239Z
+created: 2024-04-06T23:48:58.435Z
+modified: 2024-08-23T07:22:28.654Z
 supervisado: 2024-05-15T20:49:40.351Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 91
+ver_rev: 92
 nav_primary: 
 nav_secondary: 
 tags:

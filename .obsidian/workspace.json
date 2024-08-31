@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8b3021ff1753082",
+        "id": "7a3e995d2561bf0c",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e813d4da9d8e6b",
+            "id": "46e8f2774929e2ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,6 +58,18 @@
             }
           },
           {
+            "id": "0e684f4ed9057a09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1587061ebff276d6",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Index.md"
+                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle.md"
               }
             }
           },
@@ -163,34 +175,35 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c7e813d4da9d8e6b",
+  "active": "46e8f2774929e2ae",
   "lastOpenFiles": [
-    "PublicBrain/Niveles y Exámenes Adicionales PL.md",
-    "PublicBrain/Aprender Idioma Polaco.md",
-    "PublicBrain/Aprender Idiomas ⚫①.md",
-    "Niveles y Exámenes Adicionales PL.md",
-    "PublicBrain/Quicksilva.md",
-    "PublicBrain/Què tal?.md",
-    "PublicBrain/Que vagi bé.md",
-    "PublicBrain/Python.md",
-    "PublicBrain/Puntos de fusion de metales.md",
-    "PublicBrain/PublicIndex/Index.md",
-    "PublicBrain/Protocolos de comunicación en Redes.md",
-    "PublicBrain/Pruebas de vocabulario y gramática (A1-CA).md",
-    "PublicBrain/Pronunciación y escritura del alfabeto árabe.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
-    "PublicBrain/Profundidad.md",
-    "PublicBrain/Principios del diseño centrado en el usuario.md",
-    "PublicBrain/Principios de Accesibilidad.md",
-    "PublicBrain/Preguntas y respuestas en situaciones comunes (N5-JP).md",
-    "PublicBrain/Preguntar por precios (A1-SW).md",
-    "PublicBrain/Preguntas frecuentes (A1-AR).md",
-    "PublicBrain/Potasio.md",
+    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
     "PublicBrain/Index.md",
-    "PublicBrain/Arrojando Luz sobre Polémicas Morales.md",
-    "Si la naturaleza de las religiones es el amor, la compasión y la coexistencia, ¿como es que se pelean entre ellas?  🔴②.md",
-    "PublicBrain/Si la naturaleza de las religiones es el amor, la compasión y la coexistencia, ¿como es que se pelean entre ellas?  🔴②.md",
-    "PublicBrain/Comparación entre las principales religiones y Mein Kanpf 🔴②.md",
+    "Estudio y Análisis lógico de la Declaración Universal de los Derechos Humanos   ⚫①.md",
+    "PublicBrain/Estudio y Análisis moral de la Declaración Universal de los Derechos Humanos  ⚫①.md",
+    "PublicBrain/Estudio y Análisis científico de la Declaración Universal de los Derechos Humanos  ⚫①.md",
+    "PublicBrain/Análisis de Veracidad Científica  del Artículo 1 de la Declaración Universal de los Derechos Humanos   🔴②.md",
+    "Análisis Lógico del Articulo 1 de la Declaración Universal de los Derechos Humanos  ⚫①.md",
+    "PublicBrain/PublicIndex/Index.md",
+    "Análisis de Veracidad Científica  del Artículo 1 de la Declaración Universal de los Derechos Humanos   🔴②.md",
+    "PublicBrain/Declaración Universal de los Derechos Humanos.md",
+    "Estudio y Análisis científico de la Declaración Universal de los Derechos Humanos.md",
+    "PublicBrain/Aprender Idioma Finlandes.md",
+    "PublicBrain/Aprender Idioma Noruego.md",
+    "PublicBrain/Brother-in-law.md",
+    "PublicBrain/Rondo of Nightmare.md",
+    "PublicBrain/Roadmap para aprender economía.md",
+    "PublicBrain/Riffs de guitarra.md",
+    "PublicBrain/Road of Resistance.md",
+    "PublicBrain/Resemblance.md",
+    "PublicBrain/Renuncia estratégica.md",
+    "PublicBrain/Definición y concepto de derechos humanos  🔴②.md",
+    "Declaración Universal de los Derechos Humanos.md",
+    "Definición y concepto de derechos humanos.md",
+    "Estudio y Análisis moral de la Declaración Universal de los Derechos Humanos  ⚫①.md",
+    "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
+    "PublicBrain/[p812555_A1b.pdf.md",
+    "PublicBrain/_resources/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN  🔴②",
     "PublicBrain/_resources/Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③",
     "PublicBrain/_resources/Definición y concepto de conocimiento 🔴②",
     "PublicBrain/_resources/Elementos del conocimiento humano y científico  🔴②",
@@ -200,7 +213,6 @@
     "PublicBrain/_resources/Plantilla - 1MT",
     "PublicBrain/_resources/Index",
     "PublicBrain/_resources/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②",
-    "PublicBrain/_resources/Aprender sobre Inteligencia Artificial ⚫①",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",

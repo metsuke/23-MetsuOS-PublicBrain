@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.645Z
-modified: 2024-06-10T15:26:26.490Z
+modified: 2024-08-30T08:24:51.842Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 28
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Remedy Entertainment
 
@@ -51,3 +54,5 @@ Remedy Entertainment es una desarrolladora de videojuegos finlandesa conocida po
 - Remedy es conocido por su enfoque en la narrativa y la construcción de mundos intrigantes. Sus juegos a menudo tienen una narrativa en capítulos o episodios, y tienden a explorar temas de misterio, ciencia ficción y realidad alterada.
 
 En resumen, Remedy Entertainment es una compañía de desarrollo de videojuegos que ha dejado una marca distintiva en la industria con sus juegos narrativos y su estilo visual único. Su enfoque en la narrativa y la creación de mundos intrigantes ha ganado el aprecio de jugadores y críticos por igual a lo largo de los años.
+
+![[Plantilla - 1MT#One More Thing]]

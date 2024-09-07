@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Suzuka Nakamoto.md",
+                "file": "PublicBrain/C2-EO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Suzuka Nakamoto.md",
+                "file": "PublicBrain/C2-EO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Suzuka Nakamoto.md",
+                "file": "PublicBrain/C2-EO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Suzuka Nakamoto.md"
+                "file": "PublicBrain/C2-EO.md"
               }
             }
           },
@@ -177,6 +177,9 @@
   },
   "active": "46e8f2774929e2ae",
   "lastOpenFiles": [
+    "PublicBrain/C1-PL.md",
+    "PublicBrain/C1-TR.md",
+    "PublicBrain/Suzuka Nakamoto.md",
     "PublicBrain/Spouse.md",
     "PublicBrain/Startup.md",
     "PublicBrain/Strive.md",
@@ -200,9 +203,6 @@
     "PublicBrain/Sister-in-law.md",
     "PublicBrain/Sis. Anger.md",
     "PublicBrain/Sibling.md",
-    "PublicBrain/Shine.md",
-    "PublicBrain/Shanti Shanti Shanti.md",
-    "PublicBrain/Shark! Shark! (Mattel Electronics, 1982).md",
     "PublicBrain/_resources/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN  🔴②",
     "PublicBrain/_resources/Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③",
     "PublicBrain/_resources/Definición y concepto de conocimiento 🔴②",

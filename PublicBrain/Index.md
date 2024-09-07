@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-08-31T15:29:06.153Z
+modified: 2024-09-05T21:28:27.105Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 142
+ver_rev: 144
 nav_primary: 
 nav_secondary: 
 tags:
@@ -31,12 +31,14 @@ DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo fr
 
 ## Estructrura de la Moral
 
-* [[Estudio y Análisis científico de la Declaración Universal de los Derechos Humanos  ⚫①
+* [[Estudio y Análisis científico de la Declaración Universal de los Derechos Humanos  ⚫①]]
 * [[Estudio y Análisis lógico de la Declaración Universal de los Derechos Humanos   ⚫①]]
 * [[Estudio y Análisis moral de la Declaración Universal de los Derechos Humanos  ⚫①]]
 	
 ## Estructura del Conocimiento
 
+* Estructura de los Idimas Humanos
+	* Elementos de los idiomas Humanos
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 	* [[Elementos del conocimiento humano y científico  🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]

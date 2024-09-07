@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.658Z
-modified: 2024-06-10T15:26:26.481Z
+modified: 2024-09-05T21:18:41.200Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Rutina diaria (A1-SW)
 
@@ -23,7 +26,7 @@ tags: []
 La rutina diaria en suajili se puede expresar de la siguiente manera:
 
 1. Kusimama: Levantarse
-2. Kwenda bafuni: Ir al baño
+2. Kwenda bafuni: "I"r al baño
 3. Kuoga: Ducharse
 4. Kuvaa nguo: Vestirse
 5. Kifungua kinywa: Desayunar

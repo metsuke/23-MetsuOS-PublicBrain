@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/C2-EO.md",
+                "file": "PublicBrain/Aprender Lenguaje GO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/C2-EO.md",
+                "file": "PublicBrain/Aprender Lenguaje GO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/C2-EO.md",
+                "file": "PublicBrain/Aprender Lenguaje GO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/C2-EO.md"
+                "file": "PublicBrain/Aprender Lenguaje GO.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "46e8f2774929e2ae",
   "lastOpenFiles": [
+    "PublicBrain/Aprender Lenguaje Ensamblador.md",
+    "PublicBrain/C2-EO.md",
     "PublicBrain/C1-PL.md",
     "PublicBrain/C1-TR.md",
     "PublicBrain/Suzuka Nakamoto.md",
@@ -201,8 +203,6 @@
     "PublicBrain/Sistemas de escritura japoneses.md",
     "PublicBrain/Sin trampas de teclado.md",
     "PublicBrain/Sister-in-law.md",
-    "PublicBrain/Sis. Anger.md",
-    "PublicBrain/Sibling.md",
     "PublicBrain/_resources/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN  🔴②",
     "PublicBrain/_resources/Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③",
     "PublicBrain/_resources/Definición y concepto de conocimiento 🔴②",

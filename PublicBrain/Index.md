@@ -3,25 +3,24 @@ iaStatus: 8
 iaStatus_Generado: H
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-09-05T21:28:27.105Z
+modified: 2024-09-09T23:52:45.965Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 144
+ver_rev: 145
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Index
-
-[[Construyendo la plena inclusión a través de ciencia, comunicación, felicidad, productividad y videojuegos.]] 
+# Public Brain
 
 [[Docs Database]] | [[IA Database]] | [[Promting Database ⚫①]] | [[Tools Database ⚫①]] | [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
 

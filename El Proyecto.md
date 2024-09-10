@@ -1,28 +1,24 @@
 ---
 iaStatus: 8
 iaStatus_Generado: H
-iaStatus_Supervisado: "-"
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-05-25T21:40:47.127Z
-modified: 2024-06-10T15:14:13.501Z
+modified: 2024-09-09T23:49:34.365Z
 supervisado: 2024-05-25T21:43:23.295Z
-ACCION: 
+ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# El Proyecto (W)
-
-[![volver a la Home](_resources/El%20Proyecto/d127e8f844e447284700247bb17d2e79_MD5.png)](https://metsuke.com/)
-
 # El Proyecto
 
 ¿Recuerdas la sensación de plena alegría que sentiste cuando viste tu primer videojuego?
@@ -33,14 +29,13 @@ tags:
 
 ![](_resources/El%20Proyecto/28cd2b79deb0c716cfdb105645cbab62_MD5.jpg)
 
-![Cabinets imaginarias de Big Javis Adventure, Arrow Hunter y CRT Fighgters para representar el concepto de Desarrollo en Arcade](_resources/El%20Proyecto/880b96c21d7d942096600e8f7a18eb21_MD5.jpg)
-
 ## ¿Videojuegos accesibles?
 
 Es una sensación difícil de olvidar, esa mezcla de ilusión y el convencimiento de que el mundo será un lugar sencillamente genial, es una de esas ocasiones en las que sientes que la vida te va a sonreír por siempre.
 
 Desgraciadamente esto no ha sido así para todos, históricamente, el mundo del videojuego y, en general, el mundo tecnológico ha sido coto privado para aquellos que ven perfectamente, tienen unos reflejos de oro y una capacidad de concentración suma. Esto ha dejado fuera a una gran cantidad de personas de capacidades y objetivos diferentes. **Esto tiene que cambiar**.
 
+![Cabinets imaginarias de Big Javis Adventure, Arrow Hunter y CRT Fighgters para representar el concepto de Desarrollo en Arcade](_resources/El%20Proyecto/880b96c21d7d942096600e8f7a18eb21_MD5.jpg)
 ## ¿Cómo lograrlo?
 
 Existen iniciativas como [APX (Accessible Player Experiences)](https://accessible.games/accessible-player-experiences/) pero pienso que no cubren la necesidad de forma integral, me propongo crear un modelo de accesibilidad en videojuegos e implementarlo de forma inclusiva.
@@ -51,11 +46,13 @@ Bien, **¿como planteo cambiar esta situación?**
 
 ![Representación con lineas sencillas de Don Quijote de la Mancha cabalgando, escudo, lanza y casco en ristre](_resources/El%20Proyecto/97d4219e001142996f47aff5dc6aec28_MD5.jpg)
 
-![MetsuOS Accesibilidad](_resources/El%20Proyecto/13d17921c2a188e40dd7986cbabfabc6_MD5.jpg)
+
 
 ## Accesibilidad
 
 El primer paso para crear videojuegos accesible es estudiar y concienciar en torno a la accesibilidad, esto por un lado me permitirá mejora la técnica, evaluar los métodos precisos y enseñar a otros a hacerlo también.
+
+![MetsuOS Accesibilidad](_resources/El%20Proyecto/13d17921c2a188e40dd7986cbabfabc6_MD5.jpg)
 
 ## Ciencia
 
@@ -63,11 +60,13 @@ Como parte del proceso de investigación será necesario hacer uso del conocimie
 
 ![MetsuOS ciencia](_resources/El%20Proyecto/9a5fa7f75752e91e6625d2d3898d307b_MD5.jpg)
 
-![MetsuOS Comunicación](_resources/El%20Proyecto/7ca3d083137f8393ba2dee45a2381929_MD5.jpg)
+
 
 ## Comunicación
 
 De nada sirve tener la mejor idea y la mejor accesibilidad en tu videojuego si no se comunica apropiadamente, no solo se trata de difundir la palabra sino de estudiar cual es el mejor método para concienciar, la plena inclusión es un camino de doble dirección.
+
+![MetsuOS Comunicación](_resources/El%20Proyecto/7ca3d083137f8393ba2dee45a2381929_MD5.jpg)
 
 ## Productividad
 
@@ -75,12 +74,10 @@ Puede parecer algo fuera del objetivo marcado, pero nada mas lejos de la realida
 
 ![MetsuOS Productividad](_resources/El%20Proyecto/f08b8d651053957ddbf80fdd7953e713_MD5.jpg)
 
-![MetsuOS Videojuegos](_resources/El%20Proyecto/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg)
+
 
 ## Videojuegos
 
 Todo lo anterior se une con el objetivo de crear videojuegos realmente inclusivos, tomando como base las materias anteriores a más de estudiar el mundo del videojuego desde la misma base, de lo contrario difícilmente podremos crear experiencias realmente valiosas para todos los perfiles de jugador.
 
-© 2018-2022 [Raúl Carrillo Garrido](https://www.linkedin.com/in/raulcarrillo/)
-
-[](https://github.com/metsuke)[![Mi perfil en Platzi](_resources/El%20Proyecto/e0b7410aefeab09723cc159eacad6310_MD5.png)](https://platzi.com/p/metsuke)[![¡Síguieme en Mastodon!](_resources/El%20Proyecto/40f50a0bfc39636c1b15b0360b746e4a_MD5.png)](https://mastodon.metsuke.com/@metsuke)
+![MetsuOS Videojuegos](_resources/El%20Proyecto/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg)

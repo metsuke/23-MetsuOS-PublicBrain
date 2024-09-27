@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.830Z
-modified: 2024-06-10T15:14:13.866Z
+modified: 2024-09-22T21:54:19.468Z
 supervisado: 2024-05-27T13:38:04.917Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Lavado y Preparación de Ingredientes (Morcilla Blanca)
 
-[[Aprender a preparar morcilla blanca]]
+[[Aprender a preparar morcilla blanca ⚫①]]
 
 Por lo general, antes de preparar morcilla blanca, es importante lavar y preparar correctamente los ingredientes. A continuación te doy algunos pasos comunes que se siguen para lavar y preparar los ingredientes necesarios:
 

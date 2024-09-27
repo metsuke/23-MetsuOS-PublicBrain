@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.614Z
-modified: 2024-06-10T15:26:26.511Z
+modified: 2024-09-22T21:54:19.872Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Proceso de Preparación (Morcilla Blanca)
 
-[[Aprender a preparar morcilla blanca]]
+[[Aprender a preparar morcilla blanca ⚫①]]
 
 El proceso de preparación de la morcilla blanca suele variar dependiendo de la receta tradicional de la región en la que se esté elaborando. Sin embargo, en líneas generales, el proceso de preparación de la morcilla blanca involucra los siguientes pasos:
 

@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.787Z
-modified: 2024-06-10T15:26:26.411Z
+modified: 2024-09-15T23:02:13.364Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 27
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Textos Religiosos y sus Idiomas de Origen
 
@@ -24,7 +27,7 @@ Los textos religiosos más importantes de la humanidad varían según las difere
 
 1. Biblia (Cristianismo):
     
-    - Idiomas originales: Hebreo, arameo y griego. El Antiguo Testamento está principalmente en hebreo con algunas partes en arameo, mientras que el Nuevo Testamento está en griego.
+    - Idiomas originales: "H"ebreo, arameo y griego. El Antiguo Testamento está principalmente en hebreo con algunas partes en arameo, mientras que el Nuevo Testamento está en griego.
 2. Corán (Islam):
     
     - Idioma original: Árabe.
@@ -42,7 +45,7 @@ Los textos religiosos más importantes de la humanidad varían según las difere
     - Idiomas originales: Pali, sánscrito y varios otros idiomas según la tradición budista (hay varias versiones del Tripitaka en diferentes idiomas).
 7. Libro de Mormón (Latter-day Saint Movement):
     
-    - Idioma original: Inglés (aunque se considera una traducción de registros antiguos que se dice que fueron escritos en reformed Egyptian, un idioma no identificado).
+    - Idioma original: "I"nglés (aunque se considera una traducción de registros antiguos que se dice que fueron escritos en reformed Egyptian, un idioma no identificado).
 8. Avesta (Zoroastrismo):
     
     - Idioma original: Avestan.

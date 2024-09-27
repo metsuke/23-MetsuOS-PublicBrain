@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T15:46:52.750Z
-modified: 2024-06-10T15:26:27.020Z
+modified: 2024-09-22T21:53:22.485Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Control del centro del tablero en ajedrez
 
-[[Aprender a jugar Ajedrez]]
+[[Aprender a jugar Ajedrez ⚫①]]
 
 El control del centro del tablero es un concepto fundamental en ajedrez. El centro es la parte más importante del tablero porque desde ahí se puede fácilmente mover las piezas a cualquier parte del tablero. Por lo tanto, tener control sobre las casillas centrales te dará una ventaja estratégica sobre tu oponente.
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.575Z
-modified: 2024-06-10T15:14:14.109Z
+modified: 2024-09-15T23:56:49.955Z
 supervisado: 2024-05-27T13:38:00.153Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 78
+ver_rev: 80
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,11 +39,11 @@ tags:
 * [[Aprender el Lenguaje C desde Cero ⚫①]]
 * [[Aprender Lenguaje C++]]
 * [[Aprender Lenguaje CSharp]]
-* [[Aprender Lenguaje Javascript]]
-* [[Aprender Lenguaje Swift ]]
-* [[Aprender Lenguaje Python]]
+* [[Aprender Lenguaje Javascript ⚫①]]
+* [[Aprender Lenguaje Swift ⚫①]]
+* [[Aprender Lenguaje Python ⚫①]]
 * [[Aprender Lenguaje GO]]
-* [[Aprender Lenguaje RUST]]
+* [[Aprender Lenguaje RUST ⚫①]]
 * Aprender Lenguaje MPL | [[MPL (Metsuke Programming Languaje)]]3
 
 ## Librarías y Frameworks

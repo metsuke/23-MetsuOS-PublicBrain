@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.131Z
-modified: 2024-07-14T21:37:11.261Z
+modified: 2024-09-22T21:53:24.266Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Los mates más rapidos en ajedrez
 
-[[Aprender a jugar Ajedrez]]
+[[Aprender a jugar Ajedrez ⚫①]]
 
 Existen varios mates rápidos en el ajedrez, y te mencionaré algunos de los más conocidos:
 

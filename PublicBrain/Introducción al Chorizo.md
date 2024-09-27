@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.755Z
-modified: 2024-06-10T15:14:13.885Z
+modified: 2024-09-18T20:37:49.124Z
 supervisado: 2024-05-27T13:38:02.700Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 28
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Introducción al Chorizo
 
-[[Aprender a preparar chorizo]]
+[[Aprender a preparar chorizo ⚫①]]
 
 El chorizo es un embutido muy popular en la gastronomía española y también se consume ampliamente en otros países de habla hispana. Se elabora a partir de carne de cerdo picada y condimentada con diferentes especias, principalmente pimentón, ajo y sal. Además, se suele añadir otras especias como orégano, comino o pimienta, lo que le confiere al chorizo su característico sabor.
 

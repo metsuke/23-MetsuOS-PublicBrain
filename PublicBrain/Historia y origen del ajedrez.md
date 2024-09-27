@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.565Z
-modified: 2024-06-10T15:26:26.843Z
+modified: 2024-09-22T21:53:23.956Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Historia y origen del ajedrez
 
-[[Aprender a jugar Ajedrez]]
+[[Aprender a jugar Ajedrez ⚫①]]
 
 El ajedrez es un antiguo juego de estrategia que se cree que tiene sus raíces en el norte de la India, alrededor del siglo VI d.C. A lo largo de los siglos, se ha extendido por todo el mundo y ha evolucionado en un juego internacional con una rica tradición y cultura. Algunos hitos históricos incluyen:
 

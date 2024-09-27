@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.868Z
-modified: 2024-06-10T15:26:26.376Z
+modified: 2024-09-18T20:37:39.820Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 28
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Técnicas para mejorar la experiencia del usuario con discapacidad
 
@@ -30,7 +33,7 @@ En el ámbito de la accesibilidad en e-learning, existen diversas técnicas que 
 
 4. **Utilizar un lenguaje claro y sencillo**: Emplear un lenguaje claro y sencillo en los contenidos de e-learning, evitando tecnicismos innecesarios, para facilitar la comprensión de personas con discapacidad cognitiva o de aprendizaje.
 
-5. **Incluir subtítulos y transcripciones en los videos**: Incluir subtítulos en los videos y proporcionar transcripciones de audio para las personas con discapacidad auditiva, para que puedan acceder a la información de forma más completa.
+5. **Incluir subtítulos y transcripciones en los videos**: "I"ncluir subtítulos en los videos y proporcionar transcripciones de audio para las personas con discapacidad auditiva, para que puedan acceder a la información de forma más completa.
 
 6. **Permitir la personalización de la experiencia**: Ofrecer opciones de personalización de la experiencia de usuario, como cambiar el tamaño de la fuente o el contraste de colores, para adaptarse a las necesidades individuales de las personas con discapacidad visual o cognitiva.
 

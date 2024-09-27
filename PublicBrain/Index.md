@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-09-09T23:52:45.965Z
+modified: 2024-09-27T06:15:48.673Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 145
+ver_rev: 149
 nav_primary: 
 nav_secondary: 
 tags:
@@ -113,10 +113,10 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Juegos
 
-* [[Aprender a jugar Ajedrez]]
+* [[Aprender a jugar Ajedrez ⚫①]]
 	* [[Encoclopedia de Aperturas en ajedrez]]
-* [[Aprender a jugar GO]]
-* [[Aprender a jugar Parchis]]
+* [[Aprender a jugar GO ⚫①]]
+* [[Aprender a jugar Parchis  ⚫①]]
 
 * [[Aprender sobre World of Warcraft]]
 * [[Aprender a programar plugins para World of Warcraft ⚫①]]

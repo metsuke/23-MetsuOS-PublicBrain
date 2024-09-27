@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T15:49:22.028Z
-modified: 2024-06-10T15:26:26.953Z
+modified: 2024-09-22T21:53:23.441Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Evaluación de posiciones en ajedrez
 
-[[Aprender a jugar Ajedrez]]
+[[Aprender a jugar Ajedrez ⚫①]]
 
 En la lección 14 de ajedrez sobre la evaluación de posiciones, se enseña a los jugadores a identificar y comprender los elementos clave que influyen en la evaluación de una posición en el tablero. La evaluación de una posición es una habilidad fundamental que todo jugador debe desarrollar para tomar decisiones sólidas durante una partida.
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.102Z
-modified: 2024-06-10T15:26:26.996Z
+modified: 2024-09-22T21:53:22.737Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Desarrollo de las piezas en ajedrez
 
-[[Aprender a jugar Ajedrez]]
+[[Aprender a jugar Ajedrez ⚫①]]
 
 Desarrollar adecuadamente las piezas en ajedrez es una parte esencial de la estrategia del juego, particularmente en las primeras etapas o aperturas. Este concepto implica situar todas tus piezas en posiciones donde pueden maximizar su potencial y eficacia. Aquí hay algunos puntos clave sobre el desarrollo de las piezas:
 

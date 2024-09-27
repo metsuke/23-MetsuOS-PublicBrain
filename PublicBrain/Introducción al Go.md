@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.756Z
-modified: 2024-06-10T15:14:13.884Z
+modified: 2024-09-27T06:15:48.734Z
 supervisado: 2024-05-27T13:38:02.715Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Introducción al Go
 
-[[Aprender a jugar GO]]
+[[Aprender a jugar GO ⚫①]]
 
 # Introducción al Go
 

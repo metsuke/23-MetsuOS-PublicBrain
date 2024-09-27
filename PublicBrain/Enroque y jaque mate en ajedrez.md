@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T15:48:23.403Z
-modified: 2024-06-10T15:26:26.965Z
+modified: 2024-09-22T21:53:23.028Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Enroque y jaque mate en ajedrez
 
-[[Aprender a jugar Ajedrez]]
+[[Aprender a jugar Ajedrez ⚫①]]
 
 En la lección 11 de ajedrez, se suelen abordar dos temas clave: el enroque y el jaque mate. 
 

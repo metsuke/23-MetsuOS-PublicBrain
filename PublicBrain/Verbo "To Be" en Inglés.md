@@ -1,22 +1,25 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.906Z
-modified: 2024-06-10T15:26:26.356Z
+modified: 2024-09-26T19:35:34.907Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 28
+nav_primary: 
+nav_secondary: 
+tags:
 ---
-# Verbo "To Be" en [[Inglés ⚫①]]
+# Verbo "To Be" en Inglés
 
 ¡Por supuesto! "To be" es uno de los verbos más importantes en inglés, ya que se utiliza en muchos contextos diferentes. Este verbo se traduce al español como "ser" o "estar", y se utiliza para describir o identificar algo o alguien.
 
@@ -37,5 +40,5 @@ Algunos ejemplos de uso de "to be" en diferentes contextos incluyen:
 -   Descripción física: She is tall and has blond hair. (Ella es alta y tiene cabello rubio.)
 -   Nacionalidad: They are from Brazil. (Ellos son de Brasil.)
 -   Ubicación: The book is on the table. (El libro está sobre la mesa.)
--   Estado de ánimo: He is happy today. (Él está feliz hoy.)
--   Identificación: I am a teacher. (Yo soy profesor/a.)
+-   Estado de ánimo: "H"e is happy today. (Él está feliz hoy.)
+-   Identificación: "I" am a teacher. (Yo soy profesor/a.)

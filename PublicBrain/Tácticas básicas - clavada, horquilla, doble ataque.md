@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.865Z
-modified: 2024-06-10T15:26:26.378Z
+modified: 2024-09-22T21:53:24.508Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Tácticas básicas - clavada, horquilla, doble ataque
 
-[[Aprender a jugar Ajedrez]]
+[[Aprender a jugar Ajedrez ⚫①]]
 
 En la lección 10 de ajedrez sobre tácticas básicas, se suelen abordar tres conceptos clave: la clavada, la horquilla y el doble ataque.
 

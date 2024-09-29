@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T15:44:06.488Z
-modified: 2024-06-10T15:26:26.763Z
+modified: 2024-09-28T08:56:33.998Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Introducción al Lomo
 
-[[Aprender a preparar lomo]]
+[[Aprender a preparar lomo ⚫①]]
 
 El lomo es una pieza de carne magra y tierna que se encuentra en la parte superior de la columna vertebral del cerdo. Es una de las partes más apreciadas de este animal debido a su suave sabor y textura, y es muy utilizado para la elaboración de embutidos como el lomo embuchado o lomo adobado.
 

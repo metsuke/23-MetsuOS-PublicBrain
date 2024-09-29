@@ -1,9 +1,9 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Evanescence
+# Aprender sobre Evanescence ⚫①
 
 [[PublicBrain/Index]]
 
@@ -56,3 +56,5 @@ Evanescence es conocido por su estilo musical que combina elementos de rock alte
 Evanescence ha ganado varios premios a lo largo de su carrera, incluidos dos premios Grammy. Su música ha sido elogiada por su originalidad y su capacidad para conectar con una amplia audiencia.
 
 A lo largo de los años, Evanescence ha mantenido una base de fanáticos leales y ha seguido explorando nuevas direcciones musicales, consolidando su posición como una de las bandas de rock alternativo más influyentes de su generación.
+
+![[Plantilla - 1MT#One More Thing]]

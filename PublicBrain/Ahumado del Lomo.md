@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T15:44:47.313Z
-modified: 2024-06-10T15:26:27.184Z
+modified: 2024-09-28T08:56:33.903Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Ahumado del Lomo
 
-[[Aprender a preparar lomo]]
+[[Aprender a preparar lomo ⚫①]]
 
 El ahumado es un proceso opcional que se realiza después de la curación y secado del lomo. Consiste en exponer el embutido a humo producido por madera quemada, lo cual le aportará un sabor característico y un aroma ahumado muy agradable.
 

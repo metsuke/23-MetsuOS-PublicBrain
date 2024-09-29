@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.900Z
-modified: 2024-09-26T19:12:33.714Z
+modified: 2024-09-28T08:57:01.816Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Ventajas de CSS Grid sobre otros sistemas de diseño
 
-[[Aprender sobre CSS-Grid]]
+[[Aprender sobre CSS-Grid ⚫①]]
 
 1. Estructura de diseño bidimensional: CSS Grid permite crear diseños en dos dimensiones, lo que significa que se pueden definir filas y columnas de forma independiente. Esto ofrece una mayor flexibilidad en comparación con otros sistemas de diseño como Flexbox, que se centran más en una dimensión.
 

@@ -25,13 +25,13 @@ tags:
 
 ## Peliculas/Manga/OVA
 
-* [[Aprender sobre Akira]] (JP)
+* [[Aprender sobre Akira ⚫①]] (JP)
 * Aprender sobre Ghost Dog (JP/EN/IT)
 
 ## Musica
 
 * [[Aprender sobre BabyMetal]] (JP)
-* [[Aprender sobre Evanescence]] (EN)
+* [[Aprender sobre Evanescence ⚫①]] (EN)
 * [[Aprender sobre Mecano ⚫①]] (ES)
 * [[Aprender sobre Nirvana]] (EN)
 * [[Aprender sobre Rammstein]] (GE)

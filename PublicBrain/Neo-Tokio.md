@@ -21,7 +21,7 @@ tags:
 ---
 # Neo-Tokio
 
-[[Aprender sobre Akira]]
+[[Aprender sobre Akira ⚫①]]
 
 En el contexto de "Akira", "Neo-Tokyo" es una ubicación clave en la trama. "Akira" es una obra de manga escrita e ilustrada por Katsuhiro Otomo, que también fue adaptada en una influyente película de animación del mismo nombre. La historia se desarrolla en un futuro distópico en una versión alternativa de Tokio, conocida como "Neo-Tokyo". Aquí hay algunos puntos clave sobre Neo-Tokyo:
 

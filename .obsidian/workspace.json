@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "355c3fdb07f1e0f6",
+        "id": "784208228ce846c4",
         "type": "tabs",
         "children": [
           {
-            "id": "37e729f83d4db488",
+            "id": "8b80b5513db94d2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Visión general de leyes y regulaciones sobre accesibilidad.md",
+                "file": "PublicBrain/Aprender sobre Evanescence ⚫①.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PublicBrain/Visión general de leyes y regulaciones sobre accesibilidad.md",
+                "file": "PublicBrain/Aprender sobre Evanescence ⚫①.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PublicBrain/Visión general de leyes y regulaciones sobre accesibilidad.md",
+                "file": "PublicBrain/Aprender sobre Evanescence ⚫①.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PublicBrain/Visión general de leyes y regulaciones sobre accesibilidad.md"
+                "file": "PublicBrain/Aprender sobre Evanescence ⚫①.md"
               }
             }
           },
@@ -174,34 +174,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "37e729f83d4db488",
+  "active": "8b80b5513db94d2e",
   "lastOpenFiles": [
-    "PublicBrain/Aprender a jugar GO ⚫①.md",
-    "PublicBrain/Aprender a preparar salchichón ⚫①.md",
-    "PublicBrain/Visión general de leyes y regulaciones sobre accesibilidad.md",
-    "PublicBrain/Vivimos.md",
-    "PublicBrain/Verbos en presente y descripciones simples (A1-CA).md",
-    "PublicBrain/Videojuegos a lo largo de la Historia.md",
-    "PublicBrain/Verbos en futuro simple y planes de futuro (A1-CA).md",
-    "PublicBrain/Verbos de acción y verbos de estado básicos (N5-JP).md",
-    "PublicBrain/Distortion.md",
-    "PublicBrain/Discografía de Mecano.md",
-    "PublicBrain/Da Da Dance.md",
-    "PublicBrain/Verbo \"To Be\" en Inglés.md",
-    "PublicBrain/Verbos comunes para actividades diarias (A1-SW.md",
-    "PublicBrain/Verbo ser en catalan.md",
-    "PublicBrain/Verbo kuwa (ser) en Swahili.md",
-    "PublicBrain/Valenciano.md",
-    "PublicBrain/Ventajas de CSS Grid sobre otros sistemas de diseño.md",
-    "PublicBrain/Aprender a preparar morcilla blanca ⚫①.md",
-    "PublicBrain/Aprender a jugar Ajedrez ⚫①.md",
-    "PublicBrain/Crear imagenes de SO en USB para instalar.md",
-    "PublicBrain/Uso de lenguaje claro y simple.md",
-    "PublicBrain/Variables y Tipos de Datos.md",
-    "PublicBrain/VLC Valenciano.md",
-    "PublicBrain/Uso de indicaciones y direcciones en catalán (A1-CA).md",
-    "PublicBrain/Uncle.md",
-    "PublicBrain/Uso de encabezados y listas para guiar la lectura (Lectura Facil).md",
+    "PublicBrain/Aprender sobre Akira ⚫①.md",
+    "PublicBrain/Elevator Girl.md",
+    "PublicBrain/Donde es técnicamente posible comprar con Crypto.md",
+    "PublicBrain/Yui Mizuno.md",
+    "PublicBrain/_resources/AltoRouter (PHP Routing).md",
+    "PublicBrain/Zettelkasten.md",
+    "PublicBrain/Yuimetal.md",
+    "PublicBrain/Yava!.md",
+    "PublicBrain/Wife.md",
+    "PublicBrain/YCT (Youth Chinese Test).md",
+    "PublicBrain/Xbox.md",
+    "PublicBrain/Xbox One.md",
+    "PublicBrain/Warren Robinett.md",
+    "PublicBrain/What's up?.md",
+    "PublicBrain/Wie geht's?.md",
+    "PublicBrain/Aprender sobre CSS-Grid ⚫①.md",
+    "PublicBrain/Aprender a preparar lomo ⚫①.md",
+    "PublicBrain/Aprender a preparar salchicas ⚫①.md",
+    "PublicBrain/Doki Doki ☆ Morning.md",
+    "PublicBrain/Doki Doki Morning.md",
+    "PublicBrain/Divine Attack (Shingeki).md",
+    "PublicBrain/Xbox 360.md",
+    "PublicBrain/Witdrawn.md",
+    "PublicBrain/Wie geht es Ihnen?.md",
+    "PublicBrain/Vocabulario para ir de compras y en el supermercado (A1-CA).md",
+    "PublicBrain/Vocales en Hindi (Basico-HI).md",
     "PublicBrain/_resources/standard-male-150.png",
     "PublicBrain/MOS_standard-male-150.png",
     "MOS_standard-male-150.png",

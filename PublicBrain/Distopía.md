@@ -18,7 +18,7 @@ tags: []
 ---
 # Distopía
 
-[[Aprender sobre Akira]]
+[[Aprender sobre Akira ⚫①]]
 
 Una distopía es un concepto literario y filosófico que se refiere a una sociedad futurista imaginaria en la que las condiciones de vida son extremadamente difíciles, opresivas o indeseables para sus habitantes. En una distopía, el gobierno o el sistema social están controlados por una élite autoritaria o totalitaria, y se caracteriza por la represión, la censura, la vigilancia constante, la falta de libertades individuales y la desigualdad extrema.
 

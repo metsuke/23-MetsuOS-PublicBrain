@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T15:43:26.281Z
-modified: 2024-06-10T15:26:26.858Z
+modified: 2024-09-28T08:56:33.957Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Historia y Origen del Lomo
 
-[[Aprender a preparar lomo]]
+[[Aprender a preparar lomo ⚫①]]
 
 El lomo es un embutido muy popular y apreciado en diferentes culturas culinarias alrededor del mundo. Se trata de una pieza de carne de cerdo, generalmente de la parte del lomo, que se condimenta con sal, pimienta y otras especias, para luego ser curada y posteriormente ahumada.
 

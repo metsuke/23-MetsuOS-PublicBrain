@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-09-27T06:15:48.673Z
+modified: 2024-09-28T08:57:01.764Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 149
+ver_rev: 150
 nav_primary: 
 nav_secondary: 
 tags:
@@ -150,7 +150,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre Computación Mecánica]]
 * [[Aprender sobre Computar con Canicas]]
 * Aprender sobre CSS
-	* [[Aprender sobre CSS-Grid]]
+	* [[Aprender sobre CSS-Grid ⚫①]]
 * [[Aprender sobre GNU Linux]]
 * [[Aprender sobre Hardware Libre]] 
 	* [[Hardware Libre - Almacenamiento]]

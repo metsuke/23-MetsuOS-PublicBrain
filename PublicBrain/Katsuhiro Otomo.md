@@ -21,7 +21,7 @@ tags:
 ---
 # Katsuhiro Otomo
 
-[[Aprender sobre Akira]]
+[[Aprender sobre Akira ⚫①]]
 
 Katsuhiro Otomo es un reconocido mangaka (dibujante de manga), guionista y director de cine japonés, nacido el 14 de abril de 1954 en Miyagi, Japón. Es conocido principalmente por ser el creador y autor del manga "Akira", que se convirtió en una obra maestra del género y tuvo un impacto significativo en la cultura pop no solo en Japón, sino en todo el mundo.
 

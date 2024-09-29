@@ -1,9 +1,9 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Akira
+# Aprender sobre Akira ⚫①
 
 [[PublicBrain/Index]]
 
@@ -40,3 +40,5 @@ La película explora temas como el abuso de poder, la corrupción gubernamental 
 "Akira" ha dejado un impacto duradero en la cultura pop y ha influido en numerosas obras de ciencia ficción y animación desde su lanzamiento. A menudo se la elogia por su diseño artístico, su narrativa compleja y su capacidad para abordar temas filosóficos y sociales.
 
 Vale la pena señalar que "Akira" es solo una adaptación parcial del manga original de Katsuhiro Otomo, que es más extenso y detallado en términos de historia y personajes.
+
+![[Plantilla - 1MT#One More Thing]]

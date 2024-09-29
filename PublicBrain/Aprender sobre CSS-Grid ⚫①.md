@@ -1,29 +1,27 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.531Z
-modified: 2024-06-10T15:26:27.150Z
+modified: 2024-09-28T08:57:12.234Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 74
+ver_rev: 75
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender sobre CSS-Grid
+# Aprender sobre CSS-Grid ⚫①
 
 [[PublicBrain/Index]] | [Tutorial sobre CSS-Grid](https://www.coltsteele.com/tutorials/mastering-css-grid)
-
-# Curso: Aprender sobre CSS Grid
 
 ## Introducción a CSS Grid
 - ¿Qué es CSS Grid?
@@ -71,3 +69,5 @@ tags:
 - Resumen de los conceptos clave aprendidos.
 - Recursos adicionales para seguir explorando CSS Grid.
 - Sugerencias para proyectos futuros y prácticas continuas.
+
+![[Plantilla - 1MT#One More Thing]]

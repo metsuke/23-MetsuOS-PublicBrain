@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.537Z
-modified: 2024-06-10T15:26:27.149Z
+modified: 2024-10-01T21:04:46.828Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 77
+ver_rev: 78
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,7 +25,7 @@ tags:
 
 [[Aprender sobre Economía ⚫①]]
 Aprender sobre Finanzas Empresariales
-[[Aprender sobre Finanzas Personales]]
+[[Aprender sobre Finanzas Personales ⚫①]]
 
 ---
 ## Economía

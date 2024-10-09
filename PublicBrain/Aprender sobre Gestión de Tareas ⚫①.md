@@ -1,25 +1,25 @@
 ---
 iaStatus: 8
-iaStatus_Model: ""
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.547Z
-modified: 2024-06-10T15:26:27.139Z
+modified: 2024-10-01T21:03:56.022Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Gestión de Tareas
+# Aprender sobre Gestión de Tareas ⚫①
 
 [[PublicBrain/Index#Productividad]]
 
@@ -160,3 +160,5 @@ tags:
 - Diferencia entre Proyecto y Área
 - Recurrencia mediante números primos
 - Absorción de desvíos
+
+![[Plantilla - 1MT#One More Thing]]

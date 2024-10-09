@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.541Z
-modified: 2024-06-10T15:26:26.864Z
+modified: 2024-10-01T21:03:48.357Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Herramientas de oficina para gestión de tareas
 
-[[Aprender sobre Gestión de Tareas]]
+[[Aprender sobre Gestión de Tareas ⚫①]]
 
 Estas herramientas son ideales para aquellos que prefieren trabajar de manera física y visual, lejos de las distracciones digitales. Aquí tienes algunas de las herramientas analógicas más comunes utilizadas para la gestión de tareas:
 

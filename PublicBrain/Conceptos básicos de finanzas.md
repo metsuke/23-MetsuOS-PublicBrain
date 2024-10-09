@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.028Z
-modified: 2024-06-10T15:26:27.032Z
+modified: 2024-10-01T21:04:47.212Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Conceptos básicos de finanzas
 
-[[Aprender sobre Finanzas Personales]]
+[[Aprender sobre Finanzas Personales ⚫①]]
 
 ##  Ingresos
 

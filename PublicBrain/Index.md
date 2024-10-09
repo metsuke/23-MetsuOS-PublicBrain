@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-09-28T08:57:01.764Z
+modified: 2024-10-01T21:05:20.495Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 150
+ver_rev: 151
 nav_primary: 
 nav_secondary: 
 tags:
@@ -83,7 +83,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Ciencias Formales
 
-* [[Aprender sobre Matemáticas]]
+* [[Aprender sobre Matemáticas ⚫①]]
 
 ### Ciencias Sociales
 
@@ -140,7 +140,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Productividad
 
-* [[Aprender sobre Gestión de Tareas]]
+* [[Aprender sobre Gestión de Tareas ⚫①]]
 
 ### Tecnología
 
@@ -151,7 +151,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre Computar con Canicas]]
 * Aprender sobre CSS
 	* [[Aprender sobre CSS-Grid ⚫①]]
-* [[Aprender sobre GNU Linux]]
+* [[Aprender sobre GNU Linux ⚫①]]
 * [[Aprender sobre Hardware Libre]] 
 	* [[Hardware Libre - Almacenamiento]]
 	* [[Hardware Libre - Memoria Volatil]]

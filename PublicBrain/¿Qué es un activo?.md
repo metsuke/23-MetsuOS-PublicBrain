@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.026Z
-modified: 2024-06-10T15:26:26.269Z
+modified: 2024-10-01T21:04:47.583Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # ¿Qué es un activo?
 
-[[Aprender sobre Finanzas Personales]]
+[[Aprender sobre Finanzas Personales ⚫①]]
 
 Un activo es un concepto fundamental en el ámbito de las finanzas y la contabilidad. Es importante entenderlo, incluso si eres nuevo en el tema. 
 ## ¿Qué es un activo?

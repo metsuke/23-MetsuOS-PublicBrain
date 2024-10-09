@@ -21,7 +21,7 @@ tags:
 ---
 # Licencia de software
 
-[[Aprender sobre Licencias]]
+[[Aprender sobre Licencias  🔴②]]
 
 La licencia de software es un componente fundamental en el mundo del desarrollo y distribución de programas informáticos. Es un contrato legal que define los términos y condiciones bajo los cuales los usuarios pueden utilizar, modificar, distribuir o reutilizar el software. Estas licencias están diseñadas para proteger los derechos de autor del creador del software mientras otorgan ciertos derechos y libertades a los usuarios.
 

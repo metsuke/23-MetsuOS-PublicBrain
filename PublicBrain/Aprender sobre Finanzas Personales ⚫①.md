@@ -1,25 +1,25 @@
 ---
 iaStatus: 8
-iaStatus_Model: ""
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.543Z
-modified: 2024-06-10T15:26:27.147Z
+modified: 2024-10-01T21:04:54.090Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 74
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender sobre Finanzas Personales
+# Aprender sobre Finanzas Personales ⚫①
 
 [[Aprender sobre Economía y Finanzas]]
 

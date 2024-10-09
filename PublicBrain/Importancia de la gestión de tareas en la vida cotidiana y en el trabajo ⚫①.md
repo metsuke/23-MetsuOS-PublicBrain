@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.612Z
-modified: 2024-06-10T15:26:26.793Z
+modified: 2024-10-01T21:03:49.316Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Importancia de la gestión de tareas en la vida cotidiana y en el trabajo ⚫①
 
-[[Aprender sobre Gestión de Tareas]]
+[[Aprender sobre Gestión de Tareas ⚫①]]
   
 La gestión de tareas es fundamental tanto en la vida cotidiana como en el ámbito laboral debido a su capacidad para mejorar la productividad, reducir el estrés y aumentar la eficiencia. Aquí te explicaré la importancia de la gestión de tareas en ambos contextos:
 

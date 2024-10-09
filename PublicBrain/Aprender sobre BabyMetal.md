@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.526Z
-modified: 2024-06-10T15:26:27.150Z
+modified: 2024-10-01T21:01:56.506Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 31
+ver_rev: 32
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -73,7 +73,7 @@ En resumen, BABYMETAL es un grupo musical japonés que fusiona el heavy metal co
 5. "[[Amore]]"
 6. "[[Meta Taro]]"
 7. "[[From Dusk Till Dawn]]"
-8. "[[GJ!]]"
+8. "[[GJ! ⚫①]]"
 9. "[[Sis. Anger]]"
 10. "[[No Rain, No Rainbow]]"
 11. "[[Tales of The Destinies]]"

@@ -1,25 +1,25 @@
 ---
 iaStatus: 8
-iaStatus_Model: ""
-iaStatus_Generado: "H"
-iaStatus_Supervisado: "-"
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: H
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.176Z
-modified: 2024-06-10T15:26:26.964Z
+modified: 2024-10-01T21:02:14.354Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 29
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Entornos Virtuales con Python
+# Entornos Virtuales con Python ⚫①
 
 [[PublicBrain/Index]]
 
@@ -71,3 +71,5 @@ pip3 freeze > requirements.txt
 ```sh
 pip3 install -r requirements.txt
 ```
+
+![[Plantilla - 1MT#One More Thing]]

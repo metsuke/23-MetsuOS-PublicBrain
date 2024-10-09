@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.607Z
-modified: 2024-06-10T15:14:13.910Z
+modified: 2024-10-01T21:04:47.487Z
 supervisado: 2024-05-13T21:04:54.903Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Importancia de la educación financiera ⚫①
 
-[[Aprender sobre Finanzas Personales]]
+[[Aprender sobre Finanzas Personales ⚫①]]
 
 La educación financiera es esencial para el bienestar económico y la seguridad financiera de las personas en la sociedad actual. A continuación, te explicaré la importancia de la educación financiera:
 

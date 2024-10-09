@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.078Z
-modified: 2024-06-10T15:26:27.013Z
+modified: 2024-10-01T21:04:47.402Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Creación de un presupuesto personal
 
-[[Aprender sobre Finanzas Personales]]
+[[Aprender sobre Finanzas Personales ⚫①]]
 
 La creación de un presupuesto personal es una parte fundamental para gestionar eficazmente tus finanzas personales. Un presupuesto te ayuda a controlar tus gastos, establecer metas financieras y asegurarte de que estás viviendo dentro de tus posibilidades. Aquí hay una guía paso a paso para crear un presupuesto personal efectivo:
 

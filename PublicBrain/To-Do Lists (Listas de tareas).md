@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.809Z
-modified: 2024-09-17T14:34:23.510Z
+modified: 2024-10-01T21:03:49.678Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # To-Do Lists (Listas de tareas)
 
-[[Aprender sobre Gestión de Tareas]]
+[[Aprender sobre Gestión de Tareas ⚫①]]
 
 Las listas de tareas, comúnmente conocidas como "To-Do Lists", son una herramienta esencial en la gestión de tareas y proyectos. Estas listas son una forma efectiva de organizar y realizar un seguimiento de las actividades que necesitas realizar. Aquí tienes información clave sobre las To-Do Lists en el contexto de los métodos tradicionales de gestión de tareas:
 

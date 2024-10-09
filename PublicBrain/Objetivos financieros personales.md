@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.546Z
-modified: 2024-08-02T15:30:28.533Z
+modified: 2024-10-01T21:04:47.512Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Objetivos financieros personales
 
-[[Aprender sobre Finanzas Personales]]
+[[Aprender sobre Finanzas Personales ⚫①]]
 
 Los objetivos financieros personales son metas específicas y cuantificables que una persona establece para su situación financiera. Estos objetivos pueden variar ampliamente de una persona a otra y están relacionados con sus necesidades, deseos y circunstancias financieras individuales. Aquí hay información importante sobre los objetivos financieros personales dentro del contexto de las finanzas personales:
 

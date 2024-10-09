@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.542Z
-modified: 2024-06-10T15:26:26.863Z
+modified: 2024-10-01T21:03:49.132Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Herramientas y aplicaciones populares para la gestión de tareas
 
-[[Aprender sobre Gestión de Tareas]]
+[[Aprender sobre Gestión de Tareas ⚫①]]
 
 La gestión efectiva de tareas es esencial para aumentar la productividad y mantenerse organizado en un entorno de trabajo. Las herramientas de oficina para la gestión de tareas proporcionan funcionalidades que permiten a los individuos y equipos planificar, seguir y completar tareas de manera eficiente. A continuación, se presentan algunas de las herramientas más populares:
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.633Z
-modified: 2024-08-30T08:24:51.879Z
+modified: 2024-10-01T21:03:49.540Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Qué es la gestión de tareas
 
-[[Aprender sobre Gestión de Tareas]]
+[[Aprender sobre Gestión de Tareas ⚫①]]
 
 La gestión de tareas se refiere al proceso de planificar, organizar, asignar, dar seguimiento y controlar las actividades y responsabilidades necesarias para lograr un objetivo específico o completar un proyecto. Esta práctica es fundamental tanto en el ámbito personal como en el profesional, ya que ayuda a las personas y equipos a ser más productivos, eficientes y efectivos en la realización de sus tareas diarias.
 

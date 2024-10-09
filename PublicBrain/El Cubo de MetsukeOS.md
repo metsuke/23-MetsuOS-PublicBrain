@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.159Z
-modified: 2024-09-29T18:09:10.373Z
+modified: 2024-10-01T21:03:47.491Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # El Cubo de MetsukeOS
 
-[[Aprender sobre Gestión de Tareas]] | [[Métodos de Gestión de Tareas con papel y lápiz]]
+[[Aprender sobre Gestión de Tareas ⚫①]] | [[Métodos de Gestión de Tareas con papel y lápiz]]
 
 Siguiendo la estela de la Matriz de Eisenhower, en el caso de MetsukeOS he llegado a aplicar una versión ampliada,  basada en el concepto de que toda gestion de tareas debe incluir tanto aspecto profesional como personal.
 

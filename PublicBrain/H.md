@@ -1,8 +1,8 @@
 ---
 iaStatus: 8
-iaStatus_Model: ""
-iaStatus_Generado: "H"
-iaStatus_Supervisado: "-"
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
+iaStatus_Generado: H
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0

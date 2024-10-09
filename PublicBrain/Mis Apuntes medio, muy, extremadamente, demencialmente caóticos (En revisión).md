@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.197Z
-modified: 2024-06-10T15:26:26.630Z
+modified: 2024-10-01T21:00:37.187Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 78
+ver_rev: 79
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,7 @@ tags:
 * [[Aprender sobre Bases de Datos]]
 * [[Aprender sobre Desarrollo]]
 * [[Aprender sobre Emprendimiento y Negocios]]
-* [[Aprender sobre Licencias]]
+* [[Aprender sobre Licencias  🔴②]]
 * [[Aprender sobre Linux - Apuntes sin ordenar]]
 * [[Aprender sobre Matemáticas - Mi Cuaderno de Ejercicios]]
 * [[Aprender sobre Neurología]]
@@ -151,7 +151,7 @@ De momento tomo notas, aunque eventualmente quisiera ver como crear un método p
 
 ### Python
 
-* [[Entornos Virtuales con Python]]
+* [[Entornos Virtuales con Python ⚫①]]
 
 ### SIM Card as a computer
 

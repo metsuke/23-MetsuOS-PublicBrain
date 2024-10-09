@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.031Z
-modified: 2024-06-10T15:26:26.268Z
+modified: 2024-10-01T21:04:47.854Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # ¿Qué es un presupuesto?
 
-[[Aprender sobre Finanzas Personales]]
+[[Aprender sobre Finanzas Personales ⚫①]]
 
 Un presupuesto es una herramienta financiera fundamental que ayuda a las personas, empresas y organizaciones a planificar y gestionar sus ingresos y gastos. En esencia, un presupuesto es un plan financiero que detalla cómo se asignarán los recursos disponibles durante un período específico, generalmente mensual o anual. Aquí hay algunos aspectos clave relacionados con un presupuesto en finanzas elementales:
 

@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 1
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
 a11y: 0
 checked: 0
 lang: ES
@@ -12,8 +12,8 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 26
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # ideojuegos a lo largo de la Historia

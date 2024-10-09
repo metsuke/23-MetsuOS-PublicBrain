@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.029Z
-modified: 2024-06-10T15:26:26.268Z
+modified: 2024-10-01T21:04:47.726Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # ¿Qué es un ingreso?
 
-[[Aprender sobre Finanzas Personales]]
+[[Aprender sobre Finanzas Personales ⚫①]]
 
 Un "ingreso" se refiere al dinero o los recursos que una persona, familia o entidad recibe regularmente. Estos ingresos pueden provenir de diversas fuentes, como salarios por trabajo, honorarios profesionales, ingresos por alquiler de propiedades, intereses bancarios, dividendos de inversiones u otras fuentes.
 

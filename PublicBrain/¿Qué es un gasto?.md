@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.027Z
-modified: 2024-06-10T15:26:26.269Z
+modified: 2024-10-01T21:04:47.622Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # ¿Qué es un gasto?
 
-[[Aprender sobre Finanzas Personales]]
+[[Aprender sobre Finanzas Personales ⚫①]]
 
 Un gasto se refiere al desembolso de dinero o recursos financieros que una persona, empresa o entidad realiza para adquirir bienes o servicios con el objetivo de satisfacer una necesidad o llevar a cabo una actividad. Los gastos son una parte fundamental de la gestión financiera, ya que representan salidas de dinero que pueden afectar el equilibrio entre los ingresos y los egresos.
 

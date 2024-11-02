@@ -21,7 +21,7 @@ tags:
 ---
 # Década de 1990
 
-[[Aprender sobre Nirvana]]
+[[Aprender sobre Nirvana  🔴②]]
 
 Por supuesto, aquí tienes una visión general extensa y detallada de la década de 1990:
 

@@ -21,7 +21,7 @@ tags:
 ---
 # Movimiento Grunge de Seattle
 
-[[Aprender sobre Nirvana]]
+[[Aprender sobre Nirvana  🔴②]]
 
 El movimiento grunge de Seattle fue un fenómeno cultural y musical que surgió a finales de la década de 1980 y alcanzó su apogeo en la década de 1990. Este movimiento tuvo una influencia significativa en la música, la moda y la cultura en general. Aquí tienes una descripción detallada del movimiento grunge en el contexto del aprendizaje sobre Nirvana:
 

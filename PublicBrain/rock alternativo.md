@@ -18,7 +18,7 @@ tags:
 ---
 # rock alternativo
 
-[[Aprender sobre Nirvana]]
+[[Aprender sobre Nirvana  🔴②]]
 
 El **rock alternativo**, también conocido como _alternative rock_, es un género musical que surgió en las décadas de 1980 y 1990 como una alternativa a las corrientes principales del rock. Se caracteriza por su enfoque en la experimentación musical, la diversidad de estilos y una actitud independiente hacia la industria musical. Aquí tienes algunos aspectos clave del rock alternativo:
 

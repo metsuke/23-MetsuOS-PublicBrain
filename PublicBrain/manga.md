@@ -18,7 +18,7 @@ tags:
 ---
 # manga
 
-[[Aprender sobre Naruto]]
+[[Aprender sobre Naruto 🔴②]]
 
 En el contexto de aprender sobre "Naruto", el término "manga" se refiere a la forma de cómic japonés o historieta que sirve como medio principal para contar la historia de "Naruto". Aquí tienes información relevante sobre el concepto de manga:
 

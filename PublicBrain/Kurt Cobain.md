@@ -21,7 +21,7 @@ tags:
 ---
 # Kurt Cobain
 
-[[Aprender sobre Nirvana]] | [[Movimiento Grunge de Seattle]]
+[[Aprender sobre Nirvana  🔴②]] | [[Movimiento Grunge de Seattle]]
 
 Kurt Cobain fue un músico y compositor estadounidense, ampliamente reconocido como el líder y guitarrista principal de la influyente banda de rock alternativo Nirvana. Nació el 20 de febrero de 1967 en Aberdeen, Washington, y lamentablemente falleció el 5 de abril de 1994 a la edad de 27 años.
 

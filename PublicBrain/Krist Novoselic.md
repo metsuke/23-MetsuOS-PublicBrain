@@ -21,7 +21,7 @@ tags:
 ---
 # Krist Novoselic
 
-[[Aprender sobre Nirvana]]
+[[Aprender sobre Nirvana  🔴②]]
 
 Krist Novoselic es un músico y figura notable en la escena del rock alternativo y el grunge. Nació el 16 de mayo de 1965 en Compton, California, Estados Unidos. Es conocido principalmente por ser el bajista de Nirvana, una de las bandas más influyentes de la década de 1990.
 

@@ -21,7 +21,7 @@ tags:
 ---
 # Estados Unidos
 
-[[Aprender sobre Nirvana]]
+[[Aprender sobre Nirvana  🔴②]]
 
 ¡Por supuesto! Estados Unidos es un país ubicado en América del Norte, compuesto por 50 estados y un distrito federal (Washington D.C.). Aquí hay algunos aspectos clave sobre Estados Unidos:
 

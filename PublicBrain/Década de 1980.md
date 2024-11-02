@@ -21,7 +21,7 @@ tags:
 ---
 # Década de 1980
 
-[[Aprender sobre Nirvana]]
+[[Aprender sobre Nirvana  🔴②]]
 
 La década de 1980 fue un período significativo en la historia mundial, marcado por una serie de eventos y cambios culturales, políticos, económicos y tecnológicos que tuvieron un impacto duradero en la sociedad contemporánea. Aquí hay una visión general extensa y detallada de la década de 1980:
 

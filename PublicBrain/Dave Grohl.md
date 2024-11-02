@@ -21,7 +21,7 @@ tags:
 ---
 # Dave Grohl
 
-[[Aprender sobre Nirvana]]
+[[Aprender sobre Nirvana  🔴②]]
 
 Dave Grohl es un músico, cantante, compositor y multiinstrumentista estadounidense conocido principalmente por su papel como el baterista original de Nirvana y como el líder de la banda Foo Fighters. Nació el 14 de enero de 1969, en Warren, Ohio, Estados Unidos.
 

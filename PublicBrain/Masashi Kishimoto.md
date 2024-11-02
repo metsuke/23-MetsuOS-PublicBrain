@@ -21,7 +21,7 @@ tags:
 ---
 # Masashi Kishimoto
 
-[[Aprender sobre Naruto]]
+[[Aprender sobre Naruto 🔴②]]
 
 Masashi Kishimoto es un mangaka (creador de manga) japonés conocido por ser el creador del popular manga "Naruto". Aquí tienes algunos detalles sobre él:
 

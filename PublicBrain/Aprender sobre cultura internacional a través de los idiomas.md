@@ -33,14 +33,14 @@ tags:
 * [[Aprender sobre BabyMetal]] (JP)
 * [[Aprender sobre Evanescence ⚫①]] (EN)
 * [[Aprender sobre Mecano ⚫①]] (ES)
-* [[Aprender sobre Nirvana]] (EN)
+* [[Aprender sobre Nirvana  🔴②]] (EN)
 * [[Aprender sobre Rammstein]] (GE)
 
 * AR/CA/HI/RO/SW/ZH (Idiomas en los que localizar un artista/grupo que valga REALMENTE la pena para hacer lo propio) [[TEMP - Recomendacion Grupos Musicas por Idioma de ChatGPT]]
 
 ## Series/Manga/Anime
 
-* [[Aprender sobre Naruto]] (JP)
+* [[Aprender sobre Naruto 🔴②]] (JP)
 * [[Aprender sobre Stargate]] (EN)
 
 ## Videojuegos

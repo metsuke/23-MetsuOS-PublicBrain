@@ -46,7 +46,7 @@ tags:
 
 - [[Tácticas básicas - clavada, horquilla, doble ataque]]
 - [[Enroque y jaque mate en ajedrez]]
-- Reglas de empate y tablas
+- [[Reglas de empate y tablas ⚫①]]
 
 ## Módulo 5: Estrategia Intermedia
 

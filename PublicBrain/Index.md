@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-10-01T21:05:20.495Z
+modified: 2024-10-29T19:27:52.526Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 151
+ver_rev: 156
 nav_primary: 
 nav_secondary: 
 tags:
@@ -41,6 +41,7 @@ DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo fr
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 	* [[Elementos del conocimiento humano y científico  🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]
+	* [[Estructura del Conocimiento General y Cientifico (Standford Test)]]
 
 ## Desarrollo Estructura Habilidades-Perfiles-Tareas 
 

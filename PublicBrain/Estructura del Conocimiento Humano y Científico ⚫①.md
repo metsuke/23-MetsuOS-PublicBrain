@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T20:41:29.428Z
-modified: 2024-09-09T23:42:30.387Z
+modified: 2024-10-29T07:42:23.153Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Estructura del Conocimiento Humano y Científico ⚫①
 
-[[Index]]
+[[PublicBrain/Index]]
 
 Aquí te dejo el índice técnico exhaustivo y detallado para un curso sobre "Estructura del Conocimiento Humano y Científico" en markdown:
 

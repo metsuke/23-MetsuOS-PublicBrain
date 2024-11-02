@@ -1,17 +1,20 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.973Z
-modified: 2024-06-10T15:26:26.286Z
+modified: 2024-10-09T13:21:17.192Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,7 +31,7 @@ La palabra "junts" se utiliza de manera similar a como se utiliza "juntos" en es
 
 1. **Estamos junts**: Significa "Estamos juntos". Puede referirse a dos o más personas que están compartiendo un momento o experiencia.
     
-2. **Trabajamos junts en este proyecto**: Indica que las personas están colaborando y trabajando en equipo en un proyecto específico.
+2. **Trabajamos junts en este proyecto**: "I"ndica que las personas están colaborando y trabajando en equipo en un proyecto específico.
     
 3. **Junts podemos lograrlo**: Se utiliza para expresar la idea de que, trabajando juntos, es posible alcanzar un objetivo o superar un desafío.
     

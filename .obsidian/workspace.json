@@ -11,8 +11,14 @@
             "id": "9b96d3b9400c219b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +72,9 @@
                 "file": "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②"
             }
           },
           {
@@ -70,10 +82,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -100,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -111,7 +128,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -122,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -130,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -142,7 +165,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -168,6 +193,19 @@
   },
   "active": "9b96d3b9400c219b",
   "lastOpenFiles": [
+    "Relación del idioma Rumano con el Latín.md",
+    "PublicBrain/_resources/Aprender Idioma Rumano",
+    "PublicBrain/Aprender Idioma Rumano.md",
+    "PublicBrain/Aprender Idiomas ⚫①.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Estructura del Conocimiento General y Cientifico (Standford Test).md",
+    "PublicBrain/_resources/Estructura del Conocimiento General y Cientifico (Standford Test)/12c93c111cf45aa55602bc7322b7dfe2_MD5.png",
+    "PublicBrain/_resources/Estructura del Conocimiento General y Cientifico (Standford Test)",
+    "Estryctura del Conocimiento General y Cientifico (Standford Test).md",
+    "PublicBrain/Estructura del Conocimiento Humano y Científico ⚫①.md",
+    "Index.md",
+    "PublicBrain/_resources/Aprender sobre Licencias  🔴②",
+    "PublicBrain/_resources/Licencia de software",
     "PublicBrain/Aprender sobre Licencias  🔴②.md",
     "PublicBrain/Hablar en Publico.md",
     "PublicBrain/H.md",
@@ -185,15 +223,6 @@
     "PublicBrain/Entornos Virtuales con Python ⚫①.md",
     "PublicBrain/GJ! ⚫①.md",
     "PublicBrain/Vivim.md",
-    "PublicBrain/heavy metal.md",
-    "PublicBrain/cinco vocales básicas del idioma japonés.md",
-    "PublicBrain/cross pollination.md",
-    "PublicBrain/_resources/Adverbios de tiempo en inglés.md",
-    "PublicBrain/Aprender sobre Evanescence ⚫①.md",
-    "PublicBrain/_resources/[02145.jpg.md",
-    "PublicBrain/Aprender sobre Akira ⚫①.md",
-    "PublicBrain/Elevator Girl.md",
-    "PublicBrain/Donde es técnicamente posible comprar con Crypto.md",
     "PublicBrain/_resources/standard-male-150.png",
     "PublicBrain/MOS_standard-male-150.png",
     "MOS_standard-male-150.png",
@@ -206,15 +235,10 @@
     "PublicBrain/_img",
     "Untitled.canvas",
     "_img/_SafeCreative/standard-male-150.png",
-    "_img/_SafeCreative/standard-male-150.png.crdownload",
-    "_img/_SafeCreative",
-    "_img",
     "PublicBrain/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
     "_resources/Listado de Emuladores escritos en Javascript/995af005efa81b89f845fee568134cf0_MD5.png",
-    "_resources/Index",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
     "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
-    "_resources/⬛🟥 🟨 🟩 🟦 ⬜/b0323b23f947b1dbd77488023967dd20_MD5.svg",
     "PublicBrain/Untitled.canvas"
   ]
 }

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-10-29T19:27:52.526Z
+modified: 2024-12-06T19:58:24.492Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 156
+ver_rev: 159
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,8 @@ tags:
 [[Arrojando Luz sobre Polémicas Linguísticas]] | [[Arrojando Luz sobre Polémicas Morales]] | [[GPT4All Testing]] | [[Creando MetsuOS ⚫①]]
 
 DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo frío y "aburrido", pero recuerden, una vez establecido el contenido, comprobado y gestionado por parte de un humano en fases subsiguientes, la calidez y empatía de la forma de comunicarlo puede modularse dinámicamente y el mensaje ser personalizado, mediante IA, tomando en cuenta todo tipo de parámetros.
+
+DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser usado como elemento de respaldo juridico o científico. Si se usa en ese sentido será bajo la responsabilidad de quien lo utilice. Tómese en cuenta el sistema de validacion de contenido y el nivel de fiabilidad que PERSONALMENTE atribuyo a cada uno de los elemtnos. Incluso las afirmaciones en apariencia mas firmes deben ser tomadas como "verdades probabilisticas dinamicas dependientes de contexto" y no como dogmas de fe (ni de ningún otro tipo).
 
 ## Estructrura de la Moral
 
@@ -105,6 +107,11 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Diseño
 
 * [[Aprender sobre Tipografía ⚫①]]
+
+### Educación
+
+* [[Historia de la Ley de Educación en España ⚫①]]
+* [[Documentos Variados sobre Educación]]
 
 ### Física
 

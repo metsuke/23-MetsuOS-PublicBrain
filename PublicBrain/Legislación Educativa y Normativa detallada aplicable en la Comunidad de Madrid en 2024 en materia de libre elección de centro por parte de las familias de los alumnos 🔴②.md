@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-06T19:52:07.090Z
-modified: 2024-12-13T11:24:34.483Z
+modified: 2024-12-19T22:21:48.415Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,7 @@ La Comunidad de Madrid cuenta con una legislación educativa y normativa que reg
 
 ### Ley Orgánica 2/2006, de 28 de diciembre, de Educación (LOE)
 
-La [[Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚🔴②]], es la norma fundamental que regula la educación en España. En su artículo 18, se establece el derecho de los padres o tutores a elegir el centro educativo para sus hijos o pupilos, siempre que cumplan los requisitos establecidos por la ley.
+La [[Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚🔴②-🌐🟡③]], es la norma fundamental que regula la educación en España. En su artículo 18, se establece el derecho de los padres o tutores a elegir el centro educativo para sus hijos o pupilos, siempre que cumplan los requisitos establecidos por la ley.
 
 ### Ley 3/2007, de 26 de marzo, de Educación de la Comunidad de Madrid
 
@@ -79,7 +79,7 @@ Si los padres o tutores no cumplen con los requisitos establecidos por la ley pa
 
 ## Referencias Bibliográficas
 
-* [[Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚🔴②]]
+* [[Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚🔴②-🌐🟡③]]
 * Ley 3/2007, de 26 de marzo, de Educación de la Comunidad de Madrid. (2007). Boletín Oficial de la Comunidad de Madrid, 74, 14-34.
 * Decreto 34/2019, de 12 de febrero, por el que se regula la libre elección de centro educativo en la Comunidad de Madrid. (2019). Boletín Oficial de la Comunidad de Madrid, 36, 10-20.
 * Real Decreto 126/2020, de 28 de febrero, por el que se establecen las bases para la organización y funcionamiento de los centros educativos en la Comunidad de Madrid. (2020). Boletín Oficial del Estado, 54, 12345-12456.

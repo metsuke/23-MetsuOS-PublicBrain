@@ -6,20 +6,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-11T23:24:56.724Z
-modified: 2024-12-13T11:24:35.125Z
+modified: 2024-12-19T22:23:07.934Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚🔴②
+# Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚🔴②-🌐🟡③
 
 * [[Metanálisis Bibliográfico de Procedimiento de cambio de centro escolar a mitad de curso enla Comunidad de Madrid en 2024 ⚖️⚫①]]
-* Art 84 - [[Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) , artículo 84, p. 23  📚⚫①]]
+* Art 84 - [[Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) , artículo 84, p. 23  📚⚫①-📚🟡③]]
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE) es una norma jurídica que regula el sistema educativo en España. Fue publicada en el Boletín Oficial del Estado (BOE) el 4 de mayo de 2006 y entró en vigor el 1 de enero de 2007.
 ## Objetivos y principios
@@ -78,7 +78,7 @@ La LOE establece las disposiciones finales para su aplicación y entrada en vigo
 
 ## Referencias bibliográficas que apoyan el contenido
 
- + ["La Ley Orgánica 2/2006, de 3 de mayo, de Educación" (BOE núm. 106, de 4 de mayo de 2006) 🌐](https://boe.es/buscar/doc.php?id=BOE-A-2006-7899)
+ + ["La Ley Orgánica 2/2006, de 3 de mayo, de Educación" (BOE núm. 106, de 4 de mayo de 2006) 🌐🟡③](https://boe.es/buscar/doc.php?id=BOE-A-2006-7899)
  + "La educación en España: un análisis de la Ley Orgánica 2/2006" (Revista de Educación, 2007)
 
 ## Referencias bibliográficas que critican el contenido

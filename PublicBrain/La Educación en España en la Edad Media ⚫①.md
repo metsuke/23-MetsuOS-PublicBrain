@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-10T22:30:38.565Z
-modified: 2024-12-10T22:39:23.435Z
+modified: 2024-12-11T23:50:54.544Z
 supervisado: ""
 ACCION: 
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# La Educación en la Edad Media ⚫①
+# La Educación en España en la Edad Media ⚫①
 
 [[Historia de la Ley de Educación en España ⚫①]]
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-06T10:40:57.847Z
-modified: 2024-12-11T23:02:17.228Z
+modified: 2024-12-13T11:24:34.889Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,15 +27,17 @@ tags:
 
  La educación en España tiene una larga y compleja historia que se remonta a la antigüedad. En este módulo, se presentará una visión general de la evolución de la educación en España, desde la época romana hasta la actualidad.
 
-### 1.1. [[La Educación en la Época Romana  ⚫①]]
+DISCLAIMER: En tanto no diseñe un sistema mas preciso para gestionar la relacion entre epocas historicas y territorios que existan actualmente pero no antaño, se asume España como concepto territorial en aquellas epocas en las que aún no existia. Esto es una solucion temporal, no definitva, y parte del proceso de desarrollo de MetsuOS.
+
+### 1.1. [[La Educación en España en la Época Romana  ⚫①]]
 
  La educación en la época romana se centraba en la formación de los ciudadanos para la vida pública y la administración del imperio. La educación se impartía en escuelas públicas y privadas, y se enfocaba en la enseñanza de la lengua latina, la literatura y la filosofía.
 
-### 1.2. [[La Educación en la Edad Media ⚫①]]
+### 1.2. [[La Educación en España en la Edad Media ⚫①]]
 
  Durante la Edad Media, la educación en España se centró en la formación de clérigos y nobles. La educación se impartía en monasterios y conventos, y se enfocaba en la enseñanza de la teología, la filosofía y la literatura.
 
-### 1.3. [[La Educación en la Época Moderna ⚫①]]
+### 1.3. [[La Educación en España en la Época Moderna ⚫①]]
 
  En la época moderna, la educación en España se centró en la formación de los ciudadanos para la vida pública y la administración del estado. La educación se impartía en escuelas públicas y privadas, y se enfocaba en la enseñanza de la lengua española, la literatura y la filosofía.
 
@@ -45,7 +47,7 @@ Durante este tiempo, la educación experimentó cambios significativos, influenc
 
  La Ley de Educación en España en el siglo XIX se centró en la creación de un sistema educativo público y gratuito para todos los ciudadanos. En este módulo, se presentará una visión general de la evolución de la Ley de Educación en España en el siglo XIX.
 
-### 2.1. **La Ley de Educación de 1808**
+### 2.1. [[Ley de Educación de 1808 (Ley de Instrucción Pública o Ley de Cabarrús) ⚫①]]
 
  La Ley de Educación de 1808 se promulgó durante la Guerra de la Independencia española y estableció la creación de un sistema educativo público y gratuito para todos los ciudadanos.
 
@@ -72,9 +74,9 @@ Durante este tiempo, la educación experimentó cambios significativos, influenc
 ### 3.3. **La Ley de Educación de 1938**
 
  La Ley de Educación de 1938 se promulgó durante la Guerra Civil española y estableció la creación de un sistema educativo público y gratuito para todos los ciudadanos.
-### 3.4  Ley General de Educación de 1970
+### 3.4  LGE (Ley General de Educación) - 1970
 
-La Ley General de Educación de 1970 se promulgó durante el régimen de Francisco Franco y estableció un marco normativo para el sistema educativo español, con el objetivo de modernizar y ampliar la educación en el país. 
+La Ley General de Educación de 1970 (también conocida como "Ley 14/1970, de 4 de agosto, General de Educación") se promulgó durante el régimen de Francisco Franco y estableció un marco normativo para el sistema educativo español, con el objetivo de modernizar y ampliar la educación en el país. 
 
 Esta ley supuso un importante paso hacia la democratización y la expansión de la educación en España, aunque también fue criticada por su enfoque autoritario y su falta de participación ciudadana en la toma de decisiones educativas. 
 
@@ -204,6 +206,6 @@ El Decreto 10/2023, de 17 de enero, por el que se regula la organización y func
 
 ## Módulo 8: Legislaciones Refundidas en diferentes areas educativas.
 
-* [[Legislación Educativa y Normativa detallada aplicable en la Comunidad de Madrid en 2024 en materia de libre elección de centro por parte de las familias de los alumnos  ⚫①]]
+* [[Legislación Educativa y Normativa detallada aplicable en la Comunidad de Madrid en 2024 en materia de libre elección de centro por parte de las familias de los alumnos 🔴②]]
 
 ![[Plantilla - 1MT#One More Thing]]

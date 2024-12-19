@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-10T22:47:08.634Z
-modified: 2024-12-11T23:04:31.548Z
+modified: 2024-12-13T11:24:34.475Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,7 +39,7 @@ El plazo para solicitar el cambio de centro escolar a mitad de curso es generalm
 Si se aprueba el cambio de centro escolar, el estudiante debe asistir al nuevo centro escolar y seguir el plan de estudios establecido por el centro (Orden 1241/2013, de 24 de abril, por la que se regula el procedimiento de cambio de centro escolar en la Comunidad de Madrid, artículo 8, p. 10). Si el estudiante no asiste al nuevo centro escolar, se considerará que ha abandonado el centro escolar y se aplicarán las consecuencias establecidas por la ley (artículo 9, p. 11).
 ## Referencias bibliográficas
 
-* [[Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚⚫①]]
+* [[Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚🔴②]]
 * Decreto 17/2008, de 6 de marzo, por el que se regula la libre elección de centro escolar en la Comunidad de Madrid (BOCM núm. 59, de 8 de marzo de 2008)
 * Orden 1241/2013, de 24 de abril, por la que se regula el procedimiento de cambio de centro escolar en la Comunidad de Madrid (BOCM núm. 102, de 26 de abril de 2013)
 * Informe del Defensor del Pueblo de la Comunidad de Madrid sobre la libre elección de centro escolar en la Comunidad de Madrid (2019)

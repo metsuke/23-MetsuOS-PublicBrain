@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-16T16:30:49.006Z
-modified: 2024-07-19T21:37:53.357Z
+modified: 2024-12-19T18:54:38.641Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②-🌐🟡③
+# Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️🔴②-🌐🟡③
 
 * Paradigma en:
 	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]

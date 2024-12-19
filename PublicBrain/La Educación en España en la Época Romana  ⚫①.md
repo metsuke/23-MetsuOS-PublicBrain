@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-09T21:47:33.445Z
-modified: 2024-12-09T21:49:54.198Z
+modified: 2024-12-11T23:50:38.132Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# La Educación en la Época Romana  ⚫①
+# La Educación en España en la Época Romana  ⚫①
 
 [[Historia de la Ley de Educación en España ⚫①]]
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-10T14:35:01.633Z
-modified: 2024-07-22T00:59:44.262Z
+modified: 2024-12-19T18:49:08.135Z
 supervisado: 2024-06-10T14:43:12.089Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,14 +27,14 @@ A continuación, se presenta un análisis exhaustivo del texto sobre el rol de g
 
 ## Introducción
 
-El texto destaca la importancia del rol de gestión empresarial en una microagencia de marketing digital, que se encarga de entender las necesidades de los clientes, definir el perfil del negocio y delegar la ejecución en las personas elegidas, mientras supervisa los resultados. Esta idea se apoya en el [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②-🌐🟡③]], que se centra en la planificación, organización, dirección y control de los recursos para alcanzar los objetivos de la empresa - [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚 🔴②-🌐🟡③]], p. 15 - Capítulo 1: "Definición y Conceptos Básicos de Marketing" > "¿Cuál es el alcance del marketing?" - p.5  en ediciones 11ª y 12ª - p.27 en edición 15ª. 
+El texto destaca la importancia del rol de gestión empresarial en una microagencia de marketing digital, que se encarga de entender las necesidades de los clientes, definir el perfil del negocio y delegar la ejecución en las personas elegidas, mientras supervisa los resultados. Esta idea se apoya en el [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②-🌐🟡③]], que se centra en la planificación, organización, dirección y control de los recursos para alcanzar los objetivos de la empresa - [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②-🌐🟡③]], p. 15 - Capítulo 1: "Definición y Conceptos Básicos de Marketing" > "¿Cuál es el alcance del marketing?" - p.5  en ediciones 11ª y 12ª - p.27 en edición 15ª. 
 
 **La diferencia de pg 5 y 15 en ediciones 1 y 11 respectivamente es confirmada como correcta via ChatGPT. Me vendría bien confirmacion por parte de algun poseedor de la primera edicion.**
 ## Objetivos
 
 Los objetivos del rol de gestión empresarial en una microagencia de marketing digital se centran en:
 
-* Entender las necesidades de los clientes: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②-🌐🟡③]], que se centra en comprender las necesidades y deseos de los clientes para desarrollar estrategias efectivas ([[Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③]])**.
+* Entender las necesidades de los clientes: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️🔴②-🌐🟡③]], que se centra en comprender las necesidades y deseos de los clientes para desarrollar estrategias efectivas ([[Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③]])**.
 * Definir el perfil del negocio: Esta idea se relaciona con el [[Paradigma - Teoría de la Planificación Estratégica - Prahalad & Hamel, 1990  🔍️ 🔴②-🌐🟡③]], que se centra en analizar la situación actual de la empresa y definir objetivos y estrategias para alcanzarlos ([[Paper - Prahalad & Hamel, 1990, p. 82 🔬 🔴②-🌐🟡③]]).
 * Delegar la ejecución en las personas elegidas: Esta idea se basa en el [[Paradigma - Teoría de la Delegación 🔍️ 🔴②-🌐🟡③]], que se centra en asignar responsabilidades y autoridad a los empleados para que puedan realizar tareas específicas ([[Concepto - Delegación Efectiva - Drucker, 1954 📚  🔴②-🌐🟡③]]).
 * Supervisar los resultados: Esta idea se relaciona con el [[Paradigma - Teoría del Control de Gestión 🔍️🔴②-🌐🟡③]], que se centra en monitorear y evaluar el desempeño de la empresa para asegurar que se alcanzan los objetivos ([[Porter, 1985, p. 45 📚 🔴②-🌐🟡③]]).
@@ -45,8 +45,8 @@ El texto describe cuatro procesos clave para el rol de gestión empresarial en u
 
 ### 1. Análisis de la Situación
 
-* Definir la propuesta de valor: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️ 🔴②-🌐🟡③]], que se centra en desarrollar una propuesta de valor única y atractiva para los clientes ([[Kotler, 2003, p. 241 📚 🔴②-🌐🟡③]]).
-* Definir el público objetivo: Esta idea se relaciona con el [[Paradigma - Teoría de la Segmentación de Mercados 🔍️ 🔴②-🌐🟡③]], que se centra en identificar y analizar los segmentos de mercado objetivo ([[Hoffman & Novak, 1996, p. 10 📚  ⚫①]]).
+* Definir la propuesta de valor: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️🔴②-🌐🟡③]], que se centra en desarrollar una propuesta de valor única y atractiva para los clientes ([[Kotler, 2003, p. 241 📚🔴②-🌐🟡③]]).
+* Definir el público objetivo: Esta idea se relaciona con el [[Paradigma - Teoría de la Segmentación de Mercados 🔍️🔴②-🌐🟡③]], que se centra en identificar y analizar los segmentos de mercado objetivo ([[Hoffman & Novak, 1996, p. 10 📚⚫①]]).
 * Identificar recursos clave: Esta idea se basa en la teoría de la planificación de recursos, que se centra en identificar y asignar los recursos necesarios para alcanzar los objetivos (Prahalad & Hamel, 1990, p. 95).
 * Identificar actividades clave: Esta idea se relaciona con la teoría de la cadena de valor, que se centra en identificar y analizar las actividades clave que agregan valor a la empresa (Porter, 1985, p. 67).
 * Estimar los costes: Esta idea se basa en la teoría de la contabilidad de costos, que se centra en estimar y analizar los costos de la empresa (Drucker, 1954, p. 156).

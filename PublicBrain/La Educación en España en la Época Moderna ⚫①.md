@@ -16,7 +16,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# La Educación en la Época Moderna ⚫①
+# La Educación en España en la Época Moderna ⚫①
 
 [[Historia de la Ley de Educación en España ⚫①]]
 

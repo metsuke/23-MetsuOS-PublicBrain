@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-06T20:02:52.628Z
-modified: 2024-12-10T22:47:33.127Z
+modified: 2024-12-13T11:24:34.445Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Procedimiento de cambio de centro escolar a mitad de curso en la Comunidad de Madrid en 2024 🔴②-⚖️⚫①
 
-* [[Legislación Educativa y Normativa detallada aplicable en la Comunidad de Madrid en 2024 en materia de libre elección de centro por parte de las familias de los alumnos  ⚫①]]
+* [[Legislación Educativa y Normativa detallada aplicable en la Comunidad de Madrid en 2024 en materia de libre elección de centro por parte de las familias de los alumnos 🔴②]]
 * [[Metanálisis Bibliográfico de Procedimiento de cambio de centro escolar a mitad de curso enla Comunidad de Madrid en 2024 ⚖️⚫①]]
 
 DISCLAIMER: En proceso de  🔴② a  🟡③ mediante el correspondiente metanálisis bibliográfico.
@@ -58,7 +58,7 @@ Es importante tener en cuenta que el cambio de centro escolar a mitad de curso e
 
 ## Referencias bibliográficas
 
-* Ley Orgánica 2/2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006)
+* [[Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚🔴②]]
 * Decreto 17/2008, de 6 de marzo, por el que se regula la libre elección de centro escolar en la Comunidad de Madrid (BOCM núm. 59, de 8 de marzo de 2008)
 * Orden 1241/2013, de 24 de abril, por la que se regula el procedimiento de cambio de centro escolar en la Comunidad de Madrid (BOCM núm. 102, de 26 de abril de 2013)
 * TODO: Revisar Decreto Madrid 2020

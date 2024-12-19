@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-08T21:29:34.436Z
-modified: 2024-07-19T21:37:34.268Z
+modified: 2024-12-19T18:49:08.103Z
 supervisado: 2024-06-10T15:06:30.415Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚 🔴②-🌐🟡③
+# Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②-🌐🟡③
 
 * Referencia Bibliográfica en
 	* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②]]

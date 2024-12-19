@@ -9,19 +9,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2024-08-02T15:30:28.618Z
+modified: 2024-12-19T19:01:00.970Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Elementos del conocimiento humano y científico  🔴②
 
-[[Estructura del Conocimiento Humano y Científico ⚫①]]
+* [[Estructura del Conocimiento Humano y Científico ⚫①]]
+	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️⚫①]]
 
 El conocimiento humano y científico se compone de varios elementos que se relacionan entre sí de manera jerárquica (Kuhn, 1962, p. 10).
 
@@ -29,7 +30,7 @@ A continuación, se presentan los diferentes niveles que componen esta estructur
 
 ## Nivel 1: Observación y Experimentación
 
-* **Observaciones**: "H"echos y datos recopilados a través de la experiencia y la experimentación. Estas observaciones son la base para la construcción del conocimiento (Kuhn, 1962, p. 10).
+* **Observaciones**: "Hechos y datos recopilados a través de la experiencia y la experimentación. Estas observaciones son la base para la construcción del conocimiento"(Kuhn, 1962, p. 10).
 
 ```mermaid
 graph LR
@@ -111,7 +112,7 @@ graph LR
 
 ## Referencias bibliográficas que apoyan este contenido:
 
-* Kuhn, T. S. (1962). La estructura de las revoluciones científicas. México: Fondo de Cultura Económica.
+* [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
 * Popper, K. R. (1959). La lógica de la investigación científica. Madrid: Tecnos.
 * Lakatos, I. (1970). La metodología de los programas de investigación científica. Madrid: Alianza Editorial.
 

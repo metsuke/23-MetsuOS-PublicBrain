@@ -9,24 +9,22 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-08T21:29:34.436Z
-modified: 2024-12-19T18:49:08.103Z
+modified: 2024-12-27T12:19:26.511Z
 supervisado: 2024-06-10T15:06:30.415Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 11
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②-🌐🟡③
+# Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②
 
 * Referencia Bibliográfica en
 	* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②]]
 * Paradigmas Relacionados:
 	* [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②-🌐🟡③]]
-* Referencias Google Academics
-	* [primera edicion marketing management kotler - Google Académico](https://scholar.google.es/scholar?q=primera+edicion+marketing+management+kotler&hl=es&as_sdt=0&as_vis=1&oi=scholart)
 
 ## Resumen
 
@@ -80,6 +78,17 @@ Algunos de los conceptos clave presentados en el libro incluyen:
 
 ## Referencias Bibliográficas
 
-* Kotler, P. (2003). Marketing Management. Pearson Education. ISBN 8178086549, ISBN 9788178086545
+* [[Metaanálisis - Libro - Kotler, P. (2003). Marketing Management. Pearson Education ⚖️🔴②-📚🟡③]]
+* Kotler, P. (2003) _Marketing management_, 11th ed., Upper Saddle River, N.J, Prentice Hall.
+* Kotler, P. and Keller, K. L. (2016) _Marketing management_, Always learning, Fifteenth edition, Global edition., Boston, Pearson.
+
+## Changelog
+
+* 2024-12-27 
+	* Inicio del Metaanálisis del presente documento
+	* Citas Bibliograficas en formato Hardvard (The Open University)
+* 2024-12-26 - Eventos previos no registrados
+* 2024-06-10 - Primera supervisión (Raul Carrillo aka Metsuke)
+* 2024-06-08 - Creacoión del Documento (llama3-70b-8192)
 
 ![[Plantilla - 1MT#One More Thing]]

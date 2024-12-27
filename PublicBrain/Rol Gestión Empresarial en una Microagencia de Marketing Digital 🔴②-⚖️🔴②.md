@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.654Z
-modified: 2024-12-19T18:49:08.156Z
+modified: 2024-12-27T12:14:32.250Z
 supervisado: 2024-06-10T14:35:11.610Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 39
+ver_rev: 42
 nav_primary: 
 nav_secondary: 
 tags:
@@ -64,7 +64,7 @@ En una microagencia de marketing digital es clave el rol de gestión empresarial
 
 ## Referencias Bibliográficas
 
-* [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②-🌐🟡③]]
+* [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②]]
 * [[Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②-🌐🟡③]] 
 * Prahalad, C. K., & Hamel, G. (1990). The core competence of the corporation. Harvard Business Review, 68(3), 79-91.
 

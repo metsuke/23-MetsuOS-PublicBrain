@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-12-06T19:58:24.492Z
+modified: 2024-12-23T19:44:22.207Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 159
+ver_rev: 162
 nav_primary: 
 nav_secondary: 
 tags:
@@ -41,8 +41,10 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 * Estructura de los Idimas Humanos
 	* Elementos de los idiomas Humanos
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
-	* [[Elementos del conocimiento humano y científico  🔴②]]
+	* [[Elementos del conocimiento humano y científico 🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]
+		* [[La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos  ⚫①]]
+			* [[Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①]]
 	* [[Estructura del Conocimiento General y Cientifico (Standford Test)]]
 
 ## Desarrollo Estructura Habilidades-Perfiles-Tareas 

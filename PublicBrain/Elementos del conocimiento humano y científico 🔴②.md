@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2024-12-19T19:01:00.970Z
+modified: 2024-12-23T19:43:15.007Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Elementos del conocimiento humano y científico  🔴②
+# Elementos del conocimiento humano y científico 🔴②
 
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️⚫①]]

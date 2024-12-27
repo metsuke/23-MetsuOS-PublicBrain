@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-02T20:02:26.542Z
-modified: 2024-12-19T18:49:08.072Z
+modified: 2024-12-27T12:14:32.137Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -25,7 +25,7 @@ Philip Kotler es considerado uno de los padres del marketing moderno. Nacido en 
 
 ## El libro "Marketing Management" de Kotler (2003)
 
-En 2003, Kotler publicó la undécima edición de su [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②-🌐🟡③]], que se ha convertido en una referencia obligada para cualquier profesional del marketing. En esta edición, Kotler profundiza en los conceptos y estrategias del marketing, y ofrece una visión actualizada y completa de la disciplina.
+En 2003, Kotler publicó la undécima edición de su [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②]], que se ha convertido en una referencia obligada para cualquier profesional del marketing. En esta edición, Kotler profundiza en los conceptos y estrategias del marketing, y ofrece una visión actualizada y completa de la disciplina.
 
 ## Análisis de la Competencia
 
@@ -61,7 +61,7 @@ Kotler menciona varias herramientas que se pueden utilizar para analizar la comp
 
 ## **Referencias Bibliográficas que apoyan el contenido
 
-* [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②-🌐🟡③]] 11ª edición. Pearson Education.
+* [[Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②]] 11ª edición. Pearson Education.
 * Porter, M. E. (1980). Competitive Strategy: Techniques for Analyzing Industries and Competitors. Free Press.
 * Day, G. S. (1990). Market-Driven Strategy: Processes for Creating Value. Free Press.
 

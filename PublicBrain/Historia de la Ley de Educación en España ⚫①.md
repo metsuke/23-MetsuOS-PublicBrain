@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-06T10:40:57.847Z
-modified: 2024-12-19T22:13:38.005Z
+modified: 2024-12-29T20:12:34.993Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -55,7 +55,7 @@ Durante este tiempo, la educación experimentó cambios significativos, influenc
 
  La Ley de Educación de 1857 se promulgó durante el reinado de Isabel II y estableció la creación de un sistema educativo público y gratuito para todos los ciudadanos.
 
-### 2.3. **La Ley de Educación de 1870**
+### 2.3. [[La Ley de Educación de 1870 (Ley de Educación de Ruiz Zorrilla)  🔴②]]
 
  La Ley de Educación de 1870 se promulgó durante el reinado de Amadeo I y estableció la creación de un sistema educativo público y gratuito para todos los ciudadanos.
 

@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "184bacd4633fd8cc",
+        "id": "b7d1b84e82d24824",
         "type": "tabs",
         "children": [
           {
-            "id": "b3385df212cdef34",
+            "id": "2e3843a5dd592bdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②.md",
+                "file": "PublicBrain/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②"
-            }
-          },
-          {
-            "id": "8947e607e63535c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Metaanálisis - Libro - Kotler, P. (2003). Marketing Management. Pearson Education ⚖️🔴②-📚🟡③.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metaanálisis - Libro - Kotler, P. (2003). Marketing Management. Pearson Education ⚖️🔴②-📚🟡③"
-            }
-          },
-          {
-            "id": "e147b79c5d7a34b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①"
+              "title": "Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,15 +191,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8947e607e63535c3",
+  "active": "2e3843a5dd592bdf",
   "lastOpenFiles": [
-    "PublicBrain/Libro - Kotler, P. (2003). Marketing Management. Pearson Education 📚🔴②.md",
-    "PublicBrain/Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①.md",
-    "PublicBrain/Metaanálisis - Libro - Kotler, P. (2003). Marketing Management. Pearson Education ⚖️🔴②-📚🟡③.md",
-    "Metaanálisis - Libro - Kotler, P. (2003). Marketing Management. Pearson Education 🔴②-📚🟡③.md",
+    "PublicBrain/Historia de la Ley de Educación en España ⚫①.md",
+    "PublicBrain/La Ley de Educación de 1870 (Ley de Educación de Ruiz Zorrilla)  🔴②.md",
+    "La Ley de Educación de 1870 ⚫①.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Metaanálisis - Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th ⚖️🔴②-📚🟡③.md",
+    "PublicBrain/Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th 📚🔴②.md",
+    "PublicBrain/Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②-🌐🟡③.md",
+    "PublicBrain/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②.md",
     "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
+    "PublicBrain/Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①.md",
+    "Metaanálisis - Libro - Kotler, P. (2003). Marketing Management. Pearson Education 🔴②-📚🟡③.md",
     "PublicBrain/Búsqueda avanzada (IDRA-Ebay) 🔴②.md",
     "PublicBrain/_resources/Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①",
     "PublicBrain/Metaanálisis - Elementos del conocimiento humano y científico ⚖️⚫①.md",
@@ -242,14 +218,9 @@
     "PublicBrain/_resources/Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③",
     "PublicBrain/Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚🔴②-🌐🟡③.md",
     "PublicBrain/Legislación Educativa y Normativa detallada aplicable en la Comunidad de Madrid en 2024 en materia de libre elección de centro por parte de las familias de los alumnos 🔴②.md",
-    "PublicBrain/Historia de la Ley de Educación en España ⚫①.md",
     "Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚🔴②-🌐🟡③.md",
     "PublicBrain/Ley Orgánica 2/Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) , artículo 84, p. 23  📚⚫①-📚🟡③.md",
     "PublicBrain/La Ley de Educación de 1857 (Ley Moyano)  ⚫①.md",
-    "Ley Orgánica 2/Ley Orgánica 2 barra 2006, de 3 de mayo, de Educación (BOE núm. 106, de 4 de mayo de 2006) 📚🔴②-🌐🟡③.md",
-    "La Ley de Educación de 1857 (Ley Moyano)  ⚫①.md",
-    "PublicBrain/Kuhn, T. S. (1962. La estructura de las revoluciones científicas p. 10) 🔴②.md",
-    "Kuhn, T. S. (1962). La estructura de las revoluciones científicas ⚫①.md",
     "PublicBrain/_resources/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②",
     "PublicBrain/_resources/Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②-🌐🟡③",
     "PublicBrain/_resources/Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②",

@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-02T20:02:26.542Z
-modified: 2024-12-28T23:40:19.462Z
+modified: 2024-12-30T21:38:16.786Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 10
+ver_rev: 11
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -61,7 +61,7 @@ Kotler menciona varias herramientas que se pueden utilizar para analizar la comp
 
 ## **Referencias Bibliográficas que apoyan el contenido
 
-* [[Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th 📚🔴②]] 11ª edición. Pearson Education.
+* [[Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th 📚🔴②]] 
 * Porter, M. E. (1980). Competitive Strategy: Techniques for Analyzing Industries and Competitors. Free Press.
 * Day, G. S. (1990). Market-Driven Strategy: Processes for Creating Value. Free Press.
 

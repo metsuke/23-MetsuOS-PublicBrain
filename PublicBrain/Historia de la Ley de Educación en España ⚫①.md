@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-06T10:40:57.847Z
-modified: 2024-12-29T20:12:34.993Z
+modified: 2024-12-31T15:44:02.715Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 13
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
@@ -63,7 +63,7 @@ Durante este tiempo, la educación experimentó cambios significativos, influenc
 
  La Ley de Educación en España en el siglo XX se centró en la creación de un sistema educativo público y gratuito para todos los ciudadanos. En este módulo, se presentará una visión general de la evolución de la Ley de Educación en España en el siglo XX.
 
-### 3.1. **La Ley de Educación de 1901**
+### 3.1. [[La Ley de Educación de 1901 (Ley de Educación de Montero Ríos)  ⚫①]]
 
  La Ley de Educación de 1901 se promulgó durante el reinado de Alfonso XIII y estableció la creación de un sistema educativo público y gratuito para todos los ciudadanos.
 

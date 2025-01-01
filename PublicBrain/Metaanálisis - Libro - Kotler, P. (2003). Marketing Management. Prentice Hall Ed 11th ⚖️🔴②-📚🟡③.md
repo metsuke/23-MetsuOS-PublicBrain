@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-27T12:14:44.245Z
-modified: 2024-12-30T21:57:16.003Z
+modified: 2024-12-30T23:36:38.188Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ El libro "Administración de Marketing" de Philip Kotler es un texto seminal en 
 
 ## Estructura del Libro
 
-La edición 11 de "Marketing Management" de Philip Kotler tiene un total de 706 páginas (Kotler, 2003, p, 706) 🟡③.
+La edición 11 de "Marketing Management" de Philip Kotler tiene un total de 706 páginas (Kotler, 2003, p, 706) 🟡③. ... https://openlibrary.org/books/OL24213430M/Marketing_management (768pag TODO Contrastar)
 
 
 El libro "Marketing Management" de Philip Kotler se divide en 5 partes, cada una de las cuales aborda un tema específico en el campo del marketing (Kotler, 2003, p, vii) 🟡③.

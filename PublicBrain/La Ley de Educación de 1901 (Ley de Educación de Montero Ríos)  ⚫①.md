@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-31T15:43:47.119Z
-modified: 2025-01-01T00:25:19.142Z
+modified: 2025-01-15T19:25:35.933Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# La Ley de Educación de 1901 (Ley de Educación de Montero Ríos)  ⚫①
+ # La Ley de Educación de 1901 (Ley de Educación de Montero Ríos)  ⚫①
 
 [[Historia de la Ley de Educación en España ⚫①]]
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2024-12-23T19:44:22.207Z
+modified: 2025-01-15T19:26:32.918Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 162
+ver_rev: 163
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,13 +30,22 @@ DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo fr
 
 DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser usado como elemento de respaldo juridico o científico. Si se usa en ese sentido será bajo la responsabilidad de quien lo utilice. Tómese en cuenta el sistema de validacion de contenido y el nivel de fiabilidad que PERSONALMENTE atribuyo a cada uno de los elemtnos. Incluso las afirmaciones en apariencia mas firmes deben ser tomadas como "verdades probabilisticas dinamicas dependientes de contexto" y no como dogmas de fe (ni de ningún otro tipo).
 
-## Estructrura de la Moral
+## Estructura de la Realidad Subjetiva
+### Estructrura de la Moral
 
 * [[Estudio y Análisis científico de la Declaración Universal de los Derechos Humanos  ⚫①]]
 * [[Estudio y Análisis lógico de la Declaración Universal de los Derechos Humanos   ⚫①]]
 * [[Estudio y Análisis moral de la Declaración Universal de los Derechos Humanos  ⚫①]]
-	
-## Estructura del Conocimiento
+
+### Estructura de la Sociedad
+
+* [[La Pirámide de Maslow  🔴②]]
+* Tipos de estructura de la sociedad humana
+	* Estructura de la Sociedad Bottom-Up
+		* Estructura de la Sociedad Bottom-Up: Individuo
+	* Estructura de la Sociedad Top-Down
+		* Estructura de la Sociedad Top-Down: Humanidad
+### Estructura del Conocimiento
 
 * Estructura de los Idimas Humanos
 	* Elementos de los idiomas Humanos
@@ -47,7 +56,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 			* [[Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①]]
 	* [[Estructura del Conocimiento General y Cientifico (Standford Test)]]
 
-## Desarrollo Estructura Habilidades-Perfiles-Tareas 
+### Estructura de Habilidades-Perfiles-Tareas 
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
 
@@ -57,6 +66,8 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 * TODO: Estructura una Enciclopedia Galáctica
 * TODO: Estructurar un Estudio de Videojuegos
 * TODO: Estructura un pesebre bajo las estrellas.
+
+---
 ## Aprender Idiomas y Cultura
 
 * [[Aprender Idiomas ⚫①]]

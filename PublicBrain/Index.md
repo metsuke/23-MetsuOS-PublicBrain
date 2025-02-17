@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-01-15T19:26:32.918Z
+modified: 2025-02-01T00:07:29.237Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 163
+ver_rev: 165
 nav_primary: 
 nav_secondary: 
 tags:
@@ -45,6 +45,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 		* Estructura de la Sociedad Bottom-Up: Individuo
 	* Estructura de la Sociedad Top-Down
 		* Estructura de la Sociedad Top-Down: Humanidad
+* [[Paises más democráticos del mundo  ⚫①]]
 ### Estructura del Conocimiento
 
 * Estructura de los Idimas Humanos

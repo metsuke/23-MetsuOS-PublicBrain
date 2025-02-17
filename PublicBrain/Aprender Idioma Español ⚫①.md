@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.421Z
-modified: 2024-07-17T07:51:01.589Z
+modified: 2025-02-16T16:32:48.396Z
 supervisado: 2024-05-27T13:37:59.811Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 79
+ver_rev: 80
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,6 +36,10 @@ tags:
 	* [[MOS Dictionary ES (Diccionario MetsuOS)]]
 	* [[MOS Generational Dictionary ES (Diccionario Neologismos MetsuOS)]]
 	* [[MOS Flascards ES (Flashcards MetsuOS)]]
+
+## Informacion Adicional
+
+* [[Verbos del Español que se estudian en Cuarto de Primaria en España en 2025 🔴②]]
 
 
 ![[Plantilla - 1MT#One More Thing]]

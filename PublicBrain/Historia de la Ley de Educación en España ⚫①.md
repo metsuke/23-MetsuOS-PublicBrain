@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-06T10:40:57.847Z
-modified: 2024-12-31T15:44:02.715Z
+modified: 2025-02-17T12:13:52.897Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 14
+ver_rev: 15
 nav_primary: 
 nav_secondary: 
 tags:
@@ -67,7 +67,7 @@ Durante este tiempo, la educación experimentó cambios significativos, influenc
 
  La Ley de Educación de 1901 se promulgó durante el reinado de Alfonso XIII y estableció la creación de un sistema educativo público y gratuito para todos los ciudadanos.
 
-### 3.2. **La Ley de Educación de 1923**
+### 3.2. [[La Ley de Educación de 1923 ⚫①]]
 
  La Ley de Educación de 1923 se promulgó durante el reinado de Alfonso XIII y estableció la creación de un sistema educativo público y gratuito para todos los ciudadanos.
 

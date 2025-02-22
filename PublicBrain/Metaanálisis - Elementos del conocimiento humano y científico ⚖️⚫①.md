@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-19T19:01:06.187Z
-modified: 2024-12-19T22:02:17.408Z
+modified: 2025-02-20T21:53:43.220Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 4
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Metaanálisis - Elementos del conocimiento humano y científico ⚖️⚫①
 
-[[Elementos del conocimiento humano y científico  🔴②]]
+[[Elementos del conocimiento humano y científico 🔴②]]
 
 El contenido presentado es una estructura jerárquica del conocimiento humano y científico, que se divide en ocho niveles. A continuación, se presentará un análisis exhaustivo de cada nivel, relacionando las ideas con sus referencias bibliográficas correspondientes.
 ## Nivel 1: Observación y Experimentación

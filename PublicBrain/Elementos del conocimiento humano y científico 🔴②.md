@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2024-12-23T19:43:15.007Z
+modified: 2025-02-20T21:52:22.612Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -113,7 +113,7 @@ graph LR
 ## Referencias bibliográficas que apoyan este contenido:
 
 * [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
-* Popper, K. R. (1959). La lógica de la investigación científica. Madrid: Tecnos.
+* [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴② 🔴②-🟡③🌐]]
 * Lakatos, I. (1970). La metodología de los programas de investigación científica. Madrid: Alianza Editorial.
 
 ## Referencias bibliográficas que refutan este contenido

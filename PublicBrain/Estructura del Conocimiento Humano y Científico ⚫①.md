@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T20:41:29.428Z
-modified: 2024-10-29T07:42:23.153Z
+modified: 2025-03-09T01:11:42.356Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -86,7 +86,7 @@ Aquí te dejo el índice técnico exhaustivo y detallado para un curso sobre "Es
 
 ---
 
-* [[Elementos del conocimiento humano y científico  🔴②]]
+* [[Elementos del conocimiento humano y científico 🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]
 
 ---

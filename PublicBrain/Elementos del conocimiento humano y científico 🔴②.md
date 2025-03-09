@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2025-02-20T21:52:22.612Z
+modified: 2025-03-09T00:16:43.543Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Elementos del conocimiento humano y científico 🔴②
 
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
-	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️⚫①]]
+	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️ 🔴②]]
 
 El conocimiento humano y científico se compone de varios elementos que se relacionan entre sí de manera jerárquica (Kuhn, 1962, p. 10).
 

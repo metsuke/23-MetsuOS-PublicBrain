@@ -9,17 +9,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.188Z
-modified: 2024-08-23T07:04:24.209Z
+modified: 2025-03-03T16:44:57.279Z
 supervisado: 2024-06-09T21:35:05.959Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 149
+ver_rev: 153
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Estructurar una Microagencia de Marketing Digital  ⚫①
+	# Estructurar una Microagencia de Marketing Digital  ⚫①
 
 
 * [[PublicBrain/Index|Index]] 

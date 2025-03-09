@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2024-07-10T20:25:52.052Z
+modified: 2025-03-09T21:03:17.617Z
 supervisado: 2024-06-05T18:07:29.324Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 81
+ver_rev: 82
 nav_primary: 
 nav_secondary: 
 tags:
@@ -53,7 +53,7 @@ tags:
    
 ## V. Contexto Histórico y Cultural
 
-   - [[Época y lugar de vida del individuo (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Época y lugar de vida del individuo (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Eventos políticos, sociales y culturales relevantes (Estudio pensamiento y filosofía de una persona) ⚫①]]
    
 ## VI. Desarrollo de Ideas Filosóficas

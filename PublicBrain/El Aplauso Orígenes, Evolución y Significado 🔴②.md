@@ -1,6 +1,9 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: DeepSeek-V3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
@@ -8,13 +11,13 @@ translations:
 created: 2025-03-09T08:32:01.190Z
 modified: 2025-03-09T08:36:12.712Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
 ver_rev: 1
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # El Aplauso: Orígenes, Evolución y Significado 🔴②
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-02-01T00:07:29.237Z
+modified: 2025-03-09T08:31:58.655Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 165
+ver_rev: 166
 nav_primary: 
 nav_secondary: 
 tags:
@@ -74,6 +74,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 * [[Aprender Idiomas ⚫①]]
 * [[Aprender sobre sistemas de escritura]]
 * [[Aprender sobre cultura internacional a través de los idiomas]]
+* [[El Aplauso Orígenes, Evolución y Significado 🔴②]]
 
 ## Aprender con ...
 

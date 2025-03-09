@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-02-17T12:13:45.869Z
-modified: 2025-02-17T12:21:04.860Z
+modified: 2025-03-09T02:19:31.823Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 4
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# La Ley de Educación de 1923 ⚫①
+# La Ley de Educación de 1923 (LEP) ⚫①
 
 [[Historia de la Ley de Educación en España ⚫①]]
 

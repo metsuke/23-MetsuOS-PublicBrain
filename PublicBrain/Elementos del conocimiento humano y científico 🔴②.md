@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2025-03-09T00:16:43.543Z
+modified: 2025-03-09T01:58:14.512Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,6 +23,13 @@ tags:
 
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️ 🔴②]]
+
+---
+
+TODO: Perfilar e implementar los pasos de gestion de conocimiento  ⚫① a  ⚪⑥ en el nuevo #MetsuO
+
+---
+
 
 El conocimiento humano y científico se compone de varios elementos que se relacionan entre sí de manera jerárquica (Kuhn, 1962, p. 10).
 

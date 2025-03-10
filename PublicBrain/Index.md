@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-03-09T08:31:58.655Z
+modified: 2025-03-10T20:56:55.957Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 166
+ver_rev: 167
 nav_primary: 
 nav_secondary: 
 tags:
@@ -56,7 +56,6 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 		* [[La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos  ⚫①]]
 			* [[Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①]]
 	* [[Estructura del Conocimiento General y Cientifico (Standford Test)]]
-
 ### Estructura de Habilidades-Perfiles-Tareas 
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
@@ -75,6 +74,10 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 * [[Aprender sobre sistemas de escritura]]
 * [[Aprender sobre cultura internacional a través de los idiomas]]
 * [[El Aplauso Orígenes, Evolución y Significado 🔴②]]
+
+## Aprender sobre Geopolitica
+
+* [[Aprender sobre Geopolitica Básica  ⚫①]]
 
 ## Aprender con ...
 

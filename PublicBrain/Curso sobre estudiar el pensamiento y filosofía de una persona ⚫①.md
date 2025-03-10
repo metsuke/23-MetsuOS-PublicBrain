@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2025-03-09T21:03:17.617Z
+modified: 2025-03-10T06:38:55.447Z
 supervisado: 2024-06-05T18:07:29.324Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 82
+ver_rev: 83
 nav_primary: 
 nav_secondary: 
 tags:
@@ -54,7 +54,7 @@ tags:
 ## V. Contexto Histórico y Cultural
 
    - [[Época y lugar de vida del individuo (Estudio pensamiento y filosofía de una persona) 🔴②]]
-   - [[Eventos políticos, sociales y culturales relevantes (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Eventos políticos, sociales y culturales relevantes (Estudio pensamiento y filosofía de una persona)  🔴②]]
    
 ## VI. Desarrollo de Ideas Filosóficas
 
@@ -73,7 +73,6 @@ tags:
    - [[Fuentes primarias - obras del individuo (Estudio pensamiento y filosofía de una persona) ⚫①]]
    - [[Fuentes secundarias (libros, artículos, ensayos) - Estudio pensamiento y filosofía de una persona ⚫①]]
    - [[Recursos en línea y bases de datos filosóficas (Estudio pensamiento y filosofía de una persona) ⚫①]]
-
    
 ## IX. Evaluación
 

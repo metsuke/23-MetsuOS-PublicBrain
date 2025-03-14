@@ -79,6 +79,9 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 
 * [[Aprender sobre Geopolitica Básica  ⚫①]]
 
+## Aprender sobre Tecnología
+
+[[Aprender a crear una nube de almacenamiento con OwnCloud 🔴②]]
 ## Aprender con ...
 
 Por el momento vemos que podemos aprender de cada uno de ellos, de temas relacionados con temas absolutamente diversos,y, en algunos casos, expertos en temáticas que se prestan al trabajo que pretendo con las realidades probabilísticas y su gestión en busca de una aproximación multidimensional a la """verdad""".

@@ -28,7 +28,7 @@ ADVERTENCIA: Esta es una linea de estudio por libre experimental basada en IA, l
 ## **Módulo 1: Geografía y Geopolítica. La relación entre el espacio y el poder.**
 
 1. **Introducción a la Geopolítica:**
-   - Definición y origen de la Geopolítica.
+   - [[Definición y origen de la Geopolítica 🔴②]]
    - Diferencias entre Geografía Política y Geopolítica.
    - La importancia del espacio en la configuración del poder.
 2. **El espacio geográfico como factor de poder:**

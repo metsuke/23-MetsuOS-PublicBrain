@@ -1,3 +1,24 @@
+---
+iaStatus_Model: DeepSeek-V3
+iaStatus: 8
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2025-03-16T21:35:24.634Z
+modified: 2025-03-16T23:25:16.108Z
+supervisado: ""
+ACCION: S
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: 
+nav_secondary: 
+tags:
+---
 # Definición y origen de la Geopolítica 🔴②
 
 [[Aprender sobre Geopolitica Básica  ⚫①]]
@@ -36,7 +57,7 @@ En resumen, la geopolítica es una disciplina que combina geografía, política 
 
 ### Referencias que Apoyan el Contenido
 
-1. **Kjellén, R.** (1916). *Staten som Lifsform*. Estocolmo: Hugo Gebers Förlag.
+1. **Kjellén, R.** (1916). *Staten som Lifsform*. Estocolmo: "H"ugo Gebers Förlag.
 2. **Mackinder, H. J.** (1904). "The Geographical Pivot of History". *The Geographical Journal*, 23(4), 421-437.
 3. **Spykman, N. J.** (1944). *The Geography of the Peace*. Nueva York: Harcourt, Brace and Company.
 4. **Haushofer, K.** (1924). *Geopolitik des Pazifischen Ozeans*. Berlín: Kurt Vowinckel Verlag.

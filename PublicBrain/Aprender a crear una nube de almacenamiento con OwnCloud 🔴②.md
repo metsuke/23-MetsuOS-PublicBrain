@@ -1,3 +1,21 @@
+---
+iaStatus_Model: ""
+iaStatus: 0
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2025-03-14T05:36:56.291Z
+modified: 2025-03-16T23:25:16.588Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 3
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Aprender a crear una nube de almacenamiento con OwnCloud 🔴②
 
 [[PublicBrain/Index|Index]]

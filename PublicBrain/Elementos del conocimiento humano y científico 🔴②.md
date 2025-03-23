@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2025-03-09T01:58:14.512Z
+modified: 2025-03-23T21:39:03.651Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,18 +26,17 @@ tags:
 
 ---
 
-TODO: Perfilar e implementar los pasos de gestion de conocimiento  ⚫① a  ⚪⑥ en el nuevo #MetsuO
+TODO: Perfilar e implementar los pasos de gestion de conocimiento  ⚫① a  ⚪⑥ en el nuevo #MetsuOS
 
 ---
 
-
-El conocimiento humano y científico se compone de varios elementos que se relacionan entre sí de manera jerárquica (Kuhn, 1962, p. 10).
+El conocimiento humano y científico se compone de varios elementos que se relacionan entre sí de manera jerárquica ([[Kuhn, T. S. (1962). La estructura de las revoluciones científicas, p. 10 🟡③-📚🟡③]]).
 
 A continuación, se presentan los diferentes niveles que componen esta estructura, desde la observación y experimentación hasta la metodología y técnicas (Popper, 1959, p. 20).
 
 ## Nivel 1: Observación y Experimentación
 
-* **Observaciones**: "Hechos y datos recopilados a través de la experiencia y la experimentación. Estas observaciones son la base para la construcción del conocimiento"(Kuhn, 1962, p. 10).
+* **Observaciones**: "Hechos y datos recopilados a través de la experiencia y la experimentación. Estas observaciones son la base para la construcción del conocimiento"([[Kuhn, T. S. (1962). La estructura de las revoluciones científicas, p. 10 🟡③-📚🟡③]]).
 
 ```mermaid
 graph LR

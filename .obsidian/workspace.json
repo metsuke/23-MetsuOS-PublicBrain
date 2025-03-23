@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Index.md",
+                "file": "PublicBrain/Kuhn, T. S. (1962). La estructura de las revoluciones científicas, p. 10 🟡③-📚🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Kuhn, T. S. (1962). La estructura de las revoluciones científicas, p. 10 🟡③-📚🟡③"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,11 +194,30 @@
   },
   "active": "bd3e6bee47d2a9a9",
   "lastOpenFiles": [
+    "PublicBrain/Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③.md",
+    "PublicBrain/Kuhn, T. S. (1962). La estructura de las revoluciones científicas, p. 10 🟡③-📚🟡③.md",
+    "PublicBrain/Metaanálisis - Elementos del conocimiento humano y científico ⚖️ 🔴②.md",
+    "PublicBrain/Elementos del conocimiento humano y científico 🔴②.md",
+    "Kuhn, T. S. (1962). La estructura de las revoluciones científicas, p. 10  ⚫①.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
+    "PublicBrain/Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②.md",
+    "PublicBrain/Test Logo con Grok.md",
+    "Test Logo con Grok.md",
+    "_resources/Test Logo con Grok/8b6b8bae1afc813ff292c77196051719_MD5.png",
+    "_resources/Test Logo con Grok/50c149e1c01fb66c590f64f2e3a2466b_MD5.png",
+    "_resources/Test Logo con Grok/8a30b1ec7faae8040b14c9b711bbded9_MD5.png",
+    "_resources/Test Logo con Grok/001b19c83462a67817fb5ed8e96eab56_MD5.png",
+    "_resources/Test Logo con Grok/87977815f691c8f64b17aaf8679ab780_MD5.png",
+    "_resources/Test Logo con Grok/011a5566e9c171c648ec2b24aa7ce9e9_MD5.png",
+    "_resources/Test Logo con Grok/94682f657abfcdfa5143d26681c32986_MD5.jpg",
+    "_resources/Test Logo con Grok/309f1d7689a9203ab92476592a855138_MD5.jpg",
+    "_resources/Test Logo con Grok/d09d9700d82caffd3b5a30e97ce6de23_MD5.png",
+    "_resources/Test Logo con Grok/c1dd5ae60f30009fb83077032e9785de_MD5.png",
+    "_resources/Test Logo con Grok",
     "PublicBrain/Aportes de ChatGPT sobre esta metodología WIP 🔴②.md",
     "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
     "Aportes de ChatGPT sobre esta metodologia WIP.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
     "PublicBrain/Aprender sobre Geopolitica Básica  ⚫①.md",
     "PublicBrain/Definición y origen de la Geopolítica 🔴②.md",
     "Definición y origen de la Geopolítica 🔴②.md",
@@ -209,19 +228,11 @@
     "PublicBrain/Aprender sobre Storytelling ⚫①.md",
     "PublicBrain/¿Qué es el Storytelling? 🔴②.md",
     "Aprender sobre Geopolitica Basica  ⚫①.md",
-    "PublicBrain/Elementos del conocimiento humano y científico 🔴②.md",
     "PublicBrain/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión).md",
     "PublicBrain/Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①.md",
     "PublicBrain/Eventos políticos, sociales y culturales relevantes (Estudio pensamiento y filosofía de una persona)  🔴②.md",
     "PublicBrain/Época y lugar de vida del individuo (Estudio pensamiento y filosofía de una persona) 🔴②.md",
     "PublicBrain/_resources/Época y lugar de vida del individuo (Estudio pensamiento y filosofía de una persona) ⚫①",
-    "PublicBrain/Aprender con Javier G. Recuenco ⚫①.md",
-    "PublicBrain/Aprender con G-L ⚫①.md",
-    "PublicBrain/Aprender con Q-Z ⚫①.md",
-    "PublicBrain/Aprender con M-P.md",
-    "PublicBrain/El Aplauso Orígenes, Evolución y Significado 🔴②.md",
-    "El Aplauso Orígenes, Evolución y Significado 🔴②.md",
-    "PublicBrain/Historia de la Ley de Educación en España ⚫①.md",
     "PublicBrain/_resources/Metaanálisis - Elementos del conocimiento humano y científico ⚖️⚫①",
     "PublicBrain/_resources/Verbos del Español que se estudian en Cuarto de Primaria en España en 2025 ⚫①",
     "PublicBrain/_resources/Aprender Idioma Español ⚫①",
@@ -229,18 +240,7 @@
     "PublicBrain/_resources/Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①",
     "PublicBrain/_resources/Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③",
     "PublicBrain/_resources/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②",
-    "PublicBrain/_resources/Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②-🌐🟡③",
-    "PublicBrain/_resources/Estructura del Conocimiento General y Cientifico (Standford Test)/12c93c111cf45aa55602bc7322b7dfe2_MD5.png",
-    "PublicBrain/_resources/standard-male-150.png",
-    "PublicBrain/MOS_standard-male-150.png",
-    "MOS_standard-male-150.png",
-    "PublicBrain/_img/_SafeCreative/standard-male-150.png",
     "Untitled.canvas",
-    "_img/_SafeCreative/standard-male-150.png",
-    "PublicBrain/7ca3d083137f8393ba2dee45a2381929_MD5.jpg",
-    "_resources/Listado de Emuladores escritos en Javascript/995af005efa81b89f845fee568134cf0_MD5.png",
-    "_resources/⬛🟥 🟨 🟩 🟦 ⬜/a0b466f2267c5445d67ddb25158dd4e9_MD5.svg",
-    "_resources/⬛🟥 🟨 🟩 🟦 ⬜/736975d53fc1bf68bd42fc7b65851d54_MD5.jpg",
     "PublicBrain/Untitled.canvas"
   ]
 }

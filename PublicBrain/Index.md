@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-03-16T23:25:18.079Z
+modified: 2025-03-22T21:29:50.557Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 169
+ver_rev: 170
 nav_primary: 
 nav_secondary: 
 tags:
@@ -100,6 +100,7 @@ No estoy de acuerdo con todo lo que dicen todos, mas todos ellos aportan una vis
 
 Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elaborados. En primera fase se basan en uso de IA, posteriormente busco desarrollar un método de validación y comprobación tanto de contenido como de accesibilidad... a poc a poc ;)
 
+[[Test Logo con Grok]]
 ### Ciencia General
 
 * [[Aprender sobre la Relación entre Ciencia y Arte]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-19T19:01:06.187Z
-modified: 2025-03-09T00:16:43.480Z
+modified: 2025-03-23T22:22:34.770Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 4
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ El contenido que se presenta a continuación es una estructura jerárquica del c
 
 ## Nivel 1: Observación y Experimentación
 
-La observación y la experimentación constituyen la base fundamental para la construcción del conocimiento. Según **Kuhn, T. S. (1962)** en *"La estructura de las revoluciones científicas"* (p. 10), "la observación es el proceso mediante el cual se recopilan datos y hechos". Este proceso es esencial, ya que permite la recolección de información empírica que sirve como punto de partida para la formulación de hipótesis y teorías.
+La observación y la experimentación constituyen la base fundamental para la construcción del conocimiento. Según [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas, p. 10 🟡③-📚🟡③]], "la observación es el proceso mediante el cual se recopilan datos y hechos". Este proceso es esencial, ya que permite la recolección de información empírica que sirve como punto de partida para la formulación de hipótesis y teorías.
 
 ## Nivel 2: Formulación de Hipótesis
 

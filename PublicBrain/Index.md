@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-03-22T21:29:50.557Z
+modified: 2025-03-24T06:04:36.079Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 170
+ver_rev: 171
 nav_primary: 
 nav_secondary: 
 tags:
@@ -82,6 +82,8 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 ## Aprender sobre Tecnología
 
 [[Aprender a crear una nube de almacenamiento con OwnCloud 🔴②]]
+
+[[Sobre trabajar con Proton Drive via SSH en linea de comandos  🔴②]]
 ## Aprender con ...
 
 Por el momento vemos que podemos aprender de cada uno de ellos, de temas relacionados con temas absolutamente diversos,y, en algunos casos, expertos en temáticas que se prestan al trabajo que pretendo con las realidades probabilísticas y su gestión en busca de una aproximación multidimensional a la """verdad""".

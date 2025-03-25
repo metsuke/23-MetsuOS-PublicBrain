@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-06T10:40:57.847Z
-modified: 2025-03-09T02:12:21.617Z
+modified: 2025-03-25T05:22:19.551Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 16
+ver_rev: 17
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,7 @@ tags:
 
 DISCLAIMER: En tanto no diseñe un sistema mas preciso para gestionar la relacion entre epocas historicas y territorios que existan actualmente pero no antaño, se asume España como concepto territorial en aquellas epocas en las que aún no existia. Esto es una solucion temporal, no definitva, y parte del proceso de desarrollo de MetsuOS.
 
-### 1.1. [[La Educación en España en la Época Romana  ⚫①]]
+### 1.1. [[La Educación en España en la Época Romana 🔴②]]
 
  La educación en la época romana se centraba en la formación de los ciudadanos para la vida pública y la administración del imperio. La educación se impartía en escuelas públicas y privadas, y se enfocaba en la enseñanza de la lengua latina, la literatura y la filosofía.
 

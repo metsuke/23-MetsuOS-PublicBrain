@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.085Z
-modified: 2025-03-10T06:38:55.447Z
+modified: 2025-03-28T00:34:20.661Z
 supervisado: 2024-06-05T18:07:29.324Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 83
+ver_rev: 84
 nav_primary: 
 nav_secondary: 
 tags:
@@ -58,7 +58,7 @@ tags:
    
 ## VI. Desarrollo de Ideas Filosóficas
 
-   - [[Principales obras y escritos (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Principales obras y escritos (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Temas y conceptos filosóficos abordados (Estudio pensamiento y filosofía de una persona) ⚫①]]
    - [[Evolución del pensamiento a lo largo del tiempo (Estudio pensamiento y filosofía de una persona) ⚫①]]
    

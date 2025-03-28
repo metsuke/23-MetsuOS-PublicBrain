@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.590Z
-modified: 2025-03-16T23:25:18.809Z
+modified: 2025-03-28T00:17:22.469Z
 supervisado: 2024-05-27T13:38:00.208Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 85
+ver_rev: 86
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,7 @@ tags:
 ## Introducción al Storytelling
 
 * [[¿Qué es el Storytelling? 🔴②]]
-	* [[Definición de Storytelling]]
+	* [[Definición de Storytelling  🔴②]]
 	* [[Importancia del Storytelling en diferentes contextos ⚫①]]
 * [[Elementos Fundamentales de una Buena Historia]]
 	* [[Personajes en Storytelling]]

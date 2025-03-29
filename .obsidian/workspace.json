@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ea8216d2f5290acb",
+        "id": "8dff2f8935841155",
         "type": "tabs",
         "children": [
           {
-            "id": "68ebd7c7616d34d7",
+            "id": "6e17ea78d6ba4a9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Historia de la Ciencia y del Método Científico ⚫①.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Historia de la Ciencia y del Método Científico ⚫①"
+              "title": "New tab"
             }
           }
         ]
@@ -192,12 +188,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "68ebd7c7616d34d7",
+  "active": "6e17ea78d6ba4a9f",
   "lastOpenFiles": [
+    "PublicBrain/Historia de la Ciencia y del Método Científico ⚫①.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre las CBDC  ⚫①.md",
     "Historia de la Ciencia y del Método Científico ⚫①.md",
-    "PublicBrain/Historia de la Ciencia y del Método Científico ⚫①.md",
     "Index.md",
     "Aprender sobre las CBDC  ⚫①.md",
     "PublicBrain/Diferencias entre Geografía Política y Geopolítica 🔴②.md",

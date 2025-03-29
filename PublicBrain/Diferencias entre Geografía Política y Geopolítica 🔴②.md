@@ -1,5 +1,5 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: Grok-3
 iaStatus_Generado: "I"
 iaStatus_Supervisado: "H"

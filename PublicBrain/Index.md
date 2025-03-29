@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-03-28T00:26:48.812Z
+modified: 2025-03-29T10:56:37.403Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 172
+ver_rev: 173
 nav_primary: 
 nav_secondary: 
 tags:
@@ -115,6 +115,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Ciencias Sociales
 
 * [[Aprender sobre Economía y Finanzas]]
+* [[Aprender sobre las CBDC  ⚫①]]
 * [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 * [[Aprender sobre Estructura Dinamica de Incentivos]]
 * [[Aprender sobre Personotecnia ⚫①]]

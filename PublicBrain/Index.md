@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-03-29T10:56:37.403Z
+modified: 2025-03-29T22:03:49.858Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 173
+ver_rev: 174
 nav_primary: 
 nav_secondary: 
 tags:
@@ -48,8 +48,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 * [[Paises más democráticos del mundo  ⚫①]]
 ### Estructura del Conocimiento
 
-* Estructura de los Idimas Humanos
-	* Elementos de los idiomas Humanos
+* [[Historia de la Ciencia y del Método Científico ⚫①]]
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 	* [[Elementos del conocimiento humano y científico 🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]
@@ -70,6 +69,9 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 ---
 ## Aprender Idiomas y Cultura
 
+
+* Estructura de los Idiomas Humanos
+	* Elementos de los idiomas Humanos
 * [[Aprender Idiomas ⚫①]]
 * [[Aprender sobre sistemas de escritura]]
 * [[Aprender sobre cultura internacional a través de los idiomas]]

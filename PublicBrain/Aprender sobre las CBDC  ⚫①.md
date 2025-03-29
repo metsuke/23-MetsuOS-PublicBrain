@@ -1,24 +1,24 @@
 ---
 iaStatus: 0
-iaStatus_Model: Grok-3
+iaStatus_Model: gpt-4-turbo
 a11y: 3
 checked: 0
 lang: ES
 translations: 
 created: 2025-03-29T10:56:46.456Z
-modified: 2025-03-29T10:57:55.585Z
+modified: 2025-03-29T22:02:52.275Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre las CBDC  ⚫①
 
-[[Index]]
+[[PublicBrain/Index|Index]]
 
 > **DISCLAIMER:**  
 > Lo expuesto en este curso es un esfuerzo exploratorio para alcanzar la mayor objetividad posible. Las ideas aquí presentadas no deben considerarse como verdades absolutas, sino como puntos de partida para el análisis crítico. Se excluyen posiciones ideológicas o partidistas en favor de un enfoque dinámico y estadístico, desligado del ego humano y de políticas monolíticas.

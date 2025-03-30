@@ -11,10 +11,14 @@
             "id": "6e17ea78d6ba4a9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Introducción a las Monedas Digitales de Bancos Centrales (CBDC) 🔴②.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introducción a las Monedas Digitales de Bancos Centrales (CBDC) 🔴②"
             }
           }
         ]
@@ -190,9 +194,13 @@
   },
   "active": "6e17ea78d6ba4a9f",
   "lastOpenFiles": [
-    "PublicBrain/Historia de la Ciencia y del Método Científico ⚫①.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre las CBDC  ⚫①.md",
+    "Contexto global y evolución de las monedas digitales GT.md",
+    "PublicBrain/Introducción a las Monedas Digitales de Bancos Centrales (CBDC) 🔴②.md",
+    "PublicBrain/_resources/Aprender sobre las CBDC  ⚫①",
+    "PublicBrain/Aprender a crear una nube de almacenamiento con OwnCloud 🔴②.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Historia de la Ciencia y del Método Científico ⚫①.md",
     "Historia de la Ciencia y del Método Científico ⚫①.md",
     "Index.md",
     "Aprender sobre las CBDC  ⚫①.md",
@@ -214,9 +222,6 @@
     "Sobre trabajar con Proton Drive via SSH en linea de comandos  🔴②.md",
     "PublicBrain/().md",
     "PublicBrain/Kuhn, T. S. (1962). La estructura de las revoluciones científicas, p. 10 🟡③-📚🟡③.md",
-    "PublicBrain/Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③.md",
-    "PublicBrain/Metaanálisis - Elementos del conocimiento humano y científico ⚖️ 🔴②.md",
-    "PublicBrain/Elementos del conocimiento humano y científico 🔴②.md",
     "_resources/Test Logo con Grok/8b6b8bae1afc813ff292c77196051719_MD5.png",
     "_resources/Test Logo con Grok/50c149e1c01fb66c590f64f2e3a2466b_MD5.png",
     "_resources/Test Logo con Grok/8a30b1ec7faae8040b14c9b711bbded9_MD5.png",
@@ -235,7 +240,6 @@
     "PublicBrain/_resources/Aprender Idioma Español ⚫①",
     "PublicBrain/_resources/La Ley de Educación de 1901 (Ley de Educación de Montero Ríos)  ⚫①",
     "PublicBrain/_resources/Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①",
-    "PublicBrain/_resources/Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③",
     "Untitled.canvas",
     "PublicBrain/Untitled.canvas"
   ]

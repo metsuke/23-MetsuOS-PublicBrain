@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2025-03-23T21:39:03.651Z
+modified: 2025-03-31T04:42:07.038Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,7 +32,7 @@ TODO: Perfilar e implementar los pasos de gestion de conocimiento  ⚫① a  ⚪
 
 El conocimiento humano y científico se compone de varios elementos que se relacionan entre sí de manera jerárquica ([[Kuhn, T. S. (1962). La estructura de las revoluciones científicas, p. 10 🟡③-📚🟡③]]).
 
-A continuación, se presentan los diferentes niveles que componen esta estructura, desde la observación y experimentación hasta la metodología y técnicas (Popper, 1959, p. 20).
+A continuación, se presentan los diferentes niveles que componen esta estructura, desde la observación y experimentación hasta la metodología y técnicas ([[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos), p. 20   🟡③-🟡③📚]]).
 
 ## Nivel 1: Observación y Experimentación
 
@@ -119,7 +119,7 @@ graph LR
 ## Referencias bibliográficas que apoyan este contenido:
 
 * [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
-* [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴② 🔴②-🟡③🌐]]
+* [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🟡③🌐]]
 * Lakatos, I. (1970). La metodología de los programas de investigación científica. Madrid: Alianza Editorial.
 
 ## Referencias bibliográficas que refutan este contenido

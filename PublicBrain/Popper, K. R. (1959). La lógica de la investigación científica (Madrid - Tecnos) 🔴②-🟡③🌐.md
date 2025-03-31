@@ -1,25 +1,25 @@
 ---
 iaStatus: 8
 iaStatus_Model: DeepSeek-V3
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-02-20T21:52:15.770Z
-modified: 2025-02-20T21:55:47.641Z
+modified: 2025-03-31T04:42:07.055Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴② 🔴②-🟡③🌐
+# Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🟡③🌐
 
 [[Elementos del conocimiento humano y científico 🔴②]]
 

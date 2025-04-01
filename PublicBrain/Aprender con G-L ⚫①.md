@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.503Z
-modified: 2024-06-10T15:26:27.155Z
+modified: 2025-04-01T11:42:18.885Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 63
+ver_rev: 64
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,6 +29,7 @@ tags:
 * Aprender con Igor Errazkin
 * Aprender con Ignasi Díaz Ferrando
 * Aprender con Iker Jiménez
+* [[Aprender con Irene Montero ⚫①]]
 * Aprender con Isaac Asimov
 * Aprender con Jackes Cousteau
 * [[Aprender con Javier G. Recuenco ⚫①]]

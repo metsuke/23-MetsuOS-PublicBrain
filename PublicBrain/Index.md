@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-03-29T22:03:49.858Z
+modified: 2025-04-01T16:32:16.818Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 174
+ver_rev: 175
 nav_primary: 
 nav_secondary: 
 tags:
@@ -109,6 +109,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 * [[Aprender sobre la Relación entre Ciencia y Arte]]
 * [[Colección de escándalos cientificos]]
+* [[Nokia 3310 vs Prensas Hidraulicas 🔴②]]
 
 ### Ciencias Formales
 

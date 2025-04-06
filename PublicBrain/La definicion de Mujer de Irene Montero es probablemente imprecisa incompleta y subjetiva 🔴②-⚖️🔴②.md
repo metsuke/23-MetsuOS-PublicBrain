@@ -19,7 +19,9 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# La definicion de Mujer de Irene Montero es probablemente imprecisa incompleta y subjetiva 🔴②
+# La definicion de Mujer de Irene Montero es probablemente imprecisa incompleta y subjetiva 🔴②-⚖️🔴②
+
+[[PublicBrain/Index|Index]] | [[Metaanálisis Bibliográfico sobre la definicion de Mujer de Irene Montero es probablemente imprecisa incompleta y subjetiva ⚖️🔴②]]
 
 DISCLAIMER: Del "probablemente" en adelante se trata de opinion personalen base a la lectura, y por tanto seguramente esté repleata de sesgos tanto a favor como en contra de la definición.
 
@@ -116,7 +118,7 @@ Este análisis busca ser justo, claro y útil, con datos de verdad.
   Análisis de la pobreza con matices de género y clase.
 
 ---
-## Analisis estadístico inicial (prueba de concepto de las verdades probabilisticas dinamicas dependientes de contexto) - No tomar como verdad absoluta contrastada, solo como ejerccicio.
+## Analisis estadístico inicial (prueba de concepto de las verdades probabilisticas dinamicas dependientes de contexto) - No tomar como verdad absoluta contrastada, solo como ejerccicio.  ⚫①
 
 DISCLAIMER: EL promtp fue "con lo vertido sobre la definicion de montero en mente, necesito un analisis estadistico de la precision cientifica de la definición, asignando a cada fuente una probabilidad de verdad y calculando el total numericamente"
 

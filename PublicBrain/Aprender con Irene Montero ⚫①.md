@@ -18,5 +18,5 @@ tags:
 ---
 # Aprender con Irene Montero ⚫①
 
-[[La definicion de Mujer de Irene Montero es probablemente imprecisa incompleta y subjetiva 🔴②]]
+[[La definicion de Mujer de Irene Montero es probablemente imprecisa incompleta y subjetiva 🔴②-⚖️🔴②]]
 

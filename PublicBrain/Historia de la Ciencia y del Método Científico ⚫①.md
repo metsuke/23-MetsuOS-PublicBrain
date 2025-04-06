@@ -25,7 +25,7 @@ tags:
 
 ## Introducción
 
-- **Definición de ciencia y método científico**
+- [[Definición de ciencia y método científico 🔴②]]
   - Conceptos básicos y su evolución histórica
   - Distinción entre ciencia, tecnología y otras formas de conocimiento
 - **Importancia de la historia de la ciencia**

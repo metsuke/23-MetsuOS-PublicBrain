@@ -60,7 +60,7 @@ tags:
 
    - [[Principales obras y escritos (Estudio pensamiento y filosofía de una persona) 🔴②]]
    - [[Temas y conceptos filosóficos abordados (Estudio pensamiento y filosofía de una persona)  🔴②]]
-   - [[Evolución del pensamiento a lo largo del tiempo (Estudio pensamiento y filosofía de una persona) ⚫①]]
+   - [[Evolución del pensamiento a lo largo del tiempo (Estudio pensamiento y filosofía de una persona)  🔴②]]
    
 ## VII. Análisis Filosófico
 

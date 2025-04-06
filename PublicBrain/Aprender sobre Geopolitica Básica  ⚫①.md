@@ -30,8 +30,8 @@ ADVERTENCIA: Esta es una linea de estudio por libre experimental basada en IA, l
 1. **Introducción a la Geopolítica:**
    - [[Definición y origen de la Geopolítica 🔴②]]
    - [[Diferencias entre Geografía Política y Geopolítica 🔴②]]
-   - La importancia del espacio en la configuración del poder.
-2. **El espacio geográfico como factor de poder:**
+   - [[La importancia del espacio en la configuración del poder  🔴②]]
+1. **El espacio geográfico como factor de poder:**
    - Territorio, recursos naturales y posición estratégica.
    - Conceptos de frontera, límite y soberanía.
    - Geografía física vs. geografía humana en el análisis geopolítico.

@@ -1,17 +1,20 @@
 ---
 iaStatus: 3
 iaStatus_Model: gpt-3.5-turbo, Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T10:26:25.990Z
-modified: 2024-06-10T15:26:26.414Z
+modified: 2025-04-06T22:04:50.298Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,7 +54,7 @@ Este es el arte de preguntarse cómo estamos tan seguros de las cosas. ¿Es el c
 Aquí nos metemos en cómo organizar la vida en grupo. ¿Qué es justo? ¿Quién tiene el poder? Este tema conecta las ideas del pensador con el mundo real de reyes, gobiernos y revoluciones.
 
 - Podríamos ver si abogaba por la libertad total o por un orden estricto (Hobbes, 1651, p. 89).
-- Ejemplo: Hobbes nos diría que necesitamos un gobernante fuerte porque, sin él, la vida sería "solitaria, pobre, desagradable, brutal y corta" (Hobbes, *Leviatán*, p. 96).
+- Ejemplo: "H"obbes nos diría que necesitamos un gobernante fuerte porque, sin él, la vida sería "solitaria, pobre, desagradable, brutal y corta" (Hobbes, *Leviatán*, p. 96).
 
 ### 5. Estética: ¿Qué hace bello al arte?
 
@@ -83,7 +86,7 @@ Estudiar el pensamiento de una persona es como explorar un mundo nuevo. La metaf
   - Página 89: Necesidad de un gobierno fuerte.  
   - Página 96: Descripción del estado de naturaleza.
 - **Kant, I. (1785). *Fundamentación de la metafísica de las costumbres*. Traducción de M. García Morente. Madrid: Espasa.**  
-  - Página 421: Introducción al imperativo categórico.  
+  - Página 421: "I"ntroducción al imperativo categórico.  
   - Página 429: Ejemplo de la universalidad en la ética.
 - **Hegel, G. W. F. (1835). *Lecciones sobre la estética*. Traducción de A. Gómez. Madrid: Akal.**  
   - Página 11: El arte como expresión del espíritu.  

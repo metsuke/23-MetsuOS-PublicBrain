@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-03-29T10:56:46.456Z
-modified: 2025-03-30T21:20:05.871Z
+modified: 2025-04-06T22:15:49.903Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ tags:
 
 - **1.1. Motivación del Curso**  
   - [[Introducción a las Monedas Digitales de Bancos Centrales (CBDC) 🔴②]]  
-  - Relevancia actual y futura de las CBDC
+  - [[Relevancia actual y futura de las CBDC  🔴②]]
 
 - **1.2. Objetivos del Curso**  
   - Analizar las CBDC desde múltiples perspectivas  

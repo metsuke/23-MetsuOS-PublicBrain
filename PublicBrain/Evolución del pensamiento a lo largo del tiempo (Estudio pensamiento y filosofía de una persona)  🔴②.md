@@ -1,17 +1,20 @@
 ---
 iaStatus: 3
 iaStatus_Model: gpt-3.5-turbo, Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T10:27:13.540Z
-modified: 2024-06-10T15:26:26.951Z
+modified: 2025-04-06T22:14:43.630Z
 supervisado: ""
 ACCION: 
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -56,7 +59,7 @@ Seguir la evolución del pensamiento de una persona es como mirar un mapa de su 
 
 - **Gadamer, H.-G. (1960). *Verdad y método*. Traducción de A. Agud. Salamanca: Sígueme.**  
   - Página 278: La influencia del contexto histórico y personal en el pensamiento.
-- **Frankl, V. (1946). *El hombre en busca de sentido*. Traducción de J. L. Moll. Barcelona: Herder.**  
+- **Frankl, V. (1946). *El hombre en busca de sentido*. Traducción de J. L. Moll. Barcelona: "H"erder.**  
   - Página 112: Cómo las experiencias extremas cambian la forma de enfrentar desafíos.
 - **Buber, M. (1923). *Yo y Tú*. Traducción de C. Díaz. Madrid: Caparrós.**  
   - Página 58: La evolución del pensamiento en las relaciones humanas.

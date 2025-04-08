@@ -1,6 +1,6 @@
 ---
-iaStatus: 0
-iaStatus_Model: gpt-4-turbo
+iaStatus: 3
+iaStatus_Model: Grok-3
 a11y: 3
 checked: 0
 lang: ES

@@ -1,16 +1,20 @@
 ---
+iaStatus: 3
+iaStatus_Model: Grok-3
 a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2023-08-30T00:54:00
-modified: 2024-03-06T23:35:00
+created: 2025-04-06T22:15:38.414Z
+modified: 2025-04-06T22:30:10.191Z
+supervisado: ""
+ACCION: ""
 ver_major: 0
-ver_minor: "0"
-ver_rev: "0"
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 1
+ver_rev: 1
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Relevancia actual y futura de las CBDC  🔴②
 

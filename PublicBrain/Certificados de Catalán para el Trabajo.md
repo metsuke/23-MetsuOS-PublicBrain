@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.992Z
-modified: 2024-06-10T15:26:27.048Z
+modified: 2025-04-09T00:06:24.931Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Certificados de Catalán para el Trabajo
 
-[[Aprender Idioma Catalán]]
+[[Aprender Idioma Catalán ⚫①]]
 
 ## Módulo 1: Comunicación en el Ámbito Laboral
 

@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.416Z
-modified: 2025-03-26T22:54:14.333Z
+modified: 2025-04-09T00:06:24.727Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 79
+ver_rev: 80
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender Idioma Catalán
+# Aprender Idioma Catalán ⚫①
 
 [[PublicBrain/Index#Aprender Idiomas]]
 
@@ -38,4 +38,5 @@ tags:
 
 # Vocabulari
 
+[[Defugir  🔴②]]
 [[Fites 🔴②]]

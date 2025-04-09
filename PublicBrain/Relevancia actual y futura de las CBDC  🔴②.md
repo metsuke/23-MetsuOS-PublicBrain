@@ -1,17 +1,20 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-04-06T22:15:38.414Z
-modified: 2025-04-06T22:30:10.191Z
+modified: 2025-04-08T20:05:33.369Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 1
+ver_minor: 2
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -45,7 +48,7 @@ Las CBDC son como el euro o el dólar, pero en versión digital, creadas y garan
 Hay sitios donde abrir una cuenta bancaria es casi un sueño. Las CBDC podrían cambiar eso, llevando el dinero digital a cualquiera que tenga un móvil, sin necesitar una sucursal cerca (FMI, 2023).
 
 - **Un dato que impacta**: El Banco Mundial cuenta que 1.400 millones de adultos no tienen acceso a un banco. En Bahamas, el Sand Dollar ya está ayudando a gente en islas perdidas a sumarse al mundo digital (BIS, 2021).
-- **Cómo lo hacen**: Imagina a una persona en un pueblo lejano guardando sus ahorros o pagando en la tienda con una app del banco central. Eso es abrir puertas de verdad.
+- **Cómo lo hacen**: "I"magina a una persona en un pueblo lejano guardando sus ahorros o pagando en la tienda con una app del banco central. Eso es abrir puertas de verdad.
 
 ### 3. Plantar cara a Bitcoin y compañía
 

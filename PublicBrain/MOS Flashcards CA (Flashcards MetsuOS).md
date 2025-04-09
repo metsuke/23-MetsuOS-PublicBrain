@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T20:09:35.571Z
-modified: 2024-06-10T15:26:26.646Z
+modified: 2025-04-09T00:06:25.009Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # MOS Flashcards CA (Flashcards MetsuOS)
 
-[[Aprender Idioma Catalán]]
+[[Aprender Idioma Catalán ⚫①]]
 
 # Índice de Temáticas para Aprender Idioma Catalán
 

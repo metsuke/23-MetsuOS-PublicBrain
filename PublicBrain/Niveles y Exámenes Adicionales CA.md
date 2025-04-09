@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.470Z
-modified: 2024-08-02T15:30:28.546Z
+modified: 2025-04-09T00:06:25.062Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Niveles y Exámenes Adicionales CA
 
-[[Aprender Idioma Catalán]] | [[Niveles Oficiales CA]]
+[[Aprender Idioma Catalán ⚫①]] | [[Niveles Oficiales CA]]
 
 Sí, además de los niveles oficiales basados en el Marco Común Europeo de Referencia para las Lenguas (MCERL) y el "Certificat de Llengua Catalana" (Certificado de Lengua Catalana), hay otros exámenes y certificaciones relevantes para evaluar y acreditar el dominio del idioma catalán. Estos exámenes son útiles para diferentes propósitos, como la educación, el empleo y la inmersión en la cultura y la sociedad catalanas. Algunos de los exámenes y certificaciones relevantes en [[catalán]] incluyen:
 

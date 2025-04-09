@@ -1,17 +1,20 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 3
 checked: 0
 lang: ES
 translations: 
 created: 2025-03-29T10:56:46.456Z
-modified: 2025-04-06T22:15:49.903Z
+modified: 2025-04-08T20:05:33.597Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 2
-ver_rev: 4
+ver_minor: 3
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -283,7 +286,7 @@ tags:
 
 1. **Taleb, N. N. (2007).** *The Black Swan: The Impact of the Highly Improbable*. Random House.  
 2. **Chomsky, N. (1997).** *Media Control: The Spectacular Achievements of Propaganda*. Seven Stories Press.  
-3. **Tversky, A. & Kahneman, D. (1974).** *Judgment under Uncertainty: Heuristics and Biases*. Science, 185(4157), 1124-1131.  
+3. **Tversky, A. & Kahneman, D. (1974).** *Judgment under Uncertainty: "H"euristics and Biases*. Science, 185(4157), 1124-1131.  
 4. **Críticas en revistas especializadas** sobre la viabilidad y riesgos de las CBDC en el contexto de vigilancia y control estatal.
 
 ## 18. Notas Metodológicas y Consideraciones Finales

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.412Z
-modified: 2024-08-02T15:30:28.554Z
+modified: 2025-04-09T00:06:25.023Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Niveles Oficiales CA
 
-[[Aprender Idioma Catalán]] | [[Niveles y Exámenes Adicionales CA]]
+[[Aprender Idioma Catalán ⚫①]] | [[Niveles y Exámenes Adicionales CA]]
 
 Los niveles oficiales para aprender el idioma [[catalán]] suelen seguir el Marco Común Europeo de Referencia para las Lenguas (MCERL), al igual que en otros idiomas. El MCERL proporciona un marco común para evaluar el nivel de competencia en una lengua, desde el nivel básico hasta el nivel avanzado. Los niveles oficiales para aprender el catalán incluyen:
 

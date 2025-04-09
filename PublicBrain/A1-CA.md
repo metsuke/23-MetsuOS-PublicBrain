@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.355Z
-modified: 2024-06-10T15:14:14.161Z
+modified: 2025-04-09T00:06:24.720Z
 supervisado: 2024-04-15T06:43:31.757Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 81
+ver_rev: 82
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # A1-CA
 
-[[Aprender Idioma Catalán]]
+[[Aprender Idioma Catalán ⚫①]]
 
 <-- [[C2-CA]] | [[A2-CA]] --> 
 

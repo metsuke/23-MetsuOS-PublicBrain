@@ -1,13 +1,17 @@
 ---
+iaStatus: 0
+iaStatus_Model: ""
 a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2023-08-30T00:54:00
-modified: 2024-03-06T23:35:00
+created: 2025-04-09T00:05:50.442Z
+modified: 2025-04-09T00:36:48.114Z
+supervisado: ""
+ACCION: ""
 ver_major: 0
-ver_minor: "0"
-ver_rev: "0"
+ver_minor: 1
+ver_rev: 1
 nav_primary: []
 nav_secondary: []
 tags: []

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-04-01T16:32:16.818Z
+modified: 2025-04-10T19:34:20.268Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 175
+ver_rev: 176
 nav_primary: 
 nav_secondary: 
 tags:
@@ -50,7 +50,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 
 * [[Historia de la Ciencia y del Método Científico ⚫①]]
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
-	* [[Elementos del conocimiento humano y científico 🔴②]]
+	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]
 		* [[La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos  ⚫①]]
 			* [[Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①]]

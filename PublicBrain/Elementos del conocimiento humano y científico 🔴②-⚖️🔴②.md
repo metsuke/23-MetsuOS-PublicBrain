@@ -9,20 +9,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2025-03-31T04:42:07.038Z
+modified: 2025-04-10T21:47:06.164Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 10
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Elementos del conocimiento humano y científico 🔴②
+# Elementos del conocimiento humano y científico 🔴②-⚖️🔴②
 
-* [[Estructura del Conocimiento Humano y Científico ⚫①]]
-	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️ 🔴②]]
+[[Estructura del Conocimiento Humano y Científico ⚫①]]
+
 
 ---
 
@@ -119,7 +119,7 @@ graph LR
 ## Referencias bibliográficas que apoyan este contenido:
 
 * [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
-* [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🟡③🌐]]
+* [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
 * Lakatos, I. (1970). La metodología de los programas de investigación científica. Madrid: Alianza Editorial.
 
 ## Referencias bibliográficas que refutan este contenido

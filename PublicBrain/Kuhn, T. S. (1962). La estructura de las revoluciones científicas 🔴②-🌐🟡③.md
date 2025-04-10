@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-19T19:13:50.568Z
-modified: 2025-02-20T21:37:54.363Z
+modified: 2025-04-10T19:34:20.292Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags: 
@@ -22,7 +22,7 @@ refb: k
 ---
 # Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③
 
-[[Elementos del conocimiento humano y científico 🔴②]]
+[[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
 
 La obra de Thomas Kuhn, "La estructura de las revoluciones científicas" (1962), es un análisis profundo de la naturaleza del conocimiento humano y científico. En este texto, Kuhn explora cómo se desarrolla el conocimiento a lo largo del tiempo y cómo se relaciona con la ciencia.
 

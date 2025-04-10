@@ -1,37 +1,36 @@
 ---
 iaStatus: 8
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: Grok-3
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-12-19T19:01:06.187Z
-modified: 2025-03-31T04:42:07.076Z
+modified: 2025-04-10T21:40:20.562Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 4
-ver_rev: 6
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Metaanálisis - Elementos del conocimiento humano y científico ⚖️ 🔴②
+# Metaanálisis - Elementos del conocimiento humano y científico ⚖️🔴②
 
-[[Elementos del conocimiento humano y científico 🔴②]]
+[[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
 
-El contenido que se presenta a continuación es una estructura jerárquica del conocimiento humano y científico, dividida en ocho niveles. A continuación, se ofrece un análisis detallado de cada nivel, relacionando las ideas con sus referencias bibliográficas correspondientes. Además, se incluyen secciones que apoyan y refutan este contenido, con el fin de proporcionar una visión más completa y crítica.
-
+Esta es una estructura jerárquica del conocimiento humano y científico, dividida en ocho niveles.
 ## Nivel 1: Observación y Experimentación
 
 La observación y la experimentación constituyen la base fundamental para la construcción del conocimiento. Según [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas, p. 10 🟡③-📚🟡③]], "la observación es el proceso mediante el cual se recopilan datos y hechos". Este proceso es esencial, ya que permite la recolección de información empírica que sirve como punto de partida para la formulación de hipótesis y teorías.
 
 ## Nivel 2: Formulación de Hipótesis
 
-La formulación de hipótesis representa la primera etapa en la construcción de teorías científicas. **Popper (1959, p. 30)** define una hipótesis como "una explicación provisional y tentativa que intenta dar cuenta de un fenómeno o conjunto de observaciones". Estas hipótesis surgen a partir de las observaciones realizadas y son fundamentales para avanzar en la comprensión de los fenómenos estudiados.
+La formulación de hipótesis representa la primera etapa en la construcción de teorías científicas. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) pag 30 🔴②-📚🟡③]] define una hipótesis como "una explicación provisional y tentativa que intenta dar cuenta de un fenómeno o conjunto de observaciones". Estas hipótesis surgen a partir de las observaciones realizadas y son fundamentales para avanzar en la comprensión de los fenómenos estudiados.
 
 ## Nivel 3: Desarrollo de Teorías
 
@@ -39,7 +38,7 @@ El desarrollo de teorías es el siguiente paso en la construcción del conocimie
 
 ## Nivel 4: Establecimiento de Leyes y Principios
 
-El establecimiento de leyes y principios es una etapa crucial en la consolidación del conocimiento científico. **Popper (1959, p. 40)** afirma que "una ley es un principio general que describe la relación entre variables y que se considera válido dentro de un dominio específico". Estas leyes se derivan de las teorías y permiten generalizar los hallazgos, facilitando la predicción y el control de los fenómenos.
+El establecimiento de leyes y principios es una etapa crucial en la consolidación del conocimiento científico.  [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) pag 40 🔴②-📚🟡③]] afirma que "una ley es un principio general que describe la relación entre variables y que se considera válido dentro de un dominio específico". Estas leyes se derivan de las teorías y permiten generalizar los hallazgos, facilitando la predicción y el control de los fenómenos.
 
 ## Nivel 5: Conceptualización y Categorización
 
@@ -60,7 +59,7 @@ Las metodologías y técnicas son herramientas esenciales para la recopilación 
 ## Referencias Bibliográficas que Apoyan el Contenido
 
 1. [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
-2. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🟡③🌐]]
+2. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
 3. **Lakatos, I. (1970).** *Falsificación y la metodología de los programas de investigación científica.* Cambridge: Cambridge University Press.
 
 ## Referencias Bibliográficas que Refutan el Contenido

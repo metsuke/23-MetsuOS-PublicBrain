@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-03-23T21:40:20.221Z
-modified: 2025-03-23T22:17:08.398Z
+modified: 2025-04-10T19:35:00.847Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Kuhn, T. S. (1962). La estructura de las revoluciones científicas, p. 10 🟡③-📚🟡③
 
-[[Metaanálisis - Elementos del conocimiento humano y científico ⚖️ 🔴②]]
+[[Metaanálisis - Elementos del conocimiento humano y científico ⚖️🔴②]]
 
 DISCLAIMER: Para ofrecerte un análisis detallado de la página 10 de *La estructura de las revoluciones científicas* de Thomas S. Kuhn (1962), me basaré en la edición original en inglés publicada por la University of Chicago Press, ya que es la referencia más común para la obra de 1962. Dado que mencionaste el título en español, asumiré que podrías estar usando una traducción, como la del Fondo de Cultura Económica, pero el contenido de la página 10 en la introducción es bastante consistente entre ediciones, variando solo en la paginación exacta o en la traducción literal. 
 

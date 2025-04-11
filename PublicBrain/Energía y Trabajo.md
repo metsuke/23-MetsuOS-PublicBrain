@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T06:28:24.233Z
-modified: 2024-06-10T15:26:26.966Z
+modified: 2025-04-11T23:19:06.270Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Energía y Trabajo
 
-[[Aprender más allá del orden del tiempo]]
+[[Aprender más allá del orden del tiempo ⚫①]]
 
 La energía y el trabajo son conceptos fundamentales en física que están estrechamente relacionados. La energía se define como la capacidad de un sistema para realizar trabajo, es decir, para producir un cambio en su entorno. Por otro lado, el trabajo se define como la transferencia de energía de un sistema a otro debido a una fuerza que actúa a lo largo de una distancia.
 

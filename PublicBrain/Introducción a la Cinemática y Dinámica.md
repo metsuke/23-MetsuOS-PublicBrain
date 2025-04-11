@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.746Z
-modified: 2024-06-10T15:26:26.766Z
+modified: 2025-04-11T23:19:06.324Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Introducción a la Cinemática y Dinámica
 
-[[Aprender más allá del orden del tiempo]]
+[[Aprender más allá del orden del tiempo ⚫①]]
 
 La cinemática y la dinámica son dos ramas fundamentales de la física que se encargan de estudiar el movimiento de los cuerpos. 
 

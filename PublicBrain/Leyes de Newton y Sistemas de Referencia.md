@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T06:27:49.127Z
-modified: 2024-06-10T15:26:26.686Z
+modified: 2025-04-11T23:19:06.333Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Leyes de Newton y Sistemas de Referencia
 
-[[Aprender más allá del orden del tiempo]]
+[[Aprender más allá del orden del tiempo ⚫①]]
 
 Las leyes de Newton son un conjunto de tres leyes fundamentales que describen el movimiento de los cuerpos en un sistema físico. Fueron formuladas por el científico inglés Isaac Newton en el siglo XVII y han sido la base de la mecánica clásica durante siglos. Las leyes de Newton son las siguientes:
 

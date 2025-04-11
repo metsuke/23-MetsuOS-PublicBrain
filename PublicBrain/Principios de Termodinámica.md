@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T06:30:10.917Z
-modified: 2024-06-10T15:26:26.515Z
+modified: 2025-04-11T23:19:06.341Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Principios de Termodinámica
 
-[[Aprender más allá del orden del tiempo]]
+[[Aprender más allá del orden del tiempo ⚫①]]
 
 La termodinámica es una rama de la física que estudia la energía, el calor y el trabajo. Los principios de la termodinámica son fundamentales para comprender cómo funciona el universo a nivel macroscópico. Aquí te presento los cuatro principios básicos de la termodinámica:
 

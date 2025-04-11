@@ -3,25 +3,27 @@ iaStatus: 8
 iaStatus_Generado: H
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: ""
+iaStatus_Model: gpt-3.5-turbo
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.517Z
-modified: 2024-06-10T15:26:27.152Z
+modified: 2025-04-11T23:20:10.679Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 77
+ver_rev: 78
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender más allá del orden del tiempo
+# Aprender más allá del orden del tiempo ⚫①
 
-[[PublicBrain/Index]]
+[[PublicBrain/Index|Index]]
+
+Tras la lectura de El Orden del Tiempo de Carlo Rovelli y duirante el proceso [[Estudiando El Orden del Tiempo - Carlo Rovelli ⚫①]] ahondamos un poco en la cuestión.
 
 **Módulo 1: Fundamentos de Física Clásica**
 
@@ -68,3 +70,5 @@ tags:
 1. Lectura Crítica de Papers
 2. Diseño Experimental y Métodos de Investigación
 3. Escritura Científica y Comunicación
+
+![[Plantilla - 1MT#One More Thing]]

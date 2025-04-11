@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-04-10T19:34:20.268Z
+modified: 2025-04-11T23:19:06.302Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 176
+ver_rev: 177
 nav_primary: 
 nav_secondary: 
 tags:
@@ -143,7 +143,8 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 
 ### Física
 
-* [[Aprender más allá del orden del tiempo]]
+* [[Aprender más allá del orden del tiempo ⚫①]]
+	* [[Estudiando El Orden del Tiempo - Carlo Rovelli ⚫①]]
 * [[Aprender sobre estructuras Kirigami]]
 * [[Aprender a radiografiar un átomo]]
 

@@ -27,7 +27,7 @@ Tras la lectura de El Orden del Tiempo de Carlo Rovelli y duirante el proceso [[
 
 **Módulo 1: Fundamentos de Física Clásica**
 
-1. [[Introducción a la Cinemática y Dinámica]]
+1. [[Introducción a la Cinemática y Dinámica 🔴②]]
 2. [[Leyes de Newton y Sistemas de Referencia]]
 3. [[Energía y Trabajo]]
 4. [[Principios de Termodinámica]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.416Z
-modified: 2025-04-09T00:06:24.727Z
+modified: 2025-04-13T03:42:01.287Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 80
+ver_rev: 81
 nav_primary: 
 nav_secondary: 
 tags:
@@ -40,3 +40,5 @@ tags:
 
 [[Defugir  🔴②]]
 [[Fites 🔴②]]
+
+![[Plantilla - 1MT#One More Thing]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-04-12T01:20:21.971Z
+modified: 2025-04-13T10:25:35.887Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 178
+ver_rev: 179
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,6 +51,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 * [[Historia de la Ciencia y del Método Científico ⚫①]]
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
+		* [[Estudiando Como aprendemos - Hector Ruiz Martín 🔴②]]
 		* [[Estudiando La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]
 		* [[La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos  ⚫①]]

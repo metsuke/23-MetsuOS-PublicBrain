@@ -39,7 +39,7 @@ tags:
 
 ## Vocabulatio
 
-### Culto y Literario
+### Registro Culto y Literario
 
 * [[égloga 🔴②]]
 * [[solaz  🔴②]]

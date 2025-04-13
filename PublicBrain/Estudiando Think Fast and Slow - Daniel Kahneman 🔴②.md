@@ -1,6 +1,9 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
@@ -10,7 +13,7 @@ modified: 2025-04-13T22:56:50.656Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
+ver_minor: 2
 ver_rev: 1
 nav_primary: 
 nav_secondary: 
@@ -53,7 +56,7 @@ tags:
 - ¿Por qué crees que a veces ignoramos la lógica aunque sabemos que deberíamos usarla?
 
 ### Cómo profundizar
-1. **Dibuja tu mente**: Haz un esquema de Sistema 1 y Sistema 2, con ejemplos personales (ej. reírte de un chiste vs. resolver un puzle).
+1. **Dibuja tu mente**: "H"az un esquema de Sistema 1 y Sistema 2, con ejemplos personales (ej. reírte de un chiste vs. resolver un puzle).
 2. **Juega con anclajes**: Pide a un amigo que estime el precio de un coche tras mencionar “5.000 €” y luego “50.000 €”. Compara cómo cambian sus respuestas.
 3. **Piensa en voz alta**: Lee sobre priming (pp. 71-81, cap. 4). Busca un artículo reciente sobre si esos estudios aún se sostienen y charlalo con alguien.
 
@@ -121,7 +124,7 @@ tags:
 ### Cómo profundizar
 1. **Juega a vender**: Escribe dos anuncios para un curso: uno sobre “mejorar habilidades” y otro sobre “evitar quedarte atrás”. Pregunta a otros cuál los convence más.
 2. **Piensa en dinero**: Reflexiona sobre una compra o inversión reciente. ¿Evitaste riesgos por temor a perder?
-3. **Lee el pasado**: Investiga la teoría de Bernoulli (cap. 26) sobre utilidad esperada y compárala con lo que propone Kahneman.
+3. **Lee el pasado**: "I"nvestiga la teoría de Bernoulli (cap. 26) sobre utilidad esperada y compárala con lo que propone Kahneman.
 
 ## Parte 5: La felicidad partida en dos (Capítulos 35-38)
 

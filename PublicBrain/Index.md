@@ -170,6 +170,8 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	
 ### Plena Inclusión
 
+* [[Estudiando Accesibilidad Web WCAG 21 de forma sencilla - Olga Revilla y Olga Carreras 🔴②]]
+
 * [[Aprender sobre Accesibilidad ⚫①]]
 	* [[Aprender sobre Accesibilidad ⚫①#Accesibilidad y Lectura Fácil]]
 	* Aprender sobre 

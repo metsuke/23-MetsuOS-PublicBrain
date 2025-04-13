@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-04-13T03:22:16.149Z
-modified: 2025-04-13T03:27:32.705Z
+modified: 2025-04-13T18:36:07.817Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 1
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 2
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # égloga 🔴②
 
@@ -78,7 +81,7 @@ La **égloga** es una joya de la poesía renacentista española, brillando en la
   - Sugiere que términos como **égloga** son hoy marginales en el léxico general, cuestionando su vigencia más allá de círculos académicos especializados.  
 - Dámaso Alonso. (1971). *Poesía española: Ensayo de métodos y límites estilísticos*. Madrid: Gredos.  
   - Matiza que la égloga, aunque influyente, es un género limitado por su idealización pastoril, que puede parecer artificial frente a corrientes poéticas modernas.  
-- Covarrubias, S. de. (2006). *Tesoro de la lengua castellana o española* (Ed. facsímil). Madrid: Iberoamericana.  
+- Covarrubias, S. de. (2006). *Tesoro de la lengua castellana o española* (Ed. facsímil). Madrid: "I"beroamericana.  
   - Aunque define **égloga**, enfatiza su uso en contextos históricos específicos, sugiriendo que su aplicación actual es más bien erudita y no universal.
 
 ![[Plantilla - 1MT#One More Thing]]

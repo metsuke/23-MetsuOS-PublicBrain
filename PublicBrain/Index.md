@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-04-13T10:25:35.887Z
+modified: 2025-04-13T22:51:25.951Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 179
+ver_rev: 180
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,7 +51,6 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 * [[Historia de la Ciencia y del Método Científico ⚫①]]
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
-		* [[Estudiando Como aprendemos - Hector Ruiz Martín 🔴②]]
 		* [[Estudiando La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]
 		* [[La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos  ⚫①]]
@@ -60,6 +59,8 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 ### Estructura de Habilidades-Perfiles-Tareas 
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
+	* [[Estudiando Como aprendemos - Hector Ruiz Martín 🔴②]]
+	* [[Estudiando Think Fast and Slow - Daniel Kahneman 🔴②]]
 
 * TODO: Estructura una Colonia Científica en el borde de la Via Láctea.
 * TODO: Estructurar una Consultora de Accesibilidad Digital
@@ -71,7 +72,8 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 ---
 ## Aprender Idiomas y Cultura
 
-
+* Estructura del aprenddizaje humano
+	* 
 * Estructura de los Idiomas Humanos
 	* Elementos de los idiomas Humanos
 * [[Aprender Idiomas ⚫①]]

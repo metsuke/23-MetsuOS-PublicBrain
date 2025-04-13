@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.421Z
-modified: 2025-02-17T04:51:37.448Z
+modified: 2025-04-13T03:02:17.565Z
 supervisado: 2024-05-27T13:37:59.811Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 81
+ver_rev: 82
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,6 +36,13 @@ tags:
 	* [[MOS Dictionary ES (Diccionario MetsuOS)]]
 	* [[MOS Generational Dictionary ES (Diccionario Neologismos MetsuOS)]]
 	* [[MOS Flascards ES (Flashcards MetsuOS)]]
+
+## Vocabulatio
+
+### Culto y Literario
+
+* [[égloga 🔴②]]
+* [[solaz  🔴②]]
 
 ## Informacion Adicional
 

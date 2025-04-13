@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-06T10:40:57.847Z
-modified: 2025-03-25T05:22:19.551Z
+modified: 2025-04-13T13:30:20.926Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 17
+ver_rev: 18
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,15 +29,15 @@ tags:
 
 DISCLAIMER: En tanto no diseñe un sistema mas preciso para gestionar la relacion entre epocas historicas y territorios que existan actualmente pero no antaño, se asume España como concepto territorial en aquellas epocas en las que aún no existia. Esto es una solucion temporal, no definitva, y parte del proceso de desarrollo de MetsuOS.
 
-### 1.1. [[La Educación en España en la Época Romana 🔴②]]
+### 1.1. [[La Educación en España en la Época Romana (siglos III aC - V dC) 🔴②]]
 
  La educación en la época romana se centraba en la formación de los ciudadanos para la vida pública y la administración del imperio. La educación se impartía en escuelas públicas y privadas, y se enfocaba en la enseñanza de la lengua latina, la literatura y la filosofía.
 
-### 1.2. [[La Educación en España en la Edad Media ⚫①]]
+### 1.2. [[La Educación en España en la Edad Media (siglos V - XV) 🔴②]]
 
  Durante la Edad Media, la educación en España se centró en la formación de clérigos y nobles. La educación se impartía en monasterios y conventos, y se enfocaba en la enseñanza de la teología, la filosofía y la literatura.
 
-### 1.3. [[La Educación en España en la Época Moderna ⚫①]]
+### 1.3. [[La Educación en España en la Época Moderna (siglos XVI-XVIII) 🔴②]]
 
  En la época moderna, la educación en España se centró en la formación de los ciudadanos para la vida pública y la administración del estado. La educación se impartía en escuelas públicas y privadas, y se enfocaba en la enseñanza de la lengua española, la literatura y la filosofía.
 

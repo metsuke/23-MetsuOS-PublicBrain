@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-03-29T10:56:46.456Z
-modified: 2025-04-08T20:05:33.597Z
+modified: 2025-04-14T20:36:14.983Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,40 +26,25 @@ tags:
 > **DISCLAIMER:**  
 > Lo expuesto en este curso es un esfuerzo exploratorio para alcanzar la mayor objetividad posible. Las ideas aquí presentadas no deben considerarse como verdades absolutas, sino como puntos de partida para el análisis crítico. Se excluyen posiciones ideológicas o partidistas en favor de un enfoque dinámico y estadístico, desligado del ego humano y de políticas monolíticas.
 
-## 1. Introducción
+## 1. Marco Conceptual y Contexto
 
-- **1.1. Motivación del Curso**  
-  - [[Introducción a las Monedas Digitales de Bancos Centrales (CBDC) 🔴②]]  
-  - [[Relevancia actual y futura de las CBDC  🔴②]]
+- [[Introducción a las Monedas Digitales de Bancos Centrales (CBDC) 🔴②]] 
+- Diferencias con criptomonedas descentralizadas (Bitcoin, Ethereum, etc.)
 
-- **1.2. Objetivos del Curso**  
-  - Analizar las CBDC desde múltiples perspectivas  
-  - Refinar la metodología científica (Port-Kuhm) para el contraste de información  
-  - Facilitar el debate crítico y la toma de decisiones fundamentadas
-
-- **1.3. Metodología y Enfoque**  
-  - Descripción del método Port-Kuhm  
-  - Fases de validación y contraste de información  
-  - Herramientas y criterios de evaluación
-
-## 2. Marco Conceptual y Contexto
-
-- **2.1. Definición de CBDC**  
-  - ¿Qué son las CBDC?  
-  - Diferencias con criptomonedas descentralizadas (Bitcoin, Ethereum, etc.)
-
-- **2.2. Historia y Evolución de las Monedas Digitales**  
+- **Historia y Evolución de las Monedas Digitales**  
+  - [Relevancia actual y futura de las CBDC  🔴②]]
   - Recorrido histórico  
   - Principales hitos en la digitalización del dinero
 
-- **2.3. Contexto Global y Tecnológico**  
+- **Contexto Global y Tecnológico**  
   - Transformación digital en los sistemas financieros  
   - Tendencias tecnológicas y su impacto en la economía
 
-- **2.4. Factores Políticos y Económicos**  
+- **Factores Políticos y Económicos**  
   - Intereses estatales y del sector privado  
   - Implicaciones geopolíticas y dinámicas de poder
 
+---
 ## 3. Perspectivas Optimistas
 
 - **3.1. Inclusión Financiera y Acceso Universal**  
@@ -223,25 +208,7 @@ tags:
   - Innovaciones tecnológicas y retos de implementación  
   - Diseño de sistemas seguros y escalables
 
-## 13. Metodología Científica del Proyecto
-
-- **13.1. Fundamentos del Método Port-Kuhm**  
-  - Bases teóricas y filosóficas  
-  - Objetivos y alcance del método
-
-- **13.2. Estrategias de Verificación y Contrastación**  
-  - Procedimientos para la validación de datos  
-  - Herramientas estadísticas y de análisis dinámico
-
-- **13.3. Gestión de Sesgos y Subjetividad**  
-  - Protocolo para la detección y mitigación de sesgos  
-  - Colaboración con evaluadores externos y expertos
-
-- **13.4. Transparencia y Actualización Continua**  
-  - Mecanismos de revisión y mantenimiento del contenido  
-  - Estrategias para garantizar la objetividad
-
-## 14. Conclusiones y Perspectivas Futuras
+## 13. Conclusiones y Perspectivas Futuras
 
 - **14.1. Síntesis de Hallazgos**  
   - Resumen de los principales descubrimientos  

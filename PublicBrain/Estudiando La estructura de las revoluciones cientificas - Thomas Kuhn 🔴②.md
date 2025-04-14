@@ -1,17 +1,20 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 
 checked: 0
 lang: ES
 translations: 
 created: 2025-04-12T01:20:26.029Z
-modified: 2025-04-12T01:22:34.429Z
+modified: 2025-04-14T20:48:11.901Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 2
-ver_rev: 1
+ver_minor: 3
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -225,7 +228,7 @@ Esta guía está pensada para ayudarte a explorar en profundidad *La estructura 
 
 ### Glosario de términos clave
 - *Paradigma*: Marco que define la práctica científica.
-- *Ciencia normal*: Investigación dentro de un paradigma aceptado.
+- *Ciencia normal*: "I"nvestigación dentro de un paradigma aceptado.
 - *Anomalía*: Problema que el paradigma no resuelve.
 - *Crisis*: Pérdida de confianza en un paradigma.
 - *Revolución científica*: Cambio de un paradigma por otro.

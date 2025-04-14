@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-04-06T21:24:16.966Z
-modified: 2025-04-06T22:17:52.595Z
+modified: 2025-04-14T20:46:03.973Z
 supervisado: ""
 ACCION: ""
-ver_major: 0
-ver_minor: 1
-ver_rev: 1
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_major: "-"3
+ver_minor: 2
+ver_rev: 2
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Definición de ciencia y método científico 🔴②
 
@@ -29,10 +32,10 @@ tags: []
 Hoy en día, solemos decir que la ciencia es un conjunto organizado de ideas sobre el universo, conseguidas mirando, probando y pensando con cuidado. Pero esto no salió de la nada; ha ido cambiando con los siglos. La palabra "ciencia" viene del latín *scientia*, que simplemente significa "conocimiento". Pero no todo lo que sabes cuenta como ciencia: lo especial es cómo lo descubres y cómo te aseguras de que no es solo una ocurrencia.
 
 - **Una definición sencilla**: Karl Popper, un pensador famoso, decía que la ciencia es como un juego de hacer teorías que expliquen cosas —como por qué llueve o cómo vuelan los pájaros— y luego comprobar si aguantan las pruebas o se caen por su propio peso (Popper, 1959, p. 39). No es solo saber, es saber con pruebas.
-- **Un camino que cambia**: Thomas Kuhn, otro grande, nos cuenta que la ciencia no es una línea recta; a veces da saltos enormes cuando cambiamos de idea, como cuando dejamos de pensar que la Tierra era el centro de todo (Kuhn, 1962, p. 10).
+- **Un camino que cambia**: Thomas Kuhn, otro grande, nos cuenta que la ciencia no es una línea recta; a veces da saltos enormes cuando cambiamos de idea, como cuando dejamos de pensar que la Tierra era el centro de todo ([[Kuhn, T. S. (1962. La estructura de las revoluciones científicas p. 10) 🔴②]]).
 ### Cómo ha cambiado la ciencia con el tiempo
 
-- **Los griegos y sus preguntas**: Hace más de 2.000 años, Aristóteles miraba el mundo y se preguntaba por qué las cosas se mueven. Decía que las piedras caen porque "quieren" estar abajo y el humo sube porque "prefiere" estar arriba (Aristóteles, *Física*, Libro II, p. 194b). No hacía experimentos, solo observaba y usaba su cabeza.
+- **Los griegos y sus preguntas**: "H"ace más de 2.000 años, Aristóteles miraba el mundo y se preguntaba por qué las cosas se mueven. Decía que las piedras caen porque "quieren" estar abajo y el humo sube porque "prefiere" estar arriba (Aristóteles, *Física*, Libro II, p. 194b). No hacía experimentos, solo observaba y usaba su cabeza.
 - **La Edad Media y la fe**: En Europa, durante siglos, la ciencia se mezcló con la religión. Tomás de Aquino, por ejemplo, veía el conocimiento como una forma de acercarse a Dios, pero confiaba más en libros viejos que en probar cosas nuevas (Grant, 1996, p. 45).
 - **El Renacimiento y las manos en la masa**: Todo cambió con gente como Galileo y Newton. Galileo no se conformó con teorías: dejó caer cosas desde la Torre de Pisa para ver cuánto tardaban, demostrando que las ideas debían medirse y tocarse (Drake, 1978, p. 67). Así empezó la ciencia moderna, la que conocemos hoy.
 
@@ -49,13 +52,12 @@ Imagina el método científico como una guía para no perderte mientras buscas r
   4. Haz un experimento para comprobarla.
   5. Mira los resultados y ajusta si te equivocaste.
 - **Un toque moderno**: Popper le dio una vuelta: no se trata de probar que algo es cierto, sino de intentar demostrar que no lo es. Si tu idea resiste todos los golpes, entonces vale (Popper, 1959, p. 41).
-
 ### De dónde viene y cómo creció
 
 - **Los griegos y su lógica**: Aristóteles fue un pionero con su deducción: "Si todas las aves tienen plumas y esto es un ave, pues tiene plumas" (Aristóteles, *Analíticos Posteriores*, Libro I, p. 71b). Pero no se ensuciaba las manos probando.
 - **Un salto en el mundo islámico**: En el siglo X, Alhacén cambió el juego. En su *Libro de Óptica*, usó espejos y luz para demostrar cómo vemos, haciendo experimentos de verdad (Sabra, 1989, p. 65).
 - **El Renacimiento y la acción**: Luego vinieron Bacon y Descartes. Bacon quería hechos palpables de la naturaleza (Bacon, 1620, p. 36), y Descartes decía que había que dudar de todo y usar las matemáticas para estar seguros (Descartes, 1637, p. 21).
-- **Newton y los números**: Isaac Newton lo llevó al siguiente nivel con sus leyes del movimiento, como \( F = ma \) (fuerza igual a masa por aceleración). Mezcló observación, experimentos y cálculos para explicar el universo (Newton, 1687, p. 13).
+- **Newton y los números**: "I"saac Newton lo llevó al siguiente nivel con sus leyes del movimiento, como \( F = ma \) (fuerza igual a masa por aceleración). Mezcló observación, experimentos y cálculos para explicar el universo (Newton, 1687, p. 13).
 
 ## Ciencia y método: Dos amigos que no se sueltan
 
@@ -94,7 +96,7 @@ La ciencia es nuestra forma de descifrar el mundo, y el método científico es c
 - **Descartes, R. (1637). *Discurso del método*. Leiden: Jan Maire.**  
   - Página 21: La duda y las matemáticas como pilares del método.
 - **Newton, I. (1687). *Philosophiæ Naturalis Principia Mathematica*. Londres: Royal Society.** - Página 13: \( F = ma \) como ejemplo de ciencia basada en experimentos y cálculos.
-- **Popper, K. (1959). *The Logic of Scientific Discovery*. Londres: Hutchinson.**  
+- [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
   - Página 39: Ciencia como teorías que se pueden refutar.  
   - Página 41: El método como prueba y error.
 - **Drake, S. (1978). *Galileo at Work*. Chicago: University of Chicago Press.**  
@@ -104,8 +106,8 @@ La ciencia es nuestra forma de descifrar el mundo, y el método científico es c
 
 ### Fuentes que matizan o cuestionan
 
-- **Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. Chicago: University of Chicago Press.**  
-  - Página 10: La ciencia avanza por paradigmas, no solo por el método.  
+- [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+  - [[Kuhn, T. S. (1962. La estructura de las revoluciones científicas p. 10) 🔴②]]: La ciencia avanza por paradigmas, no solo por el método.  
   - Página 111: Revoluciones que rompen la linealidad.
 - **Feyerabend, P. (1975). *Against Method*. Londres: NLB.**  
   - Página 23: No hay un método único; la ciencia a veces es caos creativo.

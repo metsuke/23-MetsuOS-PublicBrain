@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a2df0772dde83cfc",
+        "id": "6f5a84166fefbed5",
         "type": "tabs",
         "children": [
           {
-            "id": "2224e1ec23b48b08",
+            "id": "df121ec42bf7bec7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Introducción a las Monedas Digitales de Bancos Centrales (CBDC) 🔴②.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Introducción a las Monedas Digitales de Bancos Centrales (CBDC) 🔴②"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,14 +188,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2224e1ec23b48b08",
+  "active": "df121ec42bf7bec7",
   "lastOpenFiles": [
-    "PublicBrain/Aprender sobre las CBDC  ⚫①.md",
+    "PublicBrain/Definición de ciencia y método científico 🔴②.md",
+    "PublicBrain/Historia de la Ciencia y del Método Científico ⚫①.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+    "PublicBrain/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) pag 40 🔴②-📚🟡③.md",
+    "PublicBrain/Estudiando La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②.md",
+    "PublicBrain/Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③.md",
     "PublicBrain/Introducción a las Monedas Digitales de Bancos Centrales (CBDC) 🔴②.md",
+    "PublicBrain/Aprender sobre las CBDC  ⚫①.md",
     "PublicBrain/Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th  🔴②-📚🟡③.md",
     "PublicBrain/Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital  ⚫①.md",
-    "PublicBrain/Index.md",
     "PublicBrain/La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos 🔴②.md",
     "PublicBrain/Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①.md",
     "PublicBrain/Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②.md",
@@ -214,13 +216,7 @@
     "PublicBrain/Aprender Idiomas ⚫①.md",
     "PublicBrain/Historia de la Ley de Educación en España ⚫①.md",
     "PublicBrain/La Educación en España en la Edad Media 🔴②.md",
-    "PublicBrain/La Educación en España en la Edad Media (siglos V - XV) 🔴②.md",
-    "La Educación en España en la Edad Media 🔴②.md",
-    "PublicBrain/La Educación en España en la Época Romana (siglos III aC - V dC) 🔴②.md",
-    "PublicBrain/La Educación en España en la Época Moderna (siglos XVI-XVIII) 🔴②.md",
-    "PublicBrain/Estudiando Como aprendemos - Hector Ruiz Martín 🔴②.md",
     "PublicBrain/_resources/La Educación en España en la Edad Media 🔴②",
-    "Estudiando Como aprendemos - Hector Ruiz García.md",
     "PublicBrain/_resources/Aprender más allá del orden del tiempo ⚫①",
     "PublicBrain/_resources/Importancia del Storytelling en diferentes contextos ⚫①",
     "PublicBrain/_resources/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) pag 30 🔴②-📚🟡③",

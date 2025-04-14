@@ -278,11 +278,11 @@ Esta guía está organizada por capítulos y temas principales del libro, siguie
 	* 1980s: Gobierno de Thatcher y políticas neoliberales.
 	* 1990: Publicación de *Theorizing Patriarchy*.
 * Contexto Amplio
-	* Historia Africana del Feminismo WIP
-	* Historia Asiatica del Feminismo WIP
-	* Historia Islámica del Feminismo WIP
+	* [[Historia Africana del Feminismo WIP]]
+	* [[Historia Asiatica del Feminismo WIP]]
+	* [[Historia Islámica del Feminismo WIP]]
 	* [[Historia Occidental del Feminismo ⚫①]]
-	* ¿Otras?¿Mejorar la division por areas?
+	* [[Informacion temporal adicional sobre cronologia del feminismo]]
 
 ### C. Recursos Complementarios
 - **Libros**: *Gender and Power* (Connell, 1987), *The Sexual Contract* (Pateman, 1988).

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-04-13T22:51:25.951Z
+modified: 2025-04-14T19:55:43.712Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 180
+ver_rev: 181
 nav_primary: 
 nav_secondary: 
 tags:
@@ -53,7 +53,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
 		* [[Estudiando La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]
-		* [[La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos  ⚫①]]
+		* [[La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos 🔴②]]
 			* [[Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①]]
 	* [[Estructura del Conocimiento General y Cientifico (Standford Test)]]
 ### Estructura de Habilidades-Perfiles-Tareas 

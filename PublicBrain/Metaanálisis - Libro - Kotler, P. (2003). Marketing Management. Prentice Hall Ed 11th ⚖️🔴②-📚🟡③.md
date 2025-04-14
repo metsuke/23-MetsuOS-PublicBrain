@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-27T12:14:44.245Z
-modified: 2024-12-30T23:36:38.188Z
+modified: 2025-04-14T20:22:15.413Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Metaanálisis - Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th ⚖️🔴②-📚🟡③
 
-[[Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th 📚🔴②]]
+[[Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th  🔴②-📚🟡③]]
 
 El libro "Administración de Marketing" de Philip Kotler es un texto seminal en el campo del marketing que ha tenido un impacto profundo en la forma en que se entiende y se practica el marketing. En este análisis, se presentará un resumen detallado del contenido del libro, se analizarán los conceptos clave y se relacionarán con referencias bibliográficas específicas.
 

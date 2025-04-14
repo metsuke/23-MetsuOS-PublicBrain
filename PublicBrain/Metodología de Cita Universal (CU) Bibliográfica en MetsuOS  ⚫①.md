@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-22T12:44:46.837Z
-modified: 2024-12-27T01:19:07.104Z
+modified: 2025-04-14T19:55:43.735Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①
 
-[[La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos  ⚫①]]
+[[La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos 🔴②]]
 
 La idea de una "Cita Universal" puede ser atractiva, pero en realidad, cada disciplina académica tiene sus propias convenciones y estilos de cita que se han desarrollado a lo largo del tiempo. Estos estilos de cita están diseñados para satisfacer las necesidades específicas de cada disciplina y para facilitar la comunicación entre los investigadores y los lectores.
 

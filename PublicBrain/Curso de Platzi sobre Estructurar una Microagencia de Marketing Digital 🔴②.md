@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.083Z
-modified: 2024-06-10T15:06:30.472Z
+modified: 2025-04-14T19:53:11.493Z
 supervisado: 2024-06-10T15:06:30.472Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 57
+ver_rev: 58
 nav_primary: 
 nav_secondary: 
 tags:
@@ -50,9 +50,11 @@ Enlace: [Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital
 
 ### Referencias Bibliográficas
 
-* Kotler, P., & Keller, K. L. (2016). Marketing Management. Pearson Education Limited.
+* [[Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th  🔴②-📚🟡③]]
 * Chaffey, D., & Smith, P. R. (2017). Digital Marketing Excellence: Planning, Optimizing and Future-Proofing Your Digital Marketing. Routledge.
 
 ### Referencias que Refutan
 
 * Critcher, C. R., & Ferguson, M. J. (2011). The cost of keeping it real: An empirical study of the costs and benefits of authenticity in marketing. Journal of Consumer Research, 38(3), 465-483. (Este artículo cuestiona la efectividad de las estrategias de marketing digital en algunos contextos)
+
+![[Plantilla - 1MT#One More Thing]]

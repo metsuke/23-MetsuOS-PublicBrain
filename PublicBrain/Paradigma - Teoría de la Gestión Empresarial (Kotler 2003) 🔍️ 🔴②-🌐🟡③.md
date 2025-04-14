@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-11T21:17:55.520Z
-modified: 2024-12-28T23:40:19.573Z
+modified: 2025-04-14T20:22:15.464Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 14
+ver_rev: 15
 nav_primary: 
 nav_secondary: 
 tags:
@@ -112,7 +112,7 @@ Utilizar métricas como el retorno de la inversión (ROI), el costo de adquisici
 
 ## Referencias Bibliográficas que Apoyan el Contenido
 
-* [[Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th 📚🔴②]]
+* [[Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th  🔴②-📚🟡③]]
 * Kotler, P., & Keller, K. L. (2009). Marketing Management. Pearson.
 * McCarthy, E. J. (1960). Basic Marketing: A Managerial Approach. Richard D. Irwin.
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-03-10T20:56:49.900Z
-modified: 2025-04-06T21:12:48.486Z
+modified: 2025-04-14T21:14:30.025Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,14 +27,15 @@ ADVERTENCIA: Esta es una linea de estudio por libre experimental basada en IA, l
 
 ## **Módulo 1: Geografía y Geopolítica. La relación entre el espacio y el poder.**
 
-1. **Introducción a la Geopolítica:**
-   - [[Definición y origen de la Geopolítica 🔴②]]
-   - [[Diferencias entre Geografía Política y Geopolítica 🔴②]]
-   - [[La importancia del espacio en la configuración del poder  🔴②]]
-1. **El espacio geográfico como factor de poder:**
-   - Territorio, recursos naturales y posición estratégica.
-   - Conceptos de frontera, límite y soberanía.
-   - Geografía física vs. geografía humana en el análisis geopolítico.
+* ***Introducción a la Geopolítica:**
+	* [[Definición y origen de la Geopolítica 🔴②]]
+	* [[Diferencias entre Geografía Política y Geopolítica 🔴②]]
+	* [[La importancia del espacio en la configuración del poder 🔴②]]
+* **El espacio geográfico como factor de poder:**ç
+	* [[Territorio, recursos naturales y posición estratégica 🔴②]]
+	* Conceptos de frontera, límite y soberanía.
+	* Geografía física vs. geografía humana en el análisis geopolítico.
+---
 3. **La evolución histórica de la relación entre geografía y poder:**
    - Del Imperio Romano al Estado-nación moderno.
    - La influencia de la geografía en la expansión colonial.

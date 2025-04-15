@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-04-14T19:55:43.712Z
+modified: 2025-04-15T11:42:52.429Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 181
+ver_rev: 182
 nav_primary: 
 nav_secondary: 
 tags:
@@ -167,7 +167,10 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 	* Aprender sobre MPL
 		* [[Aprender sobre PixiJS ⚫①]]
 		* [[Aprender sobre Pyxel  ⚫①]]
-	
+
+### Memes
+
+[[Estudiando Memes - Alkane, Alkene, Alkyne ⚫①]]
 ### Plena Inclusión
 
 * [[Estudiando Accesibilidad Web WCAG 21 de forma sencilla - Olga Revilla y Olga Carreras 🔴②]]

@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-04-16T01:51:12.631Z
-modified: 2025-04-16T01:59:46.502Z
+modified: 2025-04-16T07:32:56.645Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 1
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 2
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender con Thomas Kuhn 🔴②
 
@@ -28,7 +31,7 @@ Esta guía ofrece una estructura clara y detallada para explorar en profundidad 
 
 - **Nacimiento y formación**: Thomas Samuel Kuhn (1922-1996) nació en Cincinnati, Ohio, Estados Unidos.
 - **Educación**: Estudió física en la Universidad de Harvard, donde obtuvo su doctorado en 1949.
-- **Trayectoria académica**: Impartió clases en instituciones prestigiosas como Harvard, Berkeley, Princeton y el MIT.
+- **Trayectoria académica**: "I"mpartió clases en instituciones prestigiosas como Harvard, Berkeley, Princeton y el MIT.
 - **Intereses personales**: Su pasión por la historia y la filosofía de la ciencia moldeó su perspectiva única.
 
 ### 1.2. Contexto Histórico e Intelectual
@@ -178,7 +181,7 @@ Esta guía ofrece una estructura clara y detallada para explorar en profundidad 
 ### 8.1. Bibliografía Recomendada
 
 - [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
-- Kuhn, T. S. (1957). _La revolución copernicana_. Cambridge, MA: Harvard University Press.
+- Kuhn, T. S. (1957). _La revolución copernicana_. Cambridge, MA: "H"arvard University Press.
 - Bird, A. (2000). _Thomas Kuhn_. Princeton: Princeton University Press.
 - Hoyningen-Huene, P. (1993). _Reconstruyendo las revoluciones científicas: La filosofía de la ciencia de Thomas S. Kuhn_. Chicago: University of Chicago Press.
 

@@ -6,18 +6,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.511Z
-modified: 2024-06-10T15:26:27.153Z
+modified: 2025-04-16T07:37:19.701Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Aprender con Selva Orejón
+# Aprender con Selva Orejón ⚫①
 
-[[Aprender con Q-Z ⚫①]]
+[[Aprender con M-P ⚫①]]
 
 * https://www.youtube.com/watch?v=oIwFpcuKwVI
+
+![[Plantilla - 1MT#One More Thing]]

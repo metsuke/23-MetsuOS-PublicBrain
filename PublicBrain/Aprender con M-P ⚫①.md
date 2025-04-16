@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.506Z
-modified: 2025-04-16T01:23:55.744Z
+modified: 2025-04-16T07:34:21.443Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 59
+ver_rev: 60
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,68 +27,48 @@ tags:
 * [[Aprender con Beatriz Martín]]
 * [[Aprender con Anna Morales - SizeMatters ⚫①]]
 * [[Aprender con Irene Montero ⚫①]]
+* [[Aprender con Karl Popper ⚫①]]
 * [[Aprender con Antonio Ruiz García (ElGris)]]
-* [[Aprender con Selva Orejón]]
+* [[Aprender con Selva Orejón ⚫①]]
 
 
 ---
 
 ## M
 
-- Aprender con Diego Marañón
-    
-- Aprender con Karl Marx
-    
-- Aprender con Cristina Martín
-    
-- Aprender con Herman Melville
-    
-- Aprender con Fernando Miralles
-    
-- Aprender con John Milton
-    
-- Aprender con Juan Carlos Monedero
-    
-- Aprender con Wolfgang Amadeus Mozart
-    
+- Aprender con Diego Marañón    
+- Aprender con Karl Marx    
+- Aprender con Cristina Martín    
+- Aprender con Herman Melville    
+- Aprender con Fernando Miralles    
+- Aprender con John Milton    
+- Aprender con Juan Carlos Monedero    
+- Aprender con Wolfgang Amadeus Mozart    
 - Aprender con Ricardo Moure
     
-
 ## N
 
-- Aprender con Soraya Nárez
-    
+- Aprender con Soraya Nárez    
 - Aprender de Javier Nart
-    
-- Aprender con Aprener con Juanjo Navarro Mínguez
-    
-- Aprender con Isaac Newton
-    
+- Aprender con Juanjo Navarro Mínguez   
+- Aprender con Isaac Newton    
 - Aprender con Friedrich Nietzsche
     
-
 ## O
 
-- Aprender con Operador Nuclear
-    
-- Aprender con Raul Ordoñez (jasp)
-    
+- Aprender con Operador Nuclear    
+- Aprender con Raul Ordoñez (jasp)    
 - Aprender con George Orwell
     
 
 ## P
 
-- Aprender con Tomás Pedraza Jiménez
-    
-- Aprender con Arturo Pérez Reverte
-    
-- Aprender con Pablo Picasso
-    
-- Aprender con Platón
-    
+- Aprender con Tomás Pedraza Jiménez    
+- Aprender con Arturo Pérez Reverte    
+- Aprender con Pablo Picasso    
+- Aprender con Platón    
 - Aprender con Edgar Allan Poe
     
-
 
 
 ![[Plantilla - 1MT#One More Thing]]

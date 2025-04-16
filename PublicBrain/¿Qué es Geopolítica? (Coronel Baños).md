@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.005Z
-modified: 2024-06-10T15:26:26.272Z
+modified: 2025-04-16T01:26:27.105Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # ¿Qué es Geopolítica? (Coronel Baños)
 
-[[Aprender con Coronel Baños]]
+[[Aprender con el Coronel Pedro Baños ⚫①]]
 
 
 TODO: Estudiar texto, aprender de el, usar IA para identificar ideas, conceptos, contrasarlos , etc. Aplicar definicion como parte de mi estudio futuro sobre Geopolítica y como paradigma de referencia (no unico necesariamente) en la futura implemtnacion del perfil "analista geopolitico" en MetsuOS

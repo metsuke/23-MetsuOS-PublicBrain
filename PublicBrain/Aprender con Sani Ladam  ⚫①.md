@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.510Z
-modified: 2024-06-10T15:26:27.154Z
+modified: 2025-04-16T01:23:13.738Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender con Sani Ladam
+# Aprender con Sani Ladam  ⚫①
 
 [[PublicBrain/Index]]
 
@@ -74,3 +74,5 @@ Curso sobre Filosofía y Pensamiento de Sani Ladam
 - Síntesis de los principales conceptos y temas
 - Recomendaciones para profundizar en el estudio de Sani Ladam
 - Bibliografía y recursos complementarios para el estudio de su obra
+
+![[Plantilla - 1MT#One More Thing]]

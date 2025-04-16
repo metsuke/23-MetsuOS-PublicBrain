@@ -9,45 +9,78 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.503Z
-modified: 2025-04-01T11:42:18.885Z
+modified: 2025-04-16T01:23:13.795Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 64
+ver_rev: 65
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender con G-L ⚫①
 
-[[PublicBrain/Index|Index]]
+[[PublicBrain/Index|Index]] | [[PublicBrain/Index#Aprender con ...|Indice Autores]]
 
-* Aprender con Gerardo Sanz
-* Aprender con Germán Fernández Sánchez
-* Aprender con Guille Collado
-* Aprender con Igor Errazkin
-* Aprender con Ignasi Díaz Ferrando
-* Aprender con Iker Jiménez
-* [[Aprender con Irene Montero ⚫①]]
-* Aprender con Isaac Asimov
-* Aprender con Jackes Cousteau
-* [[Aprender con Javier G. Recuenco ⚫①]]
-* Aprender de Javier Nart 
-* Aprender con Jéssica Arribas Arranz
-* Aprender con Joaquín Sánchez Aguilar
-* Aprender con Jon Sistiaga
-* Aprender con Jorge Laborda Fernández
-* Aprender con José Elias
-* Aprender con José Juan Sanchez García
-* Aprender con Jose Luis Guardeño López
-* Aprender con José Rafael Esteban Durán
-* Aprender con José María Cánovas
-* Aprender con Josefina Cano
-* Aprender con Juan Carlos Monedero
-* Aprender con Juan Ramón Rallo
-* Aprender sobre Juan Soto Ivars
-* Aprener con Juanjo Navarro Mínguez
-* Aprender con Luis Quevedo
+* [[Aprender con Fran Gallego  ⚫①]]
+* [[Aprender con Pablo Grueso ⚫①]]
+* [[Aprender con Sani Ladam  ⚫①]]
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+---
+
+
+## G
+
+- Aprender con Clara Galán
+    
+- Aprender con Raquel Ubàguls Galán
+    
+- Aprender con Galileo Galilei
+    
+- Aprender con Doctor Jose Miguel Gaona
+    
+- Aprender con Johann Wolfgang von Goethe
+    
+- Aprender con Fabián González Rivas
+    
+- Aprender con Jose Luis Guardeño López
+    
+
+## H
+
+- Aprender con Ernest Hemingway
+    
+- Aprender con Homero
+    
+- Aprender con Victor Hugo
+    
+- Aprender con Aldous Huxley
+    
+
+## J
+
+- Aprender con Iker Jiménez
+    
+- Aprender con James Joyce
+    
+
+## K
+
+- Aprender con Franz Kafka
+    
+- Aprender con Immanuel Kant
+    
+- Aprender con Johannes Kepler
+    
+
+## L
+
+- Aprender con Jorge Laborda Fernández
+    
+- Aprender con Rosa Lencero Guillermo
+    
+
+
+
+![[Plantilla - 1MT#One More Thing]]

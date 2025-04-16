@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-04-15T11:42:52.429Z
+modified: 2025-04-16T01:25:52.437Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 182
+ver_rev: 183
 nav_primary: 
 nav_secondary: 
 tags:
@@ -96,10 +96,10 @@ Por el momento vemos que podemos aprender de cada uno de ellos, de temas relacio
 
 No estoy de acuerdo con todo lo que dicen todos, mas todos ellos aportan una visión unica sobre aquello de que hablan.
 
-* [[Aprender con A-C]]
+* [[Aprender con A-C  ⚫①]]
 * [[Aprender con D-F ⚫①]]
 * [[Aprender con G-L ⚫①]]
-* [[Aprender con M-P]]
+* [[Aprender con M-P ⚫①]]
 * [[Aprender con Q-Z ⚫①]]
 
 [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]

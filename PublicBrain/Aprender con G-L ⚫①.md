@@ -25,6 +25,7 @@ tags:
 
 * [[Aprender con Fran Gallego  ⚫①]]
 * [[Aprender con Pablo Grueso ⚫①]]
+* [[Aprender con Thomas Kuhn 🔴②]]
 * [[Aprender con Sani Ladam  ⚫①]]
 
 ---
@@ -33,51 +34,37 @@ tags:
 ## G
 
 - Aprender con Clara Galán
-    
-- Aprender con Raquel Ubàguls Galán
-    
-- Aprender con Galileo Galilei
-    
-- Aprender con Doctor Jose Miguel Gaona
-    
-- Aprender con Johann Wolfgang von Goethe
-    
-- Aprender con Fabián González Rivas
-    
-- Aprender con Jose Luis Guardeño López
-    
+- Aprender con Raquel Ubàguls Galán  
+- Aprender con Galileo Galilei    
+- Aprender con Doctor Jose Miguel Gaona    
+- Aprender con Johann Wolfgang von Goethe    
+- Aprender con Fabián González Rivas    
+- Aprender con Jose Luis Guardeño López    
 
 ## H
 
-- Aprender con Ernest Hemingway
-    
-- Aprender con Homero
-    
-- Aprender con Victor Hugo
-    
+- Aprender con Ernest Hemingway    
+- Aprender con Homero    
+- Aprender con Victor Hugo    
 - Aprender con Aldous Huxley
     
 
 ## J
 
-- Aprender con Iker Jiménez
-    
+- Aprender con Iker Jiménez    
 - Aprender con James Joyce
     
 
 ## K
 
-- Aprender con Franz Kafka
-    
-- Aprender con Immanuel Kant
-    
+- Aprender con Franz Kafka    
+- Aprender con Immanuel Kant    
 - Aprender con Johannes Kepler
     
 
 ## L
 
-- Aprender con Jorge Laborda Fernández
-    
+- Aprender con Jorge Laborda Fernández    
 - Aprender con Rosa Lencero Guillermo
     
 

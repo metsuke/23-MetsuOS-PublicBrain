@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-16T13:24:26.593Z
-modified: 2025-04-16T14:36:39.621Z
+modified: 2025-04-16T16:21:17.942Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -187,7 +187,7 @@ Su crítica a los edumitos ayuda a combatir métodos sin fundamento, como las te
 
 ### 9.1. Fuentes que Apoyan las Ideas de Ruiz Martín
 
-- Ruiz Martín, H. (2020). _¿Cómo aprendemos? Una aproximación científica a la enseñanza y el aprendizaje_. Barcelona: Graó.  [[Estudiando Como aprendemos - Hector Ruiz Martín 🔴②]]
+- [[Libro Como aprendemos - Hector Ruiz Martín 🟡③-📚🟡③]]
     _Sintetiza los principios científicos del aprendizaje y su aplicación práctica en la educación._
 - Ruiz Martín, H. (2020). _Conoce tu cerebro para aprender a aprender_. International Science Teaching Foundation.  
     _Ofrece estrategias basadas en la neurociencia para mejorar el aprendizaje, accesibles a estudiantes y docentes._

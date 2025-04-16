@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.818Z
-modified: 2024-09-17T14:34:23.506Z
+modified: 2025-04-16T22:39:03.902Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Tradeoffs
 
-[[Aprender con Javier G. Recuenco ⚫①]]
+[[Aprender con Javier G. Recuenco 🔴②]]
 
 El concepto de "tradeoffs" o "compromisos" se refiere a la idea de tener que elegir entre opciones o alternativas que presentan ventajas y desventajas, y donde obtener una cosa significa renunciar a otra.
 

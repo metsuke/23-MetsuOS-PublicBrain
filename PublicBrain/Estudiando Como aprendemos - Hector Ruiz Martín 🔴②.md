@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-13T10:25:29.851Z
-modified: 2025-04-16T14:37:50.363Z
+modified: 2025-04-16T16:20:24.139Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Estudiando Como aprendemos - Hector Ruiz Martín 🔴②
 
-[[PublicBrain/Index|Index]] | [[Libro Como aprendemos - Hector Ruiz Martín 🟡③-📚🟡③]]
+[[PublicBrain/Index|Index]] | [[Aprender con Hector Ruiz Martín 🔴②]] | [[Libro Como aprendemos - Hector Ruiz Martín 🟡③-📚🟡③]]
 
 ## Introducción: Por qué este libro importa
 

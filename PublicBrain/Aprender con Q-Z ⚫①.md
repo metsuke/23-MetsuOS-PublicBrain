@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.508Z
-modified: 2025-04-16T13:23:33.184Z
+modified: 2025-04-16T22:39:03.803Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 63
+ver_rev: 64
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[PublicBrain/Index|Index]] | [[PublicBrain/Index#Aprender con ...|Indice Autores]]
 
-* [[Aprender con Javier G. Recuenco ⚫①]]
+* [[Aprender con Javier G. Recuenco 🔴②]]
 * [[Aprender con Hector Ruiz Martín 🔴②]]
 * [[Aprender con Roberto Vaquero ⚫①]]
 * [[Aprender con Rodrigo Taramona ⚫①]]

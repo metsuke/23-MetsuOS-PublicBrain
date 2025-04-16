@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-13T10:25:29.851Z
-modified: 2025-04-13T10:32:25.566Z
+modified: 2025-04-16T14:37:50.363Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Estudiando Como aprendemos - Hector Ruiz Martín 🔴②
 
-[[PublicBrain/Index|Index]]
+[[PublicBrain/Index|Index]] | [[Libro Como aprendemos - Hector Ruiz Martín 🟡③-📚🟡③]]
 
 ## Introducción: Por qué este libro importa
 
@@ -180,7 +180,7 @@ tags:
 ## Referencias bibliográficas
 
 ### Fuentes que apoyan el contenido
-- Ruiz Martín, H. (2020). *¿Cómo aprendemos? Una aproximación científica al aprendizaje y la enseñanza*. Barcelona: Graó.  
+- [[Libro Como aprendemos - Hector Ruiz Martín 🟡③-📚🟡③]]
   - Base del índice, proporciona una síntesis clara de la ciencia del aprendizaje, desde la memoria hasta la enseñanza efectiva.  
 - Dweck, C. S. (2006). *Mindset: La nueva psicología del éxito*. Barcelona: Gestión 2000.  
   - Apoya la discusión sobre mentalidad de crecimiento, clave en el bloque socioemocional del libro.  

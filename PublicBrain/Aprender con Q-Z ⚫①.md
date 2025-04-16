@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.508Z
-modified: 2025-04-16T01:21:38.675Z
+modified: 2025-04-16T13:23:33.184Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 62
+ver_rev: 63
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,6 +24,7 @@ tags:
 [[PublicBrain/Index|Index]] | [[PublicBrain/Index#Aprender con ...|Indice Autores]]
 
 * [[Aprender con Javier G. Recuenco ⚫①]]
+* [[Aprender con Hector Ruiz Martín 🔴②]]
 * [[Aprender con Roberto Vaquero ⚫①]]
 * [[Aprender con Rodrigo Taramona ⚫①]]
 
@@ -37,39 +38,24 @@ tags:
 
 ## R
 
-- Aprender con Juan Ramón Rallo
-    
-- Aprender con Daniel Iván Reyes
-    
-- Aprender con Felix Rodriguez de la Fuente
-    
+- Aprender con Juan Ramón Rallo    
+- Aprender con Daniel Iván Reyes    
+- Aprender con Felix Rodriguez de la Fuente    
 - Aprender con Ángel Rodríguez Lozano
     
-
 ## S
 
-- Aprender con David Saavedra
-    
-- Aprender con Uri Sabat
-    
-- Aprender con Eduardo Sáenz de Cabezón
-    
-- Aprender con Joaquín Sánchez Aguilar
-    
-- Aprender con José Juan Sanchez García
-    
-- Aprender con Gerardo Sanz
-    
-- Aprender con William Shakespeare
-    
-- Aprender con Mary Shelley
-    
-- Aprender con Jon Sistiaga
-    
-- Aprender con Sócrates
-    
-- Aprender con Sófocles
-    
+- Aprender con David Saavedra    
+- Aprender con Uri Sabat    
+- Aprender con Eduardo Sáenz de Cabezón    
+- Aprender con Joaquín Sánchez Aguilar    
+- Aprender con José Juan Sanchez García    
+- Aprender con Gerardo Sanz    
+- Aprender con William Shakespeare    
+- Aprender con Mary Shelley    
+- Aprender con Jon Sistiaga    
+- Aprender con Sócrates    
+- Aprender con Sófocles    
 - Aprender sobre Juan Soto Ivars
     
 
@@ -80,25 +66,18 @@ tags:
 
 ## V
 
-- Aprender con Christian Van Der Henst
-    
-- Aprender con Samuel Vazquez
-    
-- Aprender con Rafael Vázquez Peña
-    
-- Aprender con Freddy Vega
-    
-- Aprender con Jules Verne
-    
-- Aprender con Avelino Vicente
-    
+- Aprender con Christian Van Der Henst    
+- Aprender con Samuel Vazquez    
+- Aprender con Rafael Vázquez Peña    
+- Aprender con Freddy Vega    
+- Aprender con Jules Verne    
+- Aprender con Avelino Vicente    
 - Aprender con Marc Vidal
     
 
 ## W
 
-- Aprender con Max Weber
-    
+- Aprender con Max Weber    
 - Aprender con Virginia Woolf
 
 ![[Plantilla - 1MT#One More Thing]]

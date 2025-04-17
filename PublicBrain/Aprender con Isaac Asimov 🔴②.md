@@ -452,7 +452,7 @@ Esta sección propone estrategias prácticas para abordar la obra de Asimov de m
 ### 3.1. Lectura y Análisis de la Obra
 
 - **Lectura cronológica**: Leer las obras en orden de publicación para rastrear la evolución de su estilo y temas. Comenzar con _Pebble in the Sky_ (1950) y _I, Robot_ (1950).[](https://asimov.fandom.com/wiki/List_of_Books_by_Isaac_Asimov)
-- **Series principales**: Estudiar las series _Foundation_, _Robot_ y _Galactic Empire_ como un universo narrativo unificado, analizando cómo Asimov conectó estas historias a lo largo de su carrera.[](https://en.wikipedia.org/wiki/Isaac_Asimov_book_series_bibliography)
+- **Series principales**: Estudiar las series _[[Serie - Foundation - IsaacAsimov 🔴②|Foundation]]_, _Robot_ y _Galactic Empire_ como un universo narrativo unificado, analizando cómo Asimov conectó estas historias a lo largo de su carrera.[](https://en.wikipedia.org/wiki/Isaac_Asimov_book_series_bibliography)
 - **No ficción**: Analizar libros como _Asimov’s Chronology of Science and Discovery_ y _The Intelligent Man’s Guide to Science_ para entender su enfoque divulgativo.[](https://www.biblio.com/authors/isaac-asimov/463)
 - **Anotaciones temáticas**: Identificar temas recurrentes (ética tecnológica, leyes de la robótica, decadencia imperial) y compararlos entre ficción y no ficción.
 

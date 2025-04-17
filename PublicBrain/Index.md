@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-04-16T01:25:52.437Z
+modified: 2025-04-17T13:55:59.855Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 183
+ver_rev: 184
 nav_primary: 
 nav_secondary: 
 tags:
@@ -87,23 +87,12 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 
 ## Aprender sobre Tecnología
 
-[[Aprender a crear una nube de almacenamiento con OwnCloud 🔴②]]
-
-[[Sobre trabajar con Proton Drive via SSH en linea de comandos  🔴②]]
+* [[Aprender a crear una nube de almacenamiento con OwnCloud 🔴②]]
+* [[Sobre trabajar con Proton Drive via SSH en linea de comandos  🔴②]]
 ## Aprender con ...
 
-Por el momento vemos que podemos aprender de cada uno de ellos, de temas relacionados con temas absolutamente diversos,y, en algunos casos, expertos en temáticas que se prestan al trabajo que pretendo con las realidades probabilísticas y su gestión en busca de una aproximación multidimensional a la """verdad""".
-
-No estoy de acuerdo con todo lo que dicen todos, mas todos ellos aportan una visión unica sobre aquello de que hablan.
-
-* [[Aprender con A-C  ⚫①]]
-* [[Aprender con D-F ⚫①]]
-* [[Aprender con G-L ⚫①]]
-* [[Aprender con M-P ⚫①]]
-* [[Aprender con Q-Z ⚫①]]
-
-[[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
-
+* [[Aprender con 🔴②]]
+* [[Curso sobre estudiar el pensamiento y filosofía de una persona ⚫①]]
 ## Aprender sobre ...
 
 Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elaborados. En primera fase se basan en uso de IA, posteriormente busco desarrollar un método de validación y comprobación tanto de contenido como de accesibilidad... a poc a poc ;)

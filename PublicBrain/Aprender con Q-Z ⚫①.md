@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.508Z
-modified: 2025-04-16T22:39:03.803Z
+modified: 2025-04-17T12:52:20.608Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 64
+ver_rev: 65
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,7 @@ tags:
 * [[Aprender con Javier G. Recuenco 🔴②]]
 * [[Aprender con Hector Ruiz Martín 🔴②]]
 * [[Aprender con Roberto Vaquero ⚫①]]
+* [[Aprender con Garcilaso de la Vega 🔴②]]
 * [[Aprender con Rodrigo Taramona ⚫①]]
 
 ---
@@ -69,7 +70,7 @@ tags:
 - Aprender con Christian Van Der Henst    
 - Aprender con Samuel Vazquez    
 - Aprender con Rafael Vázquez Peña    
-- Aprender con Freddy Vega    
+- Aprender con Freddy Vega
 - Aprender con Jules Verne    
 - Aprender con Avelino Vicente    
 - Aprender con Marc Vidal

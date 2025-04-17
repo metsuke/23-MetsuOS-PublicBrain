@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.490Z
-modified: 2025-04-16T01:30:32.309Z
+modified: 2025-04-17T21:22:27.968Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 61
+ver_rev: 62
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,68 +23,36 @@ tags:
 
 [[PublicBrain/Index|Index]] | [[PublicBrain/Index#Aprender con ...|Indice Autores]]
 
-
-* [[Aprender con el Coronel Pedro Baños ⚫①]]
-
----
-
 ## A
-
-- Aprender con Carlos Alarcón
-    
-- Aprender con Dante Alighieri
-    
-- Aprender con Roger Antonsen
-    
-- Aprender con Daniel Aragay Esteban
-    
-- Aprender con Jéssica Arribas Arranz
-    
-- Aprender con Aristóteles
-    
-- Aprender con Isaac Asimov
-    
-- Aprender con Jane Austen
-    
-
+- Alarcón, Carlos: Aprender con Carlos Alarcón
+- Alighieri, Dante: Aprender con Dante Alighieri
+- Antonsen, Roger: Aprender con Roger Antonsen
+- Aragay Esteban, Daniel: Aprender con Daniel Aragay Esteban
+- Arribas Arranz, Jesús: Aprender con Jéssica Arribas Arranz
+- Aristóteles: Aprender con Aristóteles
+- Asimov, Isaac: [[Aprender con Isaac Asimov 🔴②]]
+- Austen, Jane: Aprender con Jane Austen
 ## B
-
-- Aprender con Johann Sebastian Bach
-    
-- Aprender con Charles Baudelaire
-    
-- Aprender con Ludwig van Beethoven
-    
-- Aprender con William Blake
-    
+- Bach, Johan Sebastian: Aprender con Johann Sebastian Bach
+- Baños, Pedro: [[Aprender con el Coronel Pedro Baños ⚫①]]
+- Baudelaire, Charles: Aprender con Charles Baudelaire    
+- Beethoven (van), Ludwig: Aprender con Ludwig van Beethoven    
+- Blake, Wikkiam: Aprender con William Blake    
 
 ## C
+- Cabrera, José: Aprender con Doctor José Cabrera    
+- Cano, Josefina: Aprender con Josefina Cano    
+- Cánovas, Josñe María: Aprender con José María Cánovas    
+- Carrascosa, Cris: Aprender con Cris Carrascosa    
+- Cervantes (de), Miguel: Aprender con Miguel de Cervantes    
+- Christie, Agatha: Aprender con Agatha Christie    
+- Claret, Antonio: Aprender con Aprener con Antonio Claret    
+- Collado, Guille: Aprender con Guille Collado    
+- Comas, Lujan: Aprender con Doctora Lujan Comas    
+- Copérnico, Nicolás: Aprender con Nicolás Copérnico    
+- Cousteau, Jackes: Aprender con Jackes Cousteau    
+- Curie, Marie: Aprender con Marie Curie
 
-- Aprender con Doctor José Cabrera
-    
-- Aprender con Josefina Cano
-    
-- Aprender con José María Cánovas
-    
-- Aprender con Cris Carrascosa
-    
-- Aprender con Miguel de Cervantes
-    
-- Aprender con Agatha Christie
-    
-- Aprender con Aprener con Antonio Claret
-    
-- Aprender con Guille Collado
-    
-- Aprender con Doctora Lujan Comas
-    
-- Aprender con Nicolás Copérnico
-    
-- Aprender con Jackes Cousteau
-    
-- Aprender con Marie Curie
-    
-
-
+---  
 
 ![[Plantilla - 1MT#One More Thing]]

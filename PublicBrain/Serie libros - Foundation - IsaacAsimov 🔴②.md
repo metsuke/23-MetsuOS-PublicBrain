@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-17T21:53:07.801Z
-modified: 2025-04-17T21:55:54.279Z
+modified: 2025-04-18T01:56:59.074Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Serie - Foundation - IsaacAsimov 🔴②
+# Serie libros - Foundation - IsaacAsimov 🔴②
 
 [[Aprender con Isaac Asimov 🔴②]]
 
@@ -57,7 +57,7 @@ Un análisis detallado de las siete novelas permite comprender la narrativa y lo
 - **Cronología narrativa**:
     - _Prelude to Foundation_ (1988): Los orígenes de Hari Seldon y la psicohistoria en Trantor.
     - _Forward the Foundation_ (1993): La consolidación de la psicohistoria y la creación de las Fundaciones.
-    - _Foundation_ (1951): Los primeros siglos del plan Seldon tras el colapso del Imperio Galáctico.
+    - [[Libro - Foundation - Isaac Asimov 🔴②]] (1951): Los primeros siglos del plan Seldon tras el colapso del Imperio Galáctico.
     - _Foundation and Empire_ (1952): El desafío del Mulo, un mutante que pone en peligro el plan.
     - _Second Foundation_ (1953): El papel de la Segunda Fundación en la restauración del plan Seldon.
     - _Foundation’s Edge_ (1982): La búsqueda de la Segunda Fundación y la aparición de Gaia.
@@ -140,8 +140,7 @@ Evaluar la influencia de _Foundation_ en la literatura, la cultura y el pensamie
 
 A continuación, se detalla la lista completa de las siete novelas de la serie _Foundation_, ordenadas por publicación, con datos bibliográficos verificados en asimovonline.com, isfdb.org y WorldCat.
 
-1. **Foundation** (Gnome Press, 1951) - ISBN 0-553-29335-4  
-    Compila relatos publicados en _Astounding Science-Fiction_ (1942-1944).
+1. **Foundation** (Gnome Press, 1951) - ISBN 0-553-29335-4 | [[Libro - Foundation - Isaac Asimov 🔴②]] - Compila relatos publicados en _Astounding Science-Fiction_ (1942-1944).
 2. **Foundation and Empire** (Gnome Press, 1952) - ISBN 0-553-29337-0  
     Incluye “The General” y “The Mule” (1945).
 3. **Second Foundation** (Gnome Press, 1953) - ISBN 0-553-29336-2  

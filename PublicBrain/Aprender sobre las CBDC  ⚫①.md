@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-03-29T10:56:46.456Z
-modified: 2025-04-14T20:36:14.983Z
+modified: 2025-04-19T03:27:57.118Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,7 @@ tags:
 ## 1. Marco Conceptual y Contexto
 
 - [[Introducción a las Monedas Digitales de Bancos Centrales (CBDC) 🔴②]] 
-- Diferencias con criptomonedas descentralizadas (Bitcoin, Ethereum, etc.)
+- [[Diferencias con criptomonedas descentralizadas (Bitcoin, Ethereum, etc) 🔴②]]
 
 - **Historia y Evolución de las Monedas Digitales**  
   - [Relevancia actual y futura de las CBDC  🔴②]]

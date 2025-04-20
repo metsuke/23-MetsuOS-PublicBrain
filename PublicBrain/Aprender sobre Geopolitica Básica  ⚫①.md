@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-03-10T20:56:49.900Z
-modified: 2025-04-14T21:14:30.025Z
+modified: 2025-04-20T11:46:20.910Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,7 +33,7 @@ ADVERTENCIA: Esta es una linea de estudio por libre experimental basada en IA, l
 	* [[La importancia del espacio en la configuración del poder 🔴②]]
 * **El espacio geográfico como factor de poder:**ç
 	* [[Territorio, recursos naturales y posición estratégica 🔴②]]
-	* Conceptos de frontera, límite y soberanía.
+	* [[Conceptos de frontera, límite y soberanía 🔴②]]
 	* Geografía física vs. geografía humana en el análisis geopolítico.
 ---
 3. **La evolución histórica de la relación entre geografía y poder:**

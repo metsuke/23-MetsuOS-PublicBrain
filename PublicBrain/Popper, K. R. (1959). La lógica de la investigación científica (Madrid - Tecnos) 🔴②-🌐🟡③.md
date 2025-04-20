@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-02-20T21:52:15.770Z
-modified: 2025-04-10T21:40:20.608Z
+modified: 2025-04-20T14:00:15.203Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,7 +25,7 @@ tags:
 	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️🔴②]]
 	
 
-* [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) pag 30 🔴②-📚🟡③]]
+* [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) pag 30 🟡③-📚🟡③]]
 * [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) pag 40 🔴②-📚🟡③]]
 ## Resumen y análisis
 

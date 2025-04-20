@@ -9,19 +9,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2025-04-10T21:47:06.164Z
+modified: 2025-04-20T13:57:20.115Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 12
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Elementos del conocimiento humano y científico 🔴②-⚖️🔴②
 
-[[Estructura del Conocimiento Humano y Científico ⚫①]]
+* [[Estructura del Conocimiento Humano y Científico ⚫①]]
+	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️🔴②]]
 
 
 ---
@@ -44,7 +45,7 @@ graph LR
 ```
 ## Nivel 2: Formulación de Hipótesis
 
-* **Hipótesis**: Explicaciones provisionales y tentativas que intentan explicar un fenómeno o conjunto de observaciones. Las hipótesis se basan en las observaciones y son la primera etapa en la construcción de teorías (Popper, 1959, p. 30).
+* **Hipótesis**: Explicaciones provisionales y tentativas que intentan explicar un fenómeno o conjunto de observaciones. Las hipótesis se basan en las observaciones y son la primera etapa en la construcción de teorías ([[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) pag 30 🟡③-📚🟡③]])
 
 ```mermaid
 graph LR

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-19T19:01:06.187Z
-modified: 2025-04-10T21:40:20.562Z
+modified: 2025-04-20T14:00:15.194Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 4
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,7 +30,7 @@ La observación y la experimentación constituyen la base fundamental para la co
 
 ## Nivel 2: Formulación de Hipótesis
 
-La formulación de hipótesis representa la primera etapa en la construcción de teorías científicas. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) pag 30 🔴②-📚🟡③]] define una hipótesis como "una explicación provisional y tentativa que intenta dar cuenta de un fenómeno o conjunto de observaciones". Estas hipótesis surgen a partir de las observaciones realizadas y son fundamentales para avanzar en la comprensión de los fenómenos estudiados.
+La formulación de hipótesis representa la primera etapa en la construcción de teorías científicas. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) pag 30 🟡③-📚🟡③]] define una hipótesis como "una explicación provisional y tentativa que intenta dar cuenta de un fenómeno o conjunto de observaciones". Estas hipótesis surgen a partir de las observaciones realizadas y son fundamentales para avanzar en la comprensión de los fenómenos estudiados.
 
 ## Nivel 3: Desarrollo de Teorías
 

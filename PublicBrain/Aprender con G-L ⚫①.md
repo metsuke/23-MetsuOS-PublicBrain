@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.503Z
-modified: 2025-04-16T01:23:13.795Z
+modified: 2025-04-20T14:28:59.943Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 65
+ver_rev: 66
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,50 +23,45 @@ tags:
 
 [[PublicBrain/Index|Index]] | [[PublicBrain/Index#Aprender con ...|Indice Autores]]
 
-* [[Aprender con Fran Gallego  ⚫①]]
-* [[Aprender con Pablo Grueso ⚫①]]
-* [[Aprender con Thomas Kuhn 🔴②]]
-* [[Aprender con Sani Ladam  ⚫①]]
+## G
+- Galán, Clara: Aprender con Clara Galán
+- Galán, Ubàguls_Ubàguls: Aprender con Raquel Ubàguls Galán  
+- Galilei, Galileo: Aprender con Galileo Galilei
+- Gallego, Francisco: [[Aprender con Fran Gallego  ⚫①]]
+* Gaona, Jose Miguel: Aprender con Doctor Jose Miguel Gaona    
+- Goethe (von), Johan Wolfgang: Aprender con Johann Wolfgang von Goethe    
+- Gonazlez Rivas, Fabián: Aprender con Fabián González Rivas
+- Grueso, Pablo: [[Aprender con Pablo Grueso ⚫①]]
+- Guardeño, Lopez: Aprender con Jose Luis Guardeño López    
+
+## H
+- Hemingway, Ernest: Aprender con Ernest Hemingway
+- Homero: Aprender con Homero    
+- Hugo, Victor: Aprender con Victor Hugo    
+- Guxley, Adous; Aprender con Aldous Huxley
+    
+## J
+- Jiménez, Iker: Aprender con Iker Jiménez    
+- Joyce, James: Aprender con James Joyce
+    
+
+## K
+- Kafka, Franz: Aprender con Franz Kafka    
+- Kant, Inmanuel: Aprender con Immanuel Kant    
+- Kepler, Johannes: Aprender con Johannes Kepler
+- Kuhm, Thomas: [[Aprender con Thomas Kuhn 🔴②]]
+
+## L
+- Laborda, Jorge: Aprender con Jorge Laborda Fernández
+- Lakatos, Imre: [[Aprender con Imre Lakatos 🔴②]]
+- Ladam, Sani: [[Aprender con Sani Ladam  ⚫①]]
+- Lencero Guillermo, Rosa: Aprender con Rosa Lencero Guillermo
+    
+
 
 ---
 
 
-## G
-
-- Aprender con Clara Galán
-- Aprender con Raquel Ubàguls Galán  
-- Aprender con Galileo Galilei    
-- Aprender con Doctor Jose Miguel Gaona    
-- Aprender con Johann Wolfgang von Goethe    
-- Aprender con Fabián González Rivas    
-- Aprender con Jose Luis Guardeño López    
-
-## H
-
-- Aprender con Ernest Hemingway    
-- Aprender con Homero    
-- Aprender con Victor Hugo    
-- Aprender con Aldous Huxley
-    
-
-## J
-
-- Aprender con Iker Jiménez    
-- Aprender con James Joyce
-    
-
-## K
-
-- Aprender con Franz Kafka    
-- Aprender con Immanuel Kant    
-- Aprender con Johannes Kepler
-    
-
-## L
-
-- Aprender con Jorge Laborda Fernández    
-- Aprender con Rosa Lencero Guillermo
-    
 
 
 

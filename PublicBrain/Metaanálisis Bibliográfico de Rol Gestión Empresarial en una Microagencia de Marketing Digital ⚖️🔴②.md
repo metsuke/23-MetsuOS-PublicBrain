@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-10T14:35:01.633Z
-modified: 2025-04-14T20:22:15.432Z
+modified: 2025-04-21T00:24:31.643Z
 supervisado: 2024-06-10T14:43:12.089Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 34
+ver_rev: 35
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ A continuación, se presenta un análisis exhaustivo del texto sobre el rol de g
 
 ## Introducción
 
-El texto destaca la importancia del rol de gestión empresarial en una microagencia de marketing digital, que se encarga de entender las necesidades de los clientes, definir el perfil del negocio y delegar la ejecución en las personas elegidas, mientras supervisa los resultados. Esta idea se apoya en el [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔍️ 🔴②-🌐🟡③]], que se centra en la planificación, organización, dirección y control de los recursos para alcanzar los objetivos de la empresa - [[Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th  🔴②-📚🟡③]], p. 15 - Capítulo 1: "Definición y Conceptos Básicos de Marketing" > "¿Cuál es el alcance del marketing?" - p.5  en ediciones 11ª y 12ª - p.27 en edición 15ª. 
+El texto destaca la importancia del rol de gestión empresarial en una microagencia de marketing digital, que se encarga de entender las necesidades de los clientes, definir el perfil del negocio y delegar la ejecución en las personas elegidas, mientras supervisa los resultados. Esta idea se apoya en el [[Paradigma - Teoría de la Gestión Empresarial (Kotler 2003) 🔴②-🌐🟡③]], que se centra en la planificación, organización, dirección y control de los recursos para alcanzar los objetivos de la empresa - [[Libro - Kotler, P. (2003). Marketing Management. 🟡③-📚🟡③]], p. 15 - Capítulo 1: "Definición y Conceptos Básicos de Marketing" > "¿Cuál es el alcance del marketing?" - p.5  en ediciones 11ª y 12ª - p.27 en edición 15ª. 
 
 **La diferencia de pg 5 y 15 en ediciones 1 y 11 respectivamente es confirmada como correcta via ChatGPT. Me vendría bien confirmacion por parte de algun poseedor de la primera edicion.**
 ## Objetivos

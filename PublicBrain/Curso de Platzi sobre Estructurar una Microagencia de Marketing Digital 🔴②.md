@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.083Z
-modified: 2025-04-14T19:53:11.493Z
+modified: 2025-04-21T00:24:31.576Z
 supervisado: 2024-06-10T15:06:30.472Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 58
+ver_rev: 59
 nav_primary: 
 nav_secondary: 
 tags:
@@ -50,7 +50,7 @@ Enlace: [Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital
 
 ### Referencias Bibliográficas
 
-* [[Libro - Kotler, P. (2003). Marketing Management. Prentice Hall Ed 11th  🔴②-📚🟡③]]
+* [[Libro - Kotler, P. (2003). Marketing Management. 🟡③-📚🟡③]]
 * Chaffey, D., & Smith, P. R. (2017). Digital Marketing Excellence: Planning, Optimizing and Future-Proofing Your Digital Marketing. Routledge.
 
 ### Referencias que Refutan

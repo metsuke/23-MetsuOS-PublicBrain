@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-04-17T13:55:59.855Z
+modified: 2025-04-21T00:07:32.645Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 184
+ver_rev: 185
 nav_primary: 
 nav_secondary: 
 tags:
@@ -176,6 +176,12 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Productividad
 
 * [[Aprender sobre Gestión de Tareas ⚫①]]
+
+### Salud
+
+DISCLAIMER: Area extremadamente experimenal
+[[Aprender sobre Nutrición basada en evidencia 🔴②]]
+DISCLAIMER: Area extremadamente experimenal
 
 ### Tecnología
 

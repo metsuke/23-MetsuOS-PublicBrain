@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-03-29T22:03:57.697Z
-modified: 2025-04-06T21:35:34.417Z
+modified: 2025-04-22T16:41:44.803Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,7 @@ tags:
 ## Introducción
 
 - [[Definición de ciencia y método científico 🔴②]]
-  - Conceptos básicos y su evolución histórica
+  - [[Conceptos básicos sobre ciencia y su evolución histórica 🔴②]]
   - Distinción entre ciencia, tecnología y otras formas de conocimiento
 - **Importancia de la historia de la ciencia**
   - Contexto para entender el desarrollo del saber humano

@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: gpt-3.5-turbo
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.526Z
-modified: 2024-10-01T21:01:56.506Z
+modified: 2025-04-22T18:30:11.616Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 32
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 33
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Aprender sobre BabyMetal
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.772Z
-modified: 2024-06-10T15:14:13.880Z
+modified: 2025-04-22T20:31:59.853Z
 supervisado: 2024-05-27T13:38:03.334Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # J-Pop
 
-[[Aprender sobre BabyMetal]]
+[[Aprender sobre BabyMetal ⚫①]]
 
 J-Pop es el término abreviado utilizado para referirse a la música pop japonesa. Es un género musical popular en Japón que combina elementos de la música pop occidental con influencias culturales japonesas. El J-Pop abarca una amplia variedad de estilos y subgéneros, y ha ganado popularidad tanto en Japón como a nivel internacional.
 

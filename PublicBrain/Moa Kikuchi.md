@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.198Z
-modified: 2024-07-16T03:55:43.197Z
+modified: 2025-04-22T20:31:59.868Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Moa Kikuchi
 
-[[Aprender sobre BabyMetal]]
+[[Aprender sobre BabyMetal ⚫①]]
 
 Moa Kikuchi, también conocida como Moa o [[Moametal]], es una cantante y bailarina japonesa. Nació el 4 de julio de 1999 en Aichi, Japón. Es reconocida por su participación en el grupo de música idol BABYMETAL.
 

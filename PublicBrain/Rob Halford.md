@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.651Z
-modified: 2024-09-01T19:41:37.577Z
+modified: 2025-04-22T20:31:59.952Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Rob Halford
 
-[[Aprender sobre BabyMetal]]
+[[Aprender sobre BabyMetal ⚫①]]
 
 Rob Halford, cuyo nombre completo es Robert John Arthur Halford, es un reconocido cantante británico de heavy metal. Nació el 25 de agosto de 1951 en Sutton Coldfield, Inglaterra. Es famoso por ser el vocalista principal de la legendaria banda de heavy metal Judas Priest.
 

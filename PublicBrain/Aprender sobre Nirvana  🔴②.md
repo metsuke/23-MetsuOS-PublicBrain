@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.570Z
-modified: 2024-11-03T00:24:42.542Z
+modified: 2025-04-22T20:31:59.761Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Aprender sobre cultura internacional a través de los idiomas]]
 
-Siguiendo la estela del proyecto [[Aprender sobre BabyMetal]], iniciamos el proyecto equivalente con el grupo Nirvana.
+Siguiendo la estela del proyecto [[Aprender sobre BabyMetal ⚫①]], iniciamos el proyecto equivalente con el grupo Nirvana.
 
 ## Sobre Nirvana
 ![Logo Nirvana from worldvectorlogo](https://cdn.worldvectorlogo.com/logos/nirvana.svg)

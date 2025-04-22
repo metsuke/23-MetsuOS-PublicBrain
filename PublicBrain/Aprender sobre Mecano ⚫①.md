@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.563Z
-modified: 2024-07-22T09:32:53.274Z
+modified: 2025-04-22T20:31:59.711Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 76
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[PublicBrain/Index]] | [[Discografía de Mecano]]
 
-Iniciamos, siguiendo la estela del proyecto [[Aprender sobre BabyMetal]], el proceso de aprendizaje en torno al grupo Mecano.
+Iniciamos, siguiendo la estela del proyecto [[Aprender sobre BabyMetal ⚫①]], el proceso de aprendizaje en torno al grupo Mecano.
 
 He elegido este grupo, además de por mi implicación emocional, porque en estos tiempos de maniqueísmo creo que es bueno explicar de donde venimos, el entorno socio-cultural de la época y porque "[[mariconez]]" en aquel contexto debería ser abrazado como símbolo de la batalla contra el machismo imperante en España durante el siglo XX y no denostado, como se hace - en el contexto de las letras de Mecano - desde el desconocimiento histórico y con desprecio absoluto por el inmenso salto adelante que dieron entonces respecto a de donde venían, solo porque no están a nivel de nuestro estándar moral actual.
 

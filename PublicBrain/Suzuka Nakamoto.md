@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.744Z
-modified: 2024-09-07T19:59:37.117Z
+modified: 2025-04-22T20:31:59.982Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Suzuka Nakamoto
 
-[[Aprender sobre BabyMetal]]
+[[Aprender sobre BabyMetal ⚫①]]
 
 Suzuka Nakamoto, también conocida por su nombre artístico [[Su-Metal]], es una cantante japonesa nacida el 20 de diciembre de 1997 en Hiroshima, Japón. Es reconocida por ser la vocalista principal del grupo de música idol japonés [[BABYMETAL]].
 

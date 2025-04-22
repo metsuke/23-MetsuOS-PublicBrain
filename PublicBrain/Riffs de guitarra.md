@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.649Z
-modified: 2024-08-31T15:07:23.995Z
+modified: 2025-04-22T20:31:59.914Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Riffs de guitarra
 
-[[Aprender sobre BabyMetal]]
+[[Aprender sobre BabyMetal ⚫①]]
 
 Los riffs de guitarra son [[Frases musicales]]distintivas y reconocibles que se tocan en la guitarra eléctrica o acústica. Generalmente, se caracterizan por ser repetitivos, pegajosos y fáciles de reconocer. Los riffs de guitarra se encuentran en una amplia variedad de géneros musicales, como el rock, el blues, el funk y el metal.
 

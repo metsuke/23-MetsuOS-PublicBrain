@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.954Z
-modified: 2024-09-29T14:19:11.500Z
+modified: 2025-04-22T20:31:59.990Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Yuimetal
 
-[[Aprender sobre BabyMetal]]
+[[Aprender sobre BabyMetal ⚫①]]
 
 
 Yuimetal, cuyo nombre real es [[Yui Mizuno]], es una exintegrante del grupo de música idol japonés [[BABYMETAL]]. Nació el 20 de junio de 1999 en Hiroshima, Japón.

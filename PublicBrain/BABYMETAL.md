@@ -9,16 +9,16 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.786Z
-modified: 2024-07-28T02:10:27.790Z
+modified: 2025-04-22T20:31:59.810Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 29
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # BABYMETAL
 
-Véase "[[Aprender sobre BabyMetal]]"
+Véase "[[Aprender sobre BabyMetal ⚫①]]"

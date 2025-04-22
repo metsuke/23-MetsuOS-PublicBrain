@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.971Z
-modified: 2024-10-09T13:21:17.205Z
+modified: 2025-04-22T20:32:00.002Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 30
+ver_rev: 31
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # japonés
 
-[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas ⚫①]] | [[Aprender sobre BabyMetal]]
+[[PublicBrain/Index]] | [[Estadísticas sobre Idiomas ⚫①]] | [[Aprender sobre BabyMetal ⚫①]]
 
 El idioma japonés es el idioma oficial de Japón y se habla por aproximadamente 128 millones de personas en todo el mundo. Es un idioma muy interesante y tiene características únicas que lo hacen diferente de otros idiomas.
 

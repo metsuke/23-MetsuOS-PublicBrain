@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.587Z
-modified: 2024-06-10T15:26:27.134Z
+modified: 2025-04-22T20:31:59.778Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 76
+ver_rev: 77
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[PublicBrain/Index]]
 
-Iniciamos, siguiendo la estela del proyecto [[Aprender sobre BabyMetal]], el proceso de aprendizaje en torno al grupo Rammstein.
+Iniciamos, siguiendo la estela del proyecto [[Aprender sobre BabyMetal ⚫①]], el proceso de aprendizaje en torno al grupo Rammstein.
 
 ## Sobre Rammstein
 

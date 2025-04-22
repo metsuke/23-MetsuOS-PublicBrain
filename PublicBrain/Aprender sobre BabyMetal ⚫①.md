@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.526Z
-modified: 2025-04-22T18:30:11.616Z
+modified: 2025-04-22T20:28:39.982Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 33
+ver_rev: 34
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender sobre BabyMetal
+# Aprender sobre BabyMetal ⚫①
 
 [[PublicBrain/Index]]
 
@@ -50,7 +50,10 @@ En resumen, BABYMETAL es un grupo musical japonés que fusiona el heavy metal co
 * [(115) All About KITSUNE: Japanese foxes in folklore, religion and, of course, BABYMETAL. With AJ Hartley. - YouTube](https://www.youtube.com/watch?v=Tb1eI_NrK-o&t=48s)
 * [BABYMETAL and Tom Morello: Metali: Welcome to the metal village! A walk through with AJ Hartley](https://www.youtube.com/watch?v=gZA7J763h50)
 
+* [[Listado de Conciertos de Bab Metal (2010-2025) 🔴②]]
 
+
+## Discografía
 ### Álbum: "Babymetal" (2014)
  
 1. "[[BabyMetal Death]]" ([[Letra "BabyMetal Death"]]) <-- Work Pointer

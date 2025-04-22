@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.793Z
-modified: 2024-06-10T15:26:27.095Z
+modified: 2025-04-22T20:31:59.820Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # BabyMetal Death
 
-[[Aprender sobre BabyMetal]] | [[Letra "BabyMetal Death"]]
+[[Aprender sobre BabyMetal ⚫①]] | [[Letra "BabyMetal Death"]]
 
 "BabyMetal Death" es una canción del grupo musical japonés Babymetal. Fue lanzada como parte de su álbum debut homónimo "Babymetal" en 2014. La canción es una introducción energética y potente que establece el tono para el estilo musical único y la estética del grupo.
 

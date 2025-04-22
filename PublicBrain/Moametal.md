@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.199Z
-modified: 2024-07-16T03:55:59.357Z
+modified: 2025-04-22T20:31:59.887Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Moametal
 
-[[Aprender sobre BabyMetal]]
+[[Aprender sobre BabyMetal ⚫①]]
 
 Moametal, cuyo nombre real es [[Moa Kikuchi]], es una talentosa cantante y bailarina japonesa. Nació el 4 de julio de 1999 en Aichi, Japón. Es reconocida por ser una exintegrante del famoso grupo de música idol [[BABYMETAL]].
 

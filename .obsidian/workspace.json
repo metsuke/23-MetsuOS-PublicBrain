@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f43aea7ae00977cd",
+        "id": "4e67456f3d5623f7",
         "type": "tabs",
         "children": [
           {
-            "id": "4d02b50072ff5ec0",
+            "id": "68871aa855f61961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Hipótesis - La ciencia no avanza solo acumulando conocimientos, sino que es un proceso histórico lleno de cambios profundos 🟡③.md",
+                "file": "PublicBrain/¿Qué es la nutrición basada en evidencia y por qué importa? 🔴②.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hipótesis - La ciencia no avanza solo acumulando conocimientos, sino que es un proceso histórico lleno de cambios profundos 🟡③"
-            }
-          },
-          {
-            "id": "872e1bb035495a01",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "¿Qué es la nutrición basada en evidencia y por qué importa? 🔴②"
             }
           }
         ]
@@ -204,11 +192,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4d02b50072ff5ec0",
+  "active": "68871aa855f61961",
   "lastOpenFiles": [
+    "PublicBrain/Aprender sobre Nutrición basada en evidencia 🔴②.md",
+    "¿Qué es la nutrición basada en evidencia y por qué importa? 🔴②.md",
+    "PublicBrain/¿Qué es la nutrición basada en evidencia y por qué importa? 🔴②.md",
+    "PublicBrain/_resources/Aprender sobre Nutrición basada en evidencia 🔴②",
+    "PublicBrain/Index.md",
+    "PublicBrain/Hipótesis - La ciencia no avanza solo acumulando conocimientos, sino que es un proceso histórico lleno de cambios profundos 🟡③.md",
     "PublicBrain/Estudiando libro -  La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②.md",
     "PublicBrain/Teoría filosófica -  Teoría de las Revolucteiones Científicas - Thomas Kuhn  🔴②.md",
-    "PublicBrain/Hipótesis - La ciencia no avanza solo acumulando conocimientos, sino que es un proceso histórico lleno de cambios profundos 🟡③.md",
     "Teoría -  Teoría de las Revolucteiones Científicas - Thomas Kuhn  🔴②.md",
     "Teoría -  Teoría de las Revoluciones Científicas - Thomas Kuhn  🔴②.md",
     "PublicBrain/Teoría -  Teoría de las Revoluciones Científicas - Thomas Kuhn  🔴②.md",
@@ -216,7 +209,6 @@
     "PublicBrain/Teoria - Teoria de las Revoluciones Científicas - Thomas Kuhn.md",
     "La ciencia no avanza solo acumulando conocimientos, sino que es un proceso histórico lleno de cambios profundos  🔴②.md",
     "PublicBrain/Apoya el proyecto.md",
-    "PublicBrain/Index.md",
     "PublicBrain/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③.md",
     "PublicBrain/_resources/Estudiando libro -  La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②",
     "PublicBrain/Estudiando El Orden del Tiempo - Carlo Rovelli ⚫①.md",
@@ -230,9 +222,6 @@
     "Listado de Conciertos de Baby Metal (2010-2025) 🔴②.md",
     "PublicBrain/Listado de Conciertos de Baby Metal (2010-2025) 🔴②.md",
     "PublicBrain/Conceptos básicos sobre ciencia y su evolución histórica 🔴②.md",
-    "PublicBrain/Aprender sobre cultura internacional a través de los idiomas.md",
-    "PublicBrain/Historia de la Ciencia y del Método Científico ⚫①.md",
-    "PublicBrain/Definición de ciencia y método científico 🔴②.md",
     "PublicBrain/_resources/Aprender con Q-Z ⚫①",
     "PublicBrain/_resources/Aprender con Thomas Kuhn 🔴②",
     "PublicBrain/_resources/Aprender con G-L ⚫①",
@@ -242,7 +231,6 @@
     "PublicBrain/_resources/Importancia del Storytelling en diferentes contextos ⚫①",
     "PublicBrain/_resources/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) pag 30 🔴②-📚🟡③",
     "PublicBrain/_resources/Metaanálisis - Elementos del conocimiento humano y científico ⚖️🔴②",
-    "PublicBrain/_resources/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos), p. 20   🟡③-🟡③📚",
     "_resources/Test Logo con Grok/8b6b8bae1afc813ff292c77196051719_MD5.png",
     "_resources/Test Logo con Grok/50c149e1c01fb66c590f64f2e3a2466b_MD5.png",
     "_resources/Test Logo con Grok/8a30b1ec7faae8040b14c9b711bbded9_MD5.png",

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-21T00:08:20.537Z
-modified: 2025-04-21T00:09:37.194Z
+modified: 2025-04-23T02:50:05.364Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,11 +23,9 @@ tags:
 
 [[PublicBrain/Index|Index]]
 
-# Curso: Nutrición Basada en Evidencia
-
 ## Introducción a la Nutrición Basada en Evidencia
 
-- ¿Qué es la nutrición basada en evidencia y por qué importa?
+- [[¿Qué es la nutrición basada en evidencia y por qué importa? 🔴②]]
 - Cómo distinguir la ciencia sólida de la pseudociencia y las historias personales.
 - Métodos científicos clave: ensayos clínicos, revisiones sistemáticas y metaanálisis.
 - Cómo evaluar estudios nutricionales: detectar sesgos, analizar muestras y validar resultados.

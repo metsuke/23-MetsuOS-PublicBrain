@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-16T01:51:12.631Z
-modified: 2025-04-16T07:32:56.645Z
+modified: 2025-04-23T02:09:18.422Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -180,7 +180,7 @@ Esta guía ofrece una estructura clara y detallada para explorar en profundidad 
 
 ### 8.1. Bibliografía Recomendada
 
-- [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
 - Kuhn, T. S. (1957). _La revolución copernicana_. Cambridge, MA: "H"arvard University Press.
 - Bird, A. (2000). _Thomas Kuhn_. Princeton: Princeton University Press.
 - Hoyningen-Huene, P. (1993). _Reconstruyendo las revoluciones científicas: La filosofía de la ciencia de Thomas S. Kuhn_. Chicago: University of Chicago Press.
@@ -202,7 +202,7 @@ Esta guía ofrece una estructura clara y detallada para explorar en profundidad 
 
 ### 9.1. Fuentes que Apoyan el Contenido
 
-- [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]].  
+- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]].  
     _Obra seminal que introduce los conceptos de paradigma, ciencia normal y revoluciones científicas, fundamento de esta guía._
 - Bird, A. (2000). _Thomas Kuhn_. Princeton: Princeton University Press.  
     _Análisis exhaustivo de la vida y obra de Kuhn, con énfasis en su impacto filosófico._

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-19T19:01:06.187Z
-modified: 2025-04-20T14:00:15.194Z
+modified: 2025-04-23T02:09:18.525Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 4
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -58,7 +58,7 @@ Las metodologías y técnicas son herramientas esenciales para la recopilación 
 
 ## Referencias Bibliográficas que Apoyan el Contenido
 
-1. [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+1. [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
 2. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
 3. **Lakatos, I. (1970).** *Falsificación y la metodología de los programas de investigación científica.* Cambridge: Cambridge University Press.
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-10T19:39:10.201Z
-modified: 2025-04-20T14:00:15.114Z
+modified: 2025-04-23T02:09:18.535Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -56,7 +56,7 @@ En este sentido, la hipótesis no es un destino final, sino el primer paso de un
 
 ## Fuentes que refutan o cuestionan el contenido
 
-- [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]] 
+- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]] 
   Kuhn argumenta que la ciencia no avanza solo por falsación de hipótesis, sino a través de paradigmas que dominan períodos de “ciencia normal”, contradiciendo la visión lineal de Popper.
 - **Feyerabend, P. (1975). *Contra el método*. Barcelona: Ariel.**  
   Feyerabend rechaza el énfasis de Popper en un método rígido como el falsacionismo, defendiendo que la ciencia progresa de manera más caótica y menos dependiente de hipótesis estructuradas.

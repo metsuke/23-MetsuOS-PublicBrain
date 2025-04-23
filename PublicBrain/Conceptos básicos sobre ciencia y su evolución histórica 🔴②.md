@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-22T16:43:05.201Z
-modified: 2025-04-22T20:25:06.697Z
+modified: 2025-04-23T02:09:18.458Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -133,7 +133,7 @@ La ciencia es una aventura humana, un esfuerzo por entender quiénes somos y dó
 
 - [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
     - Respalda el concepto de falsabilidad como característica esencial de la ciencia.
-- [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
     - Apoya la idea de que la ciencia avanza mediante cambios de paradigmas.
 - **Bacon, F. (1620).** _Novum Organum_. (Edición moderna: Cambridge University Press, 2000).
     - Valida el énfasis en el empirismo y el método inductivo en la ciencia moderna.

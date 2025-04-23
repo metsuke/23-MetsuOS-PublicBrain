@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-10T19:37:34.179Z
-modified: 2025-04-10T21:42:09.797Z
+modified: 2025-04-23T02:09:18.547Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -58,7 +58,7 @@ La página 40 de Popper nos deja con una idea clara: consolidar el conocimiento 
 - Este libro apoya la idea de Popper de que las leyes científicas son herramientas provisionales sujetas a refutación, explicándola de forma accesible.
 
 ## Fuentes que refutan o cuestionan el contenido
-- [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
   Kuhn discrepa de Popper al proponer que las leyes no se establecen solo por falsación, sino dentro de paradigmas aceptados que guían la ciencia normal, hasta que una revolución las cambia.
 - **Feyerabend, P. (1975). *Contra el método*. Barcelona: Ariel.**  
   Feyerabend critica la rigidez del falsacionismo y argumenta que las leyes científicas a veces se consolidan por factores históricos o prácticos, no solo por pruebas sistemáticas.

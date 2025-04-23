@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-19T19:13:13.878Z
-modified: 2024-12-19T21:53:47.809Z
+modified: 2025-04-23T02:09:18.504Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Kuhn, T. S. (1962. La estructura de las revoluciones científicas p. 10) 🔴②
 
-[[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+[[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
 ## Introducción
 
 En su obra "La estructura de las revoluciones científicas", Thomas Kuhn introduce el concepto de "paradigma" en la página 10, marcando el comienzo de su teoría sobre la naturaleza de la ciencia y el cambio científico.
@@ -34,7 +34,7 @@ Kuhn argumenta que los paradigmas no son solo teorías o hipótesis, sino que so
 La teoría de Kuhn sobre los paradigmas y el cambio científico tiene importantes implicaciones para nuestra comprensión de la ciencia y su desarrollo. Según Kuhn, la ciencia avanza a través de revoluciones paradigmáticas, en lugar de a través de un proceso gradual y acumulativo de descubrimientos.
 ## Referencias bibliográficas que apoyan la teoría de Kuhn
 
-* [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+* [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
 * Lakatos, I. (1970). La metodología de los programas de investigación científica. Madrid: Alianza Editorial.
 * Feyerabend, P. (1975). Contra el método. Madrid: Ariel.
 ## Referencias bibliográficas que refutan la teoría de Kuhn

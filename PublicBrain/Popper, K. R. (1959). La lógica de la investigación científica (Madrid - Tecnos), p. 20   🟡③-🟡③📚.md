@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-03-31T04:50:10.013Z
-modified: 2025-04-10T21:47:06.219Z
+modified: 2025-04-23T02:09:18.554Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -95,7 +95,7 @@ La página 20 de *La lógica de la investigación científica* es como un peque�
 
 ### Fuentes que refutan o matizan el contenido
 
-- [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
   Sugiere que la ciencia no depende solo de refutar, como implica Popper, sino que usa la inducción dentro de paradigmas aceptados.
 - **Feyerabend, P. (1975). *Contra el método*.** Madrid: Ariel.  
   Cuestiona que rechazar la inducción sea práctico, defendiendo que la ciencia real no sigue reglas tan estrictas.

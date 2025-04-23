@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-03-23T21:40:20.221Z
-modified: 2025-04-10T19:35:00.847Z
+modified: 2025-04-23T02:09:18.497Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -69,7 +69,7 @@ La página 10 de *La estructura de las revoluciones científicas* es un punto de
 
 ## Referencias Bibliográficas que apoyan el contenido
 
-* [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+* [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
 
 ## Referebcias Bibliográficas que refutan el contenido
 

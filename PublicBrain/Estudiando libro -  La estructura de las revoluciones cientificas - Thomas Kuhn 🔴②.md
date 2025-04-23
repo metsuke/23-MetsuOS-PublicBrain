@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-12T01:20:26.029Z
-modified: 2025-04-14T20:48:11.901Z
+modified: 2025-04-23T02:09:18.588Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Estudiando La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②
+# Estudiando libro -  La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②
 
-* [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+* [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
 	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
 
 Esta guía está pensada para ayudarte a explorar en profundidad *La estructura de las revoluciones científicas* de Thomas S. Kuhn, un libro que transformó nuestra forma de entender el desarrollo de la ciencia. A través de secciones organizadas, desglosamos los conceptos fundamentales, proponemos preguntas para reflexionar, conectamos con ejemplos históricos y ofrecemos herramientas prácticas para que estudies de manera crítica y estructurada. ¡Prepárate para cuestionar cómo funciona la ciencia!
@@ -29,7 +29,7 @@ Esta guía está pensada para ayudarte a explorar en profundidad *La estructura 
 ## 1. Introducción: El punto de partida de Kuhn
 
 ### Contenido clave
-- La ciencia no avanza solo acumulando conocimientos, sino que es un proceso histórico lleno de cambios profundos.
+- [[Hipótesis - La ciencia no avanza solo acumulando conocimientos, sino que es un proceso histórico lleno de cambios profundos 🟡③]]
 - Introducción al concepto de *paradigma*: un marco que guía el trabajo científico.
 - Crítica a la idea de que el progreso científico es lineal y sin rupturas.
 
@@ -257,7 +257,7 @@ Esta guía está pensada para ayudarte a explorar en profundidad *La estructura 
 
 Estas fuentes respaldan la interpretación de Kuhn sobre los paradigmas y las revoluciones científicas:
 
-- [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
   - Edición en español del libro original, base de esta guía.
 - Hoyningen-Huene, P. (1999). *La filosofía de la ciencia de Thomas Kuhn: Reconstrucción y fundamentos*. Madrid: Trotta.  
   - Ofrece una defensa clara de los conceptos de Kuhn, especialmente sobre paradigmas y ciencia normal.

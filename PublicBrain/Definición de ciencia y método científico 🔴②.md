@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-06T21:24:16.966Z
-modified: 2025-04-22T16:41:16.685Z
+modified: 2025-04-23T02:09:18.480Z
 supervisado: ""
 ACCION: ""
 ver_major: "0"
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -106,7 +106,7 @@ La ciencia es nuestra forma de descifrar el mundo, y el método científico es c
 
 ### Fuentes que matizan o cuestionan
 
-- [[Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🔴②-🌐🟡③]]
+- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
   - [[Kuhn, T. S. (1962. La estructura de las revoluciones científicas p. 10) 🔴②]]: La ciencia avanza por paradigmas, no solo por el método.  
   - Página 111: Revoluciones que rompen la linealidad.
 - **Feyerabend, P. (1975). *Against Method*. Londres: NLB.**  

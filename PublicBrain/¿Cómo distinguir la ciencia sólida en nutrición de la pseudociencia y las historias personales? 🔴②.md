@@ -1,6 +1,9 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
@@ -10,7 +13,7 @@ modified: 2025-04-23T16:34:30.327Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
+ver_minor: 2
 ver_rev: 1
 nav_primary: 
 nav_secondary: 

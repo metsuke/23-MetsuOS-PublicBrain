@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.421Z
-modified: 2025-04-13T03:02:17.565Z
+modified: 2025-04-23T18:01:46.874Z
 supervisado: 2024-05-27T13:37:59.811Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 82
+ver_rev: 83
 nav_primary: 
 nav_secondary: 
 tags:
@@ -43,6 +43,11 @@ tags:
 
 * [[égloga 🔴②]]
 * [[solaz  🔴②]]
+
+## Registro Formal, Filosófico y Científico
+
+* [[epistemología 🔴②]]
+
 
 ## Informacion Adicional
 

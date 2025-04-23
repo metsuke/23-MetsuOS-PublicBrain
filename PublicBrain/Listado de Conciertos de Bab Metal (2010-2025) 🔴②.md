@@ -1,20 +1,23 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-04-22T20:31:28.485Z
-modified: 2025-04-22T20:32:34.467Z
+modified: 2025-04-23T12:29:26.861Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 1
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 2
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Listado de Conciertos de Bab Metal (2010-2025) 🔴②
 
@@ -74,7 +77,7 @@ Desde el lanzamiento de su álbum debut _BABYMETAL_ en 2014, la banda ha encabez
 - **Destinos**: Norteamérica (EE.UU.), Europa (Países Bajos, Reino Unido), Japón.
 - **Momentos estelares**:
     - Conciertos en Kansas City y Nashville, con una formación renovada.
-    - 18-19 de diciembre de 2017: Hiroshima, Japón, celebrando el 20º cumpleaños de Su-metal.
+    - 18-19 de diciembre de 2017: "H"iroshima, Japón, celebrando el 20º cumpleaños de Su-metal.
 - **Dato curioso**: Unos 20-25 shows, con fans apoyando a la banda en un momento de transición.
 
 ### 2.5.  : La Galaxia del Metal (junio-noviembre 2019)
@@ -86,6 +89,8 @@ Desde el lanzamiento de su álbum debut _BABYMETAL_ en 2014, la banda ha encabez
     - Shows en Saitama Super Arena, Japón, llenos de energía.
     - Glastonbury 2019, Reino Unido, un hito en un festival no metal.
 - **Dato curioso**: Aproximadamente 30 shows, con críticas que alabaron la madurez de Moametal y Su-metal.
+
+* [[2020 - Babymetal - Legend - Metal Galaxy - World Tour In Japan Extra Show - Day-1  🔴②]]
 
 ### 2.6. BABYMETAL World Tour 2023: El Regreso Triunfal (abril 2023-marzo 2024)
 
@@ -170,7 +175,7 @@ BABYMETAL está lista para su mayor aventura: una gira de arenas en Europa y Nor
 ¿Quieres saber cada fecha, venue y setlist? Aquí tienes dónde buscar:
 
 - **Setlist.fm**: Listas detalladas de canciones y fechas de cada concierto.
-- **BABYMETAL Wiki**: Información sobre giras, festivales y eventos especiales.
+- **BABYMETAL Wiki**: "I"nformación sobre giras, festivales y eventos especiales.
 - **babymetal.com**: Anuncios oficiales y resúmenes de giras.
 - **@BABYMETAL_JAPAN en X**: Actualizaciones en tiempo real.
 - **Concert Archives**: Fotos y videos de fans en cada show.

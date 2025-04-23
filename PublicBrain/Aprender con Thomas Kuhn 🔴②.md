@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-16T01:51:12.631Z
-modified: 2025-04-23T02:09:18.422Z
+modified: 2025-04-23T15:46:11.204Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender con Thomas Kuhn 🔴②
 
-[[PublicBrain/Index|Index]]| | [[PublicBrain/Index#Aprender con ...|Indice Autores]]
+[[PublicBrain/Index|Index]]| | [[Aprender con 🔴②]]]
 
 Esta guía ofrece una estructura clara y detallada para explorar en profundidad la vida, el contexto y las contribuciones del filósofo e historiador de la ciencia Thomas S. Kuhn, con un enfoque especial en su obra fundamental _La estructura de las revoluciones científicas_ (1962). Diseñada para estudiantes, académicos y cualquier persona interesada en su pensamiento, esta guía busca facilitar un estudio sistemático y enriquecedor, combinando análisis teórico con actividades prácticas.
 
@@ -31,7 +31,7 @@ Esta guía ofrece una estructura clara y detallada para explorar en profundidad 
 
 - **Nacimiento y formación**: Thomas Samuel Kuhn (1922-1996) nació en Cincinnati, Ohio, Estados Unidos.
 - **Educación**: Estudió física en la Universidad de Harvard, donde obtuvo su doctorado en 1949.
-- **Trayectoria académica**: "I"mpartió clases en instituciones prestigiosas como Harvard, Berkeley, Princeton y el MIT.
+- **Trayectoria académica**: Impartió clases en instituciones prestigiosas como Harvard, Berkeley, Princeton y el MIT.
 - **Intereses personales**: Su pasión por la historia y la filosofía de la ciencia moldeó su perspectiva única.
 
 ### 1.2. Contexto Histórico e Intelectual
@@ -40,7 +40,10 @@ Esta guía ofrece una estructura clara y detallada para explorar en profundidad 
 - **Filosofía de la ciencia**: Influenciado por pensadores como Karl Popper, Ludwik Fleck y Norwood Russell Hanson.
 - **Contexto cultural**: En la posguerra, se cuestionaba la autoridad científica y se valoraban enfoques interdisciplinarios.
 
-**Actividad sugerida**: Consulta una biografía breve de Kuhn, como la disponible en la _Stanford Encyclopedia of Philosophy_, y escribe un resumen sobre cómo su formación en física influyó en su enfoque filosófico.
+### 1.3 Lecturas Sugeridas
+* Biografía breve de Thomas Kuhn en Stanford Encyclopedia of Philosophy
+* [[Biografía de Thomas Kuhn 🔴②]],
+* ¿Cómo influyó la formación en física de Thomas Kuhn en su enfoque filosófico?
 
 ## 2. Obra Principal: _La estructura de las revoluciones científicas_
 

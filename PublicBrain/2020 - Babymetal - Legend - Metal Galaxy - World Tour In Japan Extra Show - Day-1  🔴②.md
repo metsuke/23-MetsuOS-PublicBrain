@@ -1,6 +1,9 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
@@ -10,11 +13,11 @@ modified: 2025-04-23T12:40:44.622Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
+ver_minor: 2
 ver_rev: 1
-nav_primary: []
-nav_secondary: []
-tags: []
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # 2020 - Babymetal - Legend - Metal Galaxy - World Tour In Japan Extra Show - Day-1  🔴②
 

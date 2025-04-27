@@ -9,16 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T20:41:29.428Z
-modified: 2025-04-21T00:45:51.925Z
+modified: 2025-04-27T14:28:30.705Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
 ---
+-
 # Estructura del Conocimiento Humano y Científico ⚫①
 
 [[PublicBrain/Index]]
@@ -30,7 +31,7 @@ Aquí te dejo el índice técnico exhaustivo y detallado para un curso sobre "Es
 
 * [[Definición y concepto de conocimiento 🔴②]]
 * [[Importancia del conocimiento en la sociedad actual 🔴②]]
-* Breve historia del conocimiento humano
+* [[Breve historia del conocimiento humano 🔴②]]
 * Objetivos y enfoques del curso
 ## Fundamentos Filosóficos del Conocimiento
 

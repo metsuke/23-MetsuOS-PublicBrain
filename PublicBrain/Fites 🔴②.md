@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-03-26T22:53:13.384Z
-modified: 2025-04-09T00:06:24.999Z
+modified: 2025-04-27T12:11:41.476Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Fites 🔴②
+# fites 🔴②
 
 [[Aprender Idioma Catalán ⚫①]]
 

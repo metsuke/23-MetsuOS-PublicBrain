@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-04-23T18:15:55.189Z
+modified: 2025-04-27T12:10:33.149Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 187
+ver_rev: 188
 nav_primary: 
 nav_secondary: 
 tags:
@@ -74,8 +74,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 ## Aprender Idiomas y Cultura
 
 * Estructura del aprenddizaje humano
-	* 
-* Estructura de los Idiomas Humanos
+	* Estructura de los Idiomas Humanos
 	* Elementos de los idiomas Humanos
 * [[Aprender Idiomas ⚫①]]
 * [[Aprender sobre sistemas de escritura]]

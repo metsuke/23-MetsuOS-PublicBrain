@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-09T00:05:50.442Z
-modified: 2025-04-09T00:36:48.114Z
+modified: 2025-04-27T12:11:56.531Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Defugir  🔴②
+# defugir  🔴②
 
 [[Aprender Idioma Catalán ⚫①]]
 

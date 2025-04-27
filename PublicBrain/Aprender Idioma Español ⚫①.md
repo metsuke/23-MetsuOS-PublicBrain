@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.421Z
-modified: 2025-04-23T18:01:46.874Z
+modified: 2025-04-27T12:19:00.788Z
 supervisado: 2024-05-27T13:37:59.811Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 83
+ver_rev: 84
 nav_primary: 
 nav_secondary: 
 tags:
@@ -48,6 +48,9 @@ tags:
 
 * [[epistemología 🔴②]]
 
+### Registro Ligeramente Formal
+
+[[enfurismar (es)  🔴②]]
 
 ## Informacion Adicional
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-10T14:35:01.633Z
-modified: 2025-04-21T00:24:31.643Z
+modified: 2025-04-27T14:18:22.098Z
 supervisado: 2024-06-10T14:43:12.089Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 35
+ver_rev: 36
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,7 +34,7 @@ El texto destaca la importancia del rol de gestión empresarial en una microagen
 
 Los objetivos del rol de gestión empresarial en una microagencia de marketing digital se centran en:
 
-* Entender las necesidades de los clientes: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️🔴②-🌐🟡③]], que se centra en comprender las necesidades y deseos de los clientes para desarrollar estrategias efectivas ([[Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③]])**.
+* Entender las necesidades de los clientes: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️🟡③-🌐🟡③]], que se centra en comprender las necesidades y deseos de los clientes para desarrollar estrategias efectivas ([[Cita de Apoyo - Hoffman & Novak, 1996, p. 5 📚🔴②-🔬🟡③]])**.
 * Definir el perfil del negocio: Esta idea se relaciona con el [[Paradigma - Teoría de la Planificación Estratégica - Prahalad & Hamel, 1990  🔍️ 🔴②-🌐🟡③]], que se centra en analizar la situación actual de la empresa y definir objetivos y estrategias para alcanzarlos ([[Paper - Prahalad & Hamel, 1990, p. 82 🔬 🔴②-🌐🟡③]]).
 * Delegar la ejecución en las personas elegidas: Esta idea se basa en el [[Paradigma - Teoría de la Delegación 🔍️ 🔴②-🌐🟡③]], que se centra en asignar responsabilidades y autoridad a los empleados para que puedan realizar tareas específicas ([[Concepto - Delegación Efectiva - Drucker, 1954 📚  🔴②-🌐🟡③]]).
 * Supervisar los resultados: Esta idea se relaciona con el [[Paradigma - Teoría del Control de Gestión 🔍️🔴②-🌐🟡③]], que se centra en monitorear y evaluar el desempeño de la empresa para asegurar que se alcanzan los objetivos ([[Porter, 1985, p. 45 📚 🔴②-🌐🟡③]]).
@@ -45,7 +45,7 @@ El texto describe cuatro procesos clave para el rol de gestión empresarial en u
 
 ### 1. Análisis de la Situación
 
-* Definir la propuesta de valor: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️🔴②-🌐🟡③]], que se centra en desarrollar una propuesta de valor única y atractiva para los clientes ([[Kotler, 2003, p. 241 📚🔴②-🌐🟡③]]).
+* Definir la propuesta de valor: Esta idea se basa en el [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️🟡③-🌐🟡③]], que se centra en desarrollar una propuesta de valor única y atractiva para los clientes ([[Kotler, 2003, p. 241 📚🔴②-🌐🟡③]]).
 * Definir el público objetivo: Esta idea se relaciona con el [[Paradigma - Teoría de la Segmentación de Mercados 🔍️🔴②-🌐🟡③]], que se centra en identificar y analizar los segmentos de mercado objetivo ([[Hoffman & Novak, 1996, p. 10 📚⚫①]]).
 * Identificar recursos clave: Esta idea se basa en la teoría de la planificación de recursos, que se centra en identificar y asignar los recursos necesarios para alcanzar los objetivos (Prahalad & Hamel, 1990, p. 95).
 * Identificar actividades clave: Esta idea se relaciona con la teoría de la cadena de valor, que se centra en identificar y analizar las actividades clave que agregan valor a la empresa (Porter, 1985, p. 67).

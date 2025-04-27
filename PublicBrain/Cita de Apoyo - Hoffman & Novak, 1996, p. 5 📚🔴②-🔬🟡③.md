@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-15T01:57:54.432Z
-modified: 2024-08-02T15:30:28.646Z
+modified: 2025-04-27T14:17:04.117Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -50,7 +50,7 @@ En esencia, los autores enfatizan la importancia de ir más allá de los modelos
 
 ## Referencias bibliográficas que apoyan el contenido
 
-* [[Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②-🌐🟡③]]
+* [[Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬🟡③-🌐🟡③]]
 * Rafaeli, S. (1988). Interactivity: From New Media to Communication. Sage Publications.
 
 ## Referencias que complementan el contenido.

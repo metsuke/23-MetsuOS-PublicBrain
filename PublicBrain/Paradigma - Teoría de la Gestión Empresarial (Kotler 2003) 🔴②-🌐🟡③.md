@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-11T21:17:55.520Z
-modified: 2025-04-21T00:24:31.660Z
+modified: 2025-04-27T14:18:22.128Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 16
+ver_rev: 17
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,7 +32,7 @@ La teoría de Philip Kotler se basa en la filosofía de la gestión de marketing
 
 ### 1. Orientación al cliente
 
-La organización se centra en entender y satisfacer las necesidades de los clientes ( [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️🔴②-🌐🟡③]],)
+La organización se centra en entender y satisfacer las necesidades de los clientes ( [[Paradigma - Teoría del Marketing Orientado al Cliente (Hoffman & Novak, 1996) 🔍️🟡③-🌐🟡③]],)
 
 ### 2. Segmentación de mercados
 

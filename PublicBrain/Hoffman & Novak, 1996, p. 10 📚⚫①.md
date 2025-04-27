@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-15T01:54:46.272Z
-modified: 2024-12-19T18:55:41.246Z
+modified: 2025-04-27T14:17:04.137Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -19,4 +19,4 @@ tags: []
 # Hoffman & Novak, 1996, p. 10 📚⚫①
 
 * [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
-* [[Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②-🌐🟡③]]
+* [[Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬🟡③-🌐🟡③]]

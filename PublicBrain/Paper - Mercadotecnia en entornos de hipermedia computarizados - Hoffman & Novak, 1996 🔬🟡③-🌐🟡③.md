@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-15T21:51:43.118Z
-modified: 2024-09-16T23:07:09.747Z
+modified: 2025-04-27T14:17:04.052Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 5
-ver_rev: 13
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬 🔴②-🌐🟡③
+# Paper - Mercadotecnia en entornos de hipermedia computarizados - Hoffman & Novak, 1996 🔬🟡③-🌐🟡③
 
 * Referencia en:
 	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]

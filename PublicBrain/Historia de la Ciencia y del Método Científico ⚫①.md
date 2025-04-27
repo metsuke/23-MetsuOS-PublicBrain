@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-03-29T22:03:57.697Z
-modified: 2025-04-22T16:41:44.803Z
+modified: 2025-04-27T19:50:51.227Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ tags:
 
 - [[Definición de ciencia y método científico 🔴②]]
   - [[Conceptos básicos sobre ciencia y su evolución histórica 🔴②]]
-  - Distinción entre ciencia, tecnología y otras formas de conocimiento
+  - [[Distinción entre ciencia, tecnología y otras formas de la c conocimiento  🔴②]]
 - **Importancia de la historia de la ciencia**
   - Contexto para entender el desarrollo del saber humano
   - Relevancia para la educación y la toma de decisiones contemporáneas

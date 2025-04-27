@@ -40,7 +40,7 @@ Te invito a un fascinante recorrido por la historia de la epistemología, desde 
 
 **Subtemas**:
 
-1. **Definición y alcance de la epistemología**
+1. **[[Definición y alcance de la epistemología  🔴②]]**
     - Diferencias y similitudes entre epistemología y gnoseología.
     - La epistemología como estudio del conocimiento científico.
 2. **Preguntas fundamentales**

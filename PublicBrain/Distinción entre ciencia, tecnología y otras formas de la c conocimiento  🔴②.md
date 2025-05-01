@@ -1,17 +1,20 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: Grok-3
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-04-27T19:50:54.389Z
-modified: 2025-04-27T19:52:31.007Z
+modified: 2025-04-27T22:03:15.128Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 1
+ver_minor: 2
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,7 +42,7 @@ La ciencia es un sistema de conocimiento que busca explicar fenómenos naturales
 
 La teoría heliocéntrica de Copérnico y Galileo (siglos XVI-XVII) ilustra el enfoque científico: observaciones astronómicas precisas y modelos matemáticos desafiaron el paradigma geocéntrico, priorizando la evidencia empírica sobre las creencias tradicionales.
 
-## Tecnología: Innovación al servicio de la práctica
+## Tecnología: "I"nnovación al servicio de la práctica
 
 ### Definición y características
 

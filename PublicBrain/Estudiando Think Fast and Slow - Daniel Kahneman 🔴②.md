@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-13T22:51:29.024Z
-modified: 2025-04-13T22:56:50.656Z
+modified: 2025-05-01T04:18:05.260Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,12 +30,14 @@ tags:
 - Por qué a veces nos equivocamos al decidir y cómo podemos afinar nuestro juicio para vivir con más claridad.
 
 ### Lo esencial
+
 - Kahneman, un psicólogo que cambió la economía con su Nobel en 2002, te invita a un viaje por sus investigaciones junto a Amos Tversky, explorando por qué pensamos como pensamos.
 - El libro se despliega en cinco etapas: los dos sistemas que guían tu mente, los atajos que te engañan, la confianza que a veces te traiciona, las elecciones que haces bajo presión y la danza entre lo que vives y lo que recuerdas.
 - Prepárate para conceptos que resonarán en tu día a día, como por qué temes perder más de lo que disfrutas ganar.
 
 ### Cómo empezar
-1. **Lee con curiosidad**: Abre la introducción (pp. 19-29, edición Debate, 2012) y apunta: ¿Qué te intriga de saber que tu mente no siempre obedece tu voluntad?
+
+1. [[Think Fast and Slow ¿Qué suele intrigarnos, como humanos, de saber que tu mente no siempre obedece nuestra voluntad? 🔴②]] (Lectura relacionada, Introducción del libro).
 2. **Mírate dentro**: Escribe una decisión reciente que tomaste sin pensar mucho (quizá elegir un menú o aceptar un plan). ¿Fue puro instinto o hubo reflexión? Guárdalo para volver a ello más tarde.
 
 ## Parte 1: Los dos sistemas que te guían (Capítulos 1-9)

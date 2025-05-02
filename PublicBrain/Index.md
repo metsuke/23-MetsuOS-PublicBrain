@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-04-27T12:10:33.149Z
+modified: 2025-05-02T23:15:46.482Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 188
+ver_rev: 190
 nav_primary: 
 nav_secondary: 
 tags:
@@ -180,6 +180,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ### Salud
 
 DISCLAIMER: Area extremadamente experimenal
+[[Apremder sobre Ejercicio basado en evidencia 🔴②]]
 [[Aprender sobre Nutrición basada en evidencia 🔴②]]
 DISCLAIMER: Area extremadamente experimenal
 

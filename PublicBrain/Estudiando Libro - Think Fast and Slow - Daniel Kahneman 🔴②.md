@@ -9,19 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-13T22:51:29.024Z
-modified: 2025-05-01T04:18:05.260Z
+modified: 2025-05-04T18:31:26.731Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Estudiando Think Fast and Slow - Daniel Kahneman 🔴②
+# Estudiando Libro - Think Fast and Slow - Daniel Kahneman 🔴②
 
-[[PublicBrain/Index|Index]]
+![[PublicBrain/_resources/Estudiando Libro - Think Fast and Slow - Daniel Kahneman 🔴②/78bad2bc7ae27db996a7f1c67521151b_MD5.jpeg]]
+
+[[PublicBrain/Index|Index]] | [[Libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 
 ## Bienvenida: Un mapa para entender tu mente
 
@@ -38,7 +40,7 @@ tags:
 ### Cómo empezar
 
 1. [[Think Fast and Slow ¿Qué suele intrigarnos, como humanos, de saber que tu mente no siempre obedece nuestra voluntad? 🔴②]] (Lectura relacionada, Introducción del libro).
-2. **Mírate dentro**: Escribe una decisión reciente que tomaste sin pensar mucho (quizá elegir un menú o aceptar un plan). ¿Fue puro instinto o hubo reflexión? Guárdalo para volver a ello más tarde.
+2.  [[Think Fast and Slow - Influencia del sistema 1 y sisema 2 en eventos prosaicos de la vida diaria 🔴②]] (Introspección)
 
 ## Parte 1: Los dos sistemas que te guían (Capítulos 1-9)
 

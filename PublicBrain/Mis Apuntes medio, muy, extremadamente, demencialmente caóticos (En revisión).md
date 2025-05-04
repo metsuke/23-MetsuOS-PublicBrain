@@ -9,18 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.197Z
-modified: 2024-10-09T17:54:03.540Z
+modified: 2025-05-04T03:50:02.164Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 83
+ver_rev: 84
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)
 
+
+[[PublicBrain/_resources/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)/d19bf90a0f651cd884c2843a0b835c23_MD5.jpeg|Open: D93A64EF-0C0D-4A2A-8BE4-AABB6663E16C.jpeg]]
+![[PublicBrain/_resources/Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)/d19bf90a0f651cd884c2843a0b835c23_MD5.jpeg]]
 [[PublicBrain/Index]]
 
 * [[Aprender sobre Bases de Datos]]

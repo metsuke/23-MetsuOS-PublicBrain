@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T03:16:48.497Z
-modified: 2025-05-04T10:35:08.246Z
+modified: 2025-05-04T21:20:28.206Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -65,7 +65,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 
 * [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
 	* [[Estudiando Como aprendemos - Hector Ruiz Martín 🔴②]]
-	* [[Estudiando Libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
+	* [[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 
 * TODO: Estructura una Colonia Científica en el borde de la Via Láctea.
 * TODO: Estructurar una Consultora de Accesibilidad Digital

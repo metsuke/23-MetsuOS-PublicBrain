@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T14:15:58.390Z
-modified: 2025-05-04T14:17:53.687Z
+modified: 2025-05-04T21:20:28.269Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Libro - Think Fast and Slow - Daniel Kahneman 🔴②
 
-[[Estudiando Libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
+[[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 
 #### 1. **Datos Bibliográficos Básicos**
 - **Título**: *Thinking, Fast and Slow*

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-05-04T12:42:31.267Z
+modified: 2025-05-04T21:19:07.424Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 194
+ver_rev: 195
 nav_primary: 
 nav_secondary: 
 tags:
@@ -41,7 +41,8 @@ WIP
 
 #### Libros
 
-* [[Estudiando Libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
+* [[Estudiar libro - Foundation - Isaac Asimov 🔴②]]
+* [[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 
 #### Papers
 

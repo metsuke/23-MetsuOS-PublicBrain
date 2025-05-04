@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-01T04:22:03.693Z
-modified: 2025-05-04T10:35:08.225Z
+modified: 2025-05-04T21:20:28.243Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Think Fast and Slow ¿Qué suele intrigarnos, como humanos, de saber que tu mente no siempre obedece nuestra voluntad? 🔴②
 
-[[Estudiando Libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
+[[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 
 En _Thinking, Fast and Slow_, Daniel Kahneman explora cómo funciona nuestra mente a través de dos sistemas de pensamiento: el Sistema 1, rápido e intuitivo, y el Sistema 2, lento y analítico. Esta dualidad revela por qué nuestras decisiones no siempre reflejan nuestra voluntad consciente, un fenómeno que nos intriga profundamente como seres humanos. A continuación, se desarrolla esta idea.
 ## Los dos sistemas de pensamiento

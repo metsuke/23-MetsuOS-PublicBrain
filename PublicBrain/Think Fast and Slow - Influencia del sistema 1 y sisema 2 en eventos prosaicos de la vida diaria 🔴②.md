@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T14:13:56.237Z
-modified: 2025-05-04T18:31:30.042Z
+modified: 2025-05-04T21:20:28.276Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Think Fast and Slow - Influencia del sistema 1 y sisema 2 en eventos prosaicos de la vida diaria 🔴②
 
-[[Estudiando Libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
+[[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 
 ## Introducción
 

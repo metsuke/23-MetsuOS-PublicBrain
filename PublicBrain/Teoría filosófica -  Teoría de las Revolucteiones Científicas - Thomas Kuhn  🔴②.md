@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-23T02:24:36.222Z
-modified: 2025-04-23T02:26:11.200Z
+modified: 2025-05-05T04:45:59.484Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Teoría filosófica -  Teoría de las Revolucteiones Científicas - Thomas Kuhn  🔴②
 
-* [[Estudiando libro -  La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
+* [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
 	* [[Hipótesis - La ciencia no avanza solo acumulando conocimientos, sino que es un proceso histórico lleno de cambios profundos 🟡③]]
 
 ## Introducción

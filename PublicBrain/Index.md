@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-05-04T21:19:07.424Z
+modified: 2025-05-05T04:48:44.947Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 195
+ver_rev: 196
 nav_primary: 
 nav_secondary: 
 tags:
@@ -41,6 +41,7 @@ WIP
 
 #### Libros
 
+* [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
 * [[Estudiar libro - Foundation - Isaac Asimov 🔴②]]
 * [[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 

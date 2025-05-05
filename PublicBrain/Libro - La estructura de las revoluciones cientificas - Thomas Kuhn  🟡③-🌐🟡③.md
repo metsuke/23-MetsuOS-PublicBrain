@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-19T19:13:50.568Z
-modified: 2025-04-23T02:09:18.440Z
+modified: 2025-05-05T04:45:59.467Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags: 
@@ -22,40 +22,159 @@ refb: k
 ---
 # Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③
 
-* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
-* [[Estudiando libro -  La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
+* [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
+	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
 
 
-La obra de Thomas Kuhn, "La estructura de las revoluciones científicas" (1962), es un análisis profundo de la naturaleza del conocimiento humano y científico. En este texto, Kuhn explora cómo se desarrolla el conocimiento a lo largo del tiempo y cómo se relaciona con la ciencia.
+# Ficha Bibliográfica: _La estructura de las revoluciones científicas_
 
-## Paradigma y Ciencia Normal
+Esta ficha ofrece un análisis detallado y accesible del libro _La estructura de las revoluciones científicas_ de Thomas S. Kuhn, una obra clave en la filosofía de la ciencia. Se abordan aspectos esenciales sobre el autor, el contenido, el contexto histórico y las aportaciones de la obra, además de críticas y referencias complementarias.
 
-Kuhn define un paradigma como el conjunto de creencias, valores y métodos que guían la investigación científica en un campo determinado. Un paradigma es una forma de ver el mundo, que incluye conceptos, teorías y métodos que se consideran válidos y aceptados por la comunidad científica. La ciencia normal se refiere al proceso de investigación que se desarrolla dentro de un paradigma, en el que se aplican métodos y técnicas establecidos para resolver problemas y explicar fenómenos.
+## 1. Datos Bibliográficos Básicos
 
-## Anomalías y Revolución Científica
+- **Autor**: Thomas Samuel Kuhn
+- **Título original**: _The Structure of Scientific Revolutions_
+- **Título en español**: _La estructura de las revoluciones científicas_
+- **Año de publicación original**: 1962 (primera edición en inglés)
+- **Edición consultada**:
+    - Editorial: Fondo de Cultura Económica
+    - Año: 1971 (primera edición en español)
+    - Traductor: Agustín Contin
+    - Lugar: Ciudad de México, México
+    - ISBN: 978-968-16-0711-1 (puede variar según la edición)
+- **Extensión**: Entre 250 y 300 páginas, según la edición
+- **Idioma original**: Inglés
 
-A medida que se desarrolla la ciencia normal, surgen anomalías o fenómenos que no se ajustan a las predicciones del paradigma. Estas anomalías pueden ser pequeñas y no significativas, pero también pueden ser importantes y desafiantes. Cuando las anomalías se acumulan y se vuelve claro que el paradigma no es suficiente para explicar los fenómenos, surge la necesidad de una revolución científica. Esta revolución implica la creación de un nuevo paradigma que explique mejor los fenómenos y resuelva las anomalías.
+## 2. Sobre el Autor
 
-## Crisis y Sesgos
+- **Nombre completo**: Thomas Samuel Kuhn (1922-1996)
+- **Nacionalidad**: Estadounidense
+- **Formación académica**:
+    - Doctorado en Física por la Universidad de Harvard (1949).
+    - Reconocido como historiador y filósofo de la ciencia.
+- **Trayectoria**:
+    - Impartió clases en universidades prestigiosas como Harvard, California (Berkeley), el MIT y Princeton.
+    - Fue miembro de la Sociedad Filosófica Americana y de la Academia Nacional de Ciencias de Estados Unidos.
+- **Obras destacadas**:
+    - _The Copernican Revolution_ (1957)
+    - _The Essential Tension_ (1977)
+    - _Black-Body Theory and the Quantum Discontinuity_ (1987)
+- **Contexto intelectual**: Kuhn desarrolló sus ideas en un momento de intensos debates sobre el progreso científico, influido por pensadores como Karl Popper, Ludwig Wittgenstein y Alexandre Koyré. Su trabajo fusiona historia, filosofía y sociología de la ciencia.
 
-Kuhn describe la crisis como el momento en que la comunidad científica se da cuenta de que el paradigma no es válido y que es necesario un cambio radical. La crisis es un momento de incertidumbre y confusión, en el que se cuestionan los fundamentos del conocimiento. Además, Kuhn sostiene que los científicos, como cualquier ser humano, están influenciados por sesgos y prejuicios que pueden afectar su percepción y comprensión del mundo. Estos sesgos y prejuicios pueden impedir la aceptación de nuevas ideas y teorías.
+## 3. Contexto de la Obra
 
-## Consensos y Disensos
+- **Publicación**: 1962, en plena posguerra y Guerra Fría, un periodo marcado por avances científicos como la carrera espacial y la física nuclear.
+- **Marco académico**: La obra se publicó en la serie _International Encyclopedia of Unified Science_ de la Universidad de Chicago, en un contexto donde los modelos positivistas del progreso científico (lineal y acumulativo) comenzaban a ser cuestionados.
+- **Influencias principales**:
+    - Filosofía de la ciencia de Karl Popper (falsacionismo) y Norwood Russell Hanson (percepción cargada de teoría).
+    - Historia de la ciencia de Alexandre Koyré y Herbert Butterfield.
+    - Ideas de Wittgenstein sobre los juegos de lenguaje y su aplicación a las comunidades científicas.
+- **Ediciones relevantes**:
+    - Segunda edición (1970): Incluye un postscriptum donde Kuhn aclara el concepto de "paradigma" y responde a críticas.
+    - Tercera edición (1996) y posteriores: Incorporan análisis de académicos como Ian Hacking.
+- **Impacto**: La obra transformó la filosofía de la ciencia al introducir el término "cambio de paradigma" y desafiar la noción de un progreso científico objetivo.
 
-Kuhn destaca la importancia de los consensos y disensos en la ciencia. Los consensos se refieren a la aceptación generalizada de una teoría o paradigma, mientras que los disensos se refieren a las diferencias y desacuerdos entre los científicos. El proceso de aceptación de una nueva teoría o paradigma es gradual y complejo, y implica la resolución de las anomalías, la demostración de la superioridad de la nueva teoría y la transformación de la comunidad científica.
+## 4. Resumen del Contenido
 
-## Referencias Bibliográficas
+_La estructura de las revoluciones científicas_ propone una visión renovada del desarrollo científico, alejada de la idea de un progreso continuo. Kuhn sostiene que la ciencia avanza mediante ciclos de "ciencia normal" interrumpidos por "revoluciones científicas".
 
-- [Kuhn, T. S. (1962). La estructura de las revoluciones científicas 🌐🟡③](https://www.google.es/books/edition/La_estructura_de_las_revoluciones_cient/zTHGRpJ4dYAC?hl=es&gbpv=1&dq=Kuhn,+T.+S.+(1962).+La+estructura+de+las+revoluciones+cient%C3%ADficas&printsec=frontcover)
-- Lakatos, I. (1970). La metodología de las ciencias. Barcelona: Editorial Fontanella.
-- Feyerabend, P. K. (1975). Contra el método. Madrid: Editorial Tecnos.
+### Estructura de la obra
 
-## Referencias que refutan el contenido
+- **Introducción**: Plantea la necesidad de estudiar la historia de la ciencia para comprender su evolución.
+- **Ciencia normal**: Periodos donde los científicos trabajan dentro de un "paradigma" aceptado, resolviendo problemas bajo un marco teórico compartido.
+- **Anomalías y crisis**: Las observaciones que contradicen el paradigma generan anomalías; si estas persisten, desencadenan una crisis.
+- **Revolución científica**: Un nuevo paradigma reemplaza al anterior, resolviendo las anomalías, aunque no siempre de forma "mejor" en términos objetivos.
+- **Inconmensurabilidad**: Los paradigmas son difícilmente comparables, ya que implican visiones del mundo distintas.
+- **Postscriptum (1970)**: Kuhn aborda críticas, clarifica el término "paradigma" y discute el relativismo.
 
-- Popper, K. R. (1934). La lógica de la investigación científica. Barcelona: Editorial Fontanella.
-- Quine, W. V. O. (1960). El lenguaje y la realidad. Madrid: Editorial Gredos.
-- Hesse, M. B. (1966). Models and Analogies in Science. Notre Dame: University of Notre Dame Press.
+### Conceptos clave
 
-Nota: Las referencias bibliográficas y las referencias que refutan el contenido se han incluido para proporcionar una visión más completa y crítica de la teoría de Kuhn.
+- **Paradigma**: Conjunto de teorías, métodos, valores y creencias compartidas por una comunidad científica.
+- **Ciencia normal**: Resolución de problemas dentro de un paradigma establecido.
+- **Revolución científica**: Cambio radical de paradigma, como el paso del geocentrismo al heliocentrismo o de la física newtoniana a la relatividad.
+- **Inconmensurabilidad**: Dificultad para comparar paradigmas debido a diferencias en conceptos, lenguaje y criterios.
+
+## 5. Temas Principales
+
+- **Progreso científico**: Cuestiona la visión de un avance lineal, proponiendo un modelo discontinuo.
+- **Comunidades científicas**: Destaca el papel de los factores sociales, culturales e históricos en la ciencia.
+- **Relativismo epistemológico**: Aunque no aboga por un relativismo extremo, sugiere que los paradigmas no se evalúan con criterios universales.
+- **Historia de la ciencia**: Subraya la importancia del contexto histórico para entender los cambios científicos.
+
+## 6. Metodología y Enfoque
+
+- **Interdisciplinariedad**: Combina historia, filosofía y sociología de la ciencia.
+- **Análisis histórico**: Usa casos como la revolución copernicana o la teoría de la relatividad para respaldar su modelo.
+- **Constructivismo**: Plantea que la ciencia construye conocimiento dentro de paradigmas, no que descubre verdades absolutas.
+
+## 7. Aportaciones y Relevancia
+
+### Aportaciones teóricas
+
+- Popularizó el término "paradigma", que trascendió la filosofía y se usa en campos como la educación o la gestión.
+- Redefinió el progreso científico como un proceso no siempre racional ni acumulativo.
+- Resaltó la influencia de las comunidades científicas en la construcción del conocimiento.
+
+### Impacto académico
+
+- Inspiró corrientes como el constructivismo social y los estudios de ciencia, tecnología y sociedad (CTS).
+- Provocó debates sobre la objetividad científica, con críticas de figuras como Popper y Lakatos.
+
+### Relevancia actual
+
+- Su modelo se aplica al análisis de innovaciones disruptivas en ciencia, tecnología, economía y otros ámbitos.
+- Sigue siendo una referencia en programas de filosofía, historia y sociología de la ciencia.
+
+## 8. Críticas Principales
+
+- **Ambigüedad del término "paradigma"**: Margaret Masterman señaló su uso inconsistente en la obra.
+- **Relativismo**: Popper y Lakatos acusaron a Kuhn de socavar la objetividad científica con su idea de inconmensurabilidad.
+- **Falta de criterios normativos**: Algunos critican la ausencia de un método claro para evaluar paradigmas.
+- **Respuesta de Kuhn**: En el postscriptum (1970) y trabajos posteriores, aclaró que no defendía un relativismo radical y que los paradigmas se comparan por su capacidad para resolver problemas.
+
+## 9. Ediciones y Traducciones
+
+- **Ediciones en inglés**:
+    - Primera edición (1962): University of Chicago Press.
+    - Segunda edición (1970): Incluye postscriptum.
+    - Edición del 50 aniversario (2012): Con introducción de Ian Hacking.
+- **Traducciones al español**:
+    - Fondo de Cultura Económica (1971, México): Traducción de Agustín Contin, muy utilizada en América Latina.
+    - Ediciones en España: Taurus, Breviarios del FCE, entre otras.
+- **Disponibilidad**: Disponible en librerías, bibliotecas académicas y plataformas como Amazon o Google Books.
+
+## 10. Referencias Bibliográficas
+
+### Referencias que apoyan el contenido
+
+- **Feyerabend, P. (1975). _Contra el método_. Madrid: Taurus.**  
+    Explora ideas afines al relativismo metodológico, respaldando la crítica de Kuhn a los modelos positivistas.
+- **Bird, A. (2000). _Thomas Kuhn_. Princeton: Princeton University Press.**  
+    Ofrece un análisis detallado del legado de Kuhn, destacando su impacto en la filosofía de la ciencia.
+- **Hacking, I. (2012). Introducción a _The Structure of Scientific Revolutions_ (50th Anniversary Edition). Chicago: University of Chicago Press.**  
+    Contextualiza y defiende la relevancia contemporánea de la obra de Kuhn.
+
+### Referencias que refutan o critican el contenido
+
+- [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
+    Defiende el falsacionismo y critica enfoques que, como el de Kuhn, cuestionan la objetividad científica.
+- **Lakatos, I. (1970). "Falsificación y la metodología de los programas de investigación científica". En I. Lakatos y A. Musgrave (Eds.), _La crítica y el desarrollo del conocimiento_ (pp. 1-59). Madrid: Grijalbo.**  
+    Propone un modelo alternativo al de Kuhn, criticando la inconmensurabilidad y el relativismo.
+- **Masterman, M. (1970). "The Nature of a Paradigm". En I. Lakatos y A. Musgrave (Eds.), _La crítica y el desarrollo del conocimiento_ (pp. 59-89). Madrid: Grijalbo.**  
+    Analiza la ambigüedad del término "paradigma" en la obra de Kuhn.
+
+## 11. Recomendaciones de Lectura Complementaria
+
+- [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]: Contrasta el falsacionismo con el modelo de Kuhn.
+- _Contra el método_ (Paul Feyerabend, 1975): Profundiza en el relativismo metodológico.
+- _The Philosophy of Science_ (Richard Boyd, Ed., 1991): Recopila ensayos sobre el impacto de Kuhn.
+- _Thomas Kuhn_ (Alexander Bird, 2000): Análisis crítico de su obra y legado.
+
+## 12. Notas Finales
+
+- Considerada un clásico, esta obra es imprescindible en estudios de filosofía, historia y sociología de la ciencia.
+- Su estilo es claro, aunque requiere cierta familiaridad con conceptos históricos y filosóficos.
+- Traducida a más de 20 idiomas, ha vendido millones de copias y sigue siendo un referente global.
+
 
 ![[Plantilla - 1MT#One More Thing]]

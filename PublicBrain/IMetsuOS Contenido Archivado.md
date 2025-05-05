@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T03:16:48.497Z
-modified: 2025-05-04T21:20:28.206Z
+modified: 2025-05-05T04:45:59.437Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -56,7 +56,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 * [[Historia de la Epistemología y su aplicación en la Ciencia 🔴②]]
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
-		* [[Estudiando libro -  La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
+		* [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]
 		* [[La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos 🔴②]]
 			* [[Metodología de Cita Universal (CU) Bibliográfica en MetsuOS  ⚫①]]

@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
-iaStatus_Generado: H
+iaStatus_Generado: I
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: Raúl Carrillo Garrido aka metsuke
+iaStatus_Model: Grok-3, Raúl Carrillo aka Metsuke
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-05-25T21:40:47.127Z
-modified: 2024-09-16T23:18:56.726Z
+modified: 2025-05-06T03:31:02.117Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 82
+ver_rev: 86
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,138 +22,38 @@ tags:
 # Index 
 # Construyendo la plena inclusión a través del videojuego.
 
-![MetsuIS Logo](_resources/Home/7c9b3eae3cf7ac9cee99705bc4a9ca95_MD5.jpg)
+![](_resources/4789e5c36eda77ab067506bc117b05db_MD5.jpeg)
+## ¡Bienvenidos a MetsuOS: Videojuegos para Todos!
+
+¿Recuerdas la emoción de tu primer videojuego? Esa chispa de ilusión, la espera interminable hasta Navidad para jugar, o los paseos al quiosco por la última revista de juegos. En MetsuOS, queremos que **todos** puedan sentir esa magia, sin importar sus capacidades o habilidades.
+
+### Un Mundo de Videojuegos Inclusivos
+
+En MetsuOS, creemos que los videojuegos no deberían ser un privilegio para unos pocos. Históricamente, el mundo tecnológico ha dejado fuera a muchas personas con necesidades diversas: problemas de visión, reflejos limitados o dificultades de concentración. **Esto tiene que cambiar**. Nuestra misión es crear videojuegos accesibles que abran las puertas de la diversión y la creatividad a todos los públicos.
 
 
-## Comunicación
+![](_resources/ce458544be0ed1338af042d1c001a0c9_MD5.jpeg)
+### ¿Cómo lo haremos?
 
---- start-multi-column: Region01
-```column-settings  
-Number of Columns: 2
-Border: off
-```
+Inspirados por iniciativas como APX (Accessible Player Experiences), vamos más allá. MetsuOS combina **accesibilidad**, **ciencia**, **comunicación**, **productividad** y un profundo amor por los videojuegos para desarrollar experiencias inclusivas. Desde estudiar técnicas de diseño accesible hasta optimizar procesos y concienciar a la comunidad, nuestro enfoque es integral y transformador.
 
-![MetsuOS Comunicación](_resources/El%20Proyecto/7ca3d083137f8393ba2dee45a2381929_MD5.jpg)
- 
---- column-end ---
+### Únete al Viaje
 
-![](_resources/Home/92a7c46af952f314f852f24d54f40d70_MD5.jpg)
+¿Te apasiona la idea de un mundo donde todos puedan disfrutar de los videojuegos? Explora nuestro proyecto y descubre cómo estamos marcando la diferencia:
 
-[### Diferénciate mostrando tu verdadero yo](https://metsuke.com/diferenciate-mostrando-tu-verdadero-yo)
-
- 
-
- --- column-end ---
---- multi-column-end
+- **[[Novedades]]**: Mantente al día con los últimos avances y anuncios de MetsuOS.
+    
+- **[[El Proyecto|Sobre el Proyecto]]**: Conoce nuestra visión, misión y cómo planeamos cambiar el panorama de los videojuegos.
+    
+- **[[PublicBrain/Index|Public Brain]]**: Participa en nuestra comunidad, comparte ideas y ayúdanos a construir un futuro inclusivo a través de esta base de datos de conocimiento basada en evidencia.
 
 
 
-
-
---- start-multi-column: Region02
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-
-![](_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg)
-
-[### Dios es Gallego: Del gráfico de Nolan a la Pirámide de Coherentum](https://metsuke.com/dios-es-gallego-del-grafico-de-nolan-a-la-piramide-de-coherentum/)
-
---- column-end ---
-
-
- ![](_resources/Home/cfbf4bdbac5f2f0977d62e90c47dfe08_MD5.jpg)
- 
-[### 7 errores graves a evitar cuando vendes online un producto excelente](https://metsuke.com/7-errores-graves-a-evitar-cuando-vendes-online-un-producto-excelente-errores-de-marketing-0/)
- 
- --- column-end ---
---- multi-column-end
+**¡Acompáñanos en esta aventura y hagamos que los videojuegos sean para todos!**
 
 
 
 
-
-
-
-## Productividad
-
-
-
---- start-multi-column: BloqueProductuvidad01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-
-
-
-
-![MetsuOS Productividad](_resources/Home/f08b8d651053957ddbf80fdd7953e713_MD5.jpg)
- 
- --- column-end ---
-
-
-![](_resources/Home/6f909554ab40ed1247bed5a68969c746_MD5.jpg)
-[### Resolver el cubo de Rubik con el método Fridrich Reducido (avanzado)](https://metsuke.com/metodo-avanzado-fridrich-reducido-para-resolver-el-cubo-de-rubik)
-
-
-
---- column-end ---
---- multi-column-end
-
-
---- start-multi-column: BloqueProductividad02\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-![](_resources/Home/e371a4e3aaad297ddef5f8bcb2057fed_MD5.jpg)
-[### Aprender a resolver el cubo de Rubik: te comparto el tutorial principiante que yo usé para ello.](https://metsuke.com/el-tutorial-principiante-con-el-que-aprendi-a-resolver-el-cubo-de-rubik/)
-
-
---- column-end ---
-
- 
- 
- --- column-end ---
---- multi-column-end
-
-## Videojuegos
-
---- start-multi-column: Videojuegos01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-![MetsuOS Videojuegos](_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg)
-
---- column-end ---
-
-![Perched](50bf6e290a974b5ad8533fa91b57b127_MD5.jpg)
- [### Joyas de UAGames: Perched!](https://metsuke.com/joyas-de-uagames-perched)
- 
- --- column-end ---
---- multi-column-end
-
-
-
-
---- start-multi-column: Videojuegos02\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-![](_resources/Home/3518d8a7ed58a1b4784bf27e9b6e2ff2_MD5.jpg)
-[### The Swordl of Ianna (Código fuente de juegos 1)](https://metsuke.com/the-sword-of-ianna-codigo-fuente-de-juegos-1/)
-
---- column-end ---
-
- ![](_resources/Home/70ea6cb9020d4c9365745d5021d958b0_MD5.jpg)
- [### The Big Javi's Adventure (2017)](https://metsuke.com/the-big-javis-adventure-2017)
- 
- --- column-end ---
---- multi-column-end
 
 
 

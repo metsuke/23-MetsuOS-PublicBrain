@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-04T18:51:41.947Z
-modified: 2025-05-04T03:39:27.288Z
+modified: 2025-05-05T18:14:14.923Z
 supervisado: 2024-06-10T14:43:32.805Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # ⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle
 
 [[PublicBrain/_resources/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle/ab50581df1b7c5d12449f190c57e9a3f_MD5.jpeg|Open: 9571ACA8-B3DC-4BD8-9636-84CDB68CF7D2.jpeg]]
-![[PublicBrain/_resources/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle/ab50581df1b7c5d12449f190c57e9a3f_MD5.jpeg]]
+![[PublicBrain/_resources/ab50581df1b7c5d12449f190c57e9a3f_MD5.jpeg]]
 
 [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
 

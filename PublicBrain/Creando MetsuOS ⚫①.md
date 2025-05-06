@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-03T20:09:00.383Z
-modified: 2024-09-09T23:42:30.331Z
+modified: 2025-05-05T18:19:08.244Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Index]]
 
-**DISCLAIMER Texto Experimental**
+**DISCLAIMER Texto Experimental lleno de ensayos y errores probablemente inconexos**
 ## Introducción
 
 El presente documento técnico-funcional describe el sistema operativo diseñado para gestionar tareas automáticas y manuales con apoyo de inteligencia artificial (IA). El objetivo del sistema operativo es proporcionar una plataforma escalable, flexible y accesible para todos los usuarios, permitiendo la gestión eficiente de tareas y la toma de decisiones informadas.

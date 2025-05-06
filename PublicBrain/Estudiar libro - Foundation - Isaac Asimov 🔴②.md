@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-18T02:19:53.765Z
-modified: 2025-05-04T21:18:05.979Z
+modified: 2025-05-05T18:17:11.592Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Estudiar libro - Foundation - Isaac Asimov 🔴②
 
 
-![[PublicBrain/_resources/Estudiar libro - Foundation - Isaac Asimov 🔴②/90b9792000d01d47d94aa78a37d8a93d_MD5.jpeg]]
+![[PublicBrain/_resources/90b9792000d01d47d94aa78a37d8a93d_MD5.jpeg]]
 
 * [[PublicBrain/Index|Index]]
 * [[Aprender con A-C  ⚫①]] 

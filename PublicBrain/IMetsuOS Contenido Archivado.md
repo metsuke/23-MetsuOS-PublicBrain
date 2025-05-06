@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T03:16:48.497Z
-modified: 2025-05-05T04:45:59.437Z
+modified: 2025-05-05T18:15:00.229Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # IMetsuOS Contenido Archivado
 
 [[PublicBrain/_resources/IMetsuOS Contenido Archivado/4d9a75c23317261bf39b83b6aabfdad7_MD5.jpeg|Open: C4902DF9-8DE2-41E9-9985-F7741074D2F5.jpeg]]
-![[PublicBrain/_resources/IMetsuOS Contenido Archivado/4d9a75c23317261bf39b83b6aabfdad7_MD5.jpeg]]
+![[PublicBrain/_resources/4d9a75c23317261bf39b83b6aabfdad7_MD5.jpeg]]
 
 [[PublicBrain/Index|Index]]
 

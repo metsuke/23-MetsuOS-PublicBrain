@@ -1,7 +1,7 @@
 {
   "accentColor": "#e7311d",
   "textFontFamily": "Helvetica Neue",
-  "baseFontSize": 26,
+  "baseFontSize": 29,
   "cssTheme": "",
   "enabledCssSnippets": [
     "mermaid"

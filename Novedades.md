@@ -1,152 +1,76 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2024-09-16T23:19:39.309Z
+modified: 2025-05-05T21:46:02.020Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 2
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_rev: 8
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Novedades
 
-![MetsuIS Logo](_resources/Home/7c9b3eae3cf7ac9cee99705bc4a9ca95_MD5.jpg)
-## Comunicación
-
---- start-multi-column: Region01
+--- start-multi-column: BloqueMicrohobbit00
 ```column-settings  
 Number of Columns: 2
 Border: off
 ```
 
-![MetsuOS Comunicación](_resources/El%20Proyecto/7ca3d083137f8393ba2dee45a2381929_MD5.jpg)
+![Personaje Chibi disfrutando de la revista Microhobby debido a su vuelta](_resources/044f53f89f799a5e3fcf6eeb85c5b953_MD5.jpeg)
+## ¡Vuelve con nosotros la mítica revista Microhobby!
+
+Mayo, 2025 - La revista _Microhobby_ es un símbolo de la historia de los videojuegos y la informática en España. Lanzada en noviembre de 1984, coincidiendo con la llegada del Sinclair ZX Spectrum, se convirtió en una referencia imprescindible para los aficionados a los ordenadores de 8 bits. Durante casi ocho años, hasta su cierre en enero de 1992 tras 217 números, fue un faro de conocimiento, creatividad y comunidad para una generación. Ahora, en 2025, _Microhobby_ parece resurgir, liderada por José Luis Sanz, un veterano periodista del equipo original. Este regreso, anunciado en mayo de 2025, promete unir generaciones a través de la nostalgia y la pasión por el retrocomputing, combinando formatos físicos y digitales para adaptarse a los tiempos modernos.
+
+Continua leyendo en ... [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🔴②]]
  
 --- column-end ---
 
-![](_resources/Home/92a7c46af952f314f852f24d54f40d70_MD5.jpg)
+![Malasombra imaginado como personaje Chibi](_resources/57291295564b8a13ae60f4d4473ee699_MD5.jpeg)
+## Malasombra para NES, una nueva obra maestra de 4MHz
 
-[### Diferénciate mostrando tu verdadero yo](https://metsuke.com/diferenciate-mostrando-tu-verdadero-yo)
+Abril, 2025 - _Malasombra_, el nuevo título de 4MHz para la Nintendo Entertainment System (NES), es una aventura mágica que fusiona plataformas, narrativa envolvente y un estilo visual deslumbrante. Tras cinco años de desarrollo, este juego español, presentado en el Museo Arcade Vintage de Ibi, destaca por su excelencia técnica y artística. Una experiencia retro que cautivará a los fans de los 8 bits, estará disponible en formato físico y digital en el segundo trimestre de 2025.
 
- 
+Continua leyendo en ... [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🔴②]]
 
  --- column-end ---
+
 --- multi-column-end
 
 
-
-
-
---- start-multi-column: Region02
+--- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
 Number of Columns: 2
 Border: off
 ```
 
-![](_resources/Home/991f0d11b3763fa5c7c60506ae0a5205_MD5.jpg)
+![Personaje chibi sostiene una gameboy](9A24A48E-7CE5-4230-AA6C-1082770087AB.jpeg)
+## Primera edición de GameBoyRetroDev de la mano de Fran Gallego
 
-[### Dios es Gallego: Del gráfico de Nolan a la Pirámide de Coherentum](https://metsuke.com/dios-es-gallego-del-grafico-de-nolan-a-la-piramide-de-coherentum/)
+Noviembre, 2024 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et facilisis est. Proin non urna et quam laoreet rhoncus. Aliquam vehicula at elit ac elementum. Duis blandit neque sit amet quam mattis, vel scelerisque massa placerat. Maecenas eget magna lacus. Etiam nec viverra quam, quis tristique mi. Sed sed quam elementum, vulputate urna feugiat, sodales elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis fringilla mi, non efficitur metus. Pellentesque maximus molestie ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et mauris lobortis, cursus lacus vitae, commodo quam. Donec mattis leo in urna mattis tristique. Nulla facilisi. Aenean sed feugiat leo, eu porttitor ligula. Nulla id accumsan tellus. Integer accumsan vehicula libero, vitae rutrum est porta sed. 
+
+Continua leyendo en ... Noticias - Donec mattis leo in urna mattis tristique.  - 2025-05-05  🔴②
+
+ --- column-end ---
+ 
+![Explorador chibi ilusionadl](_resources/2c6eab8f283405cc139be82203f8b09f_MD5.jpeg)
+## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+Septiembre, 2024 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et facilisis est. Proin non urna et quam laoreet rhoncus. Aliquam vehicula at elit ac elementum. Duis blandit neque sit amet quam mattis, vel scelerisque massa placerat. Maecenas eget magna lacus. Etiam nec viverra quam, quis tristique mi. Sed sed quam elementum, vulputate urna feugiat, sodales elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis fringilla mi, non efficitur metus. Pellentesque maximus molestie ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et mauris lobortis, cursus lacus vitae, commodo quam. Donec mattis leo in urna mattis tristique. Nulla facilisi. Aenean sed feugiat leo, eu porttitor ligula. Nulla id accumsan tellus. Integer accumsan vehicula libero, vitae rutrum est porta sed. 
+
+Continua leyendo en ... Noticias - Donec mattis leo in urna mattis tristique.  - 2025-05-05  🔴②
 
 --- column-end ---
-
-
- ![](_resources/Home/cfbf4bdbac5f2f0977d62e90c47dfe08_MD5.jpg)
- 
-[### 7 errores graves a evitar cuando vendes online un producto excelente](https://metsuke.com/7-errores-graves-a-evitar-cuando-vendes-online-un-producto-excelente-errores-de-marketing-0/)
- 
- --- column-end ---
---- multi-column-end
-
-
-
-
-
-
-
-## Productividad
-
-
-
---- start-multi-column: BloqueProductuvidad01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-
-
-
-
-![MetsuOS Productividad](_resources/Home/f08b8d651053957ddbf80fdd7953e713_MD5.jpg)
- 
- --- column-end ---
-
-
-![](_resources/Home/6f909554ab40ed1247bed5a68969c746_MD5.jpg)
-[### Resolver el cubo de Rubik con el método Fridrich Reducido (avanzado)](https://metsuke.com/metodo-avanzado-fridrich-reducido-para-resolver-el-cubo-de-rubik)
-
-
-
---- column-end ---
---- multi-column-end
-
-
---- start-multi-column: BloqueProductividad02\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-![](_resources/Home/e371a4e3aaad297ddef5f8bcb2057fed_MD5.jpg)
-[### Aprender a resolver el cubo de Rubik: te comparto el tutorial principiante que yo usé para ello.](https://metsuke.com/el-tutorial-principiante-con-el-que-aprendi-a-resolver-el-cubo-de-rubik/)
-
-
---- column-end ---
-
- 
- 
- --- column-end ---
---- multi-column-end
-
-## Videojuegos
-
---- start-multi-column: Videojuegos01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-![MetsuOS Videojuegos](_resources/Home/5ef34074f1f0ee2b8db165f73f1c9aa5_MD5.jpg)
-
---- column-end ---
-
-![Perched](50bf6e290a974b5ad8533fa91b57b127_MD5.jpg)
- [### Joyas de UAGames: Perched!](https://metsuke.com/joyas-de-uagames-perched)
- 
- --- column-end ---
---- multi-column-end
-
-
-
-
---- start-multi-column: Videojuegos02\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-![](_resources/Home/3518d8a7ed58a1b4784bf27e9b6e2ff2_MD5.jpg)
-[### The Swordl of Ianna (Código fuente de juegos 1)](https://metsuke.com/the-sword-of-ianna-codigo-fuente-de-juegos-1/)
-
---- column-end ---
-
- ![](_resources/Home/70ea6cb9020d4c9365745d5021d958b0_MD5.jpg)
- [### The Big Javi's Adventure (2017)](https://metsuke.com/the-big-javis-adventure-2017)
- 
- --- column-end ---
 --- multi-column-end
 
 

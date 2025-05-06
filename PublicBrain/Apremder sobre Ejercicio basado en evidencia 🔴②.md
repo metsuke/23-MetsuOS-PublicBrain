@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-02T20:16:48.886Z
-modified: 2025-05-04T20:20:27.580Z
+modified: 2025-05-05T18:15:33.844Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Apremder sobre Ejercicio basado en evidencia 🔴②
 
 
-![[PublicBrain/_resources/Apremder sobre Ejercicio basado en evidencia 🔴②/2419271707ed3e782513535c0c41967d_MD5.jpeg]]
+![[PublicBrain/_resources/2419271707ed3e782513535c0c41967d_MD5.jpeg]]
 
 [[PublicBrain/Index|Index]]
 

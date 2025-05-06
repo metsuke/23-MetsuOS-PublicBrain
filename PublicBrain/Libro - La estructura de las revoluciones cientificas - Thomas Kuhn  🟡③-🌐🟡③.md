@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-19T19:13:50.568Z
-modified: 2025-05-05T04:45:59.467Z
+modified: 2025-05-05T06:01:57.393Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags: 
@@ -22,8 +22,11 @@ refb: k
 ---
 # Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③
 
-* [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
-	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
+![[PublicBrain/_resources/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③/1cce944bd702c42ec65cc793524ecb04_MD5.jpeg]]
+
+* [[PublicBrain/Index|Index]]
+	* [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
+		* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
 
 
 # Ficha Bibliográfica: _La estructura de las revoluciones científicas_

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T03:16:48.497Z
-modified: 2025-05-05T18:15:00.229Z
+modified: 2025-05-07T21:49:59.824Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,6 +33,10 @@ tags:
 DISCLAIMR: Puede que el contenido generado por IA en la fase inicial sea algo frío y "aburrido", pero recuerden, una vez establecido el contenido, comprobado y gestionado por parte de un humano en fases subsiguientes, la calidez y empatía de la forma de comunicarlo puede modularse dinámicamente y el mensaje ser personalizado, mediante IA, tomando en cuenta todo tipo de parámetros.
 
 DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser usado como elemento de respaldo juridico o científico. Si se usa en ese sentido será bajo la responsabilidad de quien lo utilice. Tómese en cuenta el sistema de validacion de contenido y el nivel de fiabilidad que PERSONALMENTE atribuyo a cada uno de los elemtnos. Incluso las afirmaciones en apariencia mas firmes deben ser tomadas como "verdades probabilisticas dinamicas dependientes de contexto" y no como dogmas de fe (ni de ningún otro tipo).
+
+# MISC
+
+[[Los librojuegos de Altea Junior Un legado de los años 80  🔴②]]
 
 ## Estructura de la Realidad Subjetiva
 ### Estructrura de la Moral

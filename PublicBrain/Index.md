@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-05-05T21:28:45.081Z
+modified: 2025-05-08T21:26:27.885Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 199
+ver_rev: 200
 nav_primary: 
 nav_secondary: 
 tags:
@@ -48,6 +48,10 @@ WIP
 #### Papers
 
 WIP
+
+#### Revistas
+
+* [[Revista - RetroGamer España 045 - 2023-Sep 🔴②]]
 
 ## Noticias
 

@@ -51,7 +51,7 @@ _Microhobby_ nació en un momento de explosión tecnológica en España, cuando 
 
 ## Anuncio del regreso
 
-El regreso de _Microhobby_ fue anunciado en mayo de 2025 por [ComputerHoy 🌐🔴②](https://computerhoy.20minutos.es/gaming/vuelve-mitica-revista-microhobby-papel-2025-1458897), generando una oleada de entusiasmo entre los aficionados. José Luis Sanz, conocido por su trabajo en _HobbyConsolas_ y por haber participado en la _Microhobby_ original, lidera esta iniciativa. Sanz, que ya lanzó la publicación _Hecho con Pixels_ en 2024, planea publicar entre 4 y 6 números al año, disponibles en formato físico y digital. Cada número tendrá 84 páginas grapadas, con el mismo tamaño que la revista original y portadas personalizadas según los temas tratados. Los ejemplares se podrán adquirir por suscripción o compra directa a través de una web o tiendas de videojuegos, evitando los quioscos debido a los altos costes de distribución. Aunque la presentación oficial tuvo lugar el 3 de mayo de 2025 en RetroBarcelona, algunos detalles, como la fecha exacta del primer número, aún no están confirmados, lo que mantiene la expectación.
+El regreso de _Microhobby_ fue anunciado en mayo de 2025 por [ComputerHoy 🌐🟡③](https://computerhoy.20minutos.es/gaming/vuelve-mitica-revista-microhobby-papel-2025-1458897), generando una oleada de entusiasmo entre los aficionados. José Luis Sanz, conocido por su trabajo en _HobbyConsolas_ y por haber participado en la _Microhobby_ original, lidera esta iniciativa. Sanz, que ya lanzó la publicación _Hecho con Pixels_ en 2024, planea publicar entre 4 y 6 números al año, disponibles en formato físico y digital. Cada número tendrá 84 páginas grapadas, con el mismo tamaño que la revista original y portadas personalizadas según los temas tratados. Los ejemplares se podrán adquirir por suscripción o compra directa a través de una web o tiendas de videojuegos, evitando los quioscos debido a los altos costes de distribución. Aunque la presentación oficial tuvo lugar el 3 de mayo de 2025 en RetroBarcelona, algunos detalles, como la fecha exacta del primer número, aún no están confirmados, lo que mantiene la expectación.
 
 **<iframe width="100%" height="640" src="https://www.youtube.com/embed/OKVXFR9CGqI?si=z8sf7tbVtuRuUNm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -61,7 +61,7 @@ La noticia ha sido recibida con gran emoción, especialmente por aquellos que cr
 
 ## Contexto actual y comparativas
 
-El regreso de _Microhobby_ se enmarca en una tendencia global de nostalgia por los 80 y 90, con un creciente interés por el retrocomputing y las publicaciones en papel. Iniciativas como [El Mundo del Spectrum 🌐🟡③](https://www.elmundodelspectrum.com/primicia-todo-sobre-pixels-y-el-posible-regreso-de-microhobby/), que desde 1996 mantiene vivo el legado del ZX Spectrum, han preparado el terreno para este regreso. En 2024, este medio ya había entrevistado a José Luis Sanz, insinuando un posible retorno de _Microhobby_, lo que indica que el proyecto lleva tiempo gestándose. Además, el interés por coleccionar números antiguos, disponibles en plataformas como [Ebay 🌐🔴②](https://www.ebay.es/sch/i.html?_nkw=microhobby&_sacat=0&_from=R40&_trksid=m570.l1313) o archivados digitalmente en [Web8bits 🌐🟡③](https://www.web8bits.com/Coleccion/Revistas/Espanhol/MicroHobby.html), refleja la demanda de contenido retro. Este movimiento también se alinea con el resurgimiento de publicaciones en papel, vistas como objetos de colección y símbolos de una era pre-digital.
+El regreso de _Microhobby_ se enmarca en una tendencia global de nostalgia por los 80 y 90, con un creciente interés por el retrocomputing y las publicaciones en papel. Iniciativas como [El Mundo del Spectrum 🌐🟡③](https://www.elmundodelspectrum.com/primicia-todo-sobre-pixels-y-el-posible-regreso-de-microhobby/), que desde 1996 mantiene vivo el legado del ZX Spectrum, han preparado el terreno para este regreso. En 2024, este medio ya había entrevistado a José Luis Sanz, insinuando un posible retorno de _Microhobby_, lo que indica que el proyecto lleva tiempo gestándose. Además, el interés por coleccionar números antiguos, disponibles en plataformas como [Ebay 🌐🟡③](https://www.ebay.es/sch/i.html?_nkw=microhobby&_sacat=0&_from=R40&_trksid=m570.l1313) o archivados digitalmente en [Web8bits 🌐🟡③](https://www.web8bits.com/Coleccion/Revistas/Espanhol/MicroHobby.html), refleja la demanda de contenido retro. Este movimiento también se alinea con el resurgimiento de publicaciones en papel, vistas como objetos de colección y símbolos de una era pre-digital.
 
 ### Tabla de comparación: Original vs. Nueva _Microhobby_
 
@@ -81,7 +81,7 @@ El regreso de _Microhobby_ trasciende la publicación de una revista; es un puen
 
 ## Debate sobre el formato impreso
 
-Aunque el regreso de _Microhobby_ ha sido bien recibido, el lanzamiento de una revista en papel en 2025 plantea preguntas sobre su viabilidad en la era digital. Las revistas digitales ofrecen ventajas como accesibilidad global, actualizaciones en tiempo real y menor impacto ambiental, como se discute en [Codendigital 🌐🔴②](https://codendigital.com/revistasinteractivasdigitalescualessonsusventajasysusdesventajas/). Por otro lado, las revistas impresas tienen un valor tangible, una calidad visual superior y un atractivo como objetos de colección, según [Ideas Editoriales 🌐🔴②](https://www.ideaseditoriales.com/news/5-ventajas-las-revistas-papel/). La decisión de _Microhobby_ de combinar ambos formatos parece responder a estas dinámicas, apelando tanto a los nostálgicos que valoran el papel como a los lectores modernos que prefieren lo digital.
+Aunque el regreso de _Microhobby_ ha sido bien recibido, el lanzamiento de una revista en papel en 2025 plantea preguntas sobre su viabilidad en la era digital. Las revistas digitales ofrecen ventajas como accesibilidad global, actualizaciones en tiempo real y menor impacto ambiental, como se discute en [Codendigital 🌐🟡③](https://codendigital.com/revistasinteractivasdigitalescualessonsusventajasysusdesventajas/). Por otro lado, las revistas impresas tienen un valor tangible, una calidad visual superior y un atractivo como objetos de colección, según [Ideas Editoriales 🌐🟡③](https://www.ideaseditoriales.com/actualidad/ventajas-de-las-revistas-impresas/). La decisión de _Microhobby_ de combinar ambos formatos parece responder a estas dinámicas, apelando tanto a los nostálgicos que valoran el papel como a los lectores modernos que prefieren lo digital.
 
 ## Conclusión
 
@@ -89,12 +89,12 @@ El regreso de _Microhobby_ en 2025 es una celebración de la historia de los vid
 
 ## Referencias Bibliográficas
 
-- [ComputerHoy: Más de 30 años después vuelve la mítica revista MicroHobby 🌐🔴②](https://computerhoy.20minutos.es/gaming/vuelve-mitica-revista-microhobby-papel-2025-1458897)
-- [El Mundo del Spectrum: Todo sobre PIXELS y el posible regreso de Microhobby 🌐🟡③](https://www.elmundodelspectrum.com/primicia-todo-sobre-pixels-y-el-posible-regreso-de-microhobby/)- [Vintage is the New Old: Regresa MicroHobby en papel en 2025 🌐🔴②](https://vitno.org/2025/05/01/regresa-microhobby-en-papel/)
+- [ComputerHoy: Más de 30 años después vuelve la mítica revista MicroHobby 🌐🟡③](https://computerhoy.20minutos.es/gaming/vuelve-mitica-revista-microhobby-papel-2025-1458897)
+- [El Mundo del Spectrum: Todo sobre PIXELS y el posible regreso de Microhobby 🌐🟡③](https://www.elmundodelspectrum.com/primicia-todo-sobre-pixels-y-el-posible-regreso-de-microhobby/)
+- [Vintage is the New Old: Regresa MicroHobby en papel en 2025 🌐🟡③](https://vitno.org/2025/05/01/regresa-microhobby-en-papel/)
 - [Web8bits: Colección de revistas MicroHobby digitalizadas 🌐🟡③](https://www.web8bits.com/Coleccion/Revistas/Espanhol/MicroHobby.html)
-- [Codendigital: Ventajas y desventajas de revistas interactivas digitales 🌐🔴②](https://codendigital.com/revistasinteractivasdigitalescualessonsusventajasysusdesventajas/)
-- [Useit: Comparativa entre publicaciones impresas y digitales 🌐🔴②](https://useit.es/blog/publicaciones-impresas-o-digitales-cual-escoger)
-- [Destino Negocio: Revista digital vs. impresa, preferencias del consumidor 🌐🔴②](https://destinonegocio.com/co/negocio-por-internet-co/revistas-digitales-impresas/)
-- [Ideas Editoriales: Cinco ventajas de las revistas en papel 🌐🔴②](https://www.ideaseditoriales.com/news/5-ventajas-las-revistas-papel/)
+- [Codendigital: Ventajas y desventajas de revistas interactivas digitales 🌐🟡③](https://codendigital.com/revistasinteractivasdigitalescualessonsusventajasysusdesventajas/)
+- [Useit: Comparativa entre publicaciones impresas y digitales 🌐🟡③](https://useit.es/blog/publicaciones-impresas-o-digitales-cual-escoger)
+- [Ideas Editoriales: Cinco ventajas de las revistas en papel 🌐🟡③](https://www.ideaseditoriales.com/actualidad/ventajas-de-las-revistas-impresas/)
 
 ![[Plantilla - 1MT#One More Thing]]

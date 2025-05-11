@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T03:16:48.497Z
-modified: 2025-05-11T04:44:39.212Z
+modified: 2025-05-11T06:31:54.698Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -58,7 +58,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 
 * [[Historia de la Ciencia y del Método Científico ⚫①]]
 * [[Historia de la Epistemología y su aplicación en la Ciencia 🔴②]]
-* [[Estructura del Conocimiento Humano y Científico ⚫①]]
+
 	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
 		* [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-21T00:08:20.537Z
-modified: 2025-05-05T18:15:55.159Z
+modified: 2025-05-11T06:37:31.329Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aprender sobre Nutrición basada en evidencia 🔴②
 
-![[PublicBrain/_resources/ae312c58ea76e35722f751aa60bfbf9e_MD5.jpeg]]
+![Cocinero y su materia prima](PublicBrain/_resources/ae312c58ea76e35722f751aa60bfbf9e_MD5.jpeg)
 
 [[PublicBrain/Index|Index]]
 

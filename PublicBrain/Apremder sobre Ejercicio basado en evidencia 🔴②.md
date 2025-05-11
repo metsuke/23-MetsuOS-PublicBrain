@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-02T20:16:48.886Z
-modified: 2025-05-05T18:15:33.844Z
+modified: 2025-05-11T06:36:43.546Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,7 @@ tags:
 # Apremder sobre Ejercicio basado en evidencia 🔴②
 
 
-![[PublicBrain/_resources/2419271707ed3e782513535c0c41967d_MD5.jpeg]]
+![Jugador de futbol chibi](PublicBrain/_resources/2419271707ed3e782513535c0c41967d_MD5.jpeg)
 
 [[PublicBrain/Index|Index]]
 

@@ -9,20 +9,22 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T20:41:29.428Z
-modified: 2025-04-27T14:28:30.705Z
+modified: 2025-05-11T06:38:13.821Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 11
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
 ---
--
+
 # Estructura del Conocimiento Humano y Científico ⚫①
 
-[[PublicBrain/Index]]
+![Un joven Doc Brown y su Delorean](PublicBrain/_resources/6c4c122e32382d53cdde32d530ae51a4_MD5.jpeg)
+
+[[PublicBrain/Index|Index]]
 
 Aquí te dejo el índice técnico exhaustivo y detallado para un curso sobre "Estructura del Conocimiento Humano y Científico" en markdown:
 

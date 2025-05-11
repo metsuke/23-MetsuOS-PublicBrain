@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-25T21:40:47.127Z
-modified: 2025-05-06T03:31:02.117Z
+modified: 2025-05-11T06:22:59.563Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 86
+ver_rev: 87
 nav_primary: 
 nav_secondary: 
 tags:
@@ -45,13 +45,13 @@ Inspirados por iniciativas como APX (Accessible Player Experiences), vamos más 
     
 - **[[El Proyecto|Sobre el Proyecto]]**: Conoce nuestra visión, misión y cómo planeamos cambiar el panorama de los videojuegos.
     
-- **[[PublicBrain/Index|Public Brain]]**: Participa en nuestra comunidad, comparte ideas y ayúdanos a construir un futuro inclusivo a través de esta base de datos de conocimiento basada en evidencia.
+- **[Public Brain](https://www.metsuke.com/publicbrain/index.html)**: Participa en nuestra comunidad, comparte ideas y ayúdanos a construir un futuro inclusivo a través de esta base de datos de conocimiento basada en evidencia.
 
 
 
 **¡Acompáñanos en esta aventura y hagamos que los videojuegos sean para todos!**
 
-
+	
 
 
 

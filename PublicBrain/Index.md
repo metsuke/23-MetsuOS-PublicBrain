@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-05-11T04:39:19.484Z
+modified: 2025-05-11T06:32:54.201Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 201
+ver_rev: 202
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,10 +26,17 @@ tags:
 
 [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
 ## Aprender
+
 ### Ciencia de la salud
 
 * [[Apremder sobre Ejercicio basado en evidencia 🔴②]]
 * [[Aprender sobre Nutrición basada en evidencia 🔴②]]
+
+## Bases del Conocimiento
+
+### Epistemología
+
+* [[Estructura del Conocimiento Humano y Científico ⚫①]]
 
 ## Estudiar
 

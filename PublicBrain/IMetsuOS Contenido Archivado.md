@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T03:16:48.497Z
-modified: 2025-05-07T21:49:59.824Z
+modified: 2025-05-11T04:44:39.212Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,7 @@ tags:
 
 [[PublicBrain/Index|Index]]
 
-[[Docs Database]] | [[IA Database]] | [[Promting Database ⚫①]] | [[Tools Database ⚫①]] | [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
+[[Docs Database]] | [[Promting Database ⚫①]] | [[Tools Database ⚫①]] | [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
 
 [[Arrojando Luz sobre Polémicas Linguísticas]] | [[Arrojando Luz sobre Polémicas Morales]] | [[GPT4All Testing]] | [[Creando MetsuOS ⚫①]]
 

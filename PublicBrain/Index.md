@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-05-08T21:26:27.885Z
+modified: 2025-05-11T04:39:19.484Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 200
+ver_rev: 201
 nav_primary: 
 nav_secondary: 
 tags:
@@ -61,5 +61,6 @@ WIP
 ## Archivado
 
 * [[IMetsuOS Contenido Archivado]]
+* [[MetsuOS Contenido en Preparación]]
 
 ![[Plantilla - 1MT#One More Thing]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-05-11T06:32:54.201Z
+modified: 2025-05-15T18:24:18.516Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 202
+ver_rev: 204
 nav_primary: 
 nav_secondary: 
 tags:
@@ -38,7 +38,7 @@ tags:
 
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 
-## Estudiar
+## Estudiar Fuentes
 
 ### Autores
 
@@ -59,15 +59,28 @@ WIP
 #### Revistas
 
 * [[Revista - RetroGamer España 045 - 2023-Sep 🔴②]]
+* [[Revista - RetroGamer España 051 - 2025-Mar 🔴②]]
 
 ## Noticias
 
 * [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🔴②]]
 * [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🔴②]]
 
+---
+## Blog
+
+[[El Blog de MetsuOS]]
+
+## Juegos
+
+[[Los Juegos de MetsuOS]]
+
+---
 ## Archivado
 
 * [[IMetsuOS Contenido Archivado]]
 * [[MetsuOS Contenido en Preparación]]
 
-![[Plantilla - 1MT#One More Thing]]
+---
+
+	![[Plantilla - 1MT#One More Thing]]

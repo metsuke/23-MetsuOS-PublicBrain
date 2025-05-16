@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-05T21:29:00.969Z
-modified: 2025-05-05T21:33:03.721Z
+modified: 2025-05-15T18:29:14.625Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -49,6 +49,7 @@ El viaje de _Malasombra_ hacia su lanzamiento no ha estado exento de desafíos. 
 
 La campaña de Kickstarter, lanzada para financiar la producción, ha sido un éxito, permitiendo a los fans respaldar el proyecto y adquirir ediciones físicas de coleccionista con cartucho, manual y un embalaje que evoca la era dorada de la NES. La presentación en el Museo Arcade Vintage fue un momento clave: los asistentes disfrutaron de un tráiler vibrante, secuencias exclusivas y una edición física impecable. Las entrevistas con el equipo revelaron su dedicación y los obstáculos superados, desde limitaciones técnicas hasta la búsqueda de la perfección artística.
 
+**<iframe width="100%" height="480" src="https://www.youtube.com/embed/_yfBR2_2Zqo?si=vJQdch0dDvV2X2i_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
 ### Un estandarte del _homebrew_ español
 
 _Malasombra_ trasciende la categoría de videojuego para convertirse en un símbolo del talento de la escena _homebrew_ española. 4MHz, con antecedentes como _Profanation 2_ para Amstrad CPC, ha establecido un nuevo estándar con este proyecto. Aunque otros estudios españoles, como Mojon Twins o Pat Morita Team, también destacan con títulos como _Hermano_ para Game Boy, _Malasombra_ se distingue por su ambición y acabado, rivalizando con los mejores juegos de la NES en su apogeo.
@@ -57,30 +58,18 @@ Con su lanzamiento programado para el segundo trimestre de 2025 en formatos fís
 
 ## Referencias bibliográficas
 
-### Fuentes que apoyan el contenido
+#### **Fuentes que apoyan el contenido**
 
-**__FUENTES EN REVISION__**
-
-- **4MHz (2025). Página oficial de _Malasombra_**. Recuperado de [https://www.4mhz.es/malasombra/ 🌐🟡③](https://www.4mhz.es/malasombra/).  
+1. **4MHz (2025). Página oficial de _Malasombra_**. Recuperado de [https://www.4mhz.es/malasombra/ 🌐🟡③](https://www.4mhz.es/malasombra/).  
     Proporciona información detallada sobre el desarrollo, mecánicas y lanzamiento del juego, directamente desde el estudio creador.
-    
-- **Museo Arcade Vintage (2025). Evento de presentación de _Malasombra_**. Recuperado de [https://www.4mhz.es/presentacion-oficial-de-malasombra-en-museo-arcade-vintage/ 🌐🟡③](https://www.4mhz.es/presentacion-oficial-de-malasombra-en-museo-arcade-vintage/).  
+2. **4MHz (2025). Presentación oficial de _Malasombra_ en el Museo Arcade Vintage**. Recuperado de [https://www.4mhz.es/presentacion-oficial-de-malasombra-en-museo-arcade-vintage/ 🌐🟡③](https://www.4mhz.es/presentacion-oficial-de-malasombra-en-museo-arcade-vintage/).  
     Detalla el evento de lanzamiento en Ibi, incluyendo el contexto y la relevancia del museo en la escena retro.
-    
-- **García, J. (2025). "Malasombra: El renacer del _homebrew_ español". _Retro Gamer España_, (45), 32-37.**  
-    Artículo que analiza el impacto de _Malasombra_ en la escena _homebrew_ y su calidad técnica, basado en entrevistas con el equipo de 4MHz.
-  
-### Fuentes que refutan o cuestionan el contenido
+3. [[Revista - RetroGamer España 051 - 2025-Mar 🔴②|Retro Gamer España. (2025). _Retro Gamer España, (51)_. Axel Springer España  🟡③]]. - "Entrevista con 4MHz sobre _Malasombra_". _Retro Gamer España_, (51), 20-25.**  
+    Analiza el impacto de _Malasombra_ en la escena _homebrew_ y su calidad técnica, basado en entrevistas con el equipo de 4MHz.  
+    (Nota: Verificar páginas exactas en la edición).
 
-**__FUENTES EN REVISION__**
+#### **Fuentes que refutan o cuestionan el contenido**
 
-- **López, M. (2025). "¿Es _Malasombra_ realmente una obra maestra?". _Pixel Crítico_, (12), 18-20.**  
-    Cuestiona si la etiqueta de "obra maestra" es exagerada, argumentando que el juego, aunque impresionante, no innova tanto como otros títulos _homebrew_ modernos.
-    
-- **Fernández, R. (2025). "El desafío de la accesibilidad en _Malasombra_". _Indie Dev Blog_**. Recuperado de [https://indiedev.es/blog/](https://indiedev.es/blog/).  
-    Critica la dificultad de algunas mecánicas y la falta de opciones de accesibilidad, sugiriendo que podría alienar a jugadores menos experimentados.
-    
--  **Sánchez, P. (2025). "Nostalgia vs. Modernidad: ¿Hasta dónde llega _Malasombra_?". _Game Over Podcast_, Ep. 78.**  
-    Debate si _Malasombra_ logra equilibrar nostalgia y modernidad, señalando que su dependencia de mecánicas clásicas podría no satisfacer a audiencias que buscan experiencias más innovadoras.
-
+- **Ninguna fuente verificable disponible**.  
+ 
 ![[Plantilla - 1MT#One More Thing]]

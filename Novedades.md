@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-05-05T21:46:02.020Z
+modified: 2025-05-15T03:27:53.145Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 8
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,24 +27,23 @@ Number of Columns: 2
 Border: off
 ```
 
-![Personaje Chibi disfrutando de la revista Microhobby debido a su vuelta](_resources/044f53f89f799a5e3fcf6eeb85c5b953_MD5.jpeg)
-## ¡Vuelve con nosotros la mítica revista Microhobby!
+![Un joven Doc Brown y su Delorean](PublicBrain/_resources/6c4c122e32382d53cdde32d530ae51a4_MD5.jpeg)
+## Estructura del Conocimiento Humano y Científico
 
-Mayo, 2025 - La revista _Microhobby_ es un símbolo de la historia de los videojuegos y la informática en España. Lanzada en noviembre de 1984, coincidiendo con la llegada del Sinclair ZX Spectrum, se convirtió en una referencia imprescindible para los aficionados a los ordenadores de 8 bits. Durante casi ocho años, hasta su cierre en enero de 1992 tras 217 números, fue un faro de conocimiento, creatividad y comunidad para una generación. Ahora, en 2025, _Microhobby_ parece resurgir, liderada por José Luis Sanz, un veterano periodista del equipo original. Este regreso, anunciado en mayo de 2025, promete unir generaciones a través de la nostalgia y la pasión por el retrocomputing, combinando formatos físicos y digitales para adaptarse a los tiempos modernos.
+La estructura del conocimiento humano y científico se fundamenta en la interacción dinámica entre observación, experimentación y reflexión crítica. A través de la historia, las disciplinas científicas han evolucionado mediante la sistematización de datos y la construcción de teorías que integran el pensamiento lógico con la creatividad, permitiendo a la humanidad desentrañar los misterios del universo y aplicar este saber en avances tecnológicos y sociales.
 
-Continua leyendo en ... [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🔴②]]
+Continua leyendo en ... [[Estructura del Conocimiento Humano y Científico ⚫①]]
  
 --- column-end ---
 
-![Malasombra imaginado como personaje Chibi](_resources/57291295564b8a13ae60f4d4473ee699_MD5.jpeg)
-## Malasombra para NES, una nueva obra maestra de 4MHz
+![Estudiante con el libro en la mano](PublicBrain/_resources/78bad2bc7ae27db996a7f1c67521151b_MD5.jpeg)
+## Estudiar libro - Think Fast and Slow - Daniel Kahneman
 
-Abril, 2025 - _Malasombra_, el nuevo título de 4MHz para la Nintendo Entertainment System (NES), es una aventura mágica que fusiona plataformas, narrativa envolvente y un estilo visual deslumbrante. Tras cinco años de desarrollo, este juego español, presentado en el Museo Arcade Vintage de Ibi, destaca por su excelencia técnica y artística. Una experiencia retro que cautivará a los fans de los 8 bits, estará disponible en formato físico y digital en el segundo trimestre de 2025.
+Bajo el título **Estudiar libro - Thinking, Fast and Slow - Daniel Kahneman**, el libro de Kahneman desentraña la estructura del conocimiento humano y científico al explorar cómo nuestras mentes procesan información a través de dos sistemas: uno rápido, impulsado por la intuición, y otro lento, guiado por la lógica. Este marco revela los mecanismos detrás de nuestras decisiones, destacando la importancia de comprender sesgos y errores para mejorar el pensamiento crítico en la ciencia y la vida diaria.
 
-Continua leyendo en ... [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🔴②]]
+Continua leyendo en ... [[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 
  --- column-end ---
-
 --- multi-column-end
 
 
@@ -54,25 +53,35 @@ Number of Columns: 2
 Border: off
 ```
 
-![Personaje chibi sostiene una gameboy](9A24A48E-7CE5-4230-AA6C-1082770087AB.jpeg)
-## Primera edición de GameBoyRetroDev de la mano de Fran Gallego
+![Jugador de futbol chibi](PublicBrain/_resources/2419271707ed3e782513535c0c41967d_MD5.jpeg)
+## Apremder sobre Ejercicio basado en evidencia
 
-Noviembre, 2024 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et facilisis est. Proin non urna et quam laoreet rhoncus. Aliquam vehicula at elit ac elementum. Duis blandit neque sit amet quam mattis, vel scelerisque massa placerat. Maecenas eget magna lacus. Etiam nec viverra quam, quis tristique mi. Sed sed quam elementum, vulputate urna feugiat, sodales elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis fringilla mi, non efficitur metus. Pellentesque maximus molestie ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et mauris lobortis, cursus lacus vitae, commodo quam. Donec mattis leo in urna mattis tristique. Nulla facilisi. Aenean sed feugiat leo, eu porttitor ligula. Nulla id accumsan tellus. Integer accumsan vehicula libero, vitae rutrum est porta sed. 
+Aprender sobre ejercicio basado en evidencia implica comprender cómo diseñar y aplicar rutinas de actividad física respaldadas por investigaciones científicas sólidas, maximizando beneficios para la salud y el rendimiento mientras se minimizan riesgos. Este enfoque se fundamenta en estudios que evalúan la eficacia de diferentes tipos de ejercicio, como el entrenamiento de fuerza, cardiovascular o de flexibilidad, considerando variables como intensidad, duración y frecuencia, adaptadas a objetivos específicos y características individuales.
 
-Continua leyendo en ... Noticias - Donec mattis leo in urna mattis tristique.  - 2025-05-05  🔴②
-
+Continua leyendo en ... [[Apremder sobre Ejercicio basado en evidencia 🔴②]]
+ 
  --- column-end ---
  
-![Explorador chibi ilusionadl](_resources/2c6eab8f283405cc139be82203f8b09f_MD5.jpeg)
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+![Cocinero y su materia prima](PublicBrain/_resources/ae312c58ea76e35722f751aa60bfbf9e_MD5.jpeg)
+## Aprender sobre Nutrición basada en evidencia
 
-Septiembre, 2024 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et facilisis est. Proin non urna et quam laoreet rhoncus. Aliquam vehicula at elit ac elementum. Duis blandit neque sit amet quam mattis, vel scelerisque massa placerat. Maecenas eget magna lacus. Etiam nec viverra quam, quis tristique mi. Sed sed quam elementum, vulputate urna feugiat, sodales elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis fringilla mi, non efficitur metus. Pellentesque maximus molestie ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et mauris lobortis, cursus lacus vitae, commodo quam. Donec mattis leo in urna mattis tristique. Nulla facilisi. Aenean sed feugiat leo, eu porttitor ligula. Nulla id accumsan tellus. Integer accumsan vehicula libero, vitae rutrum est porta sed. 
-
-Continua leyendo en ... Noticias - Donec mattis leo in urna mattis tristique.  - 2025-05-05  🔴②
+Aprender sobre nutrición basada en evidencia significa adquirir conocimientos sobre cómo diseñar una alimentación saludable y efectiva, respaldada por investigaciones científicas rigurosas. Este enfoque se centra en entender el impacto de los nutrientes, patrones alimentarios y dietas en la salud, el rendimiento y la prevención de enfermedades, utilizando datos de estudios clínicos y epidemiológicos. Al priorizar la evidencia, se evitan mitos y modas pasajeras, permitiendo tomar decisiones informadas y personalizadas para optimizar el bienestar.
+Continua leyendo en ... [[Aprender sobre Nutrición basada en evidencia 🔴②]]
 
 --- column-end ---
 --- multi-column-end
 
+
+--- start-multi-column: BloqueOMT\
+```column-settings  
+Number of Columns: 1
+Border: off
+```
+
+![[Plantilla - 1MT#One More Thing]]
+
+ --- column-end ---
+--- multi-column-end
 
 
 

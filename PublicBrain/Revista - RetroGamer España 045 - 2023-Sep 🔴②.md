@@ -9,17 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-08T21:27:10.837Z
-modified: 2025-05-08T21:28:53.613Z
+modified: 2025-05-15T18:44:55.730Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Revista - RetroGamer España 045 - 2023-Sep 🔴②
+
+![Retro Gamer España 045](PublicBrain/_resources/3a0efab6d48118ae2549b4e983b7e736_MD5.jpg)
 
 [[PublicBrain/Index|Index]]
  
@@ -86,6 +88,8 @@ Español.
 
 - **Precio aproximado**: 6,99 € (según el precio estándar de 2021).
 - **Suscripción digital**: Tarifas variables a través de Kiosko y Más.
+
+**<iframe width="100%" height="480" src="https://www.youtube.com/embed/SYVvF8msTas?si=T1ech9bI_ZU0OK4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
 
 ## Contenido Temático
 

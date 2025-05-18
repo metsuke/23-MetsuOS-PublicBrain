@@ -9,23 +9,33 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-05-17T18:25:42.287Z
+modified: 2025-05-18T11:02:24.297Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 13
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Noticias
 
+
 --- start-multi-column: BloqueMicrohobbit00
 ```column-settings  
 Number of Columns: 2
 Border: off
 ```
+ 
+![Retrato Chibi de Sean Connery representando La Abadia del Crimen y los dibujos de JMV](_resources/76a34773f7b6951427dea70e04fc75eb_MD5.jpeg)
+## Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby
+
+Mayo, 2025 - Jesús Martínez del Vas (JMV), reconocido historietista y colaborador histórico de Microhobby, ha sido anunciado como el nuevo portadista de la mítica revista, que prepara su regreso a lo largo de 2025. Este hito marca un momento clave para los amantes del retro y el Sinclair ZX Spectrum, con JMV aportando su talento característico a las portadas de la publicación.
+
+Continua leyendo en ... [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🔴②]]
+
+--- column-end ---
 
 ![Personaje Chibi disfrutando de la revista Microhobby debido a su vuelta](_resources/044f53f89f799a5e3fcf6eeb85c5b953_MD5.jpeg)
 ## ¡Vuelve con nosotros la mítica revista Microhobby!
@@ -35,6 +45,15 @@ Mayo, 2025 - La revista _Microhobby_ es un símbolo de la historia de los videoj
 Continua leyendo en ... [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🔴②]]
  
 --- column-end ---
+--- multi-column-end
+
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
 
 ![Malasombra imaginado como personaje Chibi](_resources/57291295564b8a13ae60f4d4473ee699_MD5.jpeg)
 ## Malasombra para NES, una nueva obra maestra de 4MHz
@@ -45,15 +64,6 @@ Continua leyendo en ... [[Noticias - Malasombra para NES - una nueva obra maestr
 
  --- column-end ---
 
---- multi-column-end
-
-
---- start-multi-column: BloqueMicrohobbit01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-
 ![Personaje chibi sostiene una gameboy](9A24A48E-7CE5-4230-AA6C-1082770087AB.jpeg)
 ## GBRetroDev'24: Heroes of ASM de la mano de Fran Gallego
 
@@ -62,18 +72,7 @@ Noviembre, 2024 - El certamen GBRetroDev'24: Heroes of ASM, organizado por la Un
 Continua leyendo en ... [[Noticias - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🔴②]]
 
  --- column-end ---
- 
-![Explorador chibi ilusionadl](_resources/2c6eab8f283405cc139be82203f8b09f_MD5.jpeg)
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-Septiembre, 2024 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et facilisis est. Proin non urna et quam laoreet rhoncus. Aliquam vehicula at elit ac elementum. Duis blandit neque sit amet quam mattis, vel scelerisque massa placerat. Maecenas eget magna lacus. Etiam nec viverra quam, quis tristique mi. Sed sed quam elementum, vulputate urna feugiat, sodales elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis fringilla mi, non efficitur metus. Pellentesque maximus molestie ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et mauris lobortis, cursus lacus vitae, commodo quam. Donec mattis leo in urna mattis tristique. Nulla facilisi. Aenean sed feugiat leo, eu porttitor ligula. Nulla id accumsan tellus. Integer accumsan vehicula libero, vitae rutrum est porta sed. 
-
-Continua leyendo en ... Noticias - Donec mattis leo in urna mattis tristique.  - 2025-05-05  🔴②
-
---- column-end ---
 --- multi-column-end
-
-
 
 --- start-multi-column: BloqueOMT\
 ```column-settings  

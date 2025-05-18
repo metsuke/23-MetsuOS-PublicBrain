@@ -1,24 +1,28 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-05-11T04:39:21.205Z
-modified: 2025-05-16T02:50:04.114Z
+modified: 2025-05-18T11:17:36.130Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 3
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 5
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # MetsuOS Contenido en Preparación
 
 [[PublicBrain/Index|Index]]
 
-[[Herramientas de IA para Docentes, Creadores y Profesionales ⚫①]]
-[[Are WCAG validation testing scientifically correct?]]
+  * [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🔴②]]
+  * [[Herramientas de IA para Docentes, Creadores y Profesionales ⚫①]]
+* [[Are WCAG validation testing scientifically correct?]]

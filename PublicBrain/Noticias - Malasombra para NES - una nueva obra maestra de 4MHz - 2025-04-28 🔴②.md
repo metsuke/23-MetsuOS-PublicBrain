@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-05T21:29:00.969Z
-modified: 2025-05-15T18:29:14.625Z
+modified: 2025-05-16T05:12:30.711Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -64,7 +64,7 @@ Con su lanzamiento programado para el segundo trimestre de 2025 en formatos fís
     Proporciona información detallada sobre el desarrollo, mecánicas y lanzamiento del juego, directamente desde el estudio creador.
 2. **4MHz (2025). Presentación oficial de _Malasombra_ en el Museo Arcade Vintage**. Recuperado de [https://www.4mhz.es/presentacion-oficial-de-malasombra-en-museo-arcade-vintage/ 🌐🟡③](https://www.4mhz.es/presentacion-oficial-de-malasombra-en-museo-arcade-vintage/).  
     Detalla el evento de lanzamiento en Ibi, incluyendo el contexto y la relevancia del museo en la escena retro.
-3. [[Revista - RetroGamer España 051 - 2025-Mar 🔴②|Retro Gamer España. (2025). _Retro Gamer España, (51)_. Axel Springer España  🟡③]]. - "Entrevista con 4MHz sobre _Malasombra_". _Retro Gamer España_, (51), 20-25.**  
+3. Retro Gamer España. (2025). _Retro Gamer España, (51)_. Axel Springer España  🟡③ - "Entrevista con 4MHz sobre _Malasombra_". _Retro Gamer España_, (51), página 5.**  - [[Revista - RetroGamer España 051 - 2025-Mar 🔴②]]
     Analiza el impacto de _Malasombra_ en la escena _homebrew_ y su calidad técnica, basado en entrevistas con el equipo de 4MHz.  
     (Nota: Verificar páginas exactas en la edición).
 

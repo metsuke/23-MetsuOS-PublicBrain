@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-08T21:27:10.837Z
-modified: 2025-05-15T18:44:55.730Z
+modified: 2025-05-16T04:57:20.133Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -66,6 +66,10 @@ Número 45.
 ### Idioma
 
 Español.
+
+## Cita Bibliográfica (APA 7)
+
+Retro Gamer España. (2023). _Retro Gamer España, (45)_. Axel Springer España.
 
 ## Equipo Editorial
 

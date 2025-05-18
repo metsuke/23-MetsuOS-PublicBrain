@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-05-15T03:29:13.131Z
+modified: 2025-05-17T18:25:42.287Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 10
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -55,11 +55,11 @@ Border: off
 ```
 
 ![Personaje chibi sostiene una gameboy](9A24A48E-7CE5-4230-AA6C-1082770087AB.jpeg)
-## Primera edición de GameBoyRetroDev de la mano de Fran Gallego
+## GBRetroDev'24: Heroes of ASM de la mano de Fran Gallego
 
-Noviembre, 2024 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et facilisis est. Proin non urna et quam laoreet rhoncus. Aliquam vehicula at elit ac elementum. Duis blandit neque sit amet quam mattis, vel scelerisque massa placerat. Maecenas eget magna lacus. Etiam nec viverra quam, quis tristique mi. Sed sed quam elementum, vulputate urna feugiat, sodales elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis fringilla mi, non efficitur metus. Pellentesque maximus molestie ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et mauris lobortis, cursus lacus vitae, commodo quam. Donec mattis leo in urna mattis tristique. Nulla facilisi. Aenean sed feugiat leo, eu porttitor ligula. Nulla id accumsan tellus. Integer accumsan vehicula libero, vitae rutrum est porta sed. 
+Noviembre, 2024 - El certamen GBRetroDev'24: Heroes of ASM, organizado por la Universidad de Alicante y liderado por Fran Gallego (Profesor Retroman), ha concluido con éxito, desatando la creatividad de desarrolladores de todo el mundo. Este concurso internacional de desarrollo en ensamblador para Game Boy Classic destacó por su desafío técnico y su homenaje a la nostalgia retro, premiando juegos innovadores y demostrando que la pasión por lo clásico sigue viva.
 
-Continua leyendo en ... Noticias - Donec mattis leo in urna mattis tristique.  - 2025-05-05  🔴②
+Continua leyendo en ... [[Noticias - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🔴②]]
 
  --- column-end ---
  

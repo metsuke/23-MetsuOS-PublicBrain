@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-15T18:24:21.961Z
-modified: 2025-05-15T18:32:07.535Z
+modified: 2025-05-16T04:56:10.025Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -141,14 +141,8 @@ El número 51 destaca por su capacidad para conectar la nostalgia con las tenden
 
 ### Fuentes que refutan o cuestionan el contenido
 
-1. **HobbyConsolas (2024). "El mercado de revistas de videojuegos: ¿Sigue siendo relevante?"**. Recuperado de [https://www.hobbyconsolas.com/reportajes/mercado-revistas-videojuegos-sigue-siendo-relevante-1335700](https://www.hobbyconsolas.com/reportajes/mercado-revistas-videojuegos-sigue-siendo-relevante-1335700).  
-    Artículo que analiza el declive de las revistas impresas, incluyendo _Retro Gamer España_, argumentando que las plataformas digitales ofrecen contenido más inmediato y accesible. Publicado en 2024, pero vigente para 2025, ya que aborda tendencias generales. Verificado (enlace funcional).
-    
-2. **ElOtroLado.net (2025). Foro: Opiniones sobre _Retro Gamer España_ 51**. Recuperado de [https://www.elotrolado.net/hilo_retro-gamer-espana-numero-51_2456789](https://www.elotrolado.net/hilo_retro-gamer-espana-numero-51_2456789).  
-    Hilo de discusión donde usuarios critican la calidad del papel y la repetición de temas en _Retro Gamer España_ (p. ej., cobertura recurrente de NES o sagas clásicas). Verificado como foro activo (mayo 2025), aunque las opiniones son subjetivas y no académicas.
-    
-
-**Nota sobre las referencias**: Todas las fuentes han sido verificadas para mayo 2025 y se centran en _Retro Gamer España_. Las fuentes de apoyo (_Zinio_, _Henneo_, _DeVuego_) son primarias y confiables, confirmando la publicación y relevancia de la revista. Las críticas (_HobbyConsolas_, _ElOtroLado.net_) son verificables: _HobbyConsolas_ aborda el declive de las revistas impresas, aplicable al número 51, y _ElOtroLado.net_ refleja opiniones de la comunidad, aunque con menor rigor. No se usó Xataka, y las fuentes son especializadas o primarias. No se encontraron críticas académicas específicas al número 51, posiblemente por su reciente publicación.
+* Ninguna fuente verificable disponible.
+  
 
 ## Notas Adicionales
 

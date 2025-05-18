@@ -1,5 +1,5 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: FutureHouse, Grok-3, Raul Carrillo Garrido aka metsuke
 iaStatus_Generado: "I"
 iaStatus_Supervisado: "H"

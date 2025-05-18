@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-05-15T18:24:18.516Z
+modified: 2025-05-16T18:46:54.641Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 204
+ver_rev: 206
 nav_primary: 
 nav_secondary: 
 tags:
@@ -65,6 +65,7 @@ WIP
 
 * [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🔴②]]
 * [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🔴②]]
+* [[Noticias - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🔴②]]
 
 ---
 ## Blog

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-05-18T03:30:45.795Z
+modified: 2025-05-19T12:51:01.692Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 207
+ver_rev: 208
 nav_primary: 
 nav_secondary: 
 tags:
@@ -63,6 +63,7 @@ WIP
 
 ## Noticias
 
+* [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🔴②]]
 * [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🔴②]]
 * [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🔴②]]
 * [[Noticias - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🔴②]]

@@ -9,19 +9,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-05T21:29:00.969Z
-modified: 2025-05-19T21:20:43.190Z
+modified: 2025-05-20T11:24:54.059Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🔴②
- # Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🔴②
-
+# Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③
+ 
 ![Malasombra imaginado como personaje Chibi](_resources/57291295564b8a13ae60f4d4473ee699_MD5.jpeg)
 
 [[PublicBrain/Index|Home]]
@@ -65,10 +64,9 @@ Con su lanzamiento programado para el segundo trimestre de 2025 en formatos fís
     Proporciona información detallada sobre el desarrollo, mecánicas y lanzamiento del juego, directamente desde el estudio creador.
 2. **4MHz (2025). Presentación oficial de _Malasombra_ en el Museo Arcade Vintage**. Recuperado de [https://www.4mhz.es/presentacion-oficial-de-malasombra-en-museo-arcade-vintage/ 🌐🟡③](https://www.4mhz.es/presentacion-oficial-de-malasombra-en-museo-arcade-vintage/).  
     Detalla el evento de lanzamiento en Ibi, incluyendo el contexto y la relevancia del museo en la escena retro.
-3. Retro Gamer España. (2025). _Retro Gamer España, (51)_. Axel Springer España  🟡③ - [[Entrevista con 4MHz sobre _Malasombra - Retro Gamer España 51 pag 5 ⚫①]] 
+3. [[Entrevista con 4MHz sobre _Malasombra - Retro Gamer España 51 pag 5  📚🟡③]] 
     Analiza el impacto de _Malasombra_ en la escena _homebrew_ y su calidad técnica, basado en entrevistas con el equipo de 4MHz.  
-    (Nota: Verificar páginas exactas en la edición).
-
+ 
 #### **Fuentes que refutan o cuestionan el contenido**
 
 - **Ninguna fuente verificable disponible**.  

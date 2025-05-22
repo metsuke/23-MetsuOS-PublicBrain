@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-11T04:39:21.205Z
-modified: 2025-05-18T11:17:36.130Z
+modified: 2025-05-20T11:28:33.210Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,6 +23,6 @@ tags:
 
 [[PublicBrain/Index|Index]]
 
-  * [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🔴②]]
+  * [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③]]
   * [[Herramientas de IA para Docentes, Creadores y Profesionales ⚫①]]
 * [[Are WCAG validation testing scientifically correct?]]

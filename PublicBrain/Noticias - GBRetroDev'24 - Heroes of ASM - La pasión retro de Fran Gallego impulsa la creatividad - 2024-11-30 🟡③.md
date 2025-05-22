@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-16T05:52:19.166Z
-modified: 2025-05-18T03:30:45.730Z
+modified: 2025-05-20T11:27:13.846Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Noticias - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🔴②
+# Noticias - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🟡③
 
 ![Personaje chibi sostiene una gameboy](9A24A48E-7CE5-4230-AA6C-1082770087AB.jpeg)
 

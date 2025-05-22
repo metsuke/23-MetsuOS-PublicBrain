@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-05T08:01:54.082Z
-modified: 2025-05-09T03:52:12.512Z
+modified: 2025-05-20T11:27:56.867Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🔴②
+# Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③
 
 
 ![Personaje Chibi disfrutando de la revista Microhobby debido a su vuelta](_resources/044f53f89f799a5e3fcf6eeb85c5b953_MD5.jpeg)

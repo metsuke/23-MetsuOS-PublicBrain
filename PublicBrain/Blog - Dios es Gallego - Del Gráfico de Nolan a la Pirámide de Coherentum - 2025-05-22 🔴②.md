@@ -9,26 +9,26 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-21T23:37:37.571Z
-modified: 2025-05-22T06:01:33.093Z
+modified: 2025-05-23T09:20:36.373Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Blog - Dios es Gallego - Del Gráfico de Nolan a la Pirámide de Coherentum - 2025-05-22 🔴②
 
-![La piramide de coherentum, vista lateral](PublicBrain/_resources/1cf74b94d6777f1f5072a13e1700e561_MD5.jpg)
 
+![Representación de un Dios en la piramide de coherentum](PublicBrain/_resources/0011deb9968e3d9dc85c9ddbae195f02_MD5.jpeg)
 [[PublicBrain/Index|Index]]
 
 > _Sé por qué estás aquí, Neo. Sé lo que has estado haciendo. Sé por qué apenas duermes, por qué vives solo y por qué, noche tras noche, te sientas ante tu ordenador. Le buscas a él. Lo sé porque yo también lo busqué. Y cuando él me encontró, me dijo que no le buscaba a él, sino una respuesta. Es la pregunta la que nos impulsa, Neo. Es la pregunta la que te ha traído aquí._  
 > _(Morfeo a Neo, The Matrix)_
 
-> Disclairmer: Esa es una revisión optimizada de mi artículo original de 2018.
+> Disclairmer: Esa es una revisión optimizada de mi artículo original de 2021.
 
 Esa pregunta, la que nos quita el sueño a ti, a mí, y a tantos otros, es la más profunda después del gran “¿por qué?” que lo abarca todo. Es esquiva, ambigua. Algunos la tildan de infantil; otros, de imposible. Nadie tiene una respuesta sin sesgos, pero todos creen estar en lo cierto.
 
@@ -37,6 +37,8 @@ Esa pregunta, la que nos quita el sueño a ti, a mí, y a tantos otros, es la m�
 En nuestra juventud, la desconexión entre nuestras creencias y la realidad nos empuja a explorar ideas radicales, a abrazarlas como si fueran la única verdad. Esta incoherencia, esta obsesión por tener razón a toda costa, ha causado estragos en la humanidad y en el planeta que nos sostiene. Esa fragilidad abre la puerta a gurús sin escrúpulos que, con ideas simplistas, nos arrastran a guerras ideológicas o físicas, a rechazar al diferente, a cerrar los oídos a otras perspectivas. Nos convertimos, sin darnos cuenta, en fanáticos que defienden su verdad con un fervor casi religioso.
 
 ## ¿Qué Significa Ser Humano?
+
+![La piramide de coherentum, vista lateral](PublicBrain/_resources/1cf74b94d6777f1f5072a13e1700e561_MD5.jpg)
 
 Un día, tras una crisis —ya sea un trauma físico, una discusión online o un roce con la muerte en una UCI—, despertamos. Nos damos cuenta de que la vida importa más que tener razón. Y entonces, la pregunta cobra fuerza: **¿qué significa ser humano?**
 

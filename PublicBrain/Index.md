@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-05-20T11:26:13.520Z
+modified: 2025-05-23T20:08:51.067Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 209
+ver_rev: 212
 nav_primary: 
 nav_secondary: 
 tags:
@@ -71,11 +71,16 @@ WIP
 ---
 ## Blog
 
-[[El Blog de MetsuOS]]
+* [[Blog - Battlemail - Mi primer juego viral - 2025-05-24  🔴②]]
+* [[Blog - Parece extremadamente probable que la verdad absoluta no exista - 2025-05-23 🔴②]]
+* [[Blog - Dios es gallego del gráfico de Nolan a la pirámide de Coherentum - 2018-03-01  ⚫①]]
+* [[El Blog de MetsuOS]]
 
 ## Juegos
 
-[[Los Juegos de MetsuOS]]
+* [[ZX Spectrum - Hero Quest - 1994]]
+* [[ZX Spectrum - The Big Javi's Adventure - 2017]]
+* [[Los Juegos de MetsuOS]]
 
 ---
 ## Archivado

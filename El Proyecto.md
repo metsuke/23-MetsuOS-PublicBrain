@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-25T21:40:47.127Z
-modified: 2025-05-06T04:28:58.442Z
+modified: 2025-05-24T17:18:52.993Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 81
+ver_rev: 84
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,9 +36,6 @@ Border: off
 
 ¿O los paseos al kiosco a por la última entrega de tu revista favorita?
 
-
-
-
 --- column-end ---
 
 ![Cabinets imaginarias de Big Javis Adventure, Arrow Hunter y CRT Fighgters para representar el concepto de Desarrollo en Arcade](_resources/880b96c21d7d942096600e8f7a18eb21_MD5.jpg)
@@ -51,13 +48,6 @@ Desgraciadamente esto no ha sido así para todos, históricamente, el mundo del 
 
  
  --- column-end ---
---- multi-column-end
-
---- start-multi-column: : bloque_02\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
 
 ![Representación con lineas sencillas de Don Quijote de la Mancha cabalgando, escudo, lanza y casco en ristre](_resources/97d4219e001142996f47aff5dc6aec28_MD5.jpg)
 ## ¿Cómo lograrlo?
@@ -79,17 +69,6 @@ El primer paso para crear videojuegos accesible es estudiar y concienciar en tor
 
 
  --- column-end ---
---- multi-column-end
-
-
-
-
-
---- start-multi-column: bloque_03\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
 
 ![MetsuOS ciencia](_resources/9a5fa7f75752e91e6625d2d3898d307b_MD5.jpg)
 ## Ciencia
@@ -104,21 +83,9 @@ Como parte del proceso de investigación será necesario hacer uso del conocimie
 De nada sirve tener la mejor idea y la mejor accesibilidad en tu videojuego si no se comunica apropiadamente, no solo se trata de difundir la palabra sino de estudiar cual es el mejor método para concienciar, la plena inclusión es un camino de doble dirección.
  
  --- column-end ---
---- multi-column-end
 
 
-
-
-
-
-
---- start-multi-column: bloque_04\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-
-![MetsuOS Productividad](_resources/El%20Proyecto/f08b8d651053957ddbf80fdd7953e713_MD5.jpg)
+![MetsuOS Productividad](_resources/f08b8d651053957ddbf80fdd7953e713_MD5.jpg)
 ## Productividad
 
 Puede parecer algo fuera del objetivo marcado, pero nada mas lejos de la realidad, no basta con hacer las cosas "accesibles", hay que hacerlas eficientes, equilibrar la balanza requiere dominar diferentes técnicas para optimizar tanto el tiempo como el método a usar para realizar una tarea… o un movimiento en un juego.
@@ -130,11 +97,10 @@ Puede parecer algo fuera del objetivo marcado, pero nada mas lejos de la realida
 
 Todo lo anterior se une con el objetivo de crear videojuegos realmente inclusivos, tomando como base las materias anteriores a más de estudiar el mundo del videojuego desde la misma base, de lo contrario difícilmente podremos crear experiencias realmente valiosas para todos los perfiles de jugador.
 
-
-
  
  --- column-end ---
 --- multi-column-end
+
 
 
 

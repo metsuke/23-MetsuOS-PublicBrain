@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-05T05:32:17.875Z
-modified: 2024-12-06T22:29:17.984Z
+modified: 2025-05-24T17:18:53.284Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 7
+ver_rev: 10
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -19,6 +19,8 @@ tags: []
 # Plantilla - 1MT
 
 ## One More Thing
+
+![Un escenario de retrocomputación del siglo 24](PublicBrain/_resources/3f28ddd6b87f618984bc33b2f965ca5b_MD5.jpeg)
 
 ¡Desbloquea el poder de [[Creando MetsuOS ⚫①|MetsuOS]] y descubre que la privacidad y la seguridad son la clave para desencadenar tu verdadero potencial en línea!
 

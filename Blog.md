@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-05-23T20:08:51.031Z
+modified: 2025-05-26T19:46:32.872Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 22
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,7 +28,16 @@ tags:
 Number of Columns: 2
 Border: off
 ```
- 
+
+![Batman en plena batalla isometrica](_resources/4c2c9299f7ca6f7cfacc007d97899d9e_MD5.jpg)
+## Aventuras de verano con el enmascarado
+
+El calor era como una manta pesada que no te quitabas ni abriendo todas las ventanas. Nuestra calle, en Carabanchel, olía a polvo y a verano, con el descampado al final del bloque donde los críos jugaban al fútbol hasta que anochecía. A veces, desde mi cuarto, veía a los yonquis rondando cerca del descampado, con sus miradas perdidas. Mamá siempre decía que no fuéramos por allí de noche, pero a mí no me importaba tanto. Lo que me tenía atrapado era el ZX Spectrum que mi padre me compró por mi cumpleaños, y ese juego, _Batman_, que Juan y yo no podíamos dejar de jugar.
+
+Continuar leyendo en ... [[Blog - Aventuras de verano con el enmascarado - 2025-05-26  🟡③]]
+
+--- column-end ---
+
 ![Collage con los graficos que he podido recuperar del Battlemail original](_resources/1c4273a22bc75405a7e46c9a0536f461_MD5.jpg)
 ## Battlemail: Mi primer juego viral
 
@@ -56,12 +65,12 @@ Es la pregunta, la que nos quita el sueño a ti, a mí, y a tantos otros, es la 
 
 Continua leyendo en ... [[Blog - Dios es Gallego - Del Gráfico de Nolan a la Pirámide de Coherentum - 2025-05-22 🔴②]]
 
---- column-end ---
+ --- column-end ---
+--- multi-column-end
 
 ![[Plantilla - 1MT#One More Thing]]
 
- --- column-end ---
---- multi-column-end
+
 
 
 

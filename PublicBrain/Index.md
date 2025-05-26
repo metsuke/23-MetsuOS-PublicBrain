@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-05-23T20:08:51.067Z
+modified: 2025-05-24T17:37:16.951Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 212
+ver_rev: 213
 nav_primary: 
 nav_secondary: 
 tags:
@@ -90,4 +90,4 @@ WIP
 
 ---
 
-	![[Plantilla - 1MT#One More Thing]]
+![[Plantilla - 1MT#One More Thing]]

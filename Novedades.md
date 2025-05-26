@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-05-15T03:27:53.145Z
+modified: 2025-05-24T17:18:52.983Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 10
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -44,14 +44,6 @@ Bajo el título **Estudiar libro - Thinking, Fast and Slow - Daniel Kahneman**, 
 Continua leyendo en ... [[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 
  --- column-end ---
---- multi-column-end
-
-
---- start-multi-column: BloqueMicrohobbit01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
 
 ![Jugador de futbol chibi](PublicBrain/_resources/2419271707ed3e782513535c0c41967d_MD5.jpeg)
 ## Apremder sobre Ejercicio basado en evidencia
@@ -68,20 +60,11 @@ Continua leyendo en ... [[Apremder sobre Ejercicio basado en evidencia 🔴②]]
 Aprender sobre nutrición basada en evidencia significa adquirir conocimientos sobre cómo diseñar una alimentación saludable y efectiva, respaldada por investigaciones científicas rigurosas. Este enfoque se centra en entender el impacto de los nutrientes, patrones alimentarios y dietas en la salud, el rendimiento y la prevención de enfermedades, utilizando datos de estudios clínicos y epidemiológicos. Al priorizar la evidencia, se evitan mitos y modas pasajeras, permitiendo tomar decisiones informadas y personalizadas para optimizar el bienestar.
 Continua leyendo en ... [[Aprender sobre Nutrición basada en evidencia 🔴②]]
 
---- column-end ---
---- multi-column-end
-
-
---- start-multi-column: BloqueOMT\
-```column-settings  
-Number of Columns: 1
-Border: off
-```
-
-![[Plantilla - 1MT#One More Thing]]
-
  --- column-end ---
 --- multi-column-end
+
+
+![[Plantilla - 1MT#One More Thing]]
 
 
 

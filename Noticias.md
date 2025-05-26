@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-05-20T11:26:13.519Z
+modified: 2025-05-24T17:18:52.985Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 17
+ver_rev: 20
 nav_primary: 
 nav_secondary: 
 tags:
@@ -45,14 +45,7 @@ Mayo, 2025 - La revista _Microhobby_ es un símbolo de la historia de los videoj
 Continua leyendo en ... [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③]]
  
 --- column-end ---
---- multi-column-end
 
-
---- start-multi-column: BloqueMicrohobbit01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
 
 
 ![Malasombra imaginado como personaje Chibi](_resources/57291295564b8a13ae60f4d4473ee699_MD5.jpeg)
@@ -74,16 +67,8 @@ Continua leyendo en ... [[Noticias - GBRetroDev'24 - Heroes of ASM - La pasión 
  --- column-end ---
 --- multi-column-end
 
---- start-multi-column: BloqueOMT\
-```column-settings  
-Number of Columns: 1
-Border: off
-```
-
 ![[Plantilla - 1MT#One More Thing]]
 
- --- column-end ---
---- multi-column-end
 
 
 

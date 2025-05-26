@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-05-15T11:44:15.616Z
+modified: 2025-05-24T17:18:52.989Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 13
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
@@ -52,20 +52,10 @@ Este es un juego de aventuras basado en el código de *Mazmorras y Demonios*, ex
 Continua leyendo en ... [[MOS Games - Hero Quest - ZX Spectrum - 1994]]
 
  --- column-end ---
-
 --- multi-column-end
-
-
---- start-multi-column: BloqueOMT\
-```column-settings  
-Number of Columns: 1
-Border: off
-```
 
 ![[Plantilla - 1MT#One More Thing]]
 
- --- column-end ---
---- multi-column-end
 
 
 

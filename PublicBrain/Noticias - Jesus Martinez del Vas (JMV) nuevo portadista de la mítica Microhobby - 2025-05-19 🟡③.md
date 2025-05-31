@@ -9,19 +9,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-18T03:46:45.349Z
-modified: 2025-05-23T18:42:34.148Z
+modified: 2025-05-29T19:21:29.963Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③
 
-![Retrato Chibi de Sean Connery representando La Abadia del Crimen y los dibujos de JMV](_resources/76a34773f7b6951427dea70e04fc75eb_MD5.jpeg)
+
+![Retrato Chibi de Sean Connery representando La Abadia del Crimen y los dibujos de JMV](/PublicBrain/_resources/76a34773f7b6951427dea70e04fc75eb_MD5.jpeg)
 
 [[PublicBrain/Index|Index]]
 

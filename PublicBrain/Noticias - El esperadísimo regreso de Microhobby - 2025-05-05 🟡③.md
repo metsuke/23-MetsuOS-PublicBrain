@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-05T08:01:54.082Z
-modified: 2025-05-20T11:27:56.867Z
+modified: 2025-05-29T18:26:51.337Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,8 @@ tags:
 
 [[PublicBrain/Index|Home]]
 
-- La mítica revista **Microhobby** parece estar de vuelta en 2025, 33 años después de su cierre en 1992.
+- La mítica revista **Microhobby** estará de vuelta en 2025, 33 años después de su cierre en 1992.
+- Podrá comprarse a partir del 23 de Junio de 2025 en [la nueva tienda de Hecho Con Pixels](https://tienda.hechoconpixels.com) y se enviará el 14 de Julio.
 - Liderada por José Luis Sanz, se publicarán entre 4 y 6 números al año, en formato físico y digital.
 - Es una gran noticia para los fans del Sinclair ZX Spectrum, aunque algunos detalles aún no están confirmados.
 
@@ -51,7 +52,7 @@ _Microhobby_ nació en un momento de explosión tecnológica en España, cuando 
 
 ## Anuncio del regreso
 
-El regreso de _Microhobby_ fue anunciado en mayo de 2025 por [ComputerHoy 🌐🟡③](https://computerhoy.20minutos.es/gaming/vuelve-mitica-revista-microhobby-papel-2025-1458897), generando una oleada de entusiasmo entre los aficionados. José Luis Sanz, conocido por su trabajo en _HobbyConsolas_ y por haber participado en la _Microhobby_ original, lidera esta iniciativa. Sanz, que ya lanzó la publicación _Hecho con Pixels_ en 2024, planea publicar entre 4 y 6 números al año, disponibles en formato físico y digital. Cada número tendrá 84 páginas grapadas, con el mismo tamaño que la revista original y portadas personalizadas según los temas tratados. Los ejemplares se podrán adquirir por suscripción o compra directa a través de una web o tiendas de videojuegos, evitando los quioscos debido a los altos costes de distribución. Aunque la presentación oficial tuvo lugar el 3 de mayo de 2025 en RetroBarcelona, algunos detalles, como la fecha exacta del primer número, aún no están confirmados, lo que mantiene la expectación.
+El regreso de _Microhobby_ fue anunciado en mayo de 2025 por [ComputerHoy 🌐🟡③](https://computerhoy.20minutos.es/gaming/vuelve-mitica-revista-microhobby-papel-2025-1458897), generando una oleada de entusiasmo entre los aficionados. José Luis Sanz, conocido por su trabajo en _HobbyConsolas_ y por haber participado en la _Microhobby_ original, lidera esta iniciativa. Sanz, que ya lanzó la publicación _Hecho con Pixels_ en 2024, planea publicar entre 4 y 6 números al año, disponibles en formato físico y digital. Cada número tendrá 84 páginas grapadas, con el mismo tamaño que la revista original y portadas personalizadas según los temas tratados, de la mano de [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③|Jesús Martinez del Vas]]. Los ejemplares se podrán adquirir por suscripción o compra directa a través de una web o tiendas de videojuegos, evitando los quioscos debido a los altos costes de distribución. Aunque la presentación oficial tuvo lugar el 3 de mayo de 2025 en RetroBarcelona, algunos detalles, como la fecha exacta del primer número, aún no están confirmados, lo que mantiene la expectación.
 
 **<iframe width="100%" height="640" src="https://www.youtube.com/embed/OKVXFR9CGqI?si=z8sf7tbVtuRuUNm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -65,13 +66,13 @@ El regreso de _Microhobby_ se enmarca en una tendencia global de nostalgia por l
 
 ### Tabla de comparación: Original vs. Nueva _Microhobby_
 
-|**Aspecto**|**Original (1984-1992)**|**Nueva (2025 en adelante)**|
-|---|---|---|
-|**Formato**|Solo físico, semanal/quincenal/mensual|Físico y digital, 4-6 números al año|
-|**Precio inicial**|95 pesetas|Por confirmar (suscripción o compra)|
-|**Contenido principal**|Programas, hardware, cursos, trucos|Por confirmar, pero con enfoque nostálgico|
-|**Liderazgo**|HobbyPress|José Luis Sanz (veterano del equipo)|
-|**Audiencia objetivo**|Usuarios del ZX Spectrum|Nostálgicos y nuevos interesados en retro|
+| **Aspecto**             | **Original (1984-1992)**               | **Nueva (verano 2025 en adelante)**        |
+| ----------------------- | -------------------------------------- | ------------------------------------------ |
+| **Formato**             | Solo físico, semanal/quincenal/mensual | Físico y digital, 4-6 números al año       |
+| **Precio inicial**      | 95 pesetas                             | Por confirmar (suscripción o compra)       |
+| **Contenido principal** | Programas, hardware, cursos, trucos    | Por confirmar, pero con enfoque nostálgico |
+| **Liderazgo**           | HobbyPress                             | José Luis Sanz (veterano del equipo)       |
+| **Audiencia objetivo**  | Usuarios del ZX Spectrum               | Nostálgicos y nuevos interesados en retro  |
 
 La nueva _Microhobby_ mantendrá el espíritu de la original, pero adaptada a los tiempos actuales. Mientras que la original era exclusivamente en papel y semanal, la nueva será mixta (física y digital) y con una periodicidad menor, de 4 a 6 números al año. El precio inicial aún no se ha confirmado, pero se espera que sea accesible, posiblemente a través de suscripciones o compras directas. El contenido principal seguirá siendo nostálgico, centrado en el mundo del retro, pero también podría incluir análisis de videojuegos modernos o temas relacionados con la informática actual, aunque esto aún no está confirmado. El liderazgo de José Luis Sanz, un veterano del equipo original, asegura la continuidad del legado, mientras que la audiencia objetivo se amplía a nostálgicos y nuevos interesados en el mundo del retro.
 
@@ -85,10 +86,11 @@ Aunque el regreso de _Microhobby_ ha sido bien recibido, el lanzamiento de una r
 
 ## Conclusión
 
-El regreso de _Microhobby_ en 2025 es una celebración de la historia de los videojuegos y la informática en España. Liderada por José Luis Sanz, esta nueva edición promete mantener el espíritu de la original mientras se adapta a los tiempos modernos con formatos físicos y digitales. Aunque algunos detalles, como la fecha exacta del primer número o el contenido específico, aún están por confirmar, el proyecto ya ha generado una gran expectación. _Microhobby_ no solo vuelve para revivir la nostalgia; regresa para inspirar, educar y unir a una comunidad que sigue apasionada por el legado del ZX Spectrum y la cultura retro. Este movimiento refuerza el valor de las publicaciones retro como piezas culturales que conectan el pasado con el presente.
+El regreso de _Microhobby_ en verano de 2025 es una celebración de la historia de los videojuegos y la informática en España. Liderada por José Luis Sanz, esta nueva edición promete mantener el espíritu de la original mientras se adapta a los tiempos modernos con formatos físicos y digitales. Aunque algunos detalles, como la fecha exacta del primer número o el contenido específico, aún están por confirmar, el proyecto ya ha generado una gran expectación. _Microhobby_ no solo vuelve para revivir la nostalgia; regresa para inspirar, educar y unir a una comunidad que sigue apasionada por el legado del ZX Spectrum y la cultura retro. Este movimiento refuerza el valor de las publicaciones retro como piezas culturales que conectan el pasado con el presente.
 
 ## Referencias Bibliográficas
 
+- [Anuncio de la fecha de salida de la revisata Microhobby - 2025-05-29 - 🌐🟡③](https://x.com/jlsanzf/status/1928080088366817571)
 - [ComputerHoy: Más de 30 años después vuelve la mítica revista MicroHobby 🌐🟡③](https://computerhoy.20minutos.es/gaming/vuelve-mitica-revista-microhobby-papel-2025-1458897)
 - [El Mundo del Spectrum: Todo sobre PIXELS y el posible regreso de Microhobby 🌐🟡③](https://www.elmundodelspectrum.com/primicia-todo-sobre-pixels-y-el-posible-regreso-de-microhobby/)
 - [Vintage is the New Old: Regresa MicroHobby en papel en 2025 🌐🟡③](https://vitno.org/2025/05/01/regresa-microhobby-en-papel/)

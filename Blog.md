@@ -29,7 +29,7 @@ Number of Columns: 2
 Border: off
 ```
 
-![Batman en plena batalla isometrica](_resources/4c2c9299f7ca6f7cfacc007d97899d9e_MD5.jpg)
+![Batman en plena batalla isometrica](_resources/4c2c9299f7ca6f7cfacc007d97899d9e_MD5_B.jpg)
 ## Aventuras de verano con el enmascarado
 
 El calor era como una manta pesada que no te quitabas ni abriendo todas las ventanas. Nuestra calle, en Carabanchel, olía a polvo y a verano, con el descampado al final del bloque donde los críos jugaban al fútbol hasta que anochecía. A veces, desde mi cuarto, veía a los yonquis rondando cerca del descampado, con sus miradas perdidas. Mamá siempre decía que no fuéramos por allí de noche, pero a mí no me importaba tanto. Lo que me tenía atrapado era el ZX Spectrum que mi padre me compró por mi cumpleaños, y ese juego, _Batman_, que Juan y yo no podíamos dejar de jugar.

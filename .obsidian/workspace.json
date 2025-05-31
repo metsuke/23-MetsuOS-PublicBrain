@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "761208cfc9ce0a0d",
+        "id": "8f44872654398885",
         "type": "tabs",
         "children": [
           {
-            "id": "23f76e299087ceb8",
+            "id": "b682f6b26fe25096",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Blog - Aventuras de verano con el enmascarado - 2025-05-26  🟡③.md",
+                "file": "Noticias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blog - Aventuras de verano con el enmascarado - 2025-05-26  🟡③"
+              "title": "Noticias"
+            }
+          },
+          {
+            "id": "666bda23c7352e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Blog - Sobre el sistema de validacion de conten[[ido de MetsuOS ⚫①.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blog - Sobre el sistema de validacion de conten[[ido de MetsuOS ⚫①"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,6 +80,20 @@
             }
           },
           {
+            "id": "23f76e299087ceb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Noticias - Cinco Duros se anuncia la serie documental sobre la industria del videojuego español - 2025-05-29 🔴②.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noticias - Cinco Duros se anuncia la serie documental sobre la industria del videojuego español - 2025-05-29 🔴②"
+            }
+          },
+          {
             "id": "0e684f4ed9057a09",
             "type": "leaf",
             "state": {
@@ -88,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,44 +221,44 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "23f76e299087ceb8",
+  "active": "666bda23c7352e3c",
   "lastOpenFiles": [
-    "PublicBrain/_resources/592136e83b8b7c368a32f54b308b46a0_MD5.jpg",
-    "PublicBrain/_resources/9128156f77fae9245abc41344b0e06a7_MD5.jpg",
-    "PublicBrain/_resources/b48844ea129dcfd07f6f681cfb5f4547_MD5.jpg",
-    "PublicBrain/EnElKiosko.jpg",
-    "PublicBrain/_resources/ac0fcc66248bfe364c4b6da9da1a3e5a_MD5.jpg",
-    "PublicBrain/_resources/9ecb920e46bbe892ceed63794d155399_MD5.jpg",
-    "PublicBrain/_resources/c07db4492cfee63ec4aed3ba3f0e3b52_MD5.jpg",
-    "PublicBrain/_resources/898a47c4e04a0db217bbe8c0d0147bcc_MD5.jpg",
-    "PublicBrain/_resources/31d698c177fab361c36455bc18908f7e_MD5.jpg",
-    "PublicBrain/_resources/4c2c9299f7ca6f7cfacc007d97899d9e_MD5.jpg",
+    "PublicBrain/_resources/0be93c67c00c2c0889cdaa27b901b464_MD5.svg",
+    "PublicBrain/_resources/b96df7e18b8e9cea3dbeecf4f6041b82_MD5.svg",
+    "PublicBrain/_resources/9b5661e4c76aac9db2ff39861b76716c_MD5.svg",
+    "PublicBrain/_resources/c1f4978f654c5dc80c148dace6d6c6d8_MD5.svg",
+    "PublicBrain/_resources/0096d99859b0233873c32ab126d52941_MD5.svg",
+    "PublicBrain/_resources/d2ca3519d6ce3912d42edf1c382baf14_MD5.svg",
+    "PublicBrain/MetsuOS Contenido en Preparación.md",
+    "PublicBrain/_resources/f00ec31c58f11d200bcc9544eb02858e_MD5.jpeg",
+    "Blog - Sobre el sistema de validacion de conten[[ido de MetsuOS ⚫①.md",
+    "PublicBrain/Blog - Sobre el sistema de validacion de conten[[ido de MetsuOS ⚫①.md",
+    "Blog - Sobre el sistema de validacion de contenido de MetsuOS ⚫①.md",
+    "PublicBrain/Blog - Sobre el sistema de validacion de contenido de MetsuOS ⚫①.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③.md",
+    "Noticias.md",
+    "PublicBrain/Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③.md",
+    "_resources/76a34773f7b6951427dea70e04fc75eb_MD5_News.jpeg",
+    "_resources/6e9be81d9bc70704f66108a35a166929_MD5.jpeg",
+    "Novedades.md",
+    "PublicBrain/_resources/c76dd6b8a25ec197df05ef899c121709_MD5.jpeg",
+    "PublicBrain/_resources/193017ddb9a918bd378040771b27bd8c_MD5.jpeg",
+    "PublicBrain/Notion.md",
+    "PublicBrain/Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③.md",
+    "PublicBrain/tienda.hechoconpixels.com.md",
+    "tienda.hechoconpixels.com.md",
+    "PublicBrain/Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②.md",
+    "PublicBrain/Libro - Think Fast and Slow - Daniel Kahneman 🔴②.md",
+    "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
+    "PublicBrain/Herramientas de IA para Docentes, Creadores y Profesionales ⚫①.md",
+    "Noticias - Cinco Duros la serie documental sobre la industria del videojuego español - 2025-05-29 🔴②.md",
+    "PublicBrain/Blog - Aventuras de verano con el enmascarado - 2025-05-26  🟡③.md",
     "Blog.md",
     "Index.md",
-    "_resources/4c2c9299f7ca6f7cfacc007d97899d9e_MD5.jpg",
-    "PublicBrain/Blog - Aventuras de verano con el enmascarado - 2025-05-26  🟡③.md",
     "Aventuras de verano con el enmascarado.md",
     "PublicBrain/Blog - Battlemail - Mi primer juego viral - 2025-05-24  🔴②.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
     "Juegos.md",
-    "Noticias.md",
-    "Novedades.md",
-    "El Proyecto.md",
-    "PublicBrain/Miembros de la Familia en Chino.md",
-    "PublicBrain/Plantilla - 1MT.md",
-    "PublicBrain/¿Cómo distinguir la ciencia sólida en nutrición de la pseudociencia y las historias personales? 🔴②.md",
-    "PublicBrain/¿Qué es el Storytelling? 🔴②.md",
-    "PublicBrain/Paul Landers.md",
-    "PublicBrain/Pauta 4 - Compatible.md",
-    "PublicBrain/Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③.md",
-    "Blog - Battlemail - Mi primer juego viral - 2025-05-24 ⚫①.md",
-    "PublicBrain/Los Juegos de MetsuOS.md",
-    "PublicBrain/El Blog de MetsuOS.md",
-    "PublicBrain/Blog - Parece extremadamente probable que la verdad absoluta no exista - 2025-05-23 🔴②.md",
-    "PublicBrain/Blog - Dios es Gallego - Del Gráfico de Nolan a la Pirámide de Coherentum - 2025-05-22 🔴②.md",
-    "Parece ( C = (A) 99.9% ) (extremadamente) probable que la verdad absoluta no exista  ⚫①.md",
-    "PublicBrain/Blog - Dios es gallego del gráfico de Nolan a la pirámide de Coherentum - 2018-03-01  ⚫①.md",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

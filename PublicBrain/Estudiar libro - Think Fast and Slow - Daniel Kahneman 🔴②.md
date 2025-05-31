@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-13T22:51:29.024Z
-modified: 2025-05-05T18:17:51.275Z
+modified: 2025-05-29T11:18:03.136Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②
 
-![[PublicBrain/_resources/78bad2bc7ae27db996a7f1c67521151b_MD5.jpeg]]
+![Estudiando el libro de Kahneman](PublicBrain/_resources/78bad2bc7ae27db996a7f1c67521151b_MD5.jpeg)
 
 * [[PublicBrain/Index|Index]]
 	* [[Libro - Think Fast and Slow - Daniel Kahneman 🔴②]]

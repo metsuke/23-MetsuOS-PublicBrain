@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-05-24T17:18:52.983Z
+modified: 2025-06-02T21:36:48.256Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 13
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,17 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
+## Tutorial de AGD 2018 Edition
+
+Hace poco dos fans del este curso, que no estaba disponible online desde 2021, me recordaron que no predicaba solo en el desierto. Si, me tocaron la patata, así que además de lo que tengo en mente, he tomado la determinación de tomarme el tiempo para rescatar aquelllos contenidos de mi vieja y maltrecha web wordpress e incorporarlos en esta nueva etapa. ¡Espero que disfruten creando juego tanto como yo creando el curso!...
+
+En este momento, este es un plan de restauración y republicación de entre 30-60 dias, modificandolo lo imprescindible para que funcione correctamente en esta nueva web. Ya habra tiempo de crear algo ... nuevo #tarjetita
+
+Continua leyendo en ... [[Tutorial de AGD 2018 Edition ⚫①]]
+ 
+--- column-end ---
 
 ![Un joven Doc Brown y su Delorean](PublicBrain/_resources/6c4c122e32382d53cdde32d530ae51a4_MD5.jpeg)
 ## Estructura del Conocimiento Humano y Científico

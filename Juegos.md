@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-05-24T17:18:52.989Z
+modified: 2025-05-31T22:42:46.373Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 16
+ver_rev: 17
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,8 +27,7 @@ Number of Columns: 2
 Border: off
 ```
 
-
-![Loading Screen en proceso de la versiçon DX](_resources/392d6b3db20e38c0858d9543d2b5c022_MD5.jpg)
+![Loading Screen de JBA](PublicBrain/_resources/5f52ec15ec4e20a7dc0a8fe044f8fa80_MD5.jpeg)
 ## The Big Javi's Adventure (ZX Specturm - 2017)
 
 

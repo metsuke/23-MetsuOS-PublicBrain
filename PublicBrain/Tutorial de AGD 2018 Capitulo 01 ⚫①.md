@@ -5,8 +5,8 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2025-05-30T21:34:16.717Z
-modified: 2025-05-30T21:35:27.350Z
+created: 2025-06-03T06:18:53.667Z
+modified: 2025-06-03T06:21:13.562Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
@@ -16,4 +16,3 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Blog - Sobre el sistema de validacion de contenido de MetsuOS ⚫①

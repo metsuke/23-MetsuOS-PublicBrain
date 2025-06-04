@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-05-26T19:46:32.872Z
+modified: 2025-06-01T19:24:42.407Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,15 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![El Barco en la caja que todos compartimos](PublicBrain/_resources/f00ec31c58f11d200bcc9544eb02858e_MD5_Landscape.jpeg)
+## Sobre el sistema de validacion de contenido de MetsuOS
+
+Inspirado por el trabajo de Diego Vargas Pardo y el documental en preparación que anunció en el canal del Spectrumero Javi Ortiz, he decidido compartir con el público generalista los fundamentos del sistema de validación de contenido de mi proyecto, MetsuOS. Este sistema, representado por las icónicas "pelotillas de colores" ([[⚫🔴🟡🟢🔵⚪ (🔴②)]]), no solo se aplica al desarrollo de videojuegos, sino que aborda una problemática más amplia: la gestión del conocimiento en un mundo saturado de información no necesariamente fidedigna.
+
+Continuar leyendo en ... [[Blog - Sobre el sistema de validacion de contenido de MetsuOS - 2025-06-01 🔴②]]
+
+--- column-end ---
 
 ![Batman en plena batalla isometrica](_resources/4c2c9299f7ca6f7cfacc007d97899d9e_MD5_B.jpg)
 ## Aventuras de verano con el enmascarado

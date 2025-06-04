@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-15T04:30:04.825Z
-modified: 2025-05-15T15:01:00.028Z
+modified: 2025-05-31T22:42:16.910Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # MOS Games - The Big Javis Adventure - ZX Spectrum - 2017
 
-![Loading Screen en proceso de la versiçon DX](_resources/392d6b3db20e38c0858d9543d2b5c022_MD5.jpg)
+![Loading Screen de JBA](PublicBrain/_resources/5f52ec15ec4e20a7dc0a8fe044f8fa80_MD5.jpeg)
 
 [[Juegos]]
 
@@ -82,7 +82,7 @@ Las versiones disponibles son dos una de ellas con una version Spectrum del tema
 
 <h2 id="descarga">Descarga</h2>
 
-![Loading Screen de JBA](PublicBrain/_resources/5f52ec15ec4e20a7dc0a8fe044f8fa80_MD5.jpeg)
+
 
 **[Puedes descargar el juego aqui - ZIP 1.9MB](https://metsuke.com/assets/dnld/jba_speccy.zip) 🌐**
 

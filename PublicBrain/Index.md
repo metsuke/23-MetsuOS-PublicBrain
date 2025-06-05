@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-05-24T17:37:16.951Z
+modified: 2025-06-04T21:11:59.941Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 213
+ver_rev: 214
 nav_primary: 
 nav_secondary: 
 tags:
@@ -63,6 +63,7 @@ WIP
 
 ## Noticias
 
+* [[Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]
 * [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③]]
 * [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③]]
 * [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③]]
@@ -71,6 +72,8 @@ WIP
 ---
 ## Blog
 
+* [[Blog - Sobre el sistema de validacion de contenido de MetsuOS - 2025-06-01 🔴②]]
+* [[Blog - Aventuras de verano con el enmascarado - 2025-05-26  🟡③]]
 * [[Blog - Battlemail - Mi primer juego viral - 2025-05-24  🔴②]]
 * [[Blog - Parece extremadamente probable que la verdad absoluta no exista - 2025-05-23 🔴②]]
 * [[Blog - Dios es gallego del gráfico de Nolan a la pirámide de Coherentum - 2018-03-01  ⚫①]]

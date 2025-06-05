@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-03T02:52:51.290Z
-modified: 2025-06-03T18:21:13.033Z
+modified: 2025-06-04T21:15:02.986Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Pantalla de Inicio de JBA](/PublicBrain/_resources/f99f121c28c37f1b1f7bd0761189d065_MD5.jpg)
 
 [[Tutorial de AGD 2018 Edition ⚫①]]
-[[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|<< Anterior]]  | Siguiente >>
+[[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|<< Anterior]]  | [[Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①|Siguiente >>]]
 
 Continuamos con el tutorial, en esta ocasión centramos la atención en los tiles o bloques.
 
@@ -106,38 +106,22 @@ Os copio aquí la lista de atajos de teclado de esta pantalla:
 
 ```
 TECLAS
-
-============================================
-
-FLECHAS = Mover el cursor de dibujo
-
-SPACE = Cambia color del pixel seleccionado
-
-Q = Mover a la izquierda por las propiedades
-
-W = Mover derecha por las propiedades
-
-N = Siguiente Bloque
-
-L = Bloque Anterior
-
-P = Rotar color de Fondo
-
-I = Rotar color de Tinta
-
-B = Cambiar Brillo y Flash
-
-M = Copiar bloque actual al portapapeles
-
-K = Pegar bloque desde el portapapeles
-
-C = Limpiar el bloque actual
-
-X = Crea un nuevo bloque
-
-D = Borra el bloque actual
-
-ENTER = Volver al menú principal.
+======= =====================================
+- FLECHAS = Mover el cursor de dibujo
+- SPACE = Cambia color del pixel seleccionado
+- Q = Mover a la izquierda por las propiedades
+- W = Mover derecha por las propiedades
+- N = Siguiente Bloque
+- L = Bloque Anterior
+- P = Rotar color de Fondo
+- I = Rotar color de Tinta
+- B = Cambiar Brillo y Flash
+- M = Copiar bloque actual al portapapeles
+- K = Pegar bloque desde el portapapeles
+- C = Limpiar el bloque actual
+- X = Crea un nuevo bloque
+- D = Borra el bloque actual
+- ENTER = Volver al menú principal.
 ```
 
 ### Bloques, bloques, bloques
@@ -164,7 +148,9 @@ Sobre todo, ¡disfruten haciéndolo!.
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si no lo ves claro, ¡no lo tiles! y pasa a la página 1]]
 * [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|Si tu madre te ha dicho que tiles la basura, ¡escóndete y huye a la página 2!]]
-* Si estas seguro de que lo lógico es que tiles palante, espera 2D20+1 horas mientras el mago invoca el contenido.
+* [[Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①|Si estas seguro de que lo lógico es que tiles palante, pasa a la página 3]]
+
+<!--espera 2D20+1 horas mientras el mago invoca el contenido.-->
 
 ## Referencias Bibliográficas
 

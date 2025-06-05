@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-06-03T07:25:17.883Z
+modified: 2025-06-04T20:49:56.180Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,7 +30,7 @@ En este momento, este es un plan de restauración y republicación de entre 30-6
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①]]
 * [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①]]
-* Tutorial de AGD 2018 Capitulo 03
+* [[Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①]]
 * Tutorial de AGD 2018 Capitulo 04
 * Tutorial de AGD 2018 Capitulo 05
 * Tutorial de AGD 2018 Capitulo 06

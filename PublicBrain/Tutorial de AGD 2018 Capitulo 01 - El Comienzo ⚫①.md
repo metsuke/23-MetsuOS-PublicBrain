@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:45:37.355Z
-modified: 2025-06-04T19:01:18.756Z
+modified: 2025-06-05T12:54:13.646Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,8 @@ tags:
 
 ![Menu Principal de AGD](PublicBrain/_resources/d331958696fd5f055f430f879c2d361e_MD5.jpg)
 
-[[Tutorial de AGD 2018 Edition ⚫①]] | [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|Siguiente >>]]
+* [[Tutorial de AGD 2018 Edition ⚫①]]
+* [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|Siguiente >>]]
 ## AGD: Capitulo uno
 
 ¡Hola a todos! comenzamos aquí un tutorial.
@@ -122,9 +123,13 @@ Tomemos nuestro tiempo para decidir si queremos un juego horizontal o, en genera
 
 Para definirla, AGD nos lo pone muy fácil: tan simple como usar las teclas:
 
-- **1/2** para aumentar o disminuir el tamaño horizontal.
-- **Q/A** para variar el tamaño vertical.
-- **5/6/7/8** para mover el bloque (formado por los cuadrados rojos y negros) por la pantalla.
+```pre
+TECLAS
+======= -------------------------------------
+- 1/2 para aumentar o disminuir el tamaño horizontal.
+- Q/A para variar el tamaño vertical.
+- 5/6/7/8 para mover el bloque (formado por los cuadrados rojos y negros) por la pantalla.
+```
 
 Es en esta área de cuadros de color donde nuestro juego cobrará vida. Una vez definido, tan simple como pulsar **Intro** y volvemos al menú principal.
 

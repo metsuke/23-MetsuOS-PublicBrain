@@ -9,17 +9,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-08-24T17:56:21.735Z
-modified: 2024-08-31T09:30:45.426Z
+modified: 2025-06-06T09:11:16.119Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②
+<# Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②
 
 [[PublicBrain/Index|Index]] | [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
 

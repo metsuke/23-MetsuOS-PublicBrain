@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-05-30T15:13:52.961Z
+modified: 2025-06-06T12:29:40.509Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 21
+ver_rev: 23
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,11 +28,21 @@ Number of Columns: 2
 Border: off
 ```
 
+![Las imagenes de portada del numero 1 y del numero 218 reinterpretadas juntas](_resources/1020b77b6be23051760549224206aee9_MD5.jpeg)
+## Reveladas Portada y Precio de Microhobby 218
+
+Junio, 2025 - Sueño una vida que fué reviviéndola del modo que soy, en la decrepitud de mi cuerpo y la floreciente vivacidad de una mente que me ha apoyado en mil batallas, en cien victorias y diez mil derrotas.
+
+Desde el horizonte observo el futuro presente y la presencia de un futuro ya pasado. Es la vida que pasa ante nuestros ojos cuando, desde una fiereza matizada por las cicatrices, desgarramos el futuro en busca de nuestro legado, he aquí, mi querido Sancho, Microhobby.
+
+Continua leyendo en ... [[Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③]]
+
+--- column-end ---
 
 ![La pulga en una moneda de 25 pesetas](_resources/6e9be81d9bc70704f66108a35a166929_MD5.jpeg)
 ## Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español
 
-"Mientras el mundo vivia la primera crisis del videojuego con Atari, en España se gestaba una revolución silenciosa que nadie se atrevió a contar. Hasta ahora..." con esta introducción digna de cualquiera de los videojuegos míticos, se anuncia la serie documental Cinco Duros, dirigida por Diego Vargas Pardo, a través del canal de "El Spectrumero Javi Ortiz". 
+Mayo, 2025 - "Mientras el mundo vivia la primera crisis del videojuego con Atari, en España se gestaba una revolución silenciosa que nadie se atrevió a contar. Hasta ahora..." con esta introducción digna de cualquiera de los videojuegos míticos, se anuncia la serie documental Cinco Duros, dirigida por Diego Vargas Pardo, a través del canal de "El Spectrumero Javi Ortiz". 
 
 Esta serie explorará en su primera temporada (8-12 capítulos) la historia del videojuego en España, desde sus orígenes en los años 80 hasta su impacto cultural. Basada en el podcast y los libros de Vargas Pardo, la serie dará voz a los creadores de la época y educará al público general sobre el valor de esta industria, destacando el emprendimiento y la creatividad detrás de ella.
 
@@ -43,7 +53,9 @@ Continua leyendo en ... [[Noticias - Cinco Duros anuncia la primera serie docume
 ![Retrato Chibi de Sean Connery representando La Abadia del Crimen y los dibujos de JMV](_resources/76a34773f7b6951427dea70e04fc75eb_MD5_News.jpeg)
 ## Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby
 
-Mayo, 2025 - Jesús Martínez del Vas (JMV), reconocido historietista y colaborador histórico de Microhobby, ha sido anunciado como el nuevo portadista de la mítica revista, que prepara su regreso a lo largo de 2025. Este hito marca un momento clave para los amantes del retro y el Sinclair ZX Spectrum, con JMV aportando su talento característico a las portadas de la publicación.
+Mayo, 2025 - Jesús Martínez del Vas (JMV), reconocido historietista y colaborador histórico de Microhobby, ha sido anunciado como el nuevo portadista de la mítica revista.
+
+La revisa prepara su regreso en Julio de 2025. Este hito marca un momento clave para los amantes del retro y el Sinclair ZX Spectrum, con JMV aportando su talento característico a las portadas de la publicación.
 
 Continua leyendo en ... [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③]]
 

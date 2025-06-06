@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-18T03:46:45.349Z
-modified: 2025-05-29T19:21:29.963Z
+modified: 2025-06-06T07:59:20.728Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,10 +26,18 @@ tags:
 
 [[PublicBrain/Index|Index]]
 
-Mayo de 2025 será un aniversario dorado para los amantes de los videojuegos retro y del emblemático Sinclair ZX Spectrum. La legendaria revista _Microhobby_, un icono de los años 80 y 90, regresa con una noticia que ha emocionado a la comunidad: Jesús Martínez del Vas, conocido como JMV, será el nuevo portadista. Este anuncio, desvelado en el podcast de _El Mundo del Spectrum_ del 8 de noviembre de 2024, ha despertado entusiasmo entre nostálgicos y nuevos seguidores de la escena retro.
+Mayo de 2025 será un aniversario dorado para los amantes de los videojuegos retro y del emblemático Sinclair ZX Spectrum. 
+
+La legendaria revista _Microhobby_, un icono de los años 80 y 90, regresa con una noticia que ha emocionado a la comunidad: Jesús Martínez del Vas, conocido como JMV, será el nuevo portadista. 
+
+Este anuncio, desvelado en el podcast de _El Mundo del Spectrum_ del 8 de noviembre de 2024, ha despertado entusiasmo entre nostálgicos y nuevos seguidores de la escena retro.
 ## Trayectoria de JMV: un vínculo histórico con _Microhobby_
 
-Nacido en Madrid en 1973, JMV es una figura destacada en el cómic, la ilustración y el periodismo especializado en videojuegos. Licenciado en Arquitectura, su pasión por el dibujo lo llevó a colaborar con publicaciones como _Microhobby_, _Hobby Consolas_, _Marca_ y _Gaceta Universitaria_. Además, es autor de _Memorias Pixeladas_ y ha sido un pilar en _El Mundo del Spectrum_, un proyecto que homenajea la herencia de _Microhobby_. Su conexión con la revista comenzó en los años 80, cuando enviaba ilustraciones en fotocopias a color, algunas de las cuales aún conserva. Desde 1998, contribuyó con portadas y artículos para _El Mundo del Spectrum_, consolidando su legado en la escena retro.
+Nacido en Madrid en 1973, JMV es una figura destacada en el cómic, la ilustración y el periodismo especializado en videojuegos. 
+
+Licenciado en Arquitectura, su pasión por el dibujo lo llevó a colaborar con publicaciones como _Microhobby_, _Hobby Consolas_, _Marca_ y _Gaceta Universitaria_. Además, es autor de _Memorias Pixeladas_ y ha sido un pilar en _El Mundo del Spectrum_, un proyecto que homenajea la herencia de _Microhobby_. 
+
+Su conexión con la revista comenzó en los años 80, cuando enviaba ilustraciones en fotocopias a color, algunas de las cuales aún conserva. Desde 1998, contribuyó con portadas y artículos para _El Mundo del Spectrum_, consolidando su legado en la escena retro.
 ## Un regreso que fusiona nostalgia y modernidad
 
 El retorno de _Microhobby_ trasciende la mera reedición. Según _El Mundo del Spectrum_, el proyecto busca capturar el espíritu de los 80 mientras se adapta a los tiempos actuales. La revista incluirá reseñas de juegos para ZX Spectrum, entrevistas con figuras clave y secciones dedicadas a la vibrante escena retro. La elección de JMV como portadista es un reconocimiento a la comunidad, ya que su estilo, inspirado en maestros como Alfonso Azpiri y José María Ponce, evoca la estética colorida y dinámica de las portadas originales.
@@ -39,16 +47,24 @@ En una entrevista de 2018, JMV expresó su admiración por los portadistas hist�
 **<iframe width="100%" height="480" src="https://www.youtube.com/embed/Q1r_jCTZClo?si=22JAAq1MK4zOQVld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
 ## Recepción entusiasta de la comunidad
 
-La noticia ha sido recibida con gran entusiasmo. En plataformas sociales, los aficionados han elogiado la idoneidad de JMV, destacando proyectos como _INPUT JMV: "I"lustrando juegos de ZX Spectrum_, un éxito en Verkami que demostró su talento para capturar la esencia del retro. Su experiencia como historietista, guionista y comunicador garantiza que las portadas no solo serán visualmente impactantes, sino que reflejarán la identidad de _Microhobby_.
+La noticia ha sido recibida con gran entusiasmo. 
+
+En plataformas sociales, los aficionados han elogiado la idoneidad de JMV, destacando proyectos como _INPUT JMV: "I"lustrando juegos de ZX Spectrum_, un éxito en Verkami que demostró su talento para capturar la esencia del retro. 
+
+Su experiencia como historietista, guionista y comunicador garantiza que las portadas no solo serán visualmente impactantes, sino que reflejarán la identidad de _Microhobby_.
 
 ## _Pixels_ y la revitalización de la prensa retro
 
-El anuncio coincide con el lanzamiento de _Pixels_, una nueva revista que complementará a _Microhobby_ en la exploración de la cultura del videojuego retro. Según _El Mundo del Spectrum_, ambos proyectos buscan revitalizar la prensa especializada, un medio que ha evolucionado desde las capturas de pantalla de los 80 hasta las plataformas digitales actuales, sin perder su esencia.
+El anuncio coincide con el lanzamiento de _Pixels_, una nueva revista que complementará a _Microhobby_ en la exploración de la cultura del videojuego retro. 
+
+Según _El Mundo del Spectrum_, ambos proyectos buscan revitalizar la prensa especializada, un medio que ha evolucionado desde las capturas de pantalla de los 80 hasta las plataformas digitales actuales, sin perder su esencia.
 
 **<iframe width="100%" height="480" src="https://www.youtube.com/embed/STrflYiVNnw?si=mosVrFyTKTvJRcy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
 ## Un puente entre generaciones
 
-Con JMV al frente de las portadas, _Microhobby_ se perfila como un nexo entre generaciones, conectando a quienes crecieron con el ZX Spectrum y a los nuevos aficionados al retro. El 19 de mayo de 2025 no solo marcará el regreso de una revista, sino la celebración de una cultura que sigue viva gracias a figuras como Jesús Martínez del Vas.
+Con JMV al frente de las portadas, _Microhobby_ se perfila como un nexo entre generaciones, conectando a quienes crecieron con el ZX Spectrum y a los nuevos aficionados al retro. 
+
+El 19 de mayo de 2025 no solo marcará el regreso de una revista, sino la celebración de una cultura que sigue viva gracias a figuras como Jesús Martínez del Vas.
 
 ## Referencias bibliográficas
 

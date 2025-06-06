@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-03T02:52:51.290Z
-modified: 2025-06-04T21:15:02.986Z
+modified: 2025-06-05T12:53:45.024Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,8 +23,8 @@ tags:
 
 ![Pantalla de Inicio de JBA](/PublicBrain/_resources/f99f121c28c37f1b1f7bd0761189d065_MD5.jpg)
 
-[[Tutorial de AGD 2018 Edition ⚫①]]
-[[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|<< Anterior]]  | [[Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①|Siguiente >>]]
+* [[Tutorial de AGD 2018 Edition ⚫①]]
+* [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|<< Anterior]]  | [[Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①|Siguiente >>]]
 
 Continuamos con el tutorial, en esta ocasión centramos la atención en los tiles o bloques.
 
@@ -59,7 +59,7 @@ Eso reza la famosa máxima, y esto es lo que hicieron, dividir la pantalla en tr
 
 Si lo tradujera en texto, en lugar de tener que guardar algo del estilo: **"dibujoagua dibujoagua dibujoagua dibujoagua dibujoagua dibujoagua dibujoagua dibujoagua dibujoagua"** simplemente almacenaremos **"9 x dibujoagua"** lo que evidentemente ahorra cantidades ingentes de memoria para almacenar las pantallas.
 
-```markdown
+```pre
 El truco radica en guardar una sola vez el dibujo y repetirlo en lugar de almacenar los píxeles de cada parte de la pantalla, requiere más trabajo para evitar que se note la repetición pero merece la pena.
 ```
 
@@ -74,7 +74,7 @@ Como me jacto de unir lo viejo y lo nuevo, predicaré con el ejemplo, este video
 
 Un **pequeño ejercicio**: dedica un rato a tratar de identificar los bloques individuales que he usado para crear el mareado de [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Big Javis Adventure]] e incluso descárgalo, y usando la versión 4.6 de AGD cargado para ver cómo está hecho, no hay mejor forma de aprender que tocar.
 
-```markdown
+```pre
 Si vas a cargar el juego en AGD, te recomiendo que uses la opción cargar de AGD y pongas la cinta del juego a partir del final de la screen.
 ```
 
@@ -90,7 +90,7 @@ AGD utiliza este bloque, de tipo "empty space" (lo explicaremos cuando lleguemos
 
 Si lo tocamos, variaremos todo el fondo (para bien y para mal).
 
-```markdown
+```pre
 Nota importante: Este bloque también define los colores de los sprites, el "paper" de este bloque será el de fondo y el "ink" la tinta. Es algo que sucede "por que se ha diseñado así".
 ```
 
@@ -104,9 +104,9 @@ En la pantalla del editor podemos ver varios elementos:
 
 Os copio aquí la lista de atajos de teclado de esta pantalla:
 
-```
+```pre
 TECLAS
-======= =====================================
+=============================================
 - FLECHAS = Mover el cursor de dibujo
 - SPACE = Cambia color del pixel seleccionado
 - Q = Mover a la izquierda por las propiedades
@@ -120,7 +120,7 @@ TECLAS
 - K = Pegar bloque desde el portapapeles
 - C = Limpiar el bloque actual
 - X = Crea un nuevo bloque
-- D = Borra el bloque actual
+- D* = Borra el bloque actual
 - ENTER = Volver al menú principal.
 ```
 

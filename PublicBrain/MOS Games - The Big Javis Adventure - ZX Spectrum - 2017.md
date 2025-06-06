@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-15T04:30:04.825Z
-modified: 2025-05-31T22:42:16.910Z
+modified: 2025-06-05T13:25:00.914Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -59,15 +59,11 @@ Este es un camino de largo recorrido, pero hay que comenzar por algun sitio :)
 
 ## Controles y Pokes
 
-```
+```pre
 POKES v1.0 (EMS EDITION)
-
 ========================
-
 VIDAS INFINITAS: POKE 30752,0
-
 INMUNIDAD: POKE 33718,175
-
 Gracias McCleod ;)
 ```
 ## ¡Versiones hechas por fans!

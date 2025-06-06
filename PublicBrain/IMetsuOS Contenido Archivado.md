@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T03:16:48.497Z
-modified: 2025-05-11T06:31:54.698Z
+modified: 2025-06-06T11:40:24.779Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -236,5 +236,6 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ## En proceso de inventario ...
 
 * [[Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)]]
+* [[Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③]]
 
 ![[Plantilla - 1MT#One More Thing]]

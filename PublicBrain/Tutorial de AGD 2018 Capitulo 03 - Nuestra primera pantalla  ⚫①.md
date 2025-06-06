@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-04T20:50:16.259Z
-modified: 2025-06-05T03:05:52.229Z
+modified: 2025-06-05T12:25:06.049Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,8 +23,8 @@ tags:
 
 ![Mockup de una pantalla de JBA en Amstrad CPC](PublicBrain/_resources/c6240a25f107f33d58a76ce0ca300d86_MD5.jpg)
 
-[[Tutorial de AGD 2018 Edition ⚫①]]
-[[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|<< Anterior]]  | Siguiente >>
+* [[Tutorial de AGD 2018 Edition ⚫①]]
+* [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|<< Anterior]]  | Siguiente >>
 
 Continuamos con el tutorial de AGD en español, en esta ocasión crearemos nuestra primera pantalla, y os propondré el ejercicio artístico que les prometí en [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|el capítulo anterior]].
 
@@ -60,29 +60,22 @@ Globalmente funciona de una forma similar al editor de bloques, pero con un obje
 
 En esencia, esta pantalla funciona como un lienzo en el que iremos "estampando" los diferentes tiles hasta formar la imagen deseada, así de sencillo. He aquí las teclas que necesitarás:
 
-```
+```pre
 TECLAS
-======= =====================================
+=============================================
 - FLECHAS = Mover el cursor de dibujo
 - SPACE = "Estampa" el bloque actual en la posición del cursor
- 
 - F = Activa/Desactiva el modo de dibujado rápido.
- 
 - 1 = Mover a la izquierda por los bloques
 - 2 = Mover a la derecha por los bloques
- 
 - N = Siguiente Pantalla
 - P = Pantalla Anterior
-
 - M = Copiar pantalla actual al portapapeles
 - K = Pegar pantalla desde el portapapeles
-
 - X = Crea una nueva pantalla
 - D = Borra la pantalla actual
-
 - ENTER = Volver al menú principal.
 ```
-
 ### ¿Cómo usamos el editor de pantallas?
 
 En realidad, el flujo de trabajo es sencillo, en primer lugar, tenemos que ir a la pantalla que queremos editar, si no es la que aparece al entrar, o crear una si es lo que precisamos.
@@ -107,7 +100,7 @@ Para desactivarlo, pulsaremos de nuevo la tecla F.
 Una vez te hayas familiarizado con el interfaz del editor de pantallas, te propongo los tres ejercicios siguientes:
 
 1. Recrea en tu AGD la pantalla que estamos usando como ejemplo de la cueva, con los tiles que tú mismo has creado en el capítulo anterior.
-2. Crea copias de los tiles que has usado, cámbialos a tu gusto (manteniendo los originales), duplica la pantalla que creaste y modifica la copia para que se dibuje usando tus tiles, no los de "[[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Big Javis Adventure]]]".
+2. Crea copias de los tiles que has usado, cámbialos a tu gusto (manteniendo los originales), duplica la pantalla que creaste y modifica la copia para que se dibuje usando tus tiles, no los de "[[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Big Javis Adventure]]".
 3. Como BONUS, duplica la pantalla que acabas de crear a tu gusto, y conviértela en una aún mejor obra de arte, añadiendo tiles nuevos para que el aspecto sea del todo espectacular.
 
 Una vez terminadas, deberías tener 3 pantallas distintas:

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①.md",
+                "file": "PublicBrain/Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①"
+              "title": "Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③"
+            }
+          },
+          {
+            "id": "effd0cc338399589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,44 +220,43 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1024f2a16a502349",
+  "active": "effd0cc338399589",
   "lastOpenFiles": [
+    "Noticias.md",
+    "PublicBrain/Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③.md",
+    "PublicBrain/Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③.md",
+    "_resources/1020b77b6be23051760549224206aee9_MD5.jpeg",
+    "HeaderNoticia.png",
+    "PublicBrain/IMetsuOS Contenido Archivado.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
+    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+    "PublicBrain/_resources/286bdc4acd76224c3abf861f85394c94_MD5.jpeg",
+    "ChatGPT Image 5 jun 2025, 22_04_29.png",
+    "PublicBrain/ChatGPT Image 5 jun 2025, 22_04_29.png",
+    "PublicBrain/_resources/e98c794282ea682c07cf21736f0671ac_MD5.jpg",
+    "PublicBrain/_resources/7230d350c2b89f0387822e29b0313aff_MD5.jpg",
+    "PublicBrain/_resources/cf9ceda2b7f99484a74b901757440284_MD5.jpeg",
+    "ChatGPT Image 5 jun 2025, 21_58_16.png",
+    "PublicBrain/Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③.md",
+    "PublicBrain/_resources/7447946116a59fd48c44a99a0710e711_MD5.jpeg",
+    "Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06  ⚫①.md",
+    "PublicBrain/MetsuOS Contenido en Preparación.md",
+    "PublicBrain/Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③.md",
+    "PublicBrain/Horarios y citas (N5-JP).md",
+    "PublicBrain/Herramientas de IA para Docentes, Creadores y Profesionales ⚫①.md",
+    "Index.md",
+    "Novedades.md",
+    "PublicBrain/MOS Games - The Big Javis Adventure - ZX Spectrum - 2017.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
-    "Novedades.md",
-    "Noticias.md",
-    "Index.md",
-    "PublicBrain/Index.md",
     "PublicBrain/PublicIndex/Index.md",
-    "PublicBrain/_resources/93d89a3d45bc00c2f68cf4cb0f6db69e_MD5.jpg",
-    "imagenGaleria_BJA_Cueva.png",
-    "PublicBrain/_resources/c6240a25f107f33d58a76ce0ca300d86_MD5.jpg",
     "Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①.md",
-    "PublicBrain/_resources/f99f121c28c37f1b1f7bd0761189d065_MD5.jpg",
-    "PublicBrain/_resources/073300d3399982fa460d948b931193e9_MD5.jpeg",
-    "imagenGaleria_EditorBloque0.png",
-    "PublicBrain/_resources/0deb0b7ab3e2c4c0f4e5a28e861e92d9_MD5.jpeg",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 01 ⚫①.md",
     "Tutorial de AGD 2018 Capitulo 01 ⚫①.md",
     "Tutorial de AGD 2018 Capitulo 02 ⚫①.md",
-    "PublicBrain/_resources/d331958696fd5f055f430f879c2d361e_MD5.jpg",
-    "PublicBrain/_resources/944ab7fdce26b6a4483ee2fd581eabd7_MD5.jpeg",
-    "imagenGaleria_BJAScreen.png",
-    "PublicBrain/MOS Games - The Big Javis Adventure - ZX Spectrum - 2017.md",
-    "Juegos.md",
-    "Curso de AGD 2018 Capitulo 01.md",
-    "PublicBrain/MetsuOS Contenido en Preparación.md",
-    "Curso de AGD 2018 Edition.md",
-    "PublicBrain/Desarrollo de Videojuegos Basado en Evidencia.md",
-    "Desarrollo de Videojuegos Basado en Evidencia.md",
-    "PublicBrain/Herramientas de IA para Docentes, Creadores y Profesionales ⚫①.md",
-    "Blog.md",
-    "PublicBrain/Manejo de errores y excepciones (IDRA-EBay) 🔴②.md",
-    "PublicBrain/Blog - Sobre el sistema de validacion de contenido de MetsuOS - 2025-06-01 🔴②.md",
-    "PublicBrain/Blog - Sobre el sistema de validacion de contenido de MetsuOS ⚫①.md",
-    "PublicBrain/Impacto emocional y psicológico de las historias.md",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

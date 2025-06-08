@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-05T21:11:53.730Z
-modified: 2025-06-06T11:40:54.422Z
+modified: 2025-06-06T17:55:27.303Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -58,7 +58,7 @@ Pero no es solo eso, hay un punto más que quizá ha pasado desapercibido ...
 
 ![Ambos, el yo del pasado y del presente, juntos disfrutando de la aficion](PublicBrain/_resources/cf9ceda2b7f99484a74b901757440284_MD5.jpeg)
 
-Ya lo comentaba al inicio de este artículo, en un tono más """artístico""", todos nosotros somos ambos personajes, los 33 años no solo han pasado también por todos nosotrs, hemos mutado desde aquel joven con ilusiones hasta el adulto con certezas, somos producto de millones de ilusiones, cien victorias y diez mil derrotas, todos estamos llenos de cicatrices y es facil perder al niño interior en el proceso.
+Ya lo comentaba al inicio de este artículo, en un tono más """artístico""", todos nosotros somos ambos personajes, los mas de 40 años, casi 41, (¡gracias UTO!)  no solo han pasado entre las dos portadas, también lo han hecho por todos nosotrs, hemos mutado desde aquel joven con ilusiones hasta el adulto con certezas, somos producto de millones de ilusiones, cien victorias y diez mil derrotas, todos estamos llenos de cicatrices y es facil perder al niño interior en el proceso.
 
 Como digo es facil perder la objetividad por frustraciones diversas, no haber logrado todo lo que queríamos, ver como el tiempo pasa inexorablemente, que nuestro cuerpo y mente ya no responden como cuando mirábamos al futuro con inocencia, mas no debemos sucumbir a la tentación del lado oscuro.
 

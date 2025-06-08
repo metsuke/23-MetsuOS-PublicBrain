@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-03T02:52:51.290Z
-modified: 2025-06-05T12:53:45.024Z
+modified: 2025-06-08T04:26:39.818Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①
+If all your fleas and critters are champs in Bugaboo style, hop to page 2!# Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①
 
 ![Pantalla de Inicio de JBA](/PublicBrain/_resources/f99f121c28c37f1b1f7bd0761189d065_MD5.jpg)
 
@@ -105,7 +105,7 @@ En la pantalla del editor podemos ver varios elementos:
 Os copio aquí la lista de atajos de teclado de esta pantalla:
 
 ```pre
-TECLAS
+Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①
 =============================================
 - FLECHAS = Mover el cursor de dibujo
 - SPACE = Cambia color del pixel seleccionado

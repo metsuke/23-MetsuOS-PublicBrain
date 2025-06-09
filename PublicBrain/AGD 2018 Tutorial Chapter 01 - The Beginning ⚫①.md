@@ -9,12 +9,12 @@ checked: 0
 lang: EN
 translations: 
 created: 2025-06-02T21:45:37.355Z
-modified: 2025-06-08T04:23:59.757Z
+modified: 2025-06-09T07:28:58.692Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,8 +26,7 @@ tags:
 
 * [[AGD 2018 Tutorial ⚫①]]
 * [[AGD 2018 Tutorial Chapter 02 - What Are Tiles ⚫①|Next >>]]
-## Lang
-* [[Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①|CA]] | **[[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① - EN|EN]]** | [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|ES]]
+
 ## AGD: Chapter One
 
 Hello everyone! We’re starting a tutorial here.
@@ -177,3 +176,6 @@ One final note: I strongly urge you not to just follow this tutorial’s steps m
 ## References
 
 - [Paul Jenkinson’s AGD Videos 🌐🟡③](http://randomkak.blogspot.com.es/p/agd-video-tutorials.html)
+
+## Lang
+* [[Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①|CA]] | **[[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① - EN|EN]]** | [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|ES]]

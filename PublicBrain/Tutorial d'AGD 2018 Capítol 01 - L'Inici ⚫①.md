@@ -9,12 +9,12 @@ checked: 0
 lang: CA
 translations: 
 created: 2025-06-02T21:45:37.355Z
-modified: 2025-06-08T13:35:50.113Z
+modified: 2025-06-09T07:31:00.964Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 13
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,10 +25,6 @@ tags:
 
 * [[Tutorial de AGD 2018 Edition ⚫①|Tutorial d'AGD Edició 2018]]
 * [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|Següent >>]]
-
-DISCLAIMER: Lang es funcoinalidad en pruebas
-## Lang
-* **[[Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①|CA]]** | [[AGD 2018 Tutorial Chapter 01 - The Beginning ⚫①|EN]] | [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|ES]]
 
 ## AGD: Capítol u
 
@@ -129,7 +125,7 @@ TECLATS
 - 1/2 per augmentar o disminuir la mida horitzontal. 
 - Q/A per variar la mida vertical. 
 - 5/6/7/8 per moure el bloc (format pels quadrats vermells i negres) per la pantalla.
-``
+```
 
 És en aquesta àrea de quadres de color on el nostre joc cobrarà vida. Un cop definida, tan senzill com prémer **Intro** i tornem al menú principal.
 
@@ -175,4 +171,7 @@ Només una cosa més: us prego que no us limiteu a seguir els passos d'aquest tu
 
 - [Els vídeos sobre AGD de Paul Jenkinson 🌐🟡③](http://randomkak.blogspot.com.es/p/agd-video-tutorials.html)
 
-![[Plantilla - 1MT#One More Thing]]
+## Lang
+* **[[Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①|CA]]** | [[AGD 2018 Tutorial Chapter 01 - The Beginning ⚫①|EN]] | [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|ES]]
+
+

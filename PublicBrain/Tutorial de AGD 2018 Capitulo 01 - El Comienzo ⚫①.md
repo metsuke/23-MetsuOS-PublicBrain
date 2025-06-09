@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:45:37.355Z
-modified: 2025-06-08T04:23:59.695Z
+modified: 2025-06-09T07:30:37.280Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -179,3 +179,7 @@ Solo una cosa más: les ruego encarecidamente que no se limiten a seguir los pas
 
 * [Los videos sobre AGD de Paul Jenkinson  🌐🟡③](http://randomkak.blogspot.com.es/p/agd-video-tutorials.html) 
 
+## Lang
+* [[Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①|CA]] | [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① - EN|EN]] | **[[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|ES]]**
+
+![[Plantilla - 1MT#One More Thing]]

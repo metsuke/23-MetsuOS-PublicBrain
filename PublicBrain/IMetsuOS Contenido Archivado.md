@@ -236,6 +236,5 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 ## En proceso de inventario ...
 
 * [[Mis Apuntes medio, muy, extremadamente, demencialmente caóticos (En revisión)]]
-* [[Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③]]
 
 ![[Plantilla - 1MT#One More Thing]]

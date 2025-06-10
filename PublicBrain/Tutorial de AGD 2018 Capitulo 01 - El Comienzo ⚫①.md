@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:45:37.355Z
-modified: 2025-06-09T07:30:37.280Z
+modified: 2025-06-10T04:49:10.186Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 13
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,10 +25,6 @@ tags:
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
 * [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|Siguiente >>]]
-
-DISCLAIMER: Lang es funcoinalidad en pruebas
-## Lang
-* [[Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①|CA]] | [[AGD 2018 Tutorial Chapter 01 - The Beginning ⚫①|EN]] | **[[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|ES]]**
 
 ## AGD: Capitulo uno
 
@@ -180,6 +176,6 @@ Solo una cosa más: les ruego encarecidamente que no se limiten a seguir los pas
 * [Los videos sobre AGD de Paul Jenkinson  🌐🟡③](http://randomkak.blogspot.com.es/p/agd-video-tutorials.html) 
 
 ## Lang
-* [[Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①|CA]] | [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① - EN|EN]] | **[[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|ES]]**
+* [[Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①|CA]] | [[AGD 2018 Tutorial Chapter 01 - The Beginning ⚫①|EN]] | **[[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|ES]]**
 
 ![[Plantilla - 1MT#One More Thing]]

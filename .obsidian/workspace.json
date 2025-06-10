@@ -8,77 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1024f2a16a502349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③"
-            }
-          },
-          {
-            "id": "effd0cc338399589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①"
-            }
-          },
-          {
-            "id": "491a1fb648588b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①"
-            }
-          },
-          {
-            "id": "1da8df2475359d69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/AGD 2018 Tutorial Chapter 01 - The Beginning ⚫①.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AGD 2018 Tutorial Chapter 01 - The Beginning ⚫①"
-            }
-          },
-          {
             "id": "848a38db9c2f596e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①.md",
+                "file": "PublicBrain/IMetsuOS Contenido Archivado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①"
+              "title": "IMetsuOS Contenido Archivado"
+            }
+          },
+          {
+            "id": "6254e4e9abe610cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -159,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -264,42 +222,41 @@
   },
   "active": "848a38db9c2f596e",
   "lastOpenFiles": [
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①.md",
-    "PublicBrain/AGD 2018 Tutorial Chapter 01 - The Beginning ⚫①.md",
+    "PublicBrain/Index.md",
+    "Index.md",
     "PublicBrain/Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①.md",
-    "PublicBrain/Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③.md",
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①.md",
+    "PublicBrain/AGD 2018 Tutorial Chapter 01 - The Beginning ⚫①.md",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
+    "PublicBrain/_resources/d4a7b2b317881acbbd78abd04b7293da_MD5.jpg",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①.md",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①.md",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①.md",
+    "PublicBrain/AGD 2018 Tutorial ⚫①.md",
+    "AGD 2018 Tutorial ⚫①.md",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① - EN.md",
+    "Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① - EN.md",
     "Novedades.md",
-    "PublicBrain/Plantilla - 1MT - CA.md",
+    "PublicBrain/_resources/6c2f0adabef491261f303463d87384a0_MD5.jpeg",
+    "imagenGaleria_SpriteLemmings.png",
+    "PublicBrain/_resources/b3bbeaa2d42affc8f37f1ebf347588b8_MD5.jpeg",
+    "imagenGaleria_SpriteLlama.png",
+    "PublicBrain/_resources/c523a9ddf4680d84637f7c3f5c2c1a7e_MD5.jpeg",
+    "imagenGaleria_SpriteNave.png",
+    "PublicBrain/_resources/f6581817fe446293c189d2b5f1072001_MD5.jpeg",
+    "imagenGaleria_SpriteJavi.png",
+    "PublicBrain/_resources/075d786a132e2fa4dc5a7495aee94f97_MD5.jpg",
+    "PublicBrain/Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③.md",
+    "Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka el Muñequito y los Bichos ⚫①.md",
+    "PublicBrain/Apoya el proyecto.md",
     "PublicBrain/Plantilla - 1MT.md",
+    "PublicBrain/Plantilla - 1MT - CA.md",
     "PublicBrain/¿Cómo distinguir la ciencia sólida en nutrición de la pseudociencia y las historias personales? 🔴②.md",
     "Noticias.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① - CA copia.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① copia.md",
-    "Index.md",
-    "_resources/e276ff688e3bf43a46f59fa902bf03e8_MD5.jpeg",
-    "_resources/dcb89824d1e26f076ea3cb218923cb57_MD5.jpeg",
-    "PublicBrain/B15E1B72-1E02-4D0C-AD3E-CB1866D6B0C3.jpeg",
-    "_resources/6ecc11b3aa0f6fb81f1dbd151819f919_MD5.jpeg",
-    "_resources/3cd4b1136187f0f82ce85cb729b75b9f_MD5.jpeg",
     "PublicBrain/Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③.md",
-    "_resources/1020b77b6be23051760549224206aee9_MD5.jpeg",
-    "HeaderNoticia.png",
     "PublicBrain/IMetsuOS Contenido Archivado.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
-    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
-    "PublicBrain/_resources/286bdc4acd76224c3abf861f85394c94_MD5.jpeg",
-    "ChatGPT Image 5 jun 2025, 22_04_29.png",
-    "PublicBrain/ChatGPT Image 5 jun 2025, 22_04_29.png",
-    "PublicBrain/Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③.md",
-    "Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06  ⚫①.md",
-    "PublicBrain/MetsuOS Contenido en Preparación.md",
-    "PublicBrain/Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③.md",
-    "PublicBrain/Horarios y citas (N5-JP).md",
-    "PublicBrain/Herramientas de IA para Docentes, Creadores y Profesionales ⚫①.md",
-    "PublicBrain/MOS Games - The Big Javis Adventure - ZX Spectrum - 2017.md",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

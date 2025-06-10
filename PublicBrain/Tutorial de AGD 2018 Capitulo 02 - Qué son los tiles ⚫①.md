@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-03T02:52:51.290Z
-modified: 2025-06-08T04:26:39.818Z
+modified: 2025-06-10T04:30:48.209Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 13
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-If all your fleas and critters are champs in Bugaboo style, hop to page 2!# Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①
+# Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①
 
 ![Pantalla de Inicio de JBA](/PublicBrain/_resources/f99f121c28c37f1b1f7bd0761189d065_MD5.jpg)
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-04T20:50:16.259Z
-modified: 2025-06-08T04:26:39.911Z
+modified: 2025-06-10T04:19:04.367Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Mockup de una pantalla de JBA en Amstrad CPC](PublicBrain/_resources/c6240a25f107f33d58a76ce0ca300d86_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|<< Anterior]]  | Siguiente >>
+* [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|<< Anterior]]  | [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|Siguiente >>]]
 
 Continuamos con el tutorial de AGD en español, en esta ocasión crearemos nuestra primera pantalla, y os propondré el ejercicio artístico que les prometí en [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|el capítulo anterior]].
 
@@ -126,7 +126,7 @@ En el próximo capítulo crearemos nuestro primer Sprite, orientando nuestro ava
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si llegaste aqui producto de una abducción extraterrestre y no tienes claro de que va todo esto, acude al departamento de orientación estudiantil situado en el hall del teatro, y ahi pregunta por la página 1]]
 * [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|Si has dado de comer al mogwai después de las 12, ¡aprende a prestar atención y vuelve echando leches a la página 2!]]
 * [[Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①|Si necesitas llamar a casa, ve a la cabina de la página 3]]
-* Si tienes sed, traeme a mi otra lata y espera 2D20+1 horas mientras el mago invoca el contenido
+* [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|Si crees que ya es momento de animarse, lanzate a la página 4]]
 ## Referencias Bibliográficas
 
 No se requiere ninguna

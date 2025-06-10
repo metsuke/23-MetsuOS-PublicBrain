@@ -9,12 +9,12 @@ checked: 0
 lang: CA
 translations: 
 created: 2025-06-02T21:45:37.355Z
-modified: 2025-06-09T07:31:00.964Z
+modified: 2025-06-10T05:07:49.164Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 14
+ver_rev: 15
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,6 +22,10 @@ tags:
 # Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①
 
 ![Menú Principal d'AGD](PublicBrain/_resources/d331958696fd5f055f430f879c2d361e_MD5.jpg)
+
+```
+CONTINGUT EXPERIMENTAL
+```
 
 * [[Tutorial de AGD 2018 Edition ⚫①|Tutorial d'AGD Edició 2018]]
 * [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|Següent >>]]

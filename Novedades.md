@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-02T21:36:48.256Z
+modified: 2025-06-10T21:19:20.797Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 14
+ver_rev: 15
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,17 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![El protagonista de la hipotetica portada de una publicacion sobre desarrollo retro con PixiJS](_resources/3a640ea5fc91cd21e4047a6f1204f906_MD5.jpg)
+## Curso de PixiJS
+
+Este es otro plan a 90-120 dias en el que desarrollaremos lo necesario para empezar a crear cosas en Web con esta plataforma.
+
+El contenido es temporal y tengo que afinarlo documento por documento para dotarlo de la continuidad y narrativa necesarias para que sea util como curso, pero de este modo podreis seguir el progreso casi en tiempo real.
+
+Continuar leyendo en ... [[Curso de PixiJS ⚫①]]
+
+ --- column-end ---
 
 ![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
 ## Tutorial de AGD 2018 Edition

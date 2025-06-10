@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.575Z
-modified: 2024-09-15T23:56:49.955Z
+modified: 2025-06-10T21:14:02.920Z
 supervisado: 2024-05-27T13:38:00.153Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 80
+ver_rev: 81
 nav_primary: 
 nav_secondary: 
 tags:
@@ -49,7 +49,7 @@ tags:
 ## Librarías y Frameworks
 
 * [[Aprender sobre Mermaid]]
-* [[Aprender sobre PixiJS ⚫①]]+
+* [[Curso de PixiJS ⚫①]]+
 * [[Aprender sobre Pyxel  ⚫①]]
 
 ![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T03:55:46.847Z
-modified: 2024-06-10T15:26:27.174Z
+modified: 2025-06-10T21:14:02.715Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Aplicación de efectos visuales a sprites en PixiJS
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 ¡Claro! La aplicación de efectos visuales a sprites es una parte emocionante del desarrollo con PixiJS. Aquí tienes una guía sobre cómo puedes lograrlo:
 

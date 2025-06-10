@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.632Z
-modified: 2024-06-10T15:14:13.795Z
+modified: 2025-06-10T21:14:06.020Z
 supervisado: 2024-05-27T13:38:07.690Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 11
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Qué es PixiJS y su historia 🔴②
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 PixiJS es una biblioteca de renderizado 2D en JavaScript que se utiliza para crear gráficos y animaciones de alta calidad en el navegador web. Fue creada originalmente por Mat Groves en 2013 con el objetivo de ofrecer una alternativa ligera y eficiente a otras bibliotecas de renderizado 2D en el mercado.
 

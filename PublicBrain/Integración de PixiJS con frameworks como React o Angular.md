@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:42:01.597Z
-modified: 2024-06-10T15:26:26.785Z
+modified: 2025-06-10T21:14:05.206Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Integración de PixiJS con frameworks como React o Angular
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 Integrar PixiJS con frameworks como React o Angular es posible y puede brindarte una gran flexibilidad y potencia para crear aplicaciones web interactivas y juegos. Aquí te explico cómo puedes realizar la integración con cada uno de estos frameworks:
 

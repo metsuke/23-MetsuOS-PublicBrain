@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-13T12:56:20.325Z
-modified: 2024-06-10T15:26:27.014Z
+modified: 2025-06-10T21:14:03.693Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Creación de filtros personalizados en PixiJS
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 ¡Claro! Crear filtros personalizados en PixiJS te permite llevar tus efectos visuales al siguiente nivel al permitirte definir tus propios efectos específicos. Aquí tienes los pasos básicos para crear tus propios filtros personalizados en PixiJS:
 

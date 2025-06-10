@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-07T07:46:24.979Z
-modified: 2024-06-10T15:14:13.960Z
+modified: 2025-06-10T21:14:04.077Z
 supervisado: 2024-05-27T13:38:00.872Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Creación y manipulación de sprites en PixiJS 🔴②
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 ## Introducción
 

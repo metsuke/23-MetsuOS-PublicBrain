@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-18T03:47:46.567Z
-modified: 2024-06-10T15:26:26.801Z
+modified: 2025-06-10T21:14:05.079Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Implementación de características avanzadas (física, partículas, etc.) en PixiJS ⚫①
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 Para implementar características avanzadas en PixiJS, como física y partículas, puedes recurrir a bibliotecas y complementos que proporcionen estas funcionalidades adicionales. Aquí hay una guía general sobre cómo implementar algunas de estas características:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-17T06:27:23.058Z
-modified: 2024-06-10T15:26:26.995Z
+modified: 2025-06-10T21:14:04.192Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Desarrollo de un proyecto completo y accesible utilizando PixiJS ⚫①
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 Desarrollar un proyecto completo y accesible utilizando PixiJS implica seguir un proceso estructurado que abarca desde la planificación hasta la implementación y la optimización. Aquí tienes una guía paso a paso para llevar a cabo este proceso:
 

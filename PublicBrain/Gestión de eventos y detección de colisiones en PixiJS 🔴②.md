@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T20:42:55.144Z
-modified: 2024-06-25T17:32:44.288Z
+modified: 2025-06-10T21:14:04.728Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Gestión de eventos y detección de colisiones en PixiJS 🔴②
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 La gestión de eventos y la detección de colisiones son dos aspectos fundamentales al desarrollar aplicaciones y juegos con PixiJS. En este artículo, exploraremos cómo implementar ambas funcionalidades de manera efectiva.
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/IMetsuOS Contenido Archivado.md",
+                "file": "PublicBrain/Reproducción de sonidos y efectos de sonido en Pyxel 🔴②.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IMetsuOS Contenido Archivado"
+              "title": "Reproducción de sonidos y efectos de sonido en Pyxel 🔴②"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①.md",
+                "file": "PublicBrain/Curso de PixiJS ⚫①.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①"
+              "title": "Curso de PixiJS ⚫①"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,43 +220,44 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "848a38db9c2f596e",
+  "active": "6254e4e9abe610cb",
   "lastOpenFiles": [
+    "PublicBrain/Qué es PixiJS y su historia 🔴②.md",
+    "PublicBrain/Curso de PixiJS ⚫①.md",
+    "Novedades.md",
+    "_resources/3a640ea5fc91cd21e4047a6f1204f906_MD5.jpg",
+    "PublicBrain/_resources/d56c5ac2fb02c87c260e1e9902ae0b13_MD5.jpg",
+    "PublicBrain/PixiJSFull.jpg",
+    "PublicBrain/Aprender sobre Programación ⚫①.md",
+    "PublicBrain/IMetsuOS Contenido Archivado.md",
     "PublicBrain/Index.md",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①.md",
+    "PublicBrain/Reproducción de sonidos y efectos de sonido en Pyxel 🔴②.md",
+    "PublicBrain/Aprender sobre Pyxel  ⚫①.md",
+    "PublicBrain/¿Qué es Pyxel?  🔴②.md",
     "Index.md",
     "PublicBrain/Tutorial d'AGD 2018 Capítol 01 - L'Inici ⚫①.md",
     "PublicBrain/AGD 2018 Tutorial Chapter 01 - The Beginning ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
     "PublicBrain/_resources/d4a7b2b317881acbbd78abd04b7293da_MD5.jpg",
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①.md",
     "PublicBrain/AGD 2018 Tutorial ⚫①.md",
     "AGD 2018 Tutorial ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① - EN.md",
     "Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① - EN.md",
-    "Novedades.md",
     "PublicBrain/_resources/6c2f0adabef491261f303463d87384a0_MD5.jpeg",
     "imagenGaleria_SpriteLemmings.png",
     "PublicBrain/_resources/b3bbeaa2d42affc8f37f1ebf347588b8_MD5.jpeg",
     "imagenGaleria_SpriteLlama.png",
     "PublicBrain/_resources/c523a9ddf4680d84637f7c3f5c2c1a7e_MD5.jpeg",
     "imagenGaleria_SpriteNave.png",
-    "PublicBrain/_resources/f6581817fe446293c189d2b5f1072001_MD5.jpeg",
-    "imagenGaleria_SpriteJavi.png",
-    "PublicBrain/_resources/075d786a132e2fa4dc5a7495aee94f97_MD5.jpg",
     "PublicBrain/Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③.md",
     "Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka el Muñequito y los Bichos ⚫①.md",
     "PublicBrain/Apoya el proyecto.md",
     "PublicBrain/Plantilla - 1MT.md",
     "PublicBrain/Plantilla - 1MT - CA.md",
-    "PublicBrain/¿Cómo distinguir la ciencia sólida en nutrición de la pseudociencia y las historias personales? 🔴②.md",
-    "Noticias.md",
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① - CA copia.md",
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫① copia.md",
-    "PublicBrain/Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③.md",
-    "PublicBrain/IMetsuOS Contenido Archivado.md",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

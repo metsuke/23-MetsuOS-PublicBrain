@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-16T06:25:13.240Z
-modified: 2024-06-10T15:26:26.931Z
+modified: 2025-06-10T21:14:04.572Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Exportación de proyectos PixiJS para su distribución en la web y dispositivos móviles
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 Para exportar proyectos PixiJS y distribuirlos en la web y dispositivos móviles, aquí hay algunos pasos generales que puedes seguir:
 

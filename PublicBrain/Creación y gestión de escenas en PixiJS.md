@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T11:30:38.163Z
-modified: 2024-06-10T15:26:27.011Z
+modified: 2025-06-10T21:14:03.971Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Creación y gestión de escenas en PixiJS
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 En PixiJS, las escenas son entornos independientes donde se muestran los elementos gráficos y se manejan las interacciones del usuario. La creación y gestión de escenas son fundamentales para desarrollar juegos y aplicaciones interactivas. Aquí te explico cómo puedes crear y gestionar escenas en PixiJS:
 

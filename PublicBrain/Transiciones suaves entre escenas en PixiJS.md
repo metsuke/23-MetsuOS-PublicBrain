@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-12T03:54:45.959Z
-modified: 2024-06-10T15:26:26.381Z
+modified: 2025-06-10T21:14:06.074Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Transiciones suaves entre escenas en PixiJS
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 ¡Por supuesto! Las transiciones suaves entre escenas son una característica importante en el desarrollo de juegos y aplicaciones con PixiJS. Aquí te explico cómo puedes implementarlas:
 

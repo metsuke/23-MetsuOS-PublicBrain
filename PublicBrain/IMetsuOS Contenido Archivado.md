@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T03:16:48.497Z
-modified: 2025-06-06T11:40:24.779Z
+modified: 2025-06-10T21:14:05.041Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
@@ -166,7 +166,7 @@ Empezando a consolidar conocimiento como "Libro de texto", o apuntes más elabor
 * [[Aprender sobre Videojuegos ⚫①]]
 * Aprender sobre Desarrollo de Videojuegos
 	* Aprender sobre MPL
-		* [[Aprender sobre PixiJS ⚫①]]
+		* [[Curso de PixiJS ⚫①]]
 		* [[Aprender sobre Pyxel  ⚫①]]
 
 ### Memes

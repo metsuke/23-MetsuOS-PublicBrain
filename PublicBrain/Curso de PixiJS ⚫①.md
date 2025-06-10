@@ -1,6 +1,6 @@
 ---
 iaStatus: 8
-iaStatus_Model: gpt-3.5-turbo
+iaStatus_Model: gpt-3.5-turbo,Raul Carrillo aka metsuke
 iaStatus_Generado: I
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
@@ -9,20 +9,27 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2024-06-25T17:30:35.442Z
+modified: 2025-06-10T21:14:37.741Z
 supervisado: 2024-06-03T19:56:58.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 105
+ver_rev: 106
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Aprender sobre PixiJS ⚫①
+# Curso de PixiJS ⚫①
 
-[[Aprender sobre Programación ⚫①]]
+![Portada de la hipotetica revista sobre desarrollo retro](PublicBrain/_resources/d56c5ac2fb02c87c260e1e9902ae0b13_MD5.jpg)
 
+[[PublicBrain/Index|Index]]
+
+Este es otro plan a 90-120 dias en el que desarrollaremos lo necesario para empezar a crear cosas en Web con esta plataforma.
+
+El contenido es temporal y tengo que afinarlo documento por documento para dotarlo de la continuidad y narrativa necesarias para que sea util como curso, pero de este modo podreis seguir el progreso casi en tiempo real.
+
+---
 ## Introducción a PixiJS y Gráficos Básicos
 
 - [[Qué es PixiJS y su historia 🔴②]]

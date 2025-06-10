@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-17T06:26:24.051Z
-modified: 2024-06-10T15:26:26.506Z
+modified: 2025-06-10T21:14:05.986Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Pruebas y resolución de problemas comunes en PixiJS ⚫①
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 Al aprender PixiJS, es importante estar preparado para enfrentar desafíos y resolver problemas comunes que puedan surgir durante el desarrollo. Aquí tienes algunas estrategias para realizar pruebas efectivas y abordar problemas comunes:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T10:55:47.476Z
-modified: 2024-06-10T15:26:26.507Z
+modified: 2025-06-10T21:14:05.945Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Pruebas de accesibilidad y retroalimentación de usuarios (PixiJS)
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 Al aprender PixiJS, es crucial asegurarse de que tus aplicaciones y juegos sean accesibles para todos los usuarios, incluidos aquellos con discapacidades. Las pruebas de accesibilidad y la retroalimentación de usuarios son herramientas importantes para garantizar la accesibilidad y mejorar la experiencia de usuario en general. Aquí te explico cómo puedes realizar pruebas de accesibilidad y recopilar retroalimentación de usuarios en tus proyectos de PixiJS:
 

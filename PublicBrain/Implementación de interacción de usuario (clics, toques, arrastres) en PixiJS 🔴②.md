@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-09T20:39:23.746Z
-modified: 2024-06-10T15:14:13.912Z
+modified: 2025-06-10T21:14:05.171Z
 supervisado: 2024-05-28T18:02:39.256Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Implementación de interacción de usuario (clics, toques, arrastres) en PixiJS 🔴②
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 En PixiJS, la implementación de interacciones de usuario como clics, toques y arrastres es fundamental para crear experiencias de usuario interactivas y atractivas. En este artículo, te mostraremos cómo implementar estas interacciones de manera sencilla y efectiva.
 

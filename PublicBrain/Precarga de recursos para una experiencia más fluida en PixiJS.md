@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:40:36.597Z
-modified: 2024-06-10T15:26:26.523Z
+modified: 2025-06-10T21:14:05.613Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Precarga de recursos para una experiencia más fluida en PixiJS
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 La precarga de recursos es una técnica esencial en el desarrollo de juegos y aplicaciones web con PixiJS para garantizar una experiencia más fluida y evitar retrasos durante la ejecución. Aquí te explico cómo puedes implementar la precarga de recursos en PixiJS:
 

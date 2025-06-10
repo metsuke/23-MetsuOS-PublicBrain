@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T00:25:30.148Z
-modified: 2024-06-10T15:26:26.578Z
+modified: 2025-06-10T21:14:05.356Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Optimización de la carga de recursos y gestión de memoria en PixiJS
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 La optimización de la carga de recursos y la gestión de memoria son aspectos críticos en el desarrollo de juegos y aplicaciones con PixiJS. Aquí tienes algunas estrategias y técnicas para optimizar la carga de recursos y gestionar la memoria de manera eficiente:
 

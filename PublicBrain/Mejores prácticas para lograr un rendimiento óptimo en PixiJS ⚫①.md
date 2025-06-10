@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-17T06:25:24.797Z
-modified: 2024-06-10T15:26:26.637Z
+modified: 2025-06-10T21:14:05.308Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Mejores prácticas para lograr un rendimiento óptimo en PixiJS ⚫①
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 Para lograr un rendimiento óptimo en tus aplicaciones o juegos desarrollados con PixiJS, aquí tienes algunas mejores prácticas que puedes seguir:
 

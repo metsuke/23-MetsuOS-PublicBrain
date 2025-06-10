@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-14T00:22:40.088Z
-modified: 2024-06-10T15:26:27.052Z
+modified: 2025-06-10T21:14:03.171Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Carga de audio y video en PixiJS
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 ¡Claro! En PixiJS, la carga de archivos de audio y video es fundamental para crear experiencias multimedia completas. Aquí te muestro cómo puedes cargar y utilizar archivos de audio y video en PixiJS:
 

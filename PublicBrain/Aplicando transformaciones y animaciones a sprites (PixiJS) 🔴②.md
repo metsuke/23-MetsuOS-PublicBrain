@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-08T04:04:45.556Z
-modified: 2024-06-10T15:14:14.138Z
+modified: 2025-06-10T21:14:02.836Z
 supervisado: 2024-05-25T21:02:46.522Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Aplicando transformaciones y animaciones a sprites (PixiJS) 🔴②
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 En PixiJS, puedes aplicar transformaciones y animaciones a sprites para crear efectos visuales dinámicos y atractivos en tus aplicaciones y juegos web. A continuación, te presento una explicación detallada de cómo hacerlo.
 

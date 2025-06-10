@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-11T11:31:47.564Z
-modified: 2024-06-10T15:26:26.371Z
+modified: 2025-06-10T21:14:06.362Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de capas y ordenamiento de elementos visuales en PixiJS
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 En PixiJS, el uso de capas y el ordenamiento de elementos visuales son técnicas importantes para controlar cómo se dibujan y superponen los elementos gráficos en la pantalla. Esto es útil para crear efectos de profundidad, como elementos que aparecen detrás o delante de otros, o para organizar la interfaz de usuario de tu aplicación o juego. Aquí te explico cómo puedes usar capas y ordenamiento de elementos visuales en PixiJS:
 

@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-15T05:43:22.515Z
-modified: 2024-06-10T15:26:26.372Z
+modified: 2025-06-10T21:14:06.230Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Uso de bibliotecas y herramientas de desarrollo de terceros en PixiJS
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 Claro, al aprender PixiJS, es útil conocer algunas bibliotecas y herramientas de desarrollo de terceros que pueden facilitar el proceso de desarrollo y mejorar la funcionalidad de tus proyectos. Aquí tienes algunas opciones populares:
 

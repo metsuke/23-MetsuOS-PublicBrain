@@ -9,19 +9,19 @@ checked: -3
 lang: ES
 translations: 
 created: 2024-04-07T07:47:38.862Z
-modified: 2024-06-10T15:14:14.141Z
+modified: 2025-06-10T21:14:02.342Z
 supervisado: 2024-05-27T13:37:59.469Z
 ACCION: 
 ver_major: 0
 ver_minor: 5
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Anidando sprites y creando escenas interactivas 🔴②
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 ### Anidando Sprites
 ### Anidar sprites significa colocar un sprite dentro de otro, lo que te permite crear jerarquías de objetos visuales más complejas.

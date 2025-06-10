@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-18T03:50:21.586Z
-modified: 2024-06-10T15:26:26.576Z
+modified: 2025-06-10T21:14:05.540Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Optimización y despliegue del proyecto final en PixiJS ⚫①
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 Después de desarrollar tu proyecto en PixiJS, es importante optimizarlo para mejorar su rendimiento y luego desplegarlo correctamente para que otros puedan acceder a él. Aquí tienes algunos pasos que puedes seguir para optimizar y desplegar tu proyecto final:
 

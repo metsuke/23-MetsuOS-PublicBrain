@@ -6,19 +6,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-10T10:21:10.699Z
-modified: 2024-06-10T15:26:26.867Z
+modified: 2025-06-10T21:14:04.820Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Haciendo juegos y aplicaciones accesibles en PixiJS
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 Al hacer juegos y aplicaciones en PixiJS accesibles, es esencial tener en cuenta las necesidades de todos los usuarios, incluidas las personas con discapacidades. Aquí hay algunas prácticas que puedes seguir para hacer tus juegos y aplicaciones en PixiJS más accesibles:
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.077Z
-modified: 2024-06-10T15:14:13.960Z
+modified: 2025-06-10T21:14:03.839Z
 supervisado: 2024-05-27T13:38:00.861Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 11
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Creación de un lienzo (canvas) en PixiJS 🔴②
 
-[[Aprender sobre PixiJS ⚫①]]
+[[Curso de PixiJS ⚫①]]
 
 PixiJS es una potente biblioteca JavaScript para la creación de gráficos interactivos y experiencias visuales en la web. En este artículo, te mostraremos cómo crear un lienzo (canvas) utilizando PixiJS.
 

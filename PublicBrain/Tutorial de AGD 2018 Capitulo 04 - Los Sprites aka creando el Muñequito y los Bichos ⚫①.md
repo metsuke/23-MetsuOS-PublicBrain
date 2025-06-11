@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-09T14:52:48.676Z
-modified: 2025-06-10T04:11:44.064Z
+modified: 2025-06-11T16:28:13.849Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![El Sprite del prota de JBA](PublicBrain/_resources/075d786a132e2fa4dc5a7495aee94f97_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①|<< Anterior]]  | Siguiente >>
+* [[Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①|<< Anterior]]  | [[Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①|Siguiente >>]]
 
 
 Una vez tenemos [[Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①|los tiles y al menos una pantalla de las entregas anteriores de este Tutorial de AGD en español]], y antes de profundizar en los detalles de la configuración de suelos y paredes, o los mapas, vamos a completar los elementos básicos que necesitaremos para crear un juego: nuestro protagonista y los enemigos a los que se enfrentará, tpdp ello, usando Sprites.

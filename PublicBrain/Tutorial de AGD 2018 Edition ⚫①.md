@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-06-10T04:46:45.596Z
+modified: 2025-06-11T16:27:18.401Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -71,12 +71,20 @@ Vamos a completar los elementos básicos que necesitaremos para crear un juego: 
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①]]
 
+--- column-end ---
+
+![Los lemmings estilo monty python en diversas posiciones y colores](PublicBrain/_resources/94373ec992915b406d15e7d2c4c2b131_MD5.jpg)
+## Capitulo 05 - Animando sprites
+
+
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-* Tutorial de AGD 2018 Capitulo 05
 * Tutorial de AGD 2018 Capitulo 06
 * Tutorial de AGD 2018 Capitulo 07
 * Tutorial de AGD 2018 Capitulo 08

@@ -1,6 +1,6 @@
 ---
 iaStatus: 8
-iaStatus_Model: gpt-3.5-turbo,Raul Carrillo aka metsuke
+iaStatus_Model: gpt-3.5-turbo,Grok 3, Raul Carrillo aka metsuke
 iaStatus_Generado: I
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"

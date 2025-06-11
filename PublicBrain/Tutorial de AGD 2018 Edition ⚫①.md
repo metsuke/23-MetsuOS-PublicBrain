@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-06-11T16:27:18.401Z
+modified: 2025-06-11T19:18:03.139Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -76,7 +76,9 @@ Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka cr
 ![Los lemmings estilo monty python en diversas posiciones y colores](PublicBrain/_resources/94373ec992915b406d15e7d2c4c2b131_MD5.jpg)
 ## Capitulo 05 - Animando sprites
 
+Puede parecer una cuestión baladí, pero personalmente creo que el 50% de la conexion con un juego se produce debido a la calidad de la animación ( ⚫①).
 
+Imaginen sino una película de Disney con animaciones estilo South Park... digno de verse sin duda, pero esa magia que hace que los más pequeños de la casa empaticen con los personajes se esfumaria inmediatamente.
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①]]
 

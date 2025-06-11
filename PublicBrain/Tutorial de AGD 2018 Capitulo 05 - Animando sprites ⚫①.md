@@ -22,11 +22,9 @@ tags: []
 * [[Tutorial de AGD 2018 Edition ⚫①]]
 * [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|<< Anterior]]  | Siguiente >>
 
-WIP
-
 [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|En el capítulo anterior, comentábamos los fundamentos de manejo del editor de sprites de AGD]], en esta ocasión querría centrar mi atención en la animacion de sprites.
 
-Puede parecer una cuestión baladí, pero personalmente creo que el 50% de la conexion con un juego se produce debido a la calidad de la animación ( ⚫①) , imaginen sino una película de Disney con animaciones estilo South Park... digno de verse sin duda, pero esa magia que hace que los más pequeños de la casa empaticen con los personajes se esfumaria inmediatamente.
+Puede parecer una cuestión baladí, pero personalmente creo que el 50% de la conexion con un juego se produce debido a la calidad de la animación (⚫①) , imaginen sino una película de Disney con animaciones estilo South Park... digno de verse sin duda, pero esa magia que hace que los más pequeños de la casa empaticen con los personajes se esfumaria inmediatamente.
 
 He de hacer constar que yo no soy animador, por lo que no puedo dar clases al respecto, es por ello que he dedicado un tiempo a localizar y seleccionar algunos contenidos que, estudiados con atención, pondrán en contexto mis comentarios posteriores, y espero ayuden con ello a comprender el proceso de forma general, así como dar a conocer recursos excelentes que ya existen en la red.
 
@@ -64,7 +62,7 @@ Personalmente suelo usar 3 máximo 4 frames en los casos más extremos, para equ
 
 Os pongo a continuacion los cuatro frames de los mini lemmings de JBA, quisiera con ello trasmitir una ultima cuestión en este capítulo y es que cuando las limitaciones son tan grandes hay que jugar con la imaginacion del jugador, así como optimizar la animacion, dotando del mayor carisma posible a nuestras creaciones. Si yo, que soy un perfecto novato, he logrado crear unos mini personajes con muy pocos pixeles, seguro que tu también puedes, y recuerda, esto lo hacemos por diversión, así que cero verguenza y cero miedos, la única competición es contra nosotros mismos para ser mejores cada vez.
 
-![Animacion de los Lemmings, usando una ligera vibracion para enfatizar el objetivo de la animación](PublicBrain/_resources/4fc5f1e5ed8dd95a2330e052bf8ad85a_MD5.gif)()
+![Animacion de los Lemmings, usando una ligera vibracion para enfatizar el objetivo de la animación](PublicBrain/_resources/4fc5f1e5ed8dd95a2330e052bf8ad85a_MD5.gif)
 
 En el próximo capítulo exploraremos la importación de spritesheets en forma de screens y más adelante empezaremos a usar los sprites en la pantalla que creamos. Mientras tanto !disfruten creando sus propias animaciones!
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-06-04T21:11:59.941Z
+modified: 2025-06-12T20:08:55.273Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 214
+ver_rev: 215
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,7 @@ tags:
 
 ### Ciencia de la salud
 
-* [[Apremder sobre Ejercicio basado en evidencia 🔴②]]
+* [[Aprender sobre Ejercicio basado en evidencia 🔴②]]
 * [[Aprender sobre Nutrición basada en evidencia 🔴②]]
 
 ## Bases del Conocimiento

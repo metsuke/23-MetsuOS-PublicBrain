@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T15:34:27.927Z
-modified: 2025-06-12T15:35:46.333Z
+modified: 2025-06-12T20:08:55.318Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -45,11 +45,11 @@ Border: off
 ```
 
 ![Jugador de futbol chibi](PublicBrain/_resources/2419271707ed3e782513535c0c41967d_MD5.jpeg)
-## Apremder sobre Ejercicio basado en evidencia
+## Aprender sobre Ejercicio basado en evidencia
 
 Aprender sobre ejercicio basado en evidencia implica comprender cómo diseñar y aplicar rutinas de actividad física respaldadas por investigaciones científicas sólidas, maximizando beneficios para la salud y el rendimiento mientras se minimizan riesgos. Este enfoque se fundamenta en estudios que evalúan la eficacia de diferentes tipos de ejercicio, como el entrenamiento de fuerza, cardiovascular o de flexibilidad, considerando variables como intensidad, duración y frecuencia, adaptadas a objetivos específicos y características individuales.
 
-Continua leyendo en ... [[Apremder sobre Ejercicio basado en evidencia 🔴②]]
+Continua leyendo en ... [[Aprender sobre Ejercicio basado en evidencia 🔴②]]
  
  --- column-end ---
  
@@ -57,6 +57,7 @@ Continua leyendo en ... [[Apremder sobre Ejercicio basado en evidencia 🔴②]]
 ## Aprender sobre Nutrición basada en evidencia
 
 Aprender sobre nutrición basada en evidencia significa adquirir conocimientos sobre cómo diseñar una alimentación saludable y efectiva, respaldada por investigaciones científicas rigurosas. Este enfoque se centra en entender el impacto de los nutrientes, patrones alimentarios y dietas en la salud, el rendimiento y la prevención de enfermedades, utilizando datos de estudios clínicos y epidemiológicos. Al priorizar la evidencia, se evitan mitos y modas pasajeras, permitiendo tomar decisiones informadas y personalizadas para optimizar el bienestar.
+
 Continua leyendo en ... [[Aprender sobre Nutrición basada en evidencia 🔴②]]
 
  --- column-end ---

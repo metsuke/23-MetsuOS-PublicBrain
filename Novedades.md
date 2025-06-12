@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-10T21:19:20.797Z
+modified: 2025-06-12T15:38:15.294Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 15
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
@@ -64,23 +64,6 @@ Continua leyendo en ... [[Estructura del Conocimiento Humano y Científico ⚫�
 Bajo el título **Estudiar libro - Thinking, Fast and Slow - Daniel Kahneman**, el libro de Kahneman desentraña la estructura del conocimiento humano y científico al explorar cómo nuestras mentes procesan información a través de dos sistemas: uno rápido, impulsado por la intuición, y otro lento, guiado por la lógica. Este marco revela los mecanismos detrás de nuestras decisiones, destacando la importancia de comprender sesgos y errores para mejorar el pensamiento crítico en la ciencia y la vida diaria.
 
 Continua leyendo en ... [[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
-
- --- column-end ---
-
-![Jugador de futbol chibi](PublicBrain/_resources/2419271707ed3e782513535c0c41967d_MD5.jpeg)
-## Apremder sobre Ejercicio basado en evidencia
-
-Aprender sobre ejercicio basado en evidencia implica comprender cómo diseñar y aplicar rutinas de actividad física respaldadas por investigaciones científicas sólidas, maximizando beneficios para la salud y el rendimiento mientras se minimizan riesgos. Este enfoque se fundamenta en estudios que evalúan la eficacia de diferentes tipos de ejercicio, como el entrenamiento de fuerza, cardiovascular o de flexibilidad, considerando variables como intensidad, duración y frecuencia, adaptadas a objetivos específicos y características individuales.
-
-Continua leyendo en ... [[Apremder sobre Ejercicio basado en evidencia 🔴②]]
- 
- --- column-end ---
- 
-![Cocinero y su materia prima](PublicBrain/_resources/ae312c58ea76e35722f751aa60bfbf9e_MD5.jpeg)
-## Aprender sobre Nutrición basada en evidencia
-
-Aprender sobre nutrición basada en evidencia significa adquirir conocimientos sobre cómo diseñar una alimentación saludable y efectiva, respaldada por investigaciones científicas rigurosas. Este enfoque se centra en entender el impacto de los nutrientes, patrones alimentarios y dietas en la salud, el rendimiento y la prevención de enfermedades, utilizando datos de estudios clínicos y epidemiológicos. Al priorizar la evidencia, se evitan mitos y modas pasajeras, permitiendo tomar decisiones informadas y personalizadas para optimizar el bienestar.
-Continua leyendo en ... [[Aprender sobre Nutrición basada en evidencia 🔴②]]
 
  --- column-end ---
 --- multi-column-end

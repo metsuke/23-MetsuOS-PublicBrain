@@ -49,13 +49,11 @@ Reconocida por su rendimiento optimizado y facilidad de uso, PixiJS permite a lo
 Continuar leyendo en ...  [[Qué es PixiJS y su historia 🟡③]]
 
  --- column-end ---
+--- multi-column-end
 
 - [[Configuración del entorno de desarrollo (PixiJS)  🔴②]]
 - [[Creación de un lienzo (canvas) en PixiJS 🔴②]]
 - [[Dibujando formas básicas y gráficos (PixiJS) 🔴②]] 
-
- --- column-end ---
---- multi-column-end
 
 ## Trabajo con Sprites y Texturas
 

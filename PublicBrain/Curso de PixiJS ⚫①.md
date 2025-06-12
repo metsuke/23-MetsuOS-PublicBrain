@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2025-06-10T21:14:37.741Z
+modified: 2025-06-12T07:40:08.291Z
 supervisado: 2024-06-03T19:56:58.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 106
+ver_rev: 108
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,10 +32,30 @@ El contenido es temporal y tengo que afinarlo documento por documento para dotar
 ---
 ## Introducción a PixiJS y Gráficos Básicos
 
-- [[Qué es PixiJS y su historia 🔴②]]
+--- start-multi-column: AGD2018
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Representacion de que es PixiJS en formato portada de revista](/PublicBrain/_resources/51314d6d74cc6597a3b305a6b9173200_MD5.jpg)
+
+## Qué es PixiJS y su historia
+
+**PixiJS** es una potente biblioteca de renderizado 2D en JavaScript diseñada para crear gráficos y animaciones interactivas de alta calidad en navegadores web. 
+
+Reconocida por su rendimiento optimizado y facilidad de uso, PixiJS permite a los desarrolladores construir desde juegos hasta visualizaciones dinámicas con gran eficiencia.
+
+Continuar leyendo en ...  [[Qué es PixiJS y su historia 🟡③]]
+
+ --- column-end ---
+
 - [[Configuración del entorno de desarrollo (PixiJS)  🔴②]]
 - [[Creación de un lienzo (canvas) en PixiJS 🔴②]]
 - [[Dibujando formas básicas y gráficos (PixiJS) 🔴②]] 
+
+ --- column-end ---
+--- multi-column-end
 
 ## Trabajo con Sprites y Texturas
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.632Z
-modified: 2025-06-12T07:37:35.685Z
+modified: 2025-06-14T22:17:10.091Z
 supervisado: 2024-05-27T13:38:07.690Z
 ACCION: 
 ver_major: 0
 ver_minor: 5
-ver_rev: 15
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
@@ -67,9 +67,9 @@ PixiJS ha sido utilizado en proyectos de alto perfil, como:
 
 ## Referencias Bibliográficas que apoyan el contenido
 
-- [[Groves, M. (2013). *PixiJS: A Lightweight, High-Performance 2D Rendering Library* 🌐🟡③](https://pixijs.com/blog)
-- [[PixiJS. (2025). PixiJS FAQ 🌐🟡③](https://pixijs.com/8.x/faq)
-- [[Documentación oficial de PixiJS 🌐🟡③](https://pixijs.download/release/docs/index.html)
+- [Groves, M. (2013). *PixiJS: A Lightweight, High-Performance 2D Rendering Library* 🌐🟡③](https://pixijs.com/blog)
+- [PixiJS. (2025). PixiJS FAQ 🌐🟡③](https://pixijs.com/8.x/faq)
+- [Documentación oficial de PixiJS 🌐🟡③](https://pixijs.download/release/docs/index.html)
 
 ## Referencias Bibliográficas que refutan el contenido
 

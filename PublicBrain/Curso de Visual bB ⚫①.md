@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T02:19:19.640Z
-modified: 2025-06-14T02:38:49.200Z
+modified: 2025-06-14T22:34:20.494Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -170,5 +170,11 @@ A lo largo de este curso, dominarás los conceptos esenciales de Visual Batari B
 - C. Lista de colores del Atari 2600    
 - D. Ejemplos de código comentado    
 - E. Solución de problemas comunes
+
+
+## Referencias bibliográficas
+
+* [Curso de Visual bB - En Ingles 🌐🟡③](https://www.randomterrain.com/atari-2600-memories-batari-basic-vbb.html)
+
 
 ![[Plantilla - 1MT#One More Thing]]

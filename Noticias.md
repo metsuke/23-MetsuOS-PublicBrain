@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-07T00:25:46.011Z
+modified: 2025-06-14T23:29:05.903Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 24
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,11 +22,23 @@ tags:
 # Noticias
 
 
---- start-multi-column: BloqueMicrohobbit00
+--- start-multi-column: BloqueNoticias
 ```column-settings  
 Number of Columns: 2
 Border: off
 ```
+
+![Reinterpretación libre de la portada del juego](_resources/ea6b896b9eb3da5e40a2786e6a616413_MD5.jpg)
+## En mancha la preserva de la edición física de Castle of Terror de PCNONOGames
+
+Junio, 2025 – La comunidad de jugadores retro y coleccionistas de videojuegos está de celebración tras el anuncio de que la edición física de _Castle of Terror_, el nuevo título para Game Boy desarrollado por PCNONOGames. 
+
+Este lanzamiento, que combina nostalgia con un diseño innovador, ha generado gran expectación entre los aficionados a los videojuegos de 8 bits.
+
+Continuar leyendo en ... [[En mancha la prereserva de la edición física de Castle of Terror de PCNONOGames 🔴②]]
+
+
+--- column-end ---
 
 ![Las imagenes de portada del numero 1 y del numero 218 reinterpretadas juntas](_resources/1020b77b6be23051760549224206aee9_MD5.jpeg)
 ## Reveladas Portada y Precio de Microhobby 218

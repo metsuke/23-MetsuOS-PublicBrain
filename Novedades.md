@@ -77,14 +77,15 @@ Continuar leyendo en ... [[Curso de CPCTelera  ⚫①]]
 
  --- column-end ---
 
-![El protagonista de la hipotetica portada de una publicacion sobre desarrollo retro con PixiJS](_resources/3a640ea5fc91cd21e4047a6f1204f906_MD5.jpg)
-## Curso de PixiJS
+![Representacion de que es PixiJS en formato portada de revista](/PublicBrain/_resources/51314d6d74cc6597a3b305a6b9173200_MD5.jpg)
 
-Este es otro plan a 90-120 dias en el que desarrollaremos lo necesario para empezar a crear cosas en Web con esta plataforma.
+## ¿Qué es PixiJS?
 
-El contenido es temporal y tengo que afinarlo documento por documento para dotarlo de la continuidad y narrativa necesarias para que sea util como curso, pero de este modo podreis seguir el progreso casi en tiempo real.
+**PixiJS** es una potente biblioteca de renderizado 2D en JavaScript diseñada para crear gráficos y animaciones interactivas de alta calidad en navegadores web. 
 
-Continuar leyendo en ... [[Curso de PixiJS ⚫①]]
+Reconocida por su rendimiento optimizado y facilidad de uso, PixiJS permite a los desarrolladores construir desde juegos hasta visualizaciones dinámicas con gran eficiencia.
+
+Continuar leyendo en ...  [[Qué es PixiJS y su historia 🟡③]]
 
  --- column-end ---
 

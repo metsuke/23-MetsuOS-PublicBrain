@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-13T13:43:24.085Z
-modified: 2025-06-13T13:45:06.220Z
+modified: 2025-06-14T21:19:16.420Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -35,10 +35,25 @@ Desde la creación de escenas hasta la implementación de diálogos y eventos, t
 
 ## **Introducción**
 
-1. **Bienvenida al Curso**
-   - ¿Qué es GB Studio y por qué usarlo?
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+![Representación visual de la introduccion](PublicBrain/_resources/80f9f289e44220fb8ee4eac6754fd236_MD5.jpg)
+
+### ¿Qué es GB Studio?
+
+GB Studio es una herramienta gratuita y de código abierto diseñada para crear videojuegos retro al estilo de la Game Boy sin requerir conocimientos avanzados de programación. 
+
+Su interfaz visual de tipo "arrastrar y soltar", disponible en Windows, Mac y Linux, simplifica el desarrollo, permitiendo a principiantes y aficionados crear juegos completos, desde aventuras de perspectiva cenital inspiradas en JRPG hasta proyectos personalizados. 
+
+Continuar leyendo en ... [[Qué es GB Studio 🟡③]]
+
+ --- column-end ---
+--- multi-column-end
+ 
    - Requisitos previos y herramientas necesarias
-2. **Historia de la Game Boy y su influencia**
    - Contexto histórico de la Game Boy
    - Estilo retro y su relevancia actual
    - Introducción al diseño de juegos en 8 bits

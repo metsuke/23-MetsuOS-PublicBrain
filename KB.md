@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-06-13T14:15:39.560Z
+modified: 2025-06-14T21:32:58.140Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 19
+ver_rev: 20
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,18 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
+## Aprender a desarrollar videojuegos
+
+Aprender a desarrollar videojuegos es una aventura apasionante que combina creatividad, tecnología y narrativa. 
+
+Este proceso no solo implica programar, sino también diseñar mundos, personajes e historias que cautiven a los jugadores. Desde pequeños proyectos independientes hasta grandes producciones AAA, el desarrollo de videojuegos ofrece un espacio para explorar ideas innovadoras y conectar con audiencias globales. 
+
+Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
+
+ --- column-end ---
+
 ![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)
 ## Aprendeizaje basado en evidencia
 
@@ -38,17 +50,6 @@ No se trata solo de teorías frías; es un enfoque vivo que combina lo mejor de 
 
 
 Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①]]
-
- --- column-end ---
-
-![Estudiante con el libro en la mano](PublicBrain/_resources/78bad2bc7ae27db996a7f1c67521151b_MD5.jpeg)
-## Estudiar libro - Think Fast and Slow - Daniel Kahneman
-
-Bajo el título **Estudiar Thinking, Fast and Slow **, el libro de Kahneman desentraña la estructura del conocimiento humano y científico al explorar cómo nuestras mentes procesan información a través de dos sistemas: uno rápido, impulsado por la intuición, y otro lento, guiado por la lógica. 
-
-Este marco revela los mecanismos detrás de nuestras decisiones, destacando la importancia de comprender sesgos y errores para mejorar el pensamiento crítico en la ciencia y la vida diaria.
-
-Continua leyendo en ... [[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 
 
  --- column-end ---

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-21T23:37:37.571Z
-modified: 2025-05-23T09:20:36.373Z
+modified: 2025-06-14T05:45:37.850Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,8 +22,9 @@ tags:
 # Blog - Dios es Gallego - Del Gráfico de Nolan a la Pirámide de Coherentum - 2025-05-22 🔴②
 
 
-![Representación de un Dios en la piramide de coherentum](PublicBrain/_resources/0011deb9968e3d9dc85c9ddbae195f02_MD5.jpeg)
-[[PublicBrain/Index|Index]]
+![Representación de un Dios en la piramide de coherentum](BCCD6E9-01AB-44B0-A77C-A17DD51DAD5D.jpg)
+
+[[Blog]]
 
 > _Sé por qué estás aquí, Neo. Sé lo que has estado haciendo. Sé por qué apenas duermes, por qué vives solo y por qué, noche tras noche, te sientas ante tu ordenador. Le buscas a él. Lo sé porque yo también lo busqué. Y cuando él me encontró, me dijo que no le buscaba a él, sino una respuesta. Es la pregunta la que nos impulsa, Neo. Es la pregunta la que te ha traído aquí._  
 > _(Morfeo a Neo, The Matrix)_

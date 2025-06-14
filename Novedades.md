@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-14T02:18:42.249Z
+modified: 2025-06-14T21:23:16.170Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 19
+ver_rev: 20
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,29 @@ Number of Columns: 2
 Border: off
 ```
 
+![Representación visual de la introduccion](PublicBrain/_resources/80f9f289e44220fb8ee4eac6754fd236_MD5.jpg)
+
+### ¿Qué es GB Studio?
+
+GB Studio es una herramienta gratuita y de código abierto diseñada para crear videojuegos retro al estilo de la Game Boy sin requerir conocimientos avanzados de programación. 
+
+Su interfaz visual de tipo "arrastrar y soltar", disponible en Windows, Mac y Linux, simplifica el desarrollo, permitiendo a principiantes y aficionados crear juegos completos, desde aventuras de perspectiva cenital inspiradas en JRPG hasta proyectos personalizados. 
+
+Continuar leyendo en ... [[Qué es GB Studio 🟡③]]
+
+ --- column-end ---
+
+![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
+## Aprender a desarrollar videojuegos
+
+Aprender a desarrollar videojuegos es una aventura apasionante que combina creatividad, tecnología y narrativa. 
+
+Este proceso no solo implica programar, sino también diseñar mundos, personajes e historias que cautiven a los jugadores. Desde pequeños proyectos independientes hasta grandes producciones AAA, el desarrollo de videojuegos ofrece un espacio para explorar ideas innovadoras y conectar con audiencias globales. 
+
+Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
+
+ --- column-end ---
+
 ![Representación visual del curso de Visual bB](_resources/8ee27dfb0c0237c9632fd5c96892d89a_MD5.jpg)
 ## Curso de Visual bB
 
@@ -38,18 +61,6 @@ Este es otro plan a 280-360 dias en el que desarrollaremos lo necesario para emp
 
 Continuar leyendo en [[Curso de Visual bB ⚫①]]
 
- --- column-end ---
-
-![Portada de revista de videojuegos con el curso de GB Studio](_resources/ff7ce511fecc52c6d4c3e4d6b93b33b2_MD5.jpg)
-## Curso de GB Studio
-
-¡Bienvenidos al Curso de GB Studio! 
-
-En este curso, exploraremos las fascinantes posibilidades de GB Studio, una herramienta gratuita y fácil de usar que permite a cualquier persona crear videojuegos al estilo retro para la Game Boy sin necesidad de conocimientos avanzados de programación. 
-
-Este es otro plan a 240-360 dias en el que desarrollaremos lo necesario para empezar a crear cosas en esta plataforma.
-
-Continuar leyendo en ... [[Curso de GB Studio ⚫①]]
 
  --- column-end ---
 
@@ -88,6 +99,21 @@ Continua leyendo en ... [[Tutorial de AGD 2018 Edition ⚫①]]
  
 --- column-end ---
 
+
+![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)
+## Aprendeizaje basado en evidencia
+
+Imagina un camino de aprendizaje donde cada paso que das está guiado por luces que te muestran lo que realmente funciona. 
+
+Eso es el aprendizaje basado en evidencia (EBL, por sus siglas en inglés: Evidence-Based Learning), una aventura educativa en la que usamos datos, investigaciones y experiencias reales para crear momentos de aprendizaje que de verdad conectan contigo. 
+
+No se trata solo de teorías frías; es un enfoque vivo que combina lo mejor de la ciencia con las historias y necesidades únicas de cada estudiante. ¿Te animas a descubrir cómo aprender de una manera más efectiva y personalizada?
+
+
+Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①]]
+
+--- column-end ---
+
 ![Un joven Doc Brown y su Delorean](PublicBrain/_resources/6c4c122e32382d53cdde32d530ae51a4_MD5.jpeg)
 ## Estructura del Conocimiento Humano y Científico
 
@@ -95,7 +121,16 @@ La estructura del conocimiento humano y científico se fundamenta en la interacc
 
 Continua leyendo en ... [[Estructura del Conocimiento Humano y Científico ⚫①]]
 
+ --- column-end ---
 
+![Estudiante con el libro en la mano](PublicBrain/_resources/78bad2bc7ae27db996a7f1c67521151b_MD5.jpeg)
+## Estudiar libro - Think Fast and Slow - Daniel Kahneman
+
+Bajo el título **Estudiar Thinking, Fast and Slow **, el libro de Kahneman desentraña la estructura del conocimiento humano y científico al explorar cómo nuestras mentes procesan información a través de dos sistemas: uno rápido, impulsado por la intuición, y otro lento, guiado por la lógica. 
+
+Este marco revela los mecanismos detrás de nuestras decisiones, destacando la importancia de comprender sesgos y errores para mejorar el pensamiento crítico en la ciencia y la vida diaria.
+
+Continua leyendo en ... [[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 
  --- column-end ---
 --- multi-column-end

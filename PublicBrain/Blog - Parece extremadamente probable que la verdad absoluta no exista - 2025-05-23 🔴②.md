@@ -9,21 +9,22 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-22T11:02:39.566Z
-modified: 2025-05-23T17:14:08.936Z
+modified: 2025-06-14T05:41:33.548Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Blog - Parece extremadamente probable que la verdad absoluta no exista - 2025-05-23 🔴②
 
-![LasVerdadesAbsolutasProbablementeNoExistan](_resources/c59ed607093abf7e9f872cbe7a31d5f4_MD5.jpg)
 
-[[PublicBrain/Index|Index]]
+![LasVerdadesAbsolutasProbablementeNoExistan](PublicBrain/_resources/f0b23d64c7bd9524ae4fa3523710194f_MD5.jpeg)
+
+[[Blog]]
 
 > Disclairmer: Esa es una revisión optimizada de mi artículo original de 2020.
 

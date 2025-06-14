@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-13T13:43:20.086Z
+modified: 2025-06-14T02:18:42.249Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 18
+ver_rev: 19
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,12 +27,27 @@ Number of Columns: 2
 Border: off
 ```
 
+![Representación visual del curso de Visual bB](_resources/8ee27dfb0c0237c9632fd5c96892d89a_MD5.jpg)
+## Curso de Visual bB
+
+Bienvenidos al Curso de Visual Batari Basic, una emocionante oportunidad para explorar el desarrollo de videojuegos para la clásica consola Atari 2600 utilizando una herramienta moderna y accesible. 
+
+Visual Batari Basic combina la simplicidad del lenguaje Batari Basic con un entorno visual intuitivo, permitiendo a principiantes y entusiastas crear juegos retro con facilidad, sin sacrificar la flexibilidad que los programadores más experimentados buscan. 
+
+Este es otro plan a 280-360 dias en el que desarrollaremos lo necesario para empezar a crear cosas en esta plataforma, salvando algunas dificultades como la ausencia de actualizaciones recientes, y la disponibilidad limitada de información.
+
+Continuar leyendo en [[Curso de Visual bB ⚫①]]
+
+ --- column-end ---
+
 ![Portada de revista de videojuegos con el curso de GB Studio](_resources/ff7ce511fecc52c6d4c3e4d6b93b33b2_MD5.jpg)
 ## Curso de GB Studio
 
 ¡Bienvenidos al Curso de GB Studio! 
 
 En este curso, exploraremos las fascinantes posibilidades de GB Studio, una herramienta gratuita y fácil de usar que permite a cualquier persona crear videojuegos al estilo retro para la Game Boy sin necesidad de conocimientos avanzados de programación. 
+
+Este es otro plan a 240-360 dias en el que desarrollaremos lo necesario para empezar a crear cosas en esta plataforma.
 
 Continuar leyendo en ... [[Curso de GB Studio ⚫①]]
 
@@ -45,7 +60,7 @@ CPCTelera es un potente motor de desarrollo diseñado para la creación de video
 
 Este curso está diseñado para introducir a los participantes en el fascinante mundo de la programación de videojuegos utilizando esta herramienta, ofreciendo una base sólida para aquellos que deseen explorar el desarrollo en plataformas clásicas. 
 
-Este es otro plan a 180-240 dias en el que desarrollaremos lo necesario para empezar a crear cosas en Web con esta plataforma.
+Este es otro plan a 180-240 dias en el que desarrollaremos lo necesario para empezar a crear cosas en esta plataforma.
 
 Continuar leyendo en ... [[Curso de CPCTelera  ⚫①]]
 

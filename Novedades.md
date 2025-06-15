@@ -27,6 +27,18 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Que es Visual bB](PublicBrain/_resources/a4312b0942baafccc4ed626a13d74f7a_MD5.jpg)
+### ¿Qué es Visual Batari Basic?
+
+Visual Batari Basic (Visual bB) es una herramienta innovadora diseñada para simplificar el desarrollo de videojuegos para la mítica consola Atari 2600.
+
+Se trata de un entorno de desarrollo integrado (IDE) que combina la potencia del lenguaje batari Basic (bB), un compilador BASIC-like creado específicamente para programar juegos de Atari, con una interfaz visual intuitiva. 
+
+Continuar leyendo ... [[¿Qué es Visual Batari Basic? ⚫①]]
+
+--- column-end ---
+
 ![Representación visual de la introduccion](PublicBrain/_resources/80f9f289e44220fb8ee4eac6754fd236_MD5.jpg)
 
 ### ¿Qué es GB Studio?
@@ -50,19 +62,6 @@ Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
 
  --- column-end ---
 
-![Representación visual del curso de Visual bB](_resources/8ee27dfb0c0237c9632fd5c96892d89a_MD5.jpg)
-## Curso de Visual bB
-
-Bienvenidos al Curso de Visual Batari Basic, una emocionante oportunidad para explorar el desarrollo de videojuegos para la clásica consola Atari 2600 utilizando una herramienta moderna y accesible. 
-
-Visual Batari Basic combina la simplicidad del lenguaje Batari Basic con un entorno visual intuitivo, permitiendo a principiantes y entusiastas crear juegos retro con facilidad, sin sacrificar la flexibilidad que los programadores más experimentados buscan. 
-
-Este es otro plan a 280-360 dias en el que desarrollaremos lo necesario para empezar a crear cosas en esta plataforma, salvando algunas dificultades como la ausencia de actualizaciones recientes, y la disponibilidad limitada de información.
-
-Continuar leyendo en [[Curso de Visual bB ⚫①]]
-
-
- --- column-end ---
 
 ![Portada simulada de un curso de los 90](_resources/f318de9627680c020659776f76833d12_MD5.jpg)
 ## Curso de CPCTelera

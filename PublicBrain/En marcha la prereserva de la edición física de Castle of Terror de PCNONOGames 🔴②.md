@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T22:27:08.109Z
-modified: 2025-06-14T23:31:16.460Z
+modified: 2025-06-15T09:35:18.194Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# En mancha la prereserva de la edición física de Castle of Terror de PCNONOGames 🔴②
+# En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 🔴②
 
 ![Reinterpretación libre de la portada del juego](PublicBrain/_resources/820c5d180a674db868f79ee4f28bda9a_MD5.jpg)
 
@@ -47,6 +47,6 @@ Me terminé la edición digital tras la presentación del video en el canal de J
 
 Los interesados en adquirir la edición física de _Castle of Terror_ pueden visitar el sitio web oficial de PCNONOGames (www.pcnono.es) o seguir sus redes sociales para obtener más información sobre disponibilidad y precios.
 
-Además, el juego está disponible en formato digital (en fichero .gb) a través de la plataforma itch.io  https://pcnonogames.itch.io/castle-of-terror-gameboy, lo que permite a los jugadores disfrutar de esta experiencia en múltiples dispositivos... ¿A qué esperas para jugarlo?
+Además, el juego está disponible en formato digital (en fichero .gb) a través de la plataforma itch.io [https://pcnonogames.itch.io/castle-of-terror-gameboy](https://pcnonogames.itch.io/castle-of-terror-gameboy), lo que permite a los jugadores disfrutar de esta experiencia en múltiples dispositivos... ¿A qué esperas para jugarlo?
 
 ![[Plantilla - 1MT#One More Thing]]

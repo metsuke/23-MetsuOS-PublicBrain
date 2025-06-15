@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T02:19:19.640Z
-modified: 2025-06-14T22:34:20.494Z
+modified: 2025-06-15T10:09:32.063Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,9 +29,27 @@ Bienvenidos al Curso de Visual Batari Basic, una emocionante oportunidad para ex
 
 A lo largo de este curso, dominarás los conceptos esenciales de Visual Batari Basic, incluyendo la gestión de gráficos, sonidos y colisiones, así como la lógica básica para dar vida a tus juegos. A través de ejercicios prácticos y proyectos interactivos, desarrollarás habilidades para diseñar y programar juegos que capturen la esencia del estilo Atari 2600. No se necesitan conocimientos previos de programación, ya que el curso está estructurado para guiarte desde los conceptos más básicos hasta la creación de juegos completos. ¡Prepárate para sumergirte en la nostalgia y crear tus propios videojuegos con Visual Batari Basic!
 
-## 1. Introducción a Visual Batari Basic
+## Introducción a Visual Batari Basic
 
-- 1.1. ¿Qué es Visual Batari Basic?
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Que es Visual bB](PublicBrain/_resources/a4312b0942baafccc4ed626a13d74f7a_MD5.jpg)
+### ¿Qué es Visual Batari Basic?
+
+Visual Batari Basic (Visual bB) es una herramienta innovadora diseñada para simplificar el desarrollo de videojuegos para la mítica consola Atari 2600.
+
+Se trata de un entorno de desarrollo integrado (IDE) que combina la potencia del lenguaje batari Basic (bB), un compilador BASIC-like creado específicamente para programar juegos de Atari, con una interfaz visual intuitiva. 
+
+Continuar leyendo ... [[¿Qué es Visual Batari Basic? ⚫①]]
+
+--- column-end ---
+--- multi-column-end
+
+
 - 1.2. Historia y contexto del Atari 2600
 - 1.3. Características y limitaciones del desarrollo para Atari 2600
 - 1.4. Instalación y configuración del entorno

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-14T23:29:05.903Z
+modified: 2025-06-15T09:34:46.394Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,13 +29,13 @@ Border: off
 ```
 
 ![Reinterpretación libre de la portada del juego](_resources/ea6b896b9eb3da5e40a2786e6a616413_MD5.jpg)
-## En mancha la preserva de la edición física de Castle of Terror de PCNONOGames
+## En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames
 
 Junio, 2025 – La comunidad de jugadores retro y coleccionistas de videojuegos está de celebración tras el anuncio de que la edición física de _Castle of Terror_, el nuevo título para Game Boy desarrollado por PCNONOGames. 
 
 Este lanzamiento, que combina nostalgia con un diseño innovador, ha generado gran expectación entre los aficionados a los videojuegos de 8 bits.
 
-Continuar leyendo en ... [[En mancha la prereserva de la edición física de Castle of Terror de PCNONOGames 🔴②]]
+Continuar leyendo en ... [[En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 🔴②]]
 
 
 --- column-end ---

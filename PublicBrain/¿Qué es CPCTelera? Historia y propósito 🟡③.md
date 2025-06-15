@@ -53,7 +53,11 @@ El framework se utiliza en proyectos personales, educativos y competiciones, ins
 
 ## Conclusión
 
-CPCTelera es una herramienta poderosa que combina la nostalgia del Amstrad CPC con la accesibilidad de los entornos de desarrollo modernos. Su impacto en la comunidad retrocomputing es innegable, al facilitar la creación de nuevos juegos y preservar el legado de este ordenador clásico. Sin embargo, algunos desarrolladores experimentados señalan que puede no ser ideal para proyectos que requieran máxima optimización. A pesar de estas críticas, CPCTelera sigue siendo un pilar para la revitalización del desarrollo en Amstrad CPC.
+CPCTelera es una herramienta poderosa que combina la nostalgia del Amstrad CPC con la accesibilidad de los entornos de desarrollo modernos. 
+
+Su impacto en la comunidad retrocomputing es innegable, al facilitar la creación de nuevos juegos y preservar el legado de este ordenador clásico. 
+
+Sin embargo, algunos desarrolladores experimentados señalan que puede no ser ideal para proyectos que requieran máxima optimización. A pesar de estas críticas, CPCTelera sigue siendo un pilar para la revitalización del desarrollo en Amstrad CPC.
 
 ## Referencias bibliográficas que apoyan el contenido
 

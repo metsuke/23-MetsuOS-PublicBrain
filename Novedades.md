@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-15T19:58:55.203Z
+modified: 2025-06-15T23:15:36.470Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 21
+ver_rev: 22
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,18 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+![Que es la CPCTelera](PublicBrain/_resources/fea2b92ed6b5ec9f3545f47c729e067f_MD5.jpg)
+## ¿Qué es CPCTelera? Historia y propósito
+
+CPCTelera es un framework de desarrollo diseñado para facilitar la creación de videojuegos y aplicaciones multimedia para el Amstrad CPC, un ordenador personal de los años 80 conocido por su popularidad en Europa. 
+
+Este entorno proporciona una colección de herramientas y funciones de bajo nivel que simplifican tareas esenciales en el desarrollo de juegos, como la gestión de sprites, gráficos, cambios de modos de vídeo, mapas de tiles y la programación de comportamientos autónomos, como la inteligencia artificial de enemigos. 
+
+Continua leyendo en [[¿Qué es CPCTelera? Historia y propósito 🟡③]]
+
+--- column-end ---
 
 
 ![Que es Visual bB](PublicBrain/_resources/a4312b0942baafccc4ed626a13d74f7a_MD5.jpg)
@@ -62,19 +74,6 @@ Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
 
  --- column-end ---
 
-
-![Portada simulada de un curso de los 90](_resources/f318de9627680c020659776f76833d12_MD5.jpg)
-## Curso de CPCTelera
-
-CPCTelera es un potente motor de desarrollo diseñado para la creación de videojuegos y aplicaciones gráficas para sistemas retro, especialmente para el ordenador Amstrad CPC. 
-
-Este curso está diseñado para introducir a los participantes en el fascinante mundo de la programación de videojuegos utilizando esta herramienta, ofreciendo una base sólida para aquellos que deseen explorar el desarrollo en plataformas clásicas. 
-
-Este es otro plan a 180-240 dias en el que desarrollaremos lo necesario para empezar a crear cosas en esta plataforma.
-
-Continuar leyendo en ... [[Curso de CPCTelera  ⚫①]]
-
- --- column-end ---
 
 ![Representacion de que es PixiJS en formato portada de revista](/PublicBrain/_resources/51314d6d74cc6597a3b305a6b9173200_MD5.jpg)
 

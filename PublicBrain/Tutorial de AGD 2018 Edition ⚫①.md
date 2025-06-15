@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-06-11T19:18:03.139Z
+modified: 2025-06-15T23:16:45.162Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,7 +22,8 @@ tags:
 # Tutorial de AGD 2018 Edition ⚫①
 
 ![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
-[[PublicBrain/PublicIndex/Index|Index]]
+
+[[Aprender a desarrollar videojuegos  ⚫①]]
 
 Hace poco varios fans del este curso, que no estaba disponible online desde 2021, me recordaron que no predicaba solo en el desierto. Si, me tocaron la patata, así que además de lo que tengo en mente, he tomado la determinación de tomarme el tiempo para rescatar aquelllos contenidos de mi vieja y maltrecha web wordpress e incorporarlos en esta nueva etapa. ¡Espero que disfruten creando juego tanto como yo creando el curso!...
 

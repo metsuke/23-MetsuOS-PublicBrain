@@ -23,7 +23,7 @@ tags:
 
 ![Portada simulada de un viejo curso de los 80](PublicBrain/_resources/951fc1612338516d5bd5f091895d2152_MD5.jpg)
 
-[[Novedades]]
+[[Aprender a desarrollar videojuegos  ⚫①]]
 
 CPCTelera es un potente motor de desarrollo diseñado para la creación de videojuegos y aplicaciones gráficas para sistemas retro, especialmente para el ordenador Amstrad CPC.
 
@@ -35,9 +35,26 @@ En este curso, no solo adquirirás habilidades técnicas, sino que también desc
 
 Con ejemplos prácticos, ejercicios guiados y proyectos finales, el curso te permitirá desarrollar tus propios videojuegos, conectando con la esencia de la programación de los años 80 mientras aplicas conceptos modernos. ¡Prepárate para sumergirte en una experiencia única que combina nostalgia, creatividad y tecnología!
 
-## 1. Introducción al Desarrollo de Videojuegos con CPCTelera
+## Introducción al Desarrollo de Videojuegos con CPCTelera
 
-- 1.1. ¿Qué es CPCTelera? Historia y propósito    
+--- start-multi-column: BloqueCPCTelera\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Que es la CPCTelera](PublicBrain/_resources/fea2b92ed6b5ec9f3545f47c729e067f_MD5.jpg)
+## ¿Qué es CPCTelera? Historia y propósito
+
+CPCTelera es un framework de desarrollo diseñado para facilitar la creación de videojuegos y aplicaciones multimedia para el Amstrad CPC, un ordenador personal de los años 80 conocido por su popularidad en Europa. 
+
+Este entorno proporciona una colección de herramientas y funciones de bajo nivel que simplifican tareas esenciales en el desarrollo de juegos, como la gestión de sprites, gráficos, cambios de modos de vídeo, mapas de tiles y la programación de comportamientos autónomos, como la inteligencia artificial de enemigos. 
+
+Continua leyendo en [[¿Qué es CPCTelera? Historia y propósito 🟡③]]
+ 
+ --- column-end ---
+--- multi-column-end
+
 - 1.2. Características principales del motor    
 - 1.3. El Amstrad CPC: Contexto y capacidades técnicas    
 - 1.4. Requisitos previos: Conocimientos básicos de programación    
@@ -137,11 +154,11 @@ Con ejemplos prácticos, ejercicios guiados y proyectos finales, el curso te per
     
 ## Referencias Bibliográficas Básicas para el Curso de CPCTelera
 
-- [[**CPCTelera Official Documentation** 🌐 🟡③](https://github.com/lronaldo/cpctelera)
+- [**CPCTelera Official Documentation** 🌐 🟡③](https://github.com/lronaldo/cpctelera)
     - La documentación oficial de CPCTelera es el recurso principal para aprender a utilizar el motor. Incluye guías de instalación, referencia de funciones, ejemplos de código y tutoriales prácticos para desarrollar videojuegos en Amstrad CPC.
 - [**"The Amstrad CPC 464 Manual"** 🌐🟡③](http://www.cpcmania.com/Docs/Manuals/Manual%20de%20Usuario%20Amstrad%20CPC%20464.pdf)
     - (Amstrad Consumer Electronics año: 1984) Manual oficial del Amstrad CPC 464 que cubre las especificaciones técnicas del hardware, incluyendo el chip gráfico y de sonido, esenciales para entender las limitaciones y capacidades al programar con CPCTelera.
-3. [[**"Programming the Z80"** 🌐🟡③](http://www.z80.info/zip/zaks_book.pdf)
+3. [**"Programming the Z80"** 🌐🟡③](http://www.z80.info/zip/zaks_book.pdf)
     - (Rodnay Zaks año: 1980 (tercera edición) Sybex Inc) Un libro clásico sobre la programación del microprocesador Z80, utilizado en el Amstrad CPC. Aunque no está enfocado en CPCTelera, es una referencia fundamental para quienes deseen profundizar en ensamblador y optimización en sistemas de 8 bits.
 4. [**"Game Programming Patterns"** 🌐🟡③](https://gameprogrammingpatterns.com)
     - (Robert Nystrom año: 2014 Genever Benning) Este libro ofrece patrones de diseño para el desarrollo de videojuegos, muchos de los cuales son aplicables a proyectos en CPCTelera, especialmente para gestionar mecánicas de juego y optimización en entornos con recursos limitados.

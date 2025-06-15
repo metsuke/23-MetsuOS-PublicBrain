@@ -80,12 +80,6 @@ Aunque requiere esfuerzo para superar sus limitaciones, la satisfacción de crea
 
 ### Fuentes que refutan o matizan el contenido
 
-1. **AtariAge Forum - Discussion on Visual bB Limitations**  
-    En los foros de AtariAge, algunos usuarios señalan las limitaciones de Visual bB, como la falta de soporte activo y errores en la interfaz gráfica, lo que puede dificultar su uso frente a batari Basic puro.  
-    Enlace: https://atariage.com/forums/topic/208686-visual-batari-basic/
-    
-2. **Stella Emulator Documentation**  
-    La documentación del emulador Stella, ampliamente usado para probar juegos de Atari 2600, no menciona Visual bB directamente, lo que sugiere que la comunidad prefiere herramientas más actualizadas o el uso directo de batari Basic o ensamblador para desarrollos más avanzados.  
-    Enlace: https://stella-emu.github.io/docs/
+- **Ninguna fuente verificable disponible**.  
 
 ![[Plantilla - 1MT#One More Thing]]

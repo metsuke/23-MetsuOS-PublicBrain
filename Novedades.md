@@ -35,7 +35,7 @@ Visual Batari Basic (Visual bB) es una herramienta innovadora diseñada para sim
 
 Se trata de un entorno de desarrollo integrado (IDE) que combina la potencia del lenguaje batari Basic (bB), un compilador BASIC-like creado específicamente para programar juegos de Atari, con una interfaz visual intuitiva. 
 
-Continuar leyendo ... [[¿Qué es Visual Batari Basic? ⚫①]]
+Continuar leyendo ... [[¿Qué es Visual Batari Basic? 🟡③]]
 
 --- column-end ---
 

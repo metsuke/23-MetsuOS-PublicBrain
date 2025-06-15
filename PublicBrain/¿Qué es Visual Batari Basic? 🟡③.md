@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# ¿Qué es Visual Batari Basic? ⚫①
+# ¿Qué es Visual Batari Basic? 🟡③
 
 ![Que es Visual bB](PublicBrain/_resources/0aa1fd80a2aa378e1ce7cdd3e46e49ec_MD5.jpg)
 
@@ -66,17 +66,17 @@ Aunque requiere esfuerzo para superar sus limitaciones, la satisfacción de crea
 ### Fuentes que apoyan el contenido
 
 - [**AtariAge - Batari Basic Documentation** 🌐🟡③](http://www.randomterrain.com/atari-2600-memories-batari-basic-commands.html)
-    AtariAge es una comunidad de referencia para entusiastas de Atari y proporciona documentación detallada sobre batari Basic, incluyendo guías y ejemplos prácticos.
-- [**Batari Basic Official Website**  🌐🟡③](http://bataribasic.com/)
-    El sitio oficial de batari Basic ofrece información técnica sobre el lenguaje, incluyendo descargas y notas sobre Visual bB. Aunque no se actualiza frecuentemente, es una fuente primaria confiable.  
-- [Making an Atari 2600 game in bAtari basic pt 1](https://www.youtube.com/watch?v=uVdXKsLpnCQ&t=42s&ab_channel=8bitsinthebasement)
-    Un tutorial en video que explica los fundamentos de batari Basic.
-- [La serie de videos Making an Atari 2600 game in Batari Basic](https://www.youtube.com/playlist?list=PLFH1CEHEtgenlyEO0SwpqivIHUSgUeeIH)
-	Un recurso muy util para comprender lo que pasa entre bambalinas en Visual bB
-* [Información sobre comandos de bB en Random Terrain](https://www.randomterrain.com/atari-2600-memories-batari-basic-commands.html)
-	Información avanzada sobre comandos y colores que pueden usarse.
-* [Informacion adicional sobre bB](https://alienbill.com/2600/basic/home.html)
-	Sitio semi-oficial de batariBasic
+	- AtariAge es una comunidad de referencia para entusiastas de Atari y proporciona documentación detallada sobre batari Basic, incluyendo guías y ejemplos prácticos.
+- [**Batari Basic Official Website** 🌐🟡③](http://bataribasic.com/)
+	- El sitio oficial de batari Basic ofrece información técnica sobre el lenguaje, incluyendo descargas y notas sobre Visual bB. Aunque no se actualiza frecuentemente, es una fuente primaria confiable.
+- [Making an Atari 2600 game in bAtari basic pt 1🌐🟡③](https://www.youtube.com/watch?v=uVdXKsLpnCQ&t=42s&ab_channel=8bitsinthebasement)
+	- Un tutorial en video que explica los fundamentos de batari Basic.
+- [La serie de videos Making an Atari 2600 game in Batari Basic 🌐🟡③](https://www.youtube.com/playlist?list=PLFH1CEHEtgenlyEO0SwpqivIHUSgUeeIH)
+	- Un recurso muy util para comprender lo que pasa entre bambalinas en Visual bB
+* [Información sobre comandos de bB en Random Terrain 🌐🟡③](https://www.randomterrain.com/atari-2600-memories-batari-basic-commands.html)
+	* Información avanzada sobre comandos y colores que pueden usarse.
+* [Informacion adicional sobre bB 🌐🟡③](https://alienbill.com/2600/basic/home.html)
+	* Sitio semi-oficial de batariBasic
 
 ### Fuentes que refutan o matizan el contenido
 

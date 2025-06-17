@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-09T14:52:48.676Z
-modified: 2025-06-11T16:28:13.849Z
+modified: 2025-06-17T14:29:02.794Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -136,7 +136,7 @@ En los próximos capítulos, os mostrare mis pruebas con la funcionalidad de cop
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si has lllegado aqui tras una abducción y quieres entender que es esto, pasa a la página 1]]
 * [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|Si tienes que recuperar el resuello, espera aqui, en la página 4]]
-* Si estás ebrio de gozo y quieres continuar, haz una tirada de equilibrio mientras el mesero trae otro barril de cerveza.
+* [[Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①|Si estás ebrio de gozo y quieres continuar, haz una tirada de equilibrio mientras el mesero trae otro barril de cerveza y pasa a la página 5]]
 
 ## Referencias Bibliográficas
 

@@ -1,26 +1,29 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-06-11T16:26:25.753Z
-modified: 2025-06-11T19:09:31.807Z
+modified: 2025-06-17T14:27:49.231Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 3
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 6
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①
 
 ![Los lemmings estilo monty python en diversas posiciones y colores](PublicBrain/_resources/94373ec992915b406d15e7d2c4c2b131_MD5.jpg)
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|<< Anterior]]  | Siguiente >>
+* [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|<< Anterior]]  | [[Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①|Siguiente >>]]
 
 [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|En el capítulo anterior, comentábamos los fundamentos de manejo del editor de sprites de AGD]], en esta ocasión querría centrar mi atención en la animacion de sprites.
 
@@ -69,8 +72,8 @@ En el próximo capítulo exploraremos la importación de spritesheets en forma d
 ## ¿Y ahora que?
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si tienes miedo, ve a esconderte a la página 1]]
-* [[Si has logrado entrar en la sala de entrnamiento de Goku, quedate un par de años en la página 5]]
-* Si quieres avanzar, espera 2D20+6 horas mientras completo la invocación del capítulo 6.
+* [[Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①|Si has logrado entrar en la sala de entrnamiento de Goku, quedate un par de años en la página 5]]
+* [[Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①|Si quieres ir al instructor de clase y aprender 'Invocar Sprite Sheet' pasa a la página 6]]
 
 ## Referencias Bibliográficas
 

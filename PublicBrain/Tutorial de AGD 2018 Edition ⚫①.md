@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-06-15T23:16:45.162Z
+modified: 2025-06-17T10:17:25.457Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
@@ -83,12 +83,24 @@ Imaginen sino una película de Disney con animaciones estilo South Park... digno
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①]]
 
+--- column-end ---
+
+![La secuencia de salto del sprite del prota](PublicBrain/_resources/817694b86c4ed96db1dbf6c390bab679_MD5.jpg)
+## Capítulo 06: Importando Sprite Sheets
+
+Para lograrlo, lo primero es, si no estamos ya en ella, entrar a la pantalla de edicion de sprites (Letra S desde el menú principal), y una vez dentro, pulsar L. 
+
+AGD nos preguntará si queremos cargar el "scratchpad" (que es como se llama en el sistema AGD)
+
+Continuar leyendo en [[Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①]]
+
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-* Tutorial de AGD 2018 Capitulo 06
+
 * Tutorial de AGD 2018 Capitulo 07
 * Tutorial de AGD 2018 Capitulo 08
 * Tutorial de AGD 2018 Capitulo 09

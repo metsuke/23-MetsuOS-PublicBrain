@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-15T23:15:36.470Z
+modified: 2025-06-17T15:11:29.525Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 22
+ver_rev: 23
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,16 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![La secuencia de salto del sprite del prota](PublicBrain/_resources/817694b86c4ed96db1dbf6c390bab679_MD5.jpg)
+## Capítulo 06: Importando Sprite Sheets
+
+Para lograrlo, lo primero es, si no estamos ya en ella, entrar a la pantalla de edicion de sprites (Letra S desde el menú principal), y una vez dentro, pulsar L. 
+
+AGD nos preguntará si queremos cargar el "scratchpad" (que es como se llama en el sistema AGD)
+
+Continuar leyendo en [[Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①]]
+--- column-end ---
 
 ![Que es la CPCTelera](PublicBrain/_resources/fea2b92ed6b5ec9f3545f47c729e067f_MD5.jpg)
 ## ¿Qué es CPCTelera? Historia y propósito
@@ -86,17 +96,6 @@ Reconocida por su rendimiento optimizado y facilidad de uso, PixiJS permite a lo
 Continuar leyendo en ...  [[Qué es PixiJS y su historia 🟡③]]
 
  --- column-end ---
-
-![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
-## Tutorial de AGD 2018 Edition
-
-Hace poco dos fans del este curso, que no estaba disponible online desde 2021, me recordaron que no predicaba solo en el desierto. Si, me tocaron la patata, así que además de lo que tengo en mente, he tomado la determinación de tomarme el tiempo para rescatar aquelllos contenidos de mi vieja y maltrecha web wordpress e incorporarlos en esta nueva etapa. ¡Espero que disfruten creando juego tanto como yo creando el curso!...
-
-En este momento, este es un plan de restauración y republicación de entre 30-60 dias, modificandolo lo imprescindible para que funcione correctamente en esta nueva web. Ya habra tiempo de crear algo ... nuevo #tarjetita
-
-Continua leyendo en ... [[Tutorial de AGD 2018 Edition ⚫①]]
- 
---- column-end ---
 
 
 ![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2025-06-14T22:17:10.107Z
+modified: 2025-06-17T21:13:25.560Z
 supervisado: 2024-06-03T19:56:58.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 109
+ver_rev: 111
 nav_primary: 
 nav_secondary: 
 tags:
@@ -48,10 +48,21 @@ Reconocida por su rendimiento optimizado y facilidad de uso, PixiJS permite a lo
 
 Continuar leyendo en ...  [[Qué es PixiJS y su historia 🟡③]]
 
+--- column-end ---
+
+![Crea juegos 2D Increiles!](PublicBrain/_resources/8360a389c7e3bb2d4347ce010b61b68a_MD5.jpg)
+## Configuración del entorno de desarrollo de PixiJS
+
+PixiJS es una biblioteca potente y ligera para crear gráficos 2D interactivos en la web, ideal para desarrollar juegos y aplicaciones visuales. 
+
+Configurar un entorno de desarrollo para PixiJS es sencillo si sigues estos pasos claros y actualizados. ¡Prepárate para dar vida a tus ideas!
+
+Continuar leyendo en ... [[Configuración del entorno de desarrollo (PixiJS) 🟡③]]
+
  --- column-end ---
 --- multi-column-end
 
-- [[Configuración del entorno de desarrollo (PixiJS)  🔴②]]
+
 - [[Creación de un lienzo (canvas) en PixiJS 🔴②]]
 - [[Dibujando formas básicas y gráficos (PixiJS) 🔴②]] 
 

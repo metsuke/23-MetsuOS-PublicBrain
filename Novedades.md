@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-17T15:11:29.525Z
+modified: 2025-06-17T21:14:17.356Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 23
+ver_rev: 25
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,8 +27,19 @@ Number of Columns: 2
 Border: off
 ```
 
+![Crea juegos 2D Increiles!](PublicBrain/_resources/8360a389c7e3bb2d4347ce010b61b68a_MD5.jpg)
+## Configuración del entorno de desarrollo de PixiJS
 
-![La secuencia de salto del sprite del prota](PublicBrain/_resources/817694b86c4ed96db1dbf6c390bab679_MD5.jpg)
+PixiJS es una biblioteca potente y ligera para crear gráficos 2D interactivos en la web, ideal para desarrollar juegos y aplicaciones visuales. 
+
+Configurar un entorno de desarrollo para PixiJS es sencillo si sigues estos pasos claros y actualizados. ¡Prepárate para dar vida a tus ideas!
+
+Continuar leyendo en ... [[Configuración del entorno de desarrollo (PixiJS) 🟡③]]
+
+--- column-end ---
+
+![La secuencia de salto del sprite del prota](_resources/03b3691f984de4c48f7bd39ee65b821e_MD5.jpg)
+
 ## Capítulo 06: Importando Sprite Sheets
 
 Para lograrlo, lo primero es, si no estamos ya en ella, entrar a la pantalla de edicion de sprites (Letra S desde el menú principal), y una vez dentro, pulsar L. 
@@ -81,19 +92,6 @@ Aprender a desarrollar videojuegos es una aventura apasionante que combina creat
 Este proceso no solo implica programar, sino también diseñar mundos, personajes e historias que cautiven a los jugadores. Desde pequeños proyectos independientes hasta grandes producciones AAA, el desarrollo de videojuegos ofrece un espacio para explorar ideas innovadoras y conectar con audiencias globales. 
 
 Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
-
- --- column-end ---
-
-
-![Representacion de que es PixiJS en formato portada de revista](/PublicBrain/_resources/51314d6d74cc6597a3b305a6b9173200_MD5.jpg)
-
-## ¿Qué es PixiJS?
-
-**PixiJS** es una potente biblioteca de renderizado 2D en JavaScript diseñada para crear gráficos y animaciones interactivas de alta calidad en navegadores web. 
-
-Reconocida por su rendimiento optimizado y facilidad de uso, PixiJS permite a los desarrolladores construir desde juegos hasta visualizaciones dinámicas con gran eficiencia.
-
-Continuar leyendo en ...  [[Qué es PixiJS y su historia 🟡③]]
 
  --- column-end ---
 

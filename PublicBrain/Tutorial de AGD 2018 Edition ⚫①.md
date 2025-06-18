@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-06-17T10:17:25.457Z
+modified: 2025-06-18T16:48:48.284Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
@@ -92,8 +92,18 @@ Para lograrlo, lo primero es, si no estamos ya en ella, entrar a la pantalla de 
 
 AGD nos preguntará si queremos cargar el "scratchpad" (que es como se llama en el sistema AGD)
 
-Continuar leyendo en [[Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①]]
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①]]
 
+--- column-end ---
+
+![Editor de mapa en AGD](PublicBrain/_resources/3c2297a38e1d2dc717c7b12b3b57235c_MD5.jpg)
+## Capítulo 07: Creando el mapa
+
+Al tiempo que nos preparamos para mover el muñequito por la pantalla, vamos a ir completando algunas cuestiones necesarias para avanzar en esa dirección Hoy: El mapa de nuestro juego.
+
+Tranquilidad, es mas sencillo - y divertido - de lo que parece...
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①]]
 
  --- column-end ---
 --- multi-column-end

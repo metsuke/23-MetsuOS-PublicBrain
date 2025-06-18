@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Configuración del entorno de desarrollo (PixiJS) 🟡③.md",
+                "file": "PublicBrain/Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuración del entorno de desarrollo (PixiJS) 🟡③"
+              "title": "Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①"
+            }
+          },
+          {
+            "id": "39be1f57b845a350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tutorial de AGD 2018 Edition ⚫①"
             }
           }
         ]
@@ -207,22 +221,24 @@
   },
   "active": "69637d3b0ea5316d",
   "lastOpenFiles": [
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①.md",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①.md",
+    "PublicBrain/_resources/bfd08c33b5100c26550f8f6c0a3ffbd4_MD5.jpeg",
+    "imagenGaleria_Mapa3.png",
+    "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
     "Novedades.md",
+    "PublicBrain/_resources/b69a5d4649c933758f59fabcef3ae45b_MD5.jpeg",
+    "imagenGaleria_Mapa2.png",
+    "PublicBrain/_resources/60bf983a4ef987ca3b39446690352cfc_MD5.jpeg",
+    "imagenGaleria_Mapa1.png",
+    "imagenCabecera_Original_43.jpg",
+    "_resources/3cbd44be7a405de73c8f709051e247d2_MD5.jpg",
+    "PublicBrain/_resources/3c2297a38e1d2dc717c7b12b3b57235c_MD5.jpg",
+    "Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①.md",
+    "PublicBrain/Configuración del entorno de desarrollo (PixiJS) 🟡③.md",
     "PublicBrain/Curso de PixiJS ⚫①.md",
     "PublicBrain/_resources/8360a389c7e3bb2d4347ce010b61b68a_MD5.jpg",
-    "PublicBrain/Configuración del entorno de desarrollo (PixiJS) 🟡③.md",
-    "PublicBrain/_resources/49b733e9330b37e5403f93a3ad5632d6_MD5.jpg",
-    "_resources/03b3691f984de4c48f7bd39ee65b821e_MD5.jpg",
-    "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①.md",
-    "PublicBrain/_resources/7b6eb5c066c4d77da179d45d5b421c30_MD5.jpeg",
-    "imagenGaleria_blockCopy.png",
-    "PublicBrain/_resources/d40aa57113f091d232d7f58f968ec224_MD5.jpeg",
-    "imagenGaleria_SelectBlock2.png",
-    "PublicBrain/_resources/0781af4d74e164ca6aa31213a35a1435_MD5.jpeg",
-    "imagenGaleria_SelectBlock.png",
-    "PublicBrain/_resources/966a13018aaf5483c9c1e6c156550c68_MD5.jpeg",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①.md",
     "Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①.md",
@@ -240,8 +256,6 @@
     "¿Qué es Visual Batari Basic? ⚫①.md",
     "Noticias.md",
     "PublicBrain/En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 🔴②.md",
-    "En mancha la preserva de la edición física de Castle of Terror de PCNONOGames ⚫①.md",
-    "PublicBrain/Qué es PixiJS y su historia 🟡③.md",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-17T10:25:14.495Z
-modified: 2025-06-17T14:27:49.220Z
+modified: 2025-06-18T17:18:37.864Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![La secuencia de salto del sprite del prota](PublicBrain/_resources/817694b86c4ed96db1dbf6c390bab679_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①|<< Anterior]]  | Siguiente >>
+* [[Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①|<< Anterior]]  | [[Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①|Siguiente >>]]
 
 Aunque el interfaz de AgD pone fácil generar animaciones, puede que en determinadas ocasiones nos interese trabajar con un grafista y en este caso sea más cómodo que el cree las animaciones directamente sobre un Screen con algun programa de dibujo y que nos lo pase despues para que los importemos, mientras nosotros trabajamos en el resto.
 
@@ -76,7 +76,7 @@ En el próximo capítulo quiero empezar a jugar con sprites en nuestra pantalla,
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si crees que Scratchpad en este contexto tiene que ver con encuadernar manualidades, pasa a la página 1]]
 * [[Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①|Si crees que los sprites son aburridos, pasa a la página 5]]
 * [[Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①|Si no localizas al instructor de clase, pregunta a un guardia y pasa a la página 6]]
-* Si quieres volver a Ventormenta a por la siguiente misión de la cadena, espera que vaya primero y te abro portal desde allí.
+* [[Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①|Si quieres volver a Ventormenta a por la siguiente misión de la cadena, espera que vaya primero y te abro portal desde allí para ir a la página 7]]
 
 ## Referencias Bibliográficas
 

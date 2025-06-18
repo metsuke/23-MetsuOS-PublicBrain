@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-17T21:14:17.356Z
+modified: 2025-06-18T17:05:05.377Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,17 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+![Editor de mapa en AGD](PublicBrain/_resources/3c2297a38e1d2dc717c7b12b3b57235c_MD5.jpg)
+
+## Capítulo 07: Creando el mapa
+
+Al tiempo que nos preparamos para mover el muñequito por la pantalla, vamos a ir completando algunas cuestiones necesarias para avanzar en esa dirección Hoy: El mapa de nuestro juego.
+
+Tranquilidad, es mas sencillo - y divertido - de lo que parece...
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①]]
+
+--- column-end ---
 
 ![Crea juegos 2D Increiles!](PublicBrain/_resources/8360a389c7e3bb2d4347ce010b61b68a_MD5.jpg)
 ## Configuración del entorno de desarrollo de PixiJS
@@ -36,17 +47,6 @@ Configurar un entorno de desarrollo para PixiJS es sencillo si sigues estos paso
 
 Continuar leyendo en ... [[Configuración del entorno de desarrollo (PixiJS) 🟡③]]
 
---- column-end ---
-
-![La secuencia de salto del sprite del prota](_resources/03b3691f984de4c48f7bd39ee65b821e_MD5.jpg)
-
-## Capítulo 06: Importando Sprite Sheets
-
-Para lograrlo, lo primero es, si no estamos ya en ella, entrar a la pantalla de edicion de sprites (Letra S desde el menú principal), y una vez dentro, pulsar L. 
-
-AGD nos preguntará si queremos cargar el "scratchpad" (que es como se llama en el sistema AGD)
-
-Continuar leyendo en [[Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①]]
 --- column-end ---
 
 ![Que es la CPCTelera](PublicBrain/_resources/fea2b92ed6b5ec9f3545f47c729e067f_MD5.jpg)

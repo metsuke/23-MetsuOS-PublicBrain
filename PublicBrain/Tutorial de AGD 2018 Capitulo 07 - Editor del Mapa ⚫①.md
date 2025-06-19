@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-18T16:51:41.369Z
-modified: 2025-06-18T16:55:56.399Z
+modified: 2025-06-18T18:04:22.738Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![Editor de mapa en AGD](PublicBrain/_resources/3c2297a38e1d2dc717c7b12b3b57235c_MD5.jpg)
 
-[[Tutorial de AGD 2018 Edition ⚫①]]
+* [[Tutorial de AGD 2018 Edition ⚫①]]
 * [[Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①|<< Anterior]]  | Siguiente >>
 
 Al tiempo que nos preparamos para mover el muñequito por la pantalla, vamos a ir completando algunas cuestiones necesarias para avanzar en esa dirección Hoy: El mapa de nuestro juego.

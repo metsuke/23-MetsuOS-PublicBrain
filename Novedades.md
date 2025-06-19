@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-18T17:05:05.377Z
+modified: 2025-06-18T18:07:54.873Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,8 +26,8 @@ tags:
 Number of Columns: 2
 Border: off
 ```
-![Editor de mapa en AGD](PublicBrain/_resources/3c2297a38e1d2dc717c7b12b3b57235c_MD5.jpg)
 
+![Pantalla de la cascada en el editor de mapas de AGD](_resources/3cbd44be7a405de73c8f709051e247d2_MD5.jpg)
 ## Capítulo 07: Creando el mapa
 
 Al tiempo que nos preparamos para mover el muñequito por la pantalla, vamos a ir completando algunas cuestiones necesarias para avanzar en esa dirección Hoy: El mapa de nuestro juego.

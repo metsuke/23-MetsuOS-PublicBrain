@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-06-18T16:48:48.284Z
+modified: 2025-06-20T21:36:37.571Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -105,14 +105,23 @@ Tranquilidad, es mas sencillo - y divertido - de lo que parece...
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①]]
 
+--- column-end ---
+
+![La iconica pantalla de la cascada](PublicBrain/_resources/ee8120a2bfe0b29d7dc5b616519587c1_MD5.jpg)
+## Capítulo 08: Moviendo nuestro "muñequito" por la pantalla
+
+En este capítulo abordamos el manejo de nuestro personaje protagonista con AGD.
+
+Empezaremos por el ejemplo más simple para, en posteriores capítulos, afinar cada uno de los aspectos necesarios, desde la configuración de los bloques hasta la selección del modo de control.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
 
-* Tutorial de AGD 2018 Capitulo 07
-* Tutorial de AGD 2018 Capitulo 08
 * Tutorial de AGD 2018 Capitulo 09
 * Tutorial de AGD 2018 Capitulo 10
 * Tutorial de AGD 2018 Capitulo 11

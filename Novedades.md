@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-20T15:51:20.267Z
+modified: 2025-06-20T22:15:39.845Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 28
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,17 @@ Border: off
 ```
 
 
+![La iconica pantalla de la cascada](PublicBrain/_resources/3e6bcf13ab1c91da3e7a4be3066c7d16_MD5.jpeg)
+## Capítulo 08: Moviendo nuestro "muñequito" por la pantalla
+
+En este capítulo abordamos el manejo de nuestro personaje protagonista con AGD.
+
+Empezaremos por el ejemplo más simple para, en posteriores capítulos, afinar cada uno de los aspectos necesarios, desde la configuración de los bloques hasta la selección del modo de control.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①]]
+
+--- column-end ---
+
 ![Instrucciones para crear un lienzo den PixiJS](PublicBrain/_resources/1dbf7bc0567bc0a97e6746879e49ad4d_MD5.jpeg)
 ## Creación de un lienzo (canvas) en PixiJS
 
@@ -36,17 +47,6 @@ PixiJS es una biblioteca JavaScript versátil y potente que permite crear gráfi
 En este artículo, te guiaremos paso a paso para configurar un lienzo (canvas) con PixiJS, preparando el escenario para tus proyectos gráficos.
 
 Continuar leyendo en ... [[Creación de un lienzo (canvas) en PixiJS 🟡③]]
-
---- column-end ---
-
-![Pantalla de la cascada en el editor de mapas de AGD](_resources/3cbd44be7a405de73c8f709051e247d2_MD5.jpg)
-## Capítulo 07: Creando el mapa
-
-Al tiempo que nos preparamos para mover el muñequito por la pantalla, vamos a ir completando algunas cuestiones necesarias para avanzar en esa dirección Hoy: El mapa de nuestro juego.
-
-Tranquilidad, es mas sencillo - y divertido - de lo que parece...
-
-Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①]]
 
 --- column-end ---
 

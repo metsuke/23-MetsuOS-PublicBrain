@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-18T18:07:54.873Z
+modified: 2025-06-20T15:51:20.267Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 27
+ver_rev: 28
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,18 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Instrucciones para crear un lienzo den PixiJS](PublicBrain/_resources/1dbf7bc0567bc0a97e6746879e49ad4d_MD5.jpeg)
+## Creación de un lienzo (canvas) en PixiJS
+
+PixiJS es una biblioteca JavaScript versátil y potente que permite crear gráficos interactivos y experiencias visuales en la web de manera eficiente. 
+
+En este artículo, te guiaremos paso a paso para configurar un lienzo (canvas) con PixiJS, preparando el escenario para tus proyectos gráficos.
+
+Continuar leyendo en ... [[Creación de un lienzo (canvas) en PixiJS 🟡③]]
+
+--- column-end ---
+
 ![Pantalla de la cascada en el editor de mapas de AGD](_resources/3cbd44be7a405de73c8f709051e247d2_MD5.jpg)
 ## Capítulo 07: Creando el mapa
 
@@ -35,17 +47,6 @@ Al tiempo que nos preparamos para mover el muñequito por la pantalla, vamos a i
 Tranquilidad, es mas sencillo - y divertido - de lo que parece...
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①]]
-
---- column-end ---
-
-![Crea juegos 2D Increiles!](PublicBrain/_resources/8360a389c7e3bb2d4347ce010b61b68a_MD5.jpg)
-## Configuración del entorno de desarrollo de PixiJS
-
-PixiJS es una biblioteca potente y ligera para crear gráficos 2D interactivos en la web, ideal para desarrollar juegos y aplicaciones visuales. 
-
-Configurar un entorno de desarrollo para PixiJS es sencillo si sigues estos pasos claros y actualizados. ¡Prepárate para dar vida a tus ideas!
-
-Continuar leyendo en ... [[Configuración del entorno de desarrollo (PixiJS) 🟡③]]
 
 --- column-end ---
 

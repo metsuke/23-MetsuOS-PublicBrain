@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2025-06-17T21:13:25.560Z
+modified: 2025-06-19T21:23:31.530Z
 supervisado: 2024-06-03T19:56:58.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 111
+ver_rev: 112
 nav_primary: 
 nav_secondary: 
 tags:
@@ -59,11 +59,22 @@ Configurar un entorno de desarrollo para PixiJS es sencillo si sigues estos paso
 
 Continuar leyendo en ... [[Configuración del entorno de desarrollo (PixiJS) 🟡③]]
 
+--- column-end ---
+
+![Instrucciones para crear un lienzo den PixiJS](PublicBrain/_resources/1dbf7bc0567bc0a97e6746879e49ad4d_MD5.jpeg)
+## Creación de un lienzo (canvas) en PixiJS
+
+PixiJS es una biblioteca JavaScript versátil y potente que permite crear gráficos interactivos y experiencias visuales en la web de manera eficiente. 
+
+En este artículo, te guiaremos paso a paso para configurar un lienzo (canvas) con PixiJS, preparando el escenario para tus proyectos gráficos.
+
+Continuar leyendo en ... [[Creación de un lienzo (canvas) en PixiJS 🟡③]]
+
  --- column-end ---
 --- multi-column-end
 
 
-- [[Creación de un lienzo (canvas) en PixiJS 🔴②]]
+
 - [[Dibujando formas básicas y gráficos (PixiJS) 🔴②]] 
 
 ## Trabajo con Sprites y Texturas

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.632Z
-modified: 2025-06-14T22:17:10.091Z
+modified: 2025-06-19T22:06:15.164Z
 supervisado: 2024-05-27T13:38:07.690Z
 ACCION: 
 ver_major: 0
 ver_minor: 5
-ver_rev: 16
+ver_rev: 17
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,8 @@ tags:
 
 ![Representacion de que es PixiJS en formato portada de revista](PublicBrain/_resources/c0423efc475581271e6cf545bffe5da1_MD5.jpg)
 
-[[Curso de PixiJS ⚫①]]
+* [[Curso de PixiJS ⚫①]]
+* [[Configuración del entorno de desarrollo (PixiJS) 🟡③|Siguiente >>]]
 
 **PixiJS** es una potente biblioteca de renderizado 2D en JavaScript diseñada para crear gráficos y animaciones interactivas de alta calidad en navegadores web. Reconocida por su rendimiento optimizado y facilidad de uso, PixiJS permite a los desarrolladores construir desde juegos hasta visualizaciones dinámicas con gran eficiencia.
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-15T22:39:15.183Z
-modified: 2025-06-15T22:43:13.777Z
+modified: 2025-06-23T09:19:05.018Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,8 @@ tags:
 
 ![Que es la CPCTelera](PublicBrain/_resources/e141a98cb8e23f38807b0305d874312f_MD5.jpg)
 
-[[Curso de CPCTelera  ⚫①]]
+* [[Curso de CPCTelera  ⚫①]]
+* [[Características principales del motor en CPCTelera ⚫①|Siguiente >>]]
 
 ## Introducción
 

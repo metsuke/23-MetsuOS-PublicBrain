@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2025-06-19T21:23:31.530Z
+modified: 2025-06-21T17:58:50.325Z
 supervisado: 2024-06-03T19:56:58.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 112
+ver_rev: 113
 nav_primary: 
 nav_secondary: 
 tags:
@@ -69,6 +69,16 @@ PixiJS es una biblioteca JavaScript versátil y potente que permite crear gráfi
 En este artículo, te guiaremos paso a paso para configurar un lienzo (canvas) con PixiJS, preparando el escenario para tus proyectos gráficos.
 
 Continuar leyendo en ... [[Creación de un lienzo (canvas) en PixiJS 🟡③]]
+
+--- column-end ---
+
+## Integrando PixiJS con MetsuOS
+
+Incluyo este capítulo intermedio en el flujo previsto originalmente, debido al uso de node y vite en el desarrollo, lo que podría afectar a la inclusión de nuestros proyectos en un entorno vanilla puro html + js, como es MetsuOS en producción.
+
+Aunque trataremos el tema en el capítulo sobre distribución mas adelante, exploraremos como construye PixiJS el proyecto para producciçon y como podemos hacer nuestro propio "build-mos" en que compilemos de forma que se pueda correr sin necesidad node en destino.
+
+Continuar leyendo en ... [[Integrando PixiJS con MetsuOS ⚫①]]
 
  --- column-end ---
 --- multi-column-end

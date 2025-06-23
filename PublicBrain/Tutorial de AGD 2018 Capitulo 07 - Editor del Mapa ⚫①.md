@@ -58,7 +58,7 @@ A más de lo que voy indicando, no olvidéis que el secreto es practica, practic
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si crees que MAPA son las siglas de Muy Adorable Panda Achuchable, pasa a la página 1]]
 * [[Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①|Si no tienes oro suficiente para comprar hechizos al instructor de clase, sigue farmeando en la página 7]]
-* Si te han abierto un portar a Theramore, espera allí hasta que te avisen desde la página 8 ... (o vuelve caminando).
+* [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|Si te han abierto un portar a Theramore, ya es hora de regresar a través de la página 8 ... (o tira de piedra).]]
 ## Referencias Bibliográficas
 
 - **Ninguna fuente verificable disponible**.  

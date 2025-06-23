@@ -58,6 +58,13 @@ E voilá, nuestro muñeco, aun de forma rudimentaria y con un montón de cosas q
 Detalles hay mil que se pueden mejorar, desde las colisiones al salto, pasando por la animación en cuanto a fluidez y orientación (os daréis cuenta de que el muñequito siempre mira al mismo lado). Todos estos detalles los iremos abordando, pero en el siguiente haré una disección del código de esta plantilla porque nos permitirá aprender un montón de como funciona AGD y así luego poder idear nuestras propias mecánicas.
 
 Mientras llega la próxima entrega, recordad "Practicar, practicar, practicar!"
+
+## ¿Y ahora que?
+
+* [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si hs aterrizado aquí directamente desde Ventormenta sin encargarte de Hogger, pasa a la página 1]]
+* [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|Si quedaste aturdido al caer desde el por tal de Theramore, descansa un rato en la página 8]]
+* Si quieres abrir un portal a Theramore a Hogger y hacerlo desaparecer de una vez por todas, ve al instructor de portales mientras informamos al Mossad de lo que tienes pensado.
+
 ## Referencias Bibliográficas
 
 - **Ninguna fuente verificable disponible**.  

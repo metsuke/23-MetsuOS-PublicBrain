@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-20T22:15:39.845Z
+modified: 2025-06-23T10:13:45.357Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 29
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,17 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Caracteristicas de CPCTelera](PublicBrain/_resources/c95d414a2291d7e3bd4d8caa8ca48e31_MD5.jpg)
+## Características principales del motor en CPCTelera
+
+CPCtelera es una potente librería diseñada para facilitar el desarrollo de videojuegos y aplicaciones en el ordenador Amstrad CPC, utilizando principalmente lenguajes C y ensamblador Z80.
+
+Su "motor" abarca un conjunto de herramientas y funciones que simplifican la gestión de gráficos, sonido, entrada/salida y otros aspectos clave para programar en esta plataforma retro. A continuación, se describen las principales características del motor de CPCtelera, ideales para explorar en un curso sobre esta librería.
+
+Continuar leyendo en ... [[Características principales del motor en CPCTelera ⚫①]]
+
+--- column-end ---
 
 ![La iconica pantalla de la cascada](PublicBrain/_resources/3e6bcf13ab1c91da3e7a4be3066c7d16_MD5.jpeg)
 ## Capítulo 08: Moviendo nuestro "muñequito" por la pantalla
@@ -47,17 +58,6 @@ PixiJS es una biblioteca JavaScript versátil y potente que permite crear gráfi
 En este artículo, te guiaremos paso a paso para configurar un lienzo (canvas) con PixiJS, preparando el escenario para tus proyectos gráficos.
 
 Continuar leyendo en ... [[Creación de un lienzo (canvas) en PixiJS 🟡③]]
-
---- column-end ---
-
-![Que es la CPCTelera](PublicBrain/_resources/fea2b92ed6b5ec9f3545f47c729e067f_MD5.jpg)
-## ¿Qué es CPCTelera? Historia y propósito
-
-CPCTelera es un framework de desarrollo diseñado para facilitar la creación de videojuegos y aplicaciones multimedia para el Amstrad CPC, un ordenador personal de los años 80 conocido por su popularidad en Europa. 
-
-Este entorno proporciona una colección de herramientas y funciones de bajo nivel que simplifican tareas esenciales en el desarrollo de juegos, como la gestión de sprites, gráficos, cambios de modos de vídeo, mapas de tiles y la programación de comportamientos autónomos, como la inteligencia artificial de enemigos. 
-
-Continua leyendo en [[¿Qué es CPCTelera? Historia y propósito 🟡③]]
 
 --- column-end ---
 

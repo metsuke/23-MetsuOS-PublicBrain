@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-23T10:13:45.357Z
+modified: 2025-06-23T20:21:51.081Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 30
+ver_rev: 33
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,18 @@ Border: off
 ```
 
 
+![GBStudio Requisitos Previos](PublicBrain/_resources/9b0e528c1fc5a8a09fb5380290aa612b_MD5.jpg)
+## Requisitos previos y herramientas necesarias para GBStudio
+
+GB Studio es una herramienta accesible y poderosa para desarrollar videojuegos retro al estilo Game Boy, ideal tanto para principiantes como para entusiastas del diseño de juegos. 
+
+Este documento detalla los requisitos previos y las herramientas necesarias para aprovechar al máximo un curso de GB Studio, con una redacción optimizada para claridad y un enfoque práctico, acompañado de referencias verificadas que respaldan y cuestionan el contenido.
+
+Continuar leyendo en [[Requisitos previos y herramientas necesarias para GBStudio 🟡③]]
+
+
+--- column-end ---
+
 ![Caracteristicas de CPCTelera](PublicBrain/_resources/c95d414a2291d7e3bd4d8caa8ca48e31_MD5.jpg)
 ## Características principales del motor en CPCTelera
 
@@ -35,7 +47,7 @@ CPCtelera es una potente librería diseñada para facilitar el desarrollo de vid
 
 Su "motor" abarca un conjunto de herramientas y funciones que simplifican la gestión de gráficos, sonido, entrada/salida y otros aspectos clave para programar en esta plataforma retro. A continuación, se describen las principales características del motor de CPCtelera, ideales para explorar en un curso sobre esta librería.
 
-Continuar leyendo en ... [[Características principales del motor en CPCTelera ⚫①]]
+Continuar leyendo en ... [[Características principales del motor en CPCTelera 🟡③]]
 
 --- column-end ---
 

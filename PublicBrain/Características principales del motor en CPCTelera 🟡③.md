@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Características principales del motor en CPCTelera ⚫①
+# Características principales del motor en CPCTelera 🟡③
 
 ![Caracteristicas de CPCTelera](PublicBrain/_resources/4e023cdd10c600cf9146c414c8dcc376_MD5.jpg)
 

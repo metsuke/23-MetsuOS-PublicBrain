@@ -83,18 +83,6 @@ Se trata de un entorno de desarrollo integrado (IDE) que combina la potencia del
 
 Continuar leyendo ... [[¿Qué es Visual Batari Basic? 🟡③]]
 
---- column-end ---
-
-![Representación visual de la introduccion](PublicBrain/_resources/80f9f289e44220fb8ee4eac6754fd236_MD5.jpg)
-
-### ¿Qué es GB Studio?
-
-GB Studio es una herramienta gratuita y de código abierto diseñada para crear videojuegos retro al estilo de la Game Boy sin requerir conocimientos avanzados de programación. 
-
-Su interfaz visual de tipo "arrastrar y soltar", disponible en Windows, Mac y Linux, simplifica el desarrollo, permitiendo a principiantes y aficionados crear juegos completos, desde aventuras de perspectiva cenital inspiradas en JRPG hasta proyectos personalizados. 
-
-Continuar leyendo en ... [[Qué es GB Studio 🟡③]]
-
  --- column-end ---
 
 ![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-13T13:43:24.085Z
-modified: 2025-06-23T20:21:51.160Z
+modified: 2025-06-24T09:23:00.648Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![Portada de revista de videojuegos con el curso de GB Studio](_resources/41f175e0de54ecc13bcefca8c850c5e5_MD5.jpg)
 
-[[Novedades]]
+[[Aprender a desarrollar videojuegos  ⚫①]]
 
 ¡Bienvenidos al Curso de GB Studio! En este curso, exploraremos las fascinantes posibilidades de GB Studio, una herramienta gratuita y fácil de usar que permite a cualquier persona crear videojuegos al estilo retro para la Game Boy sin necesidad de conocimientos avanzados de programación. 
 

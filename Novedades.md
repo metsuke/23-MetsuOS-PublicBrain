@@ -27,6 +27,16 @@ Number of Columns: 2
 Border: off
 ```
 
+![Atari 2600 El Legado Continua](PublicBrain/_resources/5c14edea4027bacc6ee841967b46dabd_MD5.jpg)
+## Historia y contexto del Atari 2600 y su relación con Visual bB
+
+El Atari 2600, lanzado en 1977, supuso un antes y un después en la historia de los videojuegos al introducir los sistemas de entretenimiento doméstico basados en cartuchos intercambiables, una innovación que revolucionó el sector. Su influencia no se limita al ámbito tecnológico, sino que también dejó una huella imborrable en la cultura popular, sentando las bases para la industria moderna de los videojuegos. 
+
+Por otro lado, Visual Batari Basic (Visual bB), una herramienta contemporánea, facilita a desarrolladores, desde principiantes hasta expertos, la creación de juegos para esta icónica consola. Este documento analiza la historia del Atari 2600, su impacto cultural y cómo Visual bB actúa como un puente entre el pasado y el presente del desarrollo de videojuegos.
+
+Continuar leyendo en ... [[Historia y contexto del Atari 2600 y su relación con Visual bB ⚫①]]
+
+--- column-end ---
 
 ![GBStudio Requisitos Previos](PublicBrain/_resources/9b0e528c1fc5a8a09fb5380290aa612b_MD5.jpg)
 ## Requisitos previos y herramientas necesarias para GBStudio
@@ -72,18 +82,6 @@ En este artículo, te guiaremos paso a paso para configurar un lienzo (canvas) c
 Continuar leyendo en ... [[Creación de un lienzo (canvas) en PixiJS 🟡③]]
 
 --- column-end ---
-
-
-![Que es Visual bB](PublicBrain/_resources/a4312b0942baafccc4ed626a13d74f7a_MD5.jpg)
-### ¿Qué es Visual Batari Basic?
-
-Visual Batari Basic (Visual bB) es una herramienta innovadora diseñada para simplificar el desarrollo de videojuegos para la mítica consola Atari 2600.
-
-Se trata de un entorno de desarrollo integrado (IDE) que combina la potencia del lenguaje batari Basic (bB), un compilador BASIC-like creado específicamente para programar juegos de Atari, con una interfaz visual intuitiva. 
-
-Continuar leyendo ... [[¿Qué es Visual Batari Basic? 🟡③]]
-
- --- column-end ---
 
 ![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
 ## Aprender a desarrollar videojuegos

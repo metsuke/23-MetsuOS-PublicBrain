@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T02:19:19.640Z
-modified: 2025-06-15T19:50:16.075Z
+modified: 2025-06-24T09:25:11.193Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![Representación visual del curso de Visual bB](PublicBrain/_resources/350608171a995c72e9758ac6e6d78d47_MD5.jpg)
 
-[[Novedades]]
+[[Aprender a desarrollar videojuegos  ⚫①]]
 
 Bienvenidos al Curso de Visual Batari Basic, una emocionante oportunidad para explorar el desarrollo de videojuegos para la clásica consola Atari 2600 utilizando una herramienta moderna y accesible. Visual Batari Basic combina la simplicidad del lenguaje Batari Basic con un entorno visual intuitivo, permitiendo a principiantes y entusiastas crear juegos retro con facilidad, sin sacrificar la flexibilidad que los programadores más experimentados buscan. En este curso, aprenderás los fundamentos de Visual Batari Basic, desde la creación de sprites y escenarios hasta la programación de mecánicas de juego, abriendo la puerta al fascinante mundo del desarrollo de videojuegos retro.
 
@@ -47,10 +47,21 @@ Se trata de un entorno de desarrollo integrado (IDE) que combina la potencia del
 Continuar leyendo en ... [[¿Qué es Visual Batari Basic? 🟡③]]
 
 --- column-end ---
+
+![Atari 2600 El Legado Continua](PublicBrain/_resources/5c14edea4027bacc6ee841967b46dabd_MD5.jpg)
+## Historia y contexto del Atari 2600 y su relación con Visual bB
+
+El Atari 2600, lanzado en 1977, supuso un antes y un después en la historia de los videojuegos al introducir los sistemas de entretenimiento doméstico basados en cartuchos intercambiables, una innovación que revolucionó el sector. Su influencia no se limita al ámbito tecnológico, sino que también dejó una huella imborrable en la cultura popular, sentando las bases para la industria moderna de los videojuegos. 
+
+Por otro lado, Visual Batari Basic (Visual bB), una herramienta contemporánea, facilita a desarrolladores, desde principiantes hasta expertos, la creación de juegos para esta icónica consola. Este documento analiza la historia del Atari 2600, su impacto cultural y cómo Visual bB actúa como un puente entre el pasado y el presente del desarrollo de videojuegos.
+
+Continuar leyendo en ... [[Historia y contexto del Atari 2600 y su relación con Visual bB ⚫①]]
+
+--- column-end ---
 --- multi-column-end
 
 
-- 1.2. Historia y contexto del Atari 2600
+- 
 - 1.3. Características y limitaciones del desarrollo para Atari 2600
 - 1.4. Instalación y configuración del entorno
        - 1.4.1. Descarga de Visual Batari Basic

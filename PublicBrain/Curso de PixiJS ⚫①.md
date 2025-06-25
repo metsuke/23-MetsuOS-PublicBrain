@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2025-06-21T17:58:50.325Z
+modified: 2025-06-25T11:46:47.778Z
 supervisado: 2024-06-03T19:56:58.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 113
+ver_rev: 114
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![Portada de la hipotetica revista sobre desarrollo retro](PublicBrain/_resources/d56c5ac2fb02c87c260e1e9902ae0b13_MD5.jpg)
 
-[[PublicBrain/Index|Index]]
+[[Aprender a desarrollar videojuegos  ⚫①]]
 
 Este es otro plan a 90-120 dias en el que desarrollaremos lo necesario para empezar a crear cosas en Web con esta plataforma.
 

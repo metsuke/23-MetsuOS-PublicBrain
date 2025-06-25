@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T02:19:19.640Z
-modified: 2025-06-24T09:25:11.193Z
+modified: 2025-06-25T06:09:47.380Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -55,7 +55,7 @@ El Atari 2600, lanzado en 1977, supuso un antes y un después en la historia de 
 
 Por otro lado, Visual Batari Basic (Visual bB), una herramienta contemporánea, facilita a desarrolladores, desde principiantes hasta expertos, la creación de juegos para esta icónica consola. Este documento analiza la historia del Atari 2600, su impacto cultural y cómo Visual bB actúa como un puente entre el pasado y el presente del desarrollo de videojuegos.
 
-Continuar leyendo en ... [[Historia y contexto del Atari 2600 y su relación con Visual bB ⚫①]]
+Continuar leyendo en ... [[Historia y contexto del Atari 2600 y su relación con Visual bB 🟡③]]
 
 --- column-end ---
 --- multi-column-end

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-15T10:16:10.144Z
-modified: 2025-06-24T10:19:08.961Z
+modified: 2025-06-25T06:09:47.392Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Que es Visual bB](PublicBrain/_resources/0aa1fd80a2aa378e1ce7cdd3e46e49ec_MD5.jpg)
 
 * [[Curso de Visual bB ⚫①]]
-* [[Historia y contexto del Atari 2600 y su relación con Visual bB ⚫①|Siguiente >>]]
+* [[Historia y contexto del Atari 2600 y su relación con Visual bB 🟡③|Siguiente >>]]
 
 ## Introducción
 

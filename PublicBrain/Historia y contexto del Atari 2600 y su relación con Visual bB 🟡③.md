@@ -9,24 +9,22 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-24T10:08:43.252Z
-modified: 2025-06-24T12:28:39.413Z
+modified: 2025-06-25T06:09:47.286Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Historia y contexto del Atari 2600 y su relación con Visual bB ⚫①
+# Historia y contexto del Atari 2600 y su relación con Visual bB 🟡③
 
 ![Atari 2600 El Legado Continua](PublicBrain/_resources/8d1151e7f8fe5ff3859616ebf84c169e_MD5.jpg)
 
 * [[Curso de Visual bB ⚫①]]
 * [[¿Qué es Visual Batari Basic? 🟡③|<< Anterior]] | Siguiente >>
-
-> WIP
 ## Introducción
 
 El Atari 2600, lanzado en 1977, supuso un antes y un después en la historia de los videojuegos al introducir los sistemas de entretenimiento doméstico basados en cartuchos intercambiables, una innovación que revolucionó el sector. Su influencia no se limita al ámbito tecnológico, sino que también dejó una huella imborrable en la cultura popular, sentando las bases para la industria moderna de los videojuegos. 

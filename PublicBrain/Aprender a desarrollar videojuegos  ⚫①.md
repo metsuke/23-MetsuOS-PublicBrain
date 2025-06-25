@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-06-23T10:19:21.058Z
+modified: 2025-06-25T18:22:36.253Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,7 +51,18 @@ Además, la comunidad de desarrolladores es un recurso invaluable, ofreciendo ap
 Number of Columns: 2
 Border: off
 ```
+![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
+## Curso de ZX Game Maker
 
+El Curso de ZX Game Maker está diseñado para introducir a principiantes y entusiastas en el apasionante mundo del desarrollo de videojuegos 2D utilizando el motor ZX Game Maker, una herramienta accesible y potente para crear juegos sin necesidad de conocimientos avanzados de programación. 
+
+Este curso te guiará paso a paso desde los fundamentos del entorno hasta la creación de un videojuego completo, combinando teoría, práctica y proyectos reales. 
+
+Aprenderás a manejar sprites, colisiones, sonidos, niveles y lógicas básicas de programación con el lenguaje GML (Game Maker Language), ideal para dar vida a tus ideas de manera sencilla y divertida. Al finalizar, estarás preparado para desarrollar tus propios videojuegos y explorar oportunidades en la industria del entretenimiento digital.
+
+Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
+
+--- column-end ---
 
 ![Representación visual del curso de Visual bB](_resources/8ee27dfb0c0237c9632fd5c96892d89a_MD5.jpg)
 ## Curso de Visual bB

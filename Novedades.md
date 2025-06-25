@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-23T20:21:51.081Z
+modified: 2025-06-25T18:23:32.704Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 33
+ver_rev: 34
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,20 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
+## Curso de ZX Game Maker
+
+El Curso de ZX Game Maker está diseñado para introducir a principiantes y entusiastas en el apasionante mundo del desarrollo de videojuegos 2D utilizando el motor ZX Game Maker, una herramienta accesible y potente para crear juegos sin necesidad de conocimientos avanzados de programación. 
+
+Este curso te guiará paso a paso desde los fundamentos del entorno hasta la creación de un videojuego completo, combinando teoría, práctica y proyectos reales. 
+
+Aprenderás a manejar sprites, colisiones, sonidos, niveles y lógicas básicas de programación con el lenguaje GML (Game Maker Language), ideal para dar vida a tus ideas de manera sencilla y divertida. Al finalizar, estarás preparado para desarrollar tus propios videojuegos y explorar oportunidades en la industria del entretenimiento digital.
+
+Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
+
+--- column-end ---
+
 ![Atari 2600 El Legado Continua](PublicBrain/_resources/5c14edea4027bacc6ee841967b46dabd_MD5.jpg)
 ## Historia y contexto del Atari 2600 y su relación con Visual bB
 
@@ -34,7 +48,7 @@ El Atari 2600, lanzado en 1977, supuso un antes y un después en la historia de 
 
 Por otro lado, Visual Batari Basic (Visual bB), una herramienta contemporánea, facilita a desarrolladores, desde principiantes hasta expertos, la creación de juegos para esta icónica consola. Este documento analiza la historia del Atari 2600, su impacto cultural y cómo Visual bB actúa como un puente entre el pasado y el presente del desarrollo de videojuegos.
 
-Continuar leyendo en ... [[Historia y contexto del Atari 2600 y su relación con Visual bB ⚫①]]
+Continuar leyendo en ... [[Historia y contexto del Atari 2600 y su relación con Visual bB 🟡③]]
 
 --- column-end ---
 

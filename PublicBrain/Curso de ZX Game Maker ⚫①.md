@@ -1,13 +1,17 @@
 ---
+iaStatus: 0
+iaStatus_Model: ""
 a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2023-08-30T00:54:00
-modified: 2024-03-06T23:35:00
+created: 2025-06-25T11:48:02.556Z
+modified: 2025-06-25T20:00:09.246Z
+supervisado: ""
+ACCION: ""
 ver_major: 0
-ver_minor: "0"
-ver_rev: "0"
+ver_minor: 1
+ver_rev: 1
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -17,8 +21,6 @@ tags: []
 ![Curso de ZX Game Maker](_resources/b2b95efee69c57efd8fef186e909d6e2_MD5.jpg)()
 
 [[Aprender a desarrollar videojuegos  ⚫①]]
-
-> WIP
 
 El Curso de ZX Game Maker está diseñado para introducir a principiantes y entusiastas en el apasionante mundo del desarrollo de videojuegos 2D utilizando el motor ZX Game Maker, una herramienta accesible y potente para crear juegos sin necesidad de conocimientos avanzados de programación. 
 

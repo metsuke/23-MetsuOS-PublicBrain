@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-25T23:02:39.435Z
-modified: 2025-06-25T23:08:22.331Z
+modified: 2025-06-26T08:28:03.318Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -22,8 +22,6 @@ tags: []
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
 * [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|<< Anterior ]] | Siguiente >>
-
-> WIP
 
 En el último capítulo pudimos, por primera vez, [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|mover nuestro personaje por la pantalla usando el teclado]]. 
 

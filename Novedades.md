@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-25T19:51:01.654Z
+modified: 2025-06-25T23:02:05.356Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 35
+ver_rev: 36
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,17 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![La cabeza de Manic Miner con pixeles gordos](_resources/adf42fadbabbecc0aca89de02719db4d_MD5.jpg)
+## Capítulo 09: Movimiento al estilo "Manic Miner"
+
+En el último capítulo pudimos, por primera vez, mover nuestro personaje por la pantalla usando el teclado. 
+
+En esta ocasión explicaré el código de la plantilla por defecto de tipo "Manic Miner" y que nos servirá de base para nuestro juego.
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①]]
+
+--- column-end ---
 
 ![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
 ## Curso de ZX Game Maker
@@ -72,17 +83,6 @@ CPCtelera es una potente librería diseñada para facilitar el desarrollo de vid
 Su "motor" abarca un conjunto de herramientas y funciones que simplifican la gestión de gráficos, sonido, entrada/salida y otros aspectos clave para programar en esta plataforma retro. A continuación, se describen las principales características del motor de CPCtelera, ideales para explorar en un curso sobre esta librería.
 
 Continuar leyendo en ... [[Características principales del motor en CPCTelera 🟡③]]
-
---- column-end ---
-
-![La iconica pantalla de la cascada](PublicBrain/_resources/3e6bcf13ab1c91da3e7a4be3066c7d16_MD5.jpeg)
-## Capítulo 08: Moviendo nuestro "muñequito" por la pantalla
-
-En este capítulo abordamos el manejo de nuestro personaje protagonista con AGD.
-
-Empezaremos por el ejemplo más simple para, en posteriores capítulos, afinar cada uno de los aspectos necesarios, desde la configuración de los bloques hasta la selección del modo de control.
-
-Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①]]
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-06-20T21:36:37.571Z
+modified: 2025-06-25T22:45:26.317Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 13
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
@@ -116,13 +116,25 @@ Empezaremos por el ejemplo más simple para, en posteriores capítulos, afinar c
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①]]
 
+--- column-end ---
+
+![La cabeza de Manic Miner con pixeles gordos](PublicBrain/_resources/480308c505d56ec85495f125d3f9b552_MD5.jpg)
+
+## Capítulo 09: Movimiento al estilo "Manic Miner"
+
+En el último capítulo pudimos, por primera vez, mover nuestro personaje por la pantalla usando el teclado. 
+
+En esta ocasión explicaré el código de la plantilla por defecto de tipo "Manic Miner" y que nos servirá de base para nuestro juego.
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
 
-* Tutorial de AGD 2018 Capitulo 09
+* 
 * Tutorial de AGD 2018 Capitulo 10
 * Tutorial de AGD 2018 Capitulo 11
 * Tutorial de AGD 2018 Capitulo 12

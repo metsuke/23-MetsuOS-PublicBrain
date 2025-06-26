@@ -18,7 +18,7 @@ tags: []
 ---
 # Curso de ZX Game Maker ⚫①
 
-![Curso de ZX Game Maker](_resources/b2b95efee69c57efd8fef186e909d6e2_MD5.jpg)()
+![Curso de ZX Game Maker](_resources/b2b95efee69c57efd8fef186e909d6e2_MD5.jpg)
 
 [[Aprender a desarrollar videojuegos  ⚫①]]
 

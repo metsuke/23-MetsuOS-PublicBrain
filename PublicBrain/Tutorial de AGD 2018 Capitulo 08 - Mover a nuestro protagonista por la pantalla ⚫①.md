@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-20T21:52:33.909Z
-modified: 2025-06-20T21:53:26.753Z
+modified: 2025-06-25T23:06:15.935Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![La iconica pantalla de la cascada](PublicBrain/_resources/b8997349c974172658a41b4545387749_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capitulo 07 - Editor del Mapa ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①|Siguiente >>]]
 
 En este capítulo abordamos el manejo de nuestro personaje protagonista con AGD, empezaremos por el ejemplo más simple para, en posteriores capítulos afinar cada uno de los aspectos necesarios, desde la configuración de los bloques hasta la selección del modo de control.
 
@@ -63,7 +63,7 @@ Mientras llega la próxima entrega, recordad "Practicar, practicar, practicar!"
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si hs aterrizado aquí directamente desde Ventormenta sin encargarte de Hogger, pasa a la página 1]]
 * [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|Si quedaste aturdido al caer desde el por tal de Theramore, descansa un rato en la página 8]]
-* Si quieres abrir un portal a Theramore a Hogger y hacerlo desaparecer de una vez por todas, ve al instructor de portales mientras informamos al Mossad de lo que tienes pensado.
+* [[Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①|Si quieres abrir un portal a Theramore a Hogger y hacerlo desaparecer de una vez por todas, vé a la página 9]]
 
 ## Referencias Bibliográficas
 

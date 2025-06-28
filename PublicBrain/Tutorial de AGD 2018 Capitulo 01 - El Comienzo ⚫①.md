@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:45:37.355Z
-modified: 2025-06-10T04:49:10.186Z
+modified: 2025-06-28T21:06:07.844Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 14
+ver_rev: 15
 nav_primary: 
 nav_secondary: 
 tags:
@@ -68,7 +68,7 @@ Dicho lo cual ¡vamos al lío!
 
 Si has llegado hasta aquí sabrás qué es, pero aun así lo comentaré: **AGD** (siglas de _Arcade Game Designer_, o "Diseñador de Juegos Arcade") es un software creado por [Jonathan Cauldwell 🌐🟡③](https://www.facebook.com/jonathan.cauldwell) que sirve para crear juegos arcade. Cuenta con diferentes herramientas, corre sobre la máquina para la que vamos a realizar nuestro desarrollo e incluso incluye una suerte de BASIC que nos permite definir y controlar la lógica de nuestra pequeña obra.
 
-Hay diferentes versiones, pero en este tutorial nos centraremos en la **versión 4.7 para ZX Spectrum**, la última disponible en el momento de escribir estas líneas. En el foro de AGD (en inglés) - ttp://arcadegamedesigner.proboards.com/ - puedes _*(Nota 2025 "podías", hoy dia no esta disponible)*_ estar al tanto de todo lo que se cuece en torno a esta herramienta.
+Hay diferentes versiones, pero en este tutorial nos centraremos en la **versión 4.7 para ZX Spectrum**, la última disponible en el momento de escribir estas líneas. En el foro de AGD (en inglés) - arcadegamedesigner.proboards.com/ - puedes _*(Nota 2025 "podías", hoy dia no esta disponible)*_ estar al tanto de todo lo que se cuece en torno a esta herramienta.
 
 ## Al lío: ¿Cómo uso AGD?
 

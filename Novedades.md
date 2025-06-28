@@ -27,15 +27,14 @@ Number of Columns: 2
 Border: off
 ```
 
+![Referencia del Lenguaje en AGD](_resources/c423699ba7ba1b160228ade08b596954_MD5.jpg)
+## Capítulo 10: Referencia del Lenguaje
 
-![La cabeza de Manic Miner con pixeles gordos](_resources/adf42fadbabbecc0aca89de02719db4d_MD5.jpg)
-## Capítulo 09: Movimiento al estilo "Manic Miner"
+Como prometí, aquí va la traduccion de la referencia del lenguaje, necesaria para que podamos empezar a hacer cosillas con código.
 
-En el último capítulo pudimos, por primera vez, mover nuestro personaje por la pantalla usando el teclado. 
+En el siguiente capítulo continuaremos haciendo cositas con nuestro jueguecito, entre tanto... ¡Espero que esta traducción les resulte de utilidad!
 
-En esta ocasión explicaré el código de la plantilla por defecto de tipo "Manic Miner" y que nos servirá de base para nuestro juego.
-
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①]]
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①]]
 
 --- column-end ---
 

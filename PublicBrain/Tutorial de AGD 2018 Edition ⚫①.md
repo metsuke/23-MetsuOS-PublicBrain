@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-06-25T22:45:26.317Z
+modified: 2025-06-28T21:17:56.195Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 14
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
@@ -128,14 +128,24 @@ En esta ocasión explicaré el código de la plantilla por defecto de tipo "Mani
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①]]
 
+--- column-end ---
+
+![Referencia del Lenguaje en AGD](PublicBrain/_resources/e15232566f2e2de975ea0077d597209d_MD5.jpg)
+
+## Capítulo 10: Referencia del Lenguaje
+
+Como prometí, aquí va la traduccion de la referencia del lenguaje, necesaria para que podamos empezar a hacer cosillas con código.
+
+En el siguiente capítulo continuaremos haciendo cositas con nuestro jueguecito, entre tanto... ¡Espero que esta traducción les resulte de utilidad!
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
 
-* 
-* Tutorial de AGD 2018 Capitulo 10
 * Tutorial de AGD 2018 Capitulo 11
 * Tutorial de AGD 2018 Capitulo 12
 * Tutorial de AGD 2018 Capitulo 13
@@ -158,8 +168,13 @@ Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo
 * Tutorial de AGD 2018 Capitulo 30
 * Tutorial de AGD 2018 Capitulo 31
 * Tutorial de AGD 2018 Capitulo 32
-* ...
+* "33" - Evaluar Arkos Traker en lugar de Vortex por ser Mutiplataforma
+* "34" - Evaluar añadir musica al JBA original desde Arkos.
+* """35" - 📚 Preparar el curso en PDF para su salida en descarga a traves de Itchio y en fisico a traves de Lulu.com
+* """36""" - 📚 Preparar versiones en CA y EN (por ahora) del curso para pdf y fisico
+* """37""" - Evaluar si saco un curso de Arkos Tracker mientras aprendo y compongo la musica del JBA Original.
+* """"38""""" - Evaluar Posibilidad de Añadir mas elementos O lanzarme directamente a crear Spectrum desde AGD 4.7, ZX SPECTRUM MAKER, BORIEL, C  y ASM (creando MPL - MetsuOS Programming Languaje directamente y compilando desde ahi a las 5 versiones como prueba inicial de concepto de MGP - MetsuOS Game Platform)
+* """"""39"""""" - Crear la primera versione. de MGP en PixiJS y evaluar versiones community (AGPL?) y pro (disponible para Patreons con limites en función del nivel)
 
-📚 No se si vale la pena currarme un pdf y además de descarga libre, ponerlo en una web de impresión bajo demanda, para que aquellos que - gracias por ello - teneis cariño al curso podais conservarlo en fisico o digital con independencia de mi web. Por favor decidme que pensais sobre ello, por los canales habituales.
 
 ![[Plantilla - 1MT#One More Thing]]

@@ -1,27 +1,30 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
+iaStatus_Generado: "H"
+iaStatus_Supervisado: "-"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-06-25T23:02:39.435Z
-modified: 2025-06-26T08:28:03.318Z
+modified: 2025-06-28T20:49:58.951Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 2
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 5
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①
 
 ![La cabeza de Manic Miner con pixeles gordos](PublicBrain/_resources/adf42fadbabbecc0aca89de02719db4d_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|<< Anterior ]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|<< Anterior ]] | [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|Siguiente >>]]
 
 En el último capítulo pudimos, por primera vez, [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|mover nuestro personaje por la pantalla usando el teclado]]. 
 
@@ -37,9 +40,9 @@ Antes de nada, y para facilitar el manejo del editor de código, veamos las tecl
 - CAPS-2 Activar Mayúsculas
 - CAPS-3 Borrar hacia delante
 - CAPS-4 Cambia entre Insertar y Sobreescribir
-- SYM-CAPS Activa/Desactiva Modo Extendido </pre>
+- SYM-CAPS Activa/Desactiva Modo Extendido
 ```
-## ¿Manic Miner?
+## Emmm ... ¿Manic Miner?
 
 Cabe la posibilidad de que no hayas conocido el juego al que nos referimos, un clásico de los 80, básicamente el movimiento consiste en tres teclas, izquierda, derecha y salto. En el siguiente video podeis ver ese estilo en acción:
 
@@ -72,7 +75,7 @@ IF KEY 1
 		IF CANGOLEFT
 		LET IMAGE = 0
 		ANIMATE
-		SPRITELET
+		SPRITELEFT
 	ENDIF
 ENDIF
 IF KEY 3
@@ -177,7 +180,7 @@ IF KEY 1
 		IF CANGOLEFT
 		LET IMAGE = 0
 		ANIMATE
-		SPRITELET
+		SPRITELEFT
 	ENDIF
 ENDIF
 ...
@@ -214,7 +217,7 @@ Como decimos siempre practicad, practicad y practicad. ¡Nos vemos en la siguien
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si hs aterrizado aquí directamente desde Ventormenta sin encargarte de Hogger, pasa a la página 1]]
 * [[Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①|Si has ido y vuelto de Uldum cuando era todo campo, regocíjate hermano, que no es nada facil, desde la página 9]]
-* Si no has podido librarte de Hogger y debes huir para conservar la vida, ve al instructor de portales y abre uno al futuro pasado de Terminator.
+* [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|Si no has podido librarte de Hogger y debes huir para conservar la vida, ve al instructor de portales y abre uno al futuro pasado de Terminator en la página 10]]
 
 ## Referencias Bibliográficas
 

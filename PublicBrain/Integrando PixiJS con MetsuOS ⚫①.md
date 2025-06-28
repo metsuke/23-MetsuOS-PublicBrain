@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-21T18:01:10.578Z
-modified: 2025-06-23T00:04:33.527Z
+modified: 2025-06-27T11:18:53.596Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,6 +33,6 @@ Pretendo con ello, además, poder incluir desde ya elementos creados con esta te
 
 Veamos lo que hace PixiJS por defecto al compilar para producción nuestro proyecto.  Sirva decir que, por ahora, nos limitaremos a proyectos cuyo único requisito sea el propio PixiJS, en caso necesario ya completaremos esta información más adelante.
 
-**<div class='pixi-app' id='mos-integration' style='max-width:95%; max-height:95%' ><div style='max-width:95%; max-height:95%' id='pixi-container'></div></div><script type='text/javascript' id='PixiText' async src='https://metsuke.com/assets/apps/PixiJS/002-MosIntegration/app-mos-integrate.iife.js'></script>**
+**<div class='pixi-app' id='mos-integration'><div class='pixi-container'  id='pixi-container'></div></div><script type='text/javascript' id='PixiText' async src='https://metsuke.com/assets/apps/PixiJS/002-MosIntegration/app-mos-integrate.iife.js'></script>**
 
 ![[Plantilla - 1MT#One More Thing]]

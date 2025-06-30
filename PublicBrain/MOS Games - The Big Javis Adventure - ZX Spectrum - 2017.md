@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-15T04:30:04.825Z
-modified: 2025-06-05T13:25:00.914Z
+modified: 2025-06-30T13:23:07.756Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -43,6 +43,12 @@ Pero esto es solo el principio, el juego pretende extenderse por otras plataform
 
 Lo que no está claro es si ese desarrollo se dará via Makers o directamente bajando a la máquina, tras la genial charla de Fran Gallego en el Amstrad Eterno de 2017, la tentacion es la de comprar un caldero y comenzar a hacer magia... la cuestión es si el tiempo dará de si.
 
+## El Mapa el mapa el mapa el mapa ¡soy el mapa!
+
+Revisando viejas carpetas, me encontré con este mapà hizo Pavero en 2017 y que esta disponible en [maps.speccy.cz](https://maps.speccy.cz/map.php?id=BigJavisAdventure&sort=4&part=2&ath=0).
+
+![El mapa de JBA por Pavero](PublicBrain/_resources/c4ab7c4321ff7fd59f90b4a8ecf19156_MD5.jpeg)
+
 ## Notas de Accesibilidad
 
 ![](_resources/ce458544be0ed1338af042d1c001a0c9_MD5.jpeg)
@@ -65,6 +71,10 @@ POKES v1.0 (EMS EDITION)
 VIDAS INFINITAS: POKE 30752,0
 INMUNIDAD: POKE 33718,175
 Gracias McCleod ;)
+
+VIDAS INFINITAS - 30662,0:30731,2 (v1.1)  
+VIDAS INFINITAS - 30747,0 (v1.0 EMS Edition)
+Thanks to The Tipshop
 ```
 ## ¡Versiones hechas por fans!
 
@@ -97,6 +107,9 @@ Algunas reseñas online sobre el juego, gracias! (hace mucha ilusión ver que al
 3. Indie Retro News. (11 de abril de 2017). [*The BIG Javi's Adventure - A new ZX Spectrum game released by Raul Carrillo 🌐*](https://www.indieretronews.com/2017/04/the-big-javis-adventure-new-zx-spectrum.html)
 4. Vintage is the New Old. (12 de abril de 2017). [*The Big Javi’s Adventure, new AGD Speccy homebrew release by Raul Carrillo 🌐*](https://www.vintageisthenewold.com/the-big-javis-adventure-new-agd-speccy-homebrew-release-by-raul-carrillo/)
 5. Spectrum Computing. (2017). [*The Big Javi's Adventure 🌐*](https://spectrumcomputing.co.uk/entry/30379/ZX-Spectrum/The_Big_Javis_Adventure)
+6. [World of Spectrum - The Big Javis Adventure](https://worldofspectrum.net/item/0030379/)
+7. [Speccy Screenshots Maps maps.speccy.cz - Big Javis Adventure](https://maps.speccy.cz/map.php?id=BigJavisAdventure&sort=4&part=2&ath=0).
+8. [The Tipshop - Big Javi's Adventure, The - Pokes](https://www.the-tipshop.co.uk/cgi-bin/info.pl?name=Big%20Javi%27s%20Adventure%2c%20The)
 
 ## Referencias Videográficas
 

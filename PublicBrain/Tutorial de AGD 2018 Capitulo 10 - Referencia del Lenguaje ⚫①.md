@@ -391,7 +391,7 @@ Y ahora que?
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si te acaba de caer el libro en la cabeza, y estás en estado de shock, pasa a la página 1]]
 * [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|Si aun buscas referencias en el lenguaje, continua estudiando, con buena músuca, en la página 10]]
-* Si no has "Termnao-To" aún, busca a Sarah Connor para que te entrene mientras llega la rebelión de Vegatrón.
+* Si no has "Terminao-To" aún, busca a Sarah Connor para que te entrene mientras llega la rebelión de Vegatrón.
 
 
 ![[Plantilla - 1MT#One More Thing]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-06-28T21:17:56.195Z
+modified: 2025-06-30T20:49:57.020Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 16
+ver_rev: 17
 nav_primary: 
 nav_secondary: 
 tags:
@@ -140,13 +140,17 @@ En el siguiente capítulo continuaremos haciendo cositas con nuestro jueguecito,
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①]]
 
+--- column-end ---
+## Capitulo 11
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
 
-* Tutorial de AGD 2018 Capitulo 11
 * Tutorial de AGD 2018 Capitulo 12
 * Tutorial de AGD 2018 Capitulo 13
 * Tutorial de AGD 2018 Capitulo 14

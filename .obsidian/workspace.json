@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tutorial de AGD 2018 Edition ⚫①"
+            }
+          },
+          {
+            "id": "96e83a82c1012921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "PublicBrain/MOS Games - The Big Javis Adventure - ZX Spectrum - 2017.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "MOS Games - The Big Javis Adventure - ZX Spectrum - 2017"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,15 +220,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7f5daa7f442b0f86",
+  "active": "96e83a82c1012921",
   "lastOpenFiles": [
+    "Juegos.md",
+    "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
+    "PublicBrain/MOS Games - The Big Javis Adventure - ZX Spectrum - 2017.md",
     "PublicBrain/_resources/c4ab7c4321ff7fd59f90b4a8ecf19156_MD5.jpeg",
     "BigJavisAdventure.png",
-    "Juegos.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①.md",
     "Novedades.md",
     "_resources/c423699ba7ba1b160228ade08b596954_MD5.jpg",
-    "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
     "imagenCabecera.jpg",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①.md",
@@ -237,7 +253,6 @@
     "PublicBrain/Creación de un lienzo (canvas) en PixiJS 🟡③.md",
     "PublicBrain/Historia y contexto del Atari 2600 y su relación con Visual bB 🟡③.md",
     "PublicBrain/Curso de Visual bB ⚫①.md",
-    "PublicBrain/_resources/5c14edea4027bacc6ee841967b46dabd_MD5.jpg",
     "PublicBrain/¿Qué es Visual Batari Basic? 🟡③.md",
     "Historia y contexto del Atari 2600 y su relación con Visual bB ⚫①.md",
     "PublicBrain/Curso de GB Studio ⚫①.md",

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-15T04:30:04.825Z
-modified: 2025-06-30T13:23:07.756Z
+modified: 2025-07-01T02:01:10.117Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,8 +51,6 @@ Revisando viejas carpetas, me encontré con este mapà hizo Pavero en 2017 y que
 
 ## Notas de Accesibilidad
 
-![](_resources/ce458544be0ed1338af042d1c001a0c9_MD5.jpeg)
-
 En el desarrollo de este juego han sido tenidos en cuenta algunos aspectos de accesibilidad:
 
 En primer lugar, el uso del color con un buen contraste renunciando de plano a hacer un juego monocromo en el que cueste distinguir el personaje y elementos del decorado. En este particular se aboga directamente por explorar al maximo la combinacion entre un juego colorista y lo que podriamos denominar un juego/modo "en alto contraste" que permita jugar a personas con baja vision con la mayor comodidad posible.
@@ -66,16 +64,31 @@ Este es un camino de largo recorrido, pero hay que comenzar por algun sitio :)
 ## Controles y Pokes
 
 ```pre
-POKES v1.0 (EMS EDITION)
-========================
-VIDAS INFINITAS: POKE 30752,0
-INMUNIDAD: POKE 33718,175
-Gracias McCleod ;)
+CONTROLES
+===========
+O/Q - IZQUIERDA
+P/W - DERECHA
+C/M/SPACE - SALTO/FLOTAR/BUCEAR
+O+Q - CORRER IZQUIERDA
+P+W - CORRER DERECHA
+```
 
-VIDAS INFINITAS - 30662,0:30731,2 (v1.1)  
-VIDAS INFINITAS - 30747,0 (v1.0 EMS Edition)
+```pre
+POKES v1.0 (EMS EDITION)
+==============================
+- VIDAS INFINITAS: POKE 30752,0
+- INMUNIDAD: POKE 33718,175
+Gracias McCleod ;)
+```
+
+```pre
+POKES v1.0 (EMS EDITION)/1.1
+==============================
+- VIDAS INFINITAS - 30662,0:30731,2 (v1.1)
+- VIDAS INFINITAS - 30747,0 (v1.0 EMS Edition)
 Thanks to The Tipshop
 ```
+
 ## ¡Versiones hechas por fans!
 
 Este mundo del videojuego nunca dejará de sorprenderme, David Saphier un fan del juego, ha creado dos versiones con música 128k del juego y ¡las ha compartido para disfrute de todos!.

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-28T20:48:36.132Z
-modified: 2025-06-28T21:52:57.901Z
+modified: 2025-07-01T20:34:22.916Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Referencia del Lenguaje en AGD](PublicBrain/_resources/e15232566f2e2de975ea0077d597209d_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①|Siguiente >>]]
 
 Como prometí, aquí va la traduccion de la referencia del lenguaje, necesaria para que podamos empezar a hacer cosillas con código.
 
@@ -391,7 +391,7 @@ Y ahora que?
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si te acaba de caer el libro en la cabeza, y estás en estado de shock, pasa a la página 1]]
 * [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|Si aun buscas referencias en el lenguaje, continua estudiando, con buena músuca, en la página 10]]
-* Si no has "Terminao-To" aún, busca a Sarah Connor para que te entrene mientras llega la rebelión de Vegatrón.
+* [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①|Si ya has "Terminao-To", busca a Sarah Connor para que te entrene para sobrevivir a la rebelión de Vegatrón en la página 11]]
 
 
 ![[Plantilla - 1MT#One More Thing]]

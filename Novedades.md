@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-28T22:06:59.087Z
+modified: 2025-07-01T22:17:30.874Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 37
+ver_rev: 38
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,14 +27,13 @@ Number of Columns: 2
 Border: off
 ```
 
-![Referencia del Lenguaje en AGD](_resources/c423699ba7ba1b160228ade08b596954_MD5.jpg)
-## Capítulo 10: Referencia del Lenguaje
+![ZX-Uno nuestro cohete](_resources/d8ebffc64d69982933096bde52d9f643_MD5.jpg)
 
-Como prometí, aquí va la traduccion de la referencia del lenguaje, necesaria para que podamos empezar a hacer cosillas con código.
+## Capitulo 11; Tipos de Tiles
 
-En el siguiente capítulo continuaremos haciendo cositas con nuestro jueguecito, entre tanto... ¡Espero que esta traducción les resulte de utilidad!
+Hasta ahora hemos dibujado los tiles, [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|creado sprites]], incluso hemos [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|puesto a nuestro protagonista en pantalla]], pero hay un pequeño detalle que aún no hemos cubierto: el personaje no interactúa con el escenario. En el capítulo de hoy vamos a remediar esto.
 
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①]]
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①]]
 
 --- column-end ---
 

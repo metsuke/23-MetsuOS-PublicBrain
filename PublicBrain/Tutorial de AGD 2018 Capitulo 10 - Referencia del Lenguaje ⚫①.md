@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-28T20:48:36.132Z
-modified: 2025-07-01T20:34:22.916Z
+modified: 2025-07-01T22:47:13.759Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -387,7 +387,7 @@ Comando. Funciona igual que SHOWSCORE, pero muestra el mensaje en pantalla con t
 
 - **Ninguna fuente verificable disponible**.  
 
-Y ahora que?
+## Y ahora que?
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si te acaba de caer el libro en la cabeza, y estás en estado de shock, pasa a la página 1]]
 * [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|Si aun buscas referencias en el lenguaje, continua estudiando, con buena músuca, en la página 10]]

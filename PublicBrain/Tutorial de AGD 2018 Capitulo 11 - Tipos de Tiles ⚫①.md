@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-01T20:26:20.518Z
-modified: 2025-07-01T21:40:44.505Z
+modified: 2025-07-01T22:49:03.513Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -84,6 +84,13 @@ Ahora es tu turno, toma los tipos de bloque y configure la pantalla correctament
 Por cierto, no quiero marcharme sin dejarles un video de uno de los juegos de Dizzy, para que puedan ver a qué me refiero con lo de bloques de agua mortales, ¡tan icónico como las famosas gotas! :)
 
 **<iframe width="100%" height="480" src="https://www.youtube.com/embed/HEuaKu0r3o4?si=-kpHwRAHHCNQvFOa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
+
+## Y ahora que?
+
+* [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si te has quedado atascado diciendo "Mi caaaasa , teleeefono", pasa a la página 1]]
+* [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|Si te empieza a gustar el reggaeton, estamos haciendo algo mal, vuelve a la página 10]]
+* [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①|Si lo tiles como lo tiles el personaje sigue cayendo a través de las plataformas, revisa nuevamente la página 11]]
+* Si no entiendes porque un huevo puede "tilarse" desde las nubes y rodar sin romperse, unete al equipo de reflexiones sin fronteras mientras buscamos la solucion
 
 ## Referencias Bibliográficas
 

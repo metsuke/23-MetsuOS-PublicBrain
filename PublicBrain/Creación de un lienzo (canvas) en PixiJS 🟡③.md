@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.077Z
-modified: 2025-06-20T15:04:08.867Z
+modified: 2025-07-04T22:55:17.882Z
 supervisado: 2024-05-27T13:38:00.861Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 15
+ver_rev: 18
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Instrucciones para crear un lienzo den PixiJS](PublicBrain/_resources/4f0ba2547abc282a498380f2e70654ec_MD5.jpeg)
 
 * [[Curso de PixiJS ⚫①]]
-* [[Configuración del entorno de desarrollo (PixiJS) 🟡③|<< Anterior]] | Siguiente >>
+* [[Configuración del entorno de desarrollo (PixiJS) 🟡③|<< Anterior]] | [[Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③|Siguiente >>]]
 
 PixiJS es una biblioteca JavaScript versátil y potente que permite crear gráficos interactivos y experiencias visuales en la web de manera eficiente. En este artículo, te guiaremos paso a paso para configurar un lienzo (canvas) con PixiJS, preparando el escenario para tus proyectos gráficos.
 
@@ -58,7 +58,7 @@ Lo unico aqui es que quiero poder integrar programas (en plural) dentro de esta 
 
 Veamos el js, he cambiado los comentarios del codigo originales por los mios, creo que es el modo más eficaz de explicarlo:
 
-```js
+```typescript
 import { Application, Assets, Sprite } from "pixi.js";
 // Importación de los módulos necesarios para el funcionamiento de pixi.js
 

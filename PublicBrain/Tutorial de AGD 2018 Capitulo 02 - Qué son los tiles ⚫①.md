@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-03T02:52:51.290Z
-modified: 2025-06-10T04:30:48.209Z
+modified: 2025-07-04T23:33:25.084Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 14
+ver_rev: 15
 nav_primary: 
 nav_secondary: 
 tags:
@@ -105,7 +105,7 @@ En la pantalla del editor podemos ver varios elementos:
 Os copio aquí la lista de atajos de teclado de esta pantalla:
 
 ```pre
-Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①
+TECLAS
 =============================================
 - FLECHAS = Mover el cursor de dibujo
 - SPACE = Cambia color del pixel seleccionado

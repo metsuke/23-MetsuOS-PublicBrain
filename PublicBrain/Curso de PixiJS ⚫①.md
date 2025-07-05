@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2025-06-25T19:51:06.461Z
+modified: 2025-07-04T10:42:39.709Z
 supervisado: 2024-06-03T19:56:58.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 115
+ver_rev: 117
 nav_primary: 
 nav_secondary: 
 tags:
@@ -72,13 +72,14 @@ Continuar leyendo en ... [[Creación de un lienzo (canvas) en PixiJS 🟡③]]
 
 --- column-end ---
 
+![Integrar Pixi y MetsuOS](PublicBrain/_resources/f6e2620184be4035309e690f74fa4e57_MD5.jpg)
 ## Integrando PixiJS con MetsuOS
 
 Incluyo este capítulo intermedio en el flujo previsto originalmente, debido al uso de node y vite en el desarrollo, lo que podría afectar a la inclusión de nuestros proyectos en un entorno vanilla puro html + js, como es MetsuOS en producción.
 
 Aunque trataremos el tema en el capítulo sobre distribución mas adelante, exploraremos como construye PixiJS el proyecto para producciçon y como podemos hacer nuestro propio "build-mos" en que compilemos de forma que se pueda correr sin necesidad node en destino.
 
-Continuar leyendo en ... [[Integrando PixiJS con MetsuOS ⚫①]]
+Continuar leyendo en ... [[Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③]]
 
  --- column-end ---
 --- multi-column-end

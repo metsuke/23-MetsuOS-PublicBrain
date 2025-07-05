@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-01T22:17:30.874Z
+modified: 2025-07-04T10:53:42.044Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 38
+ver_rev: 39
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,18 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+![Integrar Pixi y MetsuOS](PublicBrain/_resources/f6e2620184be4035309e690f74fa4e57_MD5.jpg)
+## Integrando PixiJS con MetsuOS
+
+Incluyo este capítulo intermedio en el flujo previsto originalmente, debido al uso de node y vite en el desarrollo, lo que podría afectar a la inclusión de nuestros proyectos en un entorno vanilla puro html + js, como es MetsuOS en producción.
+
+Aunque trataremos el tema en el capítulo sobre distribución mas adelante, exploraremos como construye PixiJS el proyecto para producciçon y como podemos hacer nuestro propio "build-mos" en que compilemos de forma que se pueda correr sin necesidad node en destino.
+
+Continuar leyendo en ... [[Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③]]
+
+--- column-end ---
 
 ![ZX-Uno nuestro cohete](_resources/d8ebffc64d69982933096bde52d9f643_MD5.jpg)
 
@@ -84,16 +96,6 @@ Continuar leyendo en ... [[Características principales del motor en CPCTelera �
 
 --- column-end ---
 
-![Instrucciones para crear un lienzo den PixiJS](PublicBrain/_resources/1dbf7bc0567bc0a97e6746879e49ad4d_MD5.jpeg)
-## Creación de un lienzo (canvas) en PixiJS
-
-PixiJS es una biblioteca JavaScript versátil y potente que permite crear gráficos interactivos y experiencias visuales en la web de manera eficiente. 
-
-En este artículo, te guiaremos paso a paso para configurar un lienzo (canvas) con PixiJS, preparando el escenario para tus proyectos gráficos.
-
-Continuar leyendo en ... [[Creación de un lienzo (canvas) en PixiJS 🟡③]]
-
---- column-end ---
 
 ![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
 ## Aprender a desarrollar videojuegos

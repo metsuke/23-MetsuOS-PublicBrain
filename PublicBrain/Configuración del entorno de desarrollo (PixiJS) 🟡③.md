@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.031Z
-modified: 2025-06-20T15:54:31.910Z
+modified: 2025-07-04T22:56:33.387Z
 supervisado: 2024-05-27T13:38:00.774Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 19
+ver_rev: 20
 nav_primary: 
 nav_secondary: 
 tags:
@@ -49,7 +49,7 @@ npm install
 
 Una buena organización es clave para que tu proyecto sea escalable. Esta es la que nos ofrece el instalador inicialmente:
 
-```
+```pre
 mi-proyecto/
 ├── eslint.config.mjs
 ├── index.html

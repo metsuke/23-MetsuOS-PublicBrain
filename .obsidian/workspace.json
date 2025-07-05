@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b78b70e9aa4a2bfe",
+        "id": "ed9cc6643f653d90",
         "type": "tabs",
         "children": [
           {
-            "id": "fc08f399dd9471cd",
+            "id": "f9820ef81497ce0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①"
+              "title": "New tab"
             }
           }
         ]
@@ -205,18 +201,27 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "fc08f399dd9471cd",
+  "active": "f9820ef81497ce0f",
   "lastOpenFiles": [
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①.md",
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①.md",
-    "Novedades.md",
-    "_resources/d8ebffc64d69982933096bde52d9f643_MD5.jpg",
-    "_resources/ed4a8533e6e26c2201327c126eaf21ca_MD5.jpg",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
-    "PublicBrain/_resources/f523898f445c2ce85cac7abb9e5046d0_MD5.jpg",
-    "PublicBrain/_resources/05b4e96ee345689a7621f056fdd54bff_MD5.jpg",
     "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "KB.md",
+    "PublicBrain/Configuración del entorno de desarrollo (PixiJS) 🟡③.md",
+    "PublicBrain/Creación de un lienzo (canvas) en PixiJS 🟡③.md",
+    "PublicBrain/Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③.md",
+    "Novedades.md",
+    "PublicBrain/Curso de PixiJS ⚫①.md",
+    "El Proyecto.md",
+    "PublicBrain/_resources/f6e2620184be4035309e690f74fa4e57_MD5.jpg",
+    "PublicBrain/IntegrarPixiMetsuOS1_Landscape.jpg",
+    "PublicBrain/_resources/19759e73f28dce00baeff950578f3cf6_MD5.jpg",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①.md",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①.md",
+    "_resources/d8ebffc64d69982933096bde52d9f643_MD5.jpg",
+    "_resources/ed4a8533e6e26c2201327c126eaf21ca_MD5.jpg",
+    "PublicBrain/_resources/f523898f445c2ce85cac7abb9e5046d0_MD5.jpg",
+    "PublicBrain/_resources/05b4e96ee345689a7621f056fdd54bff_MD5.jpg",
     "Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①.md",
     "PublicBrain/MOS Games - The Big Javis Adventure - ZX Spectrum - 2017.md",
     "Juegos.md",
@@ -226,22 +231,14 @@
     "PublicBrain/Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①.md",
     "Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①.md",
-    "PublicBrain/_resources/e15232566f2e2de975ea0077d597209d_MD5.jpg",
-    "PublicBrain/Integrando PixiJS con MetsuOS ⚫①.md",
-    "PublicBrain/Curso de PixiJS ⚫①.md",
     "Blog.md",
-    "PublicBrain/_resources/adf42fadbabbecc0aca89de02719db4d_MD5.jpg",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①.md",
     "Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①.md",
-    "_resources/adf42fadbabbecc0aca89de02719db4d_MD5.jpg",
     "PublicBrain/Curso de ZX Game Maker ⚫①.md",
     "PublicBrain/Requisitos previos y herramientas necesarias para GBStudio 🟡③.md",
     "Curso de ZX Game Maker ⚫①.md",
-    "PublicBrain/Creación de un lienzo (canvas) en PixiJS 🟡③.md",
     "PublicBrain/Historia y contexto del Atari 2600 y su relación con Visual bB 🟡③.md",
     "PublicBrain/Curso de Visual bB ⚫①.md",
-    "PublicBrain/¿Qué es Visual Batari Basic? 🟡③.md",
-    "Historia y contexto del Atari 2600 y su relación con Visual bB ⚫①.md",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-06-25T19:51:07.214Z
+modified: 2025-07-05T16:24:38.813Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -61,6 +61,12 @@ Este curso te guiará paso a paso desde los fundamentos del entorno hasta la cre
 Aprenderás a manejar sprites, colisiones, sonidos, niveles y lógicas básicas de programación con el lenguaje GML (Game Maker Language), ideal para dar vida a tus ideas de manera sencilla y divertida. Al finalizar, estarás preparado para desarrollar tus propios videojuegos y explorar oportunidades en la industria del entretenimiento digital.
 
 Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
+
+--- columns-end ---
+
+## Curso de desarrollo para MS-DOS
+
+Continuar leyendo en ...
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-07-01T22:17:06.390Z
+modified: 2025-07-06T19:39:44.734Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 19
+ver_rev: 20
 nav_primary: 
 nav_secondary: 
 tags:
@@ -143,11 +143,20 @@ Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Le
 --- column-end ---
 
 ![ZX-Uno nuestro cohete](PublicBrain/_resources/05b4e96ee345689a7621f056fdd54bff_MD5.jpg)
-## Capitulo 11; Tipos de Tiles
+## Capitulo 11: Tipos de Tiles
 
 Hasta ahora hemos dibujado los tiles, [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|creado sprites]], incluso hemos [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|puesto a nuestro protagonista en pantalla]], pero hay un pequeño detalle que aún no hemos cubierto: el personaje no interactúa con el escenario. En el capítulo de hoy vamos a remediar esto.
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①]]
+
+--- column-end ---
+
+![Dibujo de una cinta de ZX Spectrum](PublicBrain/_resources/36775e1966ad031619ec351accd6184b_MD5.jpg)
+## Capitulo 12: Cargar juegos de AGD desde cinta
+
+ Hace unos dias, me pidieron ayuda para poder cargar [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Javi's Big Adventure]] en el interfaz de AGD, pues resultaba un poco confuso. Prometí un tutorial al respecto, y aquí va :) 
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta]]
 
  --- column-end ---
 --- multi-column-end
@@ -155,7 +164,7 @@ Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles �
 ## TO-DO LIST
 
 
-* Tutorial de AGD 2018 Capitulo 12
+
 * Tutorial de AGD 2018 Capitulo 13
 * Tutorial de AGD 2018 Capitulo 14
 * Tutorial de AGD 2018 Capitulo 15

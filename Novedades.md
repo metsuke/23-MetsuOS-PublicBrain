@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-04T10:53:42.044Z
+modified: 2025-07-06T20:40:05.523Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 39
+ver_rev: 40
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,15 @@ Border: off
 ```
 
 
+![Dibujo de una cinta de ZX Spectrum](_resources/4238eb4961c65d41af38a881b68ed7f2_MD5.jpg)
+## Capitulo 12: Cargar juegos de AGD desde cinta
+
+ Hace unos dias, me pidieron ayuda para poder cargar [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Javi's Big Adventure]] en el interfaz de AGD, pues resultaba un poco confuso. Prometí un tutorial al respecto, y aquí va :) 
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta]]
+
+--- column-end ---
+
 ![Integrar Pixi y MetsuOS](PublicBrain/_resources/f6e2620184be4035309e690f74fa4e57_MD5.jpg)
 ## Integrando PixiJS con MetsuOS
 
@@ -37,15 +46,7 @@ Aunque trataremos el tema en el capítulo sobre distribución mas adelante, expl
 
 Continuar leyendo en ... [[Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③]]
 
---- column-end ---
 
-![ZX-Uno nuestro cohete](_resources/d8ebffc64d69982933096bde52d9f643_MD5.jpg)
-
-## Capitulo 11; Tipos de Tiles
-
-Hasta ahora hemos dibujado los tiles, [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|creado sprites]], incluso hemos [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|puesto a nuestro protagonista en pantalla]], pero hay un pequeño detalle que aún no hemos cubierto: el personaje no interactúa con el escenario. En el capítulo de hoy vamos a remediar esto.
-
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①]]
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-06T20:40:05.523Z
+modified: 2025-07-10T01:00:30.018Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 40
+ver_rev: 43
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,28 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+![Galeria de Cabeceras Lanzamiento Sega Saturn](_resources/86558b75171fbae7fd3f3bbe7fcb8804_MD5.jpeg)
 
+## Galería de Imágenes de Efemérides
+
+En esta sección agrego una pequeña galería de las imáganes de cabecera creadas para las diferentes efemérides de las que hablamos en la cabecera de la web.
+
+¡Espero que la disfruten!
+
+Continuar leyendo en ... [[Galería de Imágenes de Efemétides  ⚫①]]
+
+--- column-end ---
+
+![Crea Juegos al Estilo Maquinita con Boriel BASIC](PublicBrain/_resources/912c721564e4fb5443997ddffaab4cb2_MD5.jpg)
+## Curso Crea Juegos al Estilo Maquinita con Boriel BASIC
+
+¡Bienvenidos a un apasionante viaje al corazón de la nostalgia! Este curso te invita a redescubrir la magia de las **maquinitas** —esas pequeñas joyas electrónicas como **Game & Watch**, **Tronica** o los coloridos **Jungler**, **Popeye** y **Defender**— y a crear tus propios juegos inspirados en ellas usando **Boriel BASIC** en el **ZX Spectrum**. 
+
+No importa si nunca has programado o si el ZX Spectrum es un desconocido para ti: esta guía está pensada para principiantes y amantes del retro por igual. Desde explorar la historia de estas máquinas icónicas hasta construir un juego completo con múltiples pantallas, gráficos vibrantes y mecánicas adictivas, te guiaremos paso a paso con ejemplos prácticos, ejercicios y un proyecto final que podrás compartir con el mundo.
+
+Continuar leyendo en ... [[Curso Crea Juegos al Estilo Maquinita con Boriel BASIC 🟡③]]
+
+--- column-end ---
 
 ![Dibujo de una cinta de ZX Spectrum](_resources/4238eb4961c65d41af38a881b68ed7f2_MD5.jpg)
 ## Capitulo 12: Cargar juegos de AGD desde cinta

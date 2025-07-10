@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.105Z
-modified: 2025-06-10T21:14:04.314Z
+modified: 2025-07-07T02:54:57.223Z
 supervisado: 2024-05-27T13:38:01.062Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 13
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
@@ -99,7 +99,7 @@ app.stage.addChild(graphics);
 
 En este artículo, hemos visto cómo dibujar formas básicas y gráficos utilizando PixiJS. Estas técnicas pueden ser combinadas para crear gráficos más complejos y experiencias visuales interactivas en tu aplicación web.
 
-## Referencias bibliográficas que apoyan
+## Referencias bibliográficas que apoyan el contenido
 
 - PixiJS. (s.f.). Graphics. En PixiJS Documentation. <https://pixijs.download/dev/docs/PIXI.Graphics.html>
 - Goodboy Digital. (s.f.). Pixi.js Tutorial for Beginners. En Goodboy Digital. <https://goodboydigital.com/pixi-js-tutorial-for-beginners/>

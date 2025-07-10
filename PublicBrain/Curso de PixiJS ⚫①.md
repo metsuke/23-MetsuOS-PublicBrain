@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2025-07-04T10:42:39.709Z
+modified: 2025-07-07T02:54:11.668Z
 supervisado: 2024-06-03T19:56:58.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 117
+ver_rev: 118
 nav_primary: 
 nav_secondary: 
 tags:
@@ -81,12 +81,15 @@ Aunque trataremos el tema en el capítulo sobre distribución mas adelante, expl
 
 Continuar leyendo en ... [[Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③]]
 
+--- column-end ---
+
+## Dibujando formas básicas y gráficos
+
+[[Dibujando formas básicas y gráficos (PixiJS) 🔴②]] 
+
  --- column-end ---
 --- multi-column-end
 
-
-
-- [[Dibujando formas básicas y gráficos (PixiJS) 🔴②]] 
 
 ## Trabajo con Sprites y Texturas
 

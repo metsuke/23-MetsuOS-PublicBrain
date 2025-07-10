@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ed9cc6643f653d90",
+        "id": "655b84259261a830",
         "type": "tabs",
         "children": [
           {
-            "id": "f9820ef81497ce0f",
+            "id": "d38659e66d89bb7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novedades.md",
+                "file": "KB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Novedades"
+              "title": "KB"
             }
           }
         ]
@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Novedades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Novedades"
+              "title": "Backlinks"
             }
           },
           {
@@ -202,43 +201,43 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f9820ef81497ce0f",
+  "active": "d38659e66d89bb7e",
   "lastOpenFiles": [
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta.md",
     "Novedades.md",
+    "_resources/86558b75171fbae7fd3f3bbe7fcb8804_MD5.jpeg",
+    "ChatGPT Image 9 jul 2025, 14_03_03 Novedades.png",
+    "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
+    "KB.md",
+    "PublicBrain/_resources/1a94d0a2680b966e8fbbba71cd81179c_MD5.jpeg",
+    "PublicBrain/_resources/3fbf14c681c41cd616a48bf74553a796_MD5.jpeg",
+    "Galería de Imágenes de Efemétides  ⚫①.md",
+    "_resources/1a4d003af2a27d2400d4f1e6ea49a102_MD5.jpeg",
+    "ChatGPT Image 9 jul 2025, 14_02_49.png",
+    "El Proyecto.md",
+    "PublicBrain/Dibujando formas básicas y gráficos (PixiJS) 🔴②.md",
+    "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
+    "PublicBrain/Curso Crea Juegos al Estilo Maquinita con Boriel BASIC 🟡③.md",
+    "PublicBrain/_resources/912c721564e4fb5443997ddffaab4cb2_MD5.jpg",
+    "PublicBrain/_resources/6b34c91f2e36ec6d8e57b99c11c6e22d_MD5.jpg",
+    "Curso Crea Juegos al Estilo Maquinita con Boriel BASIC  ⚫①.md",
+    "PublicBrain/Curso de PixiJS ⚫①.md",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta.md",
     "_resources/4238eb4961c65d41af38a881b68ed7f2_MD5.jpg",
     "PublicBrain/_resources/36775e1966ad031619ec351accd6184b_MD5.jpg",
     "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①.md",
-    "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
-    "KB.md",
-    "_resources/03b3691f984de4c48f7bd39ee65b821e_MD5.jpg",
     "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
     "PublicBrain/Index.md",
-    "PublicBrain/_resources/bba591ebc6f3a3d1f0135e6e67db008e_MD5.jpeg",
-    "imagenGaleria_Cargar Juego AGD 13.png",
-    "PublicBrain/_resources/b634da4e9003cc56265047dd2220a6e0_MD5.jpeg",
-    "imagenGaleria_Cargar Juego AGD 12.png",
-    "PublicBrain/_resources/cab004798397924cefce5cd4035a656d_MD5.jpeg",
-    "imagenGaleria_Cargar Juego AGD 11.png",
-    "PublicBrain/_resources/5286f8ee11578ca7544223ff19b4162d_MD5.jpeg",
     "Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①.md",
     "PublicBrain/Configuración del entorno de desarrollo (PixiJS) 🟡③.md",
     "PublicBrain/Creación de un lienzo (canvas) en PixiJS 🟡③.md",
     "PublicBrain/Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③.md",
-    "PublicBrain/Curso de PixiJS ⚫①.md",
-    "El Proyecto.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①.md",
     "Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①.md",
     "PublicBrain/MOS Games - The Big Javis Adventure - ZX Spectrum - 2017.md",
     "Juegos.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①.md",
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①.md",
-    "Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①.md",
-    "Blog.md",
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①.md",
-    "Tutorial de AGD 2018 Capitulo 09 - Movimiento estilo Manic Miner ⚫①.md",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

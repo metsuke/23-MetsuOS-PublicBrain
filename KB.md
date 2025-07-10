@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-06-14T21:32:58.140Z
+modified: 2025-07-10T00:45:41.996Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 20
+ver_rev: 21
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,17 @@ Number of Columns: 2
 Border: off
 ```
 
+![Galeria de Cabeceras Lanzamiento Sega Saturn](_resources/86558b75171fbae7fd3f3bbe7fcb8804_MD5.jpeg)
+
+## Galería de Imágenes de Efemérides
+
+En esta sección agrego una pequeña galería de las imáganes de cabecera creadas para las diferentes efemérides de las que hablamos en la cabecera de la web.
+
+¡Espero que la disfruten!
+
+Continuar leyendo en ... [[Galería de Imágenes de Efemétides  ⚫①]]
+
+--- column-end ---
 
 ![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
 ## Aprender a desarrollar videojuegos

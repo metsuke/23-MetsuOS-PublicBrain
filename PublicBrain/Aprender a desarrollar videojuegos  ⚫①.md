@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-07-05T16:24:38.813Z
+modified: 2025-07-08T18:53:47.713Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -62,11 +62,16 @@ Aprenderás a manejar sprites, colisiones, sonidos, niveles y lógicas básicas 
 
 Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
 
---- columns-end ---
+--- column-end ---
 
-## Curso de desarrollo para MS-DOS
+![Crea Juegos al Estilo Maquinita con Boriel BASIC](PublicBrain/_resources/912c721564e4fb5443997ddffaab4cb2_MD5.jpg)
+## Curso Crea Juegos al Estilo Maquinita con Boriel BASIC
 
-Continuar leyendo en ...
+¡Bienvenidos a un apasionante viaje al corazón de la nostalgia! Este curso te invita a redescubrir la magia de las **maquinitas** —esas pequeñas joyas electrónicas como **Game & Watch**, **Tronica** o los coloridos **Jungler**, **Popeye** y **Defender**— y a crear tus propios juegos inspirados en ellas usando **Boriel BASIC** en el **ZX Spectrum**. 
+
+No importa si nunca has programado o si el ZX Spectrum es un desconocido para ti: esta guía está pensada para principiantes y amantes del retro por igual. Desde explorar la historia de estas máquinas icónicas hasta construir un juego completo con múltiples pantallas, gráficos vibrantes y mecánicas adictivas, te guiaremos paso a paso con ejemplos prácticos, ejercicios y un proyecto final que podrás compartir con el mundo.
+
+Continuar leyendo en ... [[Curso Crea Juegos al Estilo Maquinita con Boriel BASIC 🟡③]]
 
 --- column-end ---
 

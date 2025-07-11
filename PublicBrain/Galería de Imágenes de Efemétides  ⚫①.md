@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-10T00:52:13.075Z
-modified: 2025-07-10T00:54:01.608Z
+modified: 2025-07-10T21:24:46.661Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,6 +39,13 @@ Un collage con algunos de los juegos más conocidos de la plataforma
 
 ![HeaderLanzamientoSegaSaturn](PublicBrain/_resources/1a94d0a2680b966e8fbbba71cd81179c_MD5.jpeg)
 
-¡Casi puedo ver el cabinet de MetsuOS cont odas estas imágenes en rotación al estilo Protector de Pantalla!
+## Lanzamiento de Microhobby 218
+
+Tomando el testigo y continuando la leyenda de los 8 bits
+
+![Header Lanzamiento de Microhobby 218](PublicBrain/_resources/06d9c68047c3520d56eef7592667e89d_MD5.jpeg)
+
+
+¡Casi puedo ver el cabinet de MetsuOS con todas estas imágenes en rotación al estilo Protector de Pantalla!
 
 ![[Plantilla - 1MT#One More Thing]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-01T20:26:20.518Z
-modified: 2025-07-06T19:48:46.619Z
+modified: 2025-07-12T20:15:33.868Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![ZX-Uno nuestro cohete](PublicBrain/_resources/05b4e96ee345689a7621f056fdd54bff_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta|Siguiente >>]]
+* [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta ⚫①|Siguiente >>]]
  
 Hasta ahora hemos dibujado los tiles, [[Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①|creado sprites]], incluso hemos [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|puesto a nuestro protagonista en pantalla]], pero hay un pequeño detalle que aún no hemos cubierto: el personaje no interactúa con el escenario. En el capítulo de hoy vamos a remediar esto.
 
@@ -90,7 +90,7 @@ Por cierto, no quiero marcharme sin dejarles un video de uno de los juegos de Di
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si te has quedado atascado diciendo "Mi caaaasa , teleeefono", pasa a la página 1]]
 * [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|Si te empieza a gustar el reggaeton, estamos haciendo algo mal, vuelve a la página 10]]
 * [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①|Si lo tiles como lo tiles el personaje sigue cayendo a través de las plataformas, revisa nuevamente la página 11]]
-* [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta|Si no entiendes porque un huevo puede "tilarse" desde las nubes y rodar sin romperse, unete al equipo de reflexiones sin fronteras mientras buscamos la solucion en la página 12]]
+* [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta ⚫①|Si no entiendes porque un huevo puede "tilarse" desde las nubes y rodar sin romperse, unete al equipo de reflexiones sin fronteras mientras buscamos la solucion en la página 12]]
 
 ## Referencias Bibliográficas
 

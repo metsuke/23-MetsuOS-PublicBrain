@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-07-06T19:39:44.734Z
+modified: 2025-07-12T19:50:35.680Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 20
+ver_rev: 21
 nav_primary: 
 nav_secondary: 
 tags:
@@ -156,7 +156,18 @@ Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles �
 
  Hace unos dias, me pidieron ayuda para poder cargar [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Javi's Big Adventure]] en el interfaz de AGD, pues resultaba un poco confuso. Prometí un tutorial al respecto, y aquí va :) 
 
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta]]
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta ⚫①]]
+
+--- column-end ---
+
+![Aprendiendo a manejar el editor de código](PublicBrain/_resources/41d7db1408ace939af5b63f34e9ed78a_MD5.jpg)
+## Capítulo 13: Manual de uso del Editor de Código
+
+Hoy les traigo uno de esos capítulos que pueden parecer superfluos, pero que son todo lo contrario. Vamos a comentar algunas cuestiones y trucos para trabajar con el editor de código de AGD.
+
+Seguramente para los más experimentados esta información esté de más, pero no es raro encontrar personas que se enfrentan por primera vez a las combinaiones de teclas de speccy dentro de un emulador en otro sistema operativo y que se vuelven locos al tratar de trabajar el código de su juego. 
+
+Contiunuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①]]
 
  --- column-end ---
 --- multi-column-end
@@ -165,7 +176,7 @@ Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de 
 
 
 
-* Tutorial de AGD 2018 Capitulo 13
+
 * Tutorial de AGD 2018 Capitulo 14
 * Tutorial de AGD 2018 Capitulo 15
 * Tutorial de AGD 2018 Capitulo 16

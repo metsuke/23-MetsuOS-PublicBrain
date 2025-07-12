@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-10T01:00:30.018Z
+modified: 2025-07-12T20:15:33.832Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 43
+ver_rev: 44
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,18 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Aprendiendo a manejar el editor de código](_resources/bb8c63713473056172f44c2503d751fb_MD5.jpg)
+## Capítulo 13: Manual de uso del Editor de Código
+
+Hoy les traigo uno de esos capítulos que pueden parecer superfluos, pero que son todo lo contrario. Vamos a comentar algunas cuestiones y trucos para trabajar con el editor de código de AGD.
+
+Seguramente para los más experimentados esta información esté de más, pero no es raro encontrar personas que se enfrentan por primera vez a las combinaiones de teclas de speccy dentro de un emulador en otro sistema operativo y que se vuelven locos al tratar de trabajar el código de su juego. 
+
+Contiunuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①]]
+
+--- column-end ---
+
 ![Galeria de Cabeceras Lanzamiento Sega Saturn](_resources/86558b75171fbae7fd3f3bbe7fcb8804_MD5.jpeg)
 
 ## Galería de Imágenes de Efemérides
@@ -49,14 +61,6 @@ Continuar leyendo en ... [[Curso Crea Juegos al Estilo Maquinita con Boriel BASI
 
 --- column-end ---
 
-![Dibujo de una cinta de ZX Spectrum](_resources/4238eb4961c65d41af38a881b68ed7f2_MD5.jpg)
-## Capitulo 12: Cargar juegos de AGD desde cinta
-
- Hace unos dias, me pidieron ayuda para poder cargar [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Javi's Big Adventure]] en el interfaz de AGD, pues resultaba un poco confuso. Prometí un tutorial al respecto, y aquí va :) 
-
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta]]
-
---- column-end ---
 
 ![Integrar Pixi y MetsuOS](PublicBrain/_resources/f6e2620184be4035309e690f74fa4e57_MD5.jpg)
 ## Integrando PixiJS con MetsuOS

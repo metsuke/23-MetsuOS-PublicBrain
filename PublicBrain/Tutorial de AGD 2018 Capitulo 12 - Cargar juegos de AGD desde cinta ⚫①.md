@@ -9,24 +9,24 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-06T19:48:03.398Z
-modified: 2025-07-06T21:10:14.193Z
+modified: 2025-07-12T20:03:56.934Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta
+# Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta ⚫①
 
 
 
 ![Dibujo de una cinta de ZX Spectrum](PublicBrain/_resources/36775e1966ad031619ec351accd6184b_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|Siguiente >>]]
 
  Hace unos dias, me pidieron ayuda para poder cargar [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Javi's Big Adventure]] en el interfaz de AGD, pues resultaba un poco confuso. Prometí un tutorial al respecto, y aquí va :) 
 
@@ -97,9 +97,8 @@ Tras el proceso de carga, aparecerá una pantalla en la que veremos el famosos m
 
 ## Y ahora que?
 
-* [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si te has quedado atascado por intentar cargar demasiado peso, pasa a la página 1]]
-* [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta|Si vas a cargar con todo, permanece atento en la página 12]]
-* Si no quieres mas "cargas" en tu vida, apaga el Speccy hasta que llegue el siguiente capítulo a tu buzón.
+* [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si te has quedado atascado por intentar cargar demasiado peso, pasa a la página 1]][[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta ⚫①|Si vas a cargar con todo, permanece atento en la página 12]]2]]
+* [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|Si no quieres mas "cargas" en tu vida, lánzate a tirar código en la página 13]]
 
 ## Referencias Bibliográficas
 

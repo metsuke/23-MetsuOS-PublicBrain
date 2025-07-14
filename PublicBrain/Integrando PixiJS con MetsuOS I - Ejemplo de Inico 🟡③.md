@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-21T18:01:10.578Z
-modified: 2025-07-04T21:38:24.980Z
+modified: 2025-07-13T17:44:57.436Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 15
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Integrando Pixi con MetsuOS](PublicBrain/_resources/19759e73f28dce00baeff950578f3cf6_MD5.jpg)
 
  * [[Curso de PixiJS ⚫①]]
-* [[Creación de un lienzo (canvas) en PixiJS 🟡③|<< Anterior]] | Siguiente >>
+* [[Creación de un lienzo (canvas) en PixiJS 🟡③|<< Anterior]] | [[Dibujando formas básicas y gráficos (PixiJS) 🔴②|Siguiente >>]]
 
 > Esta serie de artículos del curso sobre integración, requieren conocimientos técnicos algo más avanzados que crear el juego, sin embargo tengan en cuenta que son ABSOLUTAMENTE OPCIONALES y no son obligatorios para poder crear juegos (aunque yo si los necesito para poder usarlo en la web)
 
@@ -43,6 +43,8 @@ Por otro lado, en el caso de esta web, lo que necesitamos es poder insertar nues
 Lo primero, por tanto, es decir al proceso de compilación (que se lanza con "npm run build") que de algun modo prepare el proyecto en forma de un solo fichero js que se pueda incluir en nuestra web directamente y que funcione.
 
 El método que he encontrado es modificar la configuración de vite.config.ts del siguiente modo:
+
+> Podeis encontrar los ejemplos del curso en [este repositorio de Github  🌐🟡③](https://github.com/metsuke/ejemplos-curso-pixijs-metsuos/tree/main)
 
 ```typescript
 import { defineConfig } from "vite";
@@ -264,5 +266,6 @@ Aquí podemos ver la integración en MetsuOS de la app de ejemplo de PixiJS, que
 ## Referencias Bibliográficas
 
 * Pruebas de campo en primera persona.
+* [Repositorio de Github con los ejemplos del curso 🌐🟡③](https://github.com/metsuke/ejemplos-curso-pixijs-metsuos/tree/main)
 
 ![[Plantilla - 1MT#One More Thing]]

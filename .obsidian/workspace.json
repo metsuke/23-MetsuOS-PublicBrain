@@ -11,14 +11,12 @@
             "id": "d38659e66d89bb7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Novedades.md",
-                "mode": "source",
-                "source": false
+                "file": "PublicBrain/_resources/(1) 0BCCD6E9-01AB-44B0-A77C-A17DD51DAD5D.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "Novedades"
+              "icon": "lucide-image",
+              "title": "(1) 0BCCD6E9-01AB-44B0-A77C-A17DD51DAD5D"
             }
           }
         ]
@@ -203,10 +201,17 @@
   },
   "active": "d38659e66d89bb7e",
   "lastOpenFiles": [
+    "Juegos.md",
+    "Noticias.md",
+    "PublicBrain/Dibujando formas básicas y gráficos (PixiJS) 🔴②.md",
+    "PublicBrain/_resources/50ff92b24210175073c429285ad684dc_MD5.jpg",
+    "PublicBrain/PixiFormasBasicas.jpg",
+    "PublicBrain/Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③.md",
+    "PublicBrain/Curso de PixiJS ⚫①.md",
+    "Novedades.md",
     "_resources/bb8c63713473056172f44c2503d751fb_MD5.jpg",
     "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①.md",
-    "Novedades.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①.md",
     "PublicBrain/_resources/41d7db1408ace939af5b63f34e9ed78a_MD5.jpg",
@@ -220,25 +225,18 @@
     "PublicBrain/_resources/3fbf14c681c41cd616a48bf74553a796_MD5.jpeg",
     "Galería de Imágenes de Efemétides  ⚫①.md",
     "_resources/1a4d003af2a27d2400d4f1e6ea49a102_MD5.jpeg",
-    "ChatGPT Image 9 jul 2025, 14_02_49.png",
     "El Proyecto.md",
-    "PublicBrain/Dibujando formas básicas y gráficos (PixiJS) 🔴②.md",
     "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "PublicBrain/Curso Crea Juegos al Estilo Maquinita con Boriel BASIC 🟡③.md",
-    "PublicBrain/_resources/912c721564e4fb5443997ddffaab4cb2_MD5.jpg",
-    "PublicBrain/_resources/6b34c91f2e36ec6d8e57b99c11c6e22d_MD5.jpg",
     "Curso Crea Juegos al Estilo Maquinita con Boriel BASIC  ⚫①.md",
-    "PublicBrain/Curso de PixiJS ⚫①.md",
     "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
     "PublicBrain/Index.md",
     "Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①.md",
     "PublicBrain/Configuración del entorno de desarrollo (PixiJS) 🟡③.md",
     "PublicBrain/Creación de un lienzo (canvas) en PixiJS 🟡③.md",
-    "PublicBrain/Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①.md",
     "Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①.md",
-    "PublicBrain/MOS Games - The Big Javis Adventure - ZX Spectrum - 2017.md",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

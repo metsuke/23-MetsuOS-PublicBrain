@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-12T20:15:33.832Z
+modified: 2025-07-15T04:02:12.734Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 44
+ver_rev: 45
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,15 +26,14 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+![Varias pantallas de JBA interconectadas](PublicBrain/_resources/92ffd47eca16e3291db020d84b79f549_MD5.jpg)
+## Capítulo 14: Conectando pantallas entre sí
 
-![Aprendiendo a manejar el editor de código](_resources/bb8c63713473056172f44c2503d751fb_MD5.jpg)
-## Capítulo 13: Manual de uso del Editor de Código
+En un capítulo anterior, estuvimos viendo como indicar a AGD el rol de cada tile , creando suelos, plataformas y zonas mortales.
 
-Hoy les traigo uno de esos capítulos que pueden parecer superfluos, pero que son todo lo contrario. Vamos a comentar algunas cuestiones y trucos para trabajar con el editor de código de AGD.
+En esta ocasión vamos a interconectar pantallas en las cuatro direcciones.
 
-Seguramente para los más experimentados esta información esté de más, pero no es raro encontrar personas que se enfrentan por primera vez a las combinaiones de teclas de speccy dentro de un emulador en otro sistema operativo y que se vuelven locos al tratar de trabajar el código de su juego. 
-
-Contiunuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①]]
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 14 - Conectando panallas entre si  ⚫①]]
 
 --- column-end ---
 

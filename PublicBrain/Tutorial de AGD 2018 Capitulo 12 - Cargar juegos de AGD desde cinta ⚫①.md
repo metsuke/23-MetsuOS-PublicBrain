@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-06T19:48:03.398Z
-modified: 2025-07-12T20:03:56.934Z
+modified: 2025-07-14T11:39:24.193Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -97,7 +97,8 @@ Tras el proceso de carga, aparecerá una pantalla en la que veremos el famosos m
 
 ## Y ahora que?
 
-* [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si te has quedado atascado por intentar cargar demasiado peso, pasa a la página 1]][[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta ⚫①|Si vas a cargar con todo, permanece atento en la página 12]]2]]
+* [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si te has quedado atascado por intentar cargar demasiado peso, pasa a la página 1]]
+* [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta ⚫①|Si vas a cargar con todo, permanece atento en la página 12]]
 * [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|Si no quieres mas "cargas" en tu vida, lánzate a tirar código en la página 13]]
 
 ## Referencias Bibliográficas

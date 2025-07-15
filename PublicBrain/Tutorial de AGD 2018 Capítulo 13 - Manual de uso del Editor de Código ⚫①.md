@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-12T20:02:55.651Z
-modified: 2025-07-12T20:03:35.584Z
+modified: 2025-07-14T11:36:04.095Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Aprendiendo a manejar el editor de código](PublicBrain/_resources/41d7db1408ace939af5b63f34e9ed78a_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 14 - Conectando panallas entre si  ⚫①|Siguiente >>]]
 
 Hoy les traigo uno de esos capítulos que pueden parecer superfluos, pero que son todo lo contrario. Vamos a comentar algunas cuestiones y trucos para trabajar con el editor de código de AGD.
 
@@ -94,6 +94,12 @@ Cortar y Pegar si, pero linea a linea, de una en una, por lo que os recomiendo q
 Las combinaciones son CTRL+Y para cortar y CTRL+U para pegar, nada intuitiva, por lo que, de nuevo, no es lo que mejor hecho está en AGD.
 
 Lo dicho, una vez dominado, es facil, pero hay que trabajarlo un poco para ser eficaz editando código, si tienes alguna duda y no encuentras solución, ¡no dudes en consultarme y trato de daros una mano!
+
+## Y ahora que?
+
+* [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si no tienes claro porqué querrias editar código, pasa a la página 1]]
+* [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|Si no quieres mas "código" en tu vida, aunque sepas que es necesario lánzate a tirar código en la página 13]]
+* [[Tutorial de AGD 2018 Capítulo 14 - Conectando panallas entre si  ⚫①|Si has estado "conectando" con tu niño interior y estás listo para construir jardines, pasa a la página 14]]
 
 ## Referencias Bibliográficas
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-07-12T19:50:35.680Z
+modified: 2025-07-15T04:00:41.624Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 21
+ver_rev: 23
 nav_primary: 
 nav_secondary: 
 tags:
@@ -169,6 +169,17 @@ Seguramente para los más experimentados esta información esté de más, pero n
 
 Contiunuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①]]
 
+--- column-end ---
+
+![Varias pantallas de JBA interconectadas](PublicBrain/_resources/92ffd47eca16e3291db020d84b79f549_MD5.jpg)
+## Capítulo 14: Conectando pantallas entre sí
+
+En un capítulo anterior, estuvimos viendo como indicar a AGD el rol de cada tile , creando suelos, plataformas y zonas mortales.
+
+En esta ocasión vamos a interconectar pantallas en las cuatro direcciones.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 14 - Conectando panallas entre si  ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
@@ -177,7 +188,7 @@ Contiunuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso de
 
 
 
-* Tutorial de AGD 2018 Capitulo 14
+
 * Tutorial de AGD 2018 Capitulo 15
 * Tutorial de AGD 2018 Capitulo 16
 * Tutorial de AGD 2018 Capitulo 17

@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Model: Grok-3, Raúl Carrillo aka Metsuke
-iaStatus_Generado: "H"
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 a11y: 0
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-14T11:35:37.637Z
-modified: 2025-07-15T04:30:49.844Z
+modified: 2025-07-16T06:59:27.413Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Varias pantallas de JBA interconectadas](PublicBrain/_resources/92ffd47eca16e3291db020d84b79f549_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①|Siguiente >>]]
 
 > WIP
 
@@ -33,6 +33,12 @@ En un capítulo anterior, [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles �
 AGD admite hacer un juego en el que "pases pantallas" a lo Bubble Booble o Snow Bros, y eso lo comentaremos cuando empecemos a hacer juegos de otros tipos, de hecho cuando termine publique y posteriormente os comente como está hecho C5 Juanje's Revenge mi siguiente juego y que va con un retraso monumental, pero que quizá continuaré como parte del Tutorial en el futuro.
 
 **<iframe width="100%" height="480" src="https://www.youtube.com/embed/2o8mpCoPGxY?si=lHY7T7j4b3ulFp-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
+
+```pre
+Si, ya sé, ya sé, iba a salir en 2018 xD, no voy a entrar a explicar la dificultad creciente de nuestras vidas según envejecemos, tenemos que cuidar hijos, sobrinos y padres, y todo lo que supone la vida adulta. 
+
+Solo diré que tengo previsto retomarlo, a pesar de que en su dia perdí la versión de desarrollo que estaba como al 80% de completarse y respiraré hondo para rehacerlo.
+```
 ## Soy el mapa, el mapa, el mapa
 
 Lo primero, antes de hacer que nuestro protagonista recorra las pantallas, es configurar el mapa, ya sabéis como funciona, lo que no sé si os comenté en su momento es que podéis indicar en qué pantalla debe comenzar el protagonista seleccionando una de las pantallas del mapa y pulsando X.
@@ -129,7 +135,7 @@ En el próximo capítulo trataremos la configuración del salto y las diferentes
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si no logras conectar, busca cobertura y pasa a la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|Si aún crees en el poder del acero, ve a la página 13]]
 * [[Tutorial de AGD 2018 Capítulo 14 - Conectando panallas entre si  ⚫①|Si estás atrapado por el poder de la carne, pasa a la página 14]]
-* Si tienes claro que el poder del contexto es primordial, medita mientras configuramos la página 15
+* [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①|Si tienes claro que el poder del contexto es primordial, ve saltando hasta la página 15]]
 
 ## Referencias Bibliográficas
 

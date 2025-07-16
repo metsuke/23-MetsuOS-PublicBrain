@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
-iaStatus_Model: Grok-3, Raúl Carrillo aka Metsuke
-iaStatus_Generado: "H"
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 a11y: 0
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-12T20:02:55.651Z
-modified: 2025-07-14T11:36:04.095Z
+modified: 2025-07-16T06:59:43.707Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-07-15T04:00:41.624Z
+modified: 2025-07-16T06:46:40.755Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 23
+ver_rev: 24
 nav_primary: 
 nav_secondary: 
 tags:
@@ -180,16 +180,19 @@ En esta ocasión vamos a interconectar pantallas en las cuatro direcciones.
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 14 - Conectando panallas entre si  ⚫①]]
 
+--- column-end ---
+
+![AGD El salto y sus posibilidades narrativas](PublicBrain/_resources/0a31dff3971ca900b9e63b48d6d41a02_MD5.jpg)
+## Capítulo 15: El salto y sus posibilidades narrativas
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①]]
+
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-
-
-
-
-* Tutorial de AGD 2018 Capitulo 15
 * Tutorial de AGD 2018 Capitulo 16
 * Tutorial de AGD 2018 Capitulo 17
 * Tutorial de AGD 2018 Capitulo 18

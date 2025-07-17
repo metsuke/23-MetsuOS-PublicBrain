@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-15T04:02:12.734Z
+modified: 2025-07-17T01:33:03.278Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 45
+ver_rev: 46
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,14 +26,16 @@ tags:
 Number of Columns: 2
 Border: off
 ```
-![Varias pantallas de JBA interconectadas](PublicBrain/_resources/92ffd47eca16e3291db020d84b79f549_MD5.jpg)
-## Capítulo 14: Conectando pantallas entre sí
 
-En un capítulo anterior, estuvimos viendo como indicar a AGD el rol de cada tile , creando suelos, plataformas y zonas mortales.
 
-En esta ocasión vamos a interconectar pantallas en las cuatro direcciones.
+![AGD El salto y sus posibilidades narrativas](PublicBrain/_resources/0a31dff3971ca900b9e63b48d6d41a02_MD5.jpg)
+## Capítulo 15: El salto y sus posibilidades narrativas
 
-Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 14 - Conectando panallas entre si  ⚫①]]
+En el capítulo de hoy vamos a tratar un tema central en los juegos de plataformas realizados con AGD: el salto. 
+
+Lejos de ser una cuestión menor, su poder narrativo hace de esta función una de las más relevantes.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①]]
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-14T11:35:37.637Z
-modified: 2025-07-16T06:59:27.413Z
+modified: 2025-07-17T07:08:52.319Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,6 @@ tags:
 * [[Tutorial de AGD 2018 Edition ⚫①]]
 * [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①|Siguiente >>]]
 
-> WIP
 
 En un capítulo anterior, [[Tutorial de AGD 2018 Capitulo 11 - Tipos de Tiles ⚫①|estuvimos viendo como indicar a AGD el rol de cada tile , creando suelos, plataformas y zonas mortales]]. En esta ocasión vamos a interconectar pantallas en las cuatro direcciones.
 

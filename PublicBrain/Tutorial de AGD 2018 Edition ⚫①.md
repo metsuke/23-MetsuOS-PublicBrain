@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-07-17T01:32:09.997Z
+modified: 2025-07-19T18:32:31.116Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -191,13 +191,20 @@ Lejos de ser una cuestión menor, su poder narrativo hace de esta función una d
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①]]
 
+--- column-end ---
+
+## Capítulo 16: Nuestro primer enemigo.
+
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 16 - Nuestro primer enemigo. ⚫①]]
+
 
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-* Tutorial de AGD 2018 Capitulo 16
+
 * Tutorial de AGD 2018 Capitulo 17
 * Tutorial de AGD 2018 Capitulo 18
 * Tutorial de AGD 2018 Capitulo 19

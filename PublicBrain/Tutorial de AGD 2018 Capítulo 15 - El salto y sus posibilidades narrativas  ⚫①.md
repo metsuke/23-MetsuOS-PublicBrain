@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-16T06:54:21.872Z
-modified: 2025-07-17T01:14:21.882Z
+modified: 2025-07-19T18:39:15.211Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,7 +25,7 @@ tags:
 ![AGD El salto y sus posibilidades narrativas](PublicBrain/_resources/0a31dff3971ca900b9e63b48d6d41a02_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 14 - Conectando panallas entre si  ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 14 - Conectando panallas entre si  ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 16 - Nuestro primer enemigo. ⚫①|Siguiente >>]]
 
 En el capítulo de hoy vamos a tratar un tema central en los juegos de plataformas realizados con AGD: el salto. Lejos de ser una cuestión menor, su poder narrativo hace de esta función una de las más relevantes.
 
@@ -111,6 +111,7 @@ Como veis esto es más un arte que otra cosa, imaginar que haría el personaje y
 * [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|Si aún crees en el poder del acero, ve a la página 13]]
 * [[Tutorial de AGD 2018 Capítulo 14 - Conectando panallas entre si  ⚫①|Si estás atrapado por el poder de la carne, pasa a la página 14]]
 * [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①|Si tienes claro que el poder del contexto es primordial, ve saltando hasta la página 15]]
+* [[Tutorial de AGD 2018 Capítulo 16 - Nuestro primer enemigo. ⚫①|Si crees que ha llegado el momento de dar lo suyo y lo de su prima a Vegatrón, pasa a la página 16]]
 
 
 ![[Plantilla - 1MT#One More Thing]]

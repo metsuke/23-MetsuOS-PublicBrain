@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-12T20:02:55.651Z
-modified: 2025-07-16T06:59:43.707Z
+modified: 2025-07-18T20:10:16.560Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -83,7 +83,7 @@ El modo *E*xtendido del Spectrum es algo que puede dar lugar a confusión tambi�
 
 Cosas tan sencillas como escribir un signo igual , si no estamos acostumbrados al teclado de un spectrum pueden ser un gran quebradero de cabeza (el caso del Igual se saca usando *CTRL + L*), personalmente programo con el manual de mi +2A (el físico) en la mesa, esto me permite consultar la referencia de caracteres y pulsaciones de teclas que contiene, cuando la combinaciones que me son naturales, no obtienen el resultado deseado en el editor.
 
-Si no tienes el libro físico, quizá te interese [esta web que contiene dicha información sobre el layout de ZX Spectrum 🌐🟡③](http://slady.net/Sinclair-ZX-Spectrum-keyboard/\).
+Si no tienes el libro físico, quizá te interese [esta web que contiene dicha información sobre el layout de ZX Spectrum 🌐🟡③](http://slady.net/Sinclair-ZX-Spectrum-keyboard).
 
 ### Cortar y Pegar
 

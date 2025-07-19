@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-28T20:48:36.132Z
-modified: 2025-07-01T22:47:13.759Z
+modified: 2025-07-18T20:07:57.435Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -183,7 +183,7 @@ Comando. Recibe un parámetro numérico entero entre 0 y 255, que es la puntuaci
 
 Comando. Inicia a reproducción de un efecto de sonido con el Chip de sonido AY. Recibe un parámetro numérico correspondiente al sonido a reproducir.
 
-### BEEP
+### BEEP
 
 Comando. Reproduce un sonido vía Beeper que comienza bajo e incrementa el pitch. Recibe un único parámetro numérico correspondiente a la duración del sonido.
 

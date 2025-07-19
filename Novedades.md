@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-17T01:33:03.278Z
+modified: 2025-07-19T22:47:31.949Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 46
+ver_rev: 47
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,15 +27,15 @@ Number of Columns: 2
 Border: off
 ```
 
+![Nuestro primer enemigo](PublicBrain/_resources/8fbc62c511b1fbf3b2b765372e9223ec_MD5.jpg)
+## Capítulo 16: Nuestro primer enemigo.
 
-![AGD El salto y sus posibilidades narrativas](PublicBrain/_resources/0a31dff3971ca900b9e63b48d6d41a02_MD5.jpg)
-## Capítulo 15: El salto y sus posibilidades narrativas
+Mucho hemos caminado desde que creamos nuestra primera pantalla, nuestra primera animación o pusimos a nuestro prota en movimiento. 
 
-En el capítulo de hoy vamos a tratar un tema central en los juegos de plataformas realizados con AGD: el salto. 
+Hoy vamos a comenzar a dar vida a nuestro primer enemigo.
 
-Lejos de ser una cuestión menor, su poder narrativo hace de esta función una de las más relevantes.
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 16 - Nuestro primer enemigo. ⚫①]]
 
-Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①]]
 
 --- column-end ---
 

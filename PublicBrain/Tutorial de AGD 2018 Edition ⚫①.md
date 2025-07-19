@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-07-19T18:32:31.116Z
+modified: 2025-07-19T22:46:03.608Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -193,8 +193,12 @@ Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus po
 
 --- column-end ---
 
+![Nuestro primer enemigo](PublicBrain/_resources/8fbc62c511b1fbf3b2b765372e9223ec_MD5.jpg)
 ## Capítulo 16: Nuestro primer enemigo.
 
+Mucho hemos caminado desde que creamos nuestra primera pantalla, nuestra primera animación o pusimos a nuestro prota en movimiento. 
+
+Hoy vamos a comenzar a dar vida a nuestro primer enemigo.
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 16 - Nuestro primer enemigo. ⚫①]]
 

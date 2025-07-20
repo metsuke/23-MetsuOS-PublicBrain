@@ -83,9 +83,14 @@ Continuar leyendo en ... [[Integrando PixiJS con MetsuOS I - Ejemplo de Inico �
 
 --- column-end ---
 
+![Dibujando formas básicas y gráficos](PublicBrain/_resources/60b2d8cc11ee311dd69562ae8b878613_MD5.jpg)
 ## Dibujando formas básicas y gráficos
 
-[[Dibujando formas básicas y gráficos (PixiJS) 🟡③]] 
+PixiJS es una biblioteca de JavaScript para gráficos 2D que aprovecha WebGL para un renderizado rápido y eficiente, con Canvas como alternativa si WebGL no está disponible. 
+
+Comenzaremos hoy con el dibujado de formas básicas
+
+Continuar leyendo en ... [[Dibujando formas básicas y gráficos (PixiJS) 🟡③]] 
 
  --- column-end ---
 --- multi-column-end

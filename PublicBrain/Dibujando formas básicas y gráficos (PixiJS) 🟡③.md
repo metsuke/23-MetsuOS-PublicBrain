@@ -26,8 +26,6 @@ tags:
  * [[Curso de PixiJS ⚫①]]
 * [[Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③|<< Anterior]] | Siguiente >>
 
-> WIP
-
 PixiJS es una biblioteca de JavaScript para gráficos 2D que aprovecha WebGL para un renderizado rápido y eficiente, con Canvas como alternativa si WebGL no está disponible. Comenzaremos hoy con el dibujado de formas básicas
 
 > Podeis encontrar los ejemplos del curso en [este repositorio de Github  🌐🟡③](https://github.com/metsuke/ejemplos-curso-pixijs-metsuos/tree/main)
@@ -162,7 +160,13 @@ app.stage.addChild(graphics);
 
 ## El ejemplo en acción
 
-Con la tonteria, aqui tenemos nuestro primer juego (no accesible, no se puede jugar a ciegas, con dificultades motoras, tampoco), pero un juego (mierdijuego) al fin y al cabo :)
+Con la tonteria, y siendo que he implementado lo descrito en un solo ejemplo a mi propio estilo (lo teneis en GitHub), tenemos ya nuestro primer juego (no accesible, no se puede jugar a ciegas, con dificultades motoras, tampoco), pero un juego (mierdijuego) al fin y al cabo :)
+
+```pre
+Instrucciones: pulse el circulo azul en movimiento para que sea verde, vuelva a pulsar para que retorne al azul ... ¿alguien necesita POKEs? xDD
+```
+
+>Hale pues ya está, hasta aquí el curso... no no no jajajjaaj acabamos de empezar, ¡veamos donde nos lleva la madriguera de conejos!
 **<div class='pixi-app' id='mos-formas-basicas'><div class='pixi-container'  id='pixi-container'></div></div><script type='text/javascript' id='PixiText' async src='https://metsuke.com/assets/apps/PixiJS/003-MosFormasGeometricas/app-mosformasgeometricas.iife.js'></script>**
 
 Como ex-maquetador web (tengo unos años me ha dado tiempo a hacer reroll bastantes veces), me chirria el tema del "responsive" dentro del canvas, pero eso creo que tendré que investigarlo a fondo por si existe algo hecho, o acabar implementarndolo personalmente.

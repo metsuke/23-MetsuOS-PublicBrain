@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-19T22:47:31.949Z
+modified: 2025-07-20T12:15:09.273Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 47
+ver_rev: 48
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,18 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+![Dibujando formas básicas y gráficos](PublicBrain/_resources/60b2d8cc11ee311dd69562ae8b878613_MD5.jpg)
+## Dibujando formas básicas y gráficos
+
+PixiJS es una biblioteca de JavaScript para gráficos 2D que aprovecha WebGL para un renderizado rápido y eficiente, con Canvas como alternativa si WebGL no está disponible. 
+
+Comenzaremos hoy con el dibujado de formas básicas
+
+Continuar leyendo en ... [[Dibujando formas básicas y gráficos (PixiJS) 🟡③]] 
+
+--- column-end ---
 
 ![Nuestro primer enemigo](PublicBrain/_resources/8fbc62c511b1fbf3b2b765372e9223ec_MD5.jpg)
 ## Capítulo 16: Nuestro primer enemigo.
@@ -59,20 +71,6 @@ Continuar leyendo en ... [[Galería de Imágenes de Efemétides  ⚫①]]
 No importa si nunca has programado o si el ZX Spectrum es un desconocido para ti: esta guía está pensada para principiantes y amantes del retro por igual. Desde explorar la historia de estas máquinas icónicas hasta construir un juego completo con múltiples pantallas, gráficos vibrantes y mecánicas adictivas, te guiaremos paso a paso con ejemplos prácticos, ejercicios y un proyecto final que podrás compartir con el mundo.
 
 Continuar leyendo en ... [[Curso Crea Juegos al Estilo Maquinita con Boriel BASIC 🟡③]]
-
---- column-end ---
-
-
-![Integrar Pixi y MetsuOS](PublicBrain/_resources/f6e2620184be4035309e690f74fa4e57_MD5.jpg)
-## Integrando PixiJS con MetsuOS
-
-Incluyo este capítulo intermedio en el flujo previsto originalmente, debido al uso de node y vite en el desarrollo, lo que podría afectar a la inclusión de nuestros proyectos en un entorno vanilla puro html + js, como es MetsuOS en producción.
-
-Aunque trataremos el tema en el capítulo sobre distribución mas adelante, exploraremos como construye PixiJS el proyecto para producciçon y como podemos hacer nuestro propio "build-mos" en que compilemos de forma que se pueda correr sin necesidad node en destino.
-
-Continuar leyendo en ... [[Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③]]
-
-
 
 --- column-end ---
 

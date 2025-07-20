@@ -158,4 +158,4 @@ Continuar leyendo en ... [[Dibujando formas básicas y gráficos (PixiJS) 🟡�
 - [[Optimización y despliegue del proyecto final en PixiJS ⚫①]]
 - [[Presentación y revisión del proyecto final (PixiJS) ⚫①]]
 
-![[⚫🔴🟡🟢🔵⚪ (🔴②)#Sobre el sistema de validez de un contenido en MetsuOS]]
+![[Plantilla - 1MT#One More Thing]]

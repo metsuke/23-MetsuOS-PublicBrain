@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-19T18:39:16.802Z
-modified: 2025-07-19T22:30:56.253Z
+modified: 2025-07-26T05:44:06.040Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Nuestro primer enemigo](PublicBrain/_resources/8fbc62c511b1fbf3b2b765372e9223ec_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①|Siguiente >>]]
 
 Mucho hemos caminado desde que [[Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①|creamos nuestra primera pantalla]], [[Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①|nuestra primera animación]] o [[Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①|pusimos a nuestro prota en movimiento]]. Hoy vamos a comenzar a dar vida a nuestro primer enemigo.
 
@@ -99,6 +99,6 @@ Y poco más, esto es lo básico de un enemigo, en el próximo capítulo trataré
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si no sabes quien es amigo o enemigo, busca refugio en la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①|Si cada vez que insertas un enemigo saltan los promos, ve a comprobar el diferencial en la página 15]]
 * [[Tutorial de AGD 2018 Capítulo 16 - Nuestro primer enemigo. ⚫①|Si crees que ha llegado el momento pero no sabes cuando, pasa a la página 16]]
-* Si ya lo tienes todo claro, espera que aparezca la salida, y pasa a la página 17
+* [[Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①|Si ya lo tienes todo claro, espera que aparezca la salida, y pasa a la página 17]]
 
 ![[Plantilla - 1MT#One More Thing]]

@@ -166,7 +166,7 @@ Con la tonteria, y siendo que he implementado lo descrito en un solo ejemplo a m
 Instrucciones: pulse el circulo azul en movimiento para que sea verde, vuelva a pulsar para que retorne al azul ... ¿alguien necesita POKEs? xDD
 ```
 
->Hale pues ya está, hasta aquí el curso... no no no jajajjaaj acabamos de empezar, ¡veamos donde nos lleva la madriguera de conejos!
+Hale pues ya está, hasta aquí el curso... no no no jajajjaaj acabamos de empezar, ¡veamos donde nos lleva la madriguera de conejos!
 **<div class='pixi-app' id='mos-formas-basicas'><div class='pixi-container'  id='pixi-container'></div></div><script type='text/javascript' id='PixiText' async src='https://metsuke.com/assets/apps/PixiJS/003-MosFormasGeometricas/app-mosformasgeometricas.iife.js'></script>**
 
 Como ex-maquetador web (tengo unos años me ha dado tiempo a hacer reroll bastantes veces), me chirria el tema del "responsive" dentro del canvas, pero eso creo que tendré que investigarlo a fondo por si existe algo hecho, o acabar implementarndolo personalmente.

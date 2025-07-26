@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-07-10T00:45:41.996Z
+modified: 2025-07-20T21:40:26.244Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 21
+ver_rev: 22
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,7 +27,7 @@ Number of Columns: 2
 Border: off
 ```
 
-![Galeria de Cabeceras Lanzamiento Sega Saturn](_resources/86558b75171fbae7fd3f3bbe7fcb8804_MD5.jpeg)
+![Galeria Imagenes Cabecera](PublicBrain/_resources/2488e3400cbb8967b8c240f1095f5225_MD5.jpeg)
 
 ## Galería de Imágenes de Efemérides
 

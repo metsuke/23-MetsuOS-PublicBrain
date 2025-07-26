@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-07-19T22:46:03.608Z
+modified: 2025-07-26T06:07:57.070Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 29
 nav_primary: 
 nav_secondary: 
 tags:
@@ -202,14 +202,22 @@ Hoy vamos a comenzar a dar vida a nuestro primer enemigo.
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 16 - Nuestro primer enemigo. ⚫①]]
 
+--- column-end ---
+
+![Game Over en JBA](PublicBrain/_resources/de50fdb8c54a66c181e9c8473d6eaddc_MD5.jpg)
+## Capítulo 17: Puntuación y Vidas
+
+En el anterior capítulo creamos nuestro primer enemigo, es hora de gestionar el proceso cuando un enemigo, o el escenario "nos mata", no es dificil, pero hay que pensarlo con cuidado.
+
+Empecemos por lo menos controvertido, "los puntos", en realidad con AGD es extremadamente sencillo, contamos con dos instrucciones básicas: SCORE y SHOWSCORE
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①]]
 
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-
-* Tutorial de AGD 2018 Capitulo 17
 * Tutorial de AGD 2018 Capitulo 18
 * Tutorial de AGD 2018 Capitulo 19
 * Tutorial de AGD 2018 Capitulo 20

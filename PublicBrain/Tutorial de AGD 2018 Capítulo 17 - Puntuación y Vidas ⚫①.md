@@ -23,8 +23,8 @@ tags:
 
 ![Game Over en JBA](PublicBrain/_resources/de50fdb8c54a66c181e9c8473d6eaddc_MD5.jpg)
 
- [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 16 - Nuestro primer enemigo. ⚫①]] | Siguiente >>
+ * [[Tutorial de AGD 2018 Edition ⚫①]]
+* [[Tutorial de AGD 2018 Capítulo 16 - Nuestro primer enemigo. ⚫①|<< Anterior]] | Siguiente >>
 
 En el anterior capítulo creamos nuestro primer enemigo, es hora de gestionar el proceso cuando un enemigo, o el escenario "nos mata", no es dificil, pero hay que pensarlo con cuidado.
 
@@ -69,5 +69,11 @@ Aprovechando que hemos comentado parte del ciclo de vida del juego, en futuros c
 ## Referencias Bibliográficas
 
 - **Ninguna fuente verificable disponible**. 
+
+## Y ahora que?
+
+* [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si tienes muchos puntos, presentate en enfermería en la página 1]]
+* [[Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①|Si no te da la vida, espera que aparezca el mensaje Game Over, y pasa a la página 17]]
+* Si has logrado que te de la vida para más, pasa a la página siguiente en cuanto la puntuación te lo permita.
 
 ![[Plantilla - 1MT#One More Thing]]

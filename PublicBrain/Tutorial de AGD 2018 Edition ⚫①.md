@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-07-26T06:07:57.070Z
+modified: 2025-07-27T16:45:51.140Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 29
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
@@ -213,12 +213,22 @@ Empecemos por lo menos controvertido, "los puntos", en realidad con AGD es extre
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①]]
 
+--- column-end ---
+
+![Optimizacion de codigo](PublicBrain/_resources/87bb53230dbe4f7418528d90468c385d_MD5.jpg)
+## Capítulo 18: Optimiza tu código
+
+Hemos empezado a escribir código en el editor de AGD, y a quisiera amploar las instrucciones que comentamos en un capítulo anterior
+
+Me gustaría en esta ocasión compartir unas claves básicas antes de continuar con el juego en sí, sobre todo - pero no sólo - de optimización.
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 18 - Optimiza tu código ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-* Tutorial de AGD 2018 Capitulo 18
 * Tutorial de AGD 2018 Capitulo 19
 * Tutorial de AGD 2018 Capitulo 20
 * Tutorial de AGD 2018 Capitulo 21

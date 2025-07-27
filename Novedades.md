@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-26T06:30:17.364Z
+modified: 2025-07-27T17:16:57.559Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 50
+ver_rev: 51
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,14 +28,15 @@ Border: off
 ```
 
 
-![Game Over en JBA](PublicBrain/_resources/de50fdb8c54a66c181e9c8473d6eaddc_MD5.jpg)
-## Capítulo 17: Puntuación y Vidas
+![Optimizacion de codigo](PublicBrain/_resources/87bb53230dbe4f7418528d90468c385d_MD5.jpg)
+## Capítulo 18: Optimiza tu código
 
-En el anterior capítulo creamos nuestro primer enemigo, es hora de gestionar el proceso cuando un enemigo, o el escenario "nos mata", no es dificil, pero hay que pensarlo con cuidado.
+Hemos empezado a escribir código en el editor de AGD, y a quisiera amploar las instrucciones que comentamos en un capítulo anterior
 
-Empecemos por lo menos controvertido, "los puntos", en realidad con AGD es extremadamente sencillo, contamos con dos instrucciones básicas: SCORE y SHOWSCORE
+Me gustaría en esta ocasión compartir unas claves básicas antes de continuar con el juego en sí, sobre todo - pero no sólo - de optimización.
 
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①]]
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 18 - Optimiza tu código ⚫①]]
+
 --- column-end ---
 
 ![Galeria Imagenes Cabecera](PublicBrain/_resources/2488e3400cbb8967b8c240f1095f5225_MD5.jpeg)

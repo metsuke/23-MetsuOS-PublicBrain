@@ -28,6 +28,19 @@ Border: off
 ```
 
 
+![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
+## Curso de ZX Game Maker (Indice Actualizado)
+
+El Curso de ZX Game Maker está diseñado para introducir a principiantes y entusiastas en el apasionante mundo del desarrollo de videojuegos 2D utilizando el motor ZX Game Maker, una herramienta accesible y potente para crear juegos sin necesidad de conocimientos avanzados de programación. 
+
+Dada la filosofía del motor, y que este está en pleno desarrollo, organizaremos el curso en tres bloques, el primero, para aprnder a crear juegos, el segundo para avanzar en el conocimiento de la plataforma convirtiendo un juego desde AGD (tecnicamente será un demake pues AGD permite mas libertad que ZXGM) y una tercera donde compartiré lo que aprenda en torno al apoyo al proyecto como desarrollador.
+
+Logicamente, empezaremos por lo básico.
+
+Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
+
+--- column-end ---
+
 ![Optimizacion de codigo](PublicBrain/_resources/87bb53230dbe4f7418528d90468c385d_MD5.jpg)
 ## Capítulo 18: Optimiza tu código
 
@@ -74,18 +87,6 @@ Continuar leyendo en ... [[Curso Crea Juegos al Estilo Maquinita con Boriel BASI
 
 --- column-end ---
 
-![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
-## Curso de ZX Game Maker
-
-El Curso de ZX Game Maker está diseñado para introducir a principiantes y entusiastas en el apasionante mundo del desarrollo de videojuegos 2D utilizando el motor ZX Game Maker, una herramienta accesible y potente para crear juegos sin necesidad de conocimientos avanzados de programación. 
-
-Este curso te guiará paso a paso desde los fundamentos del entorno hasta la creación de un videojuego completo, combinando teoría, práctica y proyectos reales. 
-
-Aprenderás a manejar sprites, colisiones, sonidos, niveles y lógicas básicas de programación con el lenguaje GML (Game Maker Language), ideal para dar vida a tus ideas de manera sencilla y divertida. Al finalizar, estarás preparado para desarrollar tus propios videojuegos y explorar oportunidades en la industria del entretenimiento digital.
-
-Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
-
---- column-end ---
 
 ![Atari 2600 El Legado Continua](PublicBrain/_resources/5c14edea4027bacc6ee841967b46dabd_MD5.jpg)
 ## Historia y contexto del Atari 2600 y su relación con Visual bB

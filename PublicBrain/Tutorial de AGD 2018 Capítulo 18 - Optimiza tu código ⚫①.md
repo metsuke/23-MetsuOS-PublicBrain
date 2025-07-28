@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-27T16:57:50.370Z
-modified: 2025-07-27T16:59:46.653Z
+modified: 2025-07-28T06:28:38.601Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,7 +26,7 @@ tags:
  * [[Tutorial de AGD 2018 Edition ⚫①]]
 * [[Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①|<< Anterio]] | Siguiente >>
 
-Hemos empezado a escribir código en el editor de AGD, y a quisiera [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|amploar las instrucciones que comentamos en un capítulo anterior]]
+Hemos empezado a escribir código en el editor de AGD, y 0quisiera [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|amploar las instrucciones que comentamos en un capítulo anterior]]
 
 Me gustaría en esta ocasión compartir unas claves básicas antes de continuar con el juego en sí, sobre todo - pero no sólo - de optimización.
 

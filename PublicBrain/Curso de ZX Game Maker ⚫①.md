@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-07-29T05:06:03.814Z
+modified: 2025-07-29T09:38:53.447Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -37,6 +37,7 @@ Logicamente, empezaremos por lo básico.
 	* "Cursed Zapatilla", el juego plataformero que crearemos durante el curso.
 	* "Zapatilla Bross", el juego arcade que crearemos durante el curso.
 	* "Zas Patillas", el juego cenital que crearemos durante el curso.
+	* "Zapaxxian", el juego de naves que intentaré hacer de forma experimental.
 - Descarga e instalación del software
 - Requisitos del sistema y versiones
 - Exploración de la estructura general del motor

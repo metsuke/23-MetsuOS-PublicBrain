@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-07-29T09:38:53.447Z
+modified: 2025-07-29T14:39:07.452Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -32,7 +32,26 @@ Dada la filosofía del motor, y que este está en pleno desarrollo, organizaremo
 Logicamente, empezaremos por lo básico.
 ## Nivel Básico: Creando un nuevo juego
 
-* ¿Qué es ZX Game Maker? un motor pequeño pero matón
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Que es ZXGM](PublicBrain/_resources/f4a1e4d529a440f11c0362c34fabdcc1_MD5.jpg)
+## Capítulo 01: ¿Qué es ZX Game Maker?
+
+ZX Game Maker es una herramienta innovadora diseñada para crear videojuegos compatibles con el ZX Spectrum, la emblemática computadora doméstica de los años 80. 
+
+Este motor permite a usuarios de todos los niveles, desde principiantes hasta desarrolladores experimentados, diseñar videojuegos en 2D de forma visual e intuitiva, sin requerir conocimientos avanzados de programación. 
+
+Contionuar leyendo en ... [[Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③]]
+
+ --- column-end ---
+--- multi-column-end
+
+
+
 * Un juego para cada estilo posible
 	* "Cursed Zapatilla", el juego plataformero que crearemos durante el curso.
 	* "Zapatilla Bross", el juego arcade que crearemos durante el curso.

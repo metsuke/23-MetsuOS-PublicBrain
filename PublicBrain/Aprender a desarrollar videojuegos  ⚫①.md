@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-07-08T18:53:47.713Z
+modified: 2025-07-28T16:53:42.975Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -58,7 +58,7 @@ El Curso de ZX Game Maker está diseñado para introducir a principiantes y entu
 
 Dada la filosofía del motor, y que este está en pleno desarrollo, organizaremos el curso en tres bloques, el primero, para aprnder a crear juegos, el segundo para avanzar en el conocimiento de la plataforma convirtiendo un juego desde AGD (tecnicamente será un demake pues AGD permite mas libertad que ZXGM) y una tercera donde compartiré lo que aprenda en torno al apoyo al proyecto como desarrollador.
 
-Logicamente, empezaremos por lo básico.ºz
+Logicamente, empezaremos por lo básico.
 
 Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
 

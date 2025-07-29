@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
 iaStatus_Model: Raúl Carrillo Garrido aka metsuke
-iaStatus_Generado: I
+iaStatus_Generado: H
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-a11y: -3
+a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-07-28T16:17:33.154Z
+modified: 2025-07-29T05:06:03.814Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 2
-ver_rev: 2
+ver_minor: 3
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -33,22 +33,25 @@ Logicamente, empezaremos por lo básico.
 ## Nivel Básico: Creando un nuevo juego
 
 * ¿Qué es ZX Game Maker? un motor pequeño pero matón
-* "Cursed Zapatilla", el juego que crearemos durante el curso.
-  - Descarga e instalación del software
-  - Requisitos del sistema y versiones
-  - Exploración de la estructura general del motor
-  - Configuración de un nuevo proyecto
-  - Pantalla de presentación y pantalla de victoria
-  - El HUD
-  - Creación del personaje principañ
-  - Creación de las pantallas
-  - Creación de los enemigos
-  - Creación de los objetos
-  - Sonidos en nuestro juego
-  - Musicas en nuestro juego.
-  - Efectos visuales
-  - Pruebas y ajustes
-  - Optimización del juego
+* Un juego para cada estilo posible
+	* "Cursed Zapatilla", el juego plataformero que crearemos durante el curso.
+	* "Zapatilla Bross", el juego arcade que crearemos durante el curso.
+	* "Zas Patillas", el juego cenital que crearemos durante el curso.
+- Descarga e instalación del software
+- Requisitos del sistema y versiones
+- Exploración de la estructura general del motor
+- Configuración de un nuevo proyecto
+- Pantalla de presentación y pantalla de victoria
+- El HUD
+- Creación del personaje principañ
+- Creación de las pantallas
+- Creación de los enemigos
+- Creación de los objetos
+- Sonidos en nuestro juego
+- Musicas en nuestro juego.
+- Efectos visuales
+- Pruebas y ajustes
+- Optimización del juego
 
 ## Nivel Medio: Haz un demake de un juego de AGD
 

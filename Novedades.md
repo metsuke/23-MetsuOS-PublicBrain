@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-29T14:52:35.069Z
+modified: 2025-07-30T05:04:44.924Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 53
+ver_rev: 55
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,28 @@ Number of Columns: 2
 Border: off
 ```
 
+![Ciclo de vida](PublicBrain/_resources/12ff93fbb99bffab5cfc48cfc9e0fc87_MD5.jpg)
+## Capítulo 19: Ciclo de vida
+
+¿Ciclo de vida? si, con ello me refiero a los eventos, en que orden y cuando se ejecutan. 
+
+Es importante reseñar que en AGD no hay concurrencia, es absolutamente lineal, por lo que solo se puede ejecutar una cosa al tiempo.
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①]]
+
+--- column-end ---
+
+![ahuahuahu](_resources/d1ae4ab2705f7cf313534a352985c784_MD5.jpg)
+## Cansado de construir sobre arenas movedizas
+
+Desde que comencé a programar, siempre ha sido la misma historia, cuando empiezas a tener una base solida sobre la que construir, el suelo bajo tus pies desaparece por caprichos tecnicos, persecución de objetos brillantes o, como pasa en el mundo retro, muerte o abandono de los creadores.
+
+Está claro que nada dura para siempre, pero empiezo a estar muy cansado de la tendencia del mundo del retro a pensar en local, en pequeño, y que el que venga "se busque la vida", yo hago mi herramienta para mi windows, dejo que mi ego me impida abrir el codigo y cuando desaparezco, me llevo media scene conmigo o, cuando menos dificulto su trabajo. Esto debe terminar.
+
+Continua leyendo en ... [[Blog - Cansado de construir sobre arenas movedizas - 2025-07-29 ⚫①]]
+
+--- column-end ---
+
 ![Que es ZXGM](PublicBrain/_resources/f4a1e4d529a440f11c0362c34fabdcc1_MD5.jpg)
 ## Capítulo 01: ¿Qué es ZX Game Maker?
 
@@ -35,17 +57,6 @@ ZX Game Maker es una herramienta innovadora diseñada para crear videojuegos com
 Este motor permite a usuarios de todos los niveles, desde principiantes hasta desarrolladores experimentados, diseñar videojuegos en 2D de forma visual e intuitiva, sin requerir conocimientos avanzados de programación. 
 
 Contionuar leyendo en ... [[Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③]]
-
---- column-end ---
-
-![Optimizacion de codigo](PublicBrain/_resources/87bb53230dbe4f7418528d90468c385d_MD5.jpg)
-## Capítulo 18: Optimiza tu código
-
-Hemos empezado a escribir código en el editor de AGD, y a quisiera amploar las instrucciones que comentamos en un capítulo anterior
-
-Me gustaría en esta ocasión compartir unas claves básicas antes de continuar con el juego en sí, sobre todo - pero no sólo - de optimización.
-
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 18 - Optimiza tu código ⚫①]]
 
 --- column-end ---
 

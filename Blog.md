@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-06-17T07:58:51.332Z
+modified: 2025-07-29T18:42:36.190Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 29
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,17 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![ahuahuahu](_resources/d1ae4ab2705f7cf313534a352985c784_MD5.jpg)
+## Cansado de construir sobre arenas movedizas
+
+Desde que comencé a programar, siempre ha sido la misma historia, cuando empiezas a tener una base solida sobre la que construir, el suelo bajo tus pies desaparece por caprichos tecnicos, persecución de objetos brillantes o, como pasa en el mundo retro, muerte o abandono de los creadores.
+
+Está claro que nada dura para siempre, pero empiezo a estar muy cansado de la tendencia del mundo del retro a pensar en local, en pequeño, y que el que venga "se busque la vida", yo hago mi herramienta para mi windows, dejo que mi ego me impida abrir el codigo y cuando desaparezco, me llevo media scene conmigo o, cuando menos dificulto su trabajo. Esto debe terminar.
+
+Continua leyendo en ... [[Blog - Cansado de construir sobre arenas movedizas - 2025-07-29 ⚫①]]
+
+--- column-end ---
 
 ![El Barco en la caja que todos compartimos](PublicBrain/_resources/f00ec31c58f11d200bcc9544eb02858e_MD5_Landscape.jpeg)
 ## Sobre el sistema de validacion de contenido de MetsuOS

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-27T16:57:50.370Z
-modified: 2025-07-28T06:28:38.601Z
+modified: 2025-07-30T04:42:05.794Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Optimizacion de codigo](PublicBrain/_resources/87bb53230dbe4f7418528d90468c385d_MD5.jpg)
 
  * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①|<< Anterio]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①|<< Anterio]] | [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|Siguiente >>]]
 
 Hemos empezado a escribir código en el editor de AGD, y 0quisiera [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|amploar las instrucciones que comentamos en un capítulo anterior]]
 
@@ -123,6 +123,6 @@ Un pequeño IF que no se ejecuta tal cual aparenta hacerlo a primera vista, pued
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si tienes muchos optis pero pocos mizas, presentate en enfermería en la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 18 - Optimiza tu código ⚫①|Si crees que puedes mejorar aún más tu código, pasa a la página 18]]
-* Si ya has ahorrado hasta el ultimo superbyte 'yo no puedo estar sin el', pasa a la página 19
+* [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|Si ya has ahorrado hasta el ultimo superbyte 'yo no puedo estar sin el', pasa a la página 19]]
 
 ![[Plantilla - 1MT#One More Thing]]

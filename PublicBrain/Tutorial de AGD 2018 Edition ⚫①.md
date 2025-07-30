@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-07-27T16:45:51.140Z
+modified: 2025-07-30T04:30:55.676Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 30
+ver_rev: 31
 nav_primary: 
 nav_secondary: 
 tags:
@@ -224,12 +224,23 @@ Me gustaría en esta ocasión compartir unas claves básicas antes de continuar 
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 18 - Optimiza tu código ⚫①]]
 
+--- column-end ---
+
+![Ciclo de vida](PublicBrain/_resources/12ff93fbb99bffab5cfc48cfc9e0fc87_MD5.jpg)
+## Capítulo 19: Ciclo de vida
+
+¿Ciclo de vida? si, con ello me refiero a los eventos, en que orden y cuando se ejecutan. 
+
+Es importante reseñar que en AGD no hay concurrencia, es absolutamente lineal, por lo que solo se puede ejecutar una cosa al tiempo.
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-* Tutorial de AGD 2018 Capitulo 19
+
 * Tutorial de AGD 2018 Capitulo 20
 * Tutorial de AGD 2018 Capitulo 21
 * Tutorial de AGD 2018 Capitulo 22

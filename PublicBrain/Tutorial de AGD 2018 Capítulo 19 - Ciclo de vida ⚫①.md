@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-30T04:40:22.150Z
-modified: 2025-07-30T04:45:06.349Z
+modified: 2025-08-01T04:01:00.454Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Ciclo de vida](PublicBrain/_resources/12ff93fbb99bffab5cfc48cfc9e0fc87_MD5.jpg)
 
  * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 18 - Optimiza tu código ⚫①|<< Anterio]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 18 - Optimiza tu código ⚫①|<< Anterio]] | [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①|Siguiente >>]]
 
 ¿Ciclo de vida? si, con ello me refiero a los eventos, en que orden y cuando se ejecutan. Es importante reseñar que en AGD no hay concurrencia, es absolutamente lineal, por lo que solo se puede ejecutar una cosa al tiempo.
 
@@ -108,6 +108,6 @@ Aún no he decidido que voy a comentar en el próximo capítulo por lo que esta 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si tienes muchos optis pero pocos mizas, presentate en enfermería en la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 18 - Optimiza tu código ⚫①|Si crees que puedes mejorar aún más tu vida recursivamente, pasa a la página 18]]
 * [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|Si ya no puedes con tu vida, pero crees que es cosa de esperar el cambio de ciclo, pasa a la página 19]]
-* Si estás deseando salir del bucle, y seguir con tu vida, espera tu oportunidad, y pasa a la página 20
+* [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①|Si estás deseando salir del bucle, y seguir con tu vida, espera tu oportunidad, y pasa a la página 20]]
 
 ![[Plantilla - 1MT#One More Thing]]

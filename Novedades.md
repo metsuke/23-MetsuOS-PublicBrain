@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-30T05:04:44.924Z
+modified: 2025-08-01T04:22:25.882Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 55
+ver_rev: 56
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,14 +27,16 @@ Number of Columns: 2
 Border: off
 ```
 
-![Ciclo de vida](PublicBrain/_resources/12ff93fbb99bffab5cfc48cfc9e0fc87_MD5.jpg)
-## Capítulo 19: Ciclo de vida
+![Objetos en AGD](PublicBrain/_resources/344ebafb9a7ffc3efe95529b5f686786_MD5.jpg)
+## Capítulo 20: Creando Objetos
 
-¿Ciclo de vida? si, con ello me refiero a los eventos, en que orden y cuando se ejecutan. 
+En [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Big Javi´s Adventure]] tenemos por objetivo recolectar 60 objetos repartidos por todo el mapeado. Veamos como se hace esto.
 
-Es importante reseñar que en AGD no hay concurrencia, es absolutamente lineal, por lo que solo se puede ejecutar una cosa al tiempo.
+Empezaremos en el capítulo de hoy por el Editor de Objetos, a este editor se accede desde el menú principal, pulsando "O - Objects". Accedemos a una pantalla en la que podremos editar los objetos.
 
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①]]
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①]]
+
+
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-07-30T04:30:55.676Z
+modified: 2025-08-01T03:59:59.511Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 31
+ver_rev: 33
 nav_primary: 
 nav_secondary: 
 tags:
@@ -235,13 +235,24 @@ Es importante reseñar que en AGD no hay concurrencia, es absolutamente lineal, 
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①]]
 
+--- column-end ---
+
+![Objetos en AGD](PublicBrain/_resources/344ebafb9a7ffc3efe95529b5f686786_MD5.jpg)
+## Capítulo 20: Creando Objetos
+
+En [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Big Javi´s Adventure]] tenemos por objetivo recolectar 60 objetos repartidos por todo el mapeado. Veamos como se hace esto.
+
+Empezaremos en el capítulo de hoy por el Editor de Objetos, a este editor se accede desde el menú principal, pulsando "O - Objects". Accedemos a una pantalla en la que podremos editar los objetos.
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
 
-* Tutorial de AGD 2018 Capitulo 20
+
 * Tutorial de AGD 2018 Capitulo 21
 * Tutorial de AGD 2018 Capitulo 22
 * Tutorial de AGD 2018 Capitulo 23

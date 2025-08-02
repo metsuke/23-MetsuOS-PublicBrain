@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-01T03:59:54.205Z
-modified: 2025-08-01T04:03:36.459Z
+modified: 2025-08-02T21:07:27.101Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Objetos en AGD](PublicBrain/_resources/344ebafb9a7ffc3efe95529b5f686786_MD5.jpg)
 
  * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①|Siguiente >>]]
 
 En [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Big Javi´s Adventure]] tenemos por objetivo recolectar 60 objetos repartidos por todo el mapeado. Veamos como se hace esto.
 
@@ -72,6 +72,6 @@ El sistema básico de objeto no tiene más ... la próxima semana trataré el me
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si tienes muchos objetos pero poco sujetos, reagrúpate en la página 1]]
 * * [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|Si ya tienes claro que es un objeto, pero no para que sirven, pasa a la página 19]]
 * [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①|Si quieres hacer fortuna en eBay, pasa a la página 20]]
-* Si tienes curiosidad por ver lo que depare el destino de la humanidad, pasa a la página 21
+* [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①|Si tienes curiosidad por ver lo que depare el destino de la humanidad, pasa a la página 21]]
 
 ![[Plantilla - 1MT#One More Thing]]

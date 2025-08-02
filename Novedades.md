@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-01T04:22:25.882Z
+modified: 2025-08-02T21:13:27.013Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 56
+ver_rev: 57
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,16 +27,15 @@ Number of Columns: 2
 Border: off
 ```
 
-![Objetos en AGD](PublicBrain/_resources/344ebafb9a7ffc3efe95529b5f686786_MD5.jpg)
-## Capítulo 20: Creando Objetos
+![Trabajando en la pantalla de menu](PublicBrain/_resources/9defbc9443997d93e700e8e640aac569_MD5.jpg)
 
-En [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017|The Big Javi´s Adventure]] tenemos por objetivo recolectar 60 objetos repartidos por todo el mapeado. Veamos como se hace esto.
+## Capítulo 21: Menú de Presentación
 
-Empezaremos en el capítulo de hoy por el Editor de Objetos, a este editor se accede desde el menú principal, pulsando "O - Objects". Accedemos a una pantalla en la que podremos editar los objetos.
+Hoy comentaremos en lenguaje sencillo la pantalla de presentación.
 
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①]]
+Como ya vimos en [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|el capítulo dedicado al ciclo de vida]], el cometido del menú de presentación es sencillamente introducirnos al juego y ofrecernos las opciones de control, una vez seleccionado el control comenzará la partida.
 
-
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①]]
 
 --- column-end ---
 

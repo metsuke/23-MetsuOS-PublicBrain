@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-01T03:59:59.511Z
+modified: 2025-08-02T20:49:08.535Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 33
+ver_rev: 34
 nav_primary: 
 nav_secondary: 
 tags:
@@ -246,6 +246,18 @@ Empezaremos en el capítulo de hoy por el Editor de Objetos, a este editor se ac
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①]]
 
+--- column-end ---
+
+![Trabajando en la pantalla de menu](PublicBrain/_resources/9defbc9443997d93e700e8e640aac569_MD5.jpg)
+
+## Capítulo 21: Menú de Presentación
+
+Hoy comentaremos en lenguaje sencillo la pantalla de presentación.
+
+Como ya vimos en [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|el capítulo dedicado al ciclo de vida]], el cometido del menú de presentación es sencillamente introducirnos al juego y ofrecernos las opciones de control, una vez seleccionado el control comenzará la partida.
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
@@ -253,7 +265,7 @@ Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos 
 
 
 
-* Tutorial de AGD 2018 Capitulo 21
+
 * Tutorial de AGD 2018 Capitulo 22
 * Tutorial de AGD 2018 Capitulo 23
 * Tutorial de AGD 2018 Capitulo 24

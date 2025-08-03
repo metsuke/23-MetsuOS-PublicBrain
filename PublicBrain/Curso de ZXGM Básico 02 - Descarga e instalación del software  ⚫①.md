@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-03T09:28:28.444Z
-modified: 2025-08-03T11:47:54.116Z
+modified: 2025-08-03T18:52:49.908Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -56,7 +56,7 @@ ZX Game Maker es un proyecto de código abierto alojado en GitHub. Sigue estos p
     ```
     
 3. **Descomprime el archivo**: Extrae el contenido del archivo ZIP en una carpeta de tu elección (por ejemplo, `C:\ZXGM` en Windows o `~/zxgm` en macOS/Linux). 
-4. 
+
 > Si has clonado el repositorio, no necesitarás realizar este ultimo paso.
 
 ## Paso 2: Instalación de dependencias
@@ -126,7 +126,7 @@ Algunas dependencias adicionales, como la librería el compilador de Boriel Basi
 3. **Prueba el entorno**:
     - Navega a la carpeta del proyecto en una terminal:
         
-        ```bash
+  ```bash
         cd /ruta/a/zx-game-maker
         ```
         

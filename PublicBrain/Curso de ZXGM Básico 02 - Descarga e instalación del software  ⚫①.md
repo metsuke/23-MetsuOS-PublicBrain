@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-03T09:28:28.444Z
-modified: 2025-08-03T09:35:11.989Z
+modified: 2025-08-03T11:47:54.116Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 1
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,7 +28,9 @@ tags:
 
 > OJO WIP
 
-En este segundo capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás cómo descargar e instalar el software necesario para comenzar a desarrollar videojuegos para el ZX Spectrum. Este tutorial está diseñado para usuarios de todos los niveles, desde principiantes hasta aquellos con experiencia previa, y cubre los pasos para configurar el entorno en sistemas operativos modernos (Windows, macOS y Linux). 
+En este segundo capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás cómo descargar e instalar el software necesario para comenzar a desarrollar videojuegos para el ZX Spectrum. 
+
+Este tutorial está diseñado para usuarios de todos los niveles, desde principiantes hasta aquellos con experiencia previa, y cubre los pasos para configurar el entorno en sistemas operativos modernos (Windows, macOS y Linux). 
 
 Siguiendo estas instrucciones, tendrás un entorno funcional para empezar a crear tus propios juegos retro.
 
@@ -46,16 +48,18 @@ Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
 ZX Game Maker es un proyecto de código abierto alojado en GitHub. Sigue estos pasos para obtener la última versión:
 
-1. **Visita el repositorio oficial**: Accede al repositorio de ZX Game Maker en GitHub ([enlace al repositorio](https://github.com/Juntelart/zx-game-maker) 🌐). Si no está disponible, consulta la documentación oficial en el grupo de Telegram de ZXGM o en foros como Spectrum Computing.
-2. **Descarga la versión más reciente**: "H"az clic en el botón verde "Code" y selecciona "Download ZIP" para descargar el archivo comprimido. Alternativamente, si tienes Git instalado, puedes clonar el repositorio con el comando:
+1. **Visita el repositorio oficial**: Accede al repositorio de ZX Game Maker en GitHub ([Enlace al reposotorio 🌐🟡③](https://github.com/rtorralba/zx-game-maker)). Si no está disponible, consulta la documentación oficial en el grupo de Telegram de ZXGM o en foros como Spectrum Computing.
+2. **Descarga la versión más reciente**: Haz clic en el botón verde "Code" y selecciona "Download ZIP" para descargar el archivo comprimido. Alternativamente, si tienes Git instalado, puedes clonar el repositorio con el comando:
     
     ```bash
-    git clone https://github.com/Juntelart/zx-game-maker.git
+    git clone https://github.com/rtorralba/zx-game-maker.git
     ```
     
-3. **Descomprime el archivo**: Extrae el contenido del archivo ZIP en una carpeta de tu elección (por ejemplo, `C:\ZXGM` en Windows o `~/zxgm` en macOS/Linux).
+3. **Descomprime el archivo**: Extrae el contenido del archivo ZIP en una carpeta de tu elección (por ejemplo, `C:\ZXGM` en Windows o `~/zxgm` en macOS/Linux). 
+4. 
+> Si has clonado el repositorio, no necesitarás realizar este ultimo paso.
 
-## Paso 2: "I"nstalación de dependencias
+## Paso 2: Instalación de dependencias
 
 ZX Game Maker requiere varias herramientas y lenguajes para funcionar correctamente. A continuación, se detalla cómo instalar cada una:
 
@@ -65,7 +69,7 @@ Python es necesario para ejecutar los scripts que generan los juegos.
 
 - **Windows/macOS**:
     
-    1. Descarga la última versión de Python desde [python.org](https://www.python.org/downloads/) 🌐.
+    1. Descarga la última versión de Python desde [python.org 🌐🟡③](https://www.python.org/downloads/).
     2. Ejecuta el instalador y asegúrate de marcar la opción "Add Python to PATH".
     3. Verifica la instalación abriendo una terminal y ejecutando:
         
@@ -73,7 +77,7 @@ Python es necesario para ejecutar los scripts que generan los juegos.
         python --version
         ```
         
-        Deberías ver la versión instalada (por ejemplo, Python 3.10.x).
+        Deberías ver la versión instalada (por ejemplo, Python 3.13.x).
 - **Linux**:
     
     1. La mayoría de las distribuciones ya incluyen Python. Verifica ejecutando:
@@ -87,47 +91,29 @@ Python es necesario para ejecutar los scripts que generan los juegos.
         ```bash
         sudo apt install python3 python3-pip
         ```
-        
+ 
 
-### 2.2. Boriel’s ZX Basic
-
-Boriel’s ZX Basic es el compilador utilizado para generar código compatible con ZX Spectrum.
-
-1. Descarga la última versión desde el sitio oficial ([zxbasic.readthedocs.io](https://zxbasic.readthedocs.io/) 🌐).
-2. Sigue las instrucciones específicas para tu sistema operativo. En general:
-    - **Windows**: Descarga el instalador y ejecuta el archivo `.exe`.
-    - **macOS/Linux**: Instala usando pip:
-        
-        ```bash
-        pip3 install zxbasic
-        ```
-        
-3. Verifica la instalación ejecutando:
-    
-    ```bash
-    zxb --version
-    ```
-    
-
-### 2.3. Tiled (Editor de mapas)
+### 2.2. Tiled (Editor de mapas)
 
 Tiled es una herramienta recomendada para crear mapas de juego.
 
-1. Descarga Tiled desde [mapeditor.org](https://www.mapeditor.org/) 🌐.
+> Se recomienda mínimo 1.11.2, ya que (a fecha 3 de Agosto de 2025) es la última versión estable que incluye mejoras significativas en soporte de .tiled-project, incorporado en ZX Game Maker a partir de Octubre de 2024.
+
+1. Descarga Tiled desde [mapeditor.org 🌐🟡③](https://www.mapeditor.org/) 
 2. Instala siguiendo las instrucciones del instalador para tu sistema operativo.
 3. Abre Tiled para asegurarte de que funciona correctamente. No necesitas configurarlo aún; ZXGM incluye plantillas compatibles en la carpeta `assets`.
 
-### 2.4. ZX Paintbrush (Editor gráfico)
+### 2.3. ZX Paintbrush (Editor gráfico)
 
 ZX Paintbrush es ideal para crear gráficos que respeten las limitaciones del ZX Spectrum.
 
 1. Descarga ZX Paintbrush desde su sitio oficial o desde un enlace proporcionado en la documentación de ZXGM.
-2. Instala el programa. En Windows, es un ejecutable; en macOS/Linux, puede requerir compilación o instalación manual.
+2. Instala el programa. En Windows, es un ejecutable; en macOS/Linux, necesitarás usar [wine  🌐🟡③](https://www.winehq.org).
 3. Abre ZX Paintbrush y verifica que puedes crear un archivo `.zxp`.
 
-### 2.5. Otras dependencias
+### 2.4. Otras dependencias
 
-Algunas dependencias adicionales, como la librería GuSprites, se incluyen en el repositorio de ZXGM. Asegúrate de no modificar la carpeta `libs` dentro del proyecto descargado.
+Algunas dependencias adicionales, como la librería el compilador de Boriel Basic o GuSprites, se incluyen en el repositorio de ZXGM y se cargarán automaticamente en tu carpeta al ejecutar la instalación de dependencias anteriormente descrita. Asegúrate de no modificar la carpeta `libs` dentro del proyecto descargado.
 
 ## Paso 3: Configuración del entorno
 
@@ -150,7 +136,7 @@ Algunas dependencias adicionales, como la librería GuSprites, se incluyen en el
 ## Paso 4: Verificación de la instalación
 
 1. **Ejecuta un emulador de ZX Spectrum**:
-    - Descarga un emulador como Fuse ([fuse-emulator.sourceforge.io](https://fuse-emulator.sourceforge.io/) 🌐) o Speccy.
+    - Descarga un emulador como Fuse ([fuse-emulator.sourceforge.io  🌐🟡③](https://fuse-emulator.sourceforge.io/)) 
     - Carga el archivo generado en `dist` (por ejemplo, `game.tap`) en el emulador para verificar que funciona.
 2. **Revisa el mapa de memoria**:
     - En la carpeta `dist`, encontrarás un archivo de mapa de memoria que detalla el uso de recursos. Úsalo para asegurarte de que el juego cumple con las limitaciones del ZX Spectrum (48k o 128k).
@@ -166,7 +152,7 @@ Para más ayuda, consulta el grupo de Telegram de ZXGM o los tutoriales en víde
 
 ## Conclusión
 
-Con ZX Game Maker y sus dependencias instaladas, estás listo para comenzar a crear videojuegos para el ZX Spectrum. En el próximo capítulo, exploraremos cómo usar Tiled y ZX Paintbrush para diseñar los primeros elementos de un juego. ¡Prepárate para dar vida a tus ideas retro!
+Con ZX Game Maker y sus dependencias instaladas, estás listo para comenzar a crear videojuegos para el ZX Spectrum. En el próximo capítulo, seguiremos avanzando en nuestro aprendizaje. ¡Prepárate para dar vida a tus ideas!
 
 ## Referencias Bibliográficas
 

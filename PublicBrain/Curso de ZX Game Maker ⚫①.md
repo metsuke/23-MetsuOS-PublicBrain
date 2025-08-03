@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-07-29T14:39:07.452Z
+modified: 2025-08-03T09:28:18.918Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -47,19 +47,28 @@ Este motor permite a usuarios de todos los niveles, desde principiantes hasta de
 
 Contionuar leyendo en ... [[Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③]]
 
+--- column-end ---
+
+![Instalando ZXGM](PublicBrain/_resources/9631dcb41318e7af6a2f0ec170a515f6_MD5.jpg)
+## Capitulo 02: Descarga e instalación del software (WIP)
+
+En este segundo capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás cómo descargar e instalar el software necesario para comenzar a desarrollar videojuegos para el ZX Spectrum. Este tutorial está diseñado para usuarios de todos los niveles, desde principiantes hasta aquellos con experiencia previa, y cubre los pasos para configurar el entorno en sistemas operativos modernos (Windows, macOS y Linux). 
+
+Siguiendo estas instrucciones, tendrás un entorno funcional para empezar a crear tus propios juegos retro.
+
+Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación del software  ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 
-
+- Requisitos del sistema y versiones
+- Exploración de la estructura general del motor
 * Un juego para cada estilo posible
 	* "Cursed Zapatilla", el juego plataformero que crearemos durante el curso.
 	* "Zapatilla Bross", el juego arcade que crearemos durante el curso.
 	* "Zas Patillas", el juego cenital que crearemos durante el curso.
 	* "Zapaxxian", el juego de naves que intentaré hacer de forma experimental.
-- Descarga e instalación del software
-- Requisitos del sistema y versiones
-- Exploración de la estructura general del motor
 - Configuración de un nuevo proyecto
 - Pantalla de presentación y pantalla de victoria
 - El HUD

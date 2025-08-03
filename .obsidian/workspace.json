@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "655b84259261a830",
+        "id": "50a8b8843e5a03b0",
         "type": "tabs",
         "children": [
           {
-            "id": "d38659e66d89bb7e",
+            "id": "1cd3775914827c47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①.md",
+                "file": "PublicBrain/Curso de ZX Game Maker ⚫①.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①"
+              "title": "Curso de ZX Game Maker ⚫①"
             }
           }
         ]
@@ -201,11 +201,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d38659e66d89bb7e",
+  "active": "1cd3775914827c47",
   "lastOpenFiles": [
+    "PublicBrain/Curso de ZXGM Básico 02 - Descarga e instalación del software  ⚫①.md",
+    "PublicBrain/Curso de ZX Game Maker ⚫①.md",
+    "PublicBrain/_resources/9631dcb41318e7af6a2f0ec170a515f6_MD5.jpg",
+    "PublicBrain/Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③.md",
+    "Curso de ZXGM Básico 02 - Descarga e instalación del software  ⚫①.md",
+    "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
+    "KB.md",
+    "PublicBrain/Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①.md",
     "Novedades.md",
     "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
-    "PublicBrain/Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①.md",
     "Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①.md",
     "PublicBrain/_resources/9defbc9443997d93e700e8e640aac569_MD5.jpg",
@@ -222,23 +229,15 @@
     "_resources/d1ae4ab2705f7cf313534a352985c784_MD5.jpg",
     "PublicBrain/_resources/42282c8bd8d7b28f6de5718d3b0e2fea_MD5.jpg",
     "Blog - Cansado de construir sobre arenas movedizas - 2025-07-29.md",
-    "PublicBrain/Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③.md",
-    "PublicBrain/Curso de ZX Game Maker ⚫①.md",
     "PublicBrain/_resources/f4a1e4d529a440f11c0362c34fabdcc1_MD5.jpg",
     "PublicBrain/_resources/819d1a832dd77d86f5f41a57bde90e4d_MD5.jpg",
     "Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker?.md",
-    "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①.md",
     "Tutorial de AGD 2018 Capítulo 18 - Optimiza tu código ⚫①.md",
     "PublicBrain/_resources/87bb53230dbe4f7418528d90468c385d_MD5.jpg",
     "PublicBrain/Tutorial de AGD 2018 Capítulo 16 - Nuestro primer enemigo. ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capítulo 15 - El salto y sus posibilidades narrativas  ⚫①.md",
     "Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①.md",
-    "PublicBrain/_resources/de50fdb8c54a66c181e9c8473d6eaddc_MD5.jpg",
-    "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
-    "KB.md",
-    "PublicBrain/Dibujando formas básicas y gráficos (PixiJS) 🟡③.md",
-    "PublicBrain/Curso de PixiJS ⚫①.md",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

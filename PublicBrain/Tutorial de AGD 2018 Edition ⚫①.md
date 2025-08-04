@@ -9,17 +9,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-02T20:49:08.535Z
+modified: 2025-08-04T16:30:13.920Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 34
+ver_rev: 36
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Tutorial de AGD 2018 Edition ⚫①
+ # Tutorial de AGD 2018 Edition ⚫①
 
 ![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
 
@@ -258,15 +259,23 @@ Como ya vimos en [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|el c
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①]]
 
+--- column-end ---
+
+![Secuencia de victoria](PublicBrain/_resources/61d3f353b0e2b7406500962e60ab2b11_MD5.jpg)
+## Capítulo 22: Secuencia de victoria
+
+En el capítulo anterior vimos [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|el ciclo de vida]], y la [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①|secuencia de menú inicial]].
+
+Hoy veremos los fundamentos de la secuencia de victoria.
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-
-
-
-* Tutorial de AGD 2018 Capitulo 22
+* 
 * Tutorial de AGD 2018 Capitulo 23
 * Tutorial de AGD 2018 Capitulo 24
 * Tutorial de AGD 2018 Capitulo 25

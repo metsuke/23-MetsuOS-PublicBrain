@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-02T21:06:02.884Z
-modified: 2025-08-02T21:09:11.240Z
+modified: 2025-08-04T13:06:59.738Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Trabajando en la pantalla de menu](PublicBrain/_resources/9defbc9443997d93e700e8e640aac569_MD5.jpg)
  
  * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①|Siguiente >>]]
 
 Hoy comentaremos en lenguaje sencillo la pantalla de presentación.
 
@@ -60,7 +60,7 @@ En el próximo capítulo os comentaré el tema de los TEXTOS de los que se alime
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si no te has presentado, reagrúpate en la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①|Si tienes curiosidad por conocer más a quien te acaban de presentar, pasa a la página 21]]
-* Si tu te has presentado yo me he presentado y ha sido una buena conversación, pasa a la página 22
+* [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①|Si tu te has presentado yo me he presentado y ha sido una buena conversación, pasa a la página 22]]
 
 
 ![[Plantilla - 1MT#One More Thing]]

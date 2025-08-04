@@ -27,15 +27,15 @@ Number of Columns: 2
 Border: off
 ```
 
-![Trabajando en la pantalla de menu](PublicBrain/_resources/9defbc9443997d93e700e8e640aac569_MD5.jpg)
+![Secuencia de victoria](PublicBrain/_resources/61d3f353b0e2b7406500962e60ab2b11_MD5.jpg)
+## Capítulo 22: Secuencia de victoria
 
-## Capítulo 21: Menú de Presentación
+En el capítulo anterior vimos [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|el ciclo de vida]], y la [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①|secuencia de menú inicial]].
 
-Hoy comentaremos en lenguaje sencillo la pantalla de presentación.
+Hoy veremos los fundamentos de la secuencia de victoria.
 
-Como ya vimos en [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|el capítulo dedicado al ciclo de vida]], el cometido del menú de presentación es sencillamente introducirnos al juego y ofrecernos las opciones de control, una vez seleccionado el control comenzará la partida.
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①]]
 
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①]]
 
 --- column-end ---
 

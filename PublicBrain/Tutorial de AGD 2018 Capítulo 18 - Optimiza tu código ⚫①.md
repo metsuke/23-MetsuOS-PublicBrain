@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-27T16:57:50.370Z
-modified: 2025-07-30T04:42:05.794Z
+modified: 2025-08-06T22:54:06.522Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![Optimizacion de codigo](PublicBrain/_resources/87bb53230dbe4f7418528d90468c385d_MD5.jpg)
 
- * [[Tutorial de AGD 2018 Edition ⚫①]]
+* [[Tutorial de AGD 2018 Edition ⚫①]]
 * [[Tutorial de AGD 2018 Capítulo 17 - Puntuación y Vidas ⚫①|<< Anterio]] | [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|Siguiente >>]]
 
 Hemos empezado a escribir código en el editor de AGD, y 0quisiera [[Tutorial de AGD 2018 Capítulo 13 - Manual de uso del Editor de Código ⚫①|amploar las instrucciones que comentamos en un capítulo anterior]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-02T21:06:02.884Z
-modified: 2025-08-04T13:06:59.738Z
+modified: 2025-08-06T22:53:46.611Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![Trabajando en la pantalla de menu](PublicBrain/_resources/9defbc9443997d93e700e8e640aac569_MD5.jpg)
  
- * [[Tutorial de AGD 2018 Edition ⚫①]]
+* [[Tutorial de AGD 2018 Edition ⚫①]]
 * [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①|Siguiente >>]]
 
 Hoy comentaremos en lenguaje sencillo la pantalla de presentación.

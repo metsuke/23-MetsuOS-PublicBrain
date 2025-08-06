@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-30T04:40:22.150Z
-modified: 2025-08-01T04:01:00.454Z
+modified: 2025-08-06T22:54:00.447Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![Ciclo de vida](PublicBrain/_resources/12ff93fbb99bffab5cfc48cfc9e0fc87_MD5.jpg)
 
- * [[Tutorial de AGD 2018 Edition ⚫①]]
+* [[Tutorial de AGD 2018 Edition ⚫①]]
 * [[Tutorial de AGD 2018 Capítulo 18 - Optimiza tu código ⚫①|<< Anterio]] | [[Tutorial de AGD 2018 Capítulo 20 - Creando Objetos ⚫①|Siguiente >>]]
 
 ¿Ciclo de vida? si, con ello me refiero a los eventos, en que orden y cuando se ejecutan. Es importante reseñar que en AGD no hay concurrencia, es absolutamente lineal, por lo que solo se puede ejecutar una cosa al tiempo.

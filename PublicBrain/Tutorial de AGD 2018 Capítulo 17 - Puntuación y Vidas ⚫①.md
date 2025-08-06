@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-26T05:42:37.582Z
-modified: 2025-07-27T16:58:41.306Z
+modified: 2025-08-06T22:54:13.481Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![Game Over en JBA](PublicBrain/_resources/de50fdb8c54a66c181e9c8473d6eaddc_MD5.jpg)
 
- * [[Tutorial de AGD 2018 Edition ⚫①]]
+* [[Tutorial de AGD 2018 Edition ⚫①]]
 * [[Tutorial de AGD 2018 Capítulo 16 - Nuestro primer enemigo. ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 18 - Optimiza tu código ⚫①|Siguiente >>]]
 
 En el anterior capítulo creamos nuestro primer enemigo, es hora de gestionar el proceso cuando un enemigo, o el escenario "nos mata", no es dificil, pero hay que pensarlo con cuidado.

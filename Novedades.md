@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-02T21:13:27.013Z
+modified: 2025-08-04T16:30:37.543Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 57
+ver_rev: 58
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,15 +27,15 @@ Number of Columns: 2
 Border: off
 ```
 
-![Secuencia de victoria](PublicBrain/_resources/61d3f353b0e2b7406500962e60ab2b11_MD5.jpg)
-## Capítulo 22: Secuencia de victoria
 
-En el capítulo anterior vimos [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|el ciclo de vida]], y la [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①|secuencia de menú inicial]].
+![Representacion de un z80](PublicBrain/_resources/b346d5ada3687baed1e807dcac666875_MD5.jpg)
+## Capítulo 23: Efectos de Sonido con Beep
 
-Hoy veremos los fundamentos de la secuencia de victoria.
+AGD nos brinda dos modos básicos de emitir sonido, en el capítulo de hoy centramos nuestra atención en [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|el comando BEEP]]
 
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①]]
+A diferencia del BEEP de BASIC en ZX Spectrum, el comando en AGD solo recibe un parámetro, la duración, a mayor número, mayor duración. 
 
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 23 - Efectos de sonido con Beep ⚫①]]
 
 --- column-end ---
 

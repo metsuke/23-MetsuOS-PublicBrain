@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-04T16:30:13.920Z
+modified: 2025-08-06T22:42:01.921Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 36
+ver_rev: 38
 nav_primary: 
 nav_secondary: 
 tags:
@@ -270,13 +270,23 @@ Hoy veremos los fundamentos de la secuencia de victoria.
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①]]
 
+--- column-end ---
+
+![Representacion de un z80](PublicBrain/_resources/b346d5ada3687baed1e807dcac666875_MD5.jpg)
+## Capítulo 23: Efectos de Sonido con Beep
+
+AGD nos brinda dos modos básicos de emitir sonido, en el capítulo de hoy centramos nuestra atención en [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|el comando BEEP]]
+
+A diferencia del BEEP de BASIC en ZX Spectrum, el comando en AGD solo recibe un parámetro, la duración, a mayor número, mayor duración. 
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 23 - Efectos de sonido con Beep ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-* 
-* Tutorial de AGD 2018 Capitulo 23
+
 * Tutorial de AGD 2018 Capitulo 24
 * Tutorial de AGD 2018 Capitulo 25
 * Tutorial de AGD 2018 Capitulo 26
@@ -286,13 +296,9 @@ Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de vic
 * Tutorial de AGD 2018 Capitulo 30
 * Tutorial de AGD 2018 Capitulo 31
 * Tutorial de AGD 2018 Capitulo 32
-* "33" - Evaluar Arkos Traker en lugar de Vortex por ser Mutiplataforma
-* "34" - Evaluar añadir musica al JBA original desde Arkos.
-* """35" - 📚 Preparar el curso en PDF para su salida en descarga a traves de Itchio y en fisico a traves de Lulu.com
-* """36""" - 📚 Preparar versiones en CA y EN (por ahora) del curso para pdf y fisico
-* """37""" - Evaluar si saco un curso de Arkos Tracker mientras aprendo y compongo la musica del JBA Original.
-* """"38""""" - Evaluar Posibilidad de Añadir mas elementos O lanzarme directamente a crear Spectrum desde AGD 4.7, ZX SPECTRUM MAKER, BORIEL, C  y ASM (creando MPL - MetsuOS Programming Languaje directamente y compilando desde ahi a las 5 versiones como prueba inicial de concepto de MGP - MetsuOS Game Platform)
-* """"""39"""""" - Crear la primera versione. de MGP en PixiJS y evaluar versiones community (AGPL?) y pro (disponible para Patreons con limites en función del nivel)
+* Completar parte de poner musica AY title + ingame (para ponerme al nivel de las versiones con musica AY de los fans con la 1.2... el resto de mejoras para el Remake)
+* Despues lanzar curso de "Creando un Remake: The Speccy Master Adventure"
+* En paralelo con el anterior crear curso de "Creando un Demake: Portando The Speccy Master Adventure a ZX Game Maker"
 
 
 ![[Plantilla - 1MT#One More Thing]]

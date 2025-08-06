@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-04T13:07:01.307Z
-modified: 2025-08-04T16:27:30.828Z
+modified: 2025-08-06T22:53:33.716Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,8 +23,8 @@ tags:
 
 ![Secuencia de victoria](PublicBrain/_resources/61d3f353b0e2b7406500962e60ab2b11_MD5.jpg)
 
- * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Edition ⚫①]]
+* [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 23 - Efectos de sonido con Beep ⚫①|Siguiente >>]]
 
 En el capítulo anterior vimos [[Tutorial de AGD 2018 Capítulo 19 - Ciclo de vida ⚫①|el ciclo de vida]], y la [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①|secuencia de menú inicial]], hoy veremos los fundamentos de la secuencia de victoria.
 
@@ -70,7 +70,7 @@ No tiene nada más, podéis investigar como hago los sonidos y gestionar el sile
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si no sabes como estaba la plaza, averígualo en la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 21 - Menú de Presentación ⚫①|Si tienes curiosidad por conocer más a quien se acaban de presentar en plaza, pasa a la página 21]]
 * [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①|Si la plaza estaba abarrotá, pasa a la página 22]]
-* Si sabes cantar ¡22!, ¡22, 22 , 22! correctamente, estás preparado para conocer al Duo Sacapuntas, en la página 23
+* [[Tutorial de AGD 2018 Capítulo 23 - Efectos de sonido con Beep ⚫①|Si sabes cantar ¡22!, ¡22, 22 , 22! correctamente, estás preparado para conocer al Duo Sacapuntas, en la página 23]]
 
 
 ![[Plantilla - 1MT#One More Thing]]

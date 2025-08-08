@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2025-07-20T12:05:28.301Z
+modified: 2025-08-08T22:05:37.986Z
 supervisado: 2024-06-03T19:56:58.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 119
+ver_rev: 120
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,11 +25,6 @@ tags:
 
 [[Aprender a desarrollar videojuegos  ⚫①]]
 
-Este es otro plan a 90-120 dias en el que desarrollaremos lo necesario para empezar a crear cosas en Web con esta plataforma.
-
-El contenido es temporal y tengo que afinarlo documento por documento para dotarlo de la continuidad y narrativa necesarias para que sea util como curso, pero de este modo podreis seguir el progreso casi en tiempo real.
-
----
 ## Introducción a PixiJS y Gráficos Básicos
 
 --- start-multi-column: AGD2018

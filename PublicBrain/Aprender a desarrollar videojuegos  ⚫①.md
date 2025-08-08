@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-08-08T20:27:51.600Z
+modified: 2025-08-08T21:57:50.712Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
@@ -59,7 +59,7 @@ Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta
 
 Desde los fundamentos hasta técnicas avanzadas, aprenderás a crear mapas para juegos de plataformas, RPG y más, integrándolos en motores de juego populares. 
 
-Continua leyendo en [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
+Continua leyendo en ... [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
 
 --- column-end ---
 
@@ -94,8 +94,6 @@ Bienvenidos al Curso de Visual Batari Basic, una emocionante oportunidad para ex
 
 Visual Batari Basic combina la simplicidad del lenguaje Batari Basic con un entorno visual intuitivo, permitiendo a principiantes y entusiastas crear juegos retro con facilidad, sin sacrificar la flexibilidad que los programadores más experimentados buscan. 
 
-Este es otro plan a 280-360 dias en el que desarrollaremos lo necesario para empezar a crear cosas en esta plataforma, salvando algunas dificultades como la ausencia de actualizaciones recientes, y la disponibilidad limitada de información.
-
 Continuar leyendo en [[Curso de Visual bB ⚫①]]
 
  --- column-end ---
@@ -107,7 +105,6 @@ Continuar leyendo en [[Curso de Visual bB ⚫①]]
 
 En este curso, exploraremos las fascinantes posibilidades de GB Studio, una herramienta gratuita y fácil de usar que permite a cualquier persona crear videojuegos al estilo retro para la Game Boy sin necesidad de conocimientos avanzados de programación. 
 
-Este es otro plan a 240-360 dias en el que desarrollaremos lo necesario para empezar a crear cosas en esta plataforma.
 
 Continuar leyendo en ... [[Curso de GB Studio ⚫①]]
 
@@ -120,8 +117,6 @@ CPCTelera es un potente motor de desarrollo diseñado para la creación de video
 
 Este curso está diseñado para introducir a los participantes en el fascinante mundo de la programación de videojuegos utilizando esta herramienta, ofreciendo una base sólida para aquellos que deseen explorar el desarrollo en plataformas clásicas. 
 
-Este es otro plan a 180-240 dias en el que desarrollaremos lo necesario para empezar a crear cosas en esta plataforma.
-
 Continuar leyendo en ... [[Curso de CPCTelera  ⚫①]]
 
  --- column-end ---
@@ -129,9 +124,7 @@ Continuar leyendo en ... [[Curso de CPCTelera  ⚫①]]
 ![El protagonista de la hipotetica portada de una publicacion sobre desarrollo retro con PixiJS](_resources/3a640ea5fc91cd21e4047a6f1204f906_MD5.jpg)
 ## Curso de PixiJS
 
-Este es otro plan a 90-120 dias en el que desarrollaremos lo necesario para empezar a crear cosas en Web con esta plataforma.
-
-El contenido es temporal y tengo que afinarlo documento por documento para dotarlo de la continuidad y narrativa necesarias para que sea util como curso, pero de este modo podreis seguir el progreso casi en tiempo real.
+**PixiJS** es una potente biblioteca de renderizado 2D en JavaScript diseñada para crear gráficos y animaciones interactivas de alta calidad en navegadores web. 
 
 Continuar leyendo en ... [[Curso de PixiJS ⚫①]]
 
@@ -142,7 +135,6 @@ Continuar leyendo en ... [[Curso de PixiJS ⚫①]]
 
 Hace poco dos fans del este curso, que no estaba disponible online desde 2021, me recordaron que no predicaba solo en el desierto. Si, me tocaron la patata, así que además de lo que tengo en mente, he tomado la determinación de tomarme el tiempo para rescatar aquelllos contenidos de mi vieja y maltrecha web wordpress e incorporarlos en esta nueva etapa. ¡Espero que disfruten creando juego tanto como yo creando el curso!...
 
-En este momento, este es un plan de restauración y republicación de entre 30-60 dias, modificandolo lo imprescindible para que funcione correctamente en esta nueva web. Ya habra tiempo de crear algo ... nuevo #tarjetita
 
 Continua leyendo en ... [[Tutorial de AGD 2018 Edition ⚫①]]
  

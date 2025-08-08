@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-08T20:26:42.009Z
-modified: 2025-08-08T20:30:00.937Z
+modified: 2025-08-08T21:54:07.071Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,8 +25,6 @@ tags:
 
 * [[Aprender a desarrollar videojuegos  ⚫①]]
 * Siguiente >>
-
-> OJO WIP
 
 Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta gratuita y de código abierto para diseñar mapas de niveles en videojuegos 2D. 
 

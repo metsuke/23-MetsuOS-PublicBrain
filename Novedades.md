@@ -35,7 +35,7 @@ Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta
 
 Desde los fundamentos hasta técnicas avanzadas, aprenderás a crear mapas para juegos de plataformas, RPG y más, integrándolos en motores de juego populares. 
 
-Continua leyendo en [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
+Continua leyendo en ... [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
 
 --- column-end ---
 

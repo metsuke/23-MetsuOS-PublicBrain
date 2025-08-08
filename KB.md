@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-07-20T21:40:26.244Z
+modified: 2025-08-08T21:58:24.068Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 22
+ver_rev: 23
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,17 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
+## Aprender a desarrollar videojuegos
+
+Aprender a desarrollar videojuegos es una aventura apasionante que combina creatividad, tecnología y narrativa. 
+
+Este proceso no solo implica programar, sino también diseñar mundos, personajes e historias que cautiven a los jugadores. Desde pequeños proyectos independientes hasta grandes producciones AAA, el desarrollo de videojuegos ofrece un espacio para explorar ideas innovadoras y conectar con audiencias globales. 
+
+Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
+
+ --- column-end ---
 
 ![Galeria Imagenes Cabecera](PublicBrain/_resources/2488e3400cbb8967b8c240f1095f5225_MD5.jpeg)
 
@@ -39,16 +50,6 @@ Continuar leyendo en ... [[Galería de Imágenes de Efemétides  ⚫①]]
 
 --- column-end ---
 
-![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
-## Aprender a desarrollar videojuegos
-
-Aprender a desarrollar videojuegos es una aventura apasionante que combina creatividad, tecnología y narrativa. 
-
-Este proceso no solo implica programar, sino también diseñar mundos, personajes e historias que cautiven a los jugadores. Desde pequeños proyectos independientes hasta grandes producciones AAA, el desarrollo de videojuegos ofrece un espacio para explorar ideas innovadoras y conectar con audiencias globales. 
-
-Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
-
- --- column-end ---
 
 ![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)
 ## Aprendeizaje basado en evidencia

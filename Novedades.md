@@ -28,6 +28,17 @@ Border: off
 ```
 
 
+![Editor de sonidos AY de AGD](PublicBrain/_resources/f4182946b622c16a7af056201cfb26fa_MD5.jpg)
+## Capítulo 24: Efectos de Sonido con el chip AY
+
+En el anterior capítulo hablamos de [[Tutorial de AGD 2018 Capítulo 23 - Secuencia de victoria ⚫①|los efectos de sonido con BEEP]], hoy comentaremos como manejar la opcion SOUNDS que usa el chip AY.
+
+Lo primero, como siempre, entramos con la opción F, y se vuelve al menú, como siempre, con [la tecla INTRO 🌐](https://www.instagram.com/p/CC7RdRGo1Xj/?utm_source=ig_web_copy_link), verán una pantalla que se parece a un tracker mod, pero adaptado al estilo AGD
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①]]
+
+--- column-end ---
+
 ![Instalando ZXGM](PublicBrain/_resources/9631dcb41318e7af6a2f0ec170a515f6_MD5.jpg)
 ## Capitulo 02: Descarga e instalación del software
 
@@ -38,17 +49,6 @@ Este tutorial está diseñado para usuarios de todos los niveles, desde principi
 Siguiendo estas instrucciones, tendrás un entorno funcional para empezar a crear tus propios juegos retro.
 
 Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③]]
-
---- column-end ---
-
-![Representacion de un z80](PublicBrain/_resources/b346d5ada3687baed1e807dcac666875_MD5.jpg)
-## Capítulo 23: Efectos de Sonido con Beep
-
-AGD nos brinda dos modos básicos de emitir sonido, en el capítulo de hoy centramos nuestra atención en [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|el comando BEEP]]
-
-A diferencia del BEEP de BASIC en ZX Spectrum, el comando en AGD solo recibe un parámetro, la duración, a mayor número, mayor duración. 
-
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 23 - Efectos de sonido con Beep ⚫①]]
 
 --- column-end ---
 

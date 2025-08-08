@@ -69,12 +69,12 @@ En este video (minuto 14 en adelante) de su canal nos lo cuenta en detalle:
 
 Quiero crear músicas para JBA así que toca estudiar, [por ahora empezaré por este hilo 🌐🟡③](https://www.va-de-retro.com/foros/viewtopic.php?t=1109), e iré avanzando, espero poder contaros lo básico de cómo hacerlo la próxima semana (mandadme ánimos, los voy a necesitar xD)
 
+> **NdA en 2025**: Aunque originalmente estaba convencido de llevar a cabo esta cuestion en el AGD original y luego saltar a lo moderno, al meditarlo he decidido cambiar de idea. Ademas de colaborar con otros makers y usar lo que traen por defecto para musica y sonido, quiero crear mi propio maker, online, y que sea capaz de exportar a los makers sobre los que hare cursos Y, compilar con codigo propio, mi propio motor, corre de MOS Game Maker. La cuestion es que no le veo sentido a invertir más tiempo en esta version de AGD y creo que es mejor que apoue en ZX Game Maker en su lugar.
 ## Referencias Bibliográficas
 
 - **Ninguna fuente verificable disponible**.  
 
 ## Y ahora que?
-
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si vas a hacer pipi, ve cantando pipipi pipipi! a la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 23 - Secuencia de victoria ⚫①|Si por lo que sea aún te pitan los oidos, pita pita pita del hasta la página 23]]

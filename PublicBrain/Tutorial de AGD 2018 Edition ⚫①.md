@@ -286,7 +286,9 @@ Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 23 - Efectos de sonid
 ![Editor de sonidos AY de AGD](PublicBrain/_resources/f4182946b622c16a7af056201cfb26fa_MD5.jpg)
 ## Capítulo 24: Efectos de Sonido con el chip AY
 
+En el anterior capítulo hablamos de [[Tutorial de AGD 2018 Capítulo 23 - Secuencia de victoria ⚫①|los efectos de sonido con BEEP]], hoy comentaremos como manejar la opcion SOUNDS que usa el chip AY.
 
+Lo primero, como siempre, entramos con la opción F, y se vuelve al menú, como siempre, con [la tecla INTRO 🌐](https://www.instagram.com/p/CC7RdRGo1Xj/?utm_source=ig_web_copy_link), verán una pantalla que se parece a un tracker mod, pero adaptado al estilo AGD
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①]]
 
@@ -305,9 +307,9 @@ Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonid
 * Tutorial de AGD 2018 Capitulo 30
 * Tutorial de AGD 2018 Capitulo 31
 * Tutorial de AGD 2018 Capitulo 32
-* Completar parte de poner musica AY title + ingame (para ponerme al nivel de las versiones con musica AY de los fans con la 1.2... el resto de mejoras para el Remake)
-* Despues lanzar curso de "Creando un Remake: The Speccy Master Adventure"
-* En paralelo con el anterior crear curso de "Creando un Demake: Portando The Speccy Master Adventure a ZX Game Maker"
 
+```pre
+Cerramos aqui esta republicación del curso original de AGD de 2018, y nos centramos en [[[Curso de ZX Game Maker ⚫①]] y otros mas modernos, así como en la creacion de MOS Game Maker. Ya os contare xD.
+```
 
 ![[Plantilla - 1MT#One More Thing]]

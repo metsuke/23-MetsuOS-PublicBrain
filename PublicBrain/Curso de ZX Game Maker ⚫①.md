@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-08-03T09:28:18.918Z
+modified: 2025-08-08T02:13:47.742Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -63,8 +63,6 @@ Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación de
  --- column-end ---
 --- multi-column-end
 
-
-- Requisitos del sistema y versiones
 - Exploración de la estructura general del motor
 * Un juego para cada estilo posible
 	* "Cursed Zapatilla", el juego plataformero que crearemos durante el curso.

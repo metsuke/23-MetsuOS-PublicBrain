@@ -21,6 +21,8 @@ tags:
 ---
 # Tutorial de AGD 2018 Capítulo 23 - Efectos de sonido con Beep ⚫①
 
+![Representacion de un z80](PublicBrain/_resources/b346d5ada3687baed1e807dcac666875_MD5.jpg)
+
 * [[Tutorial de AGD 2018 Edition ⚫①]]
 * [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①|<< Anterior]] | Siguiente >>
 

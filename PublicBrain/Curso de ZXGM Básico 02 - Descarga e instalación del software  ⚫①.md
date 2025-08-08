@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-03T09:28:28.444Z
-modified: 2025-08-03T18:52:49.908Z
+modified: 2025-08-08T01:38:24.188Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,8 +25,6 @@ tags:
 
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③|<< Anterior]] | Siguiente >>
-
-> OJO WIP
 
 En este segundo capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás cómo descargar e instalar el software necesario para comenzar a desarrollar videojuegos para el ZX Spectrum. 
 
@@ -117,30 +115,35 @@ Algunas dependencias adicionales, como la librería el compilador de Boriel Basi
 
 ## Paso 3: Configuración del entorno
 
-1. **Organiza la carpeta del proyecto**:
-    - Asegúrate de que la carpeta descomprimida de ZXGM contiene las subcarpetas `assets`, `libs` y `dist`.
-    - La carpeta `assets` incluye archivos como `maps.tiled-project` y `tiles.zxp` para configurar mapas y gráficos.
-2. **Configura las variables de entorno (opcional)**:
-    - En Windows, añade las rutas de Python y ZX Basic al PATH si no se configuraron automáticamente.
-    - En macOS/Linux, verifica que los comandos `python3` y `zxb` sean accesibles desde la terminal.
-3. **Prueba el entorno**:
-    - Navega a la carpeta del proyecto en una terminal:
-        
-  ```bash
-        cd /ruta/a/zx-game-maker
-        ```
-        
-    - Ejecuta el script de prueba proporcionado (por ejemplo, `make-game-win bat` en Windows o `make-game.sh` en macOS/Linux).
-    - Si no hay errores, se generará un archivo de juego en la carpeta `dist`.
+### Organiza la carpeta del proyecto
+    
+Asegúrate de que la carpeta descomprimida de ZXGM contiene las subcarpetas `assets`, `src` y `dist`.
+
+La carpeta `assets` incluye archivos como `maps.tiled-project` y `tiles.zxp` para configurar mapas y gráficos..
+## Prueba el entorno:
+
+Navega a la carpeta del proyecto en una terminal y arranca el entorno:
+
+```bash
+cd /ruta/a/zx-game-maker
+python zxsgm.py
+```
+
+Aparecerá la pantalla de aplicación en mi caso de color oscuro, en el tuyo podría ser de color claro, pero en todo caso se parecerá mucho (como diria el gran [Hovik Keuchkerian](https://www.bing.com/videos/riverview/relatedvideo?q=monologo+de+las+croquetas&mid=92E0F0DBEE36F08B4EFD92E0F0DBEE36F08B4EFD&FORM=VIRE) mucho más que muchísimo y muchísimo más que más)
+
+![Interfaz de ZXGameMaker](PublicBrain/_resources/ea5edf6a0a50c5eae901d4a662e35336_MD5.jpeg)
+    
+- Comprobamos ejecutando el menu Game/Build y esperar a que se complete el proceso, si no hay errores, se generará un archivo de juego (Game-Name.tap) en la carpeta `dist`.
 
 ## Paso 4: Verificación de la instalación
 
 1. **Ejecuta un emulador de ZX Spectrum**:
     - Descarga un emulador como Fuse ([fuse-emulator.sourceforge.io  🌐🟡③](https://fuse-emulator.sourceforge.io/)) 
-    - Carga el archivo generado en `dist` (por ejemplo, `game.tap`) en el emulador para verificar que funciona.
+    - Carga el archivo generado en `dist` (Game-Name.tap) en el emulador para verificar que funciona.
 2. **Revisa el mapa de memoria**:
-    - En la carpeta `dist`, encontrarás un archivo de mapa de memoria que detalla el uso de recursos. Úsalo para asegurarte de que el juego cumple con las limitaciones del ZX Spectrum (48k o 128k).
+    - En la carpeta `output`, encontrarás un archivo de mapa de memoria que detalla el uso de recursos. Úsalo para asegurarte de que el juego cumple con las limitaciones del ZX Spectrum (48k o 128k).
 
+![Pantalla del juego de ejemplo](PublicBrain/_resources/82bda056373be69ec31ed15b448290bd_MD5.jpeg)
 ## Solución de problemas comunes
 
 - **Python no encontrado**: Asegúrate de que Python está en el PATH y usa `python3` en Linux/macOS.

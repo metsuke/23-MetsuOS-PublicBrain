@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-04T16:30:37.543Z
+modified: 2025-08-08T02:15:51.438Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 58
+ver_rev: 60
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,19 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Instalando ZXGM](PublicBrain/_resources/9631dcb41318e7af6a2f0ec170a515f6_MD5.jpg)
+## Capitulo 02: Descarga e instalación del software (WIP)
+
+En este segundo capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás cómo descargar e instalar el software necesario para comenzar a desarrollar videojuegos para el ZX Spectrum. 
+
+Este tutorial está diseñado para usuarios de todos los niveles, desde principiantes hasta aquellos con experiencia previa, y cubre los pasos para configurar el entorno en sistemas operativos modernos (Windows, macOS y Linux). 
+
+Siguiendo estas instrucciones, tendrás un entorno funcional para empezar a crear tus propios juegos retro.
+
+Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación del software  ⚫①]]
+
+--- column-end ---
 
 ![Representacion de un z80](PublicBrain/_resources/b346d5ada3687baed1e807dcac666875_MD5.jpg)
 ## Capítulo 23: Efectos de Sonido con Beep
@@ -47,17 +60,6 @@ Desde que comencé a programar, siempre ha sido la misma historia, cuando empiez
 Está claro que nada dura para siempre, pero empiezo a estar muy cansado de la tendencia del mundo del retro a pensar en local, en pequeño, y que el que venga "se busque la vida", yo hago mi herramienta para mi windows, dejo que mi ego me impida abrir el codigo y cuando desaparezco, me llevo media scene conmigo o, cuando menos dificulto su trabajo. Esto debe terminar.
 
 Continua leyendo en ... [[Blog - Cansado de construir sobre arenas movedizas - 2025-07-29 ⚫①]]
-
---- column-end ---
-
-![Que es ZXGM](PublicBrain/_resources/f4a1e4d529a440f11c0362c34fabdcc1_MD5.jpg)
-## Capítulo 01: ¿Qué es ZX Game Maker?
-
-ZX Game Maker es una herramienta innovadora diseñada para crear videojuegos compatibles con el ZX Spectrum, la emblemática computadora doméstica de los años 80. 
-
-Este motor permite a usuarios de todos los niveles, desde principiantes hasta desarrolladores experimentados, diseñar videojuegos en 2D de forma visual e intuitiva, sin requerir conocimientos avanzados de programación. 
-
-Contionuar leyendo en ... [[Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③]]
 
 --- column-end ---
 

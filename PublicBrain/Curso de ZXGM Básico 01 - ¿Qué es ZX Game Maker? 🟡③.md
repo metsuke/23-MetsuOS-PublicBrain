@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-29T11:42:28.559Z
-modified: 2025-08-03T09:35:45.263Z
+modified: 2025-08-08T02:23:02.354Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Que es ZXGM](PublicBrain/_resources/819d1a832dd77d86f5f41a57bde90e4d_MD5.jpg)
 
 * [[Curso de ZX Game Maker ⚫①]]
-* [[Curso de ZXGM Básico 02 - Descarga e instalación del software  ⚫①|Siguiente >>]]
+* [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③|Siguiente >>]]
 
 ZX Game Maker es una herramienta innovadora diseñada para crear videojuegos compatibles con el ZX Spectrum, la emblemática computadora doméstica de los años 80. Este motor permite a usuarios de todos los niveles, desde principiantes hasta desarrolladores experimentados, diseñar videojuegos en 2D de forma visual e intuitiva, sin requerir conocimientos avanzados de programación. 
 

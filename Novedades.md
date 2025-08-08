@@ -9,7 +9,7 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-08T02:15:51.438Z
+modified: 2025-08-08T02:23:02.330Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
@@ -29,7 +29,7 @@ Border: off
 
 
 ![Instalando ZXGM](PublicBrain/_resources/9631dcb41318e7af6a2f0ec170a515f6_MD5.jpg)
-## Capitulo 02: Descarga e instalación del software (WIP)
+## Capitulo 02: Descarga e instalación del software
 
 En este segundo capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás cómo descargar e instalar el software necesario para comenzar a desarrollar videojuegos para el ZX Spectrum. 
 
@@ -37,7 +37,7 @@ Este tutorial está diseñado para usuarios de todos los niveles, desde principi
 
 Siguiendo estas instrucciones, tendrás un entorno funcional para empezar a crear tus propios juegos retro.
 
-Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación del software  ⚫①]]
+Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③]]
 
 --- column-end ---
 
@@ -62,6 +62,7 @@ Está claro que nada dura para siempre, pero empiezo a estar muy cansado de la t
 Continua leyendo en ... [[Blog - Cansado de construir sobre arenas movedizas - 2025-07-29 ⚫①]]
 
 --- column-end ---
+
 
 ![Galeria Imagenes Cabecera](PublicBrain/_resources/2488e3400cbb8967b8c240f1095f5225_MD5.jpeg)
 

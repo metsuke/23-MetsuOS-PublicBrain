@@ -50,7 +50,7 @@ Contionuar leyendo en ... [[Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 
 --- column-end ---
 
 ![Instalando ZXGM](PublicBrain/_resources/9631dcb41318e7af6a2f0ec170a515f6_MD5.jpg)
-## Capitulo 02: Descarga e instalación del software (WIP)
+## Capitulo 02: Descarga e instalación del software
 
 En este segundo capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás cómo descargar e instalar el software necesario para comenzar a desarrollar videojuegos para el ZX Spectrum. 
 
@@ -58,7 +58,7 @@ Este tutorial está diseñado para usuarios de todos los niveles, desde principi
 
 Siguiendo estas instrucciones, tendrás un entorno funcional para empezar a crear tus propios juegos retro.
 
-Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación del software  ⚫①]]
+Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③]]
 
  --- column-end ---
 --- multi-column-end

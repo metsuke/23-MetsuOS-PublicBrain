@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-03T09:28:28.444Z
-modified: 2025-08-08T01:38:24.188Z
+modified: 2025-08-08T08:13:45.066Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Curso de ZXGM Básico 02 - Descarga e instalación del software  ⚫①
+# Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③
 
 ![Instalando ZXGM](PublicBrain/_resources/9631dcb41318e7af6a2f0ec170a515f6_MD5.jpg)
 
@@ -61,7 +61,15 @@ ZX Game Maker es un proyecto de código abierto alojado en GitHub. Sigue estos p
 
 ZX Game Maker requiere varias herramientas y lenguajes para funcionar correctamente. A continuación, se detalla cómo instalar cada una:
 
-### 2.1. Python
+### 2.1 Script de instalacion de ZXGM
+
+Abre una terminal o programa de linea de comandos que uses en tu sistema y muevete a la carpeta de ZXGM con `cd /ruta/a/zx-game-maker`o  equivalente para situarte en la carpeta del maker:
+
+- **Windows**: Ejecuta el scriot `install.windows.bat`
+- **Linux/MacOS**: Ejecuta el scriopt `install.sh`
+
+Sigue las instrucciones en pantalla, y asegúrate de llegar a tiempo al andén 9 3/4... esto iniciará la magia :)
+### 2.2. Python
 
 Python es necesario para ejecutar los scripts que generan los juegos.
 
@@ -91,7 +99,7 @@ Python es necesario para ejecutar los scripts que generan los juegos.
         ```
  
 
-### 2.2. Tiled (Editor de mapas)
+### 2.3. Tiled (Editor de mapas)
 
 Tiled es una herramienta recomendada para crear mapas de juego.
 
@@ -101,7 +109,7 @@ Tiled es una herramienta recomendada para crear mapas de juego.
 2. Instala siguiendo las instrucciones del instalador para tu sistema operativo.
 3. Abre Tiled para asegurarte de que funciona correctamente. No necesitas configurarlo aún; ZXGM incluye plantillas compatibles en la carpeta `assets`.
 
-### 2.3. ZX Paintbrush (Editor gráfico)
+### 2.4. ZX Paintbrush (Editor gráfico)
 
 ZX Paintbrush es ideal para crear gráficos que respeten las limitaciones del ZX Spectrum.
 
@@ -109,17 +117,18 @@ ZX Paintbrush es ideal para crear gráficos que respeten las limitaciones del ZX
 2. Instala el programa. En Windows, es un ejecutable; en macOS/Linux, necesitarás usar [wine  🌐🟡③](https://www.winehq.org).
 3. Abre ZX Paintbrush y verifica que puedes crear un archivo `.zxp`.
 
-### 2.4. Otras dependencias
+### 2.5. Otras dependencias
 
-Algunas dependencias adicionales, como la librería el compilador de Boriel Basic o GuSprites, se incluyen en el repositorio de ZXGM y se cargarán automaticamente en tu carpeta al ejecutar la instalación de dependencias anteriormente descrita. Asegúrate de no modificar la carpeta `libs` dentro del proyecto descargado.
+Algunas dependencias adicionales, como la librería el compilador de Boriel Basic o GuSprites, se incluyen en el repositorio de ZXGM y se cargaron automaticamente en tu carpeta al ejecutar la instalación de dependencias anteriormente descrita. Asegúrate de no modificar la carpeta `src` dentro del proyecto descargado.
 
 ## Paso 3: Configuración del entorno
 
 ### Organiza la carpeta del proyecto
     
-Asegúrate de que la carpeta descomprimida de ZXGM contiene las subcarpetas `assets`, `src` y `dist`.
+Asegúrate de que la carpeta descomprimida de ZXGM contiene las subcarpetas `assets`, `src` y `examples`.
 
 La carpeta `assets` incluye archivos como `maps.tiled-project` y `tiles.zxp` para configurar mapas y gráficos..
+
 ## Prueba el entorno:
 
 Navega a la carpeta del proyecto en una terminal y arranca el entorno:

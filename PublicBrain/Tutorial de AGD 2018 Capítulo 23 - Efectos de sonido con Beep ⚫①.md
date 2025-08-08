@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-06T22:51:52.675Z
-modified: 2025-08-06T22:53:58.013Z
+modified: 2025-08-08T19:19:00.648Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Representacion de un z80](PublicBrain/_resources/b346d5ada3687baed1e807dcac666875_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①|Siguiente >>]]
 
 AGD nos brinda dos modos básicos de emitir sonido, en el capítulo de hoy centramos nuestra atención en [[Tutorial de AGD 2018 Capitulo 10 - Referencia del Lenguaje ⚫①|el comando BEEP]]
 
@@ -122,6 +122,6 @@ En el próximo capítulo exploraré la parte del Sonido AY que se realiza median
 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si no sabes si Beep Naranja o Beep Cristal, averígualo en la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 22 - Secuencia de victoria ⚫①|Si en tu cabeza suena Beep Beep Beeep Beeb Beep y estas pensando en Carnaval, pasa a la página 22]]
-* Si no te importa, porque llevas torta, ve con el coche de papa a la página 24
+* [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①|Si hay un ser ahi que dice AY, pasa a la página 24]]
 
 ![[Plantilla - 1MT#One More Thing]]

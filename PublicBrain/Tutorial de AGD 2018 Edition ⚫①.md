@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-06T22:42:01.921Z
+modified: 2025-08-08T19:08:49.793Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 38
+ver_rev: 40
 nav_primary: 
 nav_secondary: 
 tags:
@@ -281,13 +281,22 @@ A diferencia del BEEP de BASIC en ZX Spectrum, el comando en AGD solo recibe un 
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 23 - Efectos de sonido con Beep ⚫①]]
 
+--- column-end ---
+
+![Editor de sonidos AY de AGD](PublicBrain/_resources/f4182946b622c16a7af056201cfb26fa_MD5.jpg)
+## Capítulo 24: Efectos de Sonido con el chip AY
+
+
+
+Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
 
-* Tutorial de AGD 2018 Capitulo 24
+* 
 * Tutorial de AGD 2018 Capitulo 25
 * Tutorial de AGD 2018 Capitulo 26
 * Tutorial de AGD 2018 Capitulo 27

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-08T21:12:17.481Z
+modified: 2025-08-08T22:31:58.848Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 41
+ver_rev: 42
 nav_primary: 
 nav_secondary: 
 tags:
@@ -292,14 +292,24 @@ Lo primero, como siempre, entramos con la opción F, y se vuelve al menú, como 
 
 Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①]]
 
+--- column-end ---
+
+![Nos hacemos unos vortex?](PublicBrain/_resources/94d9620fb019da3aca9f15ac8accb106_MD5.jpg)
+
+## Capítulo 25: Buscando como poner música en AGD usando el chip AY
+
+Ha llegado, el momento, hoy comenzamos el proceso de incorporar música ingame a nuestro juego de AGD. 
+
+Lo primero, preguntar a los que saben, y por ahora, el tutorial más claro que he encontrado es este:
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 25 - Buscando como poner música en AGD usando el chip AY ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
 
-* 
-* Tutorial de AGD 2018 Capitulo 25
 * Tutorial de AGD 2018 Capitulo 26
 * Tutorial de AGD 2018 Capitulo 27
 * Tutorial de AGD 2018 Capitulo 28

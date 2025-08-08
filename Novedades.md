@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-08T21:21:03.416Z
+modified: 2025-08-08T23:07:52.091Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 62
+ver_rev: 63
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,17 @@ Number of Columns: 2
 Border: off
 ```
 
+![Nos hacemos unos vortex?](PublicBrain/_resources/94d9620fb019da3aca9f15ac8accb106_MD5.jpg)
+
+## Capítulo 25: Buscando como poner música en AGD usando el chip AY
+
+Ha llegado, el momento, hoy comenzamos el proceso de incorporar música ingame a nuestro juego de AGD. 
+
+Lo primero, preguntar a los que saben, y por ahora, el tutorial más claro que he encontrado es este:
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 25 - Buscando como poner música en AGD usando el chip AY ⚫①]]
+
+--- column-end ---
 
 ![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
 ## Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D
@@ -39,16 +50,7 @@ Continua leyendo en ... [[Curso de Tiled Map Editor - Creación de Mapas para Vi
 
 --- column-end ---
 
-![Editor de sonidos AY de AGD](PublicBrain/_resources/f4182946b622c16a7af056201cfb26fa_MD5.jpg)
-## Capítulo 24: Efectos de Sonido con el chip AY
 
-En el anterior capítulo hablamos de [[Tutorial de AGD 2018 Capítulo 23 - Secuencia de victoria ⚫①|los efectos de sonido con BEEP]], hoy comentaremos como manejar la opcion SOUNDS que usa el chip AY.
-
-Lo primero, como siempre, entramos con la opción F, y se vuelve al menú, como siempre, con [la tecla INTRO 🌐](https://www.instagram.com/p/CC7RdRGo1Xj/?utm_source=ig_web_copy_link), verán una pantalla que se parece a un tracker mod, pero adaptado al estilo AGD
-
-Continuar leyendo en ...  [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①]]
-
---- column-end ---
 
 ![Instalando ZXGM](PublicBrain/_resources/9631dcb41318e7af6a2f0ec170a515f6_MD5.jpg)
 ## Capitulo 02: Descarga e instalación del software

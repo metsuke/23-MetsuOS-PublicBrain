@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-08T19:08:51.425Z
-modified: 2025-08-08T19:11:15.842Z
+modified: 2025-08-08T22:34:22.879Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Editor de sonidos AY de AGD](PublicBrain/_resources/f4182946b622c16a7af056201cfb26fa_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 23 - Efectos de sonido con Beep ⚫①|<< Anterior]] | Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 23 - Efectos de sonido con Beep ⚫①|<< Anterior]] |  [[Tutorial de AGD 2018 Capítulo 25 - Buscando como poner música en AGD usando el chip AY ⚫①|Siguiente >>]]
 
 En el anterior capítulo hablamos de [[Tutorial de AGD 2018 Capítulo 23 - Secuencia de victoria ⚫①|los efectos de sonido con BEEP]], hoy comentaremos como manejar la opcion SOUNDS que usa el chip AY.
 
@@ -79,6 +79,6 @@ Quiero crear músicas para JBA así que toca estudiar, [por ahora empezaré por 
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si vas a hacer pipi, ve cantando pipipi pipipi! a la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 23 - Secuencia de victoria ⚫①|Si por lo que sea aún te pitan los oidos, pita pita pita del hasta la página 23]]
 * [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①|Si vas de paseo pipipi, ve pitando a la página 24]]
-* En caso contrario, no vayas a la página 25, porque aún no existe.
+* [[Tutorial de AGD 2018 Capítulo 25 - Buscando como poner música en AGD usando el chip AY ⚫①|En caso contrario, no vayas a la página 25, o si, tu decides]].
 
 ![[Plantilla - 1MT#One More Thing]]

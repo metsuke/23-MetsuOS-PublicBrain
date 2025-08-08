@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-08T19:08:49.793Z
+modified: 2025-08-08T21:12:17.481Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 40
+ver_rev: 41
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Tutorial de AGD 2018 Edition ⚫①
- # Tutorial de AGD 2018 Edition ⚫①
+
 
 ![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
 

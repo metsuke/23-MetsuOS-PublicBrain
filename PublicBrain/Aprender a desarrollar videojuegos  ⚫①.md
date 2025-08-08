@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-07-28T16:53:42.975Z
+modified: 2025-08-08T20:27:51.600Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,6 +51,18 @@ Además, la comunidad de desarrolladores es un recurso invaluable, ofreciendo ap
 Number of Columns: 2
 Border: off
 ```
+
+![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
+## Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D
+
+Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta gratuita y de código abierto para diseñar mapas de niveles en videojuegos 2D. 
+
+Desde los fundamentos hasta técnicas avanzadas, aprenderás a crear mapas para juegos de plataformas, RPG y más, integrándolos en motores de juego populares. 
+
+Continua leyendo en [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
+
+--- column-end ---
+
 ![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
 ## Curso de ZX Game Maker
 
@@ -136,7 +148,6 @@ Continua leyendo en ... [[Tutorial de AGD 2018 Edition ⚫①]]
  
  --- column-end ---
 --- multi-column-end
-
 
 
 ![[Plantilla - 1MT#One More Thing]]

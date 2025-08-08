@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-08T02:23:02.330Z
+modified: 2025-08-08T21:21:03.416Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 60
+ver_rev: 62
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,17 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
+## Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D
+
+Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta gratuita y de código abierto para diseñar mapas de niveles en videojuegos 2D. 
+
+Desde los fundamentos hasta técnicas avanzadas, aprenderás a crear mapas para juegos de plataformas, RPG y más, integrándolos en motores de juego populares. 
+
+Continua leyendo en [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
+
+--- column-end ---
 
 ![Editor de sonidos AY de AGD](PublicBrain/_resources/f4182946b622c16a7af056201cfb26fa_MD5.jpg)
 ## Capítulo 24: Efectos de Sonido con el chip AY

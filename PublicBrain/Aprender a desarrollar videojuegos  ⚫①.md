@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-08-08T21:57:50.712Z
+modified: 2025-08-09T05:00:15.936Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,6 +51,17 @@ Además, la comunidad de desarrolladores es un recurso invaluable, ofreciendo ap
 Number of Columns: 2
 Border: off
 ```
+
+![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
+## Curso de ZX-Paintbrush
+
+Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una herramienta clásica para diseñar gráficos en el legendario ZX Spectrum. 
+
+A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
+
+Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]]
+
+--- column-end ---
 
 ![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
 ## Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-06-12T20:08:55.273Z
+modified: 2025-08-09T10:53:10.655Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 215
+ver_rev: 216
 nav_primary: 
 nav_secondary: 
 tags:
@@ -86,6 +86,10 @@ WIP
 * [[Los Juegos de MetsuOS]]
 
 ---
+## MiniTutoriales Rapidos
+
+[[Microtutorial - Grafx2 con modos spectrum ⚫①]]
+
 ## Archivado
 
 * [[IMetsuOS Contenido Archivado]]

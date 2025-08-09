@@ -27,6 +27,18 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
+## Curso de ZX-Paintbrush
+
+Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una herramienta clásica para diseñar gráficos en el legendario ZX Spectrum. 
+
+A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
+
+Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]]
+
+--- column-end ---
+
 ![Nos hacemos unos vortex?](PublicBrain/_resources/94d9620fb019da3aca9f15ac8accb106_MD5.jpg)
 
 ## Capítulo 25: Buscando como poner música en AGD usando el chip AY

@@ -25,10 +25,6 @@ tags:
 
 [[Aprender a desarrollar videojuegos  ⚫①]]
 
-
-> OJO WIP
-
-
 Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una herramienta clásica para diseñar gráficos en el legendario ZX Spectrum. 
 
 A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 

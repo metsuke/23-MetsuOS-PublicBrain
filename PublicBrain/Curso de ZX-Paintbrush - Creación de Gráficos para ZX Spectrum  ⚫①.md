@@ -31,11 +31,11 @@ A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas av
 
 Con un enfoque práctico y ejemplos inspiradores, estarás listo para revivir la era dorada del videojuego.
 
-## Módulo 1: "I"ntroducción a ZX-Paintbrush
+## Módulo 1: Introducción a ZX-Paintbrush
 
 ### 1.1 ¿Qué es ZX-Paintbrush?
 
-- **Orígenes**: "Historia de esta herramienta creada por Claus Jahn para el ZX Spectrum.
+- **Orígenes**: Historia de esta herramienta creada por Claus Jahn para el ZX Spectrum.
 - **Propósito**: Diseñar gráficos retro con limitaciones de color y resolución.
 - **Comunidad**: Su relevancia en la escena de desarrollo indie y retro gaming.
 - **Compatibilidad**: Uso principal en Windows, con soporte en Linux y macOS vía Wine.

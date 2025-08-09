@@ -1,19 +1,23 @@
 ---
-iaStatus: 0
+iaStatus: 8
+iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2023-08-30T00:54:00
-modified: 2024-03-06T23:35:00
+created: 2025-08-09T10:54:01.392Z
+modified: 2025-08-09T11:05:58.864Z
 supervisado: ""
-ACCION: ""
+ACCION: 
 ver_major: 0
-ver_minor: "0"
-ver_rev: "0"
-nav_primary: []
-nav_secondary: []
-tags: []
+ver_minor: 2
+ver_rev: 1
+nav_primary: 
+nav_secondary: 
+tags:
 ---
 # Microtutorial - Grafx2 con modos spectrum ⚫①
 
@@ -23,7 +27,7 @@ Para usar los modos ZX Spectrum en Grafx2, un programa de edición de píxeles q
 
 1. **Iniciar Grafx2 con el modo ZX Spectrum**:
    - Abre Grafx2 desde la línea de comandos para establecer un modo de paleta restringida que emule el ZX Spectrum. Usa el comando:
-     ```
+     ```bash
      grafx2 /rgb 2
      ```
      Esto configura una paleta de 16 colores estilo ZX Spectrum.[](http://grafx2.chez.com/index.php?article5/command-line-options)

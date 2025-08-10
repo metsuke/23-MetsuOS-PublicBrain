@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-08T22:34:30.911Z
-modified: 2025-08-08T22:39:18.717Z
+modified: 2025-08-10T15:42:32.968Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Nos hacemos unos vortex?](PublicBrain/_resources/94d9620fb019da3aca9f15ac8accb106_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①|<< Anterior]] |  Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①|<< Anterior]] |  [[Tutorial de AGD 2018 Capítulo 26 - Edición avanzada en AGD con la herramienta Perilla de Sergio thEpOpE  ⚫①|Siguiente >>]]
 
 Ha llegado, el momento, hoy comenzamos el proceso de incorporar música ingame a nuestro juego de AGD. Lo primero, preguntar a los que saben, y por ahora, el tutorial más claro que he encontrado es este:
 
@@ -62,6 +62,6 @@ Como veis no es complejo, pero nos llevará algo de trabajo dominar la técnica,
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si vas piripi, ve balbuceando fiòifofdoffofoo! a la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 23 - Secuencia de victoria ⚫①|Si has tenido que bajarte del tiovivo para que no te atropelle la cuádriga y el coche de bomberos, ve a que te curen en la página 23]]
 * [[Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①|Si esta semana tienes la práctica del cole con flauta dulce, ve a practicar a la página 24]]
-* En caso de que hayas venido, pero no hayas llegado, aguanta una mica y pasa a la página 26
+* [[Tutorial de AGD 2018 Capítulo 26 - Edición avanzada en AGD con la herramienta Perilla de Sergio thEpOpE  ⚫①|En caso de que hayas venido, pero no hayas llegado, aguanta una mica y pasa a la página 26]]
 
 ![[Plantilla - 1MT#One More Thing]]

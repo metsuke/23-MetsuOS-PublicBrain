@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-10T12:18:16.453Z
+modified: 2025-08-10T16:10:59.418Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 65
+ver_rev: 66
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,16 @@ Number of Columns: 2
 Border: off
 ```
 
+![Logo Pixelado que representaba a thEpOpE en mi anterior versión de la web](PublicBrain/_resources/9c709853cc843e20b2c1bfcb933c2673_MD5.jpg)
+## Capítulo 26:  Edición avanzada en AGD con la herramienta "Perilla" de Sergio "thEpOpE"
+
+Estos meses hemos trabajado con el interfaz pelado de AGD, lo seguiremos haciendo, pero va siendo hora de ampliar horizontes con herramientas de terceros que nos brindan opciones impensables originalmente.
+
+Es el caso de la herramienta "Perilla", de Sergio "thEpOpE", que funciona en Mac, Linux y Windows, y nos permite extraer el contenido de nuestro juego de AGD a ficheros manejables desde nuestro sistema operativo, editarlos con herramientas actuales e inyectarlos nuevamente en AGD.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 26 - Edición avanzada en AGD con la herramienta Perilla de Sergio thEpOpE  ⚫①]]
+
+--- column-end ---
 
 ![Estructura de ZXGM](PublicBrain/_resources/4dc9c9daf6e92425ff4724042d24a2b5_MD5.jpg)
 ## Capítulo 03: Exploración de la estructura general del motor
@@ -47,18 +57,6 @@ Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una h
 A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
 
 Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]]
-
---- column-end ---
-
-![Nos hacemos unos vortex?](PublicBrain/_resources/94d9620fb019da3aca9f15ac8accb106_MD5.jpg)
-
-## Capítulo 25: Buscando como poner música en AGD usando el chip AY
-
-Ha llegado, el momento, hoy comenzamos el proceso de incorporar música ingame a nuestro juego de AGD. 
-
-Lo primero, preguntar a los que saben, y por ahora, el tutorial más claro que he encontrado es este:
-
-Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 25 - Buscando como poner música en AGD usando el chip AY ⚫①]]
 
 --- column-end ---
 

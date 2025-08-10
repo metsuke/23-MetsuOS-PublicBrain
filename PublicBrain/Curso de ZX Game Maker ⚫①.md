@@ -39,7 +39,7 @@ Border: off
 ```
 
 ![Que es ZXGM](PublicBrain/_resources/f4a1e4d529a440f11c0362c34fabdcc1_MD5.jpg)
-## Capítulo 01: ¿Qué es ZX Game Maker?
+## Capítulo Básico 01: ¿Qué es ZX Game Maker?
 
 ZX Game Maker es una herramienta innovadora diseñada para crear videojuegos compatibles con el ZX Spectrum, la emblemática computadora doméstica de los años 80. 
 
@@ -50,7 +50,7 @@ Contionuar leyendo en ... [[Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 
 --- column-end ---
 
 ![Instalando ZXGM](PublicBrain/_resources/9631dcb41318e7af6a2f0ec170a515f6_MD5.jpg)
-## Capitulo 02: Descarga e instalación del software
+## Capítulo Básico 02: Descarga e instalación del software
 
 En este segundo capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás cómo descargar e instalar el software necesario para comenzar a desarrollar videojuegos para el ZX Spectrum. 
 
@@ -63,7 +63,7 @@ Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación de
 --- column-end ---
 
 ![Estructura de ZXGM](PublicBrain/_resources/4dc9c9daf6e92425ff4724042d24a2b5_MD5.jpg)
-## Capítulo 03: Exploración de la estructura general del motor
+## Capítulo Básico 03: Exploración de la estructura general del motor
 
 En este capítulo, nos enfocamos en lo mínimo que necesitas saber para crear un juego con ZX Game Maker (ZXGM): el launcher, la carpeta `assets` y la carpeta `examples`. 
 

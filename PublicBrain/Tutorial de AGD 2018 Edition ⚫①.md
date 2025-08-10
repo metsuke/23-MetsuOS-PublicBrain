@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-08T22:31:58.848Z
+modified: 2025-08-10T15:36:23.632Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 42
+ver_rev: 43
 nav_primary: 
 nav_secondary: 
 tags:
@@ -304,13 +304,24 @@ Lo primero, preguntar a los que saben, y por ahora, el tutorial más claro que h
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 25 - Buscando como poner música en AGD usando el chip AY ⚫①]]
 
+--- column-end ---
+
+![Logo Pixelado que representaba a thEpOpE en mi anterior versión de la web](PublicBrain/_resources/9c709853cc843e20b2c1bfcb933c2673_MD5.jpg)
+## Capítulo 26:  Edición avanzada en AGD con la herramienta "Perilla" de Sergio "thEpOpE"
+
+Estos meses hemos trabajado con el interfaz pelado de AGD, lo seguiremos haciendo, pero va siendo hora de ampliar horizontes con herramientas de terceros que nos brindan opciones impensables originalmente.
+
+Es el caso de la herramienta "Perilla", de Sergio "thEpOpE", que funciona en Mac, Linux y Windows, y nos permite extraer el contenido de nuestro juego de AGD a ficheros manejables desde nuestro sistema operativo, editarlos con herramientas actuales e inyectarlos nuevamente en AGD.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 26 - Edición avanzada en AGD con la herramienta Perilla de Sergio thEpOpE  ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
 
-* Tutorial de AGD 2018 Capitulo 26
+
 * Tutorial de AGD 2018 Capitulo 27
 * Tutorial de AGD 2018 Capitulo 28
 * Tutorial de AGD 2018 Capitulo 29

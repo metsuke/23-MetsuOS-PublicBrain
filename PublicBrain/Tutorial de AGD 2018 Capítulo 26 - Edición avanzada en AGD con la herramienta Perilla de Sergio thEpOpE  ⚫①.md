@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-10T15:41:40.051Z
-modified: 2025-08-10T15:42:59.735Z
+modified: 2025-08-10T17:04:15.075Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,7 +39,7 @@ Os dejo con el video que el mismo Sergio, realizó para mostrar lo que puede hac
 Dado que ahora me lleva más tiempo investigar cada cuestión para poder contarla de forma sencilla y asequible, iremos viendo en paralelo aspectos del propio AGD, y de herramientas como esta que nos permiten expandir nuestra productividad de forma exponencial.
 
 ```pre
-NdA 2025 estamos acabando los capítulos originales y, a priori, no continuaré creando mas, les recomiendo hacer su juego de prueba y, aprovechando la perilla, ir migrando a ZX Game Maker y, en cuanto esté disponible, a Prisma.
+NdA 2025 estamos acabando los capítulos originales y, a priori, no continuaré creando mas, les recomiendo hacer su juego de prueba y, aprovechando la perilla, ir migrando a [[Curso de ZX Game Maker ⚫①|ZX Game Maker]] y, en cuanto esté disponible, a Prisma.
 
 Cualquier duda, búsquenme en Twitter/X)
 ```

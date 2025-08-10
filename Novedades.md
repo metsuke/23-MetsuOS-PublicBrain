@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-10T16:10:59.418Z
+modified: 2025-08-10T17:11:29.270Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 66
+ver_rev: 67
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,7 +28,7 @@ Border: off
 ```
 
 ![Logo Pixelado que representaba a thEpOpE en mi anterior versión de la web](PublicBrain/_resources/9c709853cc843e20b2c1bfcb933c2673_MD5.jpg)
-## Capítulo 26:  Edición avanzada en AGD con la herramienta "Perilla" de Sergio "thEpOpE"
+## Curso AGD 2018 Edition / Capítulo 26:  Edición avanzada en AGD con la herramienta "Perilla" de Sergio "thEpOpE"
 
 Estos meses hemos trabajado con el interfaz pelado de AGD, lo seguiremos haciendo, pero va siendo hora de ampliar horizontes con herramientas de terceros que nos brindan opciones impensables originalmente.
 
@@ -39,7 +39,7 @@ Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 26 - Edición avanzada
 --- column-end ---
 
 ![Estructura de ZXGM](PublicBrain/_resources/4dc9c9daf6e92425ff4724042d24a2b5_MD5.jpg)
-## Capítulo 03: Exploración de la estructura general del motor
+## Curso ZXGM Básico / Capítulo 03: Exploración de la estructura general del motor
 
 En este capítulo, nos enfocamos en lo mínimo que necesitas saber para crear un juego con ZX Game Maker (ZXGM): el launcher, la carpeta `assets` y la carpeta `examples`. 
 
@@ -72,7 +72,7 @@ Continua leyendo en ... [[Curso de Tiled Map Editor - Creación de Mapas para Vi
 --- column-end ---
 
 ![ahuahuahu](_resources/d1ae4ab2705f7cf313534a352985c784_MD5.jpg)
-## Cansado de construir sobre arenas movedizas
+## Blog / Cansado de construir sobre arenas movedizas
 
 Desde que comencé a programar, siempre ha sido la misma historia, cuando empiezas a tener una base solida sobre la que construir, el suelo bajo tus pies desaparece por caprichos tecnicos, persecución de objetos brillantes o, como pasa en el mundo retro, muerte o abandono de los creadores.
 
@@ -85,7 +85,7 @@ Continua leyendo en ... [[Blog - Cansado de construir sobre arenas movedizas - 2
 
 ![Galeria Imagenes Cabecera](PublicBrain/_resources/2488e3400cbb8967b8c240f1095f5225_MD5.jpeg)
 
-## Galería de Imágenes de Efemérides
+## KB / Galería de Imágenes de Efemérides
 
 En esta sección agrego una pequeña galería de las imáganes de cabecera creadas para las diferentes efemérides de las que hablamos en la cabecera de la web.
 
@@ -96,7 +96,7 @@ Continuar leyendo en ... [[Galería de Imágenes de Efemétides  ⚫①]]
 --- column-end ---
 
 ![Dibujando formas básicas y gráficos](PublicBrain/_resources/60b2d8cc11ee311dd69562ae8b878613_MD5.jpg)
-## Dibujando formas básicas y gráficos
+## Curso PixiJS / Dibujando formas básicas y gráficos
 
 PixiJS es una biblioteca de JavaScript para gráficos 2D que aprovecha WebGL para un renderizado rápido y eficiente, con Canvas como alternativa si WebGL no está disponible. 
 
@@ -108,7 +108,7 @@ Continuar leyendo en ... [[Dibujando formas básicas y gráficos (PixiJS) 🟡�
 
 
 ![Crea Juegos al Estilo Maquinita con Boriel BASIC](PublicBrain/_resources/912c721564e4fb5443997ddffaab4cb2_MD5.jpg)
-## Curso Crea Juegos al Estilo Maquinita con Boriel BASIC
+## Curso Maquinitas Boriel / Curso Crea Juegos al Estilo Maquinita con Boriel BASIC
 
 ¡Bienvenidos a un apasionante viaje al corazón de la nostalgia! Este curso te invita a redescubrir la magia de las **maquinitas** —esas pequeñas joyas electrónicas como **Game & Watch**, **Tronica** o los coloridos **Jungler**, **Popeye** y **Defender**— y a crear tus propios juegos inspirados en ellas usando **Boriel BASIC** en el **ZX Spectrum**. 
 
@@ -120,7 +120,7 @@ Continuar leyendo en ... [[Curso Crea Juegos al Estilo Maquinita con Boriel BASI
 
 
 ![Atari 2600 El Legado Continua](PublicBrain/_resources/5c14edea4027bacc6ee841967b46dabd_MD5.jpg)
-## Historia y contexto del Atari 2600 y su relación con Visual bB
+## Curso de Visual bB / Historia y contexto del Atari 2600 y su relación con Visual bB
 
 El Atari 2600, lanzado en 1977, supuso un antes y un después en la historia de los videojuegos al introducir los sistemas de entretenimiento doméstico basados en cartuchos intercambiables, una innovación que revolucionó el sector. Su influencia no se limita al ámbito tecnológico, sino que también dejó una huella imborrable en la cultura popular, sentando las bases para la industria moderna de los videojuegos. 
 
@@ -131,7 +131,7 @@ Continuar leyendo en ... [[Historia y contexto del Atari 2600 y su relación con
 --- column-end ---
 
 ![GBStudio Requisitos Previos](PublicBrain/_resources/9b0e528c1fc5a8a09fb5380290aa612b_MD5.jpg)
-## Requisitos previos y herramientas necesarias para GBStudio
+## Curso de GB Studio / Requisitos previos y herramientas necesarias para GBStudio
 
 GB Studio es una herramienta accesible y poderosa para desarrollar videojuegos retro al estilo Game Boy, ideal tanto para principiantes como para entusiastas del diseño de juegos. 
 
@@ -143,7 +143,7 @@ Continuar leyendo en [[Requisitos previos y herramientas necesarias para GBStudi
 --- column-end ---
 
 ![Caracteristicas de CPCTelera](PublicBrain/_resources/c95d414a2291d7e3bd4d8caa8ca48e31_MD5.jpg)
-## Características principales del motor en CPCTelera
+## Curso de CPCTelera / Características principales del motor en CPCTelera
 
 CPCtelera es una potente librería diseñada para facilitar el desarrollo de videojuegos y aplicaciones en el ordenador Amstrad CPC, utilizando principalmente lenguajes C y ensamblador Z80.
 
@@ -155,7 +155,7 @@ Continuar leyendo en ... [[Características principales del motor en CPCTelera �
 
 
 ![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
-## Aprender a desarrollar videojuegos
+## KB / Aprender a desarrollar videojuegos
 
 Aprender a desarrollar videojuegos es una aventura apasionante que combina creatividad, tecnología y narrativa. 
 
@@ -166,8 +166,19 @@ Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
  --- column-end ---
 
 
+![Reinterpretación libre de la portada del juego](_resources/ea6b896b9eb3da5e40a2786e6a616413_MD5.jpg)
+## Noticias / En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames
+
+Junio, 2025 – La comunidad de jugadores retro y coleccionistas de videojuegos está de celebración tras el anuncio de que la edición física de _Castle of Terror_, el nuevo título para Game Boy desarrollado por PCNONOGames. 
+
+Este lanzamiento, que combina nostalgia con un diseño innovador, ha generado gran expectación entre los aficionados a los videojuegos de 8 bits.
+
+Continuar leyendo en ... [[En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 🔴②]]
+
+--- column-end ---
+
 ![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)
-## Aprendeizaje basado en evidencia
+## KB / Aprendeizaje basado en evidencia
 
 Imagina un camino de aprendizaje donde cada paso que das está guiado por luces que te muestran lo que realmente funciona. 
 
@@ -181,7 +192,7 @@ Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①]]
 --- column-end ---
 
 ![Un joven Doc Brown y su Delorean](PublicBrain/_resources/6c4c122e32382d53cdde32d530ae51a4_MD5.jpeg)
-## Estructura del Conocimiento Humano y Científico
+## Public Brain / Estructura del Conocimiento Humano y Científico
 
 La estructura del conocimiento humano y científico se fundamenta en la interacción dinámica entre observación, experimentación y reflexión crítica. A través de la historia, las disciplinas científicas han evolucionado mediante la sistematización de datos y la construcción de teorías que integran el pensamiento lógico con la creatividad, permitiendo a la humanidad desentrañar los misterios del universo y aplicar este saber en avances tecnológicos y sociales.
 
@@ -190,7 +201,7 @@ Continua leyendo en ... [[Estructura del Conocimiento Humano y Científico ⚫�
  --- column-end ---
 
 ![Estudiante con el libro en la mano](PublicBrain/_resources/78bad2bc7ae27db996a7f1c67521151b_MD5.jpeg)
-## Estudiar libro - Think Fast and Slow - Daniel Kahneman
+## Public Brain / Estudiar libro - Think Fast and Slow - Daniel Kahneman
 
 Bajo el título **Estudiar Thinking, Fast and Slow **, el libro de Kahneman desentraña la estructura del conocimiento humano y científico al explorar cómo nuestras mentes procesan información a través de dos sistemas: uno rápido, impulsado por la intuición, y otro lento, guiado por la lógica. 
 

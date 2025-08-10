@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-10T15:36:23.632Z
+modified: 2025-08-10T17:04:42.478Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 43
+ver_rev: 44
 nav_primary: 
 nav_secondary: 
 tags:
@@ -330,7 +330,7 @@ Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 26 - Edición avanzada
 * Tutorial de AGD 2018 Capitulo 32
 
 ```pre
-Cerramos aqui esta republicación del curso original de AGD de 2018, y nos centramos en [[[Curso de ZX Game Maker ⚫①]] y otros mas modernos, así como en la creacion de MOS Game Maker. Ya os contare xD.
+Cerramos aqui esta republicación del curso original de AGD de 2018, y nos centramos en [[Curso de ZX Game Maker ⚫①]] y otros mas modernos, así como en la creacion de MOS Game Maker. Ya os contare xD.
 ```
 
 ![[Plantilla - 1MT#One More Thing]]

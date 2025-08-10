@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-03T09:28:28.444Z
-modified: 2025-08-08T08:13:45.066Z
+modified: 2025-08-10T12:17:08.238Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 6
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Instalando ZXGM](PublicBrain/_resources/9631dcb41318e7af6a2f0ec170a515f6_MD5.jpg)
 
 * [[Curso de ZX Game Maker ⚫①]]
-* [[Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③|<< Anterior]] | Siguiente >>
+* [[Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③|<< Anterior]] | [[Curso de ZXGM Básico 03 - Explorando la estructura general del motor 🟡③|Siguiente >>]]
 
 En este segundo capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás cómo descargar e instalar el software necesario para comenzar a desarrollar videojuegos para el ZX Spectrum. 
 
@@ -117,7 +117,66 @@ ZX Paintbrush es ideal para crear gráficos que respeten las limitaciones del ZX
 2. Instala el programa. En Windows, es un ejecutable; en macOS/Linux, necesitarás usar [wine  🌐🟡③](https://www.winehq.org).
 3. Abre ZX Paintbrush y verifica que puedes crear un archivo `.zxp`.
 
-### 2.5. Otras dependencias
+### 2.5 Pasmo (Ensamblador Z80)
+
+Pasmo es un ensamblador para Z80 que permite compilar código en ensamblador para ZX Spectrum, útil para optimizar partes de tu juego o integrar código personalizado con ZX Game Maker.
+
+- Windows: 
+
+	1. Descarga la última versión de Pasmo desde su sitio oficial [http://pasmo.speccy.org 🌐🟡③](http://pasmo.speccy.org) o desde el enlace proporcionado en la documentación de ZXGM.
+    
+    2. Descomprime el archivo ZIP en una carpeta, por ejemplo, C:\Pasmo.
+        
+    3. Añade Pasmo al PATH:
+        
+        - Abre el Panel de Control > Sistema > Configuración avanzada del sistema > Variables de entorno.
+            
+        - En "Variables del sistema", busca "Path", selecciona "Editar" y añade la ruta a la carpeta donde descomprimiste Pasmo (por ejemplo, C:\Pasmo).
+            
+    4. Verifica la instalación abriendo una terminal y ejecutando:
+        
+    
+    ```bash
+    pasmo --version
+    ```
+    
+    Deberías ver la versión de Pasmo instalada.
+    
+- Linux/macOS: 
+
+	1. Descarga el archivo comprimido de Pasmo desde [http://pasmo.speccy.org 🌐🟡③](http://pasmo.speccy.org).
+    
+    2. Descomprime el archivo en una carpeta, por ejemplo, ~/pasmo.
+        
+    3. Compila Pasmo (requiere un compilador de C++, como g++):
+        
+	```bash
+	cd ~/pasmo
+	./configure
+	make
+	sudo make install
+	```
+        
+    4. Verifica la instalación ejecutando:
+        
+    
+    ```bash
+    pasmo --version
+    ```
+    
+    Si no está en el PATH, puedes añadirlo manualmente editando ~/.bashrc o ~/.zshrc y añadiendo:
+    
+    ```bash
+    export PATH=$PATH:/ruta/a/pasmo
+    ```
+
+	Tambien puedes copiarlo a /usr/local/bin
+
+	```bash
+	sudo cp pasmo /usr/local/bin
+	```
+
+### 2.6. Otras dependencias
 
 Algunas dependencias adicionales, como la librería el compilador de Boriel Basic o GuSprites, se incluyen en el repositorio de ZXGM y se cargaron automaticamente en tu carpeta al ejecutar la instalación de dependencias anteriormente descrita. Asegúrate de no modificar la carpeta `src` dentro del proyecto descargado.
 

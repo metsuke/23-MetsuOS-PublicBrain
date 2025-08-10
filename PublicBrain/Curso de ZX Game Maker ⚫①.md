@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-08-08T02:13:47.742Z
+modified: 2025-08-10T12:17:07.880Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 9
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
@@ -60,14 +60,25 @@ Siguiendo estas instrucciones, tendrás un entorno funcional para empezar a crea
 
 Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③]]
 
+--- column-end ---
+
+![Estructura de ZXGM](PublicBrain/_resources/4dc9c9daf6e92425ff4724042d24a2b5_MD5.jpg)
+## Capítulo 03: Exploración de la estructura general del motor
+
+En este capítulo, nos enfocamos en lo mínimo que necesitas saber para crear un juego con ZX Game Maker (ZXGM): el launcher, la carpeta `assets` y la carpeta `examples`. 
+
+Asumimos que ya instalaste ZXGM según [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③|el capítulo anterior]].
+
+Continuar leyendo en ... [[Curso de ZXGM Básico 03 - Explorando la estructura general del motor 🟡③]]
+
  --- column-end ---
 --- multi-column-end
 
-- Exploración de la estructura general del motor
-* Un juego para cada estilo posible
+* 1973 juegos para dominarlos a todos
 	* "Cursed Zapatilla", el juego plataformero que crearemos durante el curso.
 	* "Zapatilla Bross", el juego arcade que crearemos durante el curso.
-	* "Zas Patillas", el juego cenital que crearemos durante el curso.
+	* "Zas Patillas", el juego cenital arcade que crearemos durante el curso.
+	* "Zapa Zapa: Mercadillo's Awakening", el juego cenital rolero que crearemos durante el curso.
 	* "Zapaxxian", el juego de naves que intentaré hacer de forma experimental.
 - Configuración de un nuevo proyecto
 - Pantalla de presentación y pantalla de victoria
@@ -84,7 +95,7 @@ Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación de
 
 ## Nivel Medio: Haz un demake de un juego de AGD
 
-* Portando un juego desde AGD: "The Speccy Master Adventure" (Remake de [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017]])
+* Portando un juego desde Prisma: "The Speccy Master Adventure" (Remake de [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017]] creado en [[Tutorial de AGD 2018 Edition ⚫①|AGD]])
 * Indice exacto por definir.
 
 ## Nivel Avanzado: Ayuda a mejorar el motor

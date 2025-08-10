@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-08-09T10:53:10.655Z
+modified: 2025-08-09T18:13:24.925Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 216
+ver_rev: 217
 nav_primary: 
 nav_secondary: 
 tags:
@@ -88,7 +88,8 @@ WIP
 ---
 ## MiniTutoriales Rapidos
 
-[[Microtutorial - Grafx2 con modos spectrum ⚫①]]
+* MOS Engine (codename: ロシアのもの)
+* [[Microtutorial - Grafx2 con modos spectrum ⚫①]]
 
 ## Archivado
 

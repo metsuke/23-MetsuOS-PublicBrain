@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-09T11:00:37.338Z
+modified: 2025-08-10T12:18:16.453Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 64
+ver_rev: 65
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,17 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Estructura de ZXGM](PublicBrain/_resources/4dc9c9daf6e92425ff4724042d24a2b5_MD5.jpg)
+## Capítulo 03: Exploración de la estructura general del motor
+
+En este capítulo, nos enfocamos en lo mínimo que necesitas saber para crear un juego con ZX Game Maker (ZXGM): el launcher, la carpeta `assets` y la carpeta `examples`. 
+
+Asumimos que ya instalaste ZXGM según [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③|el capítulo anterior]].
+
+Continuar leyendo en ... [[Curso de ZXGM Básico 03 - Explorando la estructura general del motor 🟡③]]
+
+--- column-end ---
 
 ![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
 ## Curso de ZX-Paintbrush
@@ -59,21 +70,6 @@ Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta
 Desde los fundamentos hasta técnicas avanzadas, aprenderás a crear mapas para juegos de plataformas, RPG y más, integrándolos en motores de juego populares. 
 
 Continua leyendo en ... [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
-
---- column-end ---
-
-
-
-![Instalando ZXGM](PublicBrain/_resources/9631dcb41318e7af6a2f0ec170a515f6_MD5.jpg)
-## Capitulo 02: Descarga e instalación del software
-
-En este segundo capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás cómo descargar e instalar el software necesario para comenzar a desarrollar videojuegos para el ZX Spectrum. 
-
-Este tutorial está diseñado para usuarios de todos los niveles, desde principiantes hasta aquellos con experiencia previa, y cubre los pasos para configurar el entorno en sistemas operativos modernos (Windows, macOS y Linux). 
-
-Siguiendo estas instrucciones, tendrás un entorno funcional para empezar a crear tus propios juegos retro.
-
-Continuar leyendo en ... [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③]]
 
 --- column-end ---
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d10395f284178265",
+        "id": "8181921d749b232d",
         "type": "tabs",
         "children": [
           {
-            "id": "b399b687fdd2f559",
+            "id": "ecfef159872706d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Microtutorial - Grafx2 con modos spectrum ⚫①.md",
+                "file": "PublicBrain/Curso de ZX Game Maker ⚫①.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microtutorial - Grafx2 con modos spectrum ⚫①"
+              "title": "Curso de ZX Game Maker ⚫①"
             }
           }
         ]
@@ -201,19 +201,26 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b399b687fdd2f559",
+  "active": "ecfef159872706d2",
   "lastOpenFiles": [
-    "PublicBrain/Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①.md",
-    "PublicBrain/Microtutorial - Grafx2 con modos spectrum ⚫①.md",
+    "PublicBrain/Curso de ZXGM Básico 03 - Explorando la estructura general del motor 🟡③.md",
     "Novedades.md",
+    "PublicBrain/Curso de ZX Game Maker ⚫①.md",
+    "PublicBrain/Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③.md",
+    "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 08 - Mover a nuestro protagonista por la pantalla ⚫①.md",
+    "PublicBrain/AGD 2018 Tutorial ⚫①.md",
+    "PublicBrain/_resources/4dc9c9daf6e92425ff4724042d24a2b5_MD5.jpg",
+    "Curso de ZXGM Básico 03 - Explorando la estructura general del motor  ⚫①.md",
+    "KB.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Microtutorial - Grafx2 con modos spectrum ⚫①.md",
+    "PublicBrain/Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①.md",
     "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "Microtutorial - Grafx2 con modos spectrum ⚫①.md",
-    "KB.md",
     "Index.md",
-    "PublicBrain/Index.md",
     "PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg",
     "Curso de ZX-Paintbrush  ⚫①.md",
-    "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capítulo 25 - Buscando como poner música en AGD usando el chip AY ⚫①.md",
     "imagenCabecera_Original.jpg",
     "PublicBrain/Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①.md",
@@ -227,18 +234,11 @@
     "Noticias.md",
     "Curso de Tiled.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 12 - Cargar juegos de AGD desde cinta ⚫①.md",
-    "PublicBrain/Tutorial de AGD 2018 Capítulo 23 - Secuencia de victoria ⚫①.md",
-    "PublicBrain/Tutorial de AGD 2018 Capítulo 23 - Efectos de sonido con Beep ⚫①.md",
-    "Tutorial de AGD 2018 Capítulo 23 - Secuencia de victoria ⚫①.md",
     "PublicBrain/_resources/f4182946b622c16a7af056201cfb26fa_MD5.jpg",
-    "Tutorial de AGD 2018 Capítulo 24 - Efectos de Sonido con el chip AY ⚫①.md",
-    "PublicBrain/Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③.md",
-    "PublicBrain/Curso de ZX Game Maker ⚫①.md",
     "PublicBrain/_resources/82bda056373be69ec31ed15b448290bd_MD5.jpeg",
     "Captura de pantalla 2025-08-08 a las 4.08.22.png",
     "PublicBrain/_resources/ea5edf6a0a50c5eae901d4a662e35336_MD5.jpeg",
     "Captura de pantalla 2025-08-08 a las 4.01.26.png",
-    "PublicBrain/_resources/b346d5ada3687baed1e807dcac666875_MD5.jpg",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

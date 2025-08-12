@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-11T14:28:49.417Z
-modified: 2025-08-12T12:14:47.786Z
+modified: 2025-08-12T14:06:39.327Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy ⚫①
+# Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③
 
 ![Historia de GB](PublicBrain/_resources/90b3980bba7ddcbbc8cfafbacecce455_MD5.jpg)
 

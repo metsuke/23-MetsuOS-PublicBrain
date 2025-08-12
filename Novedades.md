@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-12T13:01:19.834Z
+modified: 2025-08-12T14:06:39.299Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 73
 nav_primary: 
 nav_secondary: 
 tags:
@@ -35,7 +35,7 @@ La Game Boy, lanzada por Nintendo en 1989, supuso un antes y un después en el m
 
 Esta pequeña consola no solo sentó las bases del gaming móvil tal como lo conocemos hoy, sino que también estableció un estándar único para los juegos retro en 8 bits, un legado que sigue vivo gracias a herramientas como GB Studio. 
 
-Continuar leyendo en [[Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy ⚫①]]
+Continuar leyendo en [[Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③]]
 
 --- column-end ---
 

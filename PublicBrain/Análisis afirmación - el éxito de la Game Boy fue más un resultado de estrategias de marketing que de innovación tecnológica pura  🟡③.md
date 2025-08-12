@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-11T19:22:28.185Z
-modified: 2025-08-11T20:34:03.435Z
+modified: 2025-08-12T14:06:39.346Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Análisis afirmación - el éxito de la Game Boy fue más un resultado de estrategias de marketing que de innovación tecnológica pura  🟡③
 
-[[Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy ⚫①]]
+[[Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③]]
 
 
 Q: Es cierta esta referencia bibliográfica? me localizas las paginas y pasaje exactos?  [Kent, S. L. (2001). The Ultimate History of Video Games: From Pong to Pokémon. Three Rivers Press. 🌐🟡③](https://en.wikipedia.org/wiki/The_Ultimate_History_of_Video_Games) - Sugiere que el éxito de la Game Boy fue más un resultado de estrategias de marketing que de innovación tecnológica pura.

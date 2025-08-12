@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-09T22:23:22.134Z
-modified: 2025-08-10T11:52:48.149Z
+modified: 2025-08-10T17:28:00.278Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,8 +25,6 @@ tags:
 
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③|<< Anterior]] | Siguiente >>
-
-> OJO WIP
 
 ## Introducción
 

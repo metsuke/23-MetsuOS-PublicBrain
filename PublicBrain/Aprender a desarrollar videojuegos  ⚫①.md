@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-08-10T16:12:34.035Z
+modified: 2025-08-12T13:01:57.180Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 14
+ver_rev: 15
 nav_primary: 
 nav_secondary: 
 tags:
@@ -52,6 +52,18 @@ Number of Columns: 2
 Border: off
 ```
  
+![Portada de revista de videojuegos con el curso de GB Studio](_resources/ff7ce511fecc52c6d4c3e4d6b93b33b2_MD5.jpg)
+## Curso de GB Studio
+
+¡Bienvenidos al Curso de GB Studio! 
+
+En este curso, exploraremos las fascinantes posibilidades de GB Studio, una herramienta gratuita y fácil de usar que permite a cualquier persona crear videojuegos al estilo retro para la Game Boy sin necesidad de conocimientos avanzados de programación. 
+
+
+Continuar leyendo en ... [[Curso de GB Studio ⚫①]]
+
+ --- column-end ---
+
 
 ![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
 ## Tutorial de AGD 2018 Edition
@@ -118,18 +130,6 @@ Bienvenidos al Curso de Visual Batari Basic, una emocionante oportunidad para ex
 Visual Batari Basic combina la simplicidad del lenguaje Batari Basic con un entorno visual intuitivo, permitiendo a principiantes y entusiastas crear juegos retro con facilidad, sin sacrificar la flexibilidad que los programadores más experimentados buscan. 
 
 Continuar leyendo en [[Curso de Visual bB ⚫①]]
-
- --- column-end ---
-
-![Portada de revista de videojuegos con el curso de GB Studio](_resources/ff7ce511fecc52c6d4c3e4d6b93b33b2_MD5.jpg)
-## Curso de GB Studio
-
-¡Bienvenidos al Curso de GB Studio! 
-
-En este curso, exploraremos las fascinantes posibilidades de GB Studio, una herramienta gratuita y fácil de usar que permite a cualquier persona crear videojuegos al estilo retro para la Game Boy sin necesidad de conocimientos avanzados de programación. 
-
-
-Continuar leyendo en ... [[Curso de GB Studio ⚫①]]
 
  --- column-end ---
 

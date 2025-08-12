@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-10T17:11:29.270Z
+modified: 2025-08-12T13:01:19.834Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 67
+ver_rev: 72
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,30 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+![Historia de GB](PublicBrain/_resources/90b3980bba7ddcbbc8cfafbacecce455_MD5.jpg)
+## Capítulo 03: Contexto histórico de la Game Boy
+
+La Game Boy, lanzada por Nintendo en 1989, supuso un antes y un después en el mundo de los videojuegos portátiles. 
+
+Esta pequeña consola no solo sentó las bases del gaming móvil tal como lo conocemos hoy, sino que también estableció un estándar único para los juegos retro en 8 bits, un legado que sigue vivo gracias a herramientas como GB Studio. 
+
+Continuar leyendo en [[Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy ⚫①]]
+
+--- column-end ---
+
+
+![Perseguido por un toro rojo en llamas](/PublicBrain/_resources/1b3140c423d487ad4c824f454db4a5b1_MD5.jpeg)
+## Blog / El tiempo, resulta que si es oro
+
+Los que programamos, como forma de vida, con independencia de que sea nuestra profesion habitual o no, sabemos desde siempre que el tiempo es oro, o, de forma más precisa, que si no automatizas, no llegarás muy lejos.
+
+De las máquinas programables con decenas de miles de cablecitos físicos, los transistores que permitieron máquinas cada vez mas genéricas programadas directamente con ceros y unos, el assembler, c y todos los niveles de abstracción posteriores que han permitido una explosión de creatividad expansiva, son hijos de la misma premisa, y a nadie en su sano juicio se le ha ocurido reivindicar lo injusto de los compiladores de c que vienen a quitar el trabajo a los creadores de código artesano para la ENIAC.
+
+Continua leyendo en ... [[Blog - El tiempo resulta que si es oro - 2025-08-11 ⚫①]]
+
+--- column-end ---
 
 ![Logo Pixelado que representaba a thEpOpE en mi anterior versión de la web](PublicBrain/_resources/9c709853cc843e20b2c1bfcb933c2673_MD5.jpg)
 ## Curso AGD 2018 Edition / Capítulo 26:  Edición avanzada en AGD con la herramienta "Perilla" de Sergio "thEpOpE"
@@ -69,16 +93,6 @@ Desde los fundamentos hasta técnicas avanzadas, aprenderás a crear mapas para 
 
 Continua leyendo en ... [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
 
---- column-end ---
-
-![ahuahuahu](_resources/d1ae4ab2705f7cf313534a352985c784_MD5.jpg)
-## Blog / Cansado de construir sobre arenas movedizas
-
-Desde que comencé a programar, siempre ha sido la misma historia, cuando empiezas a tener una base solida sobre la que construir, el suelo bajo tus pies desaparece por caprichos tecnicos, persecución de objetos brillantes o, como pasa en el mundo retro, muerte o abandono de los creadores.
-
-Está claro que nada dura para siempre, pero empiezo a estar muy cansado de la tendencia del mundo del retro a pensar en local, en pequeño, y que el que venga "se busque la vida", yo hago mi herramienta para mi windows, dejo que mi ego me impida abrir el codigo y cuando desaparezco, me llevo media scene conmigo o, cuando menos dificulto su trabajo. Esto debe terminar.
-
-Continua leyendo en ... [[Blog - Cansado de construir sobre arenas movedizas - 2025-07-29 ⚫①]]
 
 --- column-end ---
 
@@ -127,17 +141,6 @@ El Atari 2600, lanzado en 1977, supuso un antes y un después en la historia de 
 Por otro lado, Visual Batari Basic (Visual bB), una herramienta contemporánea, facilita a desarrolladores, desde principiantes hasta expertos, la creación de juegos para esta icónica consola. Este documento analiza la historia del Atari 2600, su impacto cultural y cómo Visual bB actúa como un puente entre el pasado y el presente del desarrollo de videojuegos.
 
 Continuar leyendo en ... [[Historia y contexto del Atari 2600 y su relación con Visual bB 🟡③]]
-
---- column-end ---
-
-![GBStudio Requisitos Previos](PublicBrain/_resources/9b0e528c1fc5a8a09fb5380290aa612b_MD5.jpg)
-## Curso de GB Studio / Requisitos previos y herramientas necesarias para GBStudio
-
-GB Studio es una herramienta accesible y poderosa para desarrollar videojuegos retro al estilo Game Boy, ideal tanto para principiantes como para entusiastas del diseño de juegos. 
-
-Este documento detalla los requisitos previos y las herramientas necesarias para aprovechar al máximo un curso de GB Studio, con una redacción optimizada para claridad y un enfoque práctico, acompañado de referencias verificadas que respaldan y cuestionan el contenido.
-
-Continuar leyendo en [[Requisitos previos y herramientas necesarias para GBStudio 🟡③]]
 
 
 --- column-end ---

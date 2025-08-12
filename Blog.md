@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-07-29T18:42:36.190Z
+modified: 2025-08-11T12:30:29.223Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 30
+ver_rev: 33
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,18 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+![Perseguido por un toro rojo en llamas](/PublicBrain/_resources/1b3140c423d487ad4c824f454db4a5b1_MD5.jpeg)
+## El tiempo, resulta que si es oro
+
+Los que programamos, como forma de vida, con independencia de que sea nuestra profesion habitual o no, sabemos desde siempre que el tiempo es oro, o, de forma más precisa, que si no automatizas, no llegarás muy lejos.
+
+De las máquinas programables con decenas de miles de cablecitos físicos, los transistores que permitieron máquinas cada vez mas genéricas programadas directamente con ceros y unos, el assembler, c y todos los niveles de abstracción posteriores que han permitido una explosión de creatividad expansiva, son hijos de la misma premisa, y a nadie en su sano juicio se le ha ocurido reivindicar lo injusto de los compiladores de c que vienen a quitar el trabajo a los creadores de código artesano para la ENIAC.
+
+Continua leyendo en ... [[Blog - El tiempo resulta que si es oro - 2025-08-11 ⚫①]]
+
+--- column-end ---
 
 ![ahuahuahu](_resources/d1ae4ab2705f7cf313534a352985c784_MD5.jpg)
 ## Cansado de construir sobre arenas movedizas

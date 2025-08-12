@@ -9,22 +9,22 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-23T11:28:18.884Z
-modified: 2025-06-23T20:12:52.713Z
+modified: 2025-08-11T15:29:51.378Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Requisitos previos y herramientas necesarias para GBStudio 🟡③
+# Curso de GB Studio - Capítulo 02 - Requisitos previos y herramientas necesarias para GBStudio 🟡③
 
 ![GBStudio Requisitos Previos](PublicBrain/_resources/d85734089b0778816f8475abb455372a_MD5.jpg)
 
 * [[Curso de GB Studio ⚫①]]
-* [[Qué es GB Studio 🟡③|<< Anterior]] | Siguiente >>
+* [[Curso de GB Studio - Capítulo 01 - Qué es GB Studio 🟡③|<< Anterior]] | [[Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy ⚫①|Siguiente >>]]
 
 GB Studio es una herramienta accesible y poderosa para desarrollar videojuegos retro al estilo Game Boy, ideal tanto para principiantes como para entusiastas del diseño de juegos.
 

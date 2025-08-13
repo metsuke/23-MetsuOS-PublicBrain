@@ -59,7 +59,7 @@ Continuar leyendo en ... [[Curso de GB Studio - Capítulo 01 - Qué es GB Studio
 
 GB Studio es una herramienta accesible y poderosa para desarrollar videojuegos retro al estilo Game Boy, ideal tanto para principiantes como para entusiastas del diseño de juegos. Este documento detalla los requisitos previos y las herramientas necesarias para aprovechar al máximo un curso de GB Studio, con una redacción optimizada para claridad y un enfoque práctico, acompañado de referencias verificadas que respaldan y cuestionan el contenido.
 
-Continuar leyendo en [[Curso de GB Studio - Capítulo 02 - Requisitos previos y herramientas necesarias para GBStudio 🟡③]]
+Continuar leyendo en ... [[Curso de GB Studio - Capítulo 02 - Requisitos previos y herramientas necesarias para GBStudio 🟡③]]
 
 --- column-end ---
 
@@ -70,7 +70,7 @@ La Game Boy, lanzada por Nintendo en 1989, supuso un antes y un después en el m
 
 Esta pequeña consola no solo sentó las bases del gaming móvil tal como lo conocemos hoy, sino que también estableció un estándar único para los juegos retro en 8 bits, un legado que sigue vivo gracias a herramientas como GB Studio. 
 
-Continuar leyendo en [[Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③]]
+Continuar leyendo en ... [[Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③]]
 
  --- column-end ---
 --- multi-column-end

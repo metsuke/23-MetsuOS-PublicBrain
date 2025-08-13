@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-12T14:06:39.299Z
+modified: 2025-08-13T13:37:08.260Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 73
+ver_rev: 75
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,19 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Pantalla de mensajes](PublicBrain/_resources/76f13e7d9f4ce831f51e3a73d84ad8ce_MD5.jpg)
+## Capítulo 27:  Editor de Textos y Mensajes
+
+En el capítulo de hoy hablaremos del editor de Textos/Mensajes de AGD.
+        
+Antes de nada una advertencia, esta función tiene cierta tendencia a fallar y cargarse los objetos del juego (o algunos).
+        
+Como precaución adicional, graba un snapshot antes de editar, comprueba los objetos regularmente y asegurate de que ninguno está dañado al terminar (o incluso más a menudo), guardando un snapshot adicional. No te arrepentirás.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 27 - Editor de Textos y Mensajes ⚫①]]
+
+--- column-end ---
 
 ![Historia de GB](PublicBrain/_resources/90b3980bba7ddcbbc8cfafbacecce455_MD5.jpg)
 ## Capítulo 03: Contexto histórico de la Game Boy
@@ -48,17 +61,6 @@ Los que programamos, como forma de vida, con independencia de que sea nuestra pr
 De las máquinas programables con decenas de miles de cablecitos físicos, los transistores que permitieron máquinas cada vez mas genéricas programadas directamente con ceros y unos, el assembler, c y todos los niveles de abstracción posteriores que han permitido una explosión de creatividad expansiva, son hijos de la misma premisa, y a nadie en su sano juicio se le ha ocurido reivindicar lo injusto de los compiladores de c que vienen a quitar el trabajo a los creadores de código artesano para la ENIAC.
 
 Continua leyendo en ... [[Blog - El tiempo resulta que si es oro - 2025-08-11 ⚫①]]
-
---- column-end ---
-
-![Logo Pixelado que representaba a thEpOpE en mi anterior versión de la web](PublicBrain/_resources/9c709853cc843e20b2c1bfcb933c2673_MD5.jpg)
-## Curso AGD 2018 Edition / Capítulo 26:  Edición avanzada en AGD con la herramienta "Perilla" de Sergio "thEpOpE"
-
-Estos meses hemos trabajado con el interfaz pelado de AGD, lo seguiremos haciendo, pero va siendo hora de ampliar horizontes con herramientas de terceros que nos brindan opciones impensables originalmente.
-
-Es el caso de la herramienta "Perilla", de Sergio "thEpOpE", que funciona en Mac, Linux y Windows, y nos permite extraer el contenido de nuestro juego de AGD a ficheros manejables desde nuestro sistema operativo, editarlos con herramientas actuales e inyectarlos nuevamente en AGD.
-
-Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 26 - Edición avanzada en AGD con la herramienta Perilla de Sergio thEpOpE  ⚫①]]
 
 --- column-end ---
 

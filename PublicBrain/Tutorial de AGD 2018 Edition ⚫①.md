@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-10T17:04:42.478Z
+modified: 2025-08-13T13:36:31.670Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 44
+ver_rev: 47
 nav_primary: 
 nav_secondary: 
 tags:
@@ -315,14 +315,26 @@ Es el caso de la herramienta "Perilla", de Sergio "thEpOpE", que funciona en Mac
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 26 - Edición avanzada en AGD con la herramienta Perilla de Sergio thEpOpE  ⚫①]]
 
+--- column-end ---
+
+![Pantalla de mensajes](PublicBrain/_resources/76f13e7d9f4ce831f51e3a73d84ad8ce_MD5.jpg)
+## Capítulo 27:  Editor de Textos y Mensajes
+
+En el capítulo de hoy hablaremos del editor de Textos/Mensajes de AGD.
+        
+Antes de nada una advertencia, esta función tiene cierta tendencia a fallar y cargarse los objetos del juego (o algunos).
+        
+Como precaución adicional, graba un snapshot antes de editar, comprueba los objetos regularmente y asegurate de que ninguno está dañado al terminar (o incluso más a menudo), guardando un snapshot adicional. No te arrepentirás.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 27 - Editor de Textos y Mensajes ⚫①]]
+
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
 
-
-* Tutorial de AGD 2018 Capitulo 27
 * Tutorial de AGD 2018 Capitulo 28
 * Tutorial de AGD 2018 Capitulo 29
 * Tutorial de AGD 2018 Capitulo 30

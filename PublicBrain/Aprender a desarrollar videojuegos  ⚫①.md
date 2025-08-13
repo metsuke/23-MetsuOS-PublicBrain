@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-08-12T13:01:57.180Z
+modified: 2025-08-13T12:36:03.117Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 15
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,18 +51,6 @@ Además, la comunidad de desarrolladores es un recurso invaluable, ofreciendo ap
 Number of Columns: 2
 Border: off
 ```
- 
-![Portada de revista de videojuegos con el curso de GB Studio](_resources/ff7ce511fecc52c6d4c3e4d6b93b33b2_MD5.jpg)
-## Curso de GB Studio
-
-¡Bienvenidos al Curso de GB Studio! 
-
-En este curso, exploraremos las fascinantes posibilidades de GB Studio, una herramienta gratuita y fácil de usar que permite a cualquier persona crear videojuegos al estilo retro para la Game Boy sin necesidad de conocimientos avanzados de programación. 
-
-
-Continuar leyendo en ... [[Curso de GB Studio ⚫①]]
-
- --- column-end ---
 
 
 ![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
@@ -74,6 +62,18 @@ Hace poco dos fans del este curso, que no estaba disponible online desde 2021, m
 Continua leyendo en ... [[Tutorial de AGD 2018 Edition ⚫①]]
 
 --- column-end ---
+
+![Portada de revista de videojuegos con el curso de GB Studio](_resources/ff7ce511fecc52c6d4c3e4d6b93b33b2_MD5.jpg)
+## Curso de GB Studio
+
+¡Bienvenidos al Curso de GB Studio! 
+
+En este curso, exploraremos las fascinantes posibilidades de GB Studio, una herramienta gratuita y fácil de usar que permite a cualquier persona crear videojuegos al estilo retro para la Game Boy sin necesidad de conocimientos avanzados de programación. 
+
+
+Continuar leyendo en ... [[Curso de GB Studio ⚫①]]
+
+ --- column-end ---
 
 ![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
 ## Curso de ZX Game Maker

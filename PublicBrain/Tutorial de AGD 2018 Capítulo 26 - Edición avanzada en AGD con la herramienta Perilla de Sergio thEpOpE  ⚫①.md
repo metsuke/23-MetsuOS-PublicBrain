@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-10T15:41:40.051Z
-modified: 2025-08-10T17:04:15.075Z
+modified: 2025-08-13T12:20:26.371Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Logo Pixelado que representaba a thEpOpE en mi anterior versión de la web](PublicBrain/_resources/9c709853cc843e20b2c1bfcb933c2673_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 25 - Buscando como poner música en AGD usando el chip AY ⚫①|<< Anterior]] |  Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 25 - Buscando como poner música en AGD usando el chip AY ⚫①|<< Anterior]] |  [[Tutorial de AGD 2018 Capítulo 27 - Editor de Textos y Mensajes ⚫①|Siguiente >>]]
 
 Estos meses hemos trabajado con el interfaz pelado de AGD, lo seguiremos haciendo, pero va siendo hora de ampliar horizontes con herramientas de terceros que nos brindan opciones impensables originalmente.
 
@@ -55,5 +55,6 @@ Podeis acceder a la herramienta actualizada a través del propio [Google Drive e
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si has llegado aquí sin saber porque alguien querria enseñarte sobre tactos rectales, pasa rapidamente a la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 25 - Buscando como poner música en AGD usando el chip AY ⚫①|Si no tienes nada claro esto de usar perillas, vuelve a la pagina 25]]
 * [[Tutorial de AGD 2018 Capítulo 26 - Edición avanzada en AGD con la herramienta Perilla de Sergio thEpOpE  ⚫①|En caso de que hayas venido, pero no hayas llegado, aguanta una mica y pasa a la página 26]]
+* [[Tutorial de AGD 2018 Capítulo 27 - Editor de Textos y Mensajes ⚫①|Si el mensaje te ha llegado, muy probablemente haya sido enviado desde la página 27]]
 
 ![[Plantilla - 1MT#One More Thing]]

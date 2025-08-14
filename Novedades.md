@@ -27,6 +27,16 @@ Number of Columns: 2
 Border: off
 ```
 
+![Que es tiled](PublicBrain/_resources/78de386c4d6069241a37678bb849d52e_MD5.jpg)
+### ¿Qué es Tiled Map Editor?
+
+En este capítulo, vamos a descubrir Tiled Map Editor, una herramienta potente y gratuita que te ayudará a dar forma a los niveles de tus juegos. Se ha convertido en un referente para desarrolladores independientes y aficionados que quieren materializar sus ideas sin gastar en software caro. 
+
+Es un punto de partida perfecto si estás empezando o si buscas pulir tus habilidades en el diseño de niveles, con una curva de aprendizaje amigable y resultados profesionales.
+
+Seguir leyendo en ... [[Curso de Tiled Capítulo 01 - Qué es Tiled Map Editor 🟡③]]
+
+--- column-end ---
 
 ![3791 juegos para dominarlos a todos](PublicBrain/_resources/5aa0f87e58ed967d1ecf571758c2a598_MD5.jpg)
 

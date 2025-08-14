@@ -52,6 +52,16 @@ Number of Columns: 2
 Border: off
 ```
 
+![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
+## Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D
+
+Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta gratuita y de código abierto para diseñar mapas de niveles en videojuegos 2D. 
+
+Desde los fundamentos hasta técnicas avanzadas, aprenderás a crear mapas para juegos de plataformas, RPG y más, integrándolos en motores de juego populares. 
+
+Continua leyendo en ... [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
+
+--- column-end ---
 
 ![3791 juegos para dominarlos a todos](PublicBrain/_resources/5aa0f87e58ed967d1ecf571758c2a598_MD5.jpg)
 
@@ -62,6 +72,20 @@ Tres juegos para la Atari 2600 bajo el cielo pixelado, siete para la NES en sus 
 ¿Y el ZX Spectrum? para ese un 32 in 1 xDDD ... si, probablemente el anillo único me ha hecho perder tantos puntos de cordura que he empezado a usar nudos en cuerdas de esparto para acordarme de las cosas, pero vamos a divertirnos sin miedo, que de eso va la vida, o al menos en parte.
 
 Continua leyendo en ... [[MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①]]
+
+--- column-end ---
+
+
+![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
+## Curso de ZX Game Maker
+
+El Curso de ZX Game Maker está diseñado para introducir a principiantes y entusiastas en el apasionante mundo del desarrollo de videojuegos 2D utilizando el motor ZX Game Maker, una herramienta accesible y potente para crear juegos sin necesidad de conocimientos avanzados de programación. 
+
+Dada la filosofía del motor, y que este está en pleno desarrollo, organizaremos el curso en tres bloques, el primero, para aprnder a crear juegos, el segundo para avanzar en el conocimiento de la plataforma convirtiendo un juego desde AGD (tecnicamente será un demake pues AGD permite mas libertad que ZXGM) y una tercera donde compartiré lo que aprenda en torno al apoyo al proyecto como desarrollador.
+
+Logicamente, empezaremos por lo básico.
+
+Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
 
 --- column-end ---
 
@@ -87,18 +111,6 @@ Continuar leyendo en ... [[Curso de GB Studio ⚫①]]
 
  --- column-end ---
 
-![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
-## Curso de ZX Game Maker
-
-El Curso de ZX Game Maker está diseñado para introducir a principiantes y entusiastas en el apasionante mundo del desarrollo de videojuegos 2D utilizando el motor ZX Game Maker, una herramienta accesible y potente para crear juegos sin necesidad de conocimientos avanzados de programación. 
-
-Dada la filosofía del motor, y que este está en pleno desarrollo, organizaremos el curso en tres bloques, el primero, para aprnder a crear juegos, el segundo para avanzar en el conocimiento de la plataforma convirtiendo un juego desde AGD (tecnicamente será un demake pues AGD permite mas libertad que ZXGM) y una tercera donde compartiré lo que aprenda en torno al apoyo al proyecto como desarrollador.
-
-Logicamente, empezaremos por lo básico.
-
-Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
-
---- column-end ---
 
 ![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
 ## Curso de ZX-Paintbrush
@@ -111,16 +123,6 @@ Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para Z
 
 --- column-end ---
 
-![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
-## Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D
-
-Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta gratuita y de código abierto para diseñar mapas de niveles en videojuegos 2D. 
-
-Desde los fundamentos hasta técnicas avanzadas, aprenderás a crear mapas para juegos de plataformas, RPG y más, integrándolos en motores de juego populares. 
-
-Continua leyendo en ... [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
-
---- column-end ---
 
 
 ![Crea Juegos al Estilo Maquinita con Boriel BASIC](PublicBrain/_resources/912c721564e4fb5443997ddffaab4cb2_MD5.jpg)

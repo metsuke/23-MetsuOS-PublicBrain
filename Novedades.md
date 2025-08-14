@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-14T12:51:08.655Z
+modified: 2025-08-14T21:08:58.290Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 77
+ver_rev: 78
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,7 +28,7 @@ Border: off
 ```
 
 ![Que es tiled](PublicBrain/_resources/78de386c4d6069241a37678bb849d52e_MD5.jpg)
-### ¿Qué es Tiled Map Editor?
+### Curso Tiled / Capítulo 01 - ¿Qué es Tiled Map Editor?
 
 En este capítulo, vamos a descubrir Tiled Map Editor, una herramienta potente y gratuita que te ayudará a dar forma a los niveles de tus juegos. Se ha convertido en un referente para desarrolladores independientes y aficionados que quieren materializar sus ideas sin gastar en software caro. 
 
@@ -40,7 +40,7 @@ Seguir leyendo en ... [[Curso de Tiled Capítulo 01 - Qué es Tiled Map Editor �
 
 ![3791 juegos para dominarlos a todos](PublicBrain/_resources/5aa0f87e58ed967d1ecf571758c2a598_MD5.jpg)
 
-## 3971 juegos para dominarlos a todos, un 32 in 1 muy particular
+## Curso ZX Game Maker / MOS Games - 3971 juegos para dominarlos a todos, un 32 in 1 muy particular
 
 Tres juegos para la Atari 2600 bajo el cielo pixelado, siete para la NES en sus cartuchos dorados, nueve para la Sega Mega Drive en su velocidad condenados, uno para la Commodore 64 en su trono retro sentado, en la tierra de los 8 bits donde los sprites reinan, un juego para gobernarlos a todos, un juego para encontrarlos, un juego para atraerlos a todos y en la nostalgia atarlos, en la tierra de los 8 bits donde los sprites reinan.
 
@@ -51,7 +51,7 @@ Continua leyendo en ... [[MOS Games - 3791 juegos para dominarlos a todos - un 3
 --- column-end ---
 
 ![Pantalla de mensajes](PublicBrain/_resources/76f13e7d9f4ce831f51e3a73d84ad8ce_MD5.jpg)
-## Capítulo 27:  Editor de Textos y Mensajes
+## Curso AGD / Capítulo 27:  Editor de Textos y Mensajes
 
 En el capítulo de hoy hablaremos del editor de Textos/Mensajes de AGD.
         
@@ -64,7 +64,7 @@ Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 27 - Editor de Textos 
 --- column-end ---
 
 ![Historia de GB](PublicBrain/_resources/90b3980bba7ddcbbc8cfafbacecce455_MD5.jpg)
-## Capítulo 03: Contexto histórico de la Game Boy
+## Curso GB Studio / Capítulo 03: Contexto histórico de la Game Boy
 
 La Game Boy, lanzada por Nintendo en 1989, supuso un antes y un después en el mundo de los videojuegos portátiles. 
 
@@ -86,17 +86,6 @@ Continua leyendo en ... [[Blog - El tiempo resulta que si es oro - 2025-08-11 �
 
 --- column-end ---
 
-![Estructura de ZXGM](PublicBrain/_resources/4dc9c9daf6e92425ff4724042d24a2b5_MD5.jpg)
-## Curso ZXGM Básico / Capítulo 03: Exploración de la estructura general del motor
-
-En este capítulo, nos enfocamos en lo mínimo que necesitas saber para crear un juego con ZX Game Maker (ZXGM): el launcher, la carpeta `assets` y la carpeta `examples`. 
-
-Asumimos que ya instalaste ZXGM según [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③|el capítulo anterior]].
-
-Continuar leyendo en ... [[Curso de ZXGM Básico 03 - Explorando la estructura general del motor 🟡③]]
-
---- column-end ---
-
 ![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
 ## Curso de ZX-Paintbrush
 
@@ -105,18 +94,6 @@ Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una h
 A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
 
 Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]]
-
---- column-end ---
-
-![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
-## Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D
-
-Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta gratuita y de código abierto para diseñar mapas de niveles en videojuegos 2D. 
-
-Desde los fundamentos hasta técnicas avanzadas, aprenderás a crear mapas para juegos de plataformas, RPG y más, integrándolos en motores de juego populares. 
-
-Continua leyendo en ... [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
-
 
 --- column-end ---
 

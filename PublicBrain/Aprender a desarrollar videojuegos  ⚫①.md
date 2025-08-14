@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-08-13T12:36:03.117Z
+modified: 2025-08-14T12:51:08.669Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 16
+ver_rev: 18
 nav_primary: 
 nav_secondary: 
 tags:
@@ -52,6 +52,18 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![3791 juegos para dominarlos a todos](PublicBrain/_resources/5aa0f87e58ed967d1ecf571758c2a598_MD5.jpg)
+
+## 3971 juegos para dominarlos a todos, un 32 in 1 muy particular
+
+Tres juegos para la Atari 2600 bajo el cielo pixelado, siete para la NES en sus cartuchos dorados, nueve para la Sega Mega Drive en su velocidad condenados, uno para la Commodore 64 en su trono retro sentado, en la tierra de los 8 bits donde los sprites reinan, un juego para gobernarlos a todos, un juego para encontrarlos, un juego para atraerlos a todos y en la nostalgia atarlos, en la tierra de los 8 bits donde los sprites reinan.
+
+¿Y el ZX Spectrum? para ese un 32 in 1 xDDD ... si, probablemente el anillo único me ha hecho perder tantos puntos de cordura que he empezado a usar nudos en cuerdas de esparto para acordarme de las cosas, pero vamos a divertirnos sin miedo, que de eso va la vida, o al menos en parte.
+
+Continua leyendo en ... [[MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①]]
+
+--- column-end ---
 
 ![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
 ## Tutorial de AGD 2018 Edition

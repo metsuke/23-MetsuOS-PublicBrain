@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-08-10T12:17:07.880Z
+modified: 2025-08-14T12:51:08.677Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 12
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
@@ -74,12 +74,39 @@ Continuar leyendo en ... [[Curso de ZXGM Básico 03 - Explorando la estructura g
  --- column-end ---
 --- multi-column-end
 
-* 1973 juegos para dominarlos a todos
-	* "Cursed Zapatilla", el juego plataformero que crearemos durante el curso.
-	* "Zapatilla Bross", el juego arcade que crearemos durante el curso.
-	* "Zas Patillas", el juego cenital arcade que crearemos durante el curso.
-	* "Zapa Zapa: Mercadillo's Awakening", el juego cenital rolero que crearemos durante el curso.
-	* "Zapaxxian", el juego de naves que intentaré hacer de forma experimental.
+### Intermission
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![3791 juegos para dominarlos a todos](PublicBrain/_resources/5aa0f87e58ed967d1ecf571758c2a598_MD5.jpg)
+
+## 3971 juegos para dominarlos a todos, un 32 in 1 muy particular
+
+Tres juegos para la Atari 2600 bajo el cielo pixelado, siete para la NES en sus cartuchos dorados, nueve para la Sega Mega Drive en su velocidad condenados, uno para la Commodore 64 en su trono retro sentado, en la tierra de los 8 bits donde los sprites reinan, un juego para gobernarlos a todos, un juego para encontrarlos, un juego para atraerlos a todos y en la nostalgia atarlos, en la tierra de los 8 bits donde los sprites reinan.
+
+¿Y el ZX Spectrum? para ese un 32 in 1 xDDD ... si, probablemente el anillo único me ha hecho perder tantos puntos de cordura que he empezado a usar nudos en cuerdas de esparto para acordarme de las cosas, pero vamos a divertirnos sin miedo, que de eso va la vida, o al menos en parte.
+
+Continua leyendo en ... [[MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①]]
+
+ --- column-end ---
+ 
+![32 in 1 Games Cartridge](PublicBrain/_resources/d11af63a85f3689365762a4fba23dadd_MD5.jpg)
+
+## ¿32 in 1 ... o quieres más?
+
+¿Quieres hacer crecer la lista? propónme cosas interesantes via X/Twitter y las evaluaré. 
+
+Propón en ... [Metsuke en X/Twitter](https://x.com/metsuke)
+ 
+ --- column-end ---
+--- multi-column-end
+
+## Entramos a Sab.. emm en harina
+
 - Configuración de un nuevo proyecto
 - Pantalla de presentación y pantalla de victoria
 - El HUD

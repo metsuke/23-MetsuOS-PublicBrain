@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-08T20:26:42.009Z
-modified: 2025-08-08T21:54:07.071Z
+modified: 2025-08-14T19:39:31.157Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
 
 * [[Aprender a desarrollar videojuegos  ⚫①]]
-* Siguiente >>
+* [[Curso de Tiled Capítulo 01 - Qué es Tiled Map Editor 🟡③|Comenzar el curso >>]]
 
 Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta gratuita y de código abierto para diseñar mapas de niveles en videojuegos 2D. 
 
@@ -34,12 +34,28 @@ El curso combina teoría, práctica y proyectos reales para que domines Tiled y 
 
 ## Módulo 1: Primeros Pasos con Tiled Map Editor
 
-### 1.1 ¿Qué es Tiled Map Editor?
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+![Que es tiled](PublicBrain/_resources/78de386c4d6069241a37678bb849d52e_MD5.jpg)
+### ¿Qué es Tiled Map Editor?
 
-- **Historia y propósito**: Orígenes de Tiled y su evolución como herramienta clave en el diseño de niveles.
-- **Aplicaciones**: Uso en géneros como RPG, plataformas y aventuras gráficas.
-- **Código abierto**: Licencia GPL, comunidad de desarrolladores y su impacto.
-- **Compatibilidad**: Funcionamiento en Windows, macOS y Linux.
+En este capítulo, vamos a descubrir Tiled Map Editor, una herramienta potente y gratuita que te ayudará a dar forma a los niveles de tus juegos. Se ha convertido en un referente para desarrolladores independientes y aficionados que quieren materializar sus ideas sin gastar en software caro. 
+
+Es un punto de partida perfecto si estás empezando o si buscas pulir tus habilidades en el diseño de niveles, con una curva de aprendizaje amigable y resultados profesionales.
+
+Seguir leyendo en ... [[Curso de Tiled Capítulo 01 - Qué es Tiled Map Editor 🟡③]]
+
+ --- column-end ---
+
+
+
+
+
+ --- column-end ---
+--- multi-column-end
 
 ### 1.2 Instalación y Configuración
 

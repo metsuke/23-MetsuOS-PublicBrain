@@ -27,6 +27,18 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![JBA Arcade Cabinet](PublicBrain/_resources/05e24fb1662263aece087bd65b2c1d93_MD5.jpg)
+## Curso de AGD / Capítulo 28:  Test final y creación del .tap
+
+Tras unos meses desarrollando nuestro juego, es hora de crear, por primera vez, nuestor juego en formato usable por nuestros jugadores.
+
+Estamos MUY cerca del final de la republicación, momento en el cual daremos el salto a ZX Game Maker, Prisma y Tuerkas128,
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 28 - Test final y creación del .tap ⚫①]]
+
+--- column-end ---
+
 ![Que es tiled](PublicBrain/_resources/78de386c4d6069241a37678bb849d52e_MD5.jpg)
 ### Curso Tiled / Capítulo 01 - ¿Qué es Tiled Map Editor?
 
@@ -50,18 +62,6 @@ Continua leyendo en ... [[MOS Games - 3791 juegos para dominarlos a todos - un 3
 
 --- column-end ---
 
-![Pantalla de mensajes](PublicBrain/_resources/76f13e7d9f4ce831f51e3a73d84ad8ce_MD5.jpg)
-## Curso AGD / Capítulo 27:  Editor de Textos y Mensajes
-
-En el capítulo de hoy hablaremos del editor de Textos/Mensajes de AGD.
-        
-Antes de nada una advertencia, esta función tiene cierta tendencia a fallar y cargarse los objetos del juego (o algunos).
-        
-Como precaución adicional, graba un snapshot antes de editar, comprueba los objetos regularmente y asegurate de que ninguno está dañado al terminar (o incluso más a menudo), guardando un snapshot adicional. No te arrepentirás.
-
-Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 27 - Editor de Textos y Mensajes ⚫①]]
-
---- column-end ---
 
 ![Historia de GB](PublicBrain/_resources/90b3980bba7ddcbbc8cfafbacecce455_MD5.jpg)
 ## Curso GB Studio / Capítulo 03: Contexto histórico de la Game Boy

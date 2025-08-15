@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
 iaStatus_Model: Raúl Carrillo Garrido aka metsuke
-iaStatus_Generado: "H"
-iaStatus_Supervisado: "-"
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-13T13:36:31.670Z
+modified: 2025-08-15T00:09:11.828Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 47
+ver_rev: 1
 nav_primary: 
 nav_secondary: 
 tags:
@@ -87,7 +87,7 @@ Continuar leyendo en ... [[Tutorial de AGD 2018 Capitulo 05 - Animando sprites �
 --- column-end ---
 
 ![La secuencia de salto del sprite del prota](PublicBrain/_resources/817694b86c4ed96db1dbf6c390bab679_MD5.jpg)
-## Capítulo 06: Importando Sprite Sheets
+## Capítulo 06: "I"mportando Sprite Sheets
 
 Para lograrlo, lo primero es, si no estamos ya en ella, entrar a la pantalla de edicion de sprites (Letra S desde el menú principal), y una vez dentro, pulsar L. 
 
@@ -328,14 +328,22 @@ Como precaución adicional, graba un snapshot antes de editar, comprueba los obj
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 27 - Editor de Textos y Mensajes ⚫①]]
 
+--- column-end ---
+
+![JBA Arcade Cabinet](PublicBrain/_resources/05e24fb1662263aece087bd65b2c1d93_MD5.jpg)
+## Capítulo 28:  Test final y creación del .tap
+
+Tras unos meses desarrollando nuestro juego, es hora de crear, por primera vez, nuestor juego en formato usable por nuestros jugadores.
+
+Estamos MUY cerca del final de la republicación, momento en el cual daremos el salto a ZX Game Maker, Prisma y Tuerkas128,
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 28 - Test final y creación del .tap ⚫①]]
 
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-
-* Tutorial de AGD 2018 Capitulo 28
 * Tutorial de AGD 2018 Capitulo 29
 * Tutorial de AGD 2018 Capitulo 30
 * Tutorial de AGD 2018 Capitulo 31

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-08-14T21:10:13.535Z
+modified: 2025-08-15T00:34:47.131Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 19
+ver_rev: 20
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,6 +51,17 @@ Además, la comunidad de desarrolladores es un recurso invaluable, ofreciendo ap
 Number of Columns: 2
 Border: off
 ```
+
+
+![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
+## Tutorial de AGD 2018 Edition
+
+Hace poco dos fans del este curso, que no estaba disponible online desde 2021, me recordaron que no predicaba solo en el desierto. Si, me tocaron la patata, así que además de lo que tengo en mente, he tomado la determinación de tomarme el tiempo para rescatar aquelllos contenidos de mi vieja y maltrecha web wordpress e incorporarlos en esta nueva etapa. ¡Espero que disfruten creando juego tanto como yo creando el curso!...
+
+
+Continua leyendo en ... [[Tutorial de AGD 2018 Edition ⚫①]]
+
+--- column-end ---
 
 ![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
 ## Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D
@@ -89,15 +100,6 @@ Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
 
 --- column-end ---
 
-![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
-## Tutorial de AGD 2018 Edition
-
-Hace poco dos fans del este curso, que no estaba disponible online desde 2021, me recordaron que no predicaba solo en el desierto. Si, me tocaron la patata, así que además de lo que tengo en mente, he tomado la determinación de tomarme el tiempo para rescatar aquelllos contenidos de mi vieja y maltrecha web wordpress e incorporarlos en esta nueva etapa. ¡Espero que disfruten creando juego tanto como yo creando el curso!...
-
-
-Continua leyendo en ... [[Tutorial de AGD 2018 Edition ⚫①]]
-
---- column-end ---
 
 ![Portada de revista de videojuegos con el curso de GB Studio](_resources/ff7ce511fecc52c6d4c3e4d6b93b33b2_MD5.jpg)
 ## Curso de GB Studio

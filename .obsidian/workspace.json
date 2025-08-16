@@ -11,10 +11,14 @@
             "id": "dc87f1a02f02062f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aprender a desarrollar videojuegos  ⚫①"
             }
           }
         ]
@@ -199,12 +203,14 @@
   },
   "active": "dc87f1a02f02062f",
   "lastOpenFiles": [
-    "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "KB.md",
     "Novedades.md",
     "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
+    "PublicBrain/Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capítulo 28 - Test final y creación del .tap ⚫①.md",
-    "imagenCabecera_Original.jpg",
+    "Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①.md",
+    "PublicBrain/_resources/f7f3c5855c10f2de07b4ce656b08d6a8_MD5.jpg",
+    "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
     "PublicBrain/Tutorial de AGD 2018 Capítulo 27 - Editor de Textos y Mensajes ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capítulo 26 - Edición avanzada en AGD con la herramienta Perilla de Sergio thEpOpE  ⚫①.md",
@@ -233,7 +239,6 @@
     "PublicBrain/Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③.md",
     "PublicBrain/Analisis afirmación - la Sega Game Gear tuvo un impacto subestimado y que la narrativa de dominio de Nintendo exagera su superioridad  🟡③.md",
     "Analisis afirmación - la Sega Game Gear tuvo un impacto subestimado y que la narrativa de dominio de Nintendo exagera su superioridad  🟡③.md",
-    "PublicBrain/Análisis afirmación - el éxito de la Game Boy fue más un resultado de estrategias de marketing que de innovación tecnológica pura  🟡③.md",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

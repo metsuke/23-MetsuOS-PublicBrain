@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-15T00:04:32.067Z
-modified: 2025-08-15T00:09:11.998Z
+modified: 2025-08-16T12:07:32.714Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![JBA Arcade Cabinet](PublicBrain/_resources/05e24fb1662263aece087bd65b2c1d93_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 27 - Editor de Textos y Mensajes ⚫①|<< Anterior]] |  Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 27 - Editor de Textos y Mensajes ⚫①|<< Anterior]] |  [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①|Siguiente >>]]
 
 Tras unos meses desarrollando nuestro juego, es hora de crear, por primera vez, nuestor juego en formato usable por nuestros jugadores.
 
@@ -87,6 +87,6 @@ Una vez que complete la grabación, AGD volverá al menú principal, y tendremos
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si no entiendes porque no estamos de .tap-as, ve a la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 27 - Editor de Textos y Mensajes ⚫①|Si quieres enviar mensajes a la camarera, para que te traiga unas .tap-as, vé la página 27]]
 * [[Tutorial de AGD 2018 Capítulo 28 - Test final y creación del .tap ⚫①|Si no sabes si usar el millon de euros que ganarás con tu juego para .tap-ar agujeros, pasa a la página 28]]
-* Si haces .tap .tap .tap con el boli en la mesa, pasa a la página 29
+* [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①|Si haces .tap .tap .tap con el boli en la mesa, pasa a la página 29]]
 
 ![[Plantilla - 1MT#One More Thing]]

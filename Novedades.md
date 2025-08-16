@@ -27,15 +27,17 @@ Number of Columns: 2
 Border: off
 ```
 
+![Una variedad de entornos con el bloque custom en JBA](PublicBrain/_resources/f7f3c5855c10f2de07b4ce656b08d6a8_MD5.jpg)
+## Capítulo 29:  El contexto lo es todo
 
-![JBA Arcade Cabinet](PublicBrain/_resources/05e24fb1662263aece087bd65b2c1d93_MD5.jpg)
-## Curso de AGD / Capítulo 28:  Test final y creación del .tap
+En AGD trabajamos con medios limitados, pero la imaginación de nuestros jugadores es infinita, solo necesitamos ayudarles a soñar.
 
-Tras unos meses desarrollando nuestro juego, es hora de crear, por primera vez, nuestor juego en formato usable por nuestros jugadores.
+Hoy os quiero comentar algo que puede parecer evidente, pero que quizá no lo sea tanto: 
 
-Estamos MUY cerca del final de la republicación, momento en el cual daremos el salto a ZX Game Maker, Prisma y Tuerkas128,
+> La experiencia de juego se construye en la mente del jugador, no en la pantalla.
 
-Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 28 - Test final y creación del .tap ⚫①]]
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①]]
+
 
 --- column-end ---
 

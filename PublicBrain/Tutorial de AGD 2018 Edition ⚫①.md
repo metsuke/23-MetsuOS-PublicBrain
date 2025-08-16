@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-15T00:09:11.828Z
+modified: 2025-08-16T13:30:04.825Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -339,12 +339,24 @@ Estamos MUY cerca del final de la republicación, momento en el cual daremos el 
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 28 - Test final y creación del .tap ⚫①]]
 
+--- column-end ---
+
+![Una variedad de entornos con el bloque custom en JBA](PublicBrain/_resources/f7f3c5855c10f2de07b4ce656b08d6a8_MD5.jpg)
+## Capítulo 29:  El contexto lo es todo
+
+En AGD trabajamos con medios limitados, pero la imaginación de nuestros jugadores es infinita, solo necesitamos ayudarles a soñar.
+
+Hoy os quiero comentar algo que puede parecer evidente, pero que quizá no lo sea tanto: 
+
+> La experiencia de juego se construye en la mente del jugador, no en la pantalla.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-* Tutorial de AGD 2018 Capitulo 29
 * Tutorial de AGD 2018 Capitulo 30
 * Tutorial de AGD 2018 Capitulo 31
 * Tutorial de AGD 2018 Capitulo 32

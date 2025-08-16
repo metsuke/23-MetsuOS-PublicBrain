@@ -46,7 +46,7 @@ Lo mismo sucedía en los 80 o 90, solo que el impacto emocional fue mayor porque
 
 Para las personas de dicha época un pixel podía ser un pezón, y dado que en aquella época la sexualidad no se vivía de un modo tan abierto como hoy día, ese pixel podía ser obsesión de muchos, mirad sino la portada y pantalla de carga del juego Game Over, de nuevo Contexto, contexto, contexto:
 
-****<iframe width="100%" height="480" src="https://www.youtube.com/embed/mOp07pvu14A?si=p77b6Lw6B5GZ22uz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
+**<iframe width="100%" height="480" src="https://www.youtube.com/embed/mOp07pvu14A?si=p77b6Lw6B5GZ22uz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
 
 Fijaos como, para los standares actuales, el juego requeriria un ramake y, sin embargo en la época era de lo mejor que existía, ni las herramientas, ni el nivel de exigencia del jugador eran los mismos que hoy día.
 

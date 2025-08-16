@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-15T00:47:02.437Z
+modified: 2025-08-16T13:30:31.639Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 79
+ver_rev: 80
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,7 +28,7 @@ Border: off
 ```
 
 ![Una variedad de entornos con el bloque custom en JBA](PublicBrain/_resources/f7f3c5855c10f2de07b4ce656b08d6a8_MD5.jpg)
-## Capítulo 29:  El contexto lo es todo
+## Curso de AGD / Capítulo 29:  El contexto lo es todo
 
 En AGD trabajamos con medios limitados, pero la imaginación de nuestros jugadores es infinita, solo necesitamos ayudarles a soñar.
 

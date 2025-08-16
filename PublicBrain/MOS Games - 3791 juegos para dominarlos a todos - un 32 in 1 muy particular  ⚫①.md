@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-14T09:04:55.743Z
-modified: 2025-08-14T13:59:25.365Z
+modified: 2025-08-16T19:35:42.539Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,7 +34,23 @@ Tres juegos para la Atari 2600 bajo el cielo pixelado, siete para la NES en sus 
 Pretendo que este pack de juegos sean hilo conductor para los cursos de los diferentes makers y, en el futuro, los que me ayuden a enseñar a manejar MOS Game Maker, por ahora, empezaremos por nuestro primer objetivo: ZX Game Maker.
 ## Juegos que intentaremos crear en ZX Game Maker 2025-26
 
-- 001 "Cursed Zapatilla", el juego plataformero que crearemos durante el curso.
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Caratula de Cursed Zapatillas](PublicBrain/_resources/33d90a6b2fb87f43d9c3829c4f53814e_MD5.jpg)
+## MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)
+
+¡Ponte la armadura de Sir Patillas en este emocionante juego de plataformas homenaje a los clásicos _Ghouls 'n Ghosts_, _Ghosts 'n Goblins_ y, especialmente, el naravilloso _Cursed Castilla_! 
+
+Con tus botas de batalla como arma principal, te enfrentarás a zombis, esqueletos y criaturas infernales a base de zapatillazos. En un mundo tétrico pero lleno de color, con cementerios decorados con ...
+
+Continuar leyendo en ... [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)]]
+
+ --- column-end ---
+
 - 002 "Double Zapa", el juego de pelea callejera que intentaré hacer de forma experimental.
 - 003 "Micro Zapas", el juego de coches arcade en perspectiva cenital que crearemos durante el curso.
 - 004 "Zapa Heroes", el juego cenital estilo dungeon crawler que crearemos durante el curso.
@@ -42,6 +58,10 @@ Pretendo que este pack de juegos sean hilo conductor para los cursos de los dife
 - 006 "Zapaxxian", el juego de naves que intentaré hacer de forma experimental.
 - 007 "Zapatilla Bross", el juego arcade que crearemos durante el curso.
 - 008 "Zas Patillas", el juego cenital arcade que crearemos durante el curso.
+
+ --- column-end ---
+--- multi-column-end
+
 
 ## Juegos que intenteremos crear en ZX Game Maker a futuro
 

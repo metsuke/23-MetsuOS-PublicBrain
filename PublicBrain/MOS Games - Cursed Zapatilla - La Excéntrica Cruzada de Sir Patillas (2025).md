@@ -52,7 +52,7 @@ Esto no solo mantiene viva la memoria de pioneros como Capcom y creadores indie 
 
 ## ¡A trabajar!
 
-Vamos a comenzar con ZX Game Maker, como juego central del [[Curso de ZX Game Maker ⚫①]] Básico, nos servirá para explicar la base de trabajo, comenar a exprimir el engine y preparar al alumno para los siguientes retos, en los que implementaremos juegos cada vez más exigentes, requiriendo imaginación y conocimiento para ser implementados.
+Vamos a comenzar con ZX Game Maker, como juego central del [[Curso de ZX Game Maker ⚫①]] Básico, nos servirá para explicar la base de trabajo, comenzar a exprimir el engine y preparar al alumno para los siguientes retos, en los que implementaremos juegos cada vez más exigentes, requiriendo imaginación y conocimiento para ser llevados a término.
 
 No obstante, incluso usandolo como centro del curso, esta primera iteración será algo así como una demo técnica, tengo pensado un curso adicional (todavia en fase de estudio) en el que aprendere y enseñare a hacer juegos tomándose más en serio elementos como ek storytelling. 
 

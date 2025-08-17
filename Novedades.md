@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-17T01:27:59.865Z
+modified: 2025-08-17T20:15:36.534Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 81
+ver_rev: 82
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,7 @@ Border: off
 
 
 ![Estructura Memoria GD](PublicBrain/_resources/d1559d6541fd62e84303a5a9c1ba64c5_MD5.jpg)
-## Capítulo 30:  ¿Cómo almacena AGD el juego en memoria?
+## Curso de AGD / Capítulo 30:  ¿Cómo almacena AGD el juego en memoria?
 
 Vamos a incorporar música de prueba a JBA con Vortex Tracker, y en el proceso de estudio, me he encontrado con la necesidad de mover bloques de datos en la memoria de nuestro spectrum. 
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-16T12:06:23.850Z
-modified: 2025-08-16T13:22:33.063Z
+modified: 2025-08-17T19:49:40.352Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Una variedad de entornos con el bloque custom en JBA](PublicBrain/_resources/f7f3c5855c10f2de07b4ce656b08d6a8_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 28 - Test final y creación del .tap ⚫①|<< Anterior]] |  Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 28 - Test final y creación del .tap ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 30 - Estructura de Memoria de AGD ⚫①|Siguiente >>]]
 
 En AGD trabajamos con medios limitados, pero la imaginación de nuestros jugadores es infinita, solo necesitamos ayudarles a soñar.
 
@@ -75,6 +75,6 @@ Piensa en ello cuando diseñes tus juegos, hazlo pensando, lo primero, en la exp
 * [[Tutorial de AGD 2018 Capítulo 27 - Editor de Textos y Mensajes ⚫①|Si soñaste por un momento que eras aire, oxíogeno, nitrógeno y no te acuerdas de que más, vé la página 27]]
 * [[Tutorial de AGD 2018 Capítulo 28 - Test final y creación del .tap ⚫①|Si lo sientes por tu novia y el cristal que te cargaste, pasa a la página 28]]
 * [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①|Si diste tres o cuatro vueltas pero aun no te has cansado, pasa a la página 29]]
-* Si tuviste mala suerte y te volviste otra vez humano, espera al respawn y pasa a la página 30
+* [[Tutorial de AGD 2018 Capítulo 30 - Estructura de Memoria de AGD ⚫①|Si tuviste mala suerte y te volviste otra vez humano, espera al respawn y pasa a la página 30]]
 
 ![[Plantilla - 1MT#One More Thing]]

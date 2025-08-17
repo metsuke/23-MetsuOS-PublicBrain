@@ -28,6 +28,17 @@ Border: off
 ```
 
 
+![Estructura Memoria GD](PublicBrain/_resources/d1559d6541fd62e84303a5a9c1ba64c5_MD5.jpg)
+## Capítulo 30:  ¿Cómo almacena AGD el juego en memoria?
+
+Vamos a incorporar música de prueba a JBA con Vortex Tracker, y en el proceso de estudio, me he encontrado con la necesidad de mover bloques de datos en la memoria de nuestro spectrum. 
+
+Para ello, nada mejor que tener claro como almacena los datos AGD para así ver donde podemos encajarlos.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 30 - Estructura de Memoria de AGD ⚫①]]
+
+--- column-end ---
+
 ![Caratula de Cursed Zapatillas](PublicBrain/_resources/33d90a6b2fb87f43d9c3829c4f53814e_MD5.jpg)
 ## MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)
 
@@ -36,20 +47,6 @@ Border: off
 Con tus botas de batalla como arma principal, te enfrentarás a zombis, esqueletos y criaturas infernales a base de zapatillazos. En un mundo tétrico pero lleno de color, con cementerios decorados con ...
 
 Continuar leyendo en ... [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)]]
-
---- column-end ---
-
-![Una variedad de entornos con el bloque custom en JBA](PublicBrain/_resources/f7f3c5855c10f2de07b4ce656b08d6a8_MD5.jpg)
-## Curso de AGD / Capítulo 29:  El contexto lo es todo
-
-En AGD trabajamos con medios limitados, pero la imaginación de nuestros jugadores es infinita, solo necesitamos ayudarles a soñar.
-
-Hoy os quiero comentar algo que puede parecer evidente, pero que quizá no lo sea tanto: 
-
-> La experiencia de juego se construye en la mente del jugador, no en la pantalla.
-
-Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①]]
-
 
 --- column-end ---
 

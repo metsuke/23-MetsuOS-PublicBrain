@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-16T13:30:04.825Z
+modified: 2025-08-17T19:46:04.183Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -352,12 +352,23 @@ Hoy os quiero comentar algo que puede parecer evidente, pero que quizá no lo se
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①]]
 
+--- column-end ---
+
+![Estructura Memoria GD](PublicBrain/_resources/d1559d6541fd62e84303a5a9c1ba64c5_MD5.jpg)
+## Capítulo 30:  ¿Cómo almacena AGD el juego en memoria?
+
+Vamos a incorporar música de prueba a JBA con Vortex Tracker, y en el proceso de estudio, me he encontrado con la necesidad de mover bloques de datos en la memoria de nuestro spectrum. 
+
+Para ello, nada mejor que tener claro como almacena los datos AGD para así ver donde podemos encajarlos.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 30 - Estructura de Memoria de AGD ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-* Tutorial de AGD 2018 Capitulo 30
+
 * Tutorial de AGD 2018 Capitulo 31
 * Tutorial de AGD 2018 Capitulo 32
 

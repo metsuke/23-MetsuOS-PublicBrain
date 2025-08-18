@@ -1,20 +1,20 @@
 ---
 iaStatus: 8
-iaStatus_Model: ""
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations: 
 created: 2025-08-17T19:46:12.748Z
-modified: 2025-08-17T19:57:03.490Z
+modified: 2025-08-18T15:17:01.862Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Estructura Memoria GD](PublicBrain/_resources/d1559d6541fd62e84303a5a9c1ba64c5_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①|<< Anterior]] |  Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 31 - Ejemplo básico jugando con tipos y animaciones ⚫①|Siguiente >>]]
 
 Vamos a incorporar música de prueba a JBA con Vortex Tracker, y en el proceso de estudio, me he encontrado con la necesidad de mover bloques de datos en la memoria de nuestro spectrum. 
 
@@ -71,6 +71,6 @@ Esto por un lado me anima a investigar, por otro, a usar esa investigación para
 * [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si crees que es serio este cementereio ve a la página 1]]
 * [[Tutorial de AGD 2018 Capítulo 28 - Test final y creación del .tap ⚫①|Si no tienes claro lo del rancio abolengo, pasa a la página 28]]
 * [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①|Si te gusta que lo pasen muy bien entre flores de colores, pasa a la página 29]]
-* Si el cielo no puede esperar, pasa a la página 31
+* [[Tutorial de AGD 2018 Capítulo 31 - Ejemplo básico jugando con tipos y animaciones ⚫①|Si el cielo no puede esperar, pasa a la página 31]]
 
 ![[Plantilla - 1MT#One More Thing]]

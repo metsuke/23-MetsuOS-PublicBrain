@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-17T20:15:36.534Z
+modified: 2025-08-18T20:17:40.947Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 82
+ver_rev: 83
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,14 +28,12 @@ Border: off
 ```
 
 
-![Estructura Memoria GD](PublicBrain/_resources/d1559d6541fd62e84303a5a9c1ba64c5_MD5.jpg)
-## Curso de AGD / Capítulo 30:  ¿Cómo almacena AGD el juego en memoria?
+![Ejemplo adicional](PublicBrain/_resources/c64bc1fa1a4455f4cd78d2a079046b3e_MD5.jpg)
+## Capítulo 31: Ejemplo básico jugando con tipos y animaciones
 
-Vamos a incorporar música de prueba a JBA con Vortex Tracker, y en el proceso de estudio, me he encontrado con la necesidad de mover bloques de datos en la memoria de nuestro spectrum. 
+Hace pocas fechas, comentaba con algunos desarrolladores la posibilidad de gestionar el bucle de animación haciendo que se ejecutara una vez, así como jugar con tipos de sprites.
 
-Para ello, nada mejor que tener claro como almacena los datos AGD para así ver donde podemos encajarlos.
-
-Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 30 - Estructura de Memoria de AGD ⚫①]]
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 31 - Ejemplo básico jugando con tipos y animaciones ⚫①]]
 
 --- column-end ---
 

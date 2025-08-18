@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-17T19:46:04.183Z
+modified: 2025-08-18T20:17:21.050Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -363,13 +363,20 @@ Para ello, nada mejor que tener claro como almacena los datos AGD para así ver 
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 30 - Estructura de Memoria de AGD ⚫①]]
 
+--- column-end ---
+
+![Ejemplo adicional](PublicBrain/_resources/c64bc1fa1a4455f4cd78d2a079046b3e_MD5.jpg)
+## Capítulo 31: Ejemplo básico jugando con tipos y animaciones
+
+Hace pocas fechas, comentaba con algunos desarrolladores la posibilidad de gestionar el bucle de animación haciendo que se ejecutara una vez, así como jugar con tipos de sprites.
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 31 - Ejemplo básico jugando con tipos y animaciones ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-
-* Tutorial de AGD 2018 Capitulo 31
 * Tutorial de AGD 2018 Capitulo 32
 
 ```pre

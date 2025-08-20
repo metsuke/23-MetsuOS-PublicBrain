@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-18T15:15:20.828Z
-modified: 2025-08-18T20:17:10.295Z
+modified: 2025-08-20T15:38:53.036Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Ejemplo adicional](PublicBrain/_resources/c64bc1fa1a4455f4cd78d2a079046b3e_MD5.jpg)
 
 * [[Tutorial de AGD 2018 Edition ⚫①]]
-* [[Tutorial de AGD 2018 Capítulo 30 - Estructura de Memoria de AGD ⚫①|<< Anterior]] |  Siguiente >>
+* [[Tutorial de AGD 2018 Capítulo 30 - Estructura de Memoria de AGD ⚫①|<< Anterior]] | [[Tutorial de AGD 2018 Capítulo 32 - Información detallada sobre la estructura en memoria de AGD ⚫①|Siguiente >>]]
 
 Hace pocas fechas, comentaba con algunos desarrolladores la posibilidad de gestionar el bucle de animación haciendo que se ejecutara una vez, así como jugar con tipos de sprites.
 
@@ -46,6 +46,6 @@ Tras un tiempo pequeño aleatorio, vuelven a modo 1 y siguen viaje. Cuando choca
 * [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①|Si te gusta pero no te disgusta el gusto que oculta la justa, pasa a la página 29]]
 * [[Tutorial de AGD 2018 Capítulo 30 - Estructura de Memoria de AGD ⚫①|Si te lo has visto pero no me acuerdo ve a la página 30]]
 * [[Tutorial de AGD 2018 Capítulo 31 - Ejemplo básico jugando con tipos y animaciones ⚫①|Si ¡Ron, Ron , Ron una botella de Ron!, pasa a la página 31]]
-* Si aceptas que este curso se está acabando, pasa a la página 32
+* [[Tutorial de AGD 2018 Capítulo 32 - Información detallada sobre la estructura en memoria de AGD ⚫①|Si aceptas que este curso se está acabando, pasa a la página 32]]
 
 ![[Plantilla - 1MT#One More Thing]]

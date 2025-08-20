@@ -28,12 +28,12 @@ Border: off
 ```
 
 
-![Ejemplo adicional](PublicBrain/_resources/c64bc1fa1a4455f4cd78d2a079046b3e_MD5.jpg)
-## Curso de AGD / Capítulo 31: Ejemplo básico jugando con tipos y animaciones
+![Información detallada sobre la estructura en memoria de AGD](PublicBrain/_resources/41c8adbac8af58f4201152fec1347ad1_MD5.jpg)
+## Curso de AGD / Capítulo 32: Información detallada sobre la estructura en memoria de AGD
 
-Hace pocas fechas, comentaba con algunos desarrolladores la posibilidad de gestionar el bucle de animación haciendo que se ejecutara una vez, así como jugar con tipos de sprites.
+Gracias a [Sergio thEpOpE  🌐🟡③](https://www.youtube.com/c/thEpOpESergio), tenemos disponible un increible documento, que convierto a html a continuación, adicionalmente, puedes consultar este [artículo que nos muestra como trabajar con ASM desde AGD](https://web.archive.org/web/20190326191446/https://www.funspot.it/agd-asm-calls).
 
-Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 31 - Ejemplo básico jugando con tipos y animaciones ⚫①]]
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 32 - Información detallada sobre la estructura en memoria de AGD ⚫①]]
 
 --- column-end ---
 

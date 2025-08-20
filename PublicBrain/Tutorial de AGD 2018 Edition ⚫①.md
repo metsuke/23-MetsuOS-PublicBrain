@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-18T20:17:21.050Z
+modified: 2025-08-20T15:28:31.489Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -372,12 +372,21 @@ Hace pocas fechas, comentaba con algunos desarrolladores la posibilidad de gesti
 
 Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 31 - Ejemplo básico jugando con tipos y animaciones ⚫①]]
 
+--- column-end ---
+
+![Información detallada sobre la estructura en memoria de AGD](PublicBrain/_resources/41c8adbac8af58f4201152fec1347ad1_MD5.jpg)
+## Capítulo 32: Información detallada sobre la estructura en memoria de AGD
+
+Gracias a [Sergio thEpOpE  🌐🟡③](https://www.youtube.com/c/thEpOpESergio), tenemos disponible un increible documento, que convierto a html a continuación, adicionalmente, puedes consultar este [artículo que nos muestra como trabajar con ASM desde AGD](https://web.archive.org/web/20190326191446/https://www.funspot.it/agd-asm-calls).
+
+Continuar leyendo en ... [[Tutorial de AGD 2018 Capítulo 32 - Información detallada sobre la estructura en memoria de AGD ⚫①]]
+
  --- column-end ---
 --- multi-column-end
 
 ## TO-DO LIST
 
-* Tutorial de AGD 2018 Capitulo 32
+¿Capitlo Bonus 33 con el reloj de cuco?
 
 ```pre
 Cerramos aqui esta republicación del curso original de AGD de 2018, y nos centramos en [[Curso de ZX Game Maker ⚫①]] y otros mas modernos, así como en la creacion de MOS Game Maker. Ya os contare xD.

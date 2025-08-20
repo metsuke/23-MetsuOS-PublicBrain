@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-18T21:19:19.590Z
-modified: 2025-08-19T23:24:37.970Z
+modified: 2025-08-20T04:19:42.450Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 8
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -241,77 +241,71 @@ Distancia que queramos que recorra la bala. El valor 0 se traduce como distancia
 
 Una vez llegados a este punto, configuraresmos las interacciones con enemigos y otros elementos del escenario:
 
-
-#### **  
-damageAmount**
-
-Cantidad de daño que los enemigos infligen al personaje.
-
-- **Sintaxis:** damageAmount <cantidad_de_daño>
-- **Notas:** Define la cantidad de daño que los enemigos causan al personaje en _Cursed Zapatilla_. Debe ser un número entero positivo.
-- **Para Cursed Zapatilla:** Configuraremos damageAmount a 1 para reflejar un desafío progresivo y mantener la esencia retro del juego.
-
 #### **enemiesRespawn**
 
 Indica si los enemigos (no invencibles) reaparecen después de ser eliminados al volver a entrar en la habitación.
 
-- **Sintaxis:** enemiesRespawn <verdadero/falso>
-- **Notas:** Configura si los enemigos vuelven a generarse. Útil para habitaciones con oleadas continuas.
+- **Sintaxis:** `enemiesRespawn <verdadero/falso>`
+- **Notas:** Configura si los enemigos vuelven a generarse. 
 - **Para Cursed Zapatilla:** Estableceremos enemiesRespawn a false para evitar repeticiones innecesarias y enfocarnos en un avance lineal.
+#### **damageAmount**
+
+Cantidad de daño que los enemigos infligen al personaje.
+
+- **Sintaxis:** `damageAmount <cantidad_de_daño>`
+- **Notas:** Define la cantidad de daño que los enemigos causan al personaje al tocarlo. Debe ser un número entero positivo.
+- **Para Cursed Zapatilla:** Configuraremos damageAmount a 1 dado que activamos el modo de vidas.
+#### **killJumpingOnTop**
+
+Habilita la capacidad de matar enemigos saltando sobre ellos (solo en juegos de plataformas).
+
+- **Sintaxis:** `killJumpingOnTop <verdadero/falso>`
+- **Notas:** Activa la mecánica de eliminar enemigos al saltar encima, típica de plataformas.
+- **Para Cursed Zapatilla:** Estableceremos killJumpingOnTop a true para añadir una mecánica divertida de zapatillazos desde arriba usando nuestras poderosas pantuflas  de combate.
 
 #### **jetPackFuel**
 
 Cantidad de combustible disponible para el jetPack; si es distinto de 0, el personaje usará el jetPack en lugar de saltar.
 
-- **Sintaxis:** jetPackFuel <cantidad_de_combustible>
+- **Sintaxis:** `jetPackFuel <cantidad_de_combustible>`
 - **Notas:** Define la cantidad de combustible para el jetPack. Debe ser un número entero no negativo; 0 desactiva el jetPack.
-- **Para Cursed Zapatilla:** Configuraremos jetPackFuel a 0, ya que Sir Patillas dependerá de saltos tradicionales y zapatillazos.
-
+- **Para Cursed Zapatilla:** Configuraremos jetPackFuel a 0, ya que Sir Patillas dependerá de saltos tradicionales y zapatillescos.
 #### **jumpType**
 
 Tipo de salto del personaje, con opciones de movimiento constante o acelerado.
 
-- **Sintaxis:** jumpType ```<constant/accelerated>`
+- **Sintaxis:** `jumpType <constant/accelerated>`
 - **Notas:** constant usa una velocidad constante hacia arriba y abajo (estilo original del motor); accelerated aplica deceleración al subir y aceleración al bajar.
 - **Para Cursed Zapatilla:** Estableceremos jumpType a constant para mantener un control clásico al estilo _Ghosts 'n Goblins_.
-
-#### **keysEnabled**
-
-Habilita o deshabilita el uso de llaves y puertas que requieren llaves.
-
-- **Sintaxis:** keysEnabled <verdadero/falso>
-- **Notas:** Si está deshabilitado, las llaves y puertas asociadas no funcionarán en el juego.
-- **Para Cursed Zapatilla:** Configuraremos keysEnabled a false, ya que el juego prioriza acción directa sin mecánicas de puertas.
-
-#### **killJumpingOnTop**
-
-Habilita la capacidad de matar enemigos saltando sobre ellos (solo en juegos de plataformas).
-
-- **Sintaxis:** killJumpingOnTop <verdadero/falso>
-- **Notas:** Activa la mecánica de eliminar enemigos al saltar encima, típica de plataformas.
-- **Para Cursed Zapatilla:** Estableceremos killJumpingOnTop a true para añadir una mecánica divertida de zapatillazos desde arriba.
-
-#### **messagesEnabled**
-
-Activa la visualización de mensajes de ayuda al entrar en contacto con items, puertas u otros elementos.
-
-- **Sintaxis:** messagesEnabled <verdadero/falso>
-- **Notas:** Muestra instrucciones o pistas cuando el personaje interactúa con objetos específicos.
-- **Para Cursed Zapatilla:** Configuraremos messagesEnabled a true para guiar a los jugadores en su primera experiencia.
 
 #### **shouldKillEnemies**
 
 Requiere eliminar a todos los enemigos en una habitación antes de poder salir de ella.
 
-- **Sintaxis:** shouldKillEnemies <verdadero/falso>
+- **Sintaxis:** `shouldKillEnemies <verdadero/falso>`
 - **Notas:** Si está activado, la salida queda bloqueada hasta que se eliminen todos los enemigos.
-- **Para Cursed Zapatilla:** Estableceremos shouldKillEnemies a true para añadir un desafío al estilo arcade.
+- **Para Cursed Zapatilla:** Estableceremos shouldKillEnemies a true para añadir un desafío extra al estilo arcade, compensando las limitaciones de extensión del mapeado debido a las limitaciones de memoria en ZX Spectrum.
 
+#### **keysEnabled**
+
+Habilita o deshabilita el uso de llaves y puertas que requieren llaves.
+
+- **Sintaxis:** `keysEnabled <verdadero/falso>`
+- **Notas:** Si está deshabilitado, las llaves y puertas asociadas no funcionarán en el juego.
+- **Para Cursed Zapatilla:** Configuraremos keysEnabled a true, ya que aunque el juego prioriza acción directa, en este estilo de juego hay puertas en puntos estratégicos.
+
+#### **messagesEnabled**
+
+Activa la visualización de mensajes de ayuda al entrar en contacto con items, puertas u otros elementos.
+
+- **Sintaxis:** `messagesEnabled <verdadero/falso>`
+- **Notas:** Muestra instrucciones o pistas cuando el personaje interactúa con objetos específicos.
+- **Para Cursed Zapatilla:** Configuraremos messagesEnabled a true para guiar a los jugadores en su primera experiencia y, aprovechando la reciente posibilidad de editar y traducir textos, añadir algún que otro guiño.
 #### **useBreakableTile**
 
 Habilita la posibilidad de usar tiles rompibles, con opciones de comportamiento.
 
-- **Sintaxis:** useBreakableTile ```<disabled/all/individual>`
+- **Sintaxis:** `useBreakableTile <disabled/all/individual>`
 - **Notas:**
     - disabled: No hay tiles rompibles.
     - all: Todos los tiles rompibles de la habitación se destruyen al romper uno.
@@ -319,25 +313,9 @@ Habilita la posibilidad de usar tiles rompibles, con opciones de comportamiento.
     - El tile rompible debe estar definido en la posición 63 del tileset.
 - **Para Cursed Zapatilla:** Configuraremos useBreakableTile a individual para permitir romper lápidas en el cementerio de forma estratégica.
 
-
-
-
-- **damageAmount**. Cuánto daño le hacen al personaje los enemigos.
-- **enemiesRespawn**. Si los enemigos (no invencibles) vuelven a aparecer des pués de matarlos al volver a entrar en la habitación.
-- **jetPackFuel**. La cantidad de fuel para el jetPack, se es ditinto de 0 el personaje no saltará y se impulsará con el jetPack.
-- **jumpType**. **constant** Salto con una velocidad hacia arriba y hacia abajo constante, el original del motor. **accelerated**Salto con deceleración hacia arriba y acelereción hacia abajo.
-- **keysEnabled**. Si no está habilitado no se podrán usar llaves ni puertas de las que se abren con llaves.
-- **killJumpingOnTop**. Habilita el poder de matar a los enemigos saltando encima. (Solo juego plataformas)
-
-- - **messagesEnabled**. Si se activa esta opción se mostrará un mensaje de ayuda cuando se entre en contacto con algún item. puerta…
-
-- **shouldKillEnemies**. Con esta propiedad activa, si una habitación tiene enemigos, no podremos salir de ella hasta que los matemos a todos.
-- **useBreakableTile**. Posibilidad de usar tiles que se rompen. Si está habilitado el tile que se romperá será el que esté definido en la posición 63 del tileset. Puedes elegir entre 3 opciones:
-    - disabled. No hay tiles rompibles.
-    - all. Si hay tiles rompibles y al romper uno se rompen todos los de la habitación.
-    - individual. Si hay tiles rompibles y se rompen 1 a 1.
-    - 
 ### Parámetros del HUD
+
+Parámetros que afectan al HUD, la tipica zona de marcadores de que dispondremos en el juego.
 
 - **itemsCountdown**. El marcador de items mostrará el número total de items que tiene que conseguir el jugador al principio del juego e irá descendiendo para que veas los items que te quedan por recoger.
 - **itemsEnabled**. Si no está habilitado no se mostrará el marcador de items.

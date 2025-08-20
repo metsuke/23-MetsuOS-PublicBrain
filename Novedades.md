@@ -29,7 +29,7 @@ Border: off
 
 
 ![Ejemplo adicional](PublicBrain/_resources/c64bc1fa1a4455f4cd78d2a079046b3e_MD5.jpg)
-## Capítulo 31: Ejemplo básico jugando con tipos y animaciones
+## Curso de AGD / Capítulo 31: Ejemplo básico jugando con tipos y animaciones
 
 Hace pocas fechas, comentaba con algunos desarrolladores la posibilidad de gestionar el bucle de animación haciendo que se ejecutara una vez, así como jugar con tipos de sprites.
 

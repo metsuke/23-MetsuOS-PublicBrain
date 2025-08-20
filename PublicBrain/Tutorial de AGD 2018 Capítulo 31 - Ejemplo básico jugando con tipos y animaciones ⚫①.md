@@ -42,9 +42,10 @@ Tras un tiempo pequeño aleatorio, vuelven a modo 1 y siguen viaje. Cuando choca
 
 ## Y ahora que?
 
-* [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si crees que es serio este cementereio ve a la página 1]]
-* [[Tutorial de AGD 2018 Capítulo 28 - Test final y creación del .tap ⚫①|Si no tienes claro lo del rancio abolengo, pasa a la página 28]]
-* [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①|Si te gusta que lo pasen muy bien entre flores de colores, pasa a la página 29]]
-* [[Tutorial de AGD 2018 Capítulo 31 - Ejemplo básico jugando con tipos y animaciones ⚫①|Si el cielo no puede esperar, pasa a la página 31]]
+* [[Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①|Si no tienes claro porque bota la pelota, ve a la página 1]]
+* [[Tutorial de AGD 2018 Capítulo 29 - El contexto lo es todo ⚫①|Si te gusta pero no te disgusta el gusto que oculta la justa, pasa a la página 29]]
+* [[Tutorial de AGD 2018 Capítulo 30 - Estructura de Memoria de AGD ⚫①|Si te lo has visto pero no me acuerdo ve a la página 30]]
+* [[Tutorial de AGD 2018 Capítulo 31 - Ejemplo básico jugando con tipos y animaciones ⚫①|Si ¡Ron, Ron , Ron una botella de Ron!, pasa a la página 31]]
+* Si aceptas que este curso se está acabando, pasa a la página 32
 
 ![[Plantilla - 1MT#One More Thing]]

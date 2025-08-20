@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-08-14T12:51:08.677Z
+modified: 2025-08-18T21:02:57.129Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 16
+ver_rev: 17
 nav_primary: 
 nav_secondary: 
 tags:
@@ -107,7 +107,36 @@ Propón en ... [Metsuke en X/Twitter](https://x.com/metsuke)
 
 ## Entramos a Sab.. emm en harina
 
-- Configuración de un nuevo proyecto
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Caratula de Cursed Zapatillas](PublicBrain/_resources/33d90a6b2fb87f43d9c3829c4f53814e_MD5.jpg)
+## MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)
+
+¡Ponte la armadura de Sir Patillas en este emocionante juego de plataformas homenaje a los clásicos _Ghouls 'n Ghosts_, _Ghosts 'n Goblins_ y, especialmente, el naravilloso _Cursed Castilla_! 
+
+Con tus botas de batalla como arma principal, te enfrentarás a zombis, esqueletos y criaturas infernales a base de zapatillazos. En un mundo tétrico pero lleno de color, con cementerios decorados con ...
+
+Continuar leyendo en ... [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)]]
+
+ --- column-end ---
+ 
+![Y los muertos aqui lo pasamos muy bien entre flores de colores](/PublicBrain/_resources/d22667726699dac0f871e793462c3d38_MD5.jpg)
+## Capítulo Básico 04: Configuración de un nuevo proyecto
+
+En este cuarto capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás a configurar un nuevo proyecto desde "cero" (el motor está ideado para que partas de una plantilla mínima), siguiendo un enfoque estructurado y gradual, como un escultor tallando una obra a partir de una piedra en bruto. 
+
+Usaremos como ejemplo el desarrollo de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)|Cursed Zapatilla: La Excéntrica Cruzada de Sir Patillas]], un juego de plataformas inspirado en _Ghosts 'n Goblins_, _Ghouls 'n Ghosts_ y _Cursed Castilla_. 
+
+Continuar leyendo en ... [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto ⚫①]]
+
+
+ --- column-end ---
+--- multi-column-end
+
 - Pantalla de presentación y pantalla de victoria
 - El HUD
 - Creación del personaje principañ

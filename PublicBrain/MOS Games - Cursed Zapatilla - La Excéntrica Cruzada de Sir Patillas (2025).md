@@ -1,26 +1,31 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Grok-3, Veo2, Raúl Carrillo aka Metsuke
+iaStatus_Generado: I
+iaStatus_Supervisado: H
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-08-16T19:50:40.604Z
-modified: 2025-08-17T01:01:39.823Z
+modified: 2025-08-22T03:15:03.427Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 4
+ver_minor: 2
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
+MOS_TopImg_Video: CursedZapatilla_DonPatillas.mp4
 ---
 # MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)
 
 ![Caratula de Cursed Zapatillas](PublicBrain/_resources/33d90a6b2fb87f43d9c3829c4f53814e_MD5.jpg)
 
-[[MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①]]
+* [[MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①]]
+* [[Curso de ZX Game Maker ⚫①]]
 
 ¡Ponte la armadura de Sir Patillas en este emocionante juego de plataformas homenaje a los clásicos _Ghouls 'n Ghosts_, _Ghosts 'n Goblins_ y, especialmente, el naravilloso _Cursed Castilla_! 
 
@@ -64,7 +69,7 @@ Estas referencias respaldan la importancia histórica, el éxito comercial y la 
 - [Wikipedia: Ghosts 'n Goblins 🌐🟡③](https://en.wikipedia.org/wiki/Ghosts_%27n_Goblins).. Detalla el impacto cultural y las mecánicas innovadoras del juego original, confirmando su influencia en títulos posteriores
 - [Wikipedia: Ghouls 'n Ghosts 🌐🟡③](https://en.wikipedia.org/wiki/Ghouls_%27n_Ghosts).. Describe el éxito comercial en arcades y la recepción crítica positiva, incluyendo su posición en rankings de ventas en Japón. 
 - [TheSixthAxis: Cursed Castilla (Maldita Castilla EX) Review 🌐🟡③](https://www.thesixthaxis.com/2017/01/09/cursed-castilla-maldita-castilla-ex-review/).. Elogia el juego como uno de los mejores revivals retro modernos, destacando mejoras en controles y su fidelidad a las inspiraciones clásicas. 
-- [Polygon: Interview with Ghosts 'n Goblins creator Tokuro Fujiwara 🌐🟡③](https://www.polygon.com/interviews/2021/2/11/22260328/ghosts-n-goblins-resurrection-creator-tokuro-fujiwara-interview/).. Explora la evolución de la dificultad en la serie y su influencia en juegos modernos, apoyando la idea de perseverancia como legado.
+- [Polygon: "I"nterview with Ghosts 'n Goblins creator Tokuro Fujiwara 🌐🟡③](https://www.polygon.com/interviews/2021/2/11/22260328/ghosts-n-goblins-resurrection-creator-tokuro-fujiwara-interview/).. Explora la evolución de la dificultad en la serie y su influencia en juegos modernos, apoyando la idea de perseverancia como legado.
 - [YouTube: Ghouls 'N Ghosts ULTIMATE GUIDE 🌐🟡③](https://www.polygon.com/interviews/2021/2/11/22260328/ghosts-n-goblins-resurrection-creator-tokuro-fujiwara-interview/).. Analiza el port a Sega Genesis y su recepción, confirmando el éxito y la influencia técnica. 
 
 ## Referencias Bibliográficas que Refutan el Contenido

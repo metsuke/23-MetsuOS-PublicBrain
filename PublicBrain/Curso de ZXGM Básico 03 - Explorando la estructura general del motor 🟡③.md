@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-09T22:23:22.134Z
-modified: 2025-08-18T21:24:23.188Z
+modified: 2025-08-22T11:07:17.929Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Estructura de ZXGM](PublicBrain/_resources/4dc9c9daf6e92425ff4724042d24a2b5_MD5.jpg)
 
 * [[Curso de ZX Game Maker ⚫①]]
-* [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③|<< Anterior]] | [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto ⚫①|Siguiente >>]]
+* [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③|<< Anterior]] | [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②|Siguiente >>]]
 
 ## Introducción
 

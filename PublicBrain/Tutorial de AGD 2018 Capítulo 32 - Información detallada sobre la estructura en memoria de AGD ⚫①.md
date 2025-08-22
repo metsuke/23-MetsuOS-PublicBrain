@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-20T15:38:17.242Z
-modified: 2025-08-20T15:41:23.527Z
+modified: 2025-08-20T18:17:25.494Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -58,7 +58,7 @@ Gracias a [Sergio thEpOpE  🌐🟡③](https://www.youtube.com/c/thEpOpESergio)
 * 7d1a b- Numero de objetos
 * 7D1B b- SCREEN
 * 7D1C b- LIVES
-* 7D1D b- A /[variables/]
+* 7D1D b- A (variables)
 * 7D1E b- B
 * 7D1F b- C
 * 7D20 b- D
@@ -93,11 +93,11 @@ en la versión 4.6 no existen las variables S y T, por lo que a partir de LINE e
 * 7D38 b- restart state (1 = restart todos los sprites, 2 = restart pero manteniendo al jugador)
 * 7D39 b- kill state (7D = kill on)
 * 7D3A b- endgame state (7D = endgame on)
-* 7D3B w- SpriteFramesTable /[frame Inicial, numero de frames/]
+* 7D3B w- SpriteFramesTable (frame Inicial, numero de frames)
 * 7D3D w- Sprite Images
-* 7D3F w- Blocks ptr /[bits de cada bloque/]
-* 7d41 w- Blocks Attr /[atributo de color de cada uno de los bloques/]
-* 7d43 w- Blocks Type /[tipo de bloque: empty, ladder, deadly, etc.../]
+* 7D3F w- Blocks ptr (bits de cada bloque)
+* 7d41 w- Blocks Attr (atributo de color de cada uno de los bloques)
+* 7d43 w- Blocks Type (tipo de bloque: empty, ladder, deadly, etc...)
 * 7D45 w- ScreenPtr
 * 7D47 w- EnemigosPtr (es la tabla de sprites situados en cada pantalla)
 * 7D49 w- SoundPtr
@@ -109,7 +109,7 @@ en la versión 4.6 no existen las variables S y T, por lo que a partir de LINE e
 * ...
 * 8315 b- height of sprites (AGDx, 4.8)
 * ...
-* 83BF w- Si es $0555 la ordenación de sprites está OFF; de otro modo está on /[v4.8/]
+* 83BF w- Si es $0555 la ordenación de sprites está OFF; de otro modo está on (v4.8/)
 * ...
 * 86BD w- SEED de Random , al inicio del juego se inicializa con la variable FRAMES del Basic. (86BC en 4.8, 8692 en 4.6)
 * 86BF b[6]- '000000' <- el score en formato string (8695 en 4.6)
@@ -121,8 +121,8 @@ en la versión 4.6 no existen las variables S y T, por lo que a partir de LINE e
 
 ### ULA Palette: 64 bytes
 
-* v4.6 - $7fc0 b/[64/] - 
-* v4.7 y 4.8 - $7fdf b/[64/] - 
+* v4.6 - $7fc0 b(64) - 
+* v4.7 y 4.8 - $7fdf b(64) - 
   
 ### Jump Table:
 
@@ -132,7 +132,8 @@ La tabla de salto termina con 99
 * v4.7 - $8d8e
 * v4.8 - $8d95
 
-<h3>Mapa</h3>
+### Mapa
+
 * v4.6 
 	* 8fd8-903a: mapa
 	* 903b b- Índice del mapa de inicio
@@ -164,25 +165,25 @@ Tiene hasta 3 sonidos en cada canal. Cuando uno se termina, lo pone a FF, y cuan
 v. 4.7: 8491 : Rutina que silencia todo, llama secuencialmente a los silenciadores de cada canal.
 
 ```asm
-        CALL $853C               ; 8491 Silencia el canal A, anularlo con un ret en la entrada. POKE $853c, 201
-        CALL $8549               ; 8494 Silencia el canal B, ""
-        CALL $8556               ; 8497 Silencia el canal C, ""
-        CALL $8572               ; 849A <- carga valores del canal A, si está activo, si no silencia llamando a $853C
-        CALL $84D2               ; 849D <- carga valores del canal B, si está activo si no silencia llamando a $8549
-        CALL $84FD               ; 84A0 <- carga valores del canal C, si está activo si no silencia llamando a $8556
-        LD HL, $84BB             ; 84A3 <- buffer de registros AY
-        LD DE, $0E00             ; 84A6
-        LD C, $FD                ; 84A9
+CALL $853C               ; 8491 Silencia el canal A, anularlo con un ret en la entrada. POKE $853c, 201
+CALL $8549               ; 8494 Silencia el canal B, ""
+CALL $8556               ; 8497 Silencia el canal C, ""
+CALL $8572               ; 849A <- carga valores del canal A, si está activo, si no silencia llamando a $853C
+CALL $84D2               ; 849D <- carga valores del canal B, si está activo si no silencia llamando a $8549
+CALL $84FD               ; 84A0 <- carga valores del canal C, si está activo si no silencia llamando a $8556
+LD HL, $84BB             ; 84A3 <- buffer de registros AY
+LD DE, $0E00             ; 84A6
+LD C, $FD                ; 84A9
 L_84AB: LD B, $FF                ; 84AB
-        OUT (C), E               ; 84AD <- selecciçon del registro
-        LD A, (HL)               ; 84AF
-        LD B, $BF                ; 84B0
-        OUT (C), A               ; 84B2 <- escritura del valor
-        INC E                    ; 84B4
-        INC HL                   ; 84B5
-        DEC D                    ; 84B6
-        JP NZ, L_84AB            ; 84B7
-        RET                      ; 84BA
+OUT (C), E               ; 84AD <- selecciçon del registro
+LD A, (HL)               ; 84AF
+LD B, $BF                ; 84B0
+OUT (C), A               ; 84B2 <- escritura del valor
+INC E                    ; 84B4
+INC HL                   ; 84B5
+DEC D                    ; 84B6
+JP NZ, L_84AB            ; 84B7
+RET                      ; 84BA
 ```  
 
 

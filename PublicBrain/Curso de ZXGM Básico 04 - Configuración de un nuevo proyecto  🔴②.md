@@ -1,29 +1,31 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Grok-3, Raúl Carrillo aka Metsuke
+iaStatus_Generado: I
+iaStatus_Supervisado: H
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-08-18T21:19:19.590Z
-modified: 2025-08-20T04:19:42.450Z
+modified: 2025-08-22T14:16:49.638Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 9
+ver_minor: 2
+ver_rev: 13
 nav_primary: []
 nav_secondary: []
 tags: []
+MOS_TopImg_Video: CursedZapatilla_DanceSkeletons.mp4
 ---
-# Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto ⚫①
+# Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②
 
 ![Y los muertos aqui lo pasamos muy bien entre flores de colores](/PublicBrain/_resources/d22667726699dac0f871e793462c3d38_MD5.jpg)
 
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Curso de ZXGM Básico 03 - Explorando la estructura general del motor 🟡③|<< Anterior]] | Siguiente >>
-
-> OJO WIP
 
 En este cuarto capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás a configurar un nuevo proyecto desde "cero" (el motor está ideado para que partas de una plantilla mínima), siguiendo un enfoque estructurado y gradual, como un escultor tallando una obra a partir de una piedra en bruto. 
 
@@ -145,7 +147,7 @@ Define el tipo de juego a desarrollar según la perspectiva.
 Establece si el juego se comportará en modo arcade.
 
 - **Sintaxis:** `arcadeMode` (activado | desactivado)
-- **Notas:** Si esta propiedad está activada, el juego adopta un estilo arcade clásico, en el que hay que pasarse cada pantalla y vamos avanzando por niveles (como en Snow Bross por ejemplo). Puedes [ver este comportamiento arcade aquí](https://gm.retrojuegos.org/mydoc_tiled_arcade_mode.html). 
+- **Notas:** Si esta propiedad está activada, el juego adopta un estilo arcade clásico, en el que hay que pasarse cada pantalla y vamos avanzando por niveles (como en Snow Bross por ejemplo). Puedes [ver este comportamiento arcade aquí 🌐🟡③](https://gm.retrojuegos.org/mydoc_tiled_arcade_mode.html). 
 - **Para Cursed Zapatilla:** Configuraremos arcadeMode = desactivado, ya que queremos un mapeado continuo, a falta de un sistema de fases multipantalla, tendremos uno con el mapa completo.
 #### **password**
 
@@ -188,7 +190,7 @@ Setea el tiempo a esperar a que el personaje haga la animación idle. Si está a
 Habilitado tu personaje morirá cada vez que reciba daño perdiendo 1 vida y volviendo al punto donde entró de la pantalla actual. A su vez sólo ganará 1 vida con los items **life**.
 
 * **Sintaxis:** `livesMode` (disabled | instant respawn | show graveyard)
-* **Notas:** Activa un sistema de vidas clásico donde Sir Patillas pierde una vida por daño y reaparece en el inicio de la pantalla, con ganancia limitada a 1 vida por item **life**. [Puedes ver este comportamiento del modo  vidas aquí](https://gm.retrojuegos.org/mydoc_tiled_lives_mode.html). 
+* **Notas:** Activa un sistema de vidas clásico donde Sir Patillas pierde una vida por daño y reaparece en el inicio de la pantalla, con ganancia limitada a 1 vida por item **life**. [Puedes ver este comportamiento del modo  vidas aquí 🌐🟡③](https://gm.retrojuegos.org/mydoc_tiled_lives_mode.html). 
 * **Para Cursed Zapatilla:** Ideal para un estilo arcade en *Cursed Zapatilla*. Configuraremos `livesMode = show graveyard` para replicar la dificultad de *Ghosts 'n Goblins*, y mostrar la tumbita que no deja de tener su guasa en el contexto este juego.
 #### **initialLife**
 
@@ -317,45 +319,147 @@ Habilita la posibilidad de usar tiles rompibles, con opciones de comportamiento.
 
 Parámetros que afectan al HUD, la tipica zona de marcadores de que dispondremos en el juego.
 
-- **itemsCountdown**. El marcador de items mostrará el número total de items que tiene que conseguir el jugador al principio del juego e irá descendiendo para que veas los items que te quedan por recoger.
-- **itemsEnabled**. Si no está habilitado no se mostrará el marcador de items.
+#### **itemsEnabled**
+
+Si no está habilitado no se mostrará el marcador de items.
+
+* **Sintaxis:** `itemsEnabled` ```<verdadero/falso>```
+* **Notas:** Controla la visibilidad del marcador de items. Si está deshabilitado, no se mostrará en el juego.
+* **Para Cursed Zapatilla:** Estableceremos `itemsEnabled` a `verdadero` para mostrar el progreso del jugador en la recolección de items.
+
+#### **itemsCountdown**
+
+El marcador de items mostrará el número total de items que tiene que conseguir el jugador al principio del juego e irá descendiendo para que veas los items que te quedan por recoger.
+
+* **Sintaxis:** `itemsCountdown <verdadero/falso>`
+* **Notas:** Define la cantidad inicial de items que el jugador debe recoger, disminuyendo a medida que los recoge. Si está desactivado mostrara los items que llevamos recogidos hasta el momento.
+* **Para Cursed Zapatilla:** Configuraremos `itemsCountdown` como verdadero para fomentar la exploración si no encontramos alguno de los requeridos para completar el juego.
+
 ### Parámetros Gráficos
 
-- **animatePeriodEnemy**. Número más alto, animación de los enemigos más lenta.
-- **animatePeriodMain**. Número más alto, animación del personaje principal más lenta.
-- **animatePeriodTile**. Número más alto, animación de los tiles más lenta.
-- **border**. Color del borde in game. Muy útil cuando se cambia el color de fondo del juego y del hud.
--  **ink**. Color de la tinta in game. Muy útil cuando se cambia el color de fondo del juego y del hud.
-- - **mainCharacterExtraFrame**. Si está habilitado, la animación del personaje usara el frame extra.
-- - **paper**. Color del papel in game. Muy útil cuando se cambia el color de fondo del juego y del hud.
-- - **backgroundAttribute**. Color de fondo del juego en decimal en forma de atributos de spectrum. Por ejemplo para color de fondo negro con sprites en blanco seria 7 (00000111). Para color de fondo azul con sprites en blanco seria 15 (00001111). Si no se define este atributo se pintara fondo negro sprites blancos. Podéis usar la calculadora siguiente para saber que valor tenéis que poner.
+Estos parámetros nos permiten establecer diferentes elementos que afectan directamente al aspecto visual de nuestro juego:
 
-```basic
-128*FLASH + 64*BRIGHT + 8*PAPER + INK
-```
+#### **backgroundAttribute**
 
-https://gm.retrojuegos.org/mydoc_tiled_general_configuration.html
+Color de fondo del juego en decimal en forma de atributos de Spectrum (`128*FLASH + 64*BRIGHT + 8*PAPER + INK`). Si no se define este atributo se pintará fondo negro sprites blancos. Si no acabas de tener claro como se calcula, [puedes usar la calculadora siguiente 🌐🟡③](https://gm.retrojuegos.org/mydoc_tiled_general_configuration.html)
+
+* **Sintaxis:** `backgroundAttribute` ```<valor_decimal>```
+* **Notas:** Establece el color de fondo y sprites usando atributos ZX Spectrum.
+* **Para Cursed Zapatilla:** Configuraremos `backgroundAttribute` a 71 (fondo negro, tinta blanca, brillo activado) para un fondo negro clásico con sprites blancos brillantes, acorde al estilo del juego.
+#### **border**
+
+Color del borde in game. Muy útil cuando se cambia el color de fondo del juego y del hud.
+
+* **Sintaxis:** `border` ```<color>```
+* **Notas:** Define el color del borde en *Cursed Zapatilla*. Útil para contrastar con fondos y HUD personalizados; debe ser un valor de color válido (e.g., hexadecimal o nombre).
+* **Para Cursed Zapatilla:** Estableceremos `border` a `black (0)` para dar continuidad a la pantalla.
+
+#### **paper**
+
+Color del papel in game. Muy útil cuando se cambia el color de fondo del juego y del hud.
+
+* **Sintaxis:** `paper` ```<color>```
+* **Notas:** Define el color de fondo del juego y HUD. Debe ser un valor de color válido.
+* **Para Cursed Zapatilla:** Configuraremos `paper` a `0` para un ambiente gótico nocturno, potenciando el contraste con las flores de colores.
+#### **ink**
+
+Color de la tinta in game. Muy útil cuando se cambia el color de fondo del juego y del hud.
+
+* **Sintaxis:** `ink` ```<color>```
+* **Notas:** Establece el color de la tinta (texto o sprites) en el juego. Ideal para contraste; debe ser un valor de color válido.
+* **Para Cursed Zapatilla:** Configuraremos `ink` a `white` (7) para que los elementos sean visibles sobre fondos oscuros.
+
+#### **mainCharacterExtraFrame**
+
+Si está habilitado, la animación del personaje usará el frame extra (haciendo total de 3 en movimiento a derecha e izquierda)
+
+* **Sintaxis:** `mainCharacterExtraFrame` ```<verdadero/falso>```
+* **Notas:** Activa un frame adicional que debe configurarse en el tile XX del tileset.
+* **Para Cursed Zapatilla:** Estableceremos `mainCharacterExtraFrame` a `true` para enriquecer las animaciones.
+
 ### Parámetros Sonoros
 
-- **VTPLAYER_INIT**. Posición de memoria inicial para la música vortex (Se verá en el capítulo de música en el juego)
-- **VTPLAYER_MUTE**. Posición de memoria de mute para la música vortex (Se verá en el capítulo de música en el juego)
-- **VTPLAYER_NEXTNOTE**. Posición de memoria para reproducir la próxima nota para la música vortex (Se verá en el capítulo de música en el juego)
-- **musicEnabled**. Para habilitar o deshabilitar la música AY. Si se habilita la música el juego resultante sólo funcionará en 128K, para hacer una versión 48K tendrás que desmarcar guardar y volver a compilar.
-- **newBeeperPlayer**. Para utilizar en nuevo reproductor de beeper mejorado para que el juego se pare mucho menos mientras suena debes activar esta opción. IMPORTANTE: Si quieres aprovechar las bondades de este nuevo player debes hacer los sonidos como se indica en [la sección de FX del manual](https://gm.retrojuegos.org/mydoc_sound_fx.html).
+Los parametros relacionados con, sobre todo la música, tomemos algunas decisiones iniciales ya afinamos mas adelante:
+#### **musicEnabled**
+
+Para habilitar o deshabilitar la música AY. Si se habilita la música el juego resultante sólo funcionará en 128K, para hacer una versión 48K tendrás que desmarcar guardar y volver a compilar.
+
+* **Sintaxis:** `musicEnabled` `<verdadero/falso>`
+* **Notas:** Activa o desactiva la música AY.
+* **Para Cursed Zapatilla:** Estableceremos `musicEnabled` a `true` para una banda sonora rica, apuntando a la versión 128K. NdA: Tenia entendido que si pones musica AY y ejecutas en 48 el juego sigue funcionando pero sin musica, tengo que probar este particular.
+
+#### **newBeeperPlayer**
+
+Para utilizar en nuevo reproductor de beeper mejorado para que el juego se pare mucho menos mientras suena debes activar esta opción. IMPORTANTE: Si quieres aprovechar las bondades de este nuevo player debes hacer los sonidos como se indica en [la sección de FX del manual 🌐🟡③](https://gm.retrojuegos.org/mydoc_sound_fx.html).
+
+* **Sintaxis:** `newBeeperPlayer` `<verdadero/falso>`
+* **Notas:** Habilita o deshabilita un reproductor de beeper mejorado en nuestro juego para reducir interrupciones. Requiere seguir las guías de FX del manual para optimizar sonidos.
+* **Para Cursed Zapatilla:** Configuraremos `newBeeperPlayer` a `true` y ajustaremos los FX según el manual para un rendimiento óptimo.
+
 
 ### Parámetros de Rendimiento
 
-- **maxAnimatedTilesPerScreen**. Máximo de tiles animados por pantalla (10 máximo). Si utilizas menos pon un valor más bajo para ahorrar espacio.
-- **maxEnemiesPerScreen**. Se puede configurar la cantidad de enemigos que aparecen en pantalla (hasta 5). Evitar poner más de los que se usan para optimizar espacio.
+Algunos parametros que nos permiten configurar algunos parametros sobre elementos que permitirán graduar la velocidad de nuestro juego.
+
+#### **animatePeriodEnemy**
+
+Número más alto, animación de los enemigos más lenta.
+
+* **Sintaxis:** `animatePeriodEnemy` ```<número_de_periodo>```
+* **Notas:** Define la velocidad de animación de los enemigos. Un valor más alto ralentiza la animación; debe ser un número entero positivo.
+* **Para Cursed Zapatilla:** Configuraremos `animatePeriodEnemy` a 5 para dar un movimiento más pausado a zombis y esqueletos, y afinaremos desde ahí.
+
+#### **animatePeriodMain**
+
+Número más alto, animación del personaje principal más lenta.
+
+* **Sintaxis:** `animatePeriodMain` ```<número_de_periodo>```
+* **Notas:** Establece la velocidad de animación de Sir Patillas en *Cursed Zapatilla*. Un valor más alto reduce la velocidad; debe ser un número entero positivo.
+* **Para Cursed Zapatilla:** Estableceremos `animatePeriodMain` a 3 para un movimiento fluido pero controlado.
+
+#### **animatePeriodTile**
+
+Número más alto, animación de los tiles más lenta.
+
+* **Sintaxis:** `animatePeriodTile` ```<número_de_periodo>```
+* **Notas:** Controla la velocidad de animación de los tiles animados. Un valor más alto la ralentiza; debe ser un número entero positivo.
+* **Para Cursed Zapatilla:** Configuraremos `animatePeriodTile` a 10 para un efecto sutil en el cementerio.
+
+#### **maxAnimatedTilesPerScreen**
+
+Máximo de tiles animados por pantalla (10 máximo). Si utilizas menos pon un valor más bajo para ahorrar espacio.
+
+* **Sintaxis:** `maxAnimatedTilesPerScreen` ```<número_de_tiles>```
+* **Notas:** Define el número máximo de tiles animados. El valor máximo es 10.
+* **Para Cursed Zapatilla:** Configuraremos `maxAnimatedTilesPerScreen a 20 para aunque el maximo oficial sea 10, en un intento de añadir animacion a cambio de velocidad de animacion de personaje princial y enemigos. Ajustaremos si es neceario.
+
+#### **maxEnemiesPerScreen**
+
+Se puede configurar la cantidad de enemigos que aparecen en pantalla (hasta 5). Evitar poner más de los que se usan para optimizar espacio.
+
+* **Sintaxis:** `maxEnemiesPerScreen` ```<número_de_enemigos>```
+* **Notas:** Establece el número máximo de enemigos (e.g., zombis, esqueletos) por pantalla en *Cursed Zapatilla*. El límite es 5; usar menos mejora la optimización.
+* **Para Cursed Zapatilla:** Estableceremos `maxEnemiesPerScreen` a 5 para un desafío Interesante diseñando el escenario para minimizar el impacto de las "hordas" de enemigos.
 
 ### Parámetros Extra
 
 Esos pequeños detalles que están, son necesarios pero no encajan perfectamente en el resto de categorías.
 
-- **redefineKeysEnabled**. Habilita la opción de redefinir teclas.
-- **waitPressKeyAfterLoad**. Si habilitas esta opción, tras la carga el juego esperará que pulses una tecla para mostrar el menú.
+#### **redefineKeysEnabled**
 
+Habilita la opción de redefinir teclas.
 
+* **Sintaxis:** `redefineKeysEnabled` `<verdadero/falso>`
+* **Notas:** Activa la posibilidad de reasignar teclas en nuestro juego para personalizar los controles.
+* **Para Cursed Zapatilla:** Configuraremos `redefineKeysEnabled` a `true` para ofrecer flexibilidad a los jugadores y sobre todo accesibilidad.
+
+#### **waitPressKeyAfterLoad**
+
+Si habilitas esta opción, tras la carga el juego esperará que pulses una tecla para mostrar el menú.
+
+* **Sintaxis:** `waitPressKeyAfterLoad` `<verdadero/falso>`
+* **Notas:** Hace que nuestro juego espere una pulsación de tecla tras cargar para mostrar el menú, mejorando la experiencia inicial.
+* **Para Cursed Zapatilla:** Estableceremos `waitPressKeyAfterLoad` a `true` para un inicio controlado y dramático.
 
 ## Paso 4: Verificación del proyecto
 
@@ -373,6 +477,12 @@ Esos pequeños detalles que están, son necesarios pero no encajan perfectamente
     - Carga CursedZapa.tap.        
     - Verifica que el juego carga (sin Sir Patillas ni enemigos personalizados aún).
 
+Mi comprobación no ha ido todo lo bien que esperaba, toca mejorar:
+
+![He llenado la memoria antes de crear el juego](PublicBrain/_resources/5b08f11ca7151d51549de1f1261fc02a_MD5.jpeg)
+
+Como en mi caso me he pasado de largo y he llenado la memoria antes de comenzar, **en el próximo capítulo, averiguaremos que funciones son las que más memoria consumen y cuales menos de forma que podamos afinar la configuración**.
+
 ## Solución de problemas comunes
 
 - **Interfaz de ZXGM no carga**: Verifica Python (python3 --version) y ejecuta el script de instalación nuevamente.    
@@ -387,6 +497,7 @@ Has configurado la base de _Cursed Zapatilla: La Excéntrica Cruzada de Sir Pati
 
 Como escultores, hemos dado el primer golpe al cincel, preparando la piedra para tallarla en capítulos futuros, donde añadiremos sprites personalizados (Sir Patillas, zombis), mecánicas de zapatillazos, y más. ¡Sigue adelante y comienza a dar forma a tu juego retro!
 
+No obstrante, hemos roto el martillo y el escoplo con la lista de la compra, así que nos toca iterar para mejorar el proceso, lo cual veremos en el próximo capítulo, aprovechando la oportunidad para aprender sobre las limitaciones del motor en tanto funcionalidad vs memoria.
 ## Referencias Bibliográficas
 
 * Mis pruebas de campo ⚫①

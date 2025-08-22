@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-18T20:17:40.947Z
+modified: 2025-08-22T14:46:02.049Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 83
+ver_rev: 85
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,17 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Y los muertos aqui lo pasamos muy bien entre flores de colores](/PublicBrain/_resources/d22667726699dac0f871e793462c3d38_MD5.jpg)
+## Curso de ZXGM / Capítulo Básico 04: Configuración de un nuevo proyecto
+
+En este cuarto capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás a configurar un nuevo proyecto desde "cero" (el motor está ideado para que partas de una plantilla mínima), siguiendo un enfoque estructurado y gradual, como un escultor tallando una obra a partir de una piedra en bruto. 
+
+Usaremos como ejemplo el desarrollo de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)|Cursed Zapatilla: La Excéntrica Cruzada de Sir Patillas]], un juego de plataformas inspirado en _Ghosts 'n Goblins_, _Ghouls 'n Ghosts_ y _Cursed Castilla_. 
+
+Continuar leyendo en ... [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②]]
+
+--- column-end ---
 
 ![Información detallada sobre la estructura en memoria de AGD](PublicBrain/_resources/41c8adbac8af58f4201152fec1347ad1_MD5.jpg)
 ## Curso de AGD / Capítulo 32: Información detallada sobre la estructura en memoria de AGD
@@ -56,18 +67,6 @@ En este capítulo, vamos a descubrir Tiled Map Editor, una herramienta potente y
 Es un punto de partida perfecto si estás empezando o si buscas pulir tus habilidades en el diseño de niveles, con una curva de aprendizaje amigable y resultados profesionales.
 
 Seguir leyendo en ... [[Curso de Tiled Capítulo 01 - Qué es Tiled Map Editor 🟡③]]
-
---- column-end ---
-
-![3791 juegos para dominarlos a todos](PublicBrain/_resources/5aa0f87e58ed967d1ecf571758c2a598_MD5.jpg)
-
-## Curso ZX Game Maker / MOS Games - 3971 juegos para dominarlos a todos, un 32 in 1 muy particular
-
-Tres juegos para la Atari 2600 bajo el cielo pixelado, siete para la NES en sus cartuchos dorados, nueve para la Sega Mega Drive en su velocidad condenados, uno para la Commodore 64 en su trono retro sentado, en la tierra de los 8 bits donde los sprites reinan, un juego para gobernarlos a todos, un juego para encontrarlos, un juego para atraerlos a todos y en la nostalgia atarlos, en la tierra de los 8 bits donde los sprites reinan.
-
-¿Y el ZX Spectrum? para ese un 32 in 1 xDDD ... si, probablemente el anillo único me ha hecho perder tantos puntos de cordura que he empezado a usar nudos en cuerdas de esparto para acordarme de las cosas, pero vamos a divertirnos sin miedo, que de eso va la vida, o al menos en parte.
-
-Continua leyendo en ... [[MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①]]
 
 --- column-end ---
 

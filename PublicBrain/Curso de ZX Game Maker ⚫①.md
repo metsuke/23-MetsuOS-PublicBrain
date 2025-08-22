@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
-iaStatus_Model: Raúl Carrillo Garrido aka metsuke
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke, Veo2
 iaStatus_Generado: H
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-a11y: 0
+a11y: -3
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-08-18T21:02:57.129Z
+modified: 2025-08-22T11:07:17.903Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 17
-nav_primary: 
-nav_secondary: 
+ver_rev: 19
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: CursoZXGM_00.mp4
 ---
 # Curso de ZX Game Maker ⚫①
 
@@ -131,7 +132,7 @@ En este cuarto capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás 
 
 Usaremos como ejemplo el desarrollo de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)|Cursed Zapatilla: La Excéntrica Cruzada de Sir Patillas]], un juego de plataformas inspirado en _Ghosts 'n Goblins_, _Ghouls 'n Ghosts_ y _Cursed Castilla_. 
 
-Continuar leyendo en ... [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto ⚫①]]
+Continuar leyendo en ... [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②]]
 
 
  --- column-end ---

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-08-15T00:34:47.131Z
+modified: 2025-08-22T14:49:21.292Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 20
+ver_rev: 21
 nav_primary: 
 nav_secondary: 
 tags:
@@ -53,6 +53,19 @@ Border: off
 ```
 
 
+![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
+## Curso de ZX Game Maker
+
+El Curso de ZX Game Maker está diseñado para introducir a principiantes y entusiastas en el apasionante mundo del desarrollo de videojuegos 2D utilizando el motor ZX Game Maker, una herramienta accesible y potente para crear juegos sin necesidad de conocimientos avanzados de programación. 
+
+Dada la filosofía del motor, y que este está en pleno desarrollo, organizaremos el curso en tres bloques, el primero, para aprnder a crear juegos, el segundo para avanzar en el conocimiento de la plataforma convirtiendo un juego desde AGD (tecnicamente será un demake pues AGD permite mas libertad que ZXGM) y una tercera donde compartiré lo que aprenda en torno al apoyo al proyecto como desarrollador.
+
+Logicamente, empezaremos por lo básico.
+
+Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
+
+--- column-end ---
+
 ![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
 ## Tutorial de AGD 2018 Edition
 
@@ -83,20 +96,6 @@ Tres juegos para la Atari 2600 bajo el cielo pixelado, siete para la NES en sus 
 ¿Y el ZX Spectrum? para ese un 32 in 1 xDDD ... si, probablemente el anillo único me ha hecho perder tantos puntos de cordura que he empezado a usar nudos en cuerdas de esparto para acordarme de las cosas, pero vamos a divertirnos sin miedo, que de eso va la vida, o al menos en parte.
 
 Continua leyendo en ... [[MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①]]
-
---- column-end ---
-
-
-![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
-## Curso de ZX Game Maker
-
-El Curso de ZX Game Maker está diseñado para introducir a principiantes y entusiastas en el apasionante mundo del desarrollo de videojuegos 2D utilizando el motor ZX Game Maker, una herramienta accesible y potente para crear juegos sin necesidad de conocimientos avanzados de programación. 
-
-Dada la filosofía del motor, y que este está en pleno desarrollo, organizaremos el curso en tres bloques, el primero, para aprnder a crear juegos, el segundo para avanzar en el conocimiento de la plataforma convirtiendo un juego desde AGD (tecnicamente será un demake pues AGD permite mas libertad que ZXGM) y una tercera donde compartiré lo que aprenda en torno al apoyo al proyecto como desarrollador.
-
-Logicamente, empezaremos por lo básico.
-
-Continuar leyendo en ... [[Curso de ZX Game Maker ⚫①]]
 
 --- column-end ---
 

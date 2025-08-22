@@ -18,6 +18,7 @@ ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
+MOS_TopImg_Video: CursoAGD001.mp4
 ---
 # Tutorial de AGD 2018 Capítulo 32 - Información detallada sobre la estructura en memoria de AGD ⚫①
 

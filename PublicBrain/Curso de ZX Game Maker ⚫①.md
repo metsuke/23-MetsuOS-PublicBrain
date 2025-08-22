@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-08-22T11:07:17.903Z
+modified: 2025-08-22T14:54:38.665Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 19
+ver_rev: 20
 nav_primary:
 nav_secondary:
 tags:
@@ -138,7 +138,8 @@ Continuar leyendo en ... [[Curso de ZXGM Básico 04 - Configuración de un nuevo
  --- column-end ---
 --- multi-column-end
 
-- Pantalla de presentación y pantalla de victoria
+- Calibrando funcionalidad y memoria para nuestro juego.
+- Pantallas de presentación, victoria, introducción y game over.
 - El HUD
 - Creación del personaje principañ
 - Creación de las pantallas

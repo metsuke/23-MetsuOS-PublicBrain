@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-22T14:46:02.049Z
+modified: 2025-08-23T23:43:32.307Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 85
+ver_rev: 86
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,15 +27,14 @@ Number of Columns: 2
 Border: off
 ```
 
+![Overbooking en el cementerio](PublicBrain/_resources/e745d2425e42a5571a3f646936010317_MD5.jpg)
+## Curso ZXGM / Capítulo Básico 05: Calibrando funcionalidad y memoria para nuestro juego.
 
-![Y los muertos aqui lo pasamos muy bien entre flores de colores](/PublicBrain/_resources/d22667726699dac0f871e793462c3d38_MD5.jpg)
-## Curso de ZXGM / Capítulo Básico 04: Configuración de un nuevo proyecto
+**Optimizando el uso de memoria en ZXGM**
 
-En este cuarto capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás a configurar un nuevo proyecto desde "cero" (el motor está ideado para que partas de una plantilla mínima), siguiendo un enfoque estructurado y gradual, como un escultor tallando una obra a partir de una piedra en bruto. 
+En este quinto capítulo del curso básico de ZX Game Maker (ZXGM), abordamos el problema de memoria llena identificado en el capítulo anterior. Usando el archivo de mapa de memoria generado por el motor (un archivo map.txt en la carpeta output), analizaremos el uso de recursos y probaremos a desactivar funcionalidades una por una para evaluar el ahorro de memoria. Este enfoque nos permite "cincelar" el proyecto eliminando lo innecesario, liberando espacio para elementos esenciales como sprites personalizados y mecánicas de Cursed Zapatilla: La Excéntrica Cruzada de Sir Patillas.
 
-Usaremos como ejemplo el desarrollo de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)|Cursed Zapatilla: La Excéntrica Cruzada de Sir Patillas]], un juego de plataformas inspirado en _Ghosts 'n Goblins_, _Ghouls 'n Ghosts_ y _Cursed Castilla_. 
-
-Continuar leyendo en ... [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②]]
+Continuar leyendo en ... [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②]]
 
 --- column-end ---
 

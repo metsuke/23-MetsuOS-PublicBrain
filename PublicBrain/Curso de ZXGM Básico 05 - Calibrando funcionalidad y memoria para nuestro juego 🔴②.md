@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-23T15:33:03.147Z
-modified: 2025-08-23T19:37:17.122Z
+modified: 2025-08-23T20:38:18.935Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -26,8 +26,6 @@ MOS_TopImg_Video: CursedZapatilla_PoseEsqueletos.mp4
 
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②|<< Anterior]] | Siguiente >>
-
-> OJO WIP
 
 **Optimizando el uso de memoria en ZXGM**
 
@@ -78,20 +76,34 @@ Registro los ahorros en esta tabla:
 | maxEnemiesPerScreen (de 5 a 3)        | 512B (0.5KB)     | 256B por enemigo extra, algo a tener MUY en cuenta                                                                                                             | Menos enemigos                                                                                |
 | goalItems (de 66 a 6)                 | 0B (0KB)         | No tiene impacto                                                                                                                                               | Menos objetos a recoger                                                                       |
 | itemsEnabled                          | 39B (0.03KB)     | Evaluamos si visualizar o no cosas en el marcador tiene impacto significativo (asumimos que las funciones equivalentes para otros elementos funcionan igfual). | No se muestra el marcador de Items                                                            |
-| hiScore                               |                  | -                                                                                                                                                              | No hay puntuación in-game ni el guardado de la misma para que aparezca en la pantalla de menú |
-| messagesEnabled                       |                  | -                                                                                                                                                              | No hay mensajes de ayuda al interactuar con diferentes elementos del juego.                   |
+| hiScore                               | 413B (0.4KB)     | Esta funcionalidad se lleva un buen pellizco de memoria.                                                                                                       | No hay puntuación in-game ni el guardado de la misma para que aparezca en la pantalla de menú |
+| messagesEnabled                       | 359B (0.35KB)    | Era previsible que algo llamado "Mensajes" ocupara algo de espacio.                                                                                            | No hay mensajes de ayuda al interactuar con diferentes elementos del juego.                   |
 
-En un proceso normal se Itera hasta que quepa en 48K/128K, pero va ir mas allá, ordenemos esta tabla por ahorro de mayor a menor y evaluémoslo respecto del diseño deseado del juego.
-
-XXX
+En un proceso normal se Itera hasta que quepa en 48K/128K, pero va ir mas allá, tomaremos la tabla y razonaremos los cambios de configuración que realizaremos.
 
 ## Paso 3: Reevaluación de la configuración
+
+Los tres elementos que más han impactado han sido la musioca AY (de la que por razones obvias no queremos prescindir), los dos enemigos extra por pantalla (que de momento quitaremos para dejar un maximo de 4) , la funcionalidad Hi-Score (que deactivaremos por ahora, seria deseable, pero no a ese coste) y Mensajes (que tambien desactivaremos aumentando la carga de información en el manual y/o pantalla de intro).
+
+Lo ganado con Mensajes lo invertimos en un enemigo más por pantalla, que creo dará bastante juego, sabiendo que podemos (aunque no queremos), reducir uno mas si fuese necesario.
+
+En lo personal si me toca reducir más me planteare si reduzco un enemigo o intento optimizar el codigo internamente (de nuevo probablemente esté siendo naif pero debo intentarlo llegado el caso).
+
+Otros elementos que ahora considero irrenunciables como el IDLE, los evaluaremos para su desactivación si y solo si no queda otro remedio, cosa que veremos mas adelante en el desarrollo.
+
+Con esto deberiamos ganar los 900 bytes que nos faltan compilar, y espero no tener que tocar aspectos de memoria durante el proceso de desarrollo (intuyo que estoy siendo naif al desear esto, en 8bits la pelea es contra la memoria xD)
+
+Si todo va bien ahora, en el proximo capítulo empezamos a crear screens (y me da que a llorar por falta de memoria, tambien jajaja).
 
 ## Paso 4: Verificación post-optimización
 
 1. Recompila final: Game/Build sin errores.
 2. Prueba en emulador: Carga .tap, verifica carga sin crashes.
-3. Revisa .map: Confirma uso < límite (e.g., <40KB para 48K).
+3. Revisa mapa.txt: Confirma uso < límite (HEX)C000
+
+Parece que, por ahora, prueba superada.
+
+![Parece que esta vez si](PublicBrain/_resources/1150692291c3e6f19c9f686be279a6bd_MD5.jpeg)
 
 ## Solución de problemas comunes
 

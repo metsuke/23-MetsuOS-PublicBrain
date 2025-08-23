@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
 iaStatus_Model: Raúl Carrillo Garrido aka metsuke
-iaStatus_Generado: "H"
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-06-02T21:45:37.355Z
-modified: 2025-06-28T21:06:07.844Z
+modified: 2025-08-22T23:17:34.571Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 15
-nav_primary: 
-nav_secondary: 
+ver_rev: 17
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: CursoAGD001.mp4
 ---
 # Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①
 
@@ -27,8 +28,6 @@ tags:
 * [[Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①|Siguiente >>]]
 
 ## AGD: Capitulo uno
-
-¡Hola a todos! comenzamos aquí un tutorial.
 
 Me consta deseado desde hace tiempo por una parte de la scene de habla hispana, que no es otra que la versión en español de [los archiconocidos videos de Paul Jenkinson  🌐🟡③](http://randomkak.blogspot.com.es/p/agd-video-tutorials.html) sobre este fantástico maker.
 

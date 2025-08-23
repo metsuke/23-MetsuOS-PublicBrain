@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-18T21:19:19.590Z
-modified: 2025-08-22T14:16:49.638Z
+modified: 2025-08-23T15:33:41.377Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 13
+ver_rev: 14
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -25,7 +25,7 @@ MOS_TopImg_Video: CursedZapatilla_DanceSkeletons.mp4
 ![Y los muertos aqui lo pasamos muy bien entre flores de colores](/PublicBrain/_resources/d22667726699dac0f871e793462c3d38_MD5.jpg)
 
 * [[Curso de ZX Game Maker ⚫①]]
-* [[Curso de ZXGM Básico 03 - Explorando la estructura general del motor 🟡③|<< Anterior]] | Siguiente >>
+* [[Curso de ZXGM Básico 03 - Explorando la estructura general del motor 🟡③|<< Anterior]] | [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②|Siguiente >>]]
 
 En este cuarto capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás a configurar un nuevo proyecto desde "cero" (el motor está ideado para que partas de una plantilla mínima), siguiendo un enfoque estructurado y gradual, como un escultor tallando una obra a partir de una piedra en bruto. 
 

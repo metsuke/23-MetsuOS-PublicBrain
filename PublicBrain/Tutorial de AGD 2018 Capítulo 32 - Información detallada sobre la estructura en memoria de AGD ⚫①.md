@@ -9,16 +9,16 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-20T15:38:17.242Z
-modified: 2025-08-20T18:17:25.494Z
+modified: 2025-08-22T15:56:52.879Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
-MOS_TopImg_Video: CursoAGD001.mp4
+MOS_TopImg_Video: CursoAGD032.mp4
 ---
 # Tutorial de AGD 2018 Capítulo 32 - Información detallada sobre la estructura en memoria de AGD ⚫①
 

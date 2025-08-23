@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
 iaStatus_Model: Raúl Carrillo Garrido aka metsuke
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-06-02T21:30:53.715Z
-modified: 2025-08-20T15:28:31.489Z
+modified: 2025-08-22T18:46:01.944Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
-nav_primary: 
-nav_secondary: 
+ver_rev: 8
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: CursoAGD000.mp4
 ---
 # Tutorial de AGD 2018 Edition ⚫①
 

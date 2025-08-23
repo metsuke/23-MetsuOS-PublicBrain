@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
-iaStatus_Model: Raúl Carrillo Garrido aka metsuke
-iaStatus_Generado: "H"
+iaStatus_Model: Raúl Carrillo Garrido aka metsuke, Veo2
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-06-03T02:52:51.290Z
-modified: 2025-07-04T23:33:25.084Z
+modified: 2025-08-23T16:00:08.066Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 15
-nav_primary: 
-nav_secondary: 
+ver_rev: 17
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: CursoAGD002.mp4
 ---
 # Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①
 
@@ -37,7 +38,7 @@ En esta ocasión continuamos con el primero de los siguientes elementos (Los tre
 - Generación de plataformas
 - Diseño de nuestra primera pantalla
 
-Una vez completemos este y el siguiente capítulo seremos capaces de crear pantallas sencillas.
+Una vez completemos este y el siguiente capítulo seremos capaces de crear pantallas sencillas y no morir en el intento (ya tendremos tiempo jugando el juego).
 
 ## ¿Qué son los Tiles?
 

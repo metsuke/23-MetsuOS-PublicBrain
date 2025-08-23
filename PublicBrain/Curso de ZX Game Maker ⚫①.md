@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-08-22T14:54:38.665Z
+modified: 2025-08-23T17:29:48.538Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 20
+ver_rev: 22
 nav_primary:
 nav_secondary:
 tags:
@@ -134,11 +134,21 @@ Usaremos como ejemplo el desarrollo de [[MOS Games - Cursed Zapatilla - La Excé
 
 Continuar leyendo en ... [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②]]
 
+--- column-end ---
+
+![Overbooking en el cementerio](PublicBrain/_resources/e745d2425e42a5571a3f646936010317_MD5.jpg)
+## Capítulo Básico 05: Calibrando funcionalidad y memoria para nuestro juego.
+
+**Optimizando el uso de memoria en ZXGM**
+
+En este quinto capítulo del curso básico de ZX Game Maker (ZXGM), abordamos el problema de memoria llena identificado en el capítulo anterior. Usando el archivo de mapa de memoria generado por el motor (un archivo map.txt en la carpeta output), analizaremos el uso de recursos y probaremos a desactivar funcionalidades una por una para evaluar el ahorro de memoria. Este enfoque nos permite "cincelar" el proyecto eliminando lo innecesario, liberando espacio para elementos esenciales como sprites personalizados y mecánicas de Cursed Zapatilla: La Excéntrica Cruzada de Sir Patillas.
+
+Continuar leyendo en ... [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②]]
 
  --- column-end ---
 --- multi-column-end
 
-- Calibrando funcionalidad y memoria para nuestro juego.
+- 
 - Pantallas de presentación, victoria, introducción y game over.
 - El HUD
 - Creación del personaje principañ

@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
 iaStatus_Model: Raúl Carrillo Garrido aka metsuke
-iaStatus_Generado: "H"
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-06-09T14:52:48.676Z
-modified: 2025-06-17T14:29:02.794Z
+modified: 2025-08-28T14:35:47.092Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
-nav_primary: 
-nav_secondary: 
+ver_rev: 7
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: CursoAGD004.mp4
 ---
 # Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①
 

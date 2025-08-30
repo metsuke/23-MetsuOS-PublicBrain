@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
 iaStatus_Model: Raúl Carrillo Garrido aka metsuke
-iaStatus_Generado: "H"
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-06-11T16:26:25.753Z
-modified: 2025-06-17T14:27:49.231Z
+modified: 2025-08-29T18:29:52.057Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
-nav_primary: 
-nav_secondary: 
+ver_rev: 7
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: CursoAGD005B.mp4
 ---
 # Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①
 

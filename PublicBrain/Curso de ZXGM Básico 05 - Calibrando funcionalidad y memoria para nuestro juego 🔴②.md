@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-23T15:33:03.147Z
-modified: 2025-08-23T20:38:18.935Z
+modified: 2025-08-28T13:38:00.646Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -25,7 +25,7 @@ MOS_TopImg_Video: CursedZapatilla_PoseEsqueletos.mp4
 ![Overbooking en el cementerio](PublicBrain/_resources/e745d2425e42a5571a3f646936010317_MD5.jpg)
 
 * [[Curso de ZX Game Maker ⚫①]]
-* [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②|<< Anterior]] | Siguiente >>
+* [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②|<< Anterior]] | [[Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②|Siguiente >>]]
 
 **Optimizando el uso de memoria en ZXGM**
 

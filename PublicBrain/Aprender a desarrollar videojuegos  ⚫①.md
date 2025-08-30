@@ -7,17 +7,18 @@ iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-08-22T14:49:21.292Z
+modified: 2025-08-28T20:59:13.709Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 21
-nav_primary: 
-nav_secondary: 
+ver_rev: 23
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: KB_AprendeCrearVideojuegos.mp4
 ---
 # Aprender a desarrollar videojuegos  ⚫①
 

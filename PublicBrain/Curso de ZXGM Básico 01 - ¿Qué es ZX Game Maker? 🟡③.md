@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
 iaStatus_Model: Grok-3, Raúl Carrillo aka Metsuke
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-07-29T11:42:28.559Z
-modified: 2025-08-08T02:23:02.354Z
+modified: 2025-08-28T13:49:02.569Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
-nav_primary: 
-nav_secondary: 
+ver_rev: 6
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: CursoZXGM_01.mp4
 ---
 # Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③
 

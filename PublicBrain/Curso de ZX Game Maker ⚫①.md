@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-08-23T17:29:48.538Z
+modified: 2025-08-28T13:36:09.741Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 22
+ver_rev: 23
 nav_primary:
 nav_secondary:
 tags:
@@ -145,11 +145,14 @@ En este quinto capítulo del curso básico de ZX Game Maker (ZXGM), abordamos el
 
 Continuar leyendo en ... [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②]]
 
- --- column-end ---
---- multi-column-end
+--- column-end ---
 
-- 
-- Pantallas de presentación, victoria, introducción y game over.
+## Capítulo Básico 06: Pantallas de presentación, victoria, introducción y game over.
+
+Continuar leyendo en ... [[Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②]]
+
+--- column-end ---
+
 - El HUD
 - Creación del personaje principañ
 - Creación de las pantallas
@@ -160,6 +163,11 @@ Continuar leyendo en ... [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y
 - Efectos visuales
 - Pruebas y ajustes
 - Optimización del juego
+
+ --- column-end ---
+--- multi-column-end
+
+
 
 ## Nivel Medio: Haz un demake de un juego de AGD
 

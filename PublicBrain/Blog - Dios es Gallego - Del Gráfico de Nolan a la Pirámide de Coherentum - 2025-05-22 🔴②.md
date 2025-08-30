@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
 iaStatus_Model: Grok-3, Raúl Carrillo aka Metsuke
-iaStatus_Generado: "H"
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-05-21T23:37:37.571Z
-modified: 2025-06-14T05:45:37.850Z
+modified: 2025-08-29T18:06:46.959Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
-nav_primary: 
-nav_secondary: 
+ver_rev: 9
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: Blog_DiosEsGallego.mp4
 ---
 # Blog - Dios es Gallego - Del Gráfico de Nolan a la Pirámide de Coherentum - 2025-05-22 🔴②
 

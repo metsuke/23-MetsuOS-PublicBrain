@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
 iaStatus_Model: Grok-3, Raúl Carrillo aka Metsuke
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-08-14T09:04:55.743Z
-modified: 2025-08-16T19:35:42.539Z
+modified: 2025-08-30T20:57:14.435Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
-nav_primary: 
-nav_secondary: 
+ver_rev: 10
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: 3971_Games.mp4
 ---
 # MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①
 
@@ -41,13 +42,15 @@ Border: off
 ```
 
 ![Caratula de Cursed Zapatillas](PublicBrain/_resources/33d90a6b2fb87f43d9c3829c4f53814e_MD5.jpg)
-## MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)
+### 001 - MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)
 
 ¡Ponte la armadura de Sir Patillas en este emocionante juego de plataformas homenaje a los clásicos _Ghouls 'n Ghosts_, _Ghosts 'n Goblins_ y, especialmente, el naravilloso _Cursed Castilla_! 
 
 Con tus botas de batalla como arma principal, te enfrentarás a zombis, esqueletos y criaturas infernales a base de zapatillazos. En un mundo tétrico pero lleno de color, con cementerios decorados con ...
 
 Continuar leyendo en ... [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)]]
+
+(Ortogonal, Plataformas)
 
  --- column-end ---
 
@@ -65,6 +68,12 @@ Continuar leyendo en ... [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada
 
 ## Juegos que intenteremos crear en ZX Game Maker a futuro
 
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
 - 009 "Chanclaaaa", el juego de estilo combate por turnos de armas variadas en un entorno 2D destruible que intentaremos crear en el futuro, cuando el motor lo sopporte.
 - 010 "Chanclas Islands", el juego de estrategia de supervivencia en islas interconectadas que intentaremos crear en el futuro, cuando el motor lo soporte.
 - 011 "Chanclas Kombat", el juego de lucha que intentaremos crear en el futuro, cuando el motor lo soporte.
@@ -77,6 +86,9 @@ Continuar leyendo en ... [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada
 - 018 "The Lost Zapas", el juego de plataformas puzle con varios personajes que intentaremos crear en el futuro, cuando el motor lo soporte.
 - 019 "Virtua Zapas", un ロシアのもの de coches en toda regla, que intentaremos crear en el futuro, cuando el motor los soporte.
 - 020 "Zapachancla Games", el juego con los juegos Zaplímplicos mas locos de la historia, que intentaremos crear en el futuro, cuando el motor lo soporte.
+
+ --- column-end ---
+
 - 021 "Zapachess", el juego de ajedrez que intentaremos crear en el futuro, cuando el motor lo soporte.
 - 022 "Zapachis", el juego de parchis que intentaremos crear en el futuro, cuando el motor lo soporte.
 - 023 "Zapa Cop", el juego de disparos a targets en secuencoa que intentaremos crear en el futuro cuando el motor lo soporte.
@@ -89,6 +101,53 @@ Continuar leyendo en ... [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada
 - 030 "Zapa Wars", el juego estrategia de guerra que intentaremos crear en el futuro, cuando el motor lo permita.
 - 031 "Zapa Zapa Pom", el juego de estilo musical que intentaremos crear en el futruro, cuando el motor lo soporte.
 - 032 "Zapas, el de los porros", la videoaventura que intentaremos crear cuando el motor lo soporte.
+
+ --- column-end ---
+--- multi-column-end
+
+
+
+
+
+## Juegos potenciales para llegar al 48 en 1 en un futuro
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Babu Pez](PublicBrain/_resources/7b2ec9b375a87e48bbba2eefadfb935d_MD5.jpeg)
+### 033 - MOS Games - "Babu Pez"
+
+Homenaje a Fred y Sir Fred, aunque en lo personal este último se me hizo demasiado cuesta arriba, es una buena oportunidad de crear lo que me hubiera gustado jugar.
+
+Babu, un arqueólogo novato admirador de Fred, tiene la "fantástica" ocurrencia de ir a la Piramide en busca de un para de babuchas usadas de Fred "Seguro que se cotizan bien de segunda mano" este acaba atrapado tras sufrir una avancha de miles de pares babuchas usadas por Fred en su clásico periplo y que quedaron allí abandonadas ... 
+
+Desesperado por escapar, acaba pidiendo ayuda a sus amigos del club de arqueología para que vengan a rescatarle...
+
+(Ortogonal, Procedural, Scroll Multidireccional)
+
+ --- column-end ---
+
+![[9568951c-2a40-466c-8fc6-1ebe9c7c37f8.jpeg]]
+
+### 034 - MOS Games - "Uwabaki Worlds"
+
+Tras ver el fantastico Cubix en ZX Spectrum y observar lo que me atrae de Minecraft (construir como si fuera en un lienzo) y lo que no (todo el crafteo y los lios enormes para hacer cualquier cosa), he pensado en si es viable meter un Voxel Builder artistico que pueda ser explorado en un ZX Spectrum.
+
+Aún no se si isometrico con sprites o algun intento de 3D Rendering con cubos y poligonos de colores, o siquiera si es realmente viable, pero me gustaria crear algo asi como un jardin al que escapar del estres diario y crear experiencias por el gusto de hacerlo, pudiendo compartir las creaciones entre usuarios.
+
+El titulo busca trasmitir la idea de "Mundos caseros" o "de bolsillo", a través del concepto tras el Uwabaki nipón.
+
+--- column-end ---
+
+¿...?
+
+ --- column-end ---
+--- multi-column-end
+
+
 
 > ¿Quieres convertirlo en 48 in 1 o 64 in 1? proponme cosas en Twitter/X
 

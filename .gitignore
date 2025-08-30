@@ -1,5 +1,6 @@
-# From http://www.ladysign-apps.com/developer/remove-ds_store-files-from-my-git-repo-and-ignore-them/#.VvuOl2PIPBI
+.env
 
+# From http://www.ladysign-apps.com/developer/remove-ds_store-files-from-my-git-repo-and-ignore-them/#.VvuOl2PIPBI
 # find . -name '*.DS_Store' -type f -delete
 # create this in a .gitignore file
 # commit

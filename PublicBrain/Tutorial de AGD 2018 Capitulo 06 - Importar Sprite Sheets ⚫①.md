@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
 iaStatus_Model: Raúl Carrillo Garrido aka metsuke
-iaStatus_Generado: "H"
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-06-17T10:25:14.495Z
-modified: 2025-06-18T17:18:37.864Z
+modified: 2025-08-31T18:51:58.055Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
-nav_primary: 
-nav_secondary: 
+ver_rev: 6
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: CursoAGD006.mp4
 ---
 # Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①
 

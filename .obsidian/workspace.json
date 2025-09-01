@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d98a7cee52dbf9a4",
+        "id": "f573d1ad7ba7af8f",
         "type": "tabs",
         "children": [
           {
-            "id": "77b3dbd077129a7c",
+            "id": "ca8372a5af89fbce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①.md",
+                "file": "PublicBrain/MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①"
+              "title": "MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)"
+            }
+          },
+          {
+            "id": "124f11456003e485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Pixel Art Attack - Cursed Zapatilla - ZX Spectrum - Pantalla de Carga ⚫①.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pixel Art Attack - Cursed Zapatilla - ZX Spectrum - Pantalla de Carga ⚫①"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,44 +217,44 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "77b3dbd077129a7c",
+  "active": "124f11456003e485",
   "lastOpenFiles": [
+    "PublicBrain/Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①.md",
+    "PublicBrain/Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②.md",
+    "PublicBrain/Pixel Art Attack - Cursed Zapatilla - ZX Spectrum - Pantalla de Carga ⚫①.md",
+    "PublicBrain/MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025).md",
+    "PublicBrain/Curso de ZX Game Maker ⚫①.md",
+    "Novedades.md",
+    "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
+    "KB.md",
+    "Pixel Art Attack - Cursed Zapatilla - ZX Spectrum - Pantalla de Carga ⚫①.md",
+    "PublicBrain/Pixel Art Attack - Creando gráficos retro ⚫①.md",
+    "PublicBrain/_resources/6c9252999c9e227372e9e115988bd5d8_MD5.jpg",
+    "Pixel Art Attack.md",
+    "Pixel Art Attack - Cursed Zapatilla - ZX Spectrum.md",
+    "PublicBrain/_resources/b85ed565d16525f912d382f516a9bf47_MD5.jpeg",
+    "ZX_CursedZapatilla.png",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 06 - Importar Sprite Sheets ⚫①.md",
+    "PublicBrain/Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①.md",
+    "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
+    "PublicBrain/MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①.md",
     "PublicBrain/9568951c-2a40-466c-8fc6-1ebe9c7c37f8.jpeg",
     "9568951c-2a40-466c-8fc6-1ebe9c7c37f8.jpeg",
     "Juegos.md",
     "Index.md",
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 05 - Animando sprites ⚫①.md",
-    "PublicBrain/Tutorial de AGD 2018 Edition ⚫①.md",
-    "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
-    "KB.md",
     "PublicBrain/Blog - Dios es Gallego - Del Gráfico de Nolan a la Pirámide de Coherentum - 2025-05-22 🔴②.md",
     "Blog.md",
-    "PublicBrain/Curso de ZX Game Maker ⚫①.md",
-    "PublicBrain/Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②.md",
     "PublicBrain/_resources/f5ae0ef26feaa587831f514988771420_MD5.jpeg",
     "0001_CursedZapatilla.png",
     "Noticias.md",
-    "Novedades.md",
     "PublicBrain/Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①.md",
     "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 04 - Los Sprites aka creando el Muñequito y los Bichos ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 03 - Nuestra primera pantalla  ⚫①.md",
     "PublicBrain/Tutorial de AGD 2018 Capitulo 02 - Qué son los tiles ⚫①.md",
-    "PublicBrain/Tutorial de AGD 2018 Capitulo 01 - El Comienzo ⚫①.md",
-    "PublicBrain/Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③.md",
-    "PublicBrain/Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②.md",
-    "PublicBrain/Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②.md",
-    "Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②.md",
-    "PublicBrain/MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①.md",
     "PublicBrain/_resources/7b2ec9b375a87e48bbba2eefadfb935d_MD5.jpeg",
-    "PublicBrain/MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025).md",
     "PublicBrain/_resources/48988e41e8b9767e2d8775a784c630f2_MD5.jpeg",
-    "PublicBrain/Tutorial de AGD 2018 Capítulo 32 - Información detallada sobre la estructura en memoria de AGD ⚫①.md",
     "PublicBrain/_resources/1150692291c3e6f19c9f686be279a6bd_MD5.jpeg",
-    "Captura de pantalla 2025-08-23 a las 23.03.42.png",
-    "PublicBrain/_resources/e745d2425e42a5571a3f646936010317_MD5.jpg",
-    "PublicBrain/_resources/5b08f11ca7151d51549de1f1261fc02a_MD5.jpeg",
-    "Captura de pantalla 2025-08-22 a las 5.35.32.png",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-28T13:37:23.615Z
-modified: 2025-08-28T15:15:11.100Z
+modified: 2025-09-01T18:05:15.529Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -22,11 +22,13 @@ tags: []
 # Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②
 
 
+![El punto de partida en resolucion y colores reales de la pantalla de carga](PublicBrain/_resources/b85ed565d16525f912d382f516a9bf47_MD5.jpeg)
 
 * [[Curso de ZX Game Maker ⚫①]]
+* [[Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①]]
 * [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②|<< Anterior]] | Siguiente >>
 
-> OJO WIP
+> Este es un "Live Post" ya que nos vamos a tomar nuestro tiempo para hacer las pantallas con mimo, y así dar tiempo para la salida de la siguiente - espectacular - versión del engine, y que trae novedades que me interesa incorporar al juego.
 
 En el capítulo de hoy, nos centraremos en las pantallas de presentación y transición de tu juego. Los detalles sobre cómo trabajar con ZX Paintbrush se tratarán en el [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]], aquí nos enfocaremos en qué pantallas puedes incluir, dónde deben ubicarse y cómo gestionar el espacio en memoria que ocupan. Estas pantallas son esenciales para mejorar la experiencia del usuario, ofrecer retroalimentación visual y garantizar un juego pulido.
 
@@ -45,10 +47,11 @@ En Cursed Castilla, partiremos de esta imagen:
 	- Formato SCR, resolución de 256x192 píxeles, paleta de 15 colores (1 bit por píxel para brillo, con atributos de color de 8x8 píxeles).
 	- Tamaño: 6912 bytes (6,75 KB).
 - **Consideraciones**:  
-    - Usa ZX Paintbrush para crear o editar la imagen. Puedes partir de ejemplos en la carpeta assets/screens.       
-    - Optimiza para minimizar conflictos de color (color clash) debido a las limitaciones de atributos del ZX Spectrum.        
+    - Usa Retro-X para crear o editar la imagen. Puedes partir de ejemplos en la carpeta assets/screens.       
+    - Optimiza para minimizar conflictos de color (color clash) debido a las limitaciones de atributos del ZX Spectrum.
+    - A Partir de ahí trabajar con ZX-Paintbrush iterando sobre la imagen (puedes ver los pasos intermedios en [[Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①]])
 
-Resultado actual (1 iteración):
+### Estado actual (Iteración 001):
 
 Ahora es cuando empieza el [Pixel Art Attack al mas puro estilo Errazkin](https://youtu.be/r_t6IBm8-Ac?si=bB0Ae1R50DPvP5eQ) XD
 
@@ -56,8 +59,6 @@ Ahora es cuando empieza el [Pixel Art Attack al mas puro estilo Errazkin](https:
 
 ---
 ### Menú (Pantalla Principal)
-
-> OJO TEXTO SIN AFINAR
 
 - **Archivo**: assets/screens/title.scr
 - **Propósito**: Se muestra tras la carga, presentando las opciones de control al usuario antes de iniciar el juego. Incluye opciones como:
@@ -69,13 +70,9 @@ Ahora es cuando empieza el [Pixel Art Attack al mas puro estilo Errazkin](https:
     - Formato SCR, resolución de 256x192 píxeles, paleta de 15 colores.
     - Tamaño: 6912 bytes (6,75 KB).
 - **Consideraciones**:
-- Se debe incluir el logo de ZX Game Maker, disponible en la carpeta de recursos o en la documentación.
-    - Diseña un layout claro para mostrar las opciones de control, asegurándote de que el texto sea legible (fuentes monocromas o con alto contraste).
-    - La pantalla debe ser estática y no animada para ahorrar memoria y ciclos de CPU.
-
+	- Se debe incluir el logo de ZX Game Maker, disponible en la carpeta de recursos o en la documentación.
+    - Diseña un layout claro para mostrar las opciones de control, asegurándote de que el texto sea legible (fuentes monocromas y/o con alto contraste).
 ### Ending
-
-> OJO TEXTO SIN AFINAR
 
 - **Archivo**: assets/screens/ending.scr
 - **Propósito**: Se muestra cuando el jugador completa el juego, ofreciendo una conclusión visual satisfactoria.
@@ -84,15 +81,11 @@ Ahora es cuando empieza el [Pixel Art Attack al mas puro estilo Errazkin](https:
     - Tamaño: 6912 bytes (6,75 KB).
 - **Consideraciones**:
     - Puede incluir mensajes de felicitación, créditos o un resumen del logro del jugador.
-    - Usa ZX Paintbrush para diseñar una imagen que refleje el tema del juego y evite conflictos de color.
-    - Al igual que la pantalla de carga, su impacto en la memoria es fijo y predecible.
 
 ### HUD
 
-> OJO TEXTO SIN AFINAR
-
 - **Archivo**: assets/screens/hud.scr
-- **Propósito**: Se muestra en la parte inferior de la pantalla durante el juego para indicar información como vida, munición, llaves, ítems, marcador, combustible y mensajes.   
+- **Propósito**: Se muestra en la parte inferior (el tercio inferior) de la pantalla durante el juego para indicar información como vida, munición, llaves, ítems, marcador, combustible y mensajes.   
 - **Especificaciones**:    
     - Formato SCR, resolución de 256x192 píxeles, pero solo se diseña la parte inferior (aproximadamente un tercio de la pantalla, ~64 píxeles de altura).
     - Tamaño: 6912 bytes (6,75 KB), aunque solo una porción se usa activamente.
@@ -106,13 +99,10 @@ Ahora es cuando empieza el [Pixel Art Attack al mas puro estilo Errazkin](https:
         - **M** (Messages): 2 líneas de 8 caracteres.
         - **F** (Fuel): 3 caracteres.
 - **Consideraciones**:
-- Diseña solo la parte inferior para ahorrar esfuerzo y optimizar el uso de memoria.
+	- Diseña solo la parte inferior para ahorrar esfuerzo y optimizar el uso de memoria.
     - Asegúrate de que los elementos sean claros y no se solapen visualmente.
     - La edición en Tiled permite ajustar las posiciones sin modificar el código del juego.
-
 ## Pantallas Opcionales (Solo 128K)
-
-> OJO TEXTO SIN AFINAR
 
 ### Intro
 - **Archivo**: assets/screens/intro.scr
@@ -126,8 +116,6 @@ Ahora es cuando empieza el [Pixel Art Attack al mas puro estilo Errazkin](https:
     - Ideal para mostrar una breve narrativa o introducción al contexto del juego.            - Su uso incrementa el consumo de memoria, por lo que debe justificarse en juegos 128K.
        
 ### Game Over
-
-> OJO TEXTO SIN AFINAR
 
 - **Archivo**: assets/screens/gameover.scr    
 - **Propósito**: Se muestra cuando el jugador pierde todas sus vidas, antes de volver al menú principal. El usuario debe pulsar _Enter_ para continuar.    

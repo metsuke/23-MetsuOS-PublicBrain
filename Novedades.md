@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-08-23T23:43:32.307Z
+modified: 2025-09-01T18:10:48.972Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 86
+ver_rev: 87
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,14 +27,12 @@ Number of Columns: 2
 Border: off
 ```
 
-![Overbooking en el cementerio](PublicBrain/_resources/e745d2425e42a5571a3f646936010317_MD5.jpg)
-## Curso ZXGM / Capítulo Básico 05: Calibrando funcionalidad y memoria para nuestro juego.
+![El punto de partida en resolucion y colores reales de la pantalla de carga](PublicBrain/_resources/b85ed565d16525f912d382f516a9bf47_MD5.jpeg)
+## Capítulo Básico 06: Pantallas de presentación, victoria, introducción y game over (Live Post)
 
-**Optimizando el uso de memoria en ZXGM**
+En el capítulo de hoy, nos centraremos en las pantallas de presentación y transición de tu juego. Los detalles sobre cómo trabajar con ZX Paintbrush se tratarán en el [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]], aquí nos enfocaremos en qué pantallas puedes incluir, dónde deben ubicarse y cómo gestionar el espacio en memoria que ocupan. Estas pantallas son esenciales para mejorar la experiencia del usuario, ofrecer retroalimentación visual y garantizar un juego pulido.
 
-En este quinto capítulo del curso básico de ZX Game Maker (ZXGM), abordamos el problema de memoria llena identificado en el capítulo anterior. Usando el archivo de mapa de memoria generado por el motor (un archivo map.txt en la carpeta output), analizaremos el uso de recursos y probaremos a desactivar funcionalidades una por una para evaluar el ahorro de memoria. Este enfoque nos permite "cincelar" el proyecto eliminando lo innecesario, liberando espacio para elementos esenciales como sprites personalizados y mecánicas de Cursed Zapatilla: La Excéntrica Cruzada de Sir Patillas.
-
-Continuar leyendo en ... [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②]]
+Continuar leyendo en ... [[Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②]]
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-08-08T21:58:24.068Z
+modified: 2025-09-01T18:04:24.628Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 23
+ver_rev: 24
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,18 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Pixel Art Attack](PublicBrain/_resources/6c9252999c9e227372e9e115988bd5d8_MD5.jpg)
+
+## Pixel Art Attack - Creando gráficos retro
+
+Esta es una sección que nace del [concepto creado por Igor Errazkin en este video  🌐🟡③](https://www.youtube.com/watch?v=r_t6IBm8-Ac), en el que muestra el paso a paso de una edición pixelart en una conversión de Amiga a ZX-Spectrum.
+
+En mi caso, y con la excusa de que ando creando pantallas, ire añadiendo colecciones de posts en los que ire mostrando el paso a paso de las pantallas que voy creando, por si a alguno de vosotros os sirve para inspiraos, además de servirme a mi como archivo del proceso.
+
+Continuar leyendo en ... [[Pixel Art Attack - Creando gráficos retro ⚫①]]
+
+--- column-end ---
 
 ![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
 ## Aprender a desarrollar videojuegos

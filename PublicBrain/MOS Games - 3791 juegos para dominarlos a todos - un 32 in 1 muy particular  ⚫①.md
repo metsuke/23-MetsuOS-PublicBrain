@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-14T09:04:55.743Z
-modified: 2025-08-30T20:57:14.435Z
+modified: 2025-08-31T00:58:29.932Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary:
 nav_secondary:
 tags:
@@ -130,7 +130,7 @@ Desesperado por escapar, acaba pidiendo ayuda a sus amigos del club de arqueolog
 
  --- column-end ---
 
-![[9568951c-2a40-466c-8fc6-1ebe9c7c37f8.jpeg]]
+![Uwabaki Worlds mockup](9568951c-2a40-466c-8fc6-1ebe9c7c37f8.jpeg)
 
 ### 034 - MOS Games - "Uwabaki Worlds"
 

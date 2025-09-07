@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-18T21:19:19.590Z
-modified: 2025-08-23T15:33:41.377Z
+modified: 2025-09-07T12:41:39.795Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 14
+ver_rev: 18
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -26,6 +26,8 @@ MOS_TopImg_Video: CursedZapatilla_DanceSkeletons.mp4
 
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Curso de ZXGM Básico 03 - Explorando la estructura general del motor 🟡③|<< Anterior]] | [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②|Siguiente >>]]
+
+ > Nota importante, el proyecto se encuentra en una fase de transicion entre la anteriormente consoldidada y la que está a punto de salir, trataré de mantener esto ajustado, pero podria haber desajustes. Para detalles lo mas actualizados posibles, consulta la documentación oficial del proyecto.
 
 En este cuarto capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás a configurar un nuevo proyecto desde "cero" (el motor está ideado para que partas de una plantilla mínima), siguiendo un enfoque estructurado y gradual, como un escultor tallando una obra a partir de una piedra en bruto. 
 
@@ -74,7 +76,7 @@ Si quieres cambiar de plantilla, copia el contenido de la carpeta de la que quie
 
 Una vez elegida la plantilla, vamos a lanzar el GUI.
 
-## Paso 2: Lanzar ZX Game Maker
+## Paso 3: Lanzar ZX Game Maker
 
 1. Abre una terminal o línea de comandos y navega a la carpeta principal de ZXGM (e.g., cd /ruta/a/zx-game-maker).
     
@@ -88,7 +90,7 @@ python zxsgm.py
     
 3. Prueba a ejecutar Build / Game en el menú para asegurarte de que partimos de una plantilla funcional.
     
-## Paso 3: Configuración inicial en Tiled
+## Paso 4: Configuración inicial en Tiled
 
 En este capítulo, nos enfocamos en ajustar parámetros en Tiled (lugar donde se realizan casi todas las configuraciones de nuestro juego) para alinear el proyecto con _Cursed Zapatilla_. 
 
@@ -102,7 +104,7 @@ Usaremos el archivo maps.tiled-project de la plantilla copiada, sin modificar gr
 
 ![Tiled con el mapa de la plantilla cargado](PublicBrain/_resources/c5741151ecbfb386b36b70c866f78322_MD5.jpeg)
 
-## Paso 4: Configuración de los parámetros
+## Paso 5: Configuración de los parámetros
 
 Vamos a comenzar con la chicha, en este punto, vamos a confgigurar los parámetros que permiten generar una jugabilidad específica para nuestra obra. Aunque exploraremos todos los parámetros, centraremos el foco en crear nuestro juego plataformero, ya habrá tiempo, una vez completado el ciclo base, de crear monográficos para cada uno de los juegos que queremos crear.
 
@@ -110,7 +112,7 @@ Organizaremos los parámetros de forma progresiva y por bloques de forma que el 
 
 Los parmetros se pueden ver en Mapa > Propiedades Personalizadas o Map > Map Properties dependiendo del idioma actual en Tiled:
 
-> WIP Organizando y definiendo estructura información de los parámetros
+> WIP Organizando y definiendo estructura de los nuevos parámetros, así como su funcionamiento con base en la nueva información disponible en la documentación.
 ### Parámetros Generales
 
 Lo primero, logicamente, es identificar nuestro juego, y el target al que va dirigido!
@@ -126,8 +128,8 @@ Establece el nombre del juego
 Establece si el modo 128K está activo.
 
 * **Sintaxis:** `128Kenabled` ( activado / desactivado )
-* **Notas:** En modo 128k, se permite acceso a bancos de memoria adicionales para características avanzadas.
-* **Para Cursed Zapatilla**: Marcaremos la opción para que genere el .tap para 128K, en 48K funcionará pero salvo configuraciones hardware especiales, funcionará sin sonido o música AY.
+* **Notas:** En modo 128k, se permite acceso a bancos de memoria adicionales para características avanzadas y, por tanto, el juego no funcionará en 48K
+* **Para Cursed Zapatilla**: Marcaremos la opción para que genere el .tap para 128K, en 48K no funcionará.
 
 
 ### Parámetros Estructurales
@@ -198,7 +200,7 @@ Cantidad de vida inicial del personaje.
 
 - **Sintaxis:** `initialLife <cantidad_de_vida>`
 - **Notas:** Define la vida inicial de Sir Patillas en _Cursed Zapatilla_, representada como un número entero (e.g., 3 vidas o 100 puntos de energía). 
-- **Para Cursed Zapatilla:** Configuraremos initialLife = 5 para tres vidas iniciales, al estilo de los clásicos arcade.
+- **Para Cursed Zapatilla:** Configuraremos initialLife = 5 para cinco vidas iniciales, al estilo de los clásicos arcade, adaptados a los nuevos tiempos.
 
 #### **lifeAmount**
 
@@ -206,7 +208,7 @@ Cantidad de vida que incrementa al personaje los items **life**.
 
 * **Sintaxis:** `lifeAmount` ```<cantidad_de_vida>```
 * **Notas:** Define la cantidad de vida que se suma a Sir Patillas al recoger items **life** en *Cursed Zapatilla*. Debe ser un número entero positivo. 
-* **Para Cursed Zapatilla:** Configuraremos `lifeAmount = 1` para que cada item **life** restaure 2 puntos de vida.
+* **Para Cursed Zapatilla:** Configuraremos `lifeAmount = 1` para que cada item **life** restaure 1 vida.
 
 #### **shooting**
 
@@ -249,7 +251,7 @@ Indica si los enemigos (no invencibles) reaparecen después de ser eliminados al
 
 - **Sintaxis:** `enemiesRespawn <verdadero/falso>`
 - **Notas:** Configura si los enemigos vuelven a generarse. 
-- **Para Cursed Zapatilla:** Estableceremos enemiesRespawn a false para evitar repeticiones innecesarias y enfocarnos en un avance lineal.
+	- **Para Cursed Zapatilla:** Estableceremos enemiesRespawn a false para evitar repeticiones innecesarias y enfocarnos en un avance lineal.
 #### **damageAmount**
 
 Cantidad de daño que los enemigos infligen al personaje.
@@ -295,7 +297,13 @@ Habilita o deshabilita el uso de llaves y puertas que requieren llaves.
 - **Sintaxis:** `keysEnabled <verdadero/falso>`
 - **Notas:** Si está deshabilitado, las llaves y puertas asociadas no funcionarán en el juego.
 - **Para Cursed Zapatilla:** Configuraremos keysEnabled a true, ya que aunque el juego prioriza acción directa, en este estilo de juego hay puertas en puntos estratégicos.
+#### **laddersEnabled**
 
+Habilita la funcionalidad de escaleras cuando se establece en true, permitiendo a los jugadores interactuar y subir por ellas.
+
+- **Sintaxis:** `keysEnabled <verdadero/falso>`
+- **Notas:** Si está deshabilitado, podremos dibujar escaleras, pero no funcionarán como tales
+- **Para Cursed Zapatilla:** Configuraremos keysEnabled a true, ¡claro que queremos escaleras en este tipo de juegos!.
 #### **messagesEnabled**
 
 Activa la visualización de mensajes de ayuda al entrar en contacto con items, puertas u otros elementos.
@@ -351,9 +359,32 @@ Color de fondo del juego en decimal en forma de atributos de Spectrum (`128*FLAS
 Color del borde in game. Muy útil cuando se cambia el color de fondo del juego y del hud.
 
 * **Sintaxis:** `border` ```<color>```
-* **Notas:** Define el color del borde en *Cursed Zapatilla*. Útil para contrastar con fondos y HUD personalizados; debe ser un valor de color válido (e.g., hexadecimal o nombre).
+* **Notas:** Debe ser un color valido 0..15
 * **Para Cursed Zapatilla:** Estableceremos `border` a `black (0)` para dar continuidad a la pantalla.
 
+#### **borderColorItem**
+
+Color del borde in game en el efectp que se produce al recoger un objeto.
+
+* **Sintaxis:** `border` ```<color>```
+* **Notas:** Debe ser un color valido 0..15
+* **Para Cursed Zapatilla:** Estableceremos `border` a `morado (3)` para dar continuidad a la idea de recoger flores de colores pero en estre caso menos intenso para reforzar la idea de que estamos en un cementerio (ya hacen suficiente el resto de colores por la intensidad).
+
+#### **borderColorKey**
+
+Color del borde in game en el efectp que se produce al recoger una llave.
+
+* **Sintaxis:** `border` ```<color>```
+* **Notas:** Debe ser un color valido 0..15
+* **Para Cursed Zapatilla:** Estableceremos `border` a `amarillo intenso (14)` para dar continuidad a la idea las llaves doradas tipicas de este tipo de juegos.
+
+#### **borderColorLife**
+
+Color del borde in game en el efectp que se produce al recoger un objeto que permite recuiperar vida.
+
+* **Sintaxis:** `border` ```<color>```
+* **Notas:** Debe ser un color valido 0..15
+* **Para Cursed Zapatilla:** Estableceremos `border` a `rojo intenso (10)` para dar continuidad a la asociación vida=sangre
 #### **paper**
 
 Color del papel in game. Muy útil cuando se cambia el color de fondo del juego y del hud.
@@ -431,7 +462,7 @@ Máximo de tiles animados por pantalla (10 máximo). Si utilizas menos pon un va
 
 * **Sintaxis:** `maxAnimatedTilesPerScreen` ```<número_de_tiles>```
 * **Notas:** Define el número máximo de tiles animados. El valor máximo es 10.
-* **Para Cursed Zapatilla:** Configuraremos `maxAnimatedTilesPerScreen a 20 para aunque el maximo oficial sea 10, en un intento de añadir animacion a cambio de velocidad de animacion de personaje princial y enemigos. Ajustaremos si es neceario.
+* **Para Cursed Zapatilla:** Configuraremos `maxAnimatedTilesPerScreen a 20. Aunque el maximo oficial sea 10, en un intento de añadir animacion a cambio de velocidad de animacion de personaje princial y enemigos. Ajustaremos si es neceario (Y si el motor no nos reconfigura el numero XD)
 
 #### **maxEnemiesPerScreen**
 
@@ -439,7 +470,7 @@ Se puede configurar la cantidad de enemigos que aparecen en pantalla (hasta 5). 
 
 * **Sintaxis:** `maxEnemiesPerScreen` ```<número_de_enemigos>```
 * **Notas:** Establece el número máximo de enemigos (e.g., zombis, esqueletos) por pantalla en *Cursed Zapatilla*. El límite es 5; usar menos mejora la optimización.
-* **Para Cursed Zapatilla:** Estableceremos `maxEnemiesPerScreen` a 5 para un desafío Interesante diseñando el escenario para minimizar el impacto de las "hordas" de enemigos.
+	* **Para Cursed Zapatilla:** Estableceremos `maxEnemiesPerScreen` a 7 para un desafío Interesante diseñando el escenario para minimizar el impacto de las "hordas" de enemigos.
 
 ### Parámetros Extra
 
@@ -476,6 +507,8 @@ Si habilitas esta opción, tras la carga el juego esperará que pulses una tecla
     - Abre el emulador de ZX Spectrum de tu elección.        
     - Carga CursedZapa.tap.        
     - Verifica que el juego carga (sin Sir Patillas ni enemigos personalizados aún).
+
+> En la nueva versión, en 128K no me ha dado problemas, si te los da a ti o en 48K te ocurre el proximo capítulo trata esta cuestión.
 
 Mi comprobación no ha ido todo lo bien que esperaba, toca mejorar:
 

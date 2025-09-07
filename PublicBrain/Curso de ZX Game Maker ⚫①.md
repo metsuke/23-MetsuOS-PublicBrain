@@ -9,19 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-09-01T16:37:35.308Z
+modified: 2025-09-03T04:10:43.598Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 24
+ver_rev: 25
 nav_primary:
 nav_secondary:
 tags:
 MOS_TopImg_Video: CursoZXGM_00.mp4
 ---
 # Curso de ZX Game Maker ⚫①
-+# Curso de ZX Game Maker ⚫①
 
 ![Curso de ZX Game Maker](_resources/b2b95efee69c57efd8fef186e909d6e2_MD5.jpg)
 

@@ -1,25 +1,25 @@
 ---
 iaStatus: 8
-iaStatus_Model: ""
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Model: Grok-3, Raúl Carrillo aka Metsuke
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-08-09T10:54:01.392Z
-modified: 2025-08-09T11:05:58.864Z
+modified: 2025-09-02T12:23:59.510Z
 supervisado: ""
-ACCION: 
+ACCION:
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
-nav_primary: 
-nav_secondary: 
+ver_rev: 2
+nav_primary:
+nav_secondary:
 tags:
 ---
-# Microtutorial - Grafx2 con modos spectrum ⚫①
+# MicroTutorial - Grafx2 con modos spectrum ⚫①
 
 [[Index]]
 

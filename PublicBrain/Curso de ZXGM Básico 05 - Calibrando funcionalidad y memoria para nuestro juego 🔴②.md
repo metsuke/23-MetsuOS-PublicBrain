@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-23T15:33:03.147Z
-modified: 2025-08-28T13:38:00.646Z
+modified: 2025-09-07T02:25:56.264Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -26,6 +26,8 @@ MOS_TopImg_Video: CursedZapatilla_PoseEsqueletos.mp4
 
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②|<< Anterior]] | [[Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②|Siguiente >>]]
+
+> En la nueva versión, en 128K no me ha dado problemas, si te los da a ti o en 48K te ocurre aquí tienes un método para depurarlo. Los datos de lo que ocupa cada cosa, son de la versión antigua, si obtienes nuevso datos ¡compartelos para mejorar el artículo!.
 
 **Optimizando el uso de memoria en ZXGM**
 

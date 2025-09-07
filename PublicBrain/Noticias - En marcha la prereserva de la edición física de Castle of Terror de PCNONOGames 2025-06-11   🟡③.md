@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T22:27:08.109Z
-modified: 2025-06-15T09:35:18.194Z
+modified: 2025-09-02T12:42:52.343Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 🔴②
+# Noticias - En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 2025-06-11   🟡③
 
 ![Reinterpretación libre de la portada del juego](PublicBrain/_resources/820c5d180a674db868f79ee4f28bda9a_MD5.jpg)
 

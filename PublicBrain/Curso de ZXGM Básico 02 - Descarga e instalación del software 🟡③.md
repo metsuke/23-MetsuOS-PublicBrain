@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-03T09:28:28.444Z
-modified: 2025-08-10T12:17:08.238Z
+modified: 2025-09-07T00:41:24.903Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,6 +25,8 @@ tags:
 
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Curso de ZXGM Básico 01 - ¿Qué es ZX Game Maker? 🟡③|<< Anterior]] | [[Curso de ZXGM Básico 03 - Explorando la estructura general del motor 🟡③|Siguiente >>]]
+
+> Nota importante, el proyecto se encuentra en una fase de transicion entre la anteriormente consoldidada y la que está a punto de salir, trataré de mantener esto ajustado, pero podria haber desajustes. Para detalles lo mas actualizados posibles, consulta la documentación oficial del proyecto.
 
 En este segundo capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás cómo descargar e instalar el software necesario para comenzar a desarrollar videojuegos para el ZX Spectrum. 
 
@@ -57,11 +59,13 @@ ZX Game Maker es un proyecto de código abierto alojado en GitHub. Sigue estos p
 
 > Si has clonado el repositorio, no necesitarás realizar este ultimo paso.
 
-## Paso 2: Instalación de dependencias
+## Paso 2: Instalación de dependencias (legacy)
 
 ZX Game Maker requiere varias herramientas y lenguajes para funcionar correctamente. A continuación, se detalla cómo instalar cada una:
 
 ### 2.1 Script de instalacion de ZXGM
+
+> Si tu versión no incluye los ficheros install.sh e install.windows.bat, puedes saltarte este paso e ir a la parte de python directamente, pues tu versión está actualizada a la que en el momento de revisar este texto, era verion Preview. ¡Enhorabuena tienes muchos mas juguetes para construir!
 
 Abre una terminal o programa de linea de comandos que uses en tu sistema y muevete a la carpeta de ZXGM con `cd /ruta/a/zx-game-maker`o  equivalente para situarte en la carpeta del maker:
 
@@ -117,6 +121,7 @@ ZX Paintbrush es ideal para crear gráficos que respeten las limitaciones del ZX
 2. Instala el programa. En Windows, es un ejecutable; en macOS/Linux, necesitarás usar [wine  🌐🟡③](https://www.winehq.org).
 3. Abre ZX Paintbrush y verifica que puedes crear un archivo `.zxp`.
 
+También puedes usar la herramienta (en etapa alpha, pero funcional en este aspecto), [MetsuOS Retro Tools Launcher 🌐](https://github.com/metsuke/mos-retrotools-launcher), que te facilita la tarea con un panel de botones para esta y alguna herrramienta más del tipo "Windows only", usando wine solo si es necesario.
 ### 2.5 Pasmo (Ensamblador Z80)
 
 Pasmo es un ensamblador para Z80 que permite compilar código en ensamblador para ZX Spectrum, útil para optimizar partes de tu juego o integrar código personalizado con ZX Game Maker.

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T15:34:27.927Z
-modified: 2025-06-12T20:08:55.318Z
+modified: 2025-09-07T19:31:07.613Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -43,6 +43,17 @@ El aprendizaje basado en evidencia nos invita a ser curiosos, a probar, a reflex
 Number of Columns: 2
 Border: off
 ```
+
+![[PublicBrain/_resources/44da56085ddd15acfab2c95017035b4a_MD5.jpeg]]
+## Aprender sobre Accesibilidad basada en evidencia
+
+Descubre cómo la accesibilidad basada en evidencia transforma entornos digitales, físicos y educativos para ser inclusivos. Este curso te guiará desde los fundamentos hasta prácticas avanzadas, usando datos científicos para crear soluciones que cumplen estándares como WCAG y mejoran la vida de todos los usuarios.
+
+Aprende a diseñar con rigor, aplicando investigaciones y herramientas para superar barreras y fomentar la equidad. Ideal para diseñadores, desarrolladores y profesionales comprometidos con la inclusión, este curso te empoderará para liderar el cambio hacia un mundo más accesible.
+
+Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🔴②]]
+
+--- column-end ---
 
 ![Jugador de futbol chibi](PublicBrain/_resources/2419271707ed3e782513535c0c41967d_MD5.jpeg)
 ## Aprender sobre Ejercicio basado en evidencia

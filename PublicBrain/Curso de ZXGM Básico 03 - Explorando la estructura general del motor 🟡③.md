@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-09T22:23:22.134Z
-modified: 2025-08-22T11:07:17.929Z
+modified: 2025-09-07T00:53:07.974Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,8 @@ tags:
 * [[Curso de ZXGM Básico 02 - Descarga e instalación del software 🟡③|<< Anterior]] | [[Curso de ZXGM Básico 04 - Configuración de un nuevo proyecto  🔴②|Siguiente >>]]
 
 ## Introducción
+
+ > Nota importante, el proyecto se encuentra en una fase de transicion entre la anteriormente consoldidada y la que está a punto de salir, trataré de mantener esto ajustado, pero podria haber desajustes. Para detalles lo mas actualizados posibles, consulta la documentación oficial del proyecto.
 
 En este capítulo, nos enfocamos en lo mínimo que necesitas saber para crear un juego con ZX Game Maker (ZXGM): el launcher, la carpeta `assets` y la carpeta `examples`. 
 

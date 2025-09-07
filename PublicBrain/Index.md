@@ -7,17 +7,18 @@ iaStatus_Model: Raúl Carrillo Garrido aka metsuke
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-08-09T18:13:24.925Z
+modified: 2025-09-02T12:18:34.778Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 217
-nav_primary: 
-nav_secondary: 
+ver_rev: 218
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: PublicBrain.mp4
 ---
 # Index
 # Public Brain
@@ -25,19 +26,59 @@ tags:
 ![Astronauta Chibi en busca de conocimiento](PublicBrain/_resources/4eef01c6994989529594d033bb4ca1f0_MD5.jpeg)
 
 [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
-## Aprender
 
-### Ciencia de la salud
+---
+## Quick Info
 
-* [[Aprender sobre Ejercicio basado en evidencia 🔴②]]
-* [[Aprender sobre Nutrición basada en evidencia 🔴②]]
+### MiniTutoriales
 
+* MOS Engine (codename: ロシアのもの)
+* [[MicroTutorial - Grafx2 con modos spectrum ⚫①]]
+
+### MiniQuests
+
+#### Modo Radastan
+
+* [[MinioQuest - Modo Radastan en ZX Spectrum- Máquinas Soportadas ⚫① ]]
+* [[MiniQuest - Modo Radastan en ZX-Uno y ZX Spectrum Next Comparación Técnica y Desarrollo de Juegos  ⚫①]]
+
+---
+## Quick KB
+
+### Aprender a crear videojuegos
+
+#### Herramientas
+
+* [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
+* [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]]
+
+#### Lenguajes
+
+* [[Curso Crea Juegos al Estilo Maquinita con Boriel BASIC 🟡③]]
+#### Motores
+
+* [[Curso de CPCTelera  ⚫①]]
+* [[Curso de GB Studio ⚫①]]
+* [[Curso de PixiJS ⚫①]]
+* [[Curso de Visual bB ⚫①]]
+* [[Curso de ZX Game Maker ⚫①]]
+* [[Tutorial de AGD 2018 Edition ⚫①]]
+
+---
 ## Bases del Conocimiento
 
 ### Epistemología
 
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 
+## Ciencia
+
+### Ciencia de la salud
+
+* [[Aprender sobre Ejercicio basado en evidencia 🔴②]]
+* [[Aprender sobre Nutrición basada en evidencia 🔴②]]
+
+---
 ## Estudiar Fuentes
 
 ### Autores
@@ -61,36 +102,46 @@ WIP
 * [[Revista - RetroGamer España 045 - 2023-Sep 🔴②]]
 * [[Revista - RetroGamer España 051 - 2025-Mar 🔴②]]
 
-## Noticias
+---
+## Enlaces Rápidos
 
+### Blog
+
+* [[Blog - El tiempo resulta que si es oro - 2025-08-11 ⚫①]]
+* [[Blog - Cansado de construir sobre arenas movedizas - 2025-07-29 ⚫①]]
+* [[Blog - Sobre el sistema de validacion de contenido de MetsuOS - 2025-06-01 🔴②]]
+* [[Blog - Aventuras de verano con el enmascarado - 2025-05-26  🟡③]]
+* [[Blog - Battlemail - Mi primer juego viral - 2025-05-24  🔴②]]
+* [[Blog - Parece extremadamente probable que la verdad absoluta no exista - 2025-05-23 🔴②]]
+* [[Blog - Dios es gallego del gráfico de Nolan a la pirámide de Coherentum - 2018-03-01  ⚫①]]
+### Juegos
+
+* [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)]]
+* [[MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①]]
+* [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017]]
+* [[MOS Games - Hero Quest - ZX Spectrum - 1994]]
+* [[Los Juegos de MetsuOS en Barbecho]]
+
+### Noticias
+
+* [[Noticias - En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 2025-06-11   🟡③]]
+* [[Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③]]
 * [[Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]
 * [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③]]
 * [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③]]
 * [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③]]
 * [[Noticias - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🟡③]]
 
----
-## Blog
+### Social
 
-* [[Blog - Sobre el sistema de validacion de contenido de MetsuOS - 2025-06-01 🔴②]]
-* [[Blog - Aventuras de verano con el enmascarado - 2025-05-26  🟡③]]
-* [[Blog - Battlemail - Mi primer juego viral - 2025-05-24  🔴②]]
-* [[Blog - Parece extremadamente probable que la verdad absoluta no exista - 2025-05-23 🔴②]]
-* [[Blog - Dios es gallego del gráfico de Nolan a la pirámide de Coherentum - 2018-03-01  ⚫①]]
-* [[El Blog de MetsuOS]]
+* [Metsuke - Cuenta de GitHub  🌐](https://github.com/metsuke)
+* [Metsuke - Canal de YouTube Personal  🌐](https://www.youtube.com/@metsuke_es)
+* [Metsuke - Canal de Youtube Profesional  🌐](https://www.youtube.com/@metsukeOS)
+* [Metsuke - Cuenta de X Personal 🌐](https://x.com/metsuke)
 
-## Juegos
-
-* [[ZX Spectrum - Hero Quest - 1994]]
-* [[ZX Spectrum - The Big Javi's Adventure - 2017]]
-* [[Los Juegos de MetsuOS]]
+Cualesquiera otras redes, debe considerarse personal y privada.
 
 ---
-## MiniTutoriales Rapidos
-
-* MOS Engine (codename: ロシアのもの)
-* [[Microtutorial - Grafx2 con modos spectrum ⚫①]]
-
 ## Archivado
 
 * [[IMetsuOS Contenido Archivado]]

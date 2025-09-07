@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-28T13:37:23.615Z
-modified: 2025-09-01T18:05:15.529Z
+modified: 2025-09-07T12:42:54.266Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -55,7 +55,7 @@ En Cursed Castilla, partiremos de esta imagen:
 
 Ahora es cuando empieza el [Pixel Art Attack al mas puro estilo Errazkin](https://youtu.be/r_t6IBm8-Ac?si=bB0Ae1R50DPvP5eQ) XD
 
-![Loading Screen Cursed Zapatilla 0001](PublicBrain/_resources/f5ae0ef26feaa587831f514988771420_MD5.jpeg)
+![El punto de partida en resolucion y colores reales de la pantalla de carga](PublicBrain/_resources/b85ed565d16525f912d382f516a9bf47_MD5.jpeg)
 
 ---
 ### Menú (Pantalla Principal)

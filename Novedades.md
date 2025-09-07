@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-01T18:10:48.972Z
+modified: 2025-09-07T19:50:41.621Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 87
+ver_rev: 90
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,8 +27,19 @@ Number of Columns: 2
 Border: off
 ```
 
+![[PublicBrain/_resources/44da56085ddd15acfab2c95017035b4a_MD5.jpeg]]
+## Aprender sobre Accesibilidad basada en evidencia
+
+Descubre cómo la accesibilidad basada en evidencia transforma entornos digitales, físicos y educativos para ser inclusivos. Este curso te guiará desde los fundamentos hasta prácticas avanzadas, usando datos científicos para crear soluciones que cumplen estándares como WCAG y mejoran la vida de todos los usuarios.
+
+Aprende a diseñar con rigor, aplicando investigaciones y herramientas para superar barreras y fomentar la equidad. Ideal para diseñadores, desarrolladores y profesionales comprometidos con la inclusión, este curso te empoderará para liderar el cambio hacia un mundo más accesible.
+
+Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🔴②]]
+
+--- column-end ---
+
 ![El punto de partida en resolucion y colores reales de la pantalla de carga](PublicBrain/_resources/b85ed565d16525f912d382f516a9bf47_MD5.jpeg)
-## Capítulo Básico 06: Pantallas de presentación, victoria, introducción y game over (Live Post)
+## Curso de ZX Game Maker / Capítulo Básico 06: Pantallas de presentación, victoria, introducción y game over (Live Post)
 
 En el capítulo de hoy, nos centraremos en las pantallas de presentación y transición de tu juego. Los detalles sobre cómo trabajar con ZX Paintbrush se tratarán en el [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]], aquí nos enfocaremos en qué pantallas puedes incluir, dónde deben ubicarse y cómo gestionar el espacio en memoria que ocupan. Estas pantallas son esenciales para mejorar la experiencia del usuario, ofrecer retroalimentación visual y garantizar un juego pulido.
 
@@ -182,23 +193,10 @@ Junio, 2025 – La comunidad de jugadores retro y coleccionistas de videojuegos 
 
 Este lanzamiento, que combina nostalgia con un diseño innovador, ha generado gran expectación entre los aficionados a los videojuegos de 8 bits.
 
-Continuar leyendo en ... [[En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 🔴②]]
+Continuar leyendo en ... [[Noticias - En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 2025-06-11   🟡③]]
 
 --- column-end ---
 
-![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)
-## KB / Aprendeizaje basado en evidencia
-
-Imagina un camino de aprendizaje donde cada paso que das está guiado por luces que te muestran lo que realmente funciona. 
-
-Eso es el aprendizaje basado en evidencia (EBL, por sus siglas en inglés: Evidence-Based Learning), una aventura educativa en la que usamos datos, investigaciones y experiencias reales para crear momentos de aprendizaje que de verdad conectan contigo. 
-
-No se trata solo de teorías frías; es un enfoque vivo que combina lo mejor de la ciencia con las historias y necesidades únicas de cada estudiante. ¿Te animas a descubrir cómo aprender de una manera más efectiva y personalizada?
-
-
-Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①]]
-
---- column-end ---
 
 ![Un joven Doc Brown y su Delorean](PublicBrain/_resources/6c4c122e32382d53cdde32d530ae51a4_MD5.jpeg)
 ## Public Brain / Estructura del Conocimiento Humano y Científico

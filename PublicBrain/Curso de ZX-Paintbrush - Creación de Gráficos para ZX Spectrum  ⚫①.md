@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-09T05:00:19.693Z
-modified: 2025-08-09T10:33:21.128Z
+modified: 2025-09-02T12:23:49.587Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
@@ -165,7 +165,7 @@ Con un enfoque práctico y ejemplos inspiradores, estarás listo para revivir la
 
 ### Fuentes que Apoyan el Contenido
 
-He de decir que las fuentes son escasas y limitadas, pero hagamos lo que podamos para ser la fuente, y así una vez tengamos claro todo, podamos inciiar MOS Draw, o usar [MultiPaint 🌐🟡③](http://multipaint.kameli.net) y [Grafx2 🌐🟡③](http://grafx2.chez.com) con [[Microtutorial - Grafx2 con modos spectrum ⚫①|modos spectrum ⚫①]] ... ya veremos ;)
+He de decir que las fuentes son escasas y limitadas, pero hagamos lo que podamos para ser la fuente, y así una vez tengamos claro todo, podamos inciiar MOS Draw, o usar [MultiPaint 🌐🟡③](http://multipaint.kameli.net) y [Grafx2 🌐🟡③](http://grafx2.chez.com) con [[MicroTutorial - Grafx2 con modos spectrum ⚫①|modos spectrum ⚫①]] ... ya veremos ;)
 
 1. **Vintage is The New Old** (2014). Artículo sobre la versión 2.5 de ZX-Paintbrush, con detalles sobre sus funciones de dibujo y edición de fuentes. Disponible en: [https://www.vintageisthenewold.com/zx-paintbrush-2-5-published/ 🌐🟡③](https://www.vintageisthenewold.com/zx-paintbrush-2-5-published/).
 2. **Getting started with ZX-Paintbrush and AGDX** video introductorio sobre el editor y su relación con el motior de juego. Disponible en: [https://youtu.be/IOUE6biouNk?si=xN4tmQ1BVQiUrLW4  🌐🟡③](https://youtu.be/IOUE6biouNk?si=xN4tmQ1BVQiUrLW4)

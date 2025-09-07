@@ -22,7 +22,7 @@ MOS_TopImg_Video: A11Y_Basado_Evidencia_000.mp4
 ---
 # Aprender sobre Accesibilidad basada en evidencia 🔴②
 
-![[PublicBrain/_resources/44da56085ddd15acfab2c95017035b4a_MD5.jpeg]]
+![Accesibilidad basada en evidencia](PublicBrain/_resources/44da56085ddd15acfab2c95017035b4a_MD5.jpeg)
 
 [[Aprendizaje basado en evidencia  ⚫①]]
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-13T13:43:24.085Z
-modified: 2025-08-12T14:06:39.369Z
+modified: 2025-09-07T21:33:30.123Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -72,10 +72,22 @@ Esta pequeña consola no solo sentó las bases del gaming móvil tal como lo con
 
 Continuar leyendo en ... [[Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③]]
 
+--- column-end ---
+
+![Estilo Retro en el mundo actual](PublicBrain/_resources/78f2c1e7bb4f6d02163664c40eb7dfaf_MD5.jpg)
+## Capítulo 04: Estilo retro y su relevancia actual
+
+Imagina retroceder en el tiempo hasta 1989, cuando la Game Boy de Nintendo irrumpió en el mundo con su pantalla monocromática y su encanto sencillo. 
+
+Ese espíritu revive hoy gracias a Game Boy Studio, una herramienta que nos invita a explorar el estilo retro con un enfoque fresco y actual. Vamos a sumergirnos en este fascinante mundo, analizando sus características técnicas, su filosofía creativa y su impacto en el panorama actual del desarrollo de videojuegos, todo ello desde la perspectiva de un curso que combina aprendizaje y pasión.
+
+Continuar leyendo en ... [[Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🔴②]]
+
+
  --- column-end ---
 --- multi-column-end
  
-   - Estilo retro y su relevancia actual
+   -
    - Introducción al diseño de juegos en 8 bits
 ## **Módulo 1: Configuración y Fundamentos**
 

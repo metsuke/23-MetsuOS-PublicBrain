@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-08-28T20:59:13.709Z
+modified: 2025-09-07T22:32:26.625Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 23
+ver_rev: 24
 nav_primary:
 nav_secondary:
 tags:
@@ -53,6 +53,18 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Portada de revista de videojuegos con el curso de GB Studio](_resources/ff7ce511fecc52c6d4c3e4d6b93b33b2_MD5.jpg)
+## Curso de GB Studio
+
+¡Bienvenidos al Curso de GB Studio! 
+
+En este curso, exploraremos las fascinantes posibilidades de GB Studio, una herramienta gratuita y fácil de usar que permite a cualquier persona crear videojuegos al estilo retro para la Game Boy sin necesidad de conocimientos avanzados de programación. 
+
+
+Continuar leyendo en ... [[Curso de GB Studio ⚫①]]
+
+ --- column-end ---
 
 ![Curso de ZX Game Maker](PublicBrain/_resources/70f53a4e3ee4b9e24ba015c4b3461396_MD5.jpg)
 ## Curso de ZX Game Maker
@@ -99,19 +111,6 @@ Tres juegos para la Atari 2600 bajo el cielo pixelado, siete para la NES en sus 
 Continua leyendo en ... [[MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①]]
 
 --- column-end ---
-
-
-![Portada de revista de videojuegos con el curso de GB Studio](_resources/ff7ce511fecc52c6d4c3e4d6b93b33b2_MD5.jpg)
-## Curso de GB Studio
-
-¡Bienvenidos al Curso de GB Studio! 
-
-En este curso, exploraremos las fascinantes posibilidades de GB Studio, una herramienta gratuita y fácil de usar que permite a cualquier persona crear videojuegos al estilo retro para la Game Boy sin necesidad de conocimientos avanzados de programación. 
-
-
-Continuar leyendo en ... [[Curso de GB Studio ⚫①]]
-
- --- column-end ---
 
 
 ![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)

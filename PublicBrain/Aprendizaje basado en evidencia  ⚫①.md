@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T15:34:27.927Z
-modified: 2025-09-07T19:31:07.613Z
+modified: 2025-09-07T21:46:15.184Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -44,7 +44,7 @@ Number of Columns: 2
 Border: off
 ```
 
-![[PublicBrain/_resources/44da56085ddd15acfab2c95017035b4a_MD5.jpeg]]
+![Accesibilidad basada en evidencia](PublicBrain/_resources/44da56085ddd15acfab2c95017035b4a_MD5.jpeg)
 ## Aprender sobre Accesibilidad basada en evidencia
 
 Descubre cómo la accesibilidad basada en evidencia transforma entornos digitales, físicos y educativos para ser inclusivos. Este curso te guiará desde los fundamentos hasta prácticas avanzadas, usando datos científicos para crear soluciones que cumplen estándares como WCAG y mejoran la vida de todos los usuarios.

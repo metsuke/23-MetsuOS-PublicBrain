@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-07T19:31:12.075Z
-modified: 2025-09-07T21:03:48.127Z
+modified: 2025-09-08T05:29:53.051Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -111,6 +111,12 @@ En este recorrido, abordarás desde los fundamentos teóricos hasta las aplicaci
 - Impacto global y diversidad: Evidencia de variaciones culturales en accesibilidad, con recomendaciones para diseños inclusivos globales.
 - Sostenibilidad y ética futura: Una discusión de accesibilidad en contextos ecológicos y éticos, respaldada por proyecciones de investigación.
 - Recursos para actualización continua: Guías para seguir literatura, conferencias (CSUN, A11y) y comunidades basadas en evidencia.
+
+## Especializaciones (contenido antiguo en revision)
+
+* [[Aprender sobre Accesibilidad ⚫①]]
+* [[Aprender sobre Accesibilidad en ELearining ⚫①]]
+* [[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
 
 ## Referencias Bibliográficas que Apoyan
 

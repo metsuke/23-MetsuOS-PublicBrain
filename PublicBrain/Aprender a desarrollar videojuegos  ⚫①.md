@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-09-07T22:32:26.625Z
+modified: 2025-09-08T04:45:45.970Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 24
+ver_rev: 25
 nav_primary:
 nav_secondary:
 tags:
@@ -53,6 +53,17 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Curso de Vortex Tracker II](PublicBrain/_resources/2740c69eb84498d91a9034262df71e67_MD5.jpg)
+## Curso de Vortex Tracker II
+
+Sumergete a fondo en Vortex Tracker II, una herramienta fantástica para componer música chiptune destinada a chips de sonido como el AY-3-8910/12 y el YM2149. Estos chips eran habituales en microordenadores retro como el ZX Spectrum, el Amstrad CPC o el Atari ST. 
+
+Dentro del marco de "Aprender a crear videojuegos", el curso pone el acento en cómo incorporar esta música chiptune al proceso de desarrollo de juegos, sobre todo en títulos retro o indie con un toque 8-bit. El planteamiento es muy práctico: empezamos desde lo más básico y avanzamos hacia lo complejo, con proyectos que recrean la elaboración de bandas sonoras para videojuegos reales.
+
+Continuar leyendo en [[Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②]]
+
+--- column-end ---
 
 ![Portada de revista de videojuegos con el curso de GB Studio](_resources/ff7ce511fecc52c6d4c3e4d6b93b33b2_MD5.jpg)
 ## Curso de GB Studio

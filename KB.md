@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-09-07T22:30:08.248Z
+modified: 2025-09-08T00:48:57.560Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 25
+ver_rev: 26
 nav_primary: 
 nav_secondary: 
 tags:
@@ -37,7 +37,7 @@ Eso es el aprendizaje basado en evidencia (EBL, por sus siglas en inglés: Evide
 No se trata solo de teorías frías; es un enfoque vivo que combina lo mejor de la ciencia con las historias y necesidades únicas de cada estudiante. ¿Te animas a descubrir cómo aprender de una manera más efectiva y personalizada?
 
 
-Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①
+Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①]]
 
 --- column-end ---
 
@@ -73,8 +73,6 @@ Esta es una sección que nace del [concepto creado por Igor Errazkin en este vid
 En mi caso, y con la excusa de que ando creando pantallas, ire añadiendo colecciones de posts en los que ire mostrando el paso a paso de las pantallas que voy creando, por si a alguno de vosotros os sirve para inspiraos, además de servirme a mi como archivo del proceso.
 
 Continuar leyendo en ... [[Pixel Art Attack - Creando gráficos retro ⚫①]]
-
-
 
 
  --- column-end ---

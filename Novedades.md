@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-07T21:45:14.943Z
+modified: 2025-09-08T04:46:22.223Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 91
+ver_rev: 93
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,8 +27,31 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Curso de Vortex Tracker II](PublicBrain/_resources/2740c69eb84498d91a9034262df71e67_MD5.jpg)
+## Curso de Vortex Tracker II
+
+Sumergete a fondo en Vortex Tracker II, una herramienta fantástica para componer música chiptune destinada a chips de sonido como el AY-3-8910/12 y el YM2149. Estos chips eran habituales en microordenadores retro como el ZX Spectrum, el Amstrad CPC o el Atari ST. 
+
+Dentro del marco de "Aprender a crear videojuegos", el curso pone el acento en cómo incorporar esta música chiptune al proceso de desarrollo de juegos, sobre todo en títulos retro o indie con un toque 8-bit. El planteamiento es muy práctico: empezamos desde lo más básico y avanzamos hacia lo complejo, con proyectos que recrean la elaboración de bandas sonoras para videojuegos reales.
+
+Continuar leyendo en [[Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②]]
+
+--- column-end ---
+
+![Estilo Retro en el mundo actual](PublicBrain/_resources/78f2c1e7bb4f6d02163664c40eb7dfaf_MD5.jpg)
+## Curso de GB Studio / Capítulo 04: Estilo retro y su relevancia actual
+
+Imagina retroceder en el tiempo hasta 1989, cuando la Game Boy de Nintendo irrumpió en el mundo con su pantalla monocromática y su encanto sencillo. 
+
+Ese espíritu revive hoy gracias a Game Boy Studio, una herramienta que nos invita a explorar el estilo retro con un enfoque fresco y actual. Vamos a sumergirnos en este fascinante mundo, analizando sus características técnicas, su filosofía creativa y su impacto en el panorama actual del desarrollo de videojuegos, todo ello desde la perspectiva de un curso que combina aprendizaje y pasión.
+
+Continuar leyendo en ... [[Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🔴②]]
+
+--- column-end ---
+
 ![Accesibilidad basada en evidencia](PublicBrain/_resources/44da56085ddd15acfab2c95017035b4a_MD5.jpeg)
-## Aprender sobre Accesibilidad basada en evidencia
+## KB / Aprender sobre Accesibilidad basada en evidencia
 
 Descubre cómo la accesibilidad basada en evidencia transforma entornos digitales, físicos y educativos para ser inclusivos. Este curso te guiará desde los fundamentos hasta prácticas avanzadas, usando datos científicos para crear soluciones que cumplen estándares como WCAG y mejoran la vida de todos los usuarios.
 
@@ -75,18 +98,6 @@ En este capítulo, vamos a descubrir Tiled Map Editor, una herramienta potente y
 Es un punto de partida perfecto si estás empezando o si buscas pulir tus habilidades en el diseño de niveles, con una curva de aprendizaje amigable y resultados profesionales.
 
 Seguir leyendo en ... [[Curso de Tiled Capítulo 01 - Qué es Tiled Map Editor 🟡③]]
-
---- column-end ---
-
-
-![Historia de GB](PublicBrain/_resources/90b3980bba7ddcbbc8cfafbacecce455_MD5.jpg)
-## Curso GB Studio / Capítulo 03: Contexto histórico de la Game Boy
-
-La Game Boy, lanzada por Nintendo en 1989, supuso un antes y un después en el mundo de los videojuegos portátiles. 
-
-Esta pequeña consola no solo sentó las bases del gaming móvil tal como lo conocemos hoy, sino que también estableció un estándar único para los juegos retro en 8 bits, un legado que sigue vivo gracias a herramientas como GB Studio. 
-
-Continuar leyendo en [[Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③]]
 
 --- column-end ---
 

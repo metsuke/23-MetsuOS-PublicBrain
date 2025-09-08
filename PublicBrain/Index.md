@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-09-02T12:18:34.778Z
+modified: 2025-09-08T05:24:39.108Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 218
+ver_rev: 219
 nav_primary:
 nav_secondary:
 tags:
@@ -50,16 +50,21 @@ MOS_TopImg_Video: PublicBrain.mp4
 #### Herramientas
 
 * [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
+* [[Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②]]
 * [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]]
+#### Lengu0ajes
 
-#### Lenguajes
-
+* Curso Crea Juegos desde cero en BASIC (Próximamente)
 * [[Curso Crea Juegos al Estilo Maquinita con Boriel BASIC 🟡③]]
+* Curso Crea Juegos desde cero en C (Próximamente)
+* Curso Crea Juegos desde cero en Ensamblador (Próximamente)
 #### Motores
 
 * [[Curso de CPCTelera  ⚫①]]
 * [[Curso de GB Studio ⚫①]]
 * [[Curso de PixiJS ⚫①]]
+* Curso de Prisma (Próximamente)
+* Curso de Tuerkas128 (Próximamente)
 * [[Curso de Visual bB ⚫①]]
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Tutorial de AGD 2018 Edition ⚫①]]
@@ -73,10 +78,29 @@ MOS_TopImg_Video: PublicBrain.mp4
 
 ## Ciencia
 
+### Accesibilidad
+
+* [[Aprender sobre Accesibilidad basada en evidencia 🔴②]]
+* (Revisar conmtenido antiguo y reintegrar)
+	* [[Aprender sobre Accesibilidad ⚫①]]
+	* [[Aprender sobre Accesibilidad en ELearining ⚫①]]
+	* [[Aprender sobre Accesibilidad en Videojuegos ⚫①]]
+### Cerebro
+
+* Aprender sobre aprendizaje general basado en evidencia (Próximamente)
+* Aprender sobre aprendizaje de idiomas basado en evidencia (Próximamente)
 ### Ciencia de la salud
 
 * [[Aprender sobre Ejercicio basado en evidencia 🔴②]]
 * [[Aprender sobre Nutrición basada en evidencia 🔴②]]
+
+## Idiomas
+
+* Aprender Catalán basado en evidencia (Próximamente)
+* Aprender Chino basado en evidencia (Próximamente)
+* Aprender Español basado en evidencia (Próximamente)
+* Aprender Inglés basado en evidencia (Próximamente)
+* Aprender Japonés basado en evidencia (Próximamente)
 
 ---
 ## Estudiar Fuentes

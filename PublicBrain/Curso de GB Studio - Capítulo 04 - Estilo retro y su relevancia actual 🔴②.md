@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-07T21:39:39.348Z
-modified: 2025-09-07T21:41:53.934Z
+modified: 2025-09-08T00:37:57.916Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -104,10 +104,5 @@ Estas fuentes ofrecen perspectivas críticas o contrarias, verificadas para su v
   [https://gamedesignreview.org/article/limits-retro-gaming](https://gamedesignreview.org/article/limits-retro-gaming)  
   Análisis que argumenta que las limitaciones técnicas del estilo retro pueden alienar a una audiencia acostumbrada a gráficos avanzados, desafiando la idea de su sostenibilidad.
 
----
-
-### Notas sobre la Verificación
-Todas las referencias han sido contrastadas en bases de datos académicas, sitios web oficiales y canales de YouTube verificados. Los enlaces son funcionales hasta la fecha indicada, y las publicaciones han sido seleccionadas por su rigor científico y relevancia al tema. En caso de que algún enlace no funcione en el futuro, se recomienda buscar los títulos en los repositorios mencionados (e.g., UNED, Nintendo Life).
-```
 
 ![[Plantilla - 1MT#One More Thing]]

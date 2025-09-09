@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-01T17:07:42.909Z
-modified: 2025-09-01T18:15:26.001Z
+modified: 2025-09-09T06:34:43.836Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -22,7 +22,7 @@ MOS_TopImg_Video: ZX_CursedZapatilla_Loading_001.mp4
 ---
 # Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①
 
-![El punto de partida en resolucion y colores reales de la pantalla de carga](PublicBrain/_resources/b85ed565d16525f912d382f516a9bf47_MD5.jpeg)
+![El punto al que he llegado con MetsuOS Game Maker Tools](PublicBrain/_resources/f1139e8c8ab76b7f55c6cc2f25dd559e_MD5.jpeg)
 
 * [[Pixel Art Attack - Creando gráficos retro ⚫①]]
 * [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)]]
@@ -37,7 +37,7 @@ Border: off
 ```
 ## Pantalla de carga
 
-![El punto de partida en resolucion y colores reales de la pantalla de carga](PublicBrain/_resources/b85ed565d16525f912d382f516a9bf47_MD5.jpeg)
+![El punto al que he llegado con MetsuOS Game Maker Tools](PublicBrain/_resources/f1139e8c8ab76b7f55c6cc2f25dd559e_MD5.jpeg)
 
 Iniciamos con esta pantalla que nos introduce en el juego durante la carga desde cinta o disco.
 

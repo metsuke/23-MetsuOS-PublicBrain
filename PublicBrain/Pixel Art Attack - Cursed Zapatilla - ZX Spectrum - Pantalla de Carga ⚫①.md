@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-01T18:06:52.967Z
-modified: 2025-09-01T21:00:12.061Z
+modified: 2025-09-09T06:14:58.414Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Pixel Art Attack - Cursed Zapatilla - ZX Spectrum - Pantalla de Carga ⚫①
 
-![El punto de partida en resolucion y colores reales de la pantalla de carga](PublicBrain/_resources/b85ed565d16525f912d382f516a9bf47_MD5.jpeg)
+![El punto al que he llegado con MetsuOS Game Maker Tools](PublicBrain/_resources/f1139e8c8ab76b7f55c6cc2f25dd559e_MD5.jpeg)
 
 * [[Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①]]
 * [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)]]
@@ -81,8 +81,42 @@ Elegí colores planos porque los tramados quiero formen partre del acabado final
 
 Ergo control manual en ese punto.
 
+--- column-end ---
+
  --- column-end ---
 --- multi-column-end
+## Iteración 002 : Automatizando la conversion con MetsuOS Game Maker Tools
+
+No me he quedado muy satisfecho con la necesidad de usar herramientas de terceros que no necesariamente son de codigo abierto ni multiplataforma, así que, dentro del marco de [MetsuOS Game Maker 🌐](https://github.com/metsuke/mos-game-maker) he decidido invertir tiempo en crear una pequeña herramienta python que, de forma automatica pero controlada por nosotros como comunidad, nos permita llegar al punto de partida de la edición artística manual.
+
+Ya que me pongo empleare tiempo en mejorar el proceso para las versiones Pro y Enterprise, pero para la Community, minimo quiero poder pasar de la imagen original en png a tamaño original, hasta la scr de 256x192 en un solo comando.
+
+De momento este es el resultado, bastante cercano al anterior, pero con una herramienta bajo nuestro control
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Caratula de Cursed Zapatillas](PublicBrain/_resources/33d90a6b2fb87f43d9c3829c4f53814e_MD5.jpg)
+
+### Punto de partida 
+
+Nuevamente, la imagen de partida, generada por Grok, descartando el resultado del intento anterior.
+
+
+ --- column-end ---
+
+![El punto al que he llegado con MetsuOS Game Maker Tools](PublicBrain/_resources/f1139e8c8ab76b7f55c6cc2f25dd559e_MD5.jpeg)
+ 
+### Resultado de la iteración
+
+Un punto muy cercano al anterior, personalmente pienso que mejor, pues he logrado respetar las calaveras mucho mejor, pero que trataré de mejorar antes de publicar el script
+
+ --- column-end ---
+--- multi-column-end
+
 
 
 ![[Plantilla - 1MT#One More Thing]]

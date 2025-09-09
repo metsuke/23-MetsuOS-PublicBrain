@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-08T04:46:22.223Z
+modified: 2025-09-09T06:44:33.980Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 93
+ver_rev: 96
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,14 @@ Number of Columns: 2
 Border: off
 ```
 
+![Lo que puede hacer MOS Game Maker Pro con una imagen](_resources/3b19842721da123761bcb57d9b51222a_MD5.jpeg)
+## Curso de ZX Game Maker / Capítulo Básico 06: Pantallas de presentación, victoria, introducción y game over (Live Post)
+
+En el capítulo de hoy, nos centraremos en las pantallas de presentación y transición de tu juego. Los detalles sobre cómo trabajar con ZX Paintbrush se tratarán en el [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]], aquí nos enfocaremos en qué pantallas puedes incluir, dónde deben ubicarse y cómo gestionar el espacio en memoria que ocupan. Estas pantallas son esenciales para mejorar la experiencia del usuario, ofrecer retroalimentación visual y garantizar un juego pulido.
+
+Continuar leyendo en ... [[Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②]]
+
+--- column-end ---
 
 ![Curso de Vortex Tracker II](PublicBrain/_resources/2740c69eb84498d91a9034262df71e67_MD5.jpg)
 ## Curso de Vortex Tracker II
@@ -61,14 +69,6 @@ Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🔴
 
 --- column-end ---
 
-![El punto de partida en resolucion y colores reales de la pantalla de carga](PublicBrain/_resources/b85ed565d16525f912d382f516a9bf47_MD5.jpeg)
-## Curso de ZX Game Maker / Capítulo Básico 06: Pantallas de presentación, victoria, introducción y game over (Live Post)
-
-En el capítulo de hoy, nos centraremos en las pantallas de presentación y transición de tu juego. Los detalles sobre cómo trabajar con ZX Paintbrush se tratarán en el [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]], aquí nos enfocaremos en qué pantallas puedes incluir, dónde deben ubicarse y cómo gestionar el espacio en memoria que ocupan. Estas pantallas son esenciales para mejorar la experiencia del usuario, ofrecer retroalimentación visual y garantizar un juego pulido.
-
-Continuar leyendo en ... [[Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②]]
-
---- column-end ---
 
 ![Información detallada sobre la estructura en memoria de AGD](PublicBrain/_resources/41c8adbac8af58f4201152fec1347ad1_MD5.jpg)
 ## Curso de AGD / Capítulo 32: Información detallada sobre la estructura en memoria de AGD
@@ -125,18 +125,6 @@ Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para Z
 --- column-end ---
 
 
-![Galeria Imagenes Cabecera](PublicBrain/_resources/2488e3400cbb8967b8c240f1095f5225_MD5.jpeg)
-
-## KB / Galería de Imágenes de Efemérides
-
-En esta sección agrego una pequeña galería de las imáganes de cabecera creadas para las diferentes efemérides de las que hablamos en la cabecera de la web.
-
-¡Espero que la disfruten!
-
-Continuar leyendo en ... [[Galería de Imágenes de Efemétides  ⚫①]]
-
---- column-end ---
-
 ![Dibujando formas básicas y gráficos](PublicBrain/_resources/60b2d8cc11ee311dd69562ae8b878613_MD5.jpg)
 ## Curso PixiJS / Dibujando formas básicas y gráficos
 
@@ -182,17 +170,7 @@ Su "motor" abarca un conjunto de herramientas y funciones que simplifican la ges
 
 Continuar leyendo en ... [[Características principales del motor en CPCTelera 🟡③]]
 
---- column-end ---
 
-
-![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
-## KB / Aprender a desarrollar videojuegos
-
-Aprender a desarrollar videojuegos es una aventura apasionante que combina creatividad, tecnología y narrativa. 
-
-Este proceso no solo implica programar, sino también diseñar mundos, personajes e historias que cautiven a los jugadores. Desde pequeños proyectos independientes hasta grandes producciones AAA, el desarrollo de videojuegos ofrece un espacio para explorar ideas innovadoras y conectar con audiencias globales. 
-
-Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
 
  --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-09T06:44:33.980Z
+modified: 2025-09-09T16:46:18.245Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 96
+ver_rev: 97
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,18 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+![Accesibilidad basada en evidencia](PublicBrain/_resources/44da56085ddd15acfab2c95017035b4a_MD5.jpeg)
+## KB / Aprender sobre Accesibilidad basada en evidencia
+
+Descubre cómo la accesibilidad basada en evidencia transforma entornos digitales, físicos y educativos para ser inclusivos. Este curso te guiará desde los fundamentos hasta prácticas avanzadas, usando datos científicos para crear soluciones que cumplen estándares como WCAG y mejoran la vida de todos los usuarios.
+
+Aprende a diseñar con rigor, aplicando investigaciones y herramientas para superar barreras y fomentar la equidad. Ideal para diseñadores, desarrolladores y profesionales comprometidos con la inclusión, este curso te empoderará para liderar el cambio hacia un mundo más accesible.
+
+Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🔴②]]
+
+--- column-end ---
 
 ![Lo que puede hacer MOS Game Maker Pro con una imagen](_resources/3b19842721da123761bcb57d9b51222a_MD5.jpeg)
 ## Curso de ZX Game Maker / Capítulo Básico 06: Pantallas de presentación, victoria, introducción y game over (Live Post)
@@ -55,17 +67,6 @@ Imagina retroceder en el tiempo hasta 1989, cuando la Game Boy de Nintendo irrum
 Ese espíritu revive hoy gracias a Game Boy Studio, una herramienta que nos invita a explorar el estilo retro con un enfoque fresco y actual. Vamos a sumergirnos en este fascinante mundo, analizando sus características técnicas, su filosofía creativa y su impacto en el panorama actual del desarrollo de videojuegos, todo ello desde la perspectiva de un curso que combina aprendizaje y pasión.
 
 Continuar leyendo en ... [[Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🔴②]]
-
---- column-end ---
-
-![Accesibilidad basada en evidencia](PublicBrain/_resources/44da56085ddd15acfab2c95017035b4a_MD5.jpeg)
-## KB / Aprender sobre Accesibilidad basada en evidencia
-
-Descubre cómo la accesibilidad basada en evidencia transforma entornos digitales, físicos y educativos para ser inclusivos. Este curso te guiará desde los fundamentos hasta prácticas avanzadas, usando datos científicos para crear soluciones que cumplen estándares como WCAG y mejoran la vida de todos los usuarios.
-
-Aprende a diseñar con rigor, aplicando investigaciones y herramientas para superar barreras y fomentar la equidad. Ideal para diseñadores, desarrolladores y profesionales comprometidos con la inclusión, este curso te empoderará para liderar el cambio hacia un mundo más accesible.
-
-Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🔴②]]
 
 --- column-end ---
 

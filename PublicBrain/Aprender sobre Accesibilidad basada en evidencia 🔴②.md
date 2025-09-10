@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-07T19:31:12.075Z
-modified: 2025-09-08T05:29:53.051Z
+modified: 2025-09-10T14:01:24.876Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -122,7 +122,9 @@ En este recorrido, abordarás desde los fundamentos teóricos hasta las aplicaci
 
 > En revisión
 
-- Web Content Accessibility Guidelines (WCAG) 2.1. World Wide Web Consortium (W3C). Disponible en: https://www.w3.org/TR/WCAG21/. Este documento oficial respalda los estándares internacionales mencionados en el módulo de Estándares y Directrices Internacionales.
+- [Web Content Accessibility Guidelines (WCAG) 2.1. World Wide Web Consortium (W3C) 🌐🟡③](https://www.w3.org/TR/WCAG21/) .- Este documento oficial respalda los estándares internacionales mencionados en el módulo de Estándares y Directrices Internacionales.
+- [Web Content Accessibility Guidelines (WCAG) 2.2. World Wide Web Consortium (W3C) 🌐🟡③](https://www.w3.org/TR/WCAG22/) .- Este documento oficial respalda los estándares internacionales mencionados en el módulo de Estándares y Directrices Internacionales.
+- ---
 - Convention on the Rights of Persons with Disabilities. United Nations. Disponible en: https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html. Apoya la historia y evolución legal en el módulo de Introducción.
 - Americans with Disabilities Act (ADA). U.S. Department of Justice. Disponible en: https://www.ada.gov/. Refuerza la importancia ética y legal.
 - The ROI of web accessibility. Silktide. Disponible en: https://silktide.com/blog/the-roi-of-web-accessibility/. Estudio sobre beneficios económicos y ROI en accesibilidad web, alineado con el apartado de beneficios basados en datos.

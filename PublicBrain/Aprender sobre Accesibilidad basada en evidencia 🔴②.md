@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-07T19:31:12.075Z
-modified: 2025-09-10T14:01:24.876Z
+modified: 2025-09-14T20:58:29.148Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -120,18 +120,15 @@ En este recorrido, abordarás desde los fundamentos teóricos hasta las aplicaci
 
 ## Referencias Bibliográficas que Apoyan
 
-> En revisión
-
 - [Web Content Accessibility Guidelines (WCAG) 2.1. World Wide Web Consortium (W3C) 🌐🟡③](https://www.w3.org/TR/WCAG21/) .- Este documento oficial respalda los estándares internacionales mencionados en el módulo de Estándares y Directrices Internacionales.
 - [Web Content Accessibility Guidelines (WCAG) 2.2. World Wide Web Consortium (W3C) 🌐🟡③](https://www.w3.org/TR/WCAG22/) .- Este documento oficial respalda los estándares internacionales mencionados en el módulo de Estándares y Directrices Internacionales.
-- ---
-- Convention on the Rights of Persons with Disabilities. United Nations. Disponible en: https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html. Apoya la historia y evolución legal en el módulo de Introducción.
-- Americans with Disabilities Act (ADA). U.S. Department of Justice. Disponible en: https://www.ada.gov/. Refuerza la importancia ética y legal.
-- The ROI of web accessibility. Silktide. Disponible en: https://silktide.com/blog/the-roi-of-web-accessibility/. Estudio sobre beneficios económicos y ROI en accesibilidad web, alineado con el apartado de beneficios basados en datos.
-- Exploring the relationship between web accessibility and user experience. Aizpurua, A., Harper, S., & Vigo, M. International Journal of Human-Computer Studies, 91, 13-23. Disponible vía Google Scholar: https://scholar.google.com/citations?user=SQEdResAAAAJ&hl=en. Apoya métodos de investigación y usabilidad.
-- Evidence-based practices for children, youth, and young adults with autism spectrum disorder: A comprehensive review. Wong, C., et al. Journal of Autism and Developmental Disorders. Disponible vía Google Scholar: https://scholar.google.com/citations?user=sHPQcU8AAAAJ&hl=en. Refuerza fundamentos de práctica basada en evidencia en contextos educativos.
-- Key Milestones in Accessibility Law. Level Access. Disponible en: https://www.levelaccess.com/blog/key-milestones-in-web-accessibility-law-from-the-signing-of-the-ada-to-today/. Timeline histórico que apoya la evolución de leyes y estándares.
-- Accessibility analysis using WCAG 2.1: evidence from Indian e-government websites. Ismail, A., & Kuppusamy, K. S. Universal Access in the Information Society. Disponible en: https://pmc.ncbi.nlm.nih.gov/articles/PMC8743096/. Estudio sobre efectividad de WCAG 2.1.
+- [Convention on the Rights of Persons with Disabilities. United Nations  🟡③🌐](https://social.desa.un.org/issues/disability/crpd/convention-on-the-rights-of-persons-with-disabilities-crpd) .- Apoya la historia y evolución legal en el módulo de Introducción.
+- [Americans with Disabilities Act (ADA). U.S. Department of Justice 🟡③🌐](https://www.ada.gov) .- Refuerza la importancia ética y legal.
+- [The ROI of web accessibility. Silktide 🟡③🌐](https://silktide.com/blog/the-roi-of-web-accessibility/) .- Estudio sobre beneficios económicos y ROI en accesibilidad web, alineado con el apartado de beneficios basados en datos.
+- [Exploring the relationship between web accessibility and user experience. Aizpurua, A., Harper, S., & Vigo, M. International Journal of Human-Computer Studies, 91, 13-23 🟡③🌐](https://scholar.google.com/citations?user=SQEdResAAAAJ&hl=en) .- Apoya métodos de investigación y usabilidad.
+- [Evidence-based practices for children, youth, and young adults with autism spectrum disorder: A comprehensive review. Wong, C., et al. Journal of Autism and Developmental Disorders 🟡③🌐](https://scholar.google.com/citations?user=sHPQcU8AAAAJ&hl=en) .- Refuerza fundamentos de práctica basada en evidencia en contextos educativos.
+- [Key Milestones in Accessibility Law. Level Access 🟡③🌐](https://www.levelaccess.com/blog/key-milestones-in-web-accessibility-law-from-the-signing-of-the-ada-to-today/) .- Timeline histórico que apoya la evolución de leyes y estándares.
+- [Accessibility analysis using WCAG 2.1: evidence from Indian e-government websites. Ismail, A., & Kuppusamy, K. S. Universal Access in the Information Society 🟡③🌐](https://pmc.ncbi.nlm.nih.gov/articles/PMC8743096/) .- Estudio sobre efectividad de WCAG 2.1.
 
 ## Referencias Bibliográficas que Refutan
 

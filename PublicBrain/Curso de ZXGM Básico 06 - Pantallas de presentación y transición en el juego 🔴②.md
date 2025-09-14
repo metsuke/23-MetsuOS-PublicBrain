@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-28T13:37:23.615Z
-modified: 2025-09-09T06:35:43.032Z
+modified: 2025-09-14T02:47:09.346Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -104,6 +104,24 @@ Ahora es cuando empieza el [Pixel Art Attack al mas puro estilo Errazkin](https:
 	- Diseña solo la parte inferior para ahorrar esfuerzo y optimizar el uso de memoria.
     - Asegúrate de que los elementos sean claros y no se solapen visualmente.
     - La edición en Tiled permite ajustar las posiciones sin modificar el código del juego.
+### Estado actual (Iteración 004):
+
+El proceso ha sido laborioso, y de aqui surge la necesidad de crear un modulo en mosGameMaker para definir elementos por separado y que todo se "monte solo", porque me lleva demasiado tiempo iterar. De momento he aqui el resultado y su aspectro ingame (recuerden que estamos trabajando con la demo del motor, transformandola en nuestro juego).
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![El HUD en Affinity Photo](PublicBrain/_resources/f0f7265d0f8dcee144cc88c76d8d34ea_MD5.jpeg)
+
+ --- column-end ---
+
+![El HUD Ingame](PublicBrain/_resources/f46057c80a427d173e986ba6750c5420_MD5.jpeg)
+ --- column-end ---
+--- multi-column-end
+
 ## Pantallas Opcionales (Solo 128K)
 
 ### Intro

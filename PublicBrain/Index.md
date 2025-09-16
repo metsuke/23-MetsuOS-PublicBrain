@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-09-08T05:24:39.108Z
+modified: 2025-09-16T21:25:23.167Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 219
+ver_rev: 220
 nav_primary:
 nav_secondary:
 tags:
@@ -80,7 +80,7 @@ MOS_TopImg_Video: PublicBrain.mp4
 
 ### Accesibilidad
 
-* [[Aprender sobre Accesibilidad basada en evidencia 🔴②]]
+* [[Aprender sobre Accesibilidad basada en evidencia 🟡③]]
 * (Revisar conmtenido antiguo y reintegrar)
 	* [[Aprender sobre Accesibilidad ⚫①]]
 	* [[Aprender sobre Accesibilidad en ELearining ⚫①]]

@@ -9,24 +9,22 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-07T19:31:12.075Z
-modified: 2025-09-14T20:58:29.148Z
+modified: 2025-09-16T20:44:31.514Z
 supervisado: ""
-ACCION: ""
+ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: A11Y_Basado_Evidencia_000.mp4
 ---
-# Aprender sobre Accesibilidad basada en evidencia 🔴②
+# Aprender sobre Accesibilidad basada en evidencia 🟡③
 
 ![Accesibilidad basada en evidencia](PublicBrain/_resources/44da56085ddd15acfab2c95017035b4a_MD5.jpeg)
 
 [[Aprendizaje basado en evidencia  ⚫①]]
-
-> WIP: Validando fuentes
 
 La accesibilidad no es solo una cuestión de cumplir normativas o implementar soluciones técnicas; es un compromiso ético y práctico para garantizar que todas las personas, independientemente de sus capacidades, puedan participar plenamente en los entornos digitales, físicos y educativos. Este curso, _Accesibilidad Basada en Evidencia_, te invita a explorar cómo la ciencia y los datos pueden transformar la forma en que diseñamos y evaluamos soluciones inclusivas. A través de un enfoque riguroso y fundamentado, descubrirás cómo superar suposiciones intuitivas y aplicar investigaciones sólidas para crear experiencias que no solo cumplan estándares internacionales, como las WCAG, sino que también generen un impacto real en la vida de los usuarios. ¿Estás listo para aprender a construir un mundo más accesible respaldado por la evidencia?
 
@@ -132,13 +130,11 @@ En este recorrido, abordarás desde los fundamentos teóricos hasta las aplicaci
 
 ## Referencias Bibliográficas que Refutan
 
-> En revisión
-
-- To Hell with WCAG 2. A List Apart. Disponible en: https://alistapart.com/article/tohellwithwcag2/. Crítica a la complejidad y aplicabilidad de WCAG 2, cuestionando su utilidad práctica para desarrolladores.
-- Challenges with Accessibility Guidelines Conformance and Testing. World Wide Web Consortium (W3C). Disponible en: https://www.w3.org/TR/accessibility-conformance-challenges/. Documento que expone desafíos en la conformidad con WCAG, refutando su aplicación universal en ciertos contextos.
-- Review: Guidelines are only half of the story. W3C Accessibility Guidelines Working Group. Disponible en: https://www.w3.org/WAI/GL/wiki/Review:_Guidelines_are_only_half_of_the_story. Argumenta que WCAG solo cubre parte de la accesibilidad, ignorando usabilidad general.
-- Unresolved Problems in Accessibility and Universal Design Guidelines. Steinfeld, E. Innovation: The Quarterly Journal of the Industrial Designers Society of America. Disponible en: https://www.researchgate.net/publication/254091133_Unresolved_Problems_in_Accessibility_and_Universal_Design_Guidelines. Señala problemas no resueltos en guías de diseño universal, como costes y ambigüedades.
-- The Challenges of Evidence-Based Design. Buildings and Cities. Disponible en: https://www.buildingsandcities.org/insights/commentaries/evidence-based-design.html. Discute limitaciones en la aplicación de diseño basado en evidencia, como falta de lenguaje común y metodología.
-- Why Are There No Mobile Accessibility Guidelines in WCAG? Access Armada. Disponible en: https://www.accessarmada.com/blog/why-are-there-no-mobile-accessibility-guidelines-in-wcag/. Critica la falta de enfoque específico en móvil en WCAG.
+- [To Hell with WCAG 2. A List Apart 🟡③🌐](https://alistapart.com/article/tohellwithwcag2/) .- Crítica a la complejidad y aplicabilidad de WCAG 2, cuestionando su utilidad práctica para desarrolladores.
+- [Challenges with Accessibility Guidelines Conformance and Testing. World Wide Web Consortium (W3C) 🟡③🌐](https://www.w3.org/TR/accessibility-conformance-challenges/) .- Documento que expone desafíos en la conformidad con WCAG, refutando su aplicación universal en ciertos contextos.
+- [Review: Guidelines are only half of the story. W3C Accessibility Guidelines Working Group 🟡③🌐](https://www.w3.org/WAI/GL/wiki/Review:_Guidelines_are_only_half_of_the_story) .- Argumenta que WCAG solo cubre parte de la accesibilidad, ignorando usabilidad general.
+- [Unresolved Problems in Accessibility and Universal Design Guidelines. Steinfeld, E. Innovation: The Quarterly Journal of the Industrial Designers Society of America 🟡③🌐]( https://www.researchgate.net/publication/254091133_Unresolved_Problems_in_Accessibility_and_Universal_Design_Guidelines) .- Señala problemas no resueltos en guías de diseño universal, como costes y ambigüedades.
+- [The Challenges of Evidence-Based Design. Buildings and Cities 🟡③🌐](https://www.buildingsandcities.org/insights/commentaries/evidence-based-design.html) .- Discute limitaciones en la aplicación de diseño basado en evidencia, como falta de lenguaje común y metodología.
+- [Why Are There No Mobile Accessibility Guidelines in WCAG? Access Armada 🟡③🌐](https://www.accessarmada.com/blog/why-are-there-no-mobile-accessibility-guidelines-in-wcag/) .- Critica la falta de enfoque específico en móvil en WCAG.
 
 ![[Plantilla - 1MT#One More Thing]]

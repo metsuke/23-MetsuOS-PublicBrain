@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-25T11:48:02.556Z
-modified: 2025-09-03T04:10:43.598Z
+modified: 2025-09-16T07:53:22.369Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 25
+ver_rev: 27
 nav_primary:
 nav_secondary:
 tags:
@@ -156,9 +156,21 @@ Continuar leyendo en ... [[Curso de ZXGM Básico 06 - Pantallas de presentación
 
 --- column-end ---
 
-- El HUD
-- Creación del personaje principañ
+![Cursp ZXGM Los tiles](PublicBrain/_resources/87474c7281eab0f536fa358c6b04c8e2_MD5.jpg)
+## Capítulo Básico 07: Creando nuestros Tiles
+
+Hoy nos sumergimos en el apasionante mundo de los tiles, esos bloques fundamentales que dan forma a los escenarios de tus juegos retro. 
+
+Si eres nuevo en el desarrollo para ZX Spectrum, no te preocupes: vamos a desgranarlo paso a paso de manera clara y práctica. 
+
+Continuar leyendo en ... [[Curso de ZXGM Básico 07 - Creando nuestros Tiles 🔴②]]
+
+--- column-end ---
+
+- 
+- Creando el HUD
 - Creación de las pantallas
+- Creación del personaje principañ
 - Creación de los enemigos
 - Creación de los objetos
 - Sonidos en nuestro juego
@@ -171,11 +183,10 @@ Continuar leyendo en ... [[Curso de ZXGM Básico 06 - Pantallas de presentación
 --- multi-column-end
 
 
+## Nivel Medio: Creando otros tipos de juegos
 
-## Nivel Medio: Haz un demake de un juego de AGD
-
+* Creando los 32 in 1 (TODO: Trasladar la lista)
 * Portando un juego desde Prisma: "The Speccy Master Adventure" (Remake de [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017]] creado en [[Tutorial de AGD 2018 Edition ⚫①|AGD]])
-* Indice exacto por definir.
 
 ## Nivel Avanzado: Ayuda a mejorar el motor
 

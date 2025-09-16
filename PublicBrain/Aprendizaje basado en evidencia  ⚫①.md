@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T15:34:27.927Z
-modified: 2025-09-07T21:46:15.184Z
+modified: 2025-09-16T21:25:23.151Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -51,7 +51,7 @@ Descubre cómo la accesibilidad basada en evidencia transforma entornos digitale
 
 Aprende a diseñar con rigor, aplicando investigaciones y herramientas para superar barreras y fomentar la equidad. Ideal para diseñadores, desarrolladores y profesionales comprometidos con la inclusión, este curso te empoderará para liderar el cambio hacia un mundo más accesible.
 
-Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🔴②]]
+Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🟡③]]
 
 --- column-end ---
 

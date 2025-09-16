@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-14T07:53:31.971Z
+modified: 2025-09-16T21:25:23.135Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 98
+ver_rev: 101
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,12 +27,15 @@ Number of Columns: 2
 Border: off
 ```
 
-![Lo que puede hacer MOS Game Maker Pro con una imagen](_resources/3b19842721da123761bcb57d9b51222a_MD5.jpeg)
-## Curso de ZX Game Maker / Capítulo Básico 06: Pantallas de presentación, victoria, introducción y game over (Live Post)
 
-En el capítulo de hoy, nos centraremos en las pantallas de presentación y transición de tu juego. Los detalles sobre cómo trabajar con ZX Paintbrush se tratarán en el [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]], aquí nos enfocaremos en qué pantallas puedes incluir, dónde deben ubicarse y cómo gestionar el espacio en memoria que ocupan. Estas pantallas son esenciales para mejorar la experiencia del usuario, ofrecer retroalimentación visual y garantizar un juego pulido.
+![Cursp ZXGM Los tiles](PublicBrain/_resources/87474c7281eab0f536fa358c6b04c8e2_MD5.jpg)
+## Curso de ZXGM / Capítulo Básico 07: Creando nuestros Tiles
 
-Continuar leyendo en ... [[Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②]]
+Hoy nos sumergimos en el apasionante mundo de los tiles, esos bloques fundamentales que dan forma a los escenarios de tus juegos retro. 
+
+Si eres nuevo en el desarrollo para ZX Spectrum, no te preocupes: vamos a desgranarlo paso a paso de manera clara y práctica. 
+
+Continuar leyendo en ... [[Curso de ZXGM Básico 07 - Creando nuestros Tiles 🔴②]]
 
 --- column-end ---
 
@@ -43,7 +46,7 @@ Descubre cómo la accesibilidad basada en evidencia transforma entornos digitale
 
 Aprende a diseñar con rigor, aplicando investigaciones y herramientas para superar barreras y fomentar la equidad. Ideal para diseñadores, desarrolladores y profesionales comprometidos con la inclusión, este curso te empoderará para liderar el cambio hacia un mundo más accesible.
 
-Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🔴②]]
+Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🟡③]]
 
 --- column-end ---
 

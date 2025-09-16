@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-28T13:37:23.615Z
-modified: 2025-09-14T02:47:09.346Z
+modified: 2025-09-16T07:29:27.404Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -26,7 +26,7 @@ tags: []
 
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①]]
-* [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②|<< Anterior]] | Siguiente >>
+* [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②|<< Anterior]] | [[Curso de ZXGM Básico 07 - Creando nuestros Tiles 🔴②|Siguiente >>]]
 
 > Este es un "Live Post" ya que nos vamos a tomar nuestro tiempo para hacer las pantallas con mimo, y así dar tiempo para la salida de la siguiente - espectacular - versión del engine, y que trae novedades que me interesa incorporar al juego.
 

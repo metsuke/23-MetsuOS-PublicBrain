@@ -7,7 +7,7 @@ iaStatus_Model: Grok-3, Raúl Carrillo aka Metsuke
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2024-05-25T21:40:47.127Z
 modified: 2025-06-06T23:56:09.495Z
 supervisado: 2024-05-25T21:43:23.295Z
@@ -15,9 +15,10 @@ ACCION: S
 ver_major: 0
 ver_minor: 4
 ver_rev: 88
-nav_primary: 
-nav_secondary: 
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: PortadaMetsukeCom.mp4
 ---
 # Index 
 # Construyendo la plena inclusión a través del videojuego.

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-07T21:39:39.348Z
-modified: 2025-09-08T00:37:57.916Z
+modified: 2025-09-18T17:30:25.426Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -78,9 +78,9 @@ El estilo retro en el Curso de Game Boy Studio no es solo un eco del pasado; es 
 
 Las siguientes fuentes han sido verificadas para garantizar su existencia, vigencia y relevancia hasta septiembre de 2025. Todas son accesibles y contrastables:
 
-- **García, J. (2023). *El Renacimiento del Estilo Retro en los Videojuegos: Nostalgia y Creatividad*. Revista de Estudios sobre Medios Digitales, 15(2), 45-62.**  
-  [https://revistas.uned.es/index.php/REMD/article/view/3456](https://revistas.uned.es/index.php/REMD/article/view/3456)  
-  Esta publicación académica analiza cómo la nostalgia impulsa el resurgimiento del estilo retro y su impacto en la creatividad, apoyando la relevancia cultural descrita.
+- [El Renacer de los Videojuegos Retro: ¿Por Qué lo Clásico Está de Moda? 🟡③🌐](https://www.youtube.com/watch?v=UAfYaTcZwOg) .- 
+  Cómo la nostalgia impulsa el resurgimiento del estilo retro y su impacto en la creatividad, apoyando la relevancia cultural descrita.
+
 
 - **Nintendo Life (2022). *The Legacy of Game Boy: "H"ow It Shaped Modern Gaming*.**  
   [https://www.nintendolife.com/features/the-legacy-of-game-boy-how-it-shaped-modern-gaming](https://www.nintendolife.com/features/the-legacy-of-game-boy-how-it-shaped-modern-gaming)  

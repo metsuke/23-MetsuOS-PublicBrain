@@ -163,7 +163,7 @@ Hoy nos sumergimos en el apasionante mundo de los tiles, esos bloques fundamenta
 
 Si eres nuevo en el desarrollo para ZX Spectrum, no te preocupes: vamos a desgranarlo paso a paso de manera clara y práctica. 
 
-Continuar leyendo en ... [[Curso de ZXGM Básico 07 - Creando nuestros Tiles 🔴②]]
+Continuar leyendo en ... [[Curso de ZXGM Básico 07 - Creando nuestros Tiles 🟡③]]
 
 --- column-end ---
 

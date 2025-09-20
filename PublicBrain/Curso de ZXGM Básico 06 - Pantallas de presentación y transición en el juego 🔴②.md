@@ -26,7 +26,7 @@ tags: []
 
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①]]
-* [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②|<< Anterior]] | [[Curso de ZXGM Básico 07 - Creando nuestros Tiles 🔴②|Siguiente >>]]
+* [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②|<< Anterior]] | [[Curso de ZXGM Básico 07 - Creando nuestros Tiles 🟡③|Siguiente >>]]
 
 > Este es un "Live Post" ya que nos vamos a tomar nuestro tiempo para hacer las pantallas con mimo, y así dar tiempo para la salida de la siguiente - espectacular - versión del engine, y que trae novedades que me interesa incorporar al juego.
 

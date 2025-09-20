@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f573d1ad7ba7af8f",
+        "id": "a16eba9f706bbb60",
         "type": "tabs",
         "children": [
           {
-            "id": "124f11456003e485",
+            "id": "e8385e1fc8e7acb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "New tab"
             }
           }
         ]
@@ -202,17 +198,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "124f11456003e485",
+  "active": "e8385e1fc8e7acb3",
   "lastOpenFiles": [
-    "PublicBrain/Curso de ZXGM Básico 07 - Creando nuestros Tiles 🔴②.md",
+    "PublicBrain/Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②.md",
+    "PublicBrain/Curso de ZXGM Básico 07 - Creando nuestros Tiles 🟡③.md",
+    "Novedades.md",
+    "Index.md",
     "PublicBrain/Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②.md",
     "PublicBrain/Curso de ZX Game Maker ⚫①.md",
     "PublicBrain/Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🔴②.md",
     "PublicBrain/_resources/7821ef3cc71e0589891fa589e7374e7d_MD5.jpg",
     "PublicBrain/Curso de GB Studio ⚫①.md",
-    "Index.md",
     "PublicBrain/Aprender sobre Accesibilidad basada en evidencia 🟡③.md",
-    "Novedades.md",
     "Noticias.md",
     "PublicBrain/_resources/87474c7281eab0f536fa358c6b04c8e2_MD5.jpg",
     "Curso de ZXGM Básico 07 - Creando nuestros Tiles 🔴②.md",
@@ -229,7 +226,6 @@
     "PublicBrain/_resources/d71c9f39125c907ba236a2b0f45984bb_MD5.jpeg",
     "Screen_Reduction_20_256x192_005.png",
     "PublicBrain/Aprendizaje basado en evidencia  ⚫①.md",
-    "PublicBrain/Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad ⚫①.md",
     "PublicBrain/¿Qué es la Accesibilidad?.md",

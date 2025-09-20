@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:59.105Z
-modified: 2025-07-20T11:58:53.483Z
+modified: 2025-09-20T04:51:05.990Z
 supervisado: 2024-05-27T13:38:01.062Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 19
+ver_rev: 20
 nav_primary: 
 nav_secondary: 
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Dibujando formas básicas y gráficos](PublicBrain/_resources/50ff92b24210175073c429285ad684dc_MD5.jpg)
 
  * [[Curso de PixiJS ⚫①]]
-* [[Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③|<< Anterior]] | Siguiente >>
+* [[Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③|<< Anterior]] |  [[Carga y gestión de imágenes y texturas (PixiJS) 🔴②|Siguiente >>]]
 
 PixiJS es una biblioteca de JavaScript para gráficos 2D que aprovecha WebGL para un renderizado rápido y eficiente, con Canvas como alternativa si WebGL no está disponible. Comenzaremos hoy con el dibujado de formas básicas
 

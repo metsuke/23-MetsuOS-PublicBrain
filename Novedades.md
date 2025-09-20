@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-20T04:24:39.296Z
+modified: 2025-09-20T05:40:05.341Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 102
+ver_rev: 103
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,18 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Imagenes y Texturas en PixiJS](PublicBrain/_resources/fb89498a19570fba6d7a5e8de0260eaa_MD5.jpg)
+
+## Curso PixiJS / Carga y gestion de imágenes y texturas
+
+En este capítulo, vamos a sumergirnos de forma exhaustiva y detallada en cómo cargar, crear, gestionar y optimizar estas imágenes y texturas en PixiJS. 
+
+Abordaremos el ciclo de vida completo de las texturas, los métodos de carga asíncrona, los tipos de fuentes de datos compatibles, las mejores prácticas para el manejo de la memoria y el rendimiento, junto con ejemplos prácticos de código. 
+
+Continuar leyendo en ... [[Carga y gestión de imágenes y texturas (PixiJS) 🔴②]]
+
+--- column-end ---
 
 ![Cursp ZXGM Los tiles](PublicBrain/_resources/87474c7281eab0f536fa358c6b04c8e2_MD5.jpg)
 ## Curso de ZXGM / Capítulo Básico 07: Creando nuestros Tiles
@@ -125,18 +137,6 @@ Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una h
 A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
 
 Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]]
-
---- column-end ---
-
-
-![Dibujando formas básicas y gráficos](PublicBrain/_resources/60b2d8cc11ee311dd69562ae8b878613_MD5.jpg)
-## Curso PixiJS / Dibujando formas básicas y gráficos
-
-PixiJS es una biblioteca de JavaScript para gráficos 2D que aprovecha WebGL para un renderizado rápido y eficiente, con Canvas como alternativa si WebGL no está disponible. 
-
-Comenzaremos hoy con el dibujado de formas básicas
-
-Continuar leyendo en ... [[Dibujando formas básicas y gráficos (PixiJS) 🟡③]] 
 
 --- column-end ---
 

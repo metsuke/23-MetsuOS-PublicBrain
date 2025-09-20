@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2025-08-08T22:05:37.986Z
+modified: 2025-09-20T05:01:42.453Z
 supervisado: 2024-06-03T19:56:58.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 120
+ver_rev: 121
 nav_primary: 
 nav_secondary: 
 tags:
@@ -87,16 +87,39 @@ Comenzaremos hoy con el dibujado de formas básicas
 
 Continuar leyendo en ... [[Dibujando formas básicas y gráficos (PixiJS) 🟡③]] 
 
+
  --- column-end ---
 --- multi-column-end
 
 
 ## Trabajo con Sprites y Texturas
 
-* [[Carga y gestión de imágenes y texturas (PixiJS) 🔴②]]
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Imagenes y Texturas en PixiJS](PublicBrain/_resources/fb89498a19570fba6d7a5e8de0260eaa_MD5.jpg)
+
+## Carga y gestion de imágenes y texturas
+
+En este capítulo, vamos a sumergirnos de forma exhaustiva y detallada en cómo cargar, crear, gestionar y optimizar estas imágenes y texturas en PixiJS. 
+
+Abordaremos el ciclo de vida completo de las texturas, los métodos de carga asíncrona, los tipos de fuentes de datos compatibles, las mejores prácticas para el manejo de la memoria y el rendimiento, junto con ejemplos prácticos de código. 
+
+Continuar leyendo en ... [[Carga y gestión de imágenes y texturas (PixiJS) 🔴②]]
+
+ --- column-end ---
+
 * [[Creación y manipulación de sprites en PixiJS 🔴②]]
 * [[Anidando sprites y creando escenas interactivas 🔴②]]
 * [[Aplicando transformaciones y animaciones a sprites (PixiJS) 🔴②]]
+
+ --- column-end ---
+--- multi-column-end
+
 
 ## Interacción de Usuario y Eventos
 

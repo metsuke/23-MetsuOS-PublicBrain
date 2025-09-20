@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②.md",
+                "file": "PublicBrain/Carga y gestión de imágenes y texturas (PixiJS) 🔴②.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②"
+              "title": "Carga y gestión de imágenes y texturas (PixiJS) 🔴②"
             }
           }
         ]
@@ -204,9 +204,15 @@
   },
   "active": "e8385e1fc8e7acb3",
   "lastOpenFiles": [
+    "PublicBrain/Dibujando formas básicas y gráficos (PixiJS) 🟡③.md",
+    "PublicBrain/Integrando PixiJS con MetsuOS I - Ejemplo de Inico 🟡③.md",
+    "PublicBrain/Carga y gestión de imágenes y texturas (PixiJS) 🔴②.md",
+    "KB.md",
+    "Novedades.md",
+    "PublicBrain/Curso de PixiJS ⚫①.md",
+    "PublicBrain/_resources/fb89498a19570fba6d7a5e8de0260eaa_MD5.jpg",
     "PublicBrain/Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②.md",
     "PublicBrain/Curso de ZXGM Básico 07 - Creando nuestros Tiles 🟡③.md",
-    "Novedades.md",
     "Index.md",
     "PublicBrain/Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②.md",
     "PublicBrain/Curso de ZX Game Maker ⚫①.md",
@@ -222,13 +228,11 @@
     "PublicBrain/_resources/f46057c80a427d173e986ba6750c5420_MD5.jpeg",
     "Captura de pantalla 2025-09-14 a las 4.30.52.png",
     "PublicBrain/MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025).md",
-    "KB.md",
     "PublicBrain/Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①.md",
     "PublicBrain/Pixel Art Attack - Cursed Zapatilla - ZX Spectrum - Pantalla de Carga ⚫①.md",
     "PublicBrain/_resources/f1139e8c8ab76b7f55c6cc2f25dd559e_MD5.jpeg",
     "Screen_Reduction_20_256x192_005_Web.png",
     "PublicBrain/_resources/d71c9f39125c907ba236a2b0f45984bb_MD5.jpeg",
-    "Screen_Reduction_20_256x192_005.png",
     "PublicBrain/Aprendizaje basado en evidencia  ⚫①.md",
     "PublicBrain/Index.md",
     "PublicBrain/Aprender sobre Accesibilidad ⚫①.md",
@@ -236,9 +240,6 @@
     "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "Curso de Votex Tracker II  ⚫①.md",
     "PublicBrain/Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③.md",
-    "Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual.md",
-    "Aprender sobre Accesibilidad basada en evidencia.md",
-    "PublicBrain/Curso de ZXGM Básico 05 - Calibrando funcionalidad y memoria para nuestro juego 🔴②.md",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

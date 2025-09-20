@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-02T12:42:52.271Z
+modified: 2025-09-20T21:30:41.860Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 28
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,16 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Mapper MXM-1 para NES](PublicBrain/_resources/b509ff5e74cba8051b33b79a5a8d4e02_MD5.jpg)
+
+## El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits
+
+Septiembre de 2025 – En un año repleto de resurgimientos en el mundo del retrocomputing español, con momentos estelares como [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|la vuelta de Microhobby]] o el [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③|anuncio de Malasombra para NES]] , la comunidad global de desarrolladores homebrew está de enhorabuena con un avance técnico que promete cambiar las reglas del juego para la Nintendo Entertainment System (NES). 
+
+Continuar leyendo en ... [[Noticias - El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits 2025-09-20  🔴②]]
+
+--- column-end ---
 
 ![Reinterpretación libre de la portada del juego](_resources/ea6b896b9eb3da5e40a2786e6a616413_MD5.jpg)
 ## En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames

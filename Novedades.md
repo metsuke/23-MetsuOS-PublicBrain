@@ -32,7 +32,7 @@ Border: off
 
 Una exploración en profundidad sobre qué implica la accesibilidad en entornos digitales, físicos y educativos. Diferenciaremos entre accesibilidad universal e inclusiva, poniendo énfasis en cómo la evidencia científica respalda las prácticas para evitar basarnos únicamente en suposiciones intuitivas.
 
-Continuar leyendo en [[A11Y - Definición y conceptos básicos  🔴②]]
+Continuar leyendo en ... [[A11Y - Definición y conceptos básicos  🔴②]]
 
 --- column-end ---
 

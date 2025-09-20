@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-06-04T18:51:41.947Z
-modified: 2025-05-05T18:14:14.923Z
+modified: 2025-09-20T12:00:16.939Z
 supervisado: 2024-06-10T14:43:32.805Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 29
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,7 @@ tags:
 
 Aquí estoy afinando la descripción y características de cada nivel, a la par que voy implementando la metodología en real.
 
+> Disclaimer esto es experimental, y sujeto a cambios, generalmente consecuencia de la aplicacion práctica de conceptos inicialmente teóricos que logicamente deben adaptarse para hacerlos viables, consistentes y robustos (o lo más posible)
 ## Los niveles básicos
 ### ⚫① - Dark1 - Conocimiento en Bruto. 
 
@@ -55,30 +56,10 @@ Aquí estoy afinando la descripción y características de cada nivel, a la par 
 * El conjunto se lee por parte de un humano en busca de errores que puedan corregirse tanto en contenido como en redacción y coherencia básica.
 
 
----
-AQUI ESTA, EN ESTE MOMENTO,  LA PUNTA DE LANZA PARA LLEVARLO A LA PRÁCTICA:
-
-* [[Estudio y Análisis científico de la Declaración Universal de los Derechos Humanos  ⚫①
-* [[Estudio y Análisis lógico de la Declaración Universal de los Derechos Humanos   ⚫①]]
-* [[Estudio y Análisis moral de la Declaración Universal de los Derechos Humanos  ⚫①]]
-
-* [[Estructura del Conocimiento Humano y Científico ⚫①]]
-	* [[Elementos del conocimiento humano y científico  🔴②]]
-
-* [[Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②]]
-
-* [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②]]
-* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
-
-* [[Creando MetsuOS ⚫①]]
-
-
----
 ### 🟡③ - Yellow3 - Conocimiento Crítico.
 
 * Se abre la posibilidad de otras perspectivas.
-* Se realiza un metaanálisis bibliográfico del contenido del documento, a fin de evitar problemas de contexto debidos a alucinaciones de IA, o despiste del humano. 
-* Respecto a las fuentes que refutan deben tratarse en los documentos que rastrean cada idea, realizando un metanálisis recursivo y multidimensional que nos lleve lo más cerca posible del contexto completo de la materia estudiada.
+* Se comprueba la existencia de la fuente, y de forma limitada, su contexto
 #### Técnicas aplicadas en 🟡③
 
 1. Se le pide a una IA potente que tome el texto original realice un análisis exhaustivo del mismo y relacione de forma exhaustiva cada idea con su referencia bibliográfica, incluyendo numeros de página exactos.
@@ -91,10 +72,13 @@ AQUI ESTA, EN ESTE MOMENTO,  LA PUNTA DE LANZA PARA LLEVARLO A LA PRÁCTICA:
 ### 🟢④ - Green4 - Conocimiento Natural.
 
 * Surge al comprender la naturaleza de la realidad y del ser humano en una materia.
-* TODO: Definición más específica.
+* Se basa en fuentes cuya existencia y sentido general han sido contrastados en  🟡③
+* Respecto a las fuentes que apoyan o refutan deben tratarse en los documentos que rastrean cada idea, realizando un metanálisis recursivo y multidimensional que nos lleve lo más cerca posible del contexto completo de la materia estudiada.
 #### Técnicas aplicadas en 🟢④
 
-* TODO: Determinar procedimiento y técnicas a aplicar.
+* Atomización del texto en ideas separadas dependientes de contexto al estilo token de IA
+* Análisis Bibliográfico: Asociación directa entre ideas y sus fuentes, con localización lo más exacta posible.
+* Análisis Filosófico, Etico y Moral (Metodologia concreta por definir)
 ### 🔵⑤ - Blue5 - Conocimiento Científico
 
 * Supone la suma de las fases anteriores aplicando el rigor de lo descubierto por la ciencia hasta ahora, sin caer en la -anticientífica- "opinión científica/opinión de expertos".

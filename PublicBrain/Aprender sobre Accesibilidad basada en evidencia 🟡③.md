@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-07T19:31:12.075Z
-modified: 2025-09-16T20:44:31.514Z
+modified: 2025-09-20T18:26:01.379Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -32,11 +32,30 @@ En este recorrido, abordarás desde los fundamentos teóricos hasta las aplicaci
 
 ## Introducción a la Accesibilidad Basada en Evidencia
 
-- Definición y conceptos básicos: Una exploración en profundidad sobre qué implica la accesibilidad en entornos digitales, físicos y educativos. Diferenciaremos entre accesibilidad universal e inclusiva, poniendo énfasis en cómo la evidencia científica respalda las prácticas para evitar basarnos únicamente en suposiciones intuitivas.
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+![La importancia de la accesibilidad en videojuegos](PublicBrain/_resources/dcad9ee887e07c855af57163ccd0079a_MD5.jpg)
+## A11Y: Definición y conceptos básicos: 
+
+Una exploración en profundidad sobre qué implica la accesibilidad en entornos digitales, físicos y educativos. Diferenciaremos entre accesibilidad universal e inclusiva, poniendo énfasis en cómo la evidencia científica respalda las prácticas para evitar basarnos únicamente en suposiciones intuitivas.
+
+Continuar leyendo en [[A11Y - Definición y conceptos básicos  🔴②]]
+
+ --- column-end ---
+
 - Historia y evolución: Un análisis cronológico de los hitos clave en la accesibilidad, desde las primeras leyes como la Sección 508 en Estados Unidos hasta normativas internacionales como la Convención de la ONU sobre los Derechos de las Personas con Discapacidades, destacando los estudios empíricos que han influido en su desarrollo.
 - Importancia ética y legal: Una discusión exhaustiva sobre las obligaciones legales (como la ADA o la EN 301 549), las implicaciones éticas en el diseño inclusivo y la evidencia de estudios que demuestran impactos en la equidad social, la productividad y la reducción de la discriminación.
 - Beneficios basados en datos: Una revisión de investigaciones cuantitativas y cualitativas que cuantifican las mejoras en usabilidad, retención de usuarios y retorno de la inversión (ROI) para organizaciones que aplican accesibilidad respaldada por evidencia, incluyendo métricas como tasas de abandono y satisfacción del usuario.
 - Desafíos comunes: La identificación detallada de barreras como la falta de conciencia, los costes percibidos y los mitos, apoyada por encuestas y meta-análisis de la literatura académica.
+
+ --- column-end ---
+--- multi-column-end
+
+
+
 
 ## Fundamentos de la Práctica Basada en Evidencia
 

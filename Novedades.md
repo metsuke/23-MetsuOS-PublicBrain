@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-20T05:40:05.341Z
+modified: 2025-09-20T18:26:37.682Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 103
+ver_rev: 104
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,14 @@ Number of Columns: 2
 Border: off
 ```
 
+![La importancia de la accesibilidad en videojuegos](PublicBrain/_resources/dcad9ee887e07c855af57163ccd0079a_MD5.jpg)
+## A11Y: Definición y conceptos básicos: 
+
+Una exploración en profundidad sobre qué implica la accesibilidad en entornos digitales, físicos y educativos. Diferenciaremos entre accesibilidad universal e inclusiva, poniendo énfasis en cómo la evidencia científica respalda las prácticas para evitar basarnos únicamente en suposiciones intuitivas.
+
+Continuar leyendo en [[A11Y - Definición y conceptos básicos  🔴②]]
+
+--- column-end ---
 
 ![Imagenes y Texturas en PixiJS](PublicBrain/_resources/fb89498a19570fba6d7a5e8de0260eaa_MD5.jpg)
 
@@ -48,17 +56,6 @@ Hoy nos sumergimos en el apasionante mundo de los tiles, esos bloques fundamenta
 Si eres nuevo en el desarrollo para ZX Spectrum, no te preocupes: vamos a desgranarlo paso a paso de manera clara y práctica. 
 
 Continuar leyendo en ... [[Curso de ZXGM Básico 07 - Creando nuestros Tiles 🟡③]]
-
---- column-end ---
-
-![Accesibilidad basada en evidencia](PublicBrain/_resources/44da56085ddd15acfab2c95017035b4a_MD5.jpeg)
-## KB / Aprender sobre Accesibilidad basada en evidencia
-
-Descubre cómo la accesibilidad basada en evidencia transforma entornos digitales, físicos y educativos para ser inclusivos. Este curso te guiará desde los fundamentos hasta prácticas avanzadas, usando datos científicos para crear soluciones que cumplen estándares como WCAG y mejoran la vida de todos los usuarios.
-
-Aprende a diseñar con rigor, aplicando investigaciones y herramientas para superar barreras y fomentar la equidad. Ideal para diseñadores, desarrolladores y profesionales comprometidos con la inclusión, este curso te empoderará para liderar el cambio hacia un mundo más accesible.
-
-Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🟡③]]
 
 --- column-end ---
 

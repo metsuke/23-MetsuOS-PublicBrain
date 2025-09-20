@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-16T05:58:01.765Z
-modified: 2025-09-16T15:02:34.174Z
+modified: 2025-09-20T00:47:36.316Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -26,7 +26,7 @@ tags: []
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②|<< Anterior]] | Siguiente >>
 
-> Ojo: WIP
+> WIP Revisando Fuentes
 
 Hoy nos sumergimos en el apasionante mundo de los tiles, esos bloques fundamentales que dan forma a los escenarios de tus juegos retro. 
 
@@ -92,17 +92,15 @@ Usa el tileset skeleton del proyecto como base: edítalo respetando la estructur
 
 Estas fuentes validan la estructura de tiles, edición con ZX Paintbrush y conceptos generales. 
 
-> WIP: Validando fuentes
-
-- **Instalación de ZX Paintbrush en ZX Spectrum Game Maker** (2024). Explica por qué usar .zxp para tiles y atributos (ink/paper), y su integración con el tileset. Enlace: [https://gm.retrojuegos.org/mydoc_install_image_editor.html](https://gm.retrojuegos.org/mydoc_install_image_editor.html).
-
-- **Tutorial ZX Paintbrush en ZX Spectrum Game Maker** (2024). Guía básica sobre edición de tiles 8x8, colores ink/paper y peculiaridades ZX. Enlace: [https://gm.retrojuegos.org/mydoc_zx_paintbrush.html](https://gm.retrojuegos.org/mydoc_zx_paintbrush.html).
-
-- **ZX Spectrum Game Maker Overview** (2023, actualizado 2025). Confirma tiles como "cuadraditos para diseñar pantallas" y uso de ZX Paintbrush. Enlace: [https://gm.retrojuegos.org/](https://gm.retrojuegos.org/).
-
-- **Imágenes Base y Pantallas en ZX Spectrum Game Maker** (2024). Detalla edición de tilesets con ZX Paintbrush para pantallas. Enlace: [https://gm.retrojuegos.org/mydoc_images_screens.html](https://gm.retrojuegos.org/mydoc_images_screens.html).
-
-- **ZX Spectrum Game Maker en itch.io** (2023, actualizado). Herramienta visual con Tiled y ZX Paintbrush para tiles. Enlace: [https://juntelart.itch.io/zx-game-maker](https://juntelart.itch.io/zx-game-maker).
+* Mis pruebas de campo ⚫①
+* [Documentación oficial del proyecto 🌐🟡③](https://gm.retrojuegos.org/index.html)
+* [Repositorio de Github de ZX Game Maker 🌐🟡③](https://github.com/rtorralba/zx-game-maker) .
+* [Página de Itch.io del proyecto 🌐🟡③](https://juntelart.itch.io/zx-game-maker)
+- [Instalación de ZX Paintbrush en ZX Spectrum Game Maker (2024) 🟡③🌐](https://gm.retrojuegos.org/mydoc_install_image_editor.html) .- Explica por qué usar .zxp para tiles y atributos (ink/paper), y su integración con el tileset.
+- [Tutorial ZX Paintbrush en ZX Spectrum Game Maker (2024) 🟡③🌐](https://gm.retrojuegos.org/mydoc_zx_paintbrush.html) .- Guía básica sobre edición de tiles 8x8, colores ink/paper y peculiaridades ZX.
+- [ZX Spectrum Game Maker Overview (2023, actualizado 2025) 🟡③ 🌐](https://gm.retrojuegos.org) .- Confirma tiles como "cuadraditos para diseñar pantallas" y uso de ZX Paintbrush.
+- [Imágenes Base y Pantallas en ZX Spectrum Game Maker (2024) 🟡③🌐](https://gm.retrojuegos.org/mydoc_images_screens.html) .- Detalla edición de tilesets con ZX Paintbrush para pantallas.
+- [ZX Spectrum Game Maker en itch.io** (2023, actualizado) 🟡③ 🌐](https://juntelart.itch.io/zx-game-maker) .- Herramienta visual con Tiled y ZX Paintbrush para tiles. 
 
 ## Referencias que Refutan o Corrigen Aspectos del Contenido
 
@@ -110,13 +108,12 @@ Estas fuentes validan la estructura de tiles, edición con ZX Paintbrush y conce
 
 Aunque el enfoque de ZX Spectrum Game Maker es consistente, algunas fuentes cuestionan su rigidez (tiles fijos) frente a métodos más flexibles en ASM o engines alternos, o corrigen detalles como importación de imágenes. No hay refutaciones directas masivas, pero estas destacan limitaciones.
 
-- **Tutorial ZX-Paintbrush y BIFROST en World of Spectrum** (2012, vigente 2025). Muestra edición de tiles multicolores no estándar en ZX Paintbrush, refutando la limitación estricta a 2 colores por tile en setups básicos. Enlace: [https://worldofspectrum.org/forums/discussion/40773/tutorial-zx-paintbrush-and-bifrost](https://worldofspectrum.org/forums/discussion/40773/tutorial-zx-paintbrush-and-bifrost).
+- [Tutorial ZX-Paintbrush y BIFROST en World of Spectrum** (2012, vigente 2025) 🟡③ 🌐](https://worldofspectrum.org/forums/discussion/40773/tutorial-zx-paintbrush-and-bifrost) .- Muestra edición de tiles multicolores no estándar en ZX Paintbrush, refutando la limitación estricta a 2 colores por tile en setups básicos.
+- [Foro z88dk: RAGE1 Engine para ZX Spectrum (2023, activo) 🟡③ 🌐](https://z88dk.org/forum/viewtopic.php?t=11442) (Requiere cuenta de usuario gratuita) .-  Propone tiles dinámicos sin estructura fija, criticando la secuencialidad de sólidos/plataformas como restrictiva. 
+- [Vídeo: Spectrum Next Tilemaps (YouTube, 2020) 🟡③ 🌐](https://www.youtube.com/watch?v=Yl-rak1A4A0) .- Usa formatos flexibles sin .zxp, refutando dependencia de ZX Paintbrush para tiles avanzados. 
+- [Blog: "How To Write ZX Spectrum Games (2012, actualizado) 🟡③ 🌐](https://chuntey.wordpress.com/2012/12/18/how-to-write-zx-spectrum-games-chapter-1/) .- Enfatiza ASM sin tiles fijos, corrigiendo la simplificación de ZX Game Maker como no óptima para memoria. 
 
-- **Foro z88dk: RAGE1 Engine para ZX Spectrum** (2023, activo). Propone tiles dinámicos sin estructura fija, criticando la secuencialidad de sólidos/plataformas como restrictiva. Enlace: [https://z88dk.org/forum/viewtopic.php?t=11442](https://z88dk.org/forum/viewtopic.php?t=11442).
-
-- **Vídeo: Spectrum Next Tilemaps** (YouTube, 2020). Usa formatos flexibles sin .zxp, refutando dependencia de ZX Paintbrush para tiles avanzados. Enlace: [https://www.youtube.com/watch?v=Yl-rak1A4A0](https://www.youtube.com/watch?v=Yl-rak1A4A0).
-
-- **Blog: "H"ow To Write ZX Spectrum Games** (2012, actualizado). Enfatiza ASM sin tiles fijos, corrigiendo la simplificación de ZX Game Maker como no óptima para memoria. Enlace: [https://chuntey.wordpress.com/2012/12/18/how-to-write-zx-spectrum-games-chapter-1/](https://chuntey.wordpress.com/2012/12/18/how-to-write-zx-spectrum-games-chapter-1/).
+	> Pendiente aprobacion cuenta para poder chequear la fuente
 
 - **Foro Spectrum Computing: Moving Sprites** (2018, vigente). Recomienda herramientas alternativas a ZX Paintbrush para exportar bytes, cuestionando su enfoque para juegos complejos. Enlace: [https://spectrumcomputing.co.uk/forums/viewtopic.php?t=554&start=20](https://spectrumcomputing.co.uk/forums/viewtopic.php?t=554&start=20).
 

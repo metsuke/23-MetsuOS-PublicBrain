@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-20T18:26:37.682Z
+modified: 2025-09-21T04:11:19.985Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 104
+ver_rev: 105
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,17 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+![Mapper MXM-1 para NES](PublicBrain/_resources/b509ff5e74cba8051b33b79a5a8d4e02_MD5.jpg)
+
+## Noticias / El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits
+
+Septiembre de 2025 – En un año repleto de resurgimientos en el mundo del retrocomputing español, con momentos estelares como [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|la vuelta de Microhobby]] o el [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③|anuncio de Malasombra para NES]] , la comunidad global de desarrolladores homebrew está de enhorabuena con un avance técnico que promete cambiar las reglas del juego para la Nintendo Entertainment System (NES). 
+
+Continuar leyendo en ... [[Noticias - El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits 2025-09-20  🔴②]]
+
+--- column-end ---
 
 ![La importancia de la accesibilidad en videojuegos](PublicBrain/_resources/dcad9ee887e07c855af57163ccd0079a_MD5.jpg)
 ## A11Y: Definición y conceptos básicos: 
@@ -174,18 +185,6 @@ Continuar leyendo en ... [[Características principales del motor en CPCTelera �
 
 
  --- column-end ---
-
-
-![Reinterpretación libre de la portada del juego](_resources/ea6b896b9eb3da5e40a2786e6a616413_MD5.jpg)
-## Noticias / En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames
-
-Junio, 2025 – La comunidad de jugadores retro y coleccionistas de videojuegos está de celebración tras el anuncio de que la edición física de _Castle of Terror_, el nuevo título para Game Boy desarrollado por PCNONOGames. 
-
-Este lanzamiento, que combina nostalgia con un diseño innovador, ha generado gran expectación entre los aficionados a los videojuegos de 8 bits.
-
-Continuar leyendo en ... [[Noticias - En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 2025-06-11   🟡③]]
-
---- column-end ---
 
 
 ![Un joven Doc Brown y su Delorean](PublicBrain/_resources/6c4c122e32382d53cdde32d530ae51a4_MD5.jpeg)

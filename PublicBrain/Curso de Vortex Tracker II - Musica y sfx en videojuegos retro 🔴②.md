@@ -9,15 +9,16 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-08T04:53:38.258Z
-modified: 2025-09-20T04:26:19.275Z
+modified: 2025-09-21T04:35:59.847Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
+MOS_TopImg_Video: CursoVortexTrackerII.mp4
 ---
 # Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-08T20:26:42.009Z
-modified: 2025-08-14T21:07:28.420Z
+modified: 2025-09-21T22:15:23.044Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -50,19 +50,19 @@ Seguir leyendo en ... [[Curso de Tiled Capítulo 01 - Qué es Tiled Map Editor �
 
  --- column-end ---
 
+![Instalacion de Tiled](PublicBrain/_resources/fad16bb05874da0f4dbdd97bf07cd434_MD5.jpg)
+## Instalación y Configuración
 
+Vamos a sumergirnos de lleno en la instalación y puesta en marcha de Tiled, ese editor de mapas 2D de código abierto que se ha convertido en un aliado indispensable para tantos desarrolladores independientes. Imagina poder diseñar mundos enteros para tus juegos de rol, plataformas o puzles con una herramienta tan versátil y accesible. 
 
+Tiled te permite crear mapas basados en teselas de forma intuitiva, y aquí te guiaré paso a paso, desde la descarga hasta los trucos iniciales para que tu flujo de trabajo sea lo más fluido posible. Todo lo que verás se basa en la versión más actualizada disponible en este momento (Tiled 1.11.2, lanzada el 28 de enero de 2025), pero recuerda verificar el sitio oficial por si hay novedades.
 
+Seguir leyendo en ... [[Curso de Tiled Capítulo 02 - Instalación y Configuracion  🔴②]]
 
  --- column-end ---
 --- multi-column-end
 
-### 1.2 Instalación y Configuración
 
-- **Descarga**: Cómo obtener Tiled desde [mapeditor.org](https://www.mapeditor.org/).
-- **Instalación**: Guía para Windows, macOS y distribuciones Linux (AppImage, Flatpak, snap).
-- **Requisitos**: Dependencias del sistema, incluyendo Qt para compilaciones personalizadas.
-- **Primeros pasos**: Configuración inicial para un entorno de trabajo eficiente.
 
 ### 1.3 Explorando la Interfaz
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-21T04:11:19.985Z
+modified: 2025-09-21T22:17:02.753Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 105
+ver_rev: 106
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,17 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Instalacion de Tiled](PublicBrain/_resources/fad16bb05874da0f4dbdd97bf07cd434_MD5.jpg)
+## Curso Tiled / Instalación y Configuración
+
+Vamos a sumergirnos de lleno en la instalación y puesta en marcha de Tiled, ese editor de mapas 2D de código abierto que se ha convertido en un aliado indispensable para tantos desarrolladores independientes. Imagina poder diseñar mundos enteros para tus juegos de rol, plataformas o puzles con una herramienta tan versátil y accesible. 
+
+Tiled te permite crear mapas basados en teselas de forma intuitiva, y aquí te guiaré paso a paso, desde la descarga hasta los trucos iniciales para que tu flujo de trabajo sea lo más fluido posible. Todo lo que verás se basa en la versión más actualizada disponible en este momento (Tiled 1.11.2, lanzada el 28 de enero de 2025), pero recuerda verificar el sitio oficial por si hay novedades.
+
+Seguir leyendo en ... [[Curso de Tiled Capítulo 02 - Instalación y Configuracion  🔴②]]
+
+--- column-end ---
 
 ![Mapper MXM-1 para NES](PublicBrain/_resources/b509ff5e74cba8051b33b79a5a8d4e02_MD5.jpg)
 
@@ -113,18 +124,6 @@ Con tus botas de batalla como arma principal, te enfrentarás a zombis, esquelet
 Continuar leyendo en ... [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)]]
 
 --- column-end ---
-
-![Que es tiled](PublicBrain/_resources/78de386c4d6069241a37678bb849d52e_MD5.jpg)
-### Curso Tiled / Capítulo 01 - ¿Qué es Tiled Map Editor?
-
-En este capítulo, vamos a descubrir Tiled Map Editor, una herramienta potente y gratuita que te ayudará a dar forma a los niveles de tus juegos. Se ha convertido en un referente para desarrolladores independientes y aficionados que quieren materializar sus ideas sin gastar en software caro. 
-
-Es un punto de partida perfecto si estás empezando o si buscas pulir tus habilidades en el diseño de niveles, con una curva de aprendizaje amigable y resultados profesionales.
-
-Seguir leyendo en ... [[Curso de Tiled Capítulo 01 - Qué es Tiled Map Editor 🟡③]]
-
---- column-end ---
-
 
 ![Perseguido por un toro rojo en llamas](/PublicBrain/_resources/1b3140c423d487ad4c824f454db4a5b1_MD5.jpeg)
 ## Blog / El tiempo, resulta que si es oro

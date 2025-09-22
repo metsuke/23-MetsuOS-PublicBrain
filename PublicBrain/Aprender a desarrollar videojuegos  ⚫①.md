@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-09-08T04:45:45.970Z
+modified: 2025-09-22T05:17:32.581Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 27
 nav_primary:
 nav_secondary:
 tags:
@@ -52,7 +52,27 @@ Además, la comunidad de desarrolladores es un recurso invaluable, ofreciendo ap
 Number of Columns: 2
 Border: off
 ```
+![Curso de RetroX](PublicBrain/_resources/439e1ce07b8da71e3efc938988a5ea7e_MD5.jpg)
+## Curso de Retro-X
 
+Iniciamos hoy un curso sobre **Retro-X**, una aplicación para Windows de 32 bits abandonada en 2009, diseñada para la conversión, edición y gestión de gráficos para sistemas retro de 8 bits, como ZX Spectrum, SAM Coupé, Commodore 64 (C64), Atari XL/XE, Amstrad CPC, Sprinter 2000 y otros. 
+
+El curso se fundamenta en fuentes verificadas, como el README de la versión Alpha 8, el sitio web archivado del desarrollador (LCD), repositorios como World of Spectrum y discusiones en foros especializados en retrocomputing.
+
+Contuar leyendo en [[Curso de Retro-X 🔴②]]
+
+--- column-end ---
+
+![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
+## Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D
+
+Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta gratuita y de código abierto para diseñar mapas de niveles en videojuegos 2D. 
+
+Desde los fundamentos hasta técnicas avanzadas, aprenderás a crear mapas para juegos de plataformas, RPG y más, integrándolos en motores de juego populares. 
+
+Continua leyendo en ... [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
+
+--- column-end ---
 
 ![Curso de Vortex Tracker II](PublicBrain/_resources/2740c69eb84498d91a9034262df71e67_MD5.jpg)
 ## Curso de Vortex Tracker II
@@ -100,16 +120,6 @@ Continua leyendo en ... [[Tutorial de AGD 2018 Edition ⚫①]]
 
 --- column-end ---
 
-![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
-## Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D
-
-Este curso te guiará paso a paso en el uso de Tiled Map Editor, una herramienta gratuita y de código abierto para diseñar mapas de niveles en videojuegos 2D. 
-
-Desde los fundamentos hasta técnicas avanzadas, aprenderás a crear mapas para juegos de plataformas, RPG y más, integrándolos en motores de juego populares. 
-
-Continua leyendo en ... [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
-
---- column-end ---
 
 ![3791 juegos para dominarlos a todos](PublicBrain/_resources/5aa0f87e58ed967d1ecf571758c2a598_MD5.jpg)
 

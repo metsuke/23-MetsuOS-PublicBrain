@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-21T22:17:02.753Z
+modified: 2025-09-22T06:13:31.101Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 106
+ver_rev: 107
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,16 @@ Number of Columns: 2
 Border: off
 ```
 
+![Curso de RetroX](PublicBrain/_resources/439e1ce07b8da71e3efc938988a5ea7e_MD5.jpg)
+## Curso de Retro-X
+
+Iniciamos hoy un curso sobre **Retro-X**, una aplicación para Windows de 32 bits abandonada en 2009, diseñada para la conversión, edición y gestión de gráficos para sistemas retro de 8 bits, como ZX Spectrum, SAM Coupé, Commodore 64 (C64), Atari XL/XE, Amstrad CPC, Sprinter 2000 y otros. 
+
+El curso se fundamenta en fuentes verificadas, como el README de la versión Alpha 8, el sitio web archivado del desarrollador (LCD), repositorios como World of Spectrum y discusiones en foros especializados en retrocomputing.
+
+Contuar leyendo en [[Curso de Retro-X 🔴②]]
+
+--- column-end ---
 
 ![Instalacion de Tiled](PublicBrain/_resources/fad16bb05874da0f4dbdd97bf07cd434_MD5.jpg)
 ## Curso Tiled / Instalación y Configuración

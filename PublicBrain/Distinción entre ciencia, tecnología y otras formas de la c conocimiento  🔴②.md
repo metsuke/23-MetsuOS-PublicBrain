@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-27T19:50:54.389Z
-modified: 2025-04-27T22:03:15.128Z
+modified: 2025-09-23T05:54:00.637Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Distinción entre ciencia, tecnología y otras formas de la c conocimiento  🔴②
 
-[[Historia de la Ciencia y del Método Científico ⚫①]]
+[[Historia de la Ciencia y del Método Científico 🔴②]]
 
 ## Introducción
 

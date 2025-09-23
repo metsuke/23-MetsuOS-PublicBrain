@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Curso de Retro-X 🔴②.md",
+                "file": "PublicBrain/Historia de la Ciencia y del Método Científico 🔴②.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso de Retro-X 🔴②"
+              "title": "Historia de la Ciencia y del Método Científico 🔴②"
+            }
+          },
+          {
+            "id": "1c4e794e5ba3f418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Historia de la Ciencia y del Método Científico 🔴②.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Historia de la Ciencia y del Método Científico 🔴②"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,18 +217,21 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e8385e1fc8e7acb3",
+  "active": "1c4e794e5ba3f418",
   "lastOpenFiles": [
     "Novedades.md",
+    "KB.md",
+    "PublicBrain/Historia de la Ciencia y del Método Científico 🔴②.md",
+    "PublicBrain/HistoriaCienciaMetodoCientifico_000.jpg",
+    "HistoriaCienciaMetodoCientifico_000.jpg",
+    "PublicBrain/Curso de Retro-X 🔴②.md",
     "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "PublicBrain/Curs[[Curso de Retro-X 🔴②.md",
-    "PublicBrain/Curso de Retro-X 🔴②.md",
     "Curs[[Curso de Retro-X 🔴②.md",
     "PublicBrain/_resources/439e1ce07b8da71e3efc938988a5ea7e_MD5.jpg",
     "PublicBrain/CursoRetroX000.jpg",
     "PublicBrain/Que es Retro-X  ⚫①.md",
     "Que es Retro-X  ⚫①.md",
-    "KB.md",
     "Curs[[o de Retro-X  ⚫①.md",
     "Curso de Retro-X  ⚫①.md",
     "PublicBrain/Curso de Retro-X  ⚫①.md",
@@ -236,12 +254,9 @@
     "PublicBrain/A11Y_Introduccion.mp4",
     "PublicBrain/_resources/dcad9ee887e07c855af57163ccd0079a_MD5.jpg",
     "A11Y_Introduccion.mp4",
-    "A11Y - Definición y conceptos básicos.md",
     "PublicBrain/_resources/fb89498a19570fba6d7a5e8de0260eaa_MD5.jpg",
     "PublicBrain/_resources/7821ef3cc71e0589891fa589e7374e7d_MD5.jpg",
     "PublicBrain/_resources/87474c7281eab0f536fa358c6b04c8e2_MD5.jpg",
-    "PublicBrain/_resources/f0f7265d0f8dcee144cc88c76d8d34ea_MD5.jpeg",
-    "Captura de pantalla 2025-09-14 a las 4.46.03.png",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

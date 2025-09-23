@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T03:16:48.497Z
-modified: 2025-06-10T21:14:05.041Z
+modified: 2025-09-23T05:54:00.649Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
@@ -56,7 +56,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 * [[Paises más democráticos del mundo  ⚫①]]
 ### Estructura del Conocimiento
 
-* [[Historia de la Ciencia y del Método Científico ⚫①]]
+* [[Historia de la Ciencia y del Método Científico 🔴②]]
 * [[Historia de la Epistemología y su aplicación en la Ciencia 🔴②]]
 
 	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-09-08T00:48:57.560Z
+modified: 2025-09-23T06:18:44.630Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 26
+ver_rev: 27
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,17 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Galileo, Newton, y Einstein](HistoriaCienciaMetodoCientifico_000.jpg)
+## Historia de la Ciencia y del Método Científico
+
+La ciencia representa una de las aventuras más fascinantes de la humanidad, un proceso sistemático para comprender el mundo que nos rodea. El método científico, por su parte, es el conjunto de pasos lógicos y rigurosos que guían esta exploración, evolucionando a lo largo de los siglos. 
+
+En esta sección, exploraremos los conceptos básicos sobre la ciencia y su desarrollo histórico, distinguiendo entre ciencia pura, tecnología aplicada y otras formas de conocimiento, como la filosofía o la tradición oral.
+
+Continuar leyendo en ... [[Historia de la Ciencia y del Método Científico 🔴②]]
+
+--- column-end ---
 
 ![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)
 ## Aprendeizaje basado en evidencia

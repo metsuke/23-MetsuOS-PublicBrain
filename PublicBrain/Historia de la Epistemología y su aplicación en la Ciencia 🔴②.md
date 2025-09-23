@@ -1,25 +1,29 @@
 ---
 iaStatus: 8
-iaStatus_Model: Grok-3
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Model: Grok-3, Raúl Carrillo aka Metsuke
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-04-23T18:16:28.303Z
-modified: 2025-04-27T22:03:16.179Z
+modified: 2025-09-23T09:51:04.729Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
-nav_primary: 
-nav_secondary: 
+ver_rev: 4
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: HistoriaEpistemologia_000.mp4
 ---
 # Historia de la Epistemología y su aplicación en la Ciencia 🔴②
+
+
+![Desde la filosofia al metodo cientifico](PublicBrain/_resources/94759bd7da14db78910fc5b1f76c941f_MD5.jpg)
 
 [[PublicBrain/Index|Index]]
 
@@ -236,9 +240,9 @@ Te invito a un fascinante recorrido por la historia de la epistemología, desde 
 
 Este contenido ofrece un viaje completo a través de la historia de la epistemología, desde sus orígenes filosóficos hasta su aplicación en los desafíos científicos de hoy. Al combinar teoría, análisis histórico y casos prácticos, nos prepara para pensar críticamente sobre el conocimiento y su impacto en la ciencia y la sociedad. Su estructura flexible permite adaptarlo a distintos niveles educativos y objetivos, convirtiéndolo en una herramienta valiosa para estudiantes y profesionales interesados en la filosofía y la ciencia.
 
-## Referencias bibliográficas
+## Referencias bibliográficas que apoyan el contenido
 
-### Apoyo al contenido
+> WIP Revisando Fuentes
 
 - [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
     - Obra clave que introduce el concepto de paradigma y su influencia en el progreso científico.
@@ -247,7 +251,9 @@ Este contenido ofrece un viaje completo a través de la historia de la epistemol
 - Hacking, I. (1999). _The Social Construction of What?_. Cambridge, MA: Harvard University Press.
     - Analiza la construcción social del conocimiento científico, conectando con debates epistemológicos contemporáneos.
 
-### Críticas o perspectivas alternativas
+## Referencias bibliográficas que críticas o perspectivas alternativas
+
+> WIP Revisando Fuentes
 
 - Popper, K. (1963). _Conjeturas y refutaciones_. Londres: Routledge.
     - Cuestiona el modelo de paradigmas de Kuhn, defendiendo el falsacionismo como motor del avance científico.

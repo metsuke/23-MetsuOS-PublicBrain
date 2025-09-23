@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Historia de la Ciencia y del Método Científico 🔴②.md",
+                "file": "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Historia de la Ciencia y del Método Científico 🔴②"
+              "title": "Historia de la Epistemología y su aplicación en la Ciencia 🔴②"
             }
           },
           {
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "Historia de la Epistemología y su aplicación en la Ciencia 🔴②"
+            }
+          },
+          {
+            "id": "05f7af6436286a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KB"
             }
           }
         ],
@@ -219,11 +233,13 @@
   },
   "active": "1c4e794e5ba3f418",
   "lastOpenFiles": [
-    "PublicBrain/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③.md",
-    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
-    "PublicBrain/Historia de la Ciencia y del Método Científico 🔴②.md",
-    "Novedades.md",
     "KB.md",
+    "Novedades.md",
+    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/Historia de la Ciencia y del Método Científico 🔴②.md",
+    "PublicBrain/_resources/94759bd7da14db78910fc5b1f76c941f_MD5.jpg",
+    "PublicBrain/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③.md",
     "PublicBrain/HistoriaCienciaMetodoCientifico_000.jpg",
     "HistoriaCienciaMetodoCientifico_000.jpg",
     "PublicBrain/Curso de Retro-X 🔴②.md",
@@ -250,13 +266,11 @@
     "PublicBrain/_resources/b509ff5e74cba8051b33b79a5a8d4e02_MD5.jpg",
     "PublicBrain/Noticias - En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 2025-06-11   🟡③.md",
     "Noticias - El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits 2025-09-20  🔴②.md",
-    "PublicBrain/Aprender sobre Accesibilidad basada en evidencia 🟡③.md",
     "PublicBrain/A11Y_Introduccion.mp4",
     "PublicBrain/_resources/dcad9ee887e07c855af57163ccd0079a_MD5.jpg",
     "A11Y_Introduccion.mp4",
     "PublicBrain/_resources/fb89498a19570fba6d7a5e8de0260eaa_MD5.jpg",
     "PublicBrain/_resources/7821ef3cc71e0589891fa589e7374e7d_MD5.jpg",
-    "PublicBrain/_resources/87474c7281eab0f536fa358c6b04c8e2_MD5.jpg",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",

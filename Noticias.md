@@ -9,17 +9,18 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-20T21:30:41.860Z
+modified: 2025-09-30T10:16:13.046Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 30
+ver_rev: 33
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Noticias
+App# Noticias
 
 
 --- start-multi-column: BloqueNoticias
@@ -27,6 +28,15 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![La fascinación de los jovenes de la epoca fue en gran medida causa de la explosión de creatividad](PublicBrain/_resources/0421c55bbeaf20da12cea23d867c8687_MD5.jpg)
+## Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla
+
+Septiembre, 2025 - "Durante más de **cuatro décadas**, la historia de la industria española del videojuego ha permanecido sistemáticamente **invisibilizada**. Este oscurecimiento no ocurrió por accidente ni por casualidad, sino que fue el resultado de **decisiones conscientes** que han privado a varias generaciones de conocer su propio **patrimonio cultural y tecnológico**. Este legado, incluso en la actualidad, ha sido en muchos casos **demonizado**." no puedo estar mas de acuerdo con la declaración de intenciones de esta serie documental, cuyo primer capítulo ha sido liberado.
+
+Continuar leyendo en ... [[Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③]]
+
+--- column-end ---
 
 ![Mapper MXM-1 para NES](PublicBrain/_resources/b509ff5e74cba8051b33b79a5a8d4e02_MD5.jpg)
 

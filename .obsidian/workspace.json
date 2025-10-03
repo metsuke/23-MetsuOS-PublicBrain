@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a16eba9f706bbb60",
+        "id": "3f5289aefee0596a",
         "type": "tabs",
         "children": [
           {
-            "id": "e8385e1fc8e7acb3",
+            "id": "8072968bf90cd9ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
+                "file": "PublicBrain/MiniQuest - Sobre si hubo o no escasez de monedas de 100 yenes en Japon por el exito del arcade space invaders 🔴②.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Historia de la Epistemología y su aplicación en la Ciencia 🔴②"
-            }
-          },
-          {
-            "id": "1c4e794e5ba3f418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Historia de la Epistemología y su aplicación en la Ciencia 🔴②"
-            }
-          },
-          {
-            "id": "05f7af6436286a53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KB"
+              "title": "MiniQuest - Sobre si hubo o no escasez de monedas de 100 yenes en Japon por el exito del arcade space invaders 🔴②"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AGD",
+                "query": "noticias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +98,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -231,46 +203,46 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1c4e794e5ba3f418",
+  "active": "8072968bf90cd9ca",
   "lastOpenFiles": [
-    "KB.md",
-    "Novedades.md",
-    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
+    "PublicBrain/Análisis Psicohistórico de la Escasez de Monedas de 100 Yenes Asociada a Space Invaders  ⚫①.md",
+    "PublicBrain/MiniQuest - Sobre si hubo o no escasez de monedas de 100 yenes en Japon por el exito del arcade space invaders 🔴②.md",
+    "PublicBrain/_resources/251b36b8c18397aeb5b3d48e3f7e7e85_MD5.jpg",
+    "PublicBrain/SpaceInvadersMonedas100YenesJaponPsicohistoria.jpg",
+    "Análisis Psicohistórico de la Escasez de Monedas de 100 Yenes Asociada a Space Invaders  ⚫①.md",
+    "PublicBrain/_resources/24dea0cd160401a8b696400581cc2da0_MD5.jpg",
     "PublicBrain/Index.md",
-    "PublicBrain/Historia de la Ciencia y del Método Científico 🔴②.md",
-    "PublicBrain/_resources/94759bd7da14db78910fc5b1f76c941f_MD5.jpg",
-    "PublicBrain/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③.md",
-    "PublicBrain/HistoriaCienciaMetodoCientifico_000.jpg",
-    "HistoriaCienciaMetodoCientifico_000.jpg",
+    "Index.md",
+    "MiniQuest - Hubo escasez de monedas de 100 yen en Japon por el exito del arcade space invaders o no  ⚫①.md",
+    "PublicBrain/Noticias - Estreno del Episodio 1 de \"Cinco Duros\" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③.md",
+    "Noticias.md",
+    "Apps.md",
+    "_resources/4b08d9c1c1d378d5df3ac0dd6de347a0_MD5.jpg",
+    "_resources/44c1f46d745c51f385f88f004bec044a_MD5.jpg",
+    "_resources/153129cb093b963dcb3c314f5f80c977_MD5.jpg",
     "PublicBrain/Curso de Retro-X 🔴②.md",
+    "PublicBrain/Apps.md",
+    "Noticias 1.md",
+    "PublicBrain/Noticias 1.md",
+    "Novedades.md",
+    "Juegos.md",
+    "PublicBrain/anuncio 2 (1).jpg",
+    "anuncio 2 (1).jpg",
+    "PublicBrain/Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③.md",
+    "PublicBrain/_resources/55c9471b1cdeb36a02d48aa39afc4293_MD5.jpg",
+    "PublicBrain/_resources/3f3b4050a7a9894652dda2b1c71c6da3_MD5.jpg",
+    "PublicBrain/Untitled.canvas",
+    "Untitled.md",
+    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
+    "KB.md",
+    "PublicBrain/Noticias - En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 2025-06-11   🟡③.md",
+    "PublicBrain/Aprender con Imre Lakatos 🔴②.md",
+    "PublicBrain/Historia de la Ciencia y del Método Científico 🔴②.md",
+    "PublicBrain/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③.md",
     "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "PublicBrain/Curs[[Curso de Retro-X 🔴②.md",
-    "Curs[[Curso de Retro-X 🔴②.md",
-    "PublicBrain/_resources/439e1ce07b8da71e3efc938988a5ea7e_MD5.jpg",
-    "PublicBrain/CursoRetroX000.jpg",
-    "PublicBrain/Que es Retro-X  ⚫①.md",
-    "Que es Retro-X  ⚫①.md",
-    "Curs[[o de Retro-X  ⚫①.md",
-    "Curso de Retro-X  ⚫①.md",
-    "PublicBrain/Curso de Retro-X  ⚫①.md",
-    "PublicBrain/Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①.md",
-    "PublicBrain/Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①.md",
-    "PublicBrain/Curso de Tiled Capítulo 02 - Instalación y Configuracion  🔴②.md",
-    "PublicBrain/Curso de Tiled Capítulo 01 - Qué es Tiled Map Editor 🟡③.md",
-    "PublicBrain/_resources/fad16bb05874da0f4dbdd97bf07cd434_MD5.jpg",
-    "Curso de Tiled Capítulo 02 - Instalación y Configuracion  🔴②.md",
-    "PublicBrain/Curso de Visual bB ⚫①.md",
-    "PublicBrain/Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②.md",
-    "Noticias.md",
-    "PublicBrain/Noticias - El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits 2025-09-20  🔴②.md",
-    "PublicBrain/_resources/b509ff5e74cba8051b33b79a5a8d4e02_MD5.jpg",
-    "PublicBrain/Noticias - En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 2025-06-11   🟡③.md",
-    "Noticias - El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits 2025-09-20  🔴②.md",
     "PublicBrain/A11Y_Introduccion.mp4",
-    "PublicBrain/_resources/dcad9ee887e07c855af57163ccd0079a_MD5.jpg",
     "A11Y_Introduccion.mp4",
-    "PublicBrain/_resources/fb89498a19570fba6d7a5e8de0260eaa_MD5.jpg",
-    "PublicBrain/_resources/7821ef3cc71e0589891fa589e7374e7d_MD5.jpg",
     "PublicBrain/metsuke.com",
     "metsuke.com",
     "PublicBrain/_resources/Revista - RetroGamer España 045 - 2023-Sep 🔴②",
@@ -279,7 +251,6 @@
     "PublicBrain/_resources/IMetsuOS Contenido Archivado",
     "PublicBrain/_resources/Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🔴②",
     "_resources/Novedades",
-    "Untitled.canvas",
-    "PublicBrain/Untitled.canvas"
+    "Untitled.canvas"
   ]
 }

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-09-16T21:25:23.167Z
+modified: 2025-10-03T05:17:05.131Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 220
+ver_rev: 222
 nav_primary:
 nav_secondary:
 tags:
@@ -36,6 +36,10 @@ MOS_TopImg_Video: PublicBrain.mp4
 * [[MicroTutorial - Grafx2 con modos spectrum ⚫①]]
 
 ### MiniQuests
+
+#### Historia del Videojuego
+
+- [[MiniQuest - Sobre si hubo o no escasez de monedas de 100 yenes en Japon por el exito del arcade space invaders 🔴②]]
 
 #### Modo Radastan
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-23T10:02:41.940Z
+modified: 2025-09-28T20:05:28.930Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 109
+ver_rev: 111
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,15 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![La fascinación de los jovenes de la epoca fue en gran medida causa de la explosión de creatividad](PublicBrain/_resources/0421c55bbeaf20da12cea23d867c8687_MD5.jpg)
+## Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla
+
+Septiembre, 2025 - "Durante más de **cuatro décadas**, la historia de la industria española del videojuego ha permanecido sistemáticamente **invisibilizada**. Este oscurecimiento no ocurrió por accidente ni por casualidad, sino que fue el resultado de **decisiones conscientes** que han privado a varias generaciones de conocer su propio **patrimonio cultural y tecnológico**. Este legado, incluso en la actualidad, ha sido en muchos casos **demonizado**." no puedo estar mas de acuerdo con la declaración de intenciones de esta serie documental, cuyo primer capítulo ha sido liberado.
+
+Continuar leyendo en ... [[Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③]]
+
+--- column-end ---
 
 ![Desde la filosofia al metodo cientifico](PublicBrain/_resources/94759bd7da14db78910fc5b1f76c941f_MD5.jpg)
 
@@ -70,16 +79,6 @@ Vamos a sumergirnos de lleno en la instalación y puesta en marcha de Tiled, ese
 Tiled te permite crear mapas basados en teselas de forma intuitiva, y aquí te guiaré paso a paso, desde la descarga hasta los trucos iniciales para que tu flujo de trabajo sea lo más fluido posible. Todo lo que verás se basa en la versión más actualizada disponible en este momento (Tiled 1.11.2, lanzada el 28 de enero de 2025), pero recuerda verificar el sitio oficial por si hay novedades.
 
 Seguir leyendo en ... [[Curso de Tiled Capítulo 02 - Instalación y Configuracion  🔴②]]
-
---- column-end ---
-
-![Mapper MXM-1 para NES](PublicBrain/_resources/b509ff5e74cba8051b33b79a5a8d4e02_MD5.jpg)
-
-## Noticias / El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits
-
-Septiembre de 2025 – En un año repleto de resurgimientos en el mundo del retrocomputing español, con momentos estelares como [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|la vuelta de Microhobby]] o el [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③|anuncio de Malasombra para NES]] , la comunidad global de desarrolladores homebrew está de enhorabuena con un avance técnico que promete cambiar las reglas del juego para la Nintendo Entertainment System (NES). 
-
-Continuar leyendo en ... [[Noticias - El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits 2025-09-20  🔴②]]
 
 --- column-end ---
 

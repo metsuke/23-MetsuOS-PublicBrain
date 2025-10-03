@@ -1,25 +1,28 @@
 ---
 iaStatus: 8
-iaStatus_Model: Grok-3
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Model: Grok-3, Raúl Carrillo aka Metsuke
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-04-20T14:28:53.926Z
-modified: 2025-04-20T14:30:34.832Z
+modified: 2025-09-24T06:09:08.773Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
-nav_primary: 
-nav_secondary: 
+ver_rev: 2
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: ImreLakatos_000.mp4
 ---
 # Aprender con Imre Lakatos 🔴②
+
+![Estudiando la obra de Imre Lakatos](PublicBrain/_resources/2783280c365b4a3ee103b7baa7894998_MD5.jpg)
 
 [[Aprender con G-L ⚫①]]
 
@@ -315,6 +318,8 @@ Estudiar a Imre Lakatos es una aventura intelectual que combina filosofía, hist
 
 ### 7.1. Fuentes que Apoyan el Contenido
 
+> WIP Revisando Fuentes
+
 1. **Hacking, I. (1979). “Imre Lakatos’s Philosophy of Science”. _British Journal for the Philosophy of Science_, 30(4), 381-402.**
     - Apoya la relevancia de la MPIC como un avance sobre el falsacionismo de Popper, destacando su capacidad para explicar el progreso científico.
 2. **Musgrave, A. (1976). “Method or Madness?”. En _Method and Appraisal in the Physical Sciences_ (ed. Lakatos y Latsis). Cambridge University Press.**
@@ -325,6 +330,8 @@ Estudiar a Imre Lakatos es una aventura intelectual que combina filosofía, hist
     - Proporciona una visión accesible de la vida y obra de Lakatos, respaldando la estructura biográfica y filosófica de esta guía.
 
 ### 7.2. Fuentes que Refutan o Matizan el Contenido
+
+> WIP Revisando Fuentes
 
 1. **Feyerabend, P. (1975). _Against Method_. New Left Books.**
     - Critica la insistencia de Lakatos en criterios racionales, argumentando que la ciencia avanza de manera más anárquica y menos estructurada que lo propuesto por la MPIC.

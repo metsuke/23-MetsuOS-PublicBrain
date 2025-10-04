@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-27T08:43:05.724Z
-modified: 2025-10-03T04:00:45.051Z
+modified: 2025-10-04T03:33:48.356Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 13
+ver_rev: 14
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -146,10 +146,8 @@ Por otro lado, es hora de reclamar el lugar del Videojuego Hispano, máxime en e
 - Entrevistas exclusivas en el episodio (e.g., Paco Pastor, Fernando Rada "Radastan" 🟡③
 - [[Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]
 - [Hilo de @recurnco en X sobre CPS Hispano 🟡③ 🌐](https://x.com/Recuenco/status/1971825115165028522). 
-- 
-- New Scientist. (1980, 18-25 December). Technology: The games that aliens play. New Scientist, 88(1232–1233), 782. ISSN 0262-4079. - https://www.amazon.com/Scientist-Magazine-1980-Numbers-1221-1233/dp/B000YQAESS
 ### Fuentes que refutan o critican el contenido
 
-- Ninguna fuente verificable disponible en esta fase inicial del estreno.
+-  [[MiniQuest - Sobre si hubo o no escasez de monedas de 100 yenes en Japon por el exito del arcade space invaders 🔴②]]
 
 ![[Plantilla - 1MT#One More Thing]]

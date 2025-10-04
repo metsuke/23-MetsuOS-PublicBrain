@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-10-03T04:02:39.404Z
-modified: 2025-10-03T05:13:05.609Z
+modified: 2025-10-04T03:34:23.979Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: "0"
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -27,16 +27,17 @@ MOS_TopImg_Video: SpaceInvadersMonedas100YenesJapon.mp4
 * [[Index]]
 * [[Análisis Psicohistórico de la Escasez de Monedas de 100 Yenes Asociada a Space Invaders  ⚫①]]
 
+---
+
 > Ojo WIP Revision de fuentes, de datos bibliográficos, de analisis estadísticos... de todo en general.
 
 *Un análisis Exhaustivo sobre la Posible Escasez de Monedas de 100 Yenes en Japón Asociada al Éxito de Space Invaders*
 
 Este estudio examina las afirmaciones sobre una escasez de monedas de 100 yenes provocada por el arcade *Space Invaders* (lanzado por Taito en junio de 1978), incorporando análisis estadísticos cuantitativos de datos de producción monetaria, revisión detallada de reportes periodísticos contemporáneos, consultas oficiales, entrevistas y evaluaciones de cada fuente listada. 
 
-Evito presuposiciones sobre la veracidad; las conclusiones emergen estrictamente de los datos y aporto cálculos estadísticos (usando regresiones lineales, t-tests, coeficientes de correlación y desviaciones estándar para evaluar variabilidad y causalidad.
+Evito presuposiciones sobre la veracidad; las conclusiones emergen estrictamente de los datos y aporto cálculos estadísticos (usando regresiones lineales, t-tests, coeficientes de correlación y desviaciones estándar para evaluar variabilidad y causalidad),
 
-También quiero hacer constar que este estudio es un documento
-vivo, según mejore mi técnica de análisis, puede que mute y varie, el texto actual refleja el State of the art de mi capacidad de analisis y por extensión la de #MetsuOS
+También quiero hacer constar que este estudio es un documento vivo, según mejore mi técnica de análisis, puede que mute y varie, el texto actual refleja el State of the art de mi capacidad de analisis y por extensión la de #MetsuOS, hoy.
 
 ## Contexto Histórico: Lanzamiento y Popularidad de *Space Invaders*
 
@@ -53,6 +54,7 @@ vivo, según mejore mi técnica de análisis, puede que mute y varie, el texto a
 - YouTube "Retro Game Facts" (2024): Afirma escasez por acaparamiento de jugadores; fuentes no citadas; validez divulgativa, afirmativa sin counterpoints.
 - Donovan (2010, extractos en Bookey.app): Enfocado en boom cultural; repite historia de escasez como anécdota, pero lo califica de posible leyenda urbana.
 
+---
 ## Afirmaciones en la Prensa: Orígenes de los Reportes sobre Escasez
 
 Las primeras menciones de escasez surgen en reportes periodísticos de 1979-1980, atribuyendo problemas a monedas "atrapadas" en máquinas o hoarding por jugadores (clippings en blog "Golden Age", 2013; *New Scientist*, 1980, extraído de búsquedas web).

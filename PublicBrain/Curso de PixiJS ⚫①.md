@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.574Z
-modified: 2025-09-20T05:01:42.453Z
+modified: 2025-10-04T03:05:54.634Z
 supervisado: 2024-06-03T19:56:58.184Z
 ACCION: 
 ver_major: 0
 ver_minor: 4
-ver_rev: 121
+ver_rev: 122
 nav_primary: 
 nav_secondary: 
 tags:
@@ -103,7 +103,7 @@ Border: off
 
 ![Imagenes y Texturas en PixiJS](PublicBrain/_resources/fb89498a19570fba6d7a5e8de0260eaa_MD5.jpg)
 
-## Carga y gestion de imágenes y texturas
+## Carga y gestion de imágenes y texturas*
 
 En este capítulo, vamos a sumergirnos de forma exhaustiva y detallada en cómo cargar, crear, gestionar y optimizar estas imágenes y texturas en PixiJS. 
 
@@ -113,7 +113,17 @@ Continuar leyendo en ... [[Carga y gestión de imágenes y texturas (PixiJS) �
 
  --- column-end ---
 
-* [[Creación y manipulación de sprites en PixiJS 🔴②]]
+![PixiJS Trabajo con Sprites](PublicBrain/_resources/3c671f8c502b676c4341adde15035570_MD5.jpg)
+## Creación y manipuilación de sprites en PixiJS*
+
+Vamos a sumergirnos en profundidad y de forma detallada en la creación y manipulación de sprites. PixiJS es una biblioteca de JavaScript muy potente para renderizar gráficos 2D interactivos directamente en el navegador. 
+
+Los sprites son uno de sus elementos clave, ya que permiten crear visuales dinámicos en juegos, animaciones o apps interactivas. Básicamente, un sprite es una imagen o textura que puedes posicionar, escalar, rotar y modificar a tu antojo en el escenario (stage).
+
+Continuar leyendo en ... [[Creación y manipulación de sprites en PixiJS 🔴②]]
+
+--- column-end ---
+
 * [[Anidando sprites y creando escenas interactivas 🔴②]]
 * [[Aplicando transformaciones y animaciones a sprites (PixiJS) 🔴②]]
 

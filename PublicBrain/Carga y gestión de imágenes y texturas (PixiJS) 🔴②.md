@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-07T07:43:18.747Z
-modified: 2025-09-20T06:44:11.871Z
+modified: 2025-10-04T03:29:00.050Z
 supervisado: 2024-05-27T13:38:00.569Z
 ACCION:
 ver_major: 0
 ver_minor: 4
-ver_rev: 12
+ver_rev: 13
 nav_primary:
 nav_secondary:
 tags:
@@ -25,7 +25,7 @@ MOS_TopImg_Video: CursoPixiJS_ImagenesTexturas.mp4
 ![Imagenes y Texturas en PixiJS](PublicBrain/_resources/fb89498a19570fba6d7a5e8de0260eaa_MD5.jpg)
 
  * [[Curso de PixiJS ⚫①]]
-* [[Dibujando formas básicas y gráficos (PixiJS) 🟡③|<< Anterior]] |  [[Carga y gestión de imágenes y texturas (PixiJS) 🔴②|Siguiente >>]]]]
+* [[Dibujando formas básicas y gráficos (PixiJS) 🟡③|<< Anterior]] |  [[Creación y manipulación de sprites en PixiJS 🔴②|Siguiente >>]]
 
 > WIP: Revisando Fuentes
 

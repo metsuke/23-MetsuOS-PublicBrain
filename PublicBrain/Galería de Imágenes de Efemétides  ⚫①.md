@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-10T00:52:13.075Z
-modified: 2025-07-21T05:39:24.033Z
+modified: 2025-10-06T19:48:09.144Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -52,7 +52,9 @@ Un collage con algunos de los juegos más conocidos de la plataforma
 
 ![HeaderLanzamientoSegaSaturn](PublicBrain/_resources/1a94d0a2680b966e8fbbba71cd81179c_MD5.jpeg)
 
-
+* 11/05 a 17/05 .- Lanzamiento de Sega Saturn en Norteamérica (1995)
+* 08/07 a 13/07 .- Lanzamiento de Sega Saturn en España (1995)
+* 22/11 a 28/11 .- [Lanzamiento de Sega Saturn en Japón (1994) - Preview](https://metsuke.com/?test_date=Nov_22)
 
 ¡Casi puedo ver el cabinet de MetsuOS con todas estas imágenes en rotación al estilo Protector de Pantalla!
 

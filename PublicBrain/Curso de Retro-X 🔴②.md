@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-22T05:18:18.593Z
-modified: 2025-10-04T14:33:52.788Z
+modified: 2025-10-06T19:42:20.880Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -223,7 +223,7 @@ Participa en comunidades como **World of Spectrum**, **CPCWiki** o el subreddit 
 Las siguientes fuentes, verificadas y contrastables, confirman la existencia, características y contexto de Retro-X:
 
 1. [Grussu, Alessandro (2022). _Spectrumpedia - English Edition - Volume 1_. Idra Editing Srl. ISBN: B0BQ9RQV5M 🌐 🟡③](https://spectrumcomputing.co.uk/entry/2001471/Book/Spectrumpedia) .- Describe Retro-X como una herramienta clave para conversión de gráficos ZX, destacando su rol en la preservación.
-2. **World of Spectrum (2025).** Archivo de utilidades para ZX Spectrum, con descarga de Retro-X Alpha 8 (853 KB). Disponible en: [World of Spectrum - Utilities](https://worldofspectrum.net/utilities/). Valida la disponibilidad y descripción de Retro-X como suite de conversión y edición.
+2. [World of Spectrum (2025). Archivo de utilidades para ZX Spectrum 🌐🟡③](https://worldofspectrum.net/utilities/) .- Con descarga de Retro-X Alpha 8 (853 KB), Valida la disponibilidad y descripción de Retro-X como suite de conversión y edición.
 3. **LCD (2010).** Sitio web archivado de Retro-X. Disponible en: [Web Archive - Retro-X](https://web.archive.org/web/20100201000000/http://members.inode.at/838331/retrox.html). Confirma características como Painter, Converter y el estado alpha, coincidiendo con el README proporcionado.
 4. **The Retro Collective (2015).** "How to make ZX Spectrum graphics on a PC" [Vídeo]. YouTube. Disponible en: [YouTube](https://www.youtube.com/watch?v=-RgjyezdsqU). Explica el uso de herramientas como Retro-X para crear gráficos Spectrum en PC, apoyando su relevancia histórica.
 

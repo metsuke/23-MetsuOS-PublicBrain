@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-08T04:53:38.258Z
-modified: 2025-09-21T04:35:59.847Z
+modified: 2025-10-06T17:43:42.558Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -116,10 +116,11 @@ Estas fuentes respaldan la utilidad de Vortex Tracker II para la creación de m�
 - [Garvalf. (s.f.). Manual for Vortex Tracker II 🟡③ 🌐](http://garvalf.online.fr/index.php?page=articles_vortex_tracker.en) .- Guía detallada para principiantes. 
 - [Dansby, A. (2022). 128k Programming basics – Vortex Tracker part 1 🟡③ 🌐](https://zxspectrumcoding.wordpress.com/2022/01/01/128k-programming-basics-vortex-tracker-part-1/) .- Tutorial de integración en ZX Spectrum. 
 - [Battle of the Bits. (s.f.). Vortex Tracker II 🟡③ 🌐](https://battleofthebits.com/lyceum/View/Vortex%2BTracker%2BII) .- Artículo en la wiki de la comunidad chiptune. 
+- - [Chechu Rolemusic. (2021). Vortex Tracker II tutorial oldschool 🌐🟡③](https://www.youtube.com/watch?v=6ZYjzqUOnpM) .- Un buen tutorial de manejo de Vortex Tracker II.
 
 > WIP Validando Fuentes
 
-- Chechu Rolemusic. (2021). *Vortex Tracker II tutorial oldschool* [Vídeo]. YouTube. Disponible en: https://www.youtube.com/watch?v=6ZYjzqUOnpM.
+
 - em00k. (2017). *Vortex Tracker simple tutorial 1* [Vídeo]. YouTube. Disponible en: https://www.youtube.com/watch?v=CsInbfXy04A.
 - ChipMusic.org. (2010). *Vortex Tracker II tutorial*. Hilo de foro con guía básica. Disponible en: https://chipmusic.org/forums/topic/27/vortex-tracker-ii-tutorial/.
 - oisee. (2015-2025). *Vortex Tracker Improved*. Repositorio GitHub con versión mejorada. Disponible en: https://github.com/oisee/vti.

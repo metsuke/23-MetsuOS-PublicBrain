@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-10-03T05:17:05.131Z
+modified: 2025-10-06T16:23:51.940Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 222
+ver_rev: 223
 nav_primary:
 nav_secondary:
 tags:
@@ -79,6 +79,7 @@ MOS_TopImg_Video: PublicBrain.mp4
 ### Epistemología
 
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
+* [[Historia de la Ciencia y del Método Científico 🔴②]]
 
 ## Ciencia
 
@@ -152,6 +153,7 @@ WIP
 
 ### Noticias
 
+* [[Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③]]
 * [[Noticias - En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 2025-06-11   🟡③]]
 * [[Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③]]
 * [[Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]

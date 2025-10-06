@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-03-29T22:03:57.697Z
-modified: 2025-09-23T05:54:00.495Z
+modified: 2025-10-06T16:27:55.633Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary:
 nav_secondary:
 tags:
@@ -152,7 +152,7 @@ La historia de la ciencia revela una mezcla de continuidad y rupturas, ofreciend
 
 > WIP Rrevisando fuentes
 
-- **Libro: La estructura de las revoluciones científicas** de Thomas Kuhn (1962). Apoya la sección de filosofía de la ciencia, especialmente los paradigmas. Enlace: [Wikipedia - La estructura de las revoluciones científicas](https://es.wikipedia.org/wiki/La_estructura_de_las_revoluciones_cient%C3%ADficas) (versión en español disponible en editoriales como Fondo de Cultura Económica).
+- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]].- Apoya la sección de filosofía de la ciencia, especialmente los paradigmas.
 - **Libro: Una pequeña historia de la ciencia** de William Bynum. Cubre orígenes y desarrollo histórico de la ciencia. Enlace: [PDF disponible](https://cursoshistoriavdemexico.files.wordpress.com/2019/07/bynum-william-una-pequec3b1a-historia-de-la-ciencia.pdf).
 - **Libro: Historia de la ciencia** editado por Elías Trabulse (1991). Apoya secciones medievales y renacentistas. Enlace: [PDF en CLACSO](https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/250736/1/Historia-de-la-ciencia.pdf).
 - **Vídeo: El MÉTODO CIENTÍFICO: Definición, etapas y ejemplos** (YouTube). Explica el método científico con ejemplos históricos. Enlace: [YouTube](https://www.youtube.com/watch?v=MN10KQyvUz0).

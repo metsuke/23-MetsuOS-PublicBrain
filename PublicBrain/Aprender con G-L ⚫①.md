@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.503Z
-modified: 2025-04-20T14:28:59.943Z
+modified: 2025-10-06T16:51:00.764Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 66
+ver_rev: 67
 nav_primary: 
 nav_secondary: 
 tags:
@@ -53,7 +53,7 @@ tags:
 
 ## L
 - Laborda, Jorge: Aprender con Jorge Laborda Fernández
-- Lakatos, Imre: [[Aprender con Imre Lakatos 🔴②]]
+- Lakatos, Imre: [[Estudiar Autor - Imre Lakatos 🔴②]]
 - Ladam, Sani: [[Aprender con Sani Ladam  ⚫①]]
 - Lencero Guillermo, Rosa: Aprender con Rosa Lencero Guillermo
     

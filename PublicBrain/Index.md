@@ -112,7 +112,7 @@ MOS_TopImg_Video: PublicBrain.mp4
 
 ### Autores
 
-WIP
+* [[Estudiar Autor - Imre Lakatos 🔴②]]
 
 ### Bibliografía
 

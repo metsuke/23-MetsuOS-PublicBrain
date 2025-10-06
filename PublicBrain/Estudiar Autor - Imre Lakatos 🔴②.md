@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-20T14:28:53.926Z
-modified: 2025-09-24T06:09:08.773Z
+modified: 2025-10-06T16:51:00.639Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary:
 nav_secondary:
 tags:
 MOS_TopImg_Video: ImreLakatos_000.mp4
 ---
-# Aprender con Imre Lakatos 🔴②
+# Estudiar Autor - Imre Lakatos 🔴②
 
 ![Estudiando la obra de Imre Lakatos](PublicBrain/_resources/2783280c365b4a3ee103b7baa7894998_MD5.jpg)
 

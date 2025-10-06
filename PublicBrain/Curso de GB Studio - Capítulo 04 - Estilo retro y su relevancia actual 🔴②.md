@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-07T21:39:39.348Z
-modified: 2025-09-18T17:30:25.426Z
+modified: 2025-10-06T17:00:02.001Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -80,15 +80,7 @@ Las siguientes fuentes han sido verificadas para garantizar su existencia, vigen
 
 - [El Renacer de los Videojuegos Retro: ¿Por Qué lo Clásico Está de Moda? 🟡③🌐](https://www.youtube.com/watch?v=UAfYaTcZwOg) .- 
   Cómo la nostalgia impulsa el resurgimiento del estilo retro y su impacto en la creatividad, apoyando la relevancia cultural descrita.
-
-
-- **Nintendo Life (2022). *The Legacy of Game Boy: "H"ow It Shaped Modern Gaming*.**  
-  [https://www.nintendolife.com/features/the-legacy-of-game-boy-how-it-shaped-modern-gaming](https://www.nintendolife.com/features/the-legacy-of-game-boy-how-it-shaped-modern-gaming)  
-  Artículo que explora la influencia de la Game Boy en el diseño moderno, alineándose con la idea de innovación dentro de las limitaciones.
-
-- **Game Boy Studio Official YouTube Channel (2023). *Getting Started with Game Boy Studio: A Beginner's Guide*.**  
-  [https://www.youtube.com/watch?v=abc123xyz](https://www.youtube.com/watch?v=abc123xyz)  
-  Tutorial oficial que detalla las herramientas y filosofía de GB Studio, respaldando su accesibilidad y enfoque educativo.
+- [Tutoriales de GB Studio 🌐🟡③](https://www.youtube.com/watch?v=hNXlV2tt7eE&list=PLmac3HPrav--Q4QKUVknwwMSNk1YECFKT) .- Tutorial oficiales que muestran las herramientas y filosofía de GB Studio.
 
 ## Referencias Bibliográficas que Refutan o Cuestionan el Contenido
 

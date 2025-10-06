@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-23T18:16:28.303Z
-modified: 2025-09-23T09:51:04.729Z
+modified: 2025-10-06T16:10:27.729Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary:
 nav_secondary:
 tags:
@@ -244,10 +244,8 @@ Este contenido ofrece un viaje completo a través de la historia de la epistemol
 
 > WIP Revisando Fuentes
 
-- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
-    - Obra clave que introduce el concepto de paradigma y su influencia en el progreso científico.
-- Longino, H. E. (1990). _Science as Social Knowledge: Values and Objectivity in Scientific Inquiry_. Princeton: Princeton University Press.
-    - Explora la epistemología desde una perspectiva social y feminista, destacando el carácter colectivo del conocimiento.
+- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]] .- Obra clave que introduce el concepto de paradigma y su influencia en el progreso científico.
+- [[Libro - Science as Social Knowledge Values and Objectivity in Scientific Inquiry - Helen E. Longino  ⚫①-🌐🟡③]]  - Explora la epistemología desde una perspectiva social y feminista, destacando el carácter colectivo del conocimiento.
 - Hacking, I. (1999). _The Social Construction of What?_. Cambridge, MA: Harvard University Press.
     - Analiza la construcción social del conocimiento científico, conectando con debates epistemológicos contemporáneos.
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-28T20:05:28.930Z
+modified: 2025-10-07T18:30:18.572Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 111
+ver_rev: 112
 nav_primary: 
 nav_secondary: 
 tags:
@@ -212,7 +212,7 @@ CPCtelera es una potente librería diseñada para facilitar el desarrollo de vid
 
 Su "motor" abarca un conjunto de herramientas y funciones que simplifican la gestión de gráficos, sonido, entrada/salida y otros aspectos clave para programar en esta plataforma retro. A continuación, se describen las principales características del motor de CPCtelera, ideales para explorar en un curso sobre esta librería.
 
-Continuar leyendo en ... [[Características principales del motor en CPCTelera 🟡③]]
+Continuar leyendo en ... [[Curso de CPCTelera 02 - Características principales del motor en CPCTelera 🟡③]]
 
 
 

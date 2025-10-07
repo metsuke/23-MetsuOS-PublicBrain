@@ -9,22 +9,22 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-23T09:19:16.998Z
-modified: 2025-06-23T10:26:39.104Z
+modified: 2025-10-07T18:30:00.261Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Características principales del motor en CPCTelera 🟡③
+# Curso de CPCTelera 02 - Características principales del motor en CPCTelera 🟡③
 
 ![Caracteristicas de CPCTelera](PublicBrain/_resources/4e023cdd10c600cf9146c414c8dcc376_MD5.jpg)
 
 * [[Curso de CPCTelera  ⚫①]]
-* [[¿Qué es CPCTelera? Historia y propósito 🟡③|<< Anterior]] | Siguiente >>
+* [[Curso de CPCTelera 01 - ¿Qué es CPCTelera? Historia y propósito 🟡③|<< Anterior]] | Siguiente >>
 
 
 CPCtelera es una potente librería diseñada para facilitar el desarrollo de videojuegos y aplicaciones en el ordenador Amstrad CPC, utilizando principalmente lenguajes C y ensamblador Z80. 

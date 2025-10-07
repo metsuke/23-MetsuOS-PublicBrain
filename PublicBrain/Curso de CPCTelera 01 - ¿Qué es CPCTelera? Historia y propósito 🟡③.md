@@ -9,22 +9,22 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-15T22:39:15.183Z
-modified: 2025-06-23T11:14:54.080Z
+modified: 2025-10-07T18:30:00.280Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# ¿Qué es CPCTelera? Historia y propósito 🟡③
+# Curso de CPCTelera 01 - ¿Qué es CPCTelera? Historia y propósito 🟡③
 
 ![Que es la CPCTelera](PublicBrain/_resources/e141a98cb8e23f38807b0305d874312f_MD5.jpg)
 
 * [[Curso de CPCTelera  ⚫①]]
-* [[Características principales del motor en CPCTelera 🟡③|Siguiente >>]]
+* [[Curso de CPCTelera 02 - Características principales del motor en CPCTelera 🟡③|Siguiente >>]]
 
 ## Introducción
 

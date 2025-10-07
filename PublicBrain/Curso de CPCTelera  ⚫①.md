@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T21:02:02.358Z
-modified: 2025-06-23T11:14:54.035Z
+modified: 2025-10-06T20:41:08.533Z
 supervisado: ""
 ACCION: ""
 ver_major: "0"
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -66,7 +66,6 @@ Continuar leyendo en ... [[Características principales del motor en CPCTelera �
  --- column-end ---
 --- multi-column-end
 
-- 1.2. 
 - 1.3. El Amstrad CPC: Contexto y capacidades técnicas    
 - 1.4. Requisitos previos: Conocimientos básicos de programación    
 - 1.5. Objetivos del curso y estructura general
@@ -165,20 +164,13 @@ Continuar leyendo en ... [[Características principales del motor en CPCTelera �
     
 ## Referencias Bibliográficas Básicas para el Curso de CPCTelera
 
-- [**CPCTelera Official Documentation** 🌐 🟡③](https://github.com/lronaldo/cpctelera)
-    - La documentación oficial de CPCTelera es el recurso principal para aprender a utilizar el motor. Incluye guías de instalación, referencia de funciones, ejemplos de código y tutoriales prácticos para desarrollar videojuegos en Amstrad CPC.
-- [**"The Amstrad CPC 464 Manual"** 🌐🟡③](http://www.cpcmania.com/Docs/Manuals/Manual%20de%20Usuario%20Amstrad%20CPC%20464.pdf)
-    - (Amstrad Consumer Electronics año: 1984) Manual oficial del Amstrad CPC 464 que cubre las especificaciones técnicas del hardware, incluyendo el chip gráfico y de sonido, esenciales para entender las limitaciones y capacidades al programar con CPCTelera.
-3. [**"Programming the Z80"** 🌐🟡③](http://www.z80.info/zip/zaks_book.pdf)
-    - (Rodnay Zaks año: 1980 (tercera edición) Sybex Inc) Un libro clásico sobre la programación del microprocesador Z80, utilizado en el Amstrad CPC. Aunque no está enfocado en CPCTelera, es una referencia fundamental para quienes deseen profundizar en ensamblador y optimización en sistemas de 8 bits.
-4. [**"Game Programming Patterns"** 🌐🟡③](https://gameprogrammingpatterns.com)
-    - (Robert Nystrom año: 2014 Genever Benning) Este libro ofrece patrones de diseño para el desarrollo de videojuegos, muchos de los cuales son aplicables a proyectos en CPCTelera, especialmente para gestionar mecánicas de juego y optimización en entornos con recursos limitados.
-5. [**"Arkos Tracker 2 Manual"** 🌐🟡③](https://www.julien-nevo.com/arkostracker/#)
-    - Manual de la herramienta Arkos Tracker 2, utilizada para crear música y efectos de sonido compatibles con CPCTelera. Incluye tutoriales para integrar audio en videojuegos para Amstrad CPC.
-6. [**CPCWiki – Amstrad CPC Community** 🌐🟡③](https://www.cpcwiki.eu/index.php/Main_Page)
-    - CPCWiki es una fuente comunitaria que incluye tutoriales, ejemplos de código, documentación técnica sobre el Amstrad CPC y recursos relacionados con CPCTelera. Es ideal para resolver dudas específicas y explorar proyectos de la comunidad retro.
-7. [**"Small Device C Compiler (SDCC) User Guide"** 🌐🟡③](https://sdcc.sourceforge.net)
-	- Guía oficial del compilador SDCC, utilizado en CPCTelera para programar en C. Explica cómo compilar y optimizar código para microprocesadores como el Z80.
+- [**CPCTelera Official Documentation** 🌐 🟡③](https://github.com/lronaldo/cpctelera) .- La documentación oficial de CPCTelera es el recurso principal para aprender a utilizar el motor. Incluye guías de instalación, referencia de funciones, ejemplos de código y tutoriales prácticos para desarrollar videojuegos en Amstrad CPC.
+- [**"The Amstrad CPC 464 Manual"** 🌐🟡③](http://www.cpcmania.com/Docs/Manuals/Manual%20de%20Usuario%20Amstrad%20CPC%20464.pdf) .- (Amstrad Consumer Electronics año: 1984) Manual oficial del Amstrad CPC 464 que cubre las especificaciones técnicas del hardware, incluyendo el chip gráfico y de sonido, esenciales para entender las limitaciones y capacidades al programar con CPCTelera.
+3. [**"Programming the Z80"** 🌐🟡③](http://www.z80.info/zip/zaks_book.pdf) .- (Rodnay Zaks año: 1980 (tercera edición) Sybex Inc) Un libro clásico sobre la programación del microprocesador Z80, utilizado en el Amstrad CPC. Aunque no está enfocado en CPCTelera, es una referencia fundamental para quienes deseen profundizar en ensamblador y optimización en sistemas de 8 bits.
+4. [**"Game Programming Patterns"** 🌐🟡③](https://gameprogrammingpatterns.com) .- (Robert Nystrom año: 2014 Genever Benning) Este libro ofrece patrones de diseño para el desarrollo de videojuegos, muchos de los cuales son aplicables a proyectos en CPCTelera, especialmente para gestionar mecánicas de juego y optimización en entornos con recursos limitados.
+5. [**"Arkos Tracker 2 Manual"** 🌐🟡③](https://www.julien-nevo.com/arkostracker/#) .- Manual de la herramienta Arkos Tracker 2, utilizada para crear música y efectos de sonido compatibles con CPCTelera. Incluye tutoriales para integrar audio en videojuegos para Amstrad CPC.
+6. [**CPCWiki – Amstrad CPC Community** 🌐🟡③](https://www.cpcwiki.eu/index.php/Main_Page) .- CPCWiki es una fuente comunitaria que incluye tutoriales, ejemplos de código, documentación técnica sobre el Amstrad CPC y recursos relacionados con CPCTelera. Es ideal para resolver dudas específicas y explorar proyectos de la comunidad retro.
+7. [**"Small Device C Compiler (SDCC) User Guide"** 🌐🟡③](https://sdcc.sourceforge.net) .- Guía oficial del compilador SDCC, utilizado en CPCTelera para programar en C. Explica cómo compilar y optimizar código para microprocesadores como el Z80.
 
 Estas referencias proporcionan una base sólida para el curso, cubriendo desde los fundamentos técnicos hasta recursos prácticos para el desarrollo de videojuegos con CPCTelera. 
  

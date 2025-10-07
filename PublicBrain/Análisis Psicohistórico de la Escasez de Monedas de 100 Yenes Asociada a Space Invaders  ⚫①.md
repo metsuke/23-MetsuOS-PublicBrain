@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
 iaStatus_Model: Grok-4, Raul Carrillo aka Metsuke
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations:
 created: 2025-10-03T05:42:46.917Z
-modified: 2025-10-05T00:34:41.652Z
+modified: 2025-10-07T04:12:11.767Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
+MOS_TopImg_Video: SpaceInvadersMonedas100YenesJaponPsicohistoria.mp4
 ---
 # Análisis Psicohistórico de la Escasez de Monedas de 100 Yenes Asociada a Space Invaders  ⚫①
 

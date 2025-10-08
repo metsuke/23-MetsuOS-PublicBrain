@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-09-22T05:17:32.581Z
+modified: 2025-10-08T04:59:04.997Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 28
 nav_primary:
 nav_secondary:
 tags:
@@ -52,6 +52,14 @@ Además, la comunidad de desarrolladores es un recurso invaluable, ofreciendo ap
 Number of Columns: 2
 Border: off
 ```
+
+
+## Curso de Diseño de Videojuegos
+
+Continuar leyendo en [[Curso de Diseño de Videojuegos  ⚫①]]
+
+--- column-end ---
+
 ![Curso de RetroX](PublicBrain/_resources/439e1ce07b8da71e3efc938988a5ea7e_MD5.jpg)
 ## Curso de Retro-X
 

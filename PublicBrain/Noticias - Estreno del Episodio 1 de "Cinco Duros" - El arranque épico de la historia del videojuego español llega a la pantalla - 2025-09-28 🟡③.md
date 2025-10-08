@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-27T08:43:05.724Z
-modified: 2025-10-04T03:33:48.356Z
+modified: 2025-10-08T19:52:46.410Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 14
+ver_rev: 15
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -64,6 +64,11 @@ Hay un pasaje del documental que me llama poderosamente la atención y que tradi
 
 Y es que no hay mayor pecado en el mundo de la comunicación que pecar de soberbia criticando a otros por supuestamente difundir bulos, cuando el bulo se lo traga uno mismo. Espero ser capaz de no caer en este error, y, en el caso de hacerlo, saber rectificarlo apropiadamente, en gran medida la metodología de trabajo con las "bolas de colores" es para evitar estos problemas, vengan de mi o de la IA.
 
+## Impacto del episodio
+
+Me impresiona el alcance que está teniendo el capítulo, siendo una temática bastante de nicho, ¡parece que hay mucha más gente que, como yo, esta revisitando su infancia gracias al extraordinario trabajo de Diego Vargas!
+
+![Con cinco duros 20000 views](PublicBrain/_resources/f1b674d1b41d77e716cb1ff0a7af6446_MD5.jpg)
 ## De la pantalla a lo personal: "Mis Cinco Duros"
 
 Nací en Noviembre de 1976, en mi caso me dijeron que mi madre si asistió al parto, con evidente éxito. Tuve una infancia temprana de la mano de Barrio Sésamo, con el colegio literalmente enfrente del balcón de casa y con las dificultades propias de un niño de aquella época, con sus más y sus menos pero, en lo general, puedo decir que tuve relativa suerte con las cartas que me tocaron... hasta que todos se abalanzaron como hienas y me dejaron sin zapatos...

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-09-23T10:00:37.667Z
+modified: 2025-10-09T11:09:34.045Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 28
+ver_rev: 30
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,26 +27,13 @@ Number of Columns: 2
 Border: off
 ```
 
-![Desde la filosofia al metodo cientifico](PublicBrain/_resources/94759bd7da14db78910fc5b1f76c941f_MD5.jpg)
+![Curso Patrones y Calidad del Softwarre](PublicBrain/_resources/21f22e00084c6932dd97ea0d27c492d4_MD5.jpg)
+## Curso Patrones y Calidad del Software
 
-## Historia de la Epistemología y su aplicación en la Ciencia
+En este curso trataremos las cuestiones relacionadas con patrones de diseño y calidad del software. Comenzaremos con las bases e iremos avanzando hacia una serie de prompts de contexto que nos sirvan en nuestro desarrollo en el dia a dia.
 
-Te invito a un fascinante recorrido por la historia de la epistemología, desde sus raíces filosóficas hasta su impacto en la ciencia moderna. Exploraremos cómo las teorías del conocimiento han dado forma a las prácticas científicas y cómo los descubrimientos científicos han transformado, a su vez, nuestra comprensión del saber. 
+Continuar leyendo en ... [[Curso sobre Patrones y Calidad del Software 🔴②]]
 
-Combinando un enfoque histórico con aplicaciones prácticas, trataré de fomentar la reflexión crítica y la conexión entre disciplinas, preparando a todo aquel capaz de aceptar el reto para analizar el conocimiento científico en un mundo complejo.
-
-Continuar leyendo en [[Historia de la Epistemología y su aplicación en la Ciencia 🔴②]]
-
---- column-end ---
-
-![Galileo, Newton, y Einstein](HistoriaCienciaMetodoCientifico_000.jpg)
-## Historia de la Ciencia y del Método Científico
-
-La ciencia representa una de las aventuras más fascinantes de la humanidad, un proceso sistemático para comprender el mundo que nos rodea. El método científico, por su parte, es el conjunto de pasos lógicos y rigurosos que guían esta exploración, evolucionando a lo largo de los siglos. 
-
-En esta sección, exploraremos los conceptos básicos sobre la ciencia y su desarrollo histórico, distinguiendo entre ciencia pura, tecnología aplicada y otras formas de conocimiento, como la filosofía o la tradición oral.
-
-Continuar leyendo en ... [[Historia de la Ciencia y del Método Científico 🔴②]]
 
 --- column-end ---
 

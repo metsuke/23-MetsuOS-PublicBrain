@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-10-07T18:30:18.572Z
+modified: 2025-10-09T11:10:26.665Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 112
+ver_rev: 114
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,15 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Curso Patrones y Calidad del Softwarre](PublicBrain/_resources/21f22e00084c6932dd97ea0d27c492d4_MD5.jpg)
+## Curso Patrones y Calidad del Software
+
+En este curso trataremos las cuestiones relacionadas con patrones de diseño y calidad del software. Comenzaremos con las bases e iremos avanzando hacia una serie de prompts de contexto que nos sirvan en nuestro desarrollo en el dia a dia.
+
+Continuar leyendo en ... [[Curso sobre Patrones y Calidad del Software 🔴②]]
+
+--- column-end ---
 
 ![La fascinación de los jovenes de la epoca fue en gran medida causa de la explosión de creatividad](PublicBrain/_resources/0421c55bbeaf20da12cea23d867c8687_MD5.jpg)
 ## Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla

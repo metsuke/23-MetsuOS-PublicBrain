@@ -55,7 +55,9 @@ Border: off
 
 ## Curso de AYFXEDIT
 
-Continuar leyendo en ... [[Curso de AYFXEDIT  ⚫①]]
+Este curso es un recurso completo y práctico sobre AYFXEDIT, un editor gratuito y de código abierto para crear efectos de sonido (SFX) en formato AYFX. Está optimizado para chips de sonido de tres canales, como el General Instrument AY-3-8910, que marcó una época en la informática retro. Con un enfoque pedagógico, combina teoría sobre computación vintage con ejercicios prácticos, perfecto para desarrolladores de juegos chiptune, fans del hardware antiguo (como ZX Spectrum, Atari ST o Amstrad CPC) y compositores de música 8-bit que buscan revivir esos sonidos nostálgicos.
+
+Continuar leyendo en ... [[Curso de AYFXEDIT 🔴②]]
 
 --- column-end ---
 

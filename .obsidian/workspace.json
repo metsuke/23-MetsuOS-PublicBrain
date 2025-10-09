@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5209a16bc765d700",
+        "id": "278aa43581fbaa3a",
         "type": "tabs",
         "children": [
           {
-            "id": "5930d5fad27f3850",
+            "id": "e5e5170cf978c72c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Curso sobre Patrones y Calidad del Software 🔴②.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Curso sobre Patrones y Calidad del Software 🔴②"
+              "title": "New tab"
             }
           }
         ]
@@ -202,11 +198,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "5930d5fad27f3850",
+  "active": "e5e5170cf978c72c",
   "lastOpenFiles": [
+    "PublicBrain/Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②.md",
+    "PublicBrain/Curso sobre Patrones y Calidad del Software 🔴②.md",
     "Novedades.md",
     "KB.md",
-    "PublicBrain/Curso sobre Patrones y Calidad del Software 🔴②.md",
     "PublicBrain/_resources/21f22e00084c6932dd97ea0d27c492d4_MD5.jpg",
     "Curso Patrones y Calidad del Software  ⚫①.md",
     "PublicBrain/Aprendizaje basado en evidencia  ⚫①.md",
@@ -232,7 +229,6 @@
     "PublicBrain/Análisis Psicohistórico de la Escasez de Monedas de 100 Yenes Asociada a Space Invaders  ⚫①.md",
     "PublicBrain/MiniQuest - Sobre si hubo o no escasez de monedas de 100 yenes en Japon por el exito del arcade space invaders 🔴②.md",
     "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
-    "PublicBrain/metsuke.com?test_date=22-Nov.md",
     "PublicBrain/https_",
     "https_",
     "PublicBrain/_resources/3c671f8c502b676c4341adde15035570_MD5.jpg",

@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-07T21:39:39.348Z
-modified: 2025-10-06T17:00:02.001Z
+modified: 2025-10-09T06:01:57.442Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🔴②
+# Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🟡③
 
 ![Estilo Retro en el mundo actual](PublicBrain/_resources/78f2c1e7bb4f6d02163664c40eb7dfaf_MD5.jpg)
 
@@ -74,8 +74,6 @@ El estilo retro en el Curso de Game Boy Studio no es solo un eco del pasado; es 
 
 ## Referencias Bibliográficas que Apoyan el Contenido
 
-> WIP fuentes en revision
-
 Las siguientes fuentes han sido verificadas para garantizar su existencia, vigencia y relevancia hasta septiembre de 2025. Todas son accesibles y contrastables:
 
 - [El Renacer de los Videojuegos Retro: ¿Por Qué lo Clásico Está de Moda? 🟡③🌐](https://www.youtube.com/watch?v=UAfYaTcZwOg) .- 
@@ -84,17 +82,7 @@ Las siguientes fuentes han sido verificadas para garantizar su existencia, vigen
 
 ## Referencias Bibliográficas que Refutan o Cuestionan el Contenido
 
-WIP fuentes en revision
-
-Estas fuentes ofrecen perspectivas críticas o contrarias, verificadas para su validez y actualidad:
-
-- **López, M. (2024). *El Declive de la Nostalgia en los Videojuegos: Una Generación que Mira al Futuro*. Journal of Digital Culture, 10(1), 23-38.**  
-  [https://www.journalofdigitalculture.org/article/declive-nostalgia](https://www.journalofdigitalculture.org/article/declive-nostalgia)  
-  Este artículo sugiere que la nostalgia retro puede estar perdiendo fuerza entre las nuevas generaciones, cuestionando su relevancia a largo plazo.
-
-- **Smith, A. (2023). *The Limits of Retro Gaming: Why Modern Audiences Demand More*. Game Design Review, 8(3), 12-19.**  
-  [https://gamedesignreview.org/article/limits-retro-gaming](https://gamedesignreview.org/article/limits-retro-gaming)  
-  Análisis que argumenta que las limitaciones técnicas del estilo retro pueden alienar a una audiencia acostumbrada a gráficos avanzados, desafiando la idea de su sostenibilidad.
+- **Ninguna fuente verificable disponible**.  
 
 
 ![[Plantilla - 1MT#One More Thing]]

@@ -81,7 +81,7 @@ Imagina retroceder en el tiempo hasta 1989, cuando la Game Boy de Nintendo irrum
 
 Ese espíritu revive hoy gracias a Game Boy Studio, una herramienta que nos invita a explorar el estilo retro con un enfoque fresco y actual. Vamos a sumergirnos en este fascinante mundo, analizando sus características técnicas, su filosofía creativa y su impacto en el panorama actual del desarrollo de videojuegos, todo ello desde la perspectiva de un curso que combina aprendizaje y pasión.
 
-Continuar leyendo en ... [[Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🔴②]]
+Continuar leyendo en ... [[Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🟡③]]
 
 
  --- column-end ---

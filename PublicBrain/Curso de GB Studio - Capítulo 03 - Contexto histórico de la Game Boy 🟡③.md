@@ -24,7 +24,7 @@ tags:
 ![Historia de GB](PublicBrain/_resources/90b3980bba7ddcbbc8cfafbacecce455_MD5.jpg)
 
 * [[Curso de GB Studio ⚫①]]
-* [[Curso de GB Studio - Capítulo 02 - Requisitos previos y herramientas necesarias para GBStudio 🟡③|<< Anterior]] | [[Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🔴②|Siguiente >>]]
+* [[Curso de GB Studio - Capítulo 02 - Requisitos previos y herramientas necesarias para GBStudio 🟡③|<< Anterior]] | [[Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🟡③|Siguiente >>]]
 ## Introducción
 
 La Game Boy, lanzada por Nintendo en 1989, supuso un antes y un después en el mundo de los videojuegos portátiles. 

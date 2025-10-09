@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-10-08T04:59:04.997Z
+modified: 2025-10-09T21:12:48.883Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 30
 nav_primary:
 nav_secondary:
 tags:
@@ -53,10 +53,18 @@ Number of Columns: 2
 Border: off
 ```
 
+## Curso de AYFXEDIT
 
+Continuar leyendo en ... [[Curso de AYFXEDIT  ⚫①]]
+
+--- column-end ---
+
+![Curso Diseño Videojuegos](PublicBrain/_resources/679c1015d460588a51f2bb673a8fc224_MD5.jpg)
 ## Curso de Diseño de Videojuegos
 
-Continuar leyendo en [[Curso de Diseño de Videojuegos  ⚫①]]
+¡Crear videojuegos es una experiencia única que une creatividad, tecnología y diversión! Pero para convertir esta pasión en una carrera profesional, no basta con imaginar mundos vibrantes o retos emocionantes. En nuestro **Curso de Diseño de Videojuegos**, te guiaremos paso a paso para que domines las herramientas y técnicas necesarias, desde idear conceptos originales hasta desarrollar prototipos jugables. Con un enfoque práctico y estratégico, aprenderás a destacar en la industria del gaming, combinando creatividad con habilidades técnicas y de gestión. ¡Da el salto y transforma tu pasión en una profesión que impacte a millones de jugadores!
+
+Continuar leyendo en [[Curso de Diseño de Videojuegos 🔴②]]
 
 --- column-end ---
 

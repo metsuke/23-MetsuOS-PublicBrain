@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-10-09T11:10:26.665Z
+modified: 2025-10-09T21:47:22.197Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 114
+ver_rev: 115
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,15 @@ Border: off
 ```
 
 
+![Curso Diseño Videojuegos](PublicBrain/_resources/679c1015d460588a51f2bb673a8fc224_MD5.jpg)
+## Curso de Diseño de Videojuegos
+
+¡Crear videojuegos es una experiencia única que une creatividad, tecnología y diversión! Pero para convertir esta pasión en una carrera profesional, no basta con imaginar mundos vibrantes o retos emocionantes. En nuestro **Curso de Diseño de Videojuegos**, te guiaremos paso a paso para que domines las herramientas y técnicas necesarias, desde idear conceptos originales hasta desarrollar prototipos jugables. Con un enfoque práctico y estratégico, aprenderás a destacar en la industria del gaming, combinando creatividad con habilidades técnicas y de gestión. ¡Da el salto y transforma tu pasión en una profesión que impacte a millones de jugadores!
+
+Continuar leyendo en [[Curso de Diseño de Videojuegos 🔴②]]
+
+--- column-end ---
+
 ![Curso Patrones y Calidad del Softwarre](PublicBrain/_resources/21f22e00084c6932dd97ea0d27c492d4_MD5.jpg)
 ## Curso Patrones y Calidad del Software
 
@@ -36,6 +45,8 @@ En este curso trataremos las cuestiones relacionadas con patrones de diseño y c
 Continuar leyendo en ... [[Curso sobre Patrones y Calidad del Software 🔴②]]
 
 --- column-end ---
+
+
 
 ![La fascinación de los jovenes de la epoca fue en gran medida causa de la explosión de creatividad](PublicBrain/_resources/0421c55bbeaf20da12cea23d867c8687_MD5.jpg)
 ## Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla

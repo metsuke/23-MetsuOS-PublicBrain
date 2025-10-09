@@ -9,17 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2025-10-02T07:06:21.467Z
+modified: 2025-10-09T05:33:19.611Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 42
+ver_rev: 44
 nav_primary:
 nav_secondary:
 tags:
 MOS_TopImg_Video: MetsuOSBaseIcon.mp4
 ---
+
 # Apps
 
 ![MetsuOS Base Icon](_resources/153129cb093b963dcb3c314f5f80c977_MD5.jpg)
@@ -76,8 +77,16 @@ Con **mosLib**, todos los módulos del sistema funcionan en armonía. Esta poten
 **mosLib**: La base sólida para un sistema sin límites.
 
  --- column-end ---
-## mosSystemCore
- 
+
+![mosSystemCore Icon](_resources/a5420290de63dc025383f319be29ee2d_MD5.jpg)
+## mosSystemCore: El Puente Unificador de MetsuOS
+
+mosSystemCore es el bloque fundamental de código que actúa como adaptador inteligente entre mosLib y las particularidades de cada sistema operativo host. Toma las funciones universales de mosLib —diseñadas para una ejecución fluida y versátil— y las transforma, integrando las especificidades nativas de entornos como GNU/Linux, Windows, macOS u otras distribuciones, para generar un corpus único de funcionalidades unificadas. De esta manera, mosSystemCore asegura que el ecosistema de MetsuOS opere de forma homogénea y eficiente, independientemente del sustrato subyacente, eliminando fricciones y maximizando la compatibilidad.
+
+Este núcleo no solo traduce y optimiza llamadas a APIs, manejo de recursos y dependencias del host, sino que también incorpora capas de abstracción para accesibilidad, automatización y seguridad, permitiendo que el resto de módulos —como mosSystemUI o mosAppManager— funcionen sin interrupciones. 
+
+*mosSystemCore : Unificación sin fronteras. Eficiencia en cualquier entorno.*
+
  --- column-end ---
 ## mosSystemUI
 

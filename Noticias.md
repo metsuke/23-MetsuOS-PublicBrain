@@ -9,18 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-09-30T10:16:13.046Z
+modified: 2025-10-12T22:17:20.009Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 33
+ver_rev: 34
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Noticias
-App# Noticias
+
+[[Index]]
 
 
 --- start-multi-column: BloqueNoticias

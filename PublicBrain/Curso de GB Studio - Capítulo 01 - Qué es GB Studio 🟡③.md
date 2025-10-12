@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-14T19:09:08.904Z
-modified: 2025-08-11T15:30:37.995Z
+modified: 2025-10-12T22:41:16.587Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![Representación visual de la introduccion](PublicBrain/_resources/36bcfdffad7d45d1b37c7e5fea5a0451_MD5.jpg)
 
-* [[Curso de GB Studio ⚫①]]
+* [[Curso de GB Studio 🔴②]]
 * [[Curso de GB Studio - Capítulo 02 - Requisitos previos y herramientas necesarias para GBStudio 🟡③|Siguiente >>]]
 ## Introducción a GB Studio
 

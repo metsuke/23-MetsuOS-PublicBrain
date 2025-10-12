@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-10-06T16:23:51.940Z
+modified: 2025-10-12T22:41:16.675Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 223
+ver_rev: 226
 nav_primary:
 nav_secondary:
 tags:
@@ -28,6 +28,7 @@ MOS_TopImg_Video: PublicBrain.mp4
 [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
 
 ---
+
 ## Quick Info
 
 ### MiniTutoriales
@@ -65,13 +66,18 @@ MOS_TopImg_Video: PublicBrain.mp4
 #### Motores
 
 * [[Curso de CPCTelera  ⚫①]]
-* [[Curso de GB Studio ⚫①]]
+* [[Curso de GB Studio 🔴②]]
 * [[Curso de PixiJS ⚫①]]
 * Curso de Prisma (Próximamente)
 * Curso de Tuerkas128 (Próximamente)
 * [[Curso de Visual bB ⚫①]]
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Tutorial de AGD 2018 Edition ⚫①]]
+
+## Técnicas
+
+* [[Curso de Diseño de Videojuegos 🔴②]]
+* [[Curso de Técnicas y Tácticas de Desarrollo de Videojuegos  ⚫①]]
 
 ---
 ## Bases del Conocimiento

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-10-09T21:12:48.883Z
+modified: 2025-10-12T22:41:16.564Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 30
+ver_rev: 32
 nav_primary:
 nav_secondary:
 tags:
@@ -53,6 +53,7 @@ Number of Columns: 2
 Border: off
 ```
 
+![Curso de AYEXEDIT](PublicBrain/_resources/f48c32212e31474740c2a7245104ac8a_MD5.jpg)
 ## Curso de AYFXEDIT
 
 Este curso es un recurso completo y práctico sobre AYFXEDIT, un editor gratuito y de código abierto para crear efectos de sonido (SFX) en formato AYFX. Está optimizado para chips de sonido de tres canales, como el General Instrument AY-3-8910, que marcó una época en la informática retro. Con un enfoque pedagógico, combina teoría sobre computación vintage con ejercicios prácticos, perfecto para desarrolladores de juegos chiptune, fans del hardware antiguo (como ZX Spectrum, Atari ST o Amstrad CPC) y compositores de música 8-bit que buscan revivir esos sonidos nostálgicos.
@@ -111,7 +112,7 @@ Continuar leyendo en [[Curso de Vortex Tracker II - Musica y sfx en videojuegos 
 En este curso, exploraremos las fascinantes posibilidades de GB Studio, una herramienta gratuita y fácil de usar que permite a cualquier persona crear videojuegos al estilo retro para la Game Boy sin necesidad de conocimientos avanzados de programación. 
 
 
-Continuar leyendo en ... [[Curso de GB Studio ⚫①]]
+Continuar leyendo en ... [[Curso de GB Studio 🔴②]]
 
  --- column-end ---
 

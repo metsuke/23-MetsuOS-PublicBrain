@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-11T14:28:49.417Z
-modified: 2025-10-09T06:13:03.662Z
+modified: 2025-10-12T22:41:16.621Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![Historia de GB](PublicBrain/_resources/90b3980bba7ddcbbc8cfafbacecce455_MD5.jpg)
 
-* [[Curso de GB Studio ⚫①]]
+* [[Curso de GB Studio 🔴②]]
 * [[Curso de GB Studio - Capítulo 02 - Requisitos previos y herramientas necesarias para GBStudio 🟡③|<< Anterior]] | [[Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🟡③|Siguiente >>]]
 ## Introducción
 

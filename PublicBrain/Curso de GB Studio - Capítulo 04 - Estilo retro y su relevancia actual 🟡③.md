@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-07T21:39:39.348Z
-modified: 2025-10-09T06:01:57.442Z
+modified: 2025-10-12T22:41:16.638Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -23,7 +23,7 @@ tags: []
 
 ![Estilo Retro en el mundo actual](PublicBrain/_resources/78f2c1e7bb4f6d02163664c40eb7dfaf_MD5.jpg)
 
-* [[Curso de GB Studio ⚫①]]
+* [[Curso de GB Studio 🔴②]]
 * [[Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③|<< Anterior]] | Siguiente >>
 
 > WIP: Validando fuentes

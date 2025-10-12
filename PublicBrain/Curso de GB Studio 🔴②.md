@@ -9,19 +9,21 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-13T13:43:24.085Z
-modified: 2025-10-09T06:13:03.695Z
+modified: 2025-10-12T22:40:03.271Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 14
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Curso de GB Studio ⚫①
+# Curso de GB Studio 🔴②
 
-º# Curso de GB Studio ⚫①
+[[Aprender a desarrollar videojuegos  ⚫①]]
+
+> WIP Comprobando Fuentes
 
 ![Portada de revista de videojuegos con el curso de GB Studio](_resources/41f175e0de54ecc13bcefca8c850c5e5_MD5.jpg)
 
@@ -83,12 +85,15 @@ Ese espíritu revive hoy gracias a Game Boy Studio, una herramienta que nos invi
 
 Continuar leyendo en ... [[Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🟡③]]
 
+--- column-end ---
+
+## Capítulo 05:  Introducción al diseño de juegos en 8 bits
+
+Continuar leyendo en  ...
 
  --- column-end ---
 --- multi-column-end
  
-   -
-   - Introducción al diseño de juegos en 8 bits
 ## **Módulo 1: Configuración y Fundamentos**
 
 3. **Instalación y Configuración de GB Studio**
@@ -163,5 +168,29 @@ Continuar leyendo en ... [[Curso de GB Studio - Capítulo 04 - Estilo retro y su
 - Definiciones clave de desarrollo de juegos retro
 - Enlaces a tutoriales y herramientas
 - Inspiración de juegos clásicos de Game Boy
+
+### Fuentes Bibliográficas que Apoyan el Contención
+
+> WIP Comprobando Fuentes
+
+- **Maltby, C. (2024). GB Studio Official Documentation.** Documentación oficial que detalla la interfaz de arrastrar y soltar, instalación en múltiples sistemas operativos y ejemplos para principiantes, alineándose con los módulos de configuración y fundamentos. Disponible en: https://gbstudio.dev/docs/
+- **Yokoi, G. & Nintendo R&D1. (1989). Historia y Lanzamiento de la Game Boy.** Artículo histórico que confirma el impacto de la Game Boy en 1989 como pionera del gaming portátil, apoyando el Capítulo 03 sobre contexto histórico. Disponible en: https://www.si.edu/object/game-boy%253Anmah_1253117
+- **Silber, D. (2015). Pixel Art for Game Developers.** Libro introductorio sobre pixel art, limitaciones de colores en 8 bits y diseño de sprites/animaciones, que respalda los Módulos 2 y 5 sobre elementos visuales y optimización. ISBN: 978-1482252309
+- **Bitmap Books (2023). The GBA Pixel Book: A Visual History of Game Boy Advance Pixel Art.** Análisis visual de arte pixel en consolas Game Boy, con perfiles de juegos icónicos, que apoya el Capítulo 04 sobre relevancia actual del estilo retro. Disponible en: https://www.bitmapbooks.com/products/the-gba-pixel-book
+- **Doman, R. (2019). GB Studio Tutorial Series.** Serie de tutoriales en video paso a paso sobre instalación, eventos visuales y mecánicas básicas, validando los Módulos 1 y 3 del curso. Disponible en: https://www.youtube.com/playlist?list=PLEeET_LWnAgvQs6TexUttMyuwmuPm81Dc
+- **Wikipedia Contributors. (2024). Game Boy.** Entrada enciclopédica que detalla el legado de la Game Boy en gráficos y sonidos de 8 bits, apoyando la introducción y Capítulo 01. Disponible en: https://en.wikipedia.org/wiki/Game_Boy
+- **Gensler, J. (2024). Some Limitations of the Game Boy using C and GBDK.** Artículo que resalta cómo herramientas como GB Studio mitigan limitaciones para principiantes, respaldando la accesibilidad. Disponible en: https://jeffzzq.medium.com/some-limitations-of-the-game-boy-67d94a8afb8a
+
+### Fuentes Bibliográficas que Refutan el Contenido
+
+> WIP Comprobando Fuentes
+
+- **Reddit Community (2021). Limitations of GB Studio.** Discusión que destaca restricciones en tamaño de ROM, colisiones complejas y necesidad de soluciones alternativas para juegos grandes, cuestionando los Módulos 3 y 5. Disponible en: https://www.reddit.com/r/gbstudio/comments/p7kgg6/limitations/
+- **Doman, R. (2021). Testing the Limits of GB Studio - Part 1 & 2.** Videos que prueban límites como byte caps y optimización, refutando la versatilidad ilimitada para "juegos completos" en principiantes. Disponible en: https://www.youtube.com/watch?v=IrW3RfPHKU8
+- **GB Studio Central (2021). Top Five Mistakes for First Time GB Studio Users.** Artículo que critica errores comunes como ignorar documentación o usar paletas incorrectas, matizando la accesibilidad para novatos en los Capítulos 01 y 02. Disponible en: https://gbstudiocentral.com/tips/five-mistakes/
+- **Doman, R. (2022). 6 Things to Consider Before Making a Huge GB Studio Game.** Video que advierte sobre desafíos en proyectos ambiciosos, como rendimiento y UI compleja, refutando la idea de "juegos funcionales listos para compartir" sin esfuerzo. Disponible en: https://www.youtube.com/watch?v=RShnw5C83XY
+- **Itch.io Community (2024). Comments on GB Studio by Chris Maltby.** Comentarios de usuarios que critican limitaciones en libertad creativa comparado con GBA o programación nativa, cuestionando la "versatilidad nostálgica". Disponible en: https://chrismaltby.itch.io/gb-studio/comments?after=91
+- **Sheldrick, A. (2020). Zen and the Art of Retro Level Design in “Kudzu”.** Análisis que resalta cómo el diseño retro en GB Studio fuerza no-linealidad limitada, refutando la simplicidad en narrativa (Módulo 4). Disponible en: https://gbstudiocentral.com/tips/zen-and-the-art-of-retro-level-design-in-kudzu/
+- **Eirifu (2025). A Style Guide for NES-inspired Pixel Art in your Retro Game.** Guía que enfatiza restricciones estrictas en sprites y colores (8x8, 4 colores), cuestionando la optimización fácil en Módulo 2 para estilo Game Boy. Disponible en: https://eirifu.wordpress.com/2025/02/21/a-style-guide-for-nes-inspired-pixel-art-in-your-retro-game/
 
 ![[Plantilla - 1MT#One More Thing]]

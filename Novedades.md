@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-10-09T21:47:22.197Z
+modified: 2025-10-12T02:11:26.870Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 115
+ver_rev: 116
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,15 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Curso de AYEXEDIT](PublicBrain/_resources/f48c32212e31474740c2a7245104ac8a_MD5.jpg)
+## Curso de AYFXEDIT
+
+Este curso es un recurso completo y práctico sobre AYFXEDIT, un editor gratuito y de código abierto para crear efectos de sonido (SFX) en formato AYFX. Está optimizado para chips de sonido de tres canales, como el General Instrument AY-3-8910, que marcó una época en la informática retro. Con un enfoque pedagógico, combina teoría sobre computación vintage con ejercicios prácticos, perfecto para desarrolladores de juegos chiptune, fans del hardware antiguo (como ZX Spectrum, Atari ST o Amstrad CPC) y compositores de música 8-bit que buscan revivir esos sonidos nostálgicos.
+
+Continuar leyendo en ... [[Curso de AYFXEDIT 🔴②]]
+
+--- column-end ---
 
 
 ![Curso Diseño Videojuegos](PublicBrain/_resources/679c1015d460588a51f2bb673a8fc224_MD5.jpg)

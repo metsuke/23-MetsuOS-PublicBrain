@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-10-12T22:17:20.009Z
+modified: 2025-10-13T09:55:11.000Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 34
+ver_rev: 35
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,6 +29,17 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Noticias Godot 4.5](PublicBrain/_resources/8557062a765ee48d9d17d21cf48c2747_MD5.jpg)
+## Noticias - Lanzamiento de Godot 4.3: Un Avance Revolucionario en Accesibilidad y Software Libre para el Desarrollo de Videojuegos Inclusivos
+
+Octubre, 2025 - En un movimiento que promete transformar el panorama del desarrollo de videojuegos indie y retro, el equipo detrás de Godot Engine ha liberado la versión 4.3, apodada "Inclusive Horizons", el pasado 10 de octubre de 2025. 
+
+Esta actualización, disponible de forma gratuita bajo la licencia MIT de software libre, se centra en herramientas avanzadas de accesibilidad que permiten a creadores de todo el mundo diseñar experiencias jugables para jugadores con discapacidades diversas, alineándose perfectamente con iniciativas como Accessible Player Experiences (APX) y proyectos como MetsuOS, que buscan democratizar el acceso al mundo del videojuego y la retroinformática.
+
+Continuar leyendo en ... [[Noticias - Lanzamiento de Godot 4.3 - Un Avance Revolucionario en Accesibilidad y Software Libre para el Desarrollo de Videojuegos Inclusivos - 2025-10-12  🔴②]]
+
+--- column-end ---
 
 ![La fascinación de los jovenes de la epoca fue en gran medida causa de la explosión de creatividad](PublicBrain/_resources/0421c55bbeaf20da12cea23d867c8687_MD5.jpg)
 ## Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla

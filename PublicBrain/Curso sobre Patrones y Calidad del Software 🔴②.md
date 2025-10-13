@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-10-09T06:17:58.164Z
-modified: 2025-10-09T11:08:26.933Z
+modified: 2025-10-13T18:19:18.685Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: "0"
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -30,7 +30,7 @@ MOS_TopImg_Video: PatronesCalidadSoftware.mp4
 
 En este curso trataremos las cuestiones relacionadas con patrones de diseño y calidad del software. Comenzaremos con las bases e iremos avanzando hacia una serie de prompts de contexto que nos sirvan en nuestro desarrollo en el dia a dia.
 
-## Módulo 1: Introducción a los Patrones y la Calidad de Software (Semanas 1-2)
+## Módulo 1: Introducción a los Patrones y la Calidad de Software
 
 El objetivo principal aquí es sentar las bases, explicando por qué surgen los patrones y cómo se relacionan con la calidad del software. Es como el punto de partida para que todo el mundo entienda el "porqué" antes de entrar en detalles técnicos.
 
@@ -45,7 +45,7 @@ Aquí conectamos los puntos: cómo los patrones ayudan a mejorar la calidad al r
 
 **Actividades sugeridas**: Una discusión en foro sobre un antipatrón que hayas visto en tu experiencia; lectura inicial de los capítulos 1-2 del libro del GoF o secciones de "Clean Code" de Robert C. Martin.
 
-## Módulo 2: Patrones de Diseño Creacionales (Semanas 3-4)
+## Módulo 2: Patrones de Diseño Creacionales
 
 En este módulo nos centramos en patrones que facilitan la creación de objetos, evaluando cómo impactan en la flexibilidad y reutilización del código. Es ideal para entender cómo evitar código rígido desde el principio.
 
@@ -60,7 +60,7 @@ Prototype para clonar objetos y optimizar eficiencia. Analizamos su efecto en el
 
 **Actividades sugeridas**: Implementa un Factory en tu lenguaje favorito y compara la deuda técnica antes y después. Lecturas: Capítulos 3-5 del GoF o "Head First Design Patterns" para ejemplos visuales y divertidos.
 
-## Módulo 3: Patrones de Diseño Estructurales (Semanas 5-6)
+## Módulo 3: Patrones de Diseño Estructurales
 
 Aquí hablamos de cómo componer clases y objetos para lograr escalabilidad y fácil mantenimiento. Son patrones que ayudan a que tu código crezca sin romperse.
 
@@ -75,7 +75,7 @@ Facade simplifica subsistemas complejos, Flyweight optimiza memoria con objetos 
 
 **Actividades sugeridas**: Refactoriza un código antiguo usando Adapter y evalúa métricas con herramientas como SonarQube. Lecturas: Capítulos 6-8 del GoF o "Refactoring" de Martin Fowler.
 
-## Módulo 4: Patrones de Diseño Comportamentales (Semanas 7-8)
+## Módulo 4: Patrones de Diseño Comportamentales
 
 Nos adentramos en patrones para la comunicación entre objetos, con énfasis en fiabilidad y usabilidad. Estos son geniales para sistemas dinámicos.
 
@@ -90,7 +90,7 @@ Observer para notificaciones (estilo pub/sub), State para comportamientos por es
 
 **Actividades sugeridas**: Crea un sistema de notificaciones con Observer y haz pruebas unitarias para medir cobertura. Lecturas: Capítulos 9-11 del GoF o "Patterns of Enterprise Application Architecture" de Fowler.
 
-## Módulo 5: Patrones Arquitectónicos y de Integración (Semanas 9-10)
+## Módulo 5: Patrones Arquitectónicos y de Integración
 
 Ampliamos a patrones a nivel de sistema entero, evaluando calidad en escalabilidad y rendimiento. Perfecto para proyectos grandes.
 
@@ -105,7 +105,7 @@ Patrones de persistencia y segregación de comandos/consultas. Optimizan rendimi
 
 **Actividades sugeridas**: Diseña una arquitectura de microservices y simula cargas para medir calidad. Lecturas: "Building Microservices" de Sam Newman o "Domain-Driven Design" de Eric Evans.
 
-## Módulo 6: Calidad de Software Avanzada y Herramientas (Semanas 11-12)
+## Módulo 6: Calidad de Software Avanzada y Herramientas
 
 Profundizamos en prácticas y herramientas para integrar patrones con calidad real.
 
@@ -120,7 +120,7 @@ CI/CD, monitoreo (Prometheus, ELK Stack). Calidad en metodologías ágiles: revi
 
 **Actividades sugeridas**: Proyecto grupal aplicando patrones en una app y midiendo calidad. Lecturas: "Continuous Delivery" de Jez Humble o "The DevOps Handbook".
 
-## Módulo 7: Temas Avanzados, Casos de Estudio y Proyecto Final (Semanas 13-16)
+## Módulo 7: Temas Avanzados, Casos de Estudio y Proyecto Final
 
 Aplicamos todo de forma integrada y exploramos tendencias actuales.
 
@@ -145,7 +145,7 @@ Análisis de proyectos open-source, como Spring Framework o Netflix OSS.
 
 Estas referencias respaldan los conceptos de patrones de diseño y calidad de software, promoviendo su uso para mejorar la mantenibilidad y eficiencia. He verificado su existencia y vigencia actual (a fecha de octubre de 2025), priorizando enlaces oficiales o de editores.
 
-- Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley. Enlace: [https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612).
+- [Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). Design Patterns: Elements of Reusable Object-Oriented Software 🌐🟡③](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) Addison-Wesley. .
 - Martin, R. C. (2008). *Clean Code: A Handbook of Agile Software Craftsmanship*. Prentice Hall. Enlace: [https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (versión corregida y vigente).
 - Freeman, E., Robson, E., Bates, B., & Sierra, K. (2004). *Head First Design Patterns*. O'Reilly Media. Enlace: [https://www.oreilly.com/library/view/head-first-design/9781492077992/](https://www.oreilly.com/library/view/head-first-design/9781492077992/).
 - Fowler, M. (1999). *Refactoring: Improving the Design of Existing Code*. Addison-Wesley. Enlace: [https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672).

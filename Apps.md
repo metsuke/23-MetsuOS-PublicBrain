@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2025-10-09T05:33:19.611Z
+modified: 2025-10-14T21:39:50.661Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 44
+ver_rev: 46
 nav_primary:
 nav_secondary:
 tags:
@@ -57,7 +57,7 @@ Border: off
 
 ![MetsuOS Icon](_resources/44c1f46d745c51f385f88f004bec044a_MD5.jpg)
 
-## MetsuOS: El Sistema Operativo que Libera tu Potencial
+### MetsuOS: El Sistema Operativo que Libera tu Potencial
 
 **MetsuOS** es más que un sistema operativo: es una plataforma innovadora basada en GNU/Linux, diseñada para integrarse perfectamente en cualquier entorno. Flexible, potente y adaptable, MetsuOS es la base ideal para ejecutar aplicaciones en diversos sistemas, desde Windows y macOS hasta otras distribuciones Linux.
 
@@ -68,7 +68,7 @@ En el corazón de MetsuOS está **mosLib**, una biblioteca robusta que asegura u
  --- column-end ---
 
   ![mosLib Icon](_resources/4b08d9c1c1d378d5df3ac0dd6de347a0_MD5.jpg)
-## mosLib: El Corazón de MetsuOS
+### mosLib: El Corazón de MetsuOS
 
 **mosLib** es la biblioteca fundamental que impulsa **MetsuOS**, diseñada para ofrecer una ejecución fluida y versátil, ya sea de forma nativa o en cualquier sistema operativo o entorno, como Windows, macOS o distribuciones Linux.
 
@@ -79,7 +79,7 @@ Con **mosLib**, todos los módulos del sistema funcionan en armonía. Esta poten
  --- column-end ---
 
 ![mosSystemCore Icon](_resources/a5420290de63dc025383f319be29ee2d_MD5.jpg)
-## mosSystemCore: El Puente Unificador de MetsuOS
+### mosSystemCore: El Puente Unificador de MetsuOS
 
 mosSystemCore es el bloque fundamental de código que actúa como adaptador inteligente entre mosLib y las particularidades de cada sistema operativo host. Toma las funciones universales de mosLib —diseñadas para una ejecución fluida y versátil— y las transforma, integrando las especificidades nativas de entornos como GNU/Linux, Windows, macOS u otras distribuciones, para generar un corpus único de funcionalidades unificadas. De esta manera, mosSystemCore asegura que el ecosistema de MetsuOS opere de forma homogénea y eficiente, independientemente del sustrato subyacente, eliminando fricciones y maximizando la compatibilidad.
 
@@ -88,10 +88,51 @@ Este núcleo no solo traduce y optimiza llamadas a APIs, manejo de recursos y de
 *mosSystemCore : Unificación sin fronteras. Eficiencia en cualquier entorno.*
 
  --- column-end ---
-## mosSystemUI
+
+![mosSystemUI](_resources/ff83acc613b0ecaf57d45bf283768012_MD5.jpg)
+### ## mosSystemUI: La Interfaz que Conecta tu Visión con la Realidad
+
+mosSystemUI es el lienzo vivo de MetsuOS, una interfaz de usuario intuitiva y adaptable que transforma la complejidad subyacente del sistema en una experiencia visual y táctil accesible para todos. Construida sobre las bases sólidas de mosSystemCore, esta capa proporciona elementos de UI unificados —como paneles dinámicos, menús contextuales y dashboards personalizables— que se renderizan de manera consistente en cualquier entorno host, desde entornos nativos GNU/Linux hasta aplicaciones en Windows o macOS.
+
+Con mosSystemUI, la accesibilidad no es un añadido, sino el núcleo: integra herramientas como lectores de pantalla integrados, navegación por gestos y modos de alto contraste que se adaptan automáticamente al usuario, garantizando que creadores de videojuegos y jugadores por igual puedan interactuar sin barreras. Desde la gestión de tareas hasta la supervisión de automatizaciones, mosSystemUI orquesta la armonía entre el usuario y el sistema, haciendo que lo abstracto sea tangible y lo técnico, humano.
+
+mosSystemUI: Interfaz sin límites. Donde la accesibilidad encuentra la innovación.
 
  --- column-end ---
 --- multi-column-end
+
+## MetsuOS Base System: El Pilar Accesible de la Interfaz Unificada
+
+MetsuOS Base System es la base estructural y accesible que se construye directamente sobre mosSystemUI, integrando módulos clave como mosA11YChecker, mosAutomationManager, mosSecurityManager, mosTaskManager y mosAppManager en un núcleo cohesivo y dinámico. Este sistema fundamental transforma la interfaz intuitiva de mosSystemUI en un puente hacia la inclusión, asegurando una verificación constante de accesibilidad para una experiencia equitativa, automatizando procesos repetitivos para liberar el potencial creativo, reforzando la seguridad con capas robustas, gestionando tareas con precisión y coordinando aplicaciones como mosGameMaker o mosRetroLauncher con fluidez en cualquier entorno. En el corazón de MetsuOS, Base System encarna la esencia de un sistema sin barreras, donde la accesibilidad impulsa la innovación y convierte la complejidad técnica en un espacio humano de empoderamiento para creadores y usuarios.
+
+MetsuOS Base System: Fundación accesible. Innovación ilimitada.
+
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+### mosA11YChecker
+
+ --- column-end ---
+
+### mosAutomationManager
+
+--- column-end ---
+### mosSecutityManager
+
+--- column-end ---
+
+### mosTaskManager
+
+--- column-end ---
+### mosAppManager
+
+ --- column-end ---
+--- multi-column-end
+
 
 ## MetsuOS in a Nutshell
 

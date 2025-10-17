@@ -31,7 +31,7 @@ Iniciamos hoy un curso sobre **Retro-X**, una aplicación para Windows de 32 bit
 
 Dirigido a entusiastas del **retrocomputing**, la preservación digital y el arte píxel, el curso tiene una duración estimada de **10 a 12 semanas**, con sesiones de 2 a 3 horas semanales que combinan teoría, práctica y proyectos. **Requisitos**: PC con Windows (compatible con XP/Vista; en sistemas modernos, usar modo compatibilidad o Wine para Linux/Mac). **Materiales**: Descarga del ZIP de Retro-X Alpha 8 (853 KB desde World of Spectrum), imágenes de muestra retro y emuladores como ZXSpin o Fuse para ZX Spectrum.
 
-## Módulo 1: "I"ntroducción a Retro-X y al Retrocomputing
+## Módulo 1: Introducción a Retro-X y al Retrocomputing
 
 Este módulo inicial sumerge a los estudiantes en el contexto de Retro-X y el fascinante mundo del retrocomputing, sentando las bases para un aprendizaje práctico y motivador.
 

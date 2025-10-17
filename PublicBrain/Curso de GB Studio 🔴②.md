@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-13T13:43:24.085Z
-modified: 2025-10-12T22:40:03.271Z
+modified: 2025-10-17T06:33:59.127Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 16
+ver_rev: 17
 nav_primary: 
 nav_secondary: 
 tags:
@@ -173,7 +173,7 @@ Continuar leyendo en  ...
 
 > WIP Comprobando Fuentes
 
-- **Maltby, C. (2024). GB Studio Official Documentation.** Documentación oficial que detalla la interfaz de arrastrar y soltar, instalación en múltiples sistemas operativos y ejemplos para principiantes, alineándose con los módulos de configuración y fundamentos. Disponible en: https://gbstudio.dev/docs/
+- [Maltby, C. (2024). GB Studio Official Documentation 🌐🟡③](https://gbstudio.dev/docs/) .- Documentación oficial que detalla la interfaz de arrastrar y soltar, instalación en múltiples sistemas operativos y ejemplos para principiantes, alineándose con los módulos de configuración y fundamentos.
 - **Yokoi, G. & Nintendo R&D1. (1989). Historia y Lanzamiento de la Game Boy.** Artículo histórico que confirma el impacto de la Game Boy en 1989 como pionera del gaming portátil, apoyando el Capítulo 03 sobre contexto histórico. Disponible en: https://www.si.edu/object/game-boy%253Anmah_1253117
 - **Silber, D. (2015). Pixel Art for Game Developers.** Libro introductorio sobre pixel art, limitaciones de colores en 8 bits y diseño de sprites/animaciones, que respalda los Módulos 2 y 5 sobre elementos visuales y optimización. ISBN: 978-1482252309
 - **Bitmap Books (2023). The GBA Pixel Book: A Visual History of Game Boy Advance Pixel Art.** Análisis visual de arte pixel en consolas Game Boy, con perfiles de juegos icónicos, que apoya el Capítulo 04 sobre relevancia actual del estilo retro. Disponible en: https://www.bitmapbooks.com/products/the-gba-pixel-book

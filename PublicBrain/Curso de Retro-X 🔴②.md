@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-22T05:18:18.593Z
-modified: 2025-10-09T05:49:52.940Z
+modified: 2025-10-17T05:51:10.846Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -231,7 +231,7 @@ Las siguientes fuentes, verificadas y contrastables, confirman la existencia, ca
 
 Estas fuentes, también verificadas, cuestionan la relevancia o vigencia de Retro-X al destacar alternativas más modernas y mantenidas:
 
-1. **Wikipedia (2025).** "ZX Spectrum graphic modes". Disponible en: [Wikipedia](https://en.wikipedia.org/wiki/ZX_Spectrum_graphic_modes). Menciona herramientas como **ZX GIMP** y **BMP2SCR**, que cubren modos gráficos similares (incluidos no estándar), sugiriendo que Retro-X no es único.
+1. [Wikipedia (2025). "ZX Spectrum graphic modes" 🌐🟡③](https://en.wikipedia.org/wiki/ZX_Spectrum_graphic_modes). Menciona herramientas como **ZX GIMP** y **BMP2SCR**, que cubren modos gráficos similares (incluidos no estándar), sugiriendo que Retro-X no es único.
 2. **Reddit r/zxspectrum (2017).** "Any suggestions for an art utility to create Spectrum graphics?". Disponible en: [Reddit](https://www.reddit.com/r/zxspectrum/comments/65ov7a/any_suggestions_for_an_art_utility_to_create/). Recomienda **ZX Paintbrush** y **Aseprite**, destacando su mantenimiento activo frente a la obsolescencia de Retro-X.
 3. **Visual Studio Marketplace (2023).** "ZX Graphics Editor" por DuefectuCorp. Disponible en: [Marketplace](https://marketplace.visualstudio.com/items?itemName=DuefectuCorp.zxgraphics). Presenta una herramienta moderna para gráficos ZX, más integrada y actualizada que Retro-X.
 4. **Spriteworx (2019).** "Getting started with ZX Paintbrush and AGDx" [Vídeo]. YouTube. Disponible en: [YouTube](https://www.youtube.com/watch?v=IOUE6biouNk). Muestra **ZX Paintbrush** como la opción preferida para gráficos ZX, cuestionando la necesidad de usar Retro-X en contextos actuales.

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2025-10-14T21:39:50.661Z
+modified: 2025-10-15T12:32:53.858Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 46
+ver_rev: 49
 nav_primary:
 nav_secondary:
 tags:
@@ -48,6 +48,13 @@ Este planteamiento está vivo, pero es algo que he reflexionado  bastante, ni qu
 ## MetsuOS System Core
 
 Este es el núcleo del sistema operativo, incluye el sistema operativo como tal sobre el que trabaja una libreria sobre la que se asientan el resto de elementos.  Esto permite que MetsuOS, a futuro, pueda correr tanto como sistema operativo nativo o como algo asentado sobre la versione de la mosLib correspondiente a nuestro sistema.
+
+```mermaid
+graph LR
+    A[MetsuOS] --> B[mosLib]
+    B --> C[mosSystemCore]
+    C --> D[mosSystemUI]
+```
 
 --- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
@@ -90,7 +97,7 @@ Este núcleo no solo traduce y optimiza llamadas a APIs, manejo de recursos y de
  --- column-end ---
 
 ![mosSystemUI](_resources/ff83acc613b0ecaf57d45bf283768012_MD5.jpg)
-### ## mosSystemUI: La Interfaz que Conecta tu Visión con la Realidad
+### mosSystemUI: La Interfaz que Conecta tu Visión con la Realidad
 
 mosSystemUI es el lienzo vivo de MetsuOS, una interfaz de usuario intuitiva y adaptable que transforma la complejidad subyacente del sistema en una experiencia visual y táctil accesible para todos. Construida sobre las bases sólidas de mosSystemCore, esta capa proporciona elementos de UI unificados —como paneles dinámicos, menús contextuales y dashboards personalizables— que se renderizan de manera consistente en cualquier entorno host, desde entornos nativos GNU/Linux hasta aplicaciones en Windows o macOS.
 
@@ -103,9 +110,33 @@ mosSystemUI: Interfaz sin límites. Donde la accesibilidad encuentra la innovaci
 
 ## MetsuOS Base System: El Pilar Accesible de la Interfaz Unificada
 
-MetsuOS Base System es la base estructural y accesible que se construye directamente sobre mosSystemUI, integrando módulos clave como mosA11YChecker, mosAutomationManager, mosSecurityManager, mosTaskManager y mosAppManager en un núcleo cohesivo y dinámico. Este sistema fundamental transforma la interfaz intuitiva de mosSystemUI en un puente hacia la inclusión, asegurando una verificación constante de accesibilidad para una experiencia equitativa, automatizando procesos repetitivos para liberar el potencial creativo, reforzando la seguridad con capas robustas, gestionando tareas con precisión y coordinando aplicaciones como mosGameMaker o mosRetroLauncher con fluidez en cualquier entorno. En el corazón de MetsuOS, Base System encarna la esencia de un sistema sin barreras, donde la accesibilidad impulsa la innovación y convierte la complejidad técnica en un espacio humano de empoderamiento para creadores y usuarios.
+## MetsuOS Base System Icon
 
-MetsuOS Base System: Fundación accesible. Innovación ilimitada.
+## MetsuOS Base System: El Pilar Accesible de la Interfaz Unificada
+
+MetsuOS Base System es la base estructural y accesible que se edifica directamente sobre mosSystemUI, integrando una capa intermedia de módulos clave como mosA11YManager, mosAutomationManager, mosBrainManager, mosIAManager, mosLegalManager, mosNetManager, mosRTManager, mosSecurityManager, y mosTaskManager en un núcleo cohesivo y dinámico. 
+
+Este sistema fundamental transforma la interfaz intuitiva de mosSystemUI en un puente hacia la inclusión, asegurando una verificación constante de accesibilidad a través de herramientas como mosA11YTool, automatizando procesos repetitivos con mosAutomationManager, reforzando la seguridad con mosSecurityManager, gestionando tareas con precisión mediante mosTaskManager, y facilitando un ecosistema de aplicaciones coordinado por mosAppEcosystem, que integra herramientas como mosGameTool para mosGameMaker y mosRetroLauncher en cualquier entorno. 
+
+En el corazón de MetsuOS, Base System encarna la esencia de un sistema sin barreras, donde la accesibilidad impulsa la innovación y convierte la complejidad técnica en un espacio humano de empoderamiento para creadores y usuarios.
+
+Los módulos Manager integran funcionalidad y configuración, y mediante mosBrainManager aplican la metodología de validación de contenidos de MetsuOS, persiguiendo el máximo rigor científico con un enfoque adaptativo que evalúa credibilidad y solidez, mientras neutralizan dogmas "científicos", religiosos e ideológicos, buscando ofrecer al usuario información validada, neutral y contextualizada.
+
+MetsuOS Base System: Accesibilidad ilimitada. Innovación sin fronteras.
+
+```mermaid
+graph LR
+	D[mosSystemUI]
+    D --> E[mosA11YManager]
+    D --> F[mosAutomationManager]
+    D --> G[mosBrainManager]
+    D --> H[mosIAManager]
+    D --> I[mosLegalManager]
+    D --> J[mosNetManager]
+    D --> K[mosRTManager]
+    D --> L[mosSecurityManager]
+    D --> M[mosTaskManager]
+```
 
 
 --- start-multi-column: BloqueMicrohobbit01\
@@ -114,11 +145,27 @@ Number of Columns: 2
 Border: off
 ```
 
-### mosA11YChecker
+### mosA11YManager
 
  --- column-end ---
 
 ### mosAutomationManager
+
+--- column-end ---
+### mosBrainManager
+
+--- column-end ---
+### mosIAManager
+
+--- column-end ---
+### mosLegalManager
+
+--- column-end ---
+
+### mosNetManager
+
+--- column-end ---
+### mosRTManager
 
 --- column-end ---
 ### mosSecutityManager
@@ -126,9 +173,6 @@ Border: off
 --- column-end ---
 
 ### mosTaskManager
-
---- column-end ---
-### mosAppManager
 
  --- column-end ---
 --- multi-column-end
@@ -141,20 +185,34 @@ graph LR
     A[MetsuOS] --> B[mosLib]
     B --> C[mosSystemCore]
     C --> D[mosSystemUI]
-    D --> E[mosA11YChecker]
+    D --> E[mosA11YManager]
     D --> F[mosAutomationManager]
-    D --> G[mosSecutityManager]
-    D --> H[mosTaskManager]
-    D --> I[mosAppManager]
-    I --> J[mosBrainManager]
-    I --> K[mosDevManager]
-    K --> L[mosGitSync]
-    I --> M[mosGameMaker]
-    M --> N[mosImageConverter]
-    M --> O[mosRetroLauncher]
-    I --> P[mosGameManager]
-    I --> Q[mosIAManager]
-    Q --> R[mosIAPromtManager]
+    D --> G[mosBrainManager]
+    D --> H[mosIAManager]
+    D --> I[mosLegalManager]
+    D --> J[mosNetManager]
+    D --> K[mosRTManager]
+    D --> L[mosSecurityManager]
+    D --> M[mosTaskManager]
+    E --> N[mosAppEcosystem]
+    F --> N[mosAppEcosystem]
+    G --> N[mosAppEcosystem]
+    H --> N[mosAppEcosystem]
+    I --> N[mosAppEcosystem]
+    J --> N[mosAppEcosystem]
+    K --> N[mosAppEcosystem]
+    L --> N[mosAppEcosystem]
+    M --> N[mosAppEcosystem]
+    N --> O[mosA11YTool]
+    N --> P[mosBrainTool]
+    N --> Q[mosDevTool]
+    Q --> R[mosGitSync]
+    N --> S[mosGameTool]
+    V --> T[mosImageConverter]
+    V --> U[mosRetroLauncher]
+    S --> V[mosGameMaker]    
+    N --> W[mosIATool]
+    W --> X[mosIAPromtManager]
 ```
 
 ![[Plantilla - 1MT#One More Thing]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-10-13T10:00:29.468Z
-modified: 2025-10-14T12:12:15.487Z
+modified: 2025-10-18T09:17:12.214Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -69,8 +69,8 @@ Esta actualización no solo sube el estándar para motores de juego libres, sino
 
 > WIP Revisando fuentes
 
-- Sitio oficial de Godot Engine: "Godot 4.5, making dreams accessible". Disponible en: https://godotengine.org/releases/4.5/. Esta página detalla las mejoras en accesibilidad, como el soporte para lectores de pantalla mediante AccessKit, y enfatiza la integración de herramientas inclusivas en el motor.
-- Artículo en Game Developer: "Godot 4.5 ushers in multiple accessibility features". Disponible en: https://www.gamedeveloper.com/programming/godot-4-5-ushers-in-accessibility-features-including-screen-reader-support. Publicado el 16 de septiembre de 2025, resalta cómo AccessKit mejora el soporte para tecnologías asistivas, alineándose con estándares de accesibilidad.
+- [Sitio oficial de Godot Engine "Godot 4.5, making dreams accessible" 🌐🟡③](https://godotengine.org/releases/4.5/) .- Esta página detalla las mejoras en accesibilidad, como el soporte para lectores de pantalla mediante AccessKit, y enfatiza la integración de herramientas inclusivas en el motor.
+- [Artículo en Game Developer "Godot 4.5 ushers in multiple accessibility features" 🌐🟡③](https://www.gamedeveloper.com/programming/godot-4-5-ushers-in-accessibility-features-including-screen-reader-support) .-  Publicado el 16 de septiembre de 2025, resalta cómo AccessKit mejora el soporte para tecnologías asistivas, alineándose con estándares de accesibilidad.
 - Can I Play That?: "Godot 4.5 improves accessibility support, including screen readers". Disponible en: https://caniplaythat.com/2025/04/29/godot-4-5-improves-accessibility-support-including-screen-readers/. Publicado el 29 de abril de 2025, discute el impacto en el desarrollo de juegos accesibles para personas con discapacidades.
 - Vídeo en YouTube: "GODOT se volverá más ACCESIBLE | Review Godot 4.5". Canal: [asumir canal basado en búsqueda, ej. un canal de reseñas]. Disponible en: https://www.youtube.com/watch?v=vQRZWJUmPWI. Publicado el 17 de septiembre de 2025, ofrece una revisión positiva de las novedades en accesibilidad.
 - Artículo en ITSFOSS News: "Godot 4.5 Release Brings Accessibility Features, Shader Baker, and More". Disponible en: https://news.itsfoss.com/godot-4-5-release/. Publicado el 17 de septiembre de 2025, elogia las características de accesibilidad como un avance para el software libre.

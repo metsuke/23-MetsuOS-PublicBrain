@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-07T07:43:18.747Z
-modified: 2025-10-07T17:34:23.471Z
+modified: 2025-10-18T13:21:01.128Z
 supervisado: 2024-05-27T13:38:00.569Z
 ACCION:
 ver_major: 0
 ver_minor: 4
-ver_rev: 14
+ver_rev: 16
 nav_primary:
 nav_secondary:
 tags:
@@ -248,7 +248,7 @@ Un ejemplo cargando texturas de MetsuOS
 
 - [Documentación oficial de PixiJS sobre Textures (v8.x) 🌐🟡③](https://pixijs.com/8.x/guides/components/textures) .– Proporciona una guía detallada sobre la carga y uso de texturas, alineada con el ciclo de vida descrito.
 - [Documentación oficial de PixiJS sobre Assets (v8.x) 🌐🟡③](https://pixijs.com/8.x/guides/components/assets) .- Explica el sistema de carga asíncrona y caché, respaldando los ejemplos de código proporcionados.
-- Tutorial en YouTube: "Pixi.js Tutorial for Absolute Beginners - Assets" por Wael Yasmina (2024): [https://www.youtube.com/watch?v=JRYU6-CgHU4](https://www.youtube.com/watch?v=JRYU6-CgHU4) – Demuestra la carga de assets de forma práctica, coincidiendo con los métodos descritos.
+		º - Tutorial en YouTube: "Pixi.js Tutorial for Absolute Beginners - Assets" por Wael Yasmina (2024): [https://www.youtube.com/watch?v=JRYU6-CgHU4](https://www.youtube.com/watch?v=JRYU6-CgHU4) – Demuestra la carga de assets de forma práctica, coincidiendo con los métodos descritos.
 - Tutorial en YouTube: "PixiJS Part 4: Texture Loading" (2019): [https://www.youtube.com/watch?v=EDEUsXqPTI0](https://www.youtube.com/watch?v=EDEUsXqPTI0) – Cubre la carga de texturas en versiones anteriores, pero compatible con v8.x en principios básicos.
 - Tutorial de PixiJS para principiantes por Wael Yasmina (2024): [https://waelyasmina.net/articles/pixi-js-tutorial-for-complete-beginners/](https://waelyasmina.net/articles/pixi-js-tutorial-for-complete-beginners/) – Refuerza conceptos de carga y gestión con ejemplos accesibles.
 - Tutoriales para PixiJS y TexturePacker por CodeAndWeb: [https://www.codeandweb.com/texturepacker/tutorials/pixijs](https://www.codeandweb.com/texturepacker/tutorials/pixijs) – Enfocado en optimización de texturas y sprite sheets, apoyando las prácticas de rendimiento.

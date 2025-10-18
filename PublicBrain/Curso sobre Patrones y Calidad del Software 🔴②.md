@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-10-09T06:17:58.164Z
-modified: 2025-10-14T12:12:15.738Z
+modified: 2025-10-18T09:26:51.180Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -145,9 +145,9 @@ Análisis de proyectos open-source, como Spring Framework o Netflix OSS.
 
 Estas referencias respaldan los conceptos de patrones de diseño y calidad de software, promoviendo su uso para mejorar la mantenibilidad y eficiencia. He verificado su existencia y vigencia actual (a fecha de octubre de 2025), priorizando enlaces oficiales o de editores.
 
-- [Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). Design Patterns: Elements of Reusable Object-Oriented Software 🌐🟡③](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) Addison-Wesley. .
-- Martin, R. C. (2008). *Clean Code: A Handbook of Agile Software Craftsmanship*. Prentice Hall. Enlace: [https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (versión corregida y vigente).
-- Freeman, E., Robson, E., Bates, B., & Sierra, K. (2004). *Head First Design Patterns*. O'Reilly Media. Enlace: [https://www.oreilly.com/library/view/head-first-design/9781492077992/](https://www.oreilly.com/library/view/head-first-design/9781492077992/).
+- [Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley 🌐🟡③](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) 
+- [Martin, R. C. (2008). *Clean Code: A Handbook of Agile Software Craftsmanship*. Prentice Hall 🌐🟡③](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (versión corregida y vigente).
+- Freeman, E., Robson, E., Bates, B., & Sierra, K. (2004). *Head First Design Patterns*. O'Reilly Media. Enlace: [https://www.oreilly.com/library/view/head-first-design/9781492077992/](https://www.oreilly.com/library/view/head-fir1st-design/9781492077992/).
 - Fowler, M. (1999). *Refactoring: Improving the Design of Existing Code*. Addison-Wesley. Enlace: [https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672).
 - Fowler, M. (2002). *Patterns of Enterprise Application Architecture*. Addison-Wesley. Enlace: [https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420).
 - Newman, S. (2015). *Building Microservices: Designing Fine-Grained Systems*. O'Reilly Media. Enlace: [https://www.oreilly.com/library/view/building-microservices/9781491950340/](https://www.oreilly.com/library/view/building-microservices/9781491950340/).

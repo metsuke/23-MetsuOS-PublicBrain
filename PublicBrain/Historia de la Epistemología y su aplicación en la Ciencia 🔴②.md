@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-23T18:16:28.303Z
-modified: 2025-10-06T16:10:27.729Z
+modified: 2025-10-19T06:18:46.025Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary:
 nav_secondary:
 tags:
@@ -242,12 +242,10 @@ Este contenido ofrece un viaje completo a través de la historia de la epistemol
 
 ## Referencias bibliográficas que apoyan el contenido
 
-> WIP Revisando Fuentes
 
 - [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]] .- Obra clave que introduce el concepto de paradigma y su influencia en el progreso científico.
 - [[Libro - Science as Social Knowledge Values and Objectivity in Scientific Inquiry - Helen E. Longino  ⚫①-🌐🟡③]]  - Explora la epistemología desde una perspectiva social y feminista, destacando el carácter colectivo del conocimiento.
-- Hacking, I. (1999). _The Social Construction of What?_. Cambridge, MA: Harvard University Press.
-    - Analiza la construcción social del conocimiento científico, conectando con debates epistemológicos contemporáneos.
+- [Hacking, I. (1999). The Social Construction of What?. Cambridge, MA: Harvard University Press 🌐🟡③](https://www.jstor.org/stable/j.ctv1bzfp1z) .- Analiza la construcción social del conocimiento científico, conectando con debates epistemológicos contemporáneos.
 
 ## Referencias bibliográficas que críticas o perspectivas alternativas
 

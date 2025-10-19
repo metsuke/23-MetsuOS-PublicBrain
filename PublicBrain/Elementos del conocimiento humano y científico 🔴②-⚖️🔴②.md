@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2025-04-23T02:09:18.486Z
+modified: 2025-10-19T06:50:37.459Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 14
+ver_rev: 15
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,8 @@ tags:
 ---
 
 TODO: Perfilar e implementar los pasos de gestion de conocimiento  ⚫① a  ⚪⑥ en el nuevo #MetsuOS
+
+[[Metodología detallada de MetsuOS para la gestión probabilistica del conocimiento - Raúl Carrillo Garrido aka metsuke  ⚫①]]
 
 ---
 
@@ -119,11 +121,15 @@ graph LR
 
 ## Referencias bibliográficas que apoyan este contenido:
 
+> WIP Revisando Fuentes
+
 * [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
 * [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
 * Lakatos, I. (1970). La metodología de los programas de investigación científica. Madrid: Alianza Editorial.
 
 ## Referencias bibliográficas que refutan este contenido
+
+> WIP Revisando Fuentes
 
 * Feyerabend, P. K. (1975). Against Method: Outline of an Anarchistic Theory of Knowledge. Londres: New Left Books.
 * Kitcher, P. (1993). The Advancement of Science: Science Without Legend, Objectivity Without Illusions. Nueva York: Oxford University Press.

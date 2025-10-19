@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-17T12:52:39.385Z
-modified: 2025-04-17T12:54:22.804Z
+modified: 2025-10-19T07:15:38.815Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: 
 nav_secondary: 
 tags:
@@ -162,9 +162,11 @@ Esta sección propone pasos prácticos para abordar el estudio de Garcilaso con 
 
 ## 8. Referencias Bibliográficas de Apoyo
 
+> WIP Analizando Fuentes
+
 Estas fuentes respaldan el enfoque de la guía, destacando la importancia de Garcilaso como innovador poético y figura clave del Renacimiento:
 
-1. **Alonso, Dámaso (1945). _La poesía de Garcilaso_. Espasa-Calpe.**
+1. Alonso, Dámaso (1945). La poesía de Garcilaso. Espasa-Calpe.
     - Ofrece un análisis profundo del estilo y los temas de Garcilaso, reforzando su papel como renovador de la lírica española.
 2. **Rivers, Elías L. (1980). _Garcilaso de la Vega: Poesías completas_. Castalia.**
     - Proporciona una edición crítica fiable, esencial para el estudio textual de sus obras.
@@ -172,6 +174,8 @@ Estas fuentes respaldan el enfoque de la guía, destacando la importancia de Gar
     - Contextualiza la evolución de Garcilaso, apoyando la idea de su fusión de tradiciones poéticas.
 
 ## 9. Referencias Bibliográficas de Refutación
+
+> WIP Analizando Fuentes
 
 Algunas perspectivas podrían cuestionar aspectos de la guía, como el énfasis en el petrarquismo o la idealización de Garcilaso como figura renacentista:
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-23T18:19:35.623Z
-modified: 2025-05-23T19:33:01.235Z
+modified: 2025-10-19T20:59:53.700Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
@@ -58,18 +58,19 @@ Como mínimo, vale la pena investigar un poco ¿no creeis?
 
 ### Fuentes que apoyan el contexto de Battlemail
 
+> WIP Revisando fuentes
+
 Estas fuentes proporcionan contexto sobre la cultura de los videojuegos en los años 2000 y el uso de tecnologías como Flash en juegos en línea:
 
-1. **Salen, K., & Zimmerman, E. (2004). _Rules of Play: Game Design Fundamentals_. MIT Press.**  
-    Este libro explora los fundamentos del diseño de videojuegos, incluyendo mecánicas simples como las de Battlemail, que capturaban la atención mediante interacción social. [El libro de Salen y Zummerman en Amazon 🌐🟡③](https://www.amazon.es/Rules-Play-Design-Fundamentals-Press/dp/0262240459/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.fFpLlOjETVNPEnH1fABWEw.MELVsfeIs8vZvl_drHIW9X0Io79vnPyNPm69CiQeN2s&dib_tag=se&keywords=_Rules+of+Play%3A+Game+Design+Fundamentals_.+MIT+Press&qid=1748025537&sr=8-1&ufe=app_do%3Aamzn1.fos.5e544547-1f8e-4072-8c08-ed563e39fc7d)
-    
-2. **Juul, J. (2005). _Half-Real: Video Games between Real Rules and Fictional Worlds_. MIT Press.**  
+* [Salen, K., & Zimmerman, E. (2004). Rules of Play: Game Design Fundamentals. MIT Press. 🌐🟡③](https://www.amazon.es/Rules-Play-Design-Fundamentals-Press/dp/0262240459/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.fFpLlOjETVNPEnH1fABWEw.MELVsfeIs8vZvl_drHIW9X0Io79vnPyNPm69CiQeN2s&dib_tag=se&keywords=_Rules+of+Play%3A+Game+Design+Fundamentals_.+MIT+Press&qid=1748025537&sr=8-1&ufe=app_do%3Aamzn1.fos.5e544547-1f8e-4072-8c08-ed563e39fc7d) .- Este libro explora los fundamentos del diseño de videojuegos, incluyendo mecánicas simples como las de Battlemail, que capturaban la atención mediante interacción social.
+* Juul, J. (2005). _Half-Real: Video Games between Real Rules and Fictional Worlds_. MIT Press.**  
     Analiza cómo los videojuegos de principios de los 2000 combinaban reglas simples con narrativas atractivas, un rasgo clave de juegos como Battlemail. [El libro de Juul en Amazon 🌐🟡③](https://www.amazon.es/Half-Real-MIT-Press-Jesper-Juul/dp/0262516519/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.xdzU9pg4t7MulL5DKCCshw.fYHFR1T9PnaPPZAYcLIsecUH8jiPI2k2liV098hliMk&qid=1748026015&sr=8-1)
-    
-3. **The History of Flash Games - Documentary (2020). YouTube.**  
+* The History of Flash Games - Documentary (2020). YouTube.
     Este documental de Gaming Historian explora el auge y declive de los juegos basados en Flash, como Battlemail. [El Documental - The History of Flash Games en Youytube 🌐🟡③](https://www.youtube.com/watch?v=n1UZE8hPqc8)
     
 ### Fuentes que refutan o critican el modelo de Battlemail
+
+> WIP Revisando fuentes
 
 Estas fuentes destacan las limitaciones de los juegos basados en tecnologías obsoletas o mecánicas simples, lo que podría explicar el cierre de Battlemail:
 

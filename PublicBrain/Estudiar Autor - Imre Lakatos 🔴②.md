@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-20T14:28:53.926Z
-modified: 2025-10-06T16:51:00.639Z
+modified: 2025-10-19T06:36:15.675Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary:
 nav_secondary:
 tags:
@@ -320,10 +320,8 @@ Estudiar a Imre Lakatos es una aventura intelectual que combina filosofía, hist
 
 > WIP Revisando Fuentes
 
-1. **Hacking, I. (1979). “Imre Lakatos’s Philosophy of Science”. _British Journal for the Philosophy of Science_, 30(4), 381-402.**
-    - Apoya la relevancia de la MPIC como un avance sobre el falsacionismo de Popper, destacando su capacidad para explicar el progreso científico.
-2. **Musgrave, A. (1976). “Method or Madness?”. En _Method and Appraisal in the Physical Sciences_ (ed. Lakatos y Latsis). Cambridge University Press.**
-    - Defiende la MPIC como un marco racional para evaluar programas científicos, alineándose con el enfoque de Lakatos.
+1. [Hacking, I. (1979). “Imre Lakatos’s Philosophy of Science”. _British Journal for the Philosophy of Science_, 30(4), 381-402  🌐🟡③](https://www.journals.uchicago.edu/doi/abs/10.1093/bjps/30.4.381?journalCode=bjps) .- Apoya la relevancia de la MPIC como un avance sobre el falsacionismo de Popper, destacando su capacidad para explicar el progreso científico.
+2. [Musgrave, A. (1976). “Method or Madness?”. En _Method and Appraisal in the Physical Sciences_ (ed. Lakatos y Latsis). Cambridge University Press 🌐🟡③](https://www.rationalrealm.com/philosophy/epistemology/imre-lakatos-critical-apraisal.html) .- Defiende la MPIC como un marco racional para evaluar programas científicos, alineándose con el enfoque de Lakatos.
 3. **Worrall, J. (2002). “Lakatos’s Philosophy of Science”. En _Appraising Lakatos_ (ed. Kampis et al.). Kluwer Academic Publishers.**
     - Resalta la importancia de _Proofs and Refutations_ para la filosofía de las matemáticas y su enfoque quasi-empírico.
 4. **Larvor, B. (1998). _Lakatos: An Introduction_. Routledge.**

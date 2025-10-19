@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-03-29T22:03:57.697Z
-modified: 2025-10-06T16:27:55.633Z
+modified: 2025-10-19T06:30:05.052Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary:
 nav_secondary:
 tags:
@@ -152,8 +152,8 @@ La historia de la ciencia revela una mezcla de continuidad y rupturas, ofreciend
 
 > WIP Rrevisando fuentes
 
-- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]].- Apoya la sección de filosofía de la ciencia, especialmente los paradigmas.
-- **Libro: Una pequeña historia de la ciencia** de William Bynum. Cubre orígenes y desarrollo histórico de la ciencia. Enlace: [PDF disponible](https://cursoshistoriavdemexico.files.wordpress.com/2019/07/bynum-william-una-pequec3b1a-historia-de-la-ciencia.pdf).
+- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]] .- Apoya la sección de filosofía de la ciencia, especialmente los paradigmas.
+- [Libro: Una pequeña historia de la ciencia** de William Bynum - PDF Disponible  🌐🟡③](https://cursoshistoriavdemexico.files.wordpress.com/2019/07/bynum-william-una-pequec3b1a-historia-de-la-ciencia.pdf) .- Cubre orígenes y desarrollo histórico de la ciencia. 
 - **Libro: Historia de la ciencia** editado por Elías Trabulse (1991). Apoya secciones medievales y renacentistas. Enlace: [PDF en CLACSO](https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/250736/1/Historia-de-la-ciencia.pdf).
 - **Vídeo: El MÉTODO CIENTÍFICO: Definición, etapas y ejemplos** (YouTube). Explica el método científico con ejemplos históricos. Enlace: [YouTube](https://www.youtube.com/watch?v=MN10KQyvUz0).
 - **Vídeo: EL MÉTODO CIENTÍFICO (Documental Completo)** (YouTube). Cubre historia y filosofía del método. Enlace: [YouTube](https://www.youtube.com/watch?v=KKlKY3tDYvs).

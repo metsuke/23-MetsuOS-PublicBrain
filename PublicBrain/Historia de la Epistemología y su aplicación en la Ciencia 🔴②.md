@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-23T18:16:28.303Z
-modified: 2025-10-19T06:18:46.025Z
+modified: 2025-10-24T18:42:35.356Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary:
 nav_secondary:
 tags:
@@ -251,8 +251,7 @@ Este contenido ofrece un viaje completo a través de la historia de la epistemol
 
 > WIP Revisando Fuentes
 
-- Popper, K. (1963). _Conjeturas y refutaciones_. Londres: Routledge.
-    - Cuestiona el modelo de paradigmas de Kuhn, defendiendo el falsacionismo como motor del avance científico.
+- [Popper, K. (1963). Conjeturas y refutaciones. Londres: Routledge  🌐🟡③](https://dn721906.ca.archive.org/0/items/karl-popper-conjeturas-y-refutaciones.-el-desarrollo-del-conocimiento-cientifico/Karl%20Popper%20-%20Conjeturas%20y%20refutaciones.%20El%20desarrollo%20del%20conocimiento%20cientifico.pdf) .- Cuestiona el modelo de paradigmas de Kuhn, defendiendo el falsacionismo como motor del avance científico.
 - Feyerabend, P. (1975). _Contra el método_. Madrid: Tecnos (edición en español, 1981).
     - Rechaza las epistemologías normativas, abogando por un pluralismo metodológico que desafía las estructuras tradicionales.
 - Lakatos, I. (1970). "Falsification and the Methodology of Scientific Research Programmes". En I. Lakatos & A. Musgrave (Eds.), _Criticism and the Growth of Knowledge_ (pp. 91–196). Cambridge: Cambridge University Press.

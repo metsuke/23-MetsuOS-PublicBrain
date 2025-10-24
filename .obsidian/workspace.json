@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
+                "file": "PublicBrain/Historia de los videojuegos de aventura a traves de CAAD  🔴②.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Historia de la Epistemología y su aplicación en la Ciencia 🔴②"
+              "title": "Historia de los videojuegos de aventura a traves de CAAD  🔴②"
+            }
+          },
+          {
+            "id": "d8d9e1fef0bdbd00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KB"
             }
           }
         ]
@@ -204,8 +218,15 @@
   },
   "active": "5b6901ac0c191eae",
   "lastOpenFiles": [
-    "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
     "KB.md",
+    "Novedades.md",
+    "PublicBrain/Historia de los videojuegos de aventura a traves de CAAD  🔴②.md",
+    "PublicBrain/_resources/18713be6c249379ca3b76cdf6731942e_MD5.jpg",
+    "PublicBrain/Index.md",
+    "Historia de los videojuegos de aventura a traves de CAAD  ⚫①.md",
+    "Index.md",
+    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
+    "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
     "PublicBrain/Curso de PixiJS ⚫①.md",
     "PublicBrain/Blog - Battlemail - Mi primer juego viral - 2025-05-24  🔴②.md",
     "PublicBrain/Aprender con Garcilaso de la Vega 🔴②.md",
@@ -221,16 +242,10 @@
     "PublicBrain/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③.md",
     "PublicBrain/Estudiar Autor - Imre Lakatos 🔴②.md",
     "PublicBrain/Historia de la Ciencia y del Método Científico 🔴②.md",
-    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
     "PublicBrain/Carga y gestión de imágenes y texturas (PixiJS) 🔴②.md",
     "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "PublicBrain/Curso sobre Patrones y Calidad del Software 🔴②.md",
-    "PublicBrain/Noticias - Lanzamiento de Godot 4.3 - Un Avance Revolucionario en Accesibilidad y Software Libre para el Desarrollo de Videojuegos Inclusivos - 2025-10-12  🔴②.md",
-    "PublicBrain/Curso de GB Studio 🔴②.md",
-    "PublicBrain/Curso de Retro-X 🔴②.md",
-    "Apps.md",
     "_resources/ff83acc613b0ecaf57d45bf283768012_MD5.jpg",
-    "Novedades.md",
     "PublicBrain/_resources/8557062a765ee48d9d17d21cf48c2747_MD5.jpg",
     "PublicBrain/_resources/f48c32212e31474740c2a7245104ac8a_MD5.jpg",
     "PublicBrain/_resources/679c1015d460588a51f2bb673a8fc224_MD5.jpg",
@@ -241,7 +256,6 @@
     "https_",
     "PublicBrain/_resources/3c671f8c502b676c4341adde15035570_MD5.jpg",
     "PublicBrain/_resources/251b36b8c18397aeb5b3d48e3f7e7e85_MD5.jpg",
-    "PublicBrain/SpaceInvadersMonedas100YenesJaponPsicohistoria.jpg",
     "PublicBrain/Untitled.canvas",
     "PublicBrain/A11Y_Introduccion.mp4",
     "A11Y_Introduccion.mp4",

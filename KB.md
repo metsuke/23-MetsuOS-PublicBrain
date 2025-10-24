@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-10-09T11:09:34.045Z
+modified: 2025-10-24T19:52:58.440Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 30
+ver_rev: 31
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,17 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+![Historia Videojuegos Aventura con CAAD](PublicBrain/_resources/18713be6c249379ca3b76cdf6731942e_MD5.jpg)
+
+## Historia de los videojuegos de aventura a traves de CAAD
+
+En las profundidades de la era dorada del software español, cuando los ordenadores de 8 bits parpadeaban con promesas de mundos imposibles, nació un fanzine que no solo documentó, sino que *tejió* la historia viva de los videojuegos de aventura: **CAAD**. Desde su primer número en 1989 hasta la Tercera Edad digital de 2025, este boletín epistolar, luego foro y ahora archivo interactivo, no es un mero repositorio de soluciones y reseñas: es el **diario de bitácora de una generación** que convirtió la imaginación en código, el parser en poesía y la comunidad en resistencia cultural. Este curso no estudia la aventura —la *vive* a través de sus páginas—, desgranando número por número la evolución de un género que, contra todo pronóstico, sigue desafiando al tiempo.
+
+Continua leyendo en ... [[Historia de los videojuegos de aventura a traves de CAAD  🔴②]]
+
+--- column-end ---
 
 ![Curso Patrones y Calidad del Softwarre](PublicBrain/_resources/21f22e00084c6932dd97ea0d27c492d4_MD5.jpg)
 ## Curso Patrones y Calidad del Software

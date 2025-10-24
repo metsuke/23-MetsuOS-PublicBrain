@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-10-12T22:41:16.675Z
+modified: 2025-10-24T19:51:06.897Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 226
+ver_rev: 228
 nav_primary:
 nav_secondary:
 tags:
@@ -57,6 +57,11 @@ MOS_TopImg_Video: PublicBrain.mp4
 * [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
 * [[Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②]]
 * [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]]
+
+#### Historia
+
+[[Historia de los videojuegos de aventura a traves de CAAD  🔴②]]
+
 #### Lengu0ajes
 
 * Curso Crea Juegos desde cero en BASIC (Próximamente)

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2025-10-15T12:32:53.858Z
+modified: 2025-10-28T21:45:33.641Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 49
+ver_rev: 50
 nav_primary:
 nav_secondary:
 tags:
@@ -180,11 +180,20 @@ Border: off
 
 ## MetsuOS in a Nutshell
 
+### Capas de Infraestructura
+
 ```mermaid
 graph LR
     A[MetsuOS] --> B[mosLib]
     B --> C[mosSystemCore]
     C --> D[mosSystemUI]
+```
+
+### Capa de Servicios
+
+```mermaid
+graph LR
+    D[mosSystemUI]
     D --> E[mosA11YManager]
     D --> F[mosAutomationManager]
     D --> G[mosBrainManager]
@@ -203,6 +212,13 @@ graph LR
     K --> N[mosAppEcosystem]
     L --> N[mosAppEcosystem]
     M --> N[mosAppEcosystem]
+```
+
+### Capa de Aplicaciones
+
+```mermaid
+graph LR
+    N[mosAppEcosystem]
     N --> O[mosA11YTool]
     N --> P[mosBrainTool]
     N --> Q[mosDevTool]
@@ -214,6 +230,7 @@ graph LR
     N --> W[mosIATool]
     W --> X[mosIAPromtManager]
 ```
+
 
 ![[Plantilla - 1MT#One More Thing]]
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2025-10-28T21:45:33.641Z
+modified: 2025-10-29T18:04:26.229Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 50
+ver_rev: 52
 nav_primary:
 nav_secondary:
 tags:
@@ -110,10 +110,6 @@ mosSystemUI: Interfaz sin límites. Donde la accesibilidad encuentra la innovaci
 
 ## MetsuOS Base System: El Pilar Accesible de la Interfaz Unificada
 
-## MetsuOS Base System Icon
-
-## MetsuOS Base System: El Pilar Accesible de la Interfaz Unificada
-
 MetsuOS Base System es la base estructural y accesible que se edifica directamente sobre mosSystemUI, integrando una capa intermedia de módulos clave como mosA11YManager, mosAutomationManager, mosBrainManager, mosIAManager, mosLegalManager, mosNetManager, mosRTManager, mosSecurityManager, y mosTaskManager en un núcleo cohesivo y dinámico. 
 
 Este sistema fundamental transforma la interfaz intuitiva de mosSystemUI en un puente hacia la inclusión, asegurando una verificación constante de accesibilidad a través de herramientas como mosA11YTool, automatizando procesos repetitivos con mosAutomationManager, reforzando la seguridad con mosSecurityManager, gestionando tareas con precisión mediante mosTaskManager, y facilitando un ecosistema de aplicaciones coordinado por mosAppEcosystem, que integra herramientas como mosGameTool para mosGameMaker y mosRetroLauncher en cualquier entorno. 
@@ -147,32 +143,119 @@ Border: off
 
 ### mosA11YManager
 
- --- column-end ---
+mosA11YManager Icon
 
+**mosA11YManager: El Guardián de la Accesibilidad Universal en MetsuOS**
+
+mosA11YManager es el módulo central que orquesta la accesibilidad en todo el ecosistema MetsuOS, integrándose directamente con mosSystemUI y herramientas como mosA11YTool para garantizar que cada interacción sea inclusiva por diseño. Este gestor verifica en tiempo real el cumplimiento de estándares como WCAG, implementa lectores de pantalla avanzados, navegación por voz y gestos, y adapta dinámicamente la interfaz a necesidades individuales —desde modos de alto contraste hasta soporte para discapacidades motoras o cognitivas—.
+
+Más allá de la corrección, mosA11YManager impulsa la creación de videojuegos accesibles mediante mosGameMaker, auditando assets en mosImageConverter y entornos en mosRetroLauncher. Con mosBrainManager, evalúa la usabilidad con rigor probabilístico, neutralizando barreras y fomentando la innovación inclusiva.
+
+mosA11YManager: Accesibilidad como superpoder. Inclusión sin excepciones.
+
+--- column-end --- 
 ### mosAutomationManager
 
---- column-end ---
+mosAutomationManager Icon
+
+**mosAutomationManager: La Orquestadora de Procesos Inteligentes en MetsuOS**
+
+mosAutomationManager es el motor de automatización que libera al usuario de tareas repetitivas, construyendo flujos inteligentes sobre mosSystemUI para optimizar el desarrollo y mantenimiento de videojuegos accesibles. Integra scripts personalizables, macros contextuales y workflows que se activan por eventos —desde compilación automática en mosGameMaker hasta sincronización en mosGitSync—.
+
+Apoyado en mosTaskManager para priorización y mosSecurityManager para ejecución segura, este módulo transforma rutinas en eficiencia, permitiendo enfocarte en la creatividad. En versiones Pro y Enterprise, añade IA predictiva para anticipar necesidades y escalar operaciones en equipos.
+
+mosAutomationManager: Automatiza lo mundano. Libera lo extraordinario.
+
+--- column-end --- 
 ### mosBrainManager
 
---- column-end ---
+mosBrainManager Icon
+
+**mosBrainManager: El Validador de Sabiduría Contextual en MetsuOS**
+
+mosBrainManager es el núcleo cognitivo que aplica el sistema de niveles de validación ⚫🔴🟡🟢🔵⚪ en todos los contenidos y procesos de MetsuOS, asegurando información neutral, rigurosa y libre de dogmas. Integrado con mosSystemUI, evalúa credibilidad probabilística —combinando análisis científico, filosófico y empático— para etiquetar datos en herramientas como mosBrainTool o mosIAPromtManager.
+
+Neutraliza sesgos ideológicos o "opiniones expertas" anticientíficas, incorporando el estándar OTAN de fiabilidad (A-F / 1-6) y referencias cruzadas. En el ecosistema de apps, guía la creación de juegos con conocimiento consolidado, promoviendo decisiones informadas y éticas.
+
+mosBrainManager: Sabiduría probabilística. Conocimiento sin cadenas.
+
+--- column-end --- 
 ### mosIAManager
+
+mosIAManager Icon
+
+**mosIAManager: El Orquestador de Ejecución IA en MetsuOS**
+
+mosIAManager es el gestor central de ejecución de inteligencia artificial que coordina, optimiza y supervisa todos los procesos IA dentro del ecosistema MetsuOS, asentado sobre mosSystemUI. Controla la carga, priorización y escalado de modelos —desde inferencia local hasta integración con servicios externos— en herramientas como mosIAPromtManager, mosBrainTool o mosGameMaker para generación accesible de assets, diálogos o mecánicas.
+
+Integra con mosTaskManager para colas inteligentes, mosSecurityManager para ejecución en sandbox y mosBrainManager para validación probabilística de salidas IA. En versiones Pro y Enterprise, habilita pipelines personalizados, fine-tuning seguro y despliegue multi-GPU/TPU, manteniendo la soberanía del usuario sobre datos y modelos.
+
+mosIAManager: Ejecución IA sin límites. Inteligencia al servicio de la creación.
 
 --- column-end ---
 ### mosLegalManager
 
---- column-end ---
+mosLegalManager Icon
 
+**mosLegalManager: El Escudo de Cumplimiento Normativo en MetsuOS**
+
+mosLegalManager es el módulo que asegura el cumplimiento legal y ético en todo el sistema, verificando licencias, derechos de autor y regulaciones —como GDPR o accesibilidad— sobre mosSystemUI. Integra con mosAppEcosystem para auditar assets, contratos o distribuciones.
+
+Apoyado en mosBrainManager para análisis probabilístico de riesgos legales, genera reportes automáticos y alertas. En versiones Enterprise, gestiona licencias comerciales y auditorías para PYMEs, manteniendo el equilibrio entre software libre (Community) y privado.
+
+mosLegalManager: Legalidad proactiva. Innovación con integridad.
+
+--- column-end --- 
 ### mosNetManager
 
---- column-end ---
+mosNetManager Icon
+
+**mosNetManager: El Conector Universal de Redes en MetsuOS**
+
+mosNetManager es el gestor de conectividad que unifica redes locales, cloud y P2P en MetsuOS, asegurando comunicación fluida y segura sobre mosSystemUI. Maneja protocolos adaptativos —WebRTC, VPN integradas y offline-first— para sincronización en mosGitSync, multiplayer en mosGameMaker o actualizaciones en mosAppEcosystem.
+
+Con mosSecurityManager, encripta tráfico y optimiza latencia; mosRTManager añade soporte en tiempo real. En Pro/Enterprise, escala a redes empresariales con balanceo de carga y monitoreo predictivo.
+
+mosNetManager: Conexión sin fronteras. Red inteligente y resiliente.
+
+--- column-end --- 
 ### mosRTManager
 
---- column-end ---
-### mosSecutityManager
+mosRTManager Icon
 
---- column-end ---
+**mosRTManager: El Maestro del Tiempo Real en MetsuOS**
 
+mosRTManager es el módulo especializado en operaciones en tiempo real, optimizando latencia y sincronización en entornos dinámicos sobre mosSystemUI. Impulsa multiplayer accesible en mosGameMaker, emulación fluida en mosRetroLauncher y flujos colaborativos en mosDevTool.
+
+Integra con mosNetManager para redes RT y mosTaskManager para priorización crítica. En versiones avanzadas, incorpora predicción IA para jitter y escalabilidad en juegos o automatizaciones.
+
+mosRTManager: Tiempo real impecable. Experiencias instantáneas y accesibles.
+
+--- column-end --- 
+### mosSecurityManager
+
+mosSecurityManager Icon
+
+**mosSecurityManager: La Fortaleza Inquebrantable de MetsuOS**
+
+mosSecurityManager es el guardián integral de seguridad que protege datos, procesos y usuarios en todo MetsuOS, sobre mosSystemUI. Implementa encriptación end-to-end, detección de amenazas IA y auditorías continuas, integrándose con mosIAManager para accesos y mosAutomationManager para ejecuciones seguras.
+
+Bloquea vulnerabilidades en apps como mosImageConverter o mosGameMaker, con sandboxing y actualizaciones zero-trust. En Enterprise, añade compliance avanzado y respuesta a incidentes.
+
+mosSecurityManager: Seguridad como prioridad. Privacidad que empodera.
+
+--- column-end --- 
 ### mosTaskManager
+
+mosTaskManager Icon
+
+**mosTaskManager: El Director de Orquesta de Tareas en MetsuOS**
+
+mosTaskManager es el gestor de tareas que prioriza, agenda y ejecuta procesos con eficiencia inteligente sobre mosSystemUI. Integra colas dinámicas, dependencias y notificaciones para workflows en mosAutomationManager, builds en mosGameMaker o sincronizaciones en mosGitSync.
+
+Con mosBrainManager, asigna prioridades probabilísticas; mosRTManager maneja tareas críticas. En Pro/Enterprise, soporta equipos con dashboards colaborativos y métricas predictivas.
+
+mosTaskManager: Tareas bajo control. Productividad sin esfuerzo.
 
  --- column-end ---
 --- multi-column-end
@@ -222,6 +305,7 @@ graph LR
     N --> O[mosA11YTool]
     N --> P[mosBrainTool]
     N --> Q[mosDevTool]
+    Q --> A[mosDiagramGeneratorr]
     Q --> R[mosGitSync]
     N --> S[mosGameTool]
     V --> T[mosImageConverter]

@@ -1,23 +1,24 @@
 ---
 iaStatus: 8
 iaStatus_Model: Raúl Carrillo Garrido aka metsuke
-iaStatus_Generado: "H"
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-10-31T05:33:23.554Z
+modified: 2025-11-05T21:53:18.781Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 34
-nav_primary: 
-nav_secondary: 
+ver_rev: 37
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: CursoProgramacionVideojuegos.mp4
 ---
 # KB
 
@@ -26,6 +27,15 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Curso de Programación de Videojuegos](_resources/ab682a87e91126b25cb2408572d50146_MD5.jpg)
+## Curso de Programación de Videojuegos
+
+Este curso ofrece una formación completa y práctica en la programación de videojuegos con el motor Godot Engine, centrándonos en los lenguajes C y C++ mediante el sistema GDExtension, que permite integrar código nativo de manera eficiente en versiones de Godot 4 y superiores. 
+
+Continuar leyendo en [[Curso de Programación de Videojuegos con Godot Engine 🔴②]]
+
+--- column-end ---
 
 ![Curso Juegos MSDOS Allegro4_000](PublicBrain/_resources/93d75e97af5c55894ae99095c0b5ab2b_MD5.jpg)
 ## Curso crea juegos para MS-DOS con Allegro 4

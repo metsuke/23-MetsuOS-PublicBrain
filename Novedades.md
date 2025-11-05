@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-10-30T23:18:29.401Z
+modified: 2025-11-05T22:04:26.987Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 120
+ver_rev: 121
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,14 @@ Number of Columns: 2
 Border: off
 ```
 
+![Curso de Programación de Videojuegos](_resources/ab682a87e91126b25cb2408572d50146_MD5.jpg)
+## Curso de Programación de Videojuegos con Godot Engine
+
+Este curso ofrece una formación completa y práctica en la programación de videojuegos con el motor Godot Engine, centrándonos en los lenguajes C y C++ mediante el sistema GDExtension, que permite integrar código nativo de manera eficiente en versiones de Godot 4 y superiores. 
+
+Continuar leyendo en [[Curso de Programación de Videojuegos con Godot Engine 🔴②]]
+
+--- column-end ---
 
 ![Curso Juegos MSDOS Allegro4_000](PublicBrain/_resources/93d75e97af5c55894ae99095c0b5ab2b_MD5.jpg)
 ## Curso crea juegos para MS-DOS con Allegro 4

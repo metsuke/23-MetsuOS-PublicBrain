@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-21T10:04:56.304Z
-modified: 2025-09-24T13:24:01.354Z
+modified: 2025-11-05T07:20:59.954Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -25,7 +25,7 @@ MOS_TopImg_Video: CursoTiled002.mp4
 
 ![Instalacion de Tiled](PublicBrain/_resources/fad16bb05874da0f4dbdd97bf07cd434_MD5.jpg)
 
-* [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
+* [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D 🟡③]]
 * [[Curso de Tiled Capítulo 01 - Qué es Tiled Map Editor 🟡③|<< Anterior]] | Siguiente >>
 
 

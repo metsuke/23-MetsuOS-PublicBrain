@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-10-27T09:28:21.022Z
+modified: 2025-11-05T07:21:00.040Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 230
+ver_rev: 231
 nav_primary:
 nav_secondary:
 tags:
@@ -54,7 +54,7 @@ MOS_TopImg_Video: PublicBrain.mp4
 
 #### Herramientas
 
-* [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
+* [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D 🟡③]]
 * [[Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②]]
 * [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]]
 

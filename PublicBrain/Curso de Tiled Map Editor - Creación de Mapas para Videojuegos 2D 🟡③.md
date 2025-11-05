@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-08T20:26:42.009Z
-modified: 2025-09-21T22:15:23.044Z
+modified: 2025-11-05T07:20:59.742Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①
+# Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D 🟡③
 
 ![Portada curso tiled](PublicBrain/_resources/e289d6f95c10d2d446917703f75db36d_MD5.jpg)
 
@@ -223,8 +223,8 @@ Seguir leyendo en ... [[Curso de Tiled Capítulo 02 - Instalación y Configuraci
 
 ### Fuentes que Apoyan el Contenido
 
-1. **Tiled Map Editor Documentation** (2025). Documentación oficial de Tiled, que detalla todas las funcionalidades descritas, desde la creación de tilesets hasta AutoMapping. Disponible en: [https://doc.mapeditor.org/ 🌐🟡③](https://doc.mapeditor.org/).
-2. **GamesFromScratch** (2023). Tutorial en video: "Tiled Map Editor Tutorial Series". Explica el uso de Tiled para crear mapas y su integración con motores como Godot. Disponible en: [https://www.youtube.com/watch?v=ZwaomOYGuYo&list=PLEg-QSwhXojFdVSvOLcDkfe0i-nLlijjL  🌐🟡③](https://www.youtube.com/watch?v=ZwaomOYGuYo&list=PLEg-QSwhXojFdVSvOLcDkfe0i-nLlijjL). 
+1. [Tiled Map Editor Documentation (2025)🌐🟡③](https://doc.mapeditor.org/) .- Documentación oficial de Tiled, que detalla todas las funcionalidades descritas, desde la creación de tilesets hasta AutoMapping.
+2. [GamesFromScratch (2023)🌐🟡③](https://www.youtube.com/watch?v=ZwaomOYGuYo&list=PLEg-QSwhXojFdVSvOLcDkfe0i-nLlijjL) .- Tutorial en video: "Tiled Map Editor Tutorial Series". Explica el uso de Tiled para crear mapas y su integración con motores como Godot. 
 3. **OpenGameArt.org** (2025). Repositorio de tilesets gratuitos compatibles con Tiled, ampliamente utilizado en la comunidad de desarrollo de videojuegos. Disponible en: [https://opengameart.org/ 🌐🟡③](https://opengameart.org/).
 4. **Godot Engine Documentation** (2025). Sección sobre importación de mapas de Tiled, que valida la integración con este motor descrita en el curso. Disponible en: [https://docs.godotengine.org/en/stable/tutorials/2d/using_tilemaps.htm 🌐🟡③l](https://docs.godotengine.org/en/stable/tutorials/2d/using_tilemaps.html).
 

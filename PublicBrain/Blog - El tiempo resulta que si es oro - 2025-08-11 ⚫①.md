@@ -7,17 +7,18 @@ iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-08-11T03:28:17.420Z
-modified: 2025-08-11T12:30:10.807Z
+modified: 2025-11-05T07:08:26.350Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
-nav_primary: 
-nav_secondary: 
+ver_rev: 5
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: Blog_TiempoEsOro.mp4
 ---
 # Blog - El tiempo resulta que si es oro - 2025-08-11 ⚫①
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-14T15:13:01.784Z
-modified: 2025-09-21T10:05:33.031Z
+modified: 2025-11-05T07:20:59.935Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![Que es tiled](PublicBrain/_resources/78de386c4d6069241a37678bb849d52e_MD5.jpg)
 
-* [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D  ⚫①]]
+* [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D 🟡③]]
 * [[Curso de Tiled Capítulo 02 - Instalación y Configuracion  🔴②|Siguiente >>]]
 
 ## Introducción

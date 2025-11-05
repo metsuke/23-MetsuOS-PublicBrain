@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2025-10-29T18:04:26.229Z
+modified: 2025-10-31T20:29:51.538Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 52
+ver_rev: 56
 nav_primary:
 nav_secondary:
 tags:
@@ -143,7 +143,7 @@ Border: off
 
 ### mosA11YManager
 
-mosA11YManager Icon
+![mosA11YManager Icon](_resources/bda47e38a2ead5db4a84c7244f2daa19_MD5.jpg)
 
 **mosA11YManager: El Guardián de la Accesibilidad Universal en MetsuOS**
 
@@ -156,7 +156,7 @@ mosA11YManager: Accesibilidad como superpoder. Inclusión sin excepciones.
 --- column-end --- 
 ### mosAutomationManager
 
-mosAutomationManager Icon
+![mosAutomationManager Icon](_resources/83fd343711cede49e619f2d0f2e51bb1_MD5.jpg)
 
 **mosAutomationManager: La Orquestadora de Procesos Inteligentes en MetsuOS**
 
@@ -169,7 +169,7 @@ mosAutomationManager: Automatiza lo mundano. Libera lo extraordinario.
 --- column-end --- 
 ### mosBrainManager
 
-mosBrainManager Icon
+![mosBrainManager Icon](_resources/39b789fabb79e6f970ad5e0bb5621d16_MD5.jpg)
 
 **mosBrainManager: El Validador de Sabiduría Contextual en MetsuOS**
 
@@ -182,8 +182,8 @@ mosBrainManager: Sabiduría probabilística. Conocimiento sin cadenas.
 --- column-end --- 
 ### mosIAManager
 
-mosIAManager Icon
 
+![mosIAManager Icon](_resources/bba8e48326660cc4ba09df8bbbbfe8b7_MD5.jpg)
 **mosIAManager: El Orquestador de Ejecución IA en MetsuOS**
 
 mosIAManager es el gestor central de ejecución de inteligencia artificial que coordina, optimiza y supervisa todos los procesos IA dentro del ecosistema MetsuOS, asentado sobre mosSystemUI. Controla la carga, priorización y escalado de modelos —desde inferencia local hasta integración con servicios externos— en herramientas como mosIAPromtManager, mosBrainTool o mosGameMaker para generación accesible de assets, diálogos o mecánicas.
@@ -195,7 +195,7 @@ mosIAManager: Ejecución IA sin límites. Inteligencia al servicio de la creaci�
 --- column-end ---
 ### mosLegalManager
 
-mosLegalManager Icon
+![mosLegalManager Icon](_resources/ad04c83625a745165fa86b6485f0ac52_MD5.jpg)
 
 **mosLegalManager: El Escudo de Cumplimiento Normativo en MetsuOS**
 
@@ -208,7 +208,7 @@ mosLegalManager: Legalidad proactiva. Innovación con integridad.
 --- column-end --- 
 ### mosNetManager
 
-mosNetManager Icon
+![mosNetManager Icon](_resources/461fe69c35a8db236a5087f5a5ec08ba_MD5.jpg)
 
 **mosNetManager: El Conector Universal de Redes en MetsuOS**
 
@@ -221,7 +221,7 @@ mosNetManager: Conexión sin fronteras. Red inteligente y resiliente.
 --- column-end --- 
 ### mosRTManager
 
-mosRTManager Icon
+![mosRTManager Icon](_resources/227f705ab4fa3bd9101042c13a656890_MD5.jpg)
 
 **mosRTManager: El Maestro del Tiempo Real en MetsuOS**
 
@@ -234,7 +234,8 @@ mosRTManager: Tiempo real impecable. Experiencias instantáneas y accesibles.
 --- column-end --- 
 ### mosSecurityManager
 
-mosSecurityManager Icon
+
+![mosSecurityManager Icon](_resources/00ae6fe49628ac32a524e4e941410c7e_MD5.jpg)
 
 **mosSecurityManager: La Fortaleza Inquebrantable de MetsuOS**
 
@@ -247,7 +248,7 @@ mosSecurityManager: Seguridad como prioridad. Privacidad que empodera.
 --- column-end --- 
 ### mosTaskManager
 
-mosTaskManager Icon
+![mosTaskManager Icon](_resources/0ce869892f82d04117656da7b8657ddb_MD5.jpg)
 
 **mosTaskManager: El Director de Orquesta de Tareas en MetsuOS**
 

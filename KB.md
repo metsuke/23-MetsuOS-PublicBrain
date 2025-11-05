@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-10-24T19:52:58.440Z
+modified: 2025-10-31T05:33:23.554Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 31
+ver_rev: 34
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,18 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Curso Juegos MSDOS Allegro4_000](PublicBrain/_resources/93d75e97af5c55894ae99095c0b5ab2b_MD5.jpg)
+## Curso crea juegos para MS-DOS con Allegro 4
+
+Como siempre, la "Culpa" es de [El Spectrumero 🌐](https://www.youtube.com/watch?v=wts4lN7X_MY), abordamos antes de lo que tenia pensado el tema de MS-DOS (me planteo incluso meter MetsuOS en el), entre otras cosas como medio para meterme caña con C, lenguaje que necesito tanto para el SO, como para Prisma, CPCTelera, etc, etc, etc.
+
+Lo divertido, que apenas hice bats, cosas basicas de menus para lanzar juegos, pinitos con Div Games Studio y lo que aprendí en el curso de Unix/C/Oracle, que tengo casi olvidado, por lo que para mi, la diversión está en aprender, y de paso, que eso pueda servir a otros para llegar más allá.
+
+Continua leyendo en ... [[Curso crea juegos para MS-DOS con Allegro 4   🔴②]]
+
+
+--- column-end ---
 
 
 ![Historia Videojuegos Aventura con CAAD](PublicBrain/_resources/18713be6c249379ca3b76cdf6731942e_MD5.jpg)

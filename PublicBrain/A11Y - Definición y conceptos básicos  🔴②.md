@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-20T13:03:55.317Z
-modified: 2025-09-21T21:29:10.254Z
+modified: 2025-11-05T06:05:29.301Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -102,11 +102,8 @@ Para esquivar suposiciones intuitivas, la accesibilidad ha de fundamentarse en e
 
 Estas referencias respaldan los conceptos clave de accesibilidad, sus pilares, beneficios en diferentes entornos y la distinción entre diseño universal e inclusivo, basadas en fuentes verificadas y vigentes al 20 de septiembre de 2025.
 
-- World Wide Web Consortium (W3C). (2025). Web Content Accessibility Guidelines (WCAG) 2.1. Recuperado de https://www.w3.org/TR/WCAG21/  
-  (Apoya los pilares perceptibles, operables, entendibles y robustos en accesibilidad digital).
-
-- Acosta-Vargas, P., et al. (2024). Digital accessibility in the era of artificial intelligence—Bibliometric analysis and Systematic Review for Inclusive Education. Frontiers in Artificial Intelligence. Recuperado de https://pmc.ncbi.nlm.nih.gov/articles/PMC10905618/  
-  (Respalda evidencias científicas en accesibilidad digital e IA, con mejoras en equidad y usabilidad).
+- [World Wide Web Consortium (W3C). (2025). Web Content Accessibility Guidelines (WCAG) 2.1. 🌐🟡③](https://www.w3.org/TR/WCAG21/)  .- Apoya los pilares perceptibles, operables, entendibles y robustos en accesibilidad digital.
+- [Acosta-Vargas, P., et al. (2024). Digital accessibility in the era of artificial intelligence 🌐🟡③](https://pmc.ncbi.nlm.nih.gov/articles/PMC10905618/  )—Bibliometric analysis and Systematic Review for Inclusive Education. Frontiers in Artificial Intelligence. .- Respalda evidencias científicas en accesibilidad digital e IA, con mejoras en equidad y usabilidad.
 
 - Lowrey, K. A., et al. (2024). Priority populations' experiences of the accessibility and inclusion of programs, services, and facilities in community health implementation plans. Disability and Health Journal. Recuperado de https://pmc.ncbi.nlm.nih.gov/articles/PMC10792860/  
   (Apoya beneficios en accesibilidad física, como en centros recreativos y salud).

@@ -1,25 +1,30 @@
 ---
 iaStatus: 8
 iaStatus_Model: Grok-4, Raul Carrillo aka Metsuke
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations:
 created: 2025-11-05T07:26:48.941Z
-modified: 2025-11-05T21:43:50.452Z
+modified: 2025-11-06T04:05:50.826Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: "0"
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
+MOS_TopImg_Video: CursoProgramacionVideojuegos.mp4
 ---
 # Curso de Programación de Videojuegos con Godot Engine 🔴②
+
+![Curso de Programación de Videojuegos](_resources/ab682a87e91126b25cb2408572d50146_MD5.jpg)
+
+[[KB]]
 
 > WIP
 ## Introducción al Curso

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-11-05T07:20:59.889Z
+modified: 2025-11-06T20:53:12.514Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 33
+ver_rev: 34
 nav_primary:
 nav_secondary:
 tags:
@@ -52,6 +52,27 @@ Además, la comunidad de desarrolladores es un recurso invaluable, ofreciendo ap
 Number of Columns: 2
 Border: off
 ```
+
+![Curso de Programación de Videojuegos](_resources/ab682a87e91126b25cb2408572d50146_MD5.jpg)
+## Curso de Programación de Videojuegos
+
+Este curso ofrece una formación completa y práctica en la programación de videojuegos con el motor Godot Engine, centrándonos en los lenguajes C y C++ mediante el sistema GDExtension, que permite integrar código nativo de manera eficiente en versiones de Godot 4 y superiores. 
+
+Continuar leyendo en [[Curso de Programación de Videojuegos con Godot Engine 🔴②]]
+
+--- column-end ---
+
+![Curso Juegos MSDOS Allegro4_000](PublicBrain/_resources/93d75e97af5c55894ae99095c0b5ab2b_MD5.jpg)
+## Curso crea juegos para MS-DOS con Allegro 4
+
+Como siempre, la "Culpa" es de [El Spectrumero 🌐](https://www.youtube.com/watch?v=wts4lN7X_MY), abordamos antes de lo que tenia pensado el tema de MS-DOS (me planteo incluso meter MetsuOS en el), entre otras cosas como medio para meterme caña con C, lenguaje que necesito tanto para el SO, como para Prisma, CPCTelera, etc, etc, etc.
+
+Lo divertido, que apenas hice bats, cosas basicas de menus para lanzar juegos, pinitos con Div Games Studio y lo que aprendí en el curso de Unix/C/Oracle, que tengo casi olvidado, por lo que para mi, la diversión está en aprender, y de paso, que eso pueda servir a otros para llegar más allá.
+
+Continua leyendo en ... [[Curso crea juegos para MS-DOS con Allegro 4   🔴②]]
+
+
+--- column-end ---
 
 ![Curso de AYEXEDIT](PublicBrain/_resources/f48c32212e31474740c2a7245104ac8a_MD5.jpg)
 ## Curso de AYFXEDIT

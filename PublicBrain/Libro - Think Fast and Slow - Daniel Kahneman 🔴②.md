@@ -9,19 +9,20 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-04T14:15:58.390Z
-modified: 2025-05-04T21:20:28.269Z
+modified: 2025-11-07T11:10:24.685Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Libro - Think Fast and Slow - Daniel Kahneman 🔴②
 
-[[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
+* [[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
+* [Enlace (Debate, 2012) 🌐](https://www.penguinlibros.com/es/psicologia/22322-libro-pensar-rapido-pensar-despacio-9788499921181)
 
 #### 1. **Datos Bibliográficos Básicos**
 - **Título**: *Thinking, Fast and Slow*

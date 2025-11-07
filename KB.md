@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-11-05T21:53:18.781Z
+modified: 2025-11-06T20:52:01.883Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 37
+ver_rev: 38
 nav_primary:
 nav_secondary:
 tags:
@@ -27,28 +27,6 @@ MOS_TopImg_Video: CursoProgramacionVideojuegos.mp4
 Number of Columns: 2
 Border: off
 ```
-
-![Curso de Programación de Videojuegos](_resources/ab682a87e91126b25cb2408572d50146_MD5.jpg)
-## Curso de Programación de Videojuegos
-
-Este curso ofrece una formación completa y práctica en la programación de videojuegos con el motor Godot Engine, centrándonos en los lenguajes C y C++ mediante el sistema GDExtension, que permite integrar código nativo de manera eficiente en versiones de Godot 4 y superiores. 
-
-Continuar leyendo en [[Curso de Programación de Videojuegos con Godot Engine 🔴②]]
-
---- column-end ---
-
-![Curso Juegos MSDOS Allegro4_000](PublicBrain/_resources/93d75e97af5c55894ae99095c0b5ab2b_MD5.jpg)
-## Curso crea juegos para MS-DOS con Allegro 4
-
-Como siempre, la "Culpa" es de [El Spectrumero 🌐](https://www.youtube.com/watch?v=wts4lN7X_MY), abordamos antes de lo que tenia pensado el tema de MS-DOS (me planteo incluso meter MetsuOS en el), entre otras cosas como medio para meterme caña con C, lenguaje que necesito tanto para el SO, como para Prisma, CPCTelera, etc, etc, etc.
-
-Lo divertido, que apenas hice bats, cosas basicas de menus para lanzar juegos, pinitos con Div Games Studio y lo que aprendí en el curso de Unix/C/Oracle, que tengo casi olvidado, por lo que para mi, la diversión está en aprender, y de paso, que eso pueda servir a otros para llegar más allá.
-
-Continua leyendo en ... [[Curso crea juegos para MS-DOS con Allegro 4   🔴②]]
-
-
---- column-end ---
-
 
 ![Historia Videojuegos Aventura con CAAD](PublicBrain/_resources/18713be6c249379ca3b76cdf6731942e_MD5.jpg)
 
@@ -71,7 +49,7 @@ Continuar leyendo en ... [[Curso sobre Patrones y Calidad del Software 🔴②]]
 --- column-end ---
 
 ![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)
-## Aprendeizaje basado en evidencia
+## Aprendizaje basado en evidencia
 
 Imagina un camino de aprendizaje donde cada paso que das está guiado por luces que te muestran lo que realmente funciona. 
 

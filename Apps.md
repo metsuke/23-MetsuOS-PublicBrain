@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2025-10-31T20:29:51.538Z
+modified: 2025-11-07T07:11:15.147Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 56
+ver_rev: 58
 nav_primary:
 nav_secondary:
 tags:
@@ -35,15 +35,16 @@ Siguiendo la estela de [[El Proyecto|las patas de este proyecto]], enumero aquí
 
 Organizo la estructura en capas al estilo cebolla crocante con ligeras trazas de vinagreta agridulce, para construir, mas que una "aplicación" un sistema cuyas partes puedan ser usadas como un conjunto cuyo resultado sea mayor que la suma de sus partes.
 
-En cuanto a las versiones, cada aplicación, modulo y libreria del sistema pretendo tenga las siguientes versiones:
+En cuanto a las capas de funcionamiento implicadas, cada aplicación, modulo y libreria del sistema pretendo tenga las siguientes versiones:
 
-* **Community** .- Será la que tenga código disponble en abierto, y potencie al máximo lo que el software libre y de codigo abierto puede paportar.
-* **Pro** - Se apoyará en la Community como si esta fuera una app, de modo que de aquí en adelante ya no hablamos de softrware libre ni de codigo abierto, sino de apps privadas y en el futuro comerciales mediante - probablemente - licencias. Esta capa tendrá por objetivo el uso de la versión Community pero adaptada a las necesidades, agilidad y robustez de un profesional.
-* **Enterprise** .- Estas versiones, tambien privadas, se apoyan en la pro, y tienen por objetivo llevar la gestión profesional al nivel de lo que una empresa de tamaño pequeño o medio, requiere, trabajando también - probablemente - con un sistema de licencias.
+* **GFan Layer .- Será la que tenga el código disponible en abierto, pero limitado a componentes compatibles con GNU. Si un componente no existe bajo GNU la funcionalidad no será implementada en esta capa, pero ofrecera una guia clara para los Fans de GNU de que cosas tienen que implementar si quieren ganar presencia y efectividad. Se usará licencias GNU Compatibles.
+* **Community** Layer .- Será la que tenga código disponble en abierto, y potencie al máximo lo que el software libre y de codigo abierto puede aportar. Usara componentes de la versión GFan si existe o implementará las que no, con licencia MIT o compatibles.
+* **Pro** Layer - Se apoyará en la Community como si esta fuera una app, de modo que de aquí en adelante ya no hablamos de softrware libre ni de codigo abierto, sino de apps privadas y en el futuro comerciales mediante - probablemente - licencias. Esta capa tendrá por objetivo el uso de la versión Community pero adaptada a las necesidades, agilidad y robustez de un profesional.
+* **Enterprise** Layer .- Estas versiones, tambien privadas, se apoyan en la pro, y tienen por objetivo llevar la gestión profesional al nivel de lo que una empresa de tamaño pequeño o medio, requiere, trabajando también - probablemente - con un sistema de licencias.
 
 En algunos casos, [como propuse en este tweet con el conversor de imagenes 🌐](https://x.com/metsuke/status/1971099781633130801), es posible que proponga alguna forma de uso gratuito limitado de las versiones pro, a modo de prueba y como regalo a los que siguen el proyecto con atención, pero siempre como servicio sin acceso al código.
 
-Este planteamiento está vivo, pero es algo que he reflexionado  bastante, ni quiero dejar en la estacada a los que colaboran con el software libre construyendo una base sólida que evita que los desarrolladores se enquisten en monopolios ni quiero someter el proyecto a la falta de profesionalidad real del desarrollo al estilo "do it yourself". En el equilibrio y la variedad de opciones, está el punto medio.
+Este planteamiento está vivo, pero es algo que he reflexionado  bastante, ni quiero dejar en la estacada a los que colaboran con el software libre construyendo una base sólida que evita que los desarrolladores se enquisten en monopolios ni quiero someter el proyecto a la falta de profesionalidad real del desarrollo al estilo "do it yourself". En el equilibrio y la variedad de opciones, está el punto medio. Puedes ver más sobre esto en [[De Software Libre, Licencias y Filosofías en entornos VUCA  ⚫①]]
 
 ## MetsuOS System Core
 
@@ -82,6 +83,8 @@ En el corazón de MetsuOS está **mosLib**, una biblioteca robusta que asegura u
 Con **mosLib**, todos los módulos del sistema funcionan en armonía. Esta potente biblioteca unifica, gestiona y optimiza desde las funciones esenciales del entorno hasta características avanzadas de accesibilidad, garantizando estabilidad y rendimiento sin igual.
 
 **mosLib**: La base sólida para un sistema sin límites.
+
+Continuar leyendo en ... [[mosLib - El Corazón de MetsuOS  ⚫①]]
 
  --- column-end ---
 
@@ -305,14 +308,20 @@ graph LR
     N[mosAppEcosystem]
     N --> O[mosA11YTool]
     N --> P[mosBrainTool]
+    N --> Y[mosDesignTools]
     N --> Q[mosDevTool]
+    N --> S[mosGameTool]
+    N --> W[mosIATool]
+
+    Y --> T[mosImageConverter]
+    Y --> Z[mosImageEditor]
+
     Q --> A[mosDiagramGeneratorr]
     Q --> R[mosGitSync]
-    N --> S[mosGameTool]
-    V --> T[mosImageConverter]
+
+    S --> V[mosGameMaker]
     V --> U[mosRetroLauncher]
-    S --> V[mosGameMaker]    
-    N --> W[mosIATool]
+
     W --> X[mosIAPromtManager]
 ```
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-11-07T11:14:43.420Z
+modified: 2025-11-09T18:02:39.228Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 123
+ver_rev: 125
 nav_primary: 
 nav_secondary: 
 tags:
@@ -34,9 +34,8 @@ Border: off
 
 El antiintromisionismo nace como una evolución crítica del liberalismo político. Su objetivo es preservar la libertad individual sin cargar con las distorsiones narrativas que afectan al término «liberalismo». En lugar de adoptar un ideario completo, se centra en un núcleo claro y poco ambiguo: **prohibir cualquier intromisión en la vida ajena**, salvo que se demuestre con lógica y evidencia científica que esa no-intromisión daña la libertad de terceros.
 
-Continuar leyendo en ... [[Blog - El Antiintromisionismo, una propuesta filosófica y práctica  🔴②]]
+Continuar leyendo en ... [[Blog - El Antiintromisionismo, una propuesta filosófica y práctica 🟡③]]
 
---- column-end ---
 
 --- column-end ---
 

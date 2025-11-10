@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novedades.md",
+                "file": "PublicBrain/Licencias de Software y compatibilidad entre ellas  🔴②.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Novedades"
+              "title": "Licencias de Software y compatibilidad entre ellas  🔴②"
+            }
+          },
+          {
+            "id": "c91130b7c7624900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apps"
             }
           }
         ]
@@ -204,39 +218,39 @@
   },
   "active": "288fbd2971f3a216",
   "lastOpenFiles": [
+    "PublicBrain/De Software Libre, Licencias y Filosofías en entornos VUCA 🟡③.md",
+    "Licencias de Software y compatibilidad entre ellas  ⚫①.md",
+    "PublicBrain/Licencias de Software y compatibilidad entre ellas  🔴②.md",
+    "Apps.md",
+    "PublicBrain/mosLib - El Corazón de MetsuOS  ⚫①.md",
+    "PublicBrain/Blog - El Antiintromisionismo, una propuesta filosófica y práctica 🟡③.md",
+    "PublicBrain/MiniQuest - Explorando la Equivalencia Electromagnética-Masa Una Hipótesis sobre la Interacción de Campos en la Estructura Nuclear 🔴②.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/MicroTutorial - Grafx2 con modos spectrum ⚫①.md",
+    "MiniQuest - Sobre la validez o no de HxE=mc^2 🔴②.md",
+    "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
+    "PublicBrain/Blog - El Antiintromisionismo, una propuesta filosófica y práctica 🔴②.md",
+    "Blog - El Antiintromisionismo, una propuesta filosófica y práctica 🔴②.md",
     "Blog.md",
-    "PublicBrain/Blog - El Antiintromisionismo, una propuesta filosófica y práctica  🔴②.md",
+    "Novedades.md",
     "PublicBrain/Libro - Think Fast and Slow - Daniel Kahneman 🔴②.md",
     "PublicBrain/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③.md",
     "PublicBrain/_resources/4217d2a8b7a94d71d1a63c1cf1ec7975_MD5.jpg",
-    "PublicBrain/De Software Libre, Licencias y Filosofías en entornos VUCA  ⚫①.md",
     "Blog - El Antiintrusionismo, o de como combatir el fanatismo desde la firmeza implacable.md",
-    "Apps.md",
-    "PublicBrain/mosLib - El Corazón de MetsuOS  ⚫①.md",
     "De Software Libre, Licencias y Filosofías en Video  ⚫①.md",
     "mosLib - El Corazón de MetsuOS  ⚫①.md",
     "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
-    "Novedades.md",
     "Index.md",
     "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "KB.md",
     "PublicBrain/Curso de Programación de Videojuegos con Godot Engine 🔴②.md",
     "PublicBrain/Curso crea juegos para MS-DOS con Allegro 4   🔴②.md",
     "_resources/ab682a87e91126b25cb2408572d50146_MD5.jpg",
-    "Curso de Programación de Videojuegos GPTR.md",
-    "PublicBrain/Curso de Visual bB ⚫①.md",
-    "PublicBrain/Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D 🟡③.md",
-    "PublicBrain/Blog - El tiempo resulta que si es oro - 2025-08-11 ⚫①.md",
-    "PublicBrain/Curso de ZX Game Maker ⚫①.md",
-    "PublicBrain/A11Y - Definición y conceptos básicos  🔴②.md",
-    "PublicBrain/Aprender sobre Accesibilidad basada en evidencia 🟡③.md",
     "_resources/0ce869892f82d04117656da7b8657ddb_MD5.jpg",
     "_resources/00ae6fe49628ac32a524e4e941410c7e_MD5.jpg",
     "_resources/227f705ab4fa3bd9101042c13a656890_MD5.jpg",
     "_resources/461fe69c35a8db236a5087f5a5ec08ba_MD5.jpg",
     "PublicBrain/_resources/93d75e97af5c55894ae99095c0b5ab2b_MD5.jpg",
-    "Curso crea juegos para MS-DOS con Allegro 4   🔴②.md",
-    "PublicBrain/Historia de los videojuegos de aventura a traves de CAAD  🔴②.md",
     "_resources/ad04c83625a745165fa86b6485f0ac52_MD5.jpg",
     "_resources/bba8e48326660cc4ba09df8bbbbfe8b7_MD5.jpg",
     "_resources/39b789fabb79e6f970ad5e0bb5621d16_MD5.jpg",

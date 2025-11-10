@@ -9,22 +9,22 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-07T07:25:48.289Z
-modified: 2025-11-07T10:38:36.264Z
+modified: 2025-11-09T17:53:17.345Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: "0"
-ver_rev: 2
+ver_minor: 2
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: Blog_Antiintromisionismo.mp4
 ---
-# Blog - El Antiintromisionismo, una propuesta filosófica y práctica  🔴②
-
+# Blog - El Antiintromisionismo, una propuesta filosófica y práctica 🟡③
+ 
 ![antiintromisionismo](PublicBrain/_resources/4217d2a8b7a94d71d1a63c1cf1ec7975_MD5.jpg)
 
-[[De Software Libre, Licencias y Filosofías en entornos VUCA  ⚫①]]
+* [[De Software Libre, Licencias y Filosofías en entornos VUCA 🟡③]]
 
 ## Introducción
 
@@ -78,52 +78,20 @@ En un sistema operativo o comunidad basada en este principio:
 
 ## Referencias que apoyan el antiintromisionismo
 
-> WIP Revisando Fuentes
-
-1. **Mill, J. S. (1859). *Sobre la libertad*.**  
-   Capítulo 1 defiende la libertad absoluta salvo daño a otros.  
-   [Enlace PDF (Alianza Editorial, 2008)](https://www.alianzaeditorial.es/libro/clasicos-de-la-cultura/sobre-la-libertad-john-stuart-mill-9788420657615/)
-
-2. **Deci, E. L., & Ryan, R. M. (2000). «The ‘What’ and ‘Why’ of Goal Pursuits: Human Needs and the Self-Determination of Behavior».**  
-   *Psychological Inquiry*, 11(4), 227–268.  
-   Muestra que la autonomía aumenta el bienestar; la coerción lo reduce.  
-   [DOI: 10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)
-
-3. **Coase, R. H. (1960). «The Problem of Social Cost».**  
-   *Journal of Law and Economics*, 3, 1–44.  
-   Externalidades se resuelven mejor con negociación que con imposición.  
-   [Enlace PDF (University of Chicago)](https://www.law.uchicago.edu/files/file/coase-problem.pdf)
-
+1. [Mill, J. S. (1859). Sobre la libertad 🟡③🌐](https://ldeuba.wordpress.com/wp-content/uploads/2013/02/libro-stuart-mill-john-sobre-la-libertad.pdf) .- Capítulo 1 defiende la libertad absoluta salvo daño a otros.
+2. [Deci, E. L., & Ryan, R. M. (2000). «The ‘What’ and ‘Why’ of Goal Pursuits: Human Needs and the Self-Determination of Behavior»  🟡③🌐](https://www.tandfonline.com/doi/abs/10.1207/S15327965PLI1104_01) - Psychological Inquiry*, 11(4), 227–268 .- Muestra que la autonomía aumenta el bienestar; la coerción lo reduce.
+3. [Coase, R. H. (1960). «The Problem of Social Cost»  🟡③🌐](https://www.sfu.ca/~wainwrig/Econ400/coase-socialcost.pdf) - Journal of Law and Economics*, 3, 1–44 .- Externalidades se resuelven mejor con negociación que con imposición.
 4.  [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]  .- 
-   Falsacionismo como método para evitar dogmas.  
-   
-
-5. **Huemer, M. (2013). *The Problem of Political Authority*.**  
-   Argumenta contra la autoridad coercitiva sin daño demostrado.  
-   [Enlace (Palgrave Macmillan)](https://link.springer.com/book/9781137281657)
+   Falsacionismo como método para evitar dogmas.
+5. [Huemer, M. (2013). The Problem of Political Authority  🟡③🌐](https://en.wikipedia.org/wiki/The_Problem_of_Political_Authority) .- Argumenta contra la autoridad coercitiva sin daño demostrado. 
 
 ## Referencias que refutan o limitan el antiintromisionismo
 
-> WIP Revisando Fuentes
-
-1. **Sunstein, C. R., & Thaler, R. H. (2003). «Libertarian Paternalism Is Not an Oxymoron».**  
-   *University of Chicago Law Review*, 70(4), 1159–1202.  
-   Defienden intervenciones suaves («nudges») para contrarrestar sesgos cognitivos.  
-   [Enlace PDF](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=10138&context=journal_articles)
-
-2. **Raz, J. (1986). *The Morality of Freedom*.**  
-   Capítulo 14 justifica perfeccionismo estatal moderado.  
-   [Enlace (Oxford University Press)](https://global.oup.com/academic/product/the-morality-of-freedom-9780198247725)
-
-3. **Dworkin, G. (2020). «Paternalism».**  
-   *Stanford Encyclopedia of Philosophy*.  
-   Argumenta que cierto paternalismo es éticamente permisible.  
-   [Enlace](https://plato.stanford.edu/entries/paternalism/)
-
-4. **Sen, A. (1999). *Development as Freedom*.**  
-   Capítulo 12 critica visiones puramente negativas de la libertad.  
-   [Enlace (Oxford University Press)](https://global.oup.com/academic/product/development-as-freedom-9780192893307)
-
+1. [Sunstein, C. R., & Thaler, R. H. (2003). «Libertarian Paternalism Is Not an Oxymoron»  🟡③🌐](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=10138&context=journal_articles) -
+   University of Chicago Law Review, 70(4), 1159–1202 .- Defienden intervenciones suaves («nudges») para contrarrestar sesgos cognitivos.
+2. [Raz, J. (1986). The Morality of Freedom 🟡③🌐](https://scholarship.law.columbia.edu/books/250/) .- Capítulo 14 justifica perfeccionismo estatal moderado.   
+3. [Dworkin, G. (2020). «Paternalism» Stanford Encyclopedia of Philosophy  🟡③🌐](https://plato.stanford.edu/entries/paternalism/) .- Argumenta que cierto paternalismo es éticamente permisible.  
+4. [Sen, A. (1999). Development as Freedom 🟡③🌐](https://global.oup.com/academic/product/development-as-freedom-9780192893307?cc=jp&lang=en&) .- Capítulo 12 critica visiones puramente negativas de la libertad.  
 5. [[Libro - Think Fast and Slow - Daniel Kahneman 🔴②]] .- Parte II documenta sesgos sistemáticos que justifican intervenciones.  
 
 

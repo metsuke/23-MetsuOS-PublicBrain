@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-11-05T07:21:00.040Z
+modified: 2025-11-08T18:27:46.278Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 231
+ver_rev: 232
 nav_primary:
 nav_secondary:
 tags:
@@ -41,6 +41,7 @@ MOS_TopImg_Video: PublicBrain.mp4
 #### Historia del Videojuego
 
 - [[MiniQuest - Sobre si hubo o no escasez de monedas de 100 yenes en Japon por el exito del arcade space invaders 🔴②]]
+- [[MiniQuest - Explorando la Equivalencia Electromagnética-Masa Una Hipótesis sobre la Interacción de Campos en la Estructura Nuclear 🔴②]]
 
 #### Modo Radastan
 

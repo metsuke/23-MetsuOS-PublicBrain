@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-07T07:21:12.998Z
-modified: 2025-11-10T23:04:48.565Z
+modified: 2025-11-11T06:59:22.208Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 12
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -39,7 +39,9 @@ En resumen, veo al modelo GNU como el **coche escoba** de la innovación: impres
 
 Para evitar estos extremos, organizo mis desarrollos en **cuatro capas licenciales**:
 
-- **GFan Edition**: Núcleo bajo licencias GNU, formado por primitivas genéricas y unificadas al estilo de las utilidades Unix. Actúa como base interoperable y sólida.
+- **GFan Edition**: Núcleo bajo licencias GNU, formado por primitivas genéricas y unificadas al estilo de las utilidades Unix. Actúa como base interoperable y sólida de modulos básicos (ver consecuencoias del [[Blog - El Antiintromisionismo, una propuesta filosófica y práctica 🟡③|principio de no intromisión]] que exige liberar el código del yugo de GPL siempre que sea posible, si no hay una razón lógica para mantener las restricciones.)
+	- Salvo excepciones, la preferencia serán licencias GPLv3, GPLv2, MIT y compatibles, si alguna de las licencias GPL (especialmente la v3 impide alguna cuestion de MetsuOS se reimplementará como GPTv2 con código MIT, atendiendo al principio de no intromisión)
+	- Del mismo modo, esta capa quedará con el contenido mínimo imprescindible, cualquier cosa que pueda ser implementado en la Community Edition, por el principio de no intromisión, será implemenmtado en aquella, salvo que la lógica implique la necesidad de usar esta capa para proteger o hacer viable el proyecto MetsuOS.
 - **Community Edition**: Capa bajo licencias permisivas (MIT y equivalentes), que extiende GFan con código adicional para ofrecer herramientas y funciones de alto nivel accesibles a toda la comunidad.
 - **Pro Edition**: Componente privativo que integra las capas anteriores para proporcionar a profesionales herramientas especializadas, eficientes y optimizadas para entornos exigentes.
 - **Enterprise Edition**: Código privativo que aprovecha las tres capas previas para ofrecer soluciones escalables a empresas y equipos de trabajo.

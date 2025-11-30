@@ -1,28 +1,34 @@
 ---
 iaStatus: 8
 iaStatus_Model: Grok-4, Raul Carrillo aka Metsuke
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations:
 created: 2025-11-10T23:05:22.222Z
-modified: 2025-11-11T18:34:17.382Z
+modified: 2025-11-17T13:52:09.750Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 12
 nav_primary: []
 nav_secondary: []
 tags: []
+MOS_TopImg_Video: LicenciasComppatibilidad.mp4
 ---
-# Licencias de Software y compatibilidad entre ellas  🔴②
+# Licencias de Software y compatibilidad entre ellas 🟡③
+
+![Licencias Software Compativilidad](PublicBrain/_resources/3423ea4a9a958646818376f211decfb6_MD5.jpg)
 
 * [[De Software Libre, Licencias y Filosofías en entornos VUCA 🟡③]]
+* [[Sobre Tivolización en el software - Significado e implicaciones 🟡③]]
+* [[Sobre cláusulas contra patentes en GPLv3 🟡③]]
 
+> Este documento abre un melón importante que iré iterando según necesidades de un modelo puramente manual a un futuro bastante automatizado, sin embargo el tamaño de la tarea es titánica, así que por favor paciencia, en primera instancia lo hare manualmente para arrancar MetsuOS y con posterioridad ya usare la infraestructura creada para avanzar más y mejor sobre este particular.
 ## Introducción
 
 Las licencias de software son contratos legales que regulan cómo se puede usar, modificar, distribuir o compartir un programa informático. Básicamente, definen las reglas del juego. Podemos agruparlas en tres grandes familias:
@@ -40,7 +46,7 @@ Organismos como la **Free Software Foundation (FSF)** y la **Open Source Initiat
 La **GNU General Public License (GPL)** es la licencia *copyleft* por excelencia. Creada por la FSF, obliga a que cualquier modificación o distribución derivada se publique bajo la misma GPL. Existen dos versiones principales:
 
 - **GPLv2** (1991)
-- **GPLv3** (2007) – añade cláusulas contra patentes y [[Sobre Tivolización - Significado e implicaciones  🔴②|tivoization]].
+- **GPLv3** (2007) – añade [[Sobre cláusulas contra patentes en GPLv3 🟡③|claúsulas contra patentes]] y [[Sobre Tivolización en el software - Significado e implicaciones 🟡③|tivoization]].
 
 Para que una licencia sea **compatible con GPL**, el código bajo esa licencia debe poder relicenciarse bajo GPL sin infringir sus términos. La compatibilidad **no es simétrica**: licencias permisivas suelen entrar en proyectos GPL, pero el código GPL no puede usarse en proyectos no-copyleft sin liberar todo el fuente.
 
@@ -126,27 +132,11 @@ Existen licencias intermedias o especializadas:
 4. [Choose a License – MIT License (explicación oficial) 🟡③🌐](https://choosealicense.com/licenses/mit/)
 5. [Apache Software Foundation – Apache License 2.0 🟡③🌐](https://www.apache.org/licenses/LICENSE-2.0)
 6. [Mozilla – MPL 2.0 FAQ 🟡③🌐](https://www.mozilla.org/en-US/MPL/2.0/FAQ/))
+7. [API de licencias de GitHub 🟡③🌐](https://docs.github.com/es/rest/licenses?apiVersion=2022-11-28#get-an-individual-license)
+8. [Apéndice de choosealicence.com 🟡③🌐](https://choosealicense.com/appendix/)
 ## Referencias que refutan o matizan partes del contenido
 
-> OJO WIP
-
-1. [Ben Balter (GitHub) – The MIT License is not compatible with GPL in all cases 🟡③🌐](https://ben.balter.com/2014/03/11/mit-license-and-gpl-compatibility/) .- Blog post aclarando la **unidireccionalidad** real.  
-   
-2. **Bradley M. Kuhn (SFC)** – *“GPL Compatibilities: The FSF List is Conservative”*  
-   Artículo donde se critica que la lista FSF es **demasiado restrictiva** en algunos casos.  
-   <https://sfconservancy.org/blog/2016/jul/25/gpl-compat/>
-
-3. **Luis Villa (ex-Mozilla)** – *“MPL 2.0 is not file-level copyleft in practice”*  
-   Explica limitaciones reales del copyleft por archivo.  
-   <https://lu.is/blog/2011/02/23/mpl-2-0-faq/>
-
-4. **Video (YouTube)** – *“¿Es realmente la MIT la licencia más permisiva?”*  
-   Canal: **Fazt Code** – compara MIT vs. Unlicense vs. 0BSD.  
-   <https://www.youtube.com/watch?v=5z0q3XjE9cI>
-
-5. **Paper académico** – *“License Compatibility in Open Source: A Legal Analysis”* – Pamela Samuelson (2019)  
-   UC Berkeley – muestra casos reales de incompatibilidad no listados por FSF.  
-   <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353333>
+- **Ninguna fuente verificable disponible**.  
 
 
 ![[Plantilla - 1MT#One More Thing]]

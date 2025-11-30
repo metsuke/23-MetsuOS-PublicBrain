@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-10-25T20:09:41.575Z
-modified: 2025-10-27T20:41:39.688Z
+modified: 2025-11-14T19:47:03.808Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -82,6 +82,12 @@ Los dos primeros volúmenes narraron el **Big Bang** del software español: *Ven
 - Una **invitación a compartir tu historia**: sube tu foto con cualquiera de los libros de la serie y etiqueta #MisCincoDuros compartiendo tus vivencias en la época.
 
 > «Tú no compras un libro. Compras un trozo de tu infancia que nadie te contó.»  
+
+## Presentando el libro en el canal del Spectrumero
+
+Como ya es tradiucional, Diego Vargas y Javi Ortiz comentan este tercer libro.
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/q8WcGiitzGI?si=DwQ8mBC3jLQwWRLn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Dónde reservar YA
 

@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2025-11-09T18:03:13.974Z
+modified: 2025-11-28T09:21:55.713Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 59
+ver_rev: 71
 nav_primary:
 nav_secondary:
 tags:
 MOS_TopImg_Video: MetsuOSBaseIcon.mp4
 ---
-
+ 
 # Apps
 
 ![MetsuOS Base Icon](_resources/153129cb093b963dcb3c314f5f80c977_MD5.jpg)
@@ -37,7 +37,8 @@ Organizo la estructura en capas al estilo cebolla crocante con ligeras trazas de
 
 En cuanto a las capas de funcionamiento implicadas, cada aplicación, modulo y libreria del sistema pretendo tenga las siguientes versiones:
 
-* **GFan Layer .- Será la que tenga el código disponible en abierto, pero limitado a componentes compatibles con GNU. Si un componente no existe bajo GNU la funcionalidad no será implementada en esta capa, pero ofrecera una guia clara para los Fans de GNU de que cosas tienen que implementar si quieren ganar presencia y efectividad. Se usará licencias GNU Compatibles.
+* FSF-Fan Layer .- Será la que tenga el código disponible en abierto, pero limitado a componentes compatibles con GNUv3. Si un componente no existe bajo GNUv3 la funcionalidad no será implementada en esta capa, pero ofrecera una guia clara para los Fans de GNUv3 de que cosas tienen que implementar si quieren ganar presencia y efectividad. Se usará licencias GNUv3 Compatibles.
+* EFF-Fan Layer .- Dada la deriva privativa de GNUv3, en esta capa será la que tenga el código disponible en abierto, pero limitado a componentes compatibles con GNUv2. Si un componente no existe en v2 pero si en v3, se creará de ser posible una reimplementación con v2 y de no serlo, se usara el componente de v2 como aplicacion externa. Recordemos que las clausulas que contiene a priori no son compatibles con el antiintromisionismo, y que requiere una argumentación logica e irrefutable optar por implementar determinada opción unicamente en v3, como podrian llegar a ser usos abusivos o incorrectos de patentes de software.
 * **Community** Layer .- Será la que tenga código disponble en abierto, y potencie al máximo lo que el software libre y de codigo abierto puede aportar. Usara componentes de la versión GFan si existe o implementará las que no, con licencia MIT o compatibles.
 * **Pro** Layer - Se apoyará en la Community como si esta fuera una app, de modo que de aquí en adelante ya no hablamos de softrware libre ni de codigo abierto, sino de apps privadas y en el futuro comerciales mediante - probablemente - licencias. Esta capa tendrá por objetivo el uso de la versión Community pero adaptada a las necesidades, agilidad y robustez de un profesional.
 * **Enterprise** Layer .- Estas versiones, tambien privadas, se apoyan en la pro, y tienen por objetivo llevar la gestión profesional al nivel de lo que una empresa de tamaño pequeño o medio, requiere, trabajando también - probablemente - con un sistema de licencias.
@@ -81,6 +82,8 @@ En el corazón de MetsuOS está **mosLib**, una biblioteca robusta que asegura u
 **mosLib** es la biblioteca fundamental que impulsa **MetsuOS**, diseñada para ofrecer una ejecución fluida y versátil, ya sea de forma nativa o en cualquier sistema operativo o entorno, como Windows, macOS o distribuciones Linux.
 
 Con **mosLib**, todos los módulos del sistema funcionan en armonía. Esta potente biblioteca unifica, gestiona y optimiza desde las funciones esenciales del entorno hasta características avanzadas de accesibilidad, garantizando estabilidad y rendimiento sin igual.
+
+mosLib (y - a priori - todos los modulos y aplicaciones que funcionan por encima de este), serán - en primera instancia, desarrollados en Python. Es una decisión argumentada ([[¿Por qué Python es la elección ideal para desarrollar en el ecosistema completo de MetsuOS? 🟡③]]), aunque lejos del sistema absoluitamente dinamico y basado en [[Blog - Parece extremadamente probable que la verdad absoluta no exista - 2025-05-23 🔴②|decisiones probabilisticas deppendientes de contexto]] que persigo, sin embargo, es necesario empezar el sistema por algun lado y esta, me parece la mejor decisión en este momento ( 🔴②)
 
 **mosLib**: La base sólida para un sistema sin límites.
 
@@ -301,29 +304,143 @@ graph LR
     M --> N[mosAppEcosystem]
 ```
 
-### Capa de Aplicaciones
+
+# MetsuOS App Ecosystem: El Ecosistema de Aplicaciones que Impulsa la Creación Inclusiva
 
 ```mermaid
 graph LR
-    N[mosAppEcosystem]
-    N --> O[mosA11YTool]
-    N --> P[mosBrainTool]
-    N --> Y[mosDesignTools]
-    N --> Q[mosDevTool]
-    N --> S[mosGameTool]
-    N --> W[mosIATool]
-
-    Y --> T[mosImageConverter]
-    Y --> Z[mosImageEditor]
-
-    Q --> A[mosDiagramGeneratorr]
-    Q --> R[mosGitSync]
-
-    S --> V[mosGameMaker]
-    V --> U[mosRetroLauncher]
-
-    W --> X[mosIAPromtManager]
+    A[mosAppEcosystem]
+    
+    A --> B[mosA11YTools]
+    B --> C[mosAutoA11YTester]
+    
+    A --> D[mosAutomationTools]
+    D --> E[mosWorkflowBuilder]
+    
+    A --> F[mosBrainTools]
+    
+    A --> G[mosDesignTools]
+    G --> H[mosImageConverter]
+    G --> I[mosImageEditor]
+    
+    A --> J[mosDevTools]
+    J --> K[mosDiagramGenerator]
+    J --> L[mosGitSync]
+    
+    A --> M[mosGameTools]
+    M --> N[mosGameMaker]
+    M--> O[mosRetroLauncher]
+    
+    A --> P[mosIATools]
+    P --> Q[mosIAPromptManager]
+    
+    A --> R[mosLegalTools]
+    R --> S[mosComplianceAuditor]
+    R --> T[mosContractGenerator]
+    R --> U[mosLicenseChecker]
+    
+    A --> V[mosSecurityTools]
+    V --> W[mosPrivacyScanner]
 ```
+
+
+> OJO WIP
+
+## mosAppEcosystem
+
+![mosDesignTools](_resources/d119fecc45653ba69bdf21768d76b737_MD5.jpg)  
+
+**Central hub for managing all ecosystem applications.**  
+
+mosAppEcosystem es el núcleo inteligente de MetsuOS: detecta, registra y orquesta automáticamente todos los bloques de herramientas, gestiona sus dependencias, estados y actualizaciones, y los expone de forma unificada y accesible desde mosSystemUI. Actúa como punto único de entrada para lanzar cualquier herramienta en contexto y garantiza que todas respeten las políticas globales de accesibilidad, neutralidad y seguridad.
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+### mosAutomationTools
+
+![MetsuOS Base Icon](_resources/153129cb093b963dcb3c314f5f80c977_MD5.jpg)  
+
+Herramientas para crear, ejecutar y gestionar flujos de trabajo automatizados, pipelines de construcción y pruebas repetibles dentro del ecosistema MetsuOS.  
+
+Continuar leyendo en mosAutomationTools.md
+
+--- column-end ---
+### mosA11YTools
+
+![MetsuOS Base Icon](_resources/153129cb093b963dcb3c314f5f80c977_MD5.jpg)  
+
+Conjunto completo de utilidades y validadores que aseguran la accesibilidad universal en cada proyecto y herramienta del sistema.  
+
+Continuar leyendo en mosA11YTools.md
+
+--- column-end ---
+### mosBrainTools
+
+![MetsuOS Base Icon](_resources/153129cb093b963dcb3c314f5f80c977_MD5.jpg)  
+
+Suite dedicada a la validación cognitiva, detección de sesgos y garantía de neutralidad en contenidos generados o importados.  
+
+Continuar leyendo en mosBrainTools.md
+
+--- column-end ---
+### mosDesignTools
+
+  ![mosDesignTools](_resources/d119fecc45653ba69bdf21768d76b737_MD5.jpg)
+
+Herramientas de diseño y edición visual accesibles, optimizadas para la creación de assets inclusivos y compatibles con el ecosistema.  
+
+Continuar leyendo en mosDesignTools.md
+
+--- column-end ---
+### mosDevTools
+
+![MetsuOS Base Icon](_resources/153129cb093b963dcb3c314f5f80c977_MD5.jpg)  
+
+Entorno extendido de desarrollo con generadores de diagramas, sincronización distribuida y utilidades para programadores dentro de MetsuOS.  
+
+Continuar leyendo en mosDevTools.md
+
+--- column-end ---
+### mosGameTools
+
+![MetsuOS Base Icon](_resources/153129cb093b963dcb3c314f5f80c977_MD5.jpg)  
+
+Bloque especializado en la creación, prueba y publicación de videojuegos inclusivos y de código abierto.  
+
+Continuar leyendo en mosGameTools.md
+
+--- column-end ---
+### mosIATools
+
+![MetsuOS Base Icon](_resources/153129cb093b963dcb3c314f5f80c977_MD5.jpg)  
+
+Capa de inteligencia artificial ética, local-first y completamente integrada con el resto del ecosistema MetsuOS.  
+
+Continuar leyendo en mosIATools.md
+
+--- column-end ---
+### mosLegalTools
+
+![MetsuOS Base Icon](_resources/153129cb093b963dcb3c314f5f80c977_MD5.jpg)  
+
+Utilidades para auditoría de cumplimiento legal, gestión de licencias y generación de documentación normativa.
+
+Continuar leyendo en mosLegalTools.md
+
+--- column-end ---
+### mosSecurityTools
+![MetsuOS Base Icon](_resources/153129cb093b963dcb3c314f5f80c977_MD5.jpg)  
+
+Escudo de privacidad y seguridad que protege datos, verifica permisos y garantiza la integridad en todo el sistema.
+
+Continuar leyendo en mosSecurityTools.md
+
+
+ --- column-end ---
+--- multi-column-end
 
 
 ![[Plantilla - 1MT#One More Thing]]

@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Licencias de Software y compatibilidad entre ellas  🔴②.md",
+                "file": "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🔴②.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Licencias de Software y compatibilidad entre ellas  🔴②"
+              "title": "Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🔴②"
             }
           },
           {
-            "id": "c91130b7c7624900",
+            "id": "6d5ea8142b98a35e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apps.md",
+                "file": "PublicBrain/¿De verdad hace falta otro gestor de paquetes cuando ya existe Poetry? 🔴②.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apps"
+              "title": "¿De verdad hace falta otro gestor de paquetes cuando ya existe Poetry? 🔴②"
             }
           }
         ]
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MisCincoDuros",
+                "query": "argumenta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,6 +203,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
+      "webpage-html-export:Export as HTML": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -211,49 +213,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "288fbd2971f3a216",
   "lastOpenFiles": [
-    "PublicBrain/Sobre Tivolización - Significado e implicaciones  🔴②.md",
-    "PublicBrain/Licencias de Software y compatibilidad entre ellas  🔴②.md",
-    "PublicBrain/De Software Libre, Licencias y Filosofías en entornos VUCA 🟡③.md",
-    "Sobre Tivolización - Significado e implicaciones  🔴②.md",
-    "Licencias de Software y compatibilidad entre ellas  ⚫①.md",
-    "Apps.md",
+    "PublicBrain/¿De verdad hace falta otro gestor de paquetes cuando ya existe Poetry? 🔴②.md",
+    "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🔴②.md",
+    "PublicBrain/_resources/24d5403e0e4b3f75f98f4d8d933844ac_MD5.jpg",
+    "¿De verdad hace falta otro gestor de paquetes cuando ya existe Poetry?  ⚫①.md",
+    "PublicBrain/MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③.md",
     "PublicBrain/mosLib - El Corazón de MetsuOS  ⚫①.md",
-    "PublicBrain/Blog - El Antiintromisionismo, una propuesta filosófica y práctica 🟡③.md",
-    "PublicBrain/MiniQuest - Explorando la Equivalencia Electromagnética-Masa Una Hipótesis sobre la Interacción de Campos en la Estructura Nuclear 🔴②.md",
-    "PublicBrain/Index.md",
-    "PublicBrain/MicroTutorial - Grafx2 con modos spectrum ⚫①.md",
-    "MiniQuest - Sobre la validez o no de HxE=mc^2 🔴②.md",
-    "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
-    "PublicBrain/Blog - El Antiintromisionismo, una propuesta filosófica y práctica 🔴②.md",
-    "Blog - El Antiintromisionismo, una propuesta filosófica y práctica 🔴②.md",
-    "Blog.md",
-    "Novedades.md",
-    "PublicBrain/Libro - Think Fast and Slow - Daniel Kahneman 🔴②.md",
-    "PublicBrain/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③.md",
-    "PublicBrain/_resources/4217d2a8b7a94d71d1a63c1cf1ec7975_MD5.jpg",
-    "Blog - El Antiintrusionismo, o de como combatir el fanatismo desde la firmeza implacable.md",
-    "De Software Libre, Licencias y Filosofías en Video  ⚫①.md",
-    "mosLib - El Corazón de MetsuOS  ⚫①.md",
-    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🔴②.md",
-    "Index.md",
-    "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
-    "KB.md",
-    "_resources/ab682a87e91126b25cb2408572d50146_MD5.jpg",
-    "_resources/0ce869892f82d04117656da7b8657ddb_MD5.jpg",
-    "_resources/00ae6fe49628ac32a524e4e941410c7e_MD5.jpg",
-    "_resources/227f705ab4fa3bd9101042c13a656890_MD5.jpg",
-    "_resources/461fe69c35a8db236a5087f5a5ec08ba_MD5.jpg",
-    "PublicBrain/_resources/93d75e97af5c55894ae99095c0b5ab2b_MD5.jpg",
-    "_resources/ad04c83625a745165fa86b6485f0ac52_MD5.jpg",
-    "_resources/bba8e48326660cc4ba09df8bbbbfe8b7_MD5.jpg",
-    "_resources/39b789fabb79e6f970ad5e0bb5621d16_MD5.jpg",
+    "Apps.md",
+    "PublicBrain/_resources/d3e9395c77920e9be0ed34f672534abb_MD5.jpg",
+    "PublicBrain/_resources/570f078529742a81c508c3b36eac5d26_MD5.jpg",
+    "PublicBrain/¿Que sistema de dependencias para python es apropiado para MetsuOS? 🟡③.md",
+    "Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend  ⚫①.md",
+    "MetsuDepManager ⚫①.md",
+    "PublicBrain/_resources/1f27a4f5935091d96a8f2f6c5aed74e8_MD5.jpg",
+    "Que sistema de dependencias para python es apropiado para MetsuOS?  ⚫①.md",
+    "PublicBrain/Analisis de Licencias y Seguridad de los distintos lenguajes de programación 🟡③.md",
+    "Noticias.md",
+    "PublicBrain/¿Es sólida la argumentación a favor de Python en MetsuOS? Una evaluación equilibrada 🟡③.md",
+    "PublicBrain/De Software Libre, Licencias y Filosofías en entornos VUCA 🟡③.md",
+    "PublicBrain/¿Por qué Python es la elección ideal para desarrollar en el ecosistema completo de MetsuOS? 🟡③.md",
+    "Analisis de Licencias y Seguridad de los distintos lenguajes de programación ⚫①.md",
+    "PublicBrain/_resources/7a94a95cf9779373768415f111f2b4e8_MD5.jpg",
+    "PublicBrain/_resources/f83e5da910e233db899ac10036516d7e_MD5.jpg",
+    "¿Es sólida la argumentación a favor de Python en MetsuOS? Una evaluación equilibrada.md",
+    "¿Es sólida la argumentación a favor de Python en MetsuOS? Una evaluación equilibrada.md",
+    "¿Por qué Python es la elección ideal para desarrollar en el ecosistema completo de MetsuOS? GPTR.md",
+    "_resources/d119fecc45653ba69bdf21768d76b737_MD5.jpg",
+    "PublicBrain/AppEcosystem.jpg",
+    "PublicBrain/Licencias de Software y compatibilidad entre ellas 🟡③.md",
+    "PublicBrain/Sobre cláusulas contra patentes en GPLv3 🟡③.md",
+    "PublicBrain/_resources/55231f0ebef2920de7222ca5290af631_MD5.jpg",
+    "PublicBrain/LicenciasSoftwareMundoVUCA.jpg",
+    "PublicBrain/Sobre Tivolización en el software - Significado e implicaciones 🟡③.md",
+    "Sobre cláusulas contra patentes en GPLv3  ⚫①.md",
+    "PublicBrain/Noticias - Preventa de Cinco Duros Vol. 3 El legado olvidado del videojuego español cobra vida con un salto hacia los 90 en edición coleccionista - 2025-10-27 🟡③.md",
+    "PublicBrain/Sobre Tivolización en las ciudades - Significado e implicaciones  🔴②.md",
     "PublicBrain/https_",
     "https_",
     "PublicBrain/Untitled.canvas",

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-06T22:37:45.290Z
-modified: 2025-11-10T22:28:28.834Z
+modified: 2025-11-29T20:49:20.314Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -35,10 +35,19 @@ En esencia mosLib debe ser la base que unifique las funciones de forma que se ej
 
 Definiré aqui la estructura general de la libreria y su morfología:
 
-* *GFan Edition* (Licencias GPL y compatibles) .- Esta edicion contiene en forma de modulos con funciones funcionando como appps independientes, las primitivas básicas, modulos con funciones para leer y escribir archivos, leer y escribir el sistema de ficheros, y todo lo que sea necesario, incluyendo accesibilidad.
+* FSF-Fan Layer (Licencias GPLv3 y compatibles) .- Esta edicion contiene en forma de modulos con funciones funcionando como appps independientes, las primitivas básicas, modulos con funciones para leer y escribir archivos, leer y escribir el sistema de ficheros, y todo lo que sea necesario, incluyendo accesibilidad.
+* EFF-Fan Layer  (Lincencias GPLv2 y compatibles) - Esta edicion contiene en forma de modulos con funciones funcionando como appps independientes, las primitivas básicas, modulos con funciones para leer y escribir archivos, leer y escribir el sistema de ficheros, y todo lo que sea necesario, incluyendo accesibilidad.
 * *Community Edition* (Licencias MIT y compatibles) .- Esta edición usa las apps indepenmdientes de GFan y construye apps mas complejas o aquellas sencillas que no tienen forma de ser creadas GFan.
 * *Pro Edition (Privativo)* .- Crea herencia y polimorfismo sobre los conceptos y apps de las ediciones GFan y Community aportando metodos mejorados de trabao en bloque monousuario.
 * *Enterprise Edition* (Privativo) .- Crea herencia y polimorfismo avanzados sobre los concepptos y apps de las ediciones GFan, Community y Pro, orientada a la gestion de tareas y procesos multiusuario distribuido, de forma que equipos puedan trabajar juntos manteniendo cada uno sus instancias de MetsuOS.
+
+## Dependencias
+
+Es un requisito de diseño de MetsuOS que, absolutamente toda dependencia externa al sistema, quede circunscrita a este modulo, de forma que el resto del sistema se apoye sobre un mosLib solido y robusto.
+
+Existirá una sola fachada al exterior, pero, internamente, se aplicarán diversas librerias para realizar las tareas, aportando el grado máximo de redundancia, en caso de que no exista funcionalidad ya creada que pueda incluirse, se desarrollará la funcionalidad dentro del entorno del propio sistema.
+
+Dado que usaremos [[¿Por qué Python es la elección ideal para desarrollar en el ecosistema completo de MetsuOS? 🟡③|Python]], implementaremos [[MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③]], por ahora en este y para este lenguaje.
 
 ## La implementación real
 
@@ -52,14 +61,6 @@ La segunda se encarga de leer esos parametros y trasladar las peticones a tres s
 
 La tercera  se encarga de ejecutar los pendientes, primero todo el RT, segundo todo lo de fast y finalemnte lo de slow. Guardará estadíticas de parametrizacion vs tiempo de ejecucion para indicarle a la parte de ordenación como debe actuar cuando no se especifique el parametro RT, F, o S.
 
-
-### GFan Apps
-
-### Community Apps
-
-### Pro Apps
-
-### Enterprise Edition Apps
 
 
 

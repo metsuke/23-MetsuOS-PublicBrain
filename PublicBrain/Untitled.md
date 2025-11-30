@@ -5,8 +5,8 @@ a11y: 0
 checked: 0
 lang: ES
 translations: 
-created: 2025-10-26T11:09:10.533Z
-modified: 2025-10-27T00:01:12.373Z
+created: 2025-11-20T08:32:07.271Z
+modified: 2025-11-20T14:58:10.648Z
 supervisado: ""
 ACCION: ""
 ver_major: 0

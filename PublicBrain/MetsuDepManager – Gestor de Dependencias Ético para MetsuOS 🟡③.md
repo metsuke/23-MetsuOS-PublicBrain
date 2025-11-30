@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-28T09:24:05.460Z
-modified: 2025-11-29T20:28:46.622Z
+modified: 2025-11-30T12:18:22.977Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -26,7 +26,7 @@ MOS_TopImg_Video: MetsuDepManagerB.mp4
 
 * [[mosLib - El Corazón de MetsuOS  ⚫①]]
 * [[¿Que sistema de dependencias para python es apropiado para MetsuOS? 🟡③]]
-* [[Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🔴②]]
+* [[Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③]]
 
 Aprovechamos que sea el primer modulo para lanzar una implementación completa hecha por IA (y ajustada manualmente en lo necesario) de **MetsuDepManager** para MetsuOS
 

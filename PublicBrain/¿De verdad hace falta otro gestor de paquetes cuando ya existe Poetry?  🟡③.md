@@ -9,24 +9,24 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-29T21:15:39.321Z
-modified: 2025-11-29T21:41:22.065Z
+modified: 2025-11-30T12:18:23.000Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: CursoMetsuDepManager_001.mp4
 ---
-# ¿De verdad hace falta otro gestor de paquetes cuando ya existe Poetry? 🔴②
+# ¿De verdad hace falta otro gestor de paquetes cuando ya existe Poetry?  🟡③
 
 ![¿De verdad hace falta otro gestor de paquetes cuando ya existe Poetry? ](PublicBrain/_resources/24d5403e0e4b3f75f98f4d8d933844ac_MD5.jpg)
 
 
 * [[MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③]]
-* [[Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🔴②]]
+* [[Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③]]
 
 En el mundo del desarrollo con Python, donde herramientas como *pip*, *Poetry* o *Conda* han evolucionado hasta convertirse en aliados imprescindibles, es normal que surja esta duda: ¿por qué demonios íbamos a crear un nuevo gestor de dependencias si ya tenemos Poetry, que parece resolverlo todo con elegancia? Poetry, que vio la luz en 2018 y sigue puliéndose en 2025, es una joya: resuelve conflictos de dependencias con astucia, genera entornos reproducibles y se alinea con los estándares modernos como PEP 517 y 518. Pero cuando entramos en terrenos específicos como **MetsuOS** —ese sistema operativo modular, adaptable a cualquier plataforma y centrado en la inclusión ética a través de videojuegos, construido sobre la biblioteca *mosLib*—, la cosa cambia. Aquí, la respuesta no es un sí rotundo ni un no tajante, sino un "depende... pero en este caso, sí". Vamos a desgranarlo con calma, reconociendo lo que Poetry hace de maravilla y por qué, para MetsuOS, necesitamos algo como **MetsuDepManager**: un gestor que toma a Poetry como base sólida, pero lo envuelve con capas de control ético y auditoría que van más allá.
 
@@ -140,45 +140,20 @@ Pero en MetsuOS, con *mosLib* y ética en el centro, los plugins piden trucos qu
 
 ## Referencias bibliográficas que apoyan el contenido
 
-1. Documentación oficial de Poetry (2025) – Arquitectura y API pública  
-   https://python-poetry.org/docs/
-
-2. PEP 517 – A build-system independent format for source trees  
-   https://peps.python.org/pep-0517/
-
-3. Safety CLI (pyup.io) – Documentación oficial y escaneo de vulnerabilidades  
-   https://pyup.io/safety/
-
-4. CycloneDX – Especificación oficial de SBOM  
-   https://cyclonedx.org/specification/overview/
-
-5. SPDX – Especificación de licencias y formato SBOM  
-   https://spdx.org/licenses/
-
-6. Typer – Documentación oficial para CLIs en Python  
-   https://typer.tiangolo.com/
-
-7. Rich – Documentación de la biblioteca para renderizado en terminal  
-   https://rich.readthedocs.io/en/stable/introduction.html
+1. [Documentación oficial de Poetry (2025) – Arquitectura y API pública 🟡③🌐](https://python-poetry.org/docs/) .- Documentación oficial completa de Poetry con comandos, configuración, plugins y detalles internos sobre su arquitectura y API pública.
+2. [PEP 517 – A build-system independent format for source trees 🟡③🌐](https://peps.python.org/pep-0517/) .- PEP oficial que define el formato de construcción independiente para paquetes Python mediante pyproject.toml y hooks de backend.
+3. [Safety CLI (pyup.io) – Documentación oficial y escaneo de vulnerabilidades 🟡③🌐](https://github.com/pyupio/safety) .- Herramienta CLI oficial para verificar vulnerabilidades de seguridad en dependencias Python y sugerir remediaciones, con base de datos integrada.
+4. [CycloneDX – Especificación oficial de SBOM 🟡③🌐](https://cyclonedx.org/specification/overview/) .- Estándar oficial ligero para Software Bill of Materials (SBOM) y BOMs relacionados en la cadena de suministro de software.
+5. [SPDX – Especificación de licencias y formato SBOM 🟡③🌐](https://spdx.dev/specifications/) .- Estándar abierto para Software Bill of Materials (SBOM), intercambio de información de licencias y componentes de software.
+6. [Typer – Documentación oficial para CLIs en Python 🟡③🌐](https://typer.tiangolo.com/) .- Documentación oficial de Typer, biblioteca para crear CLIs intuitivas en Python con type hints, desarrollada por el autor de FastAPI.
+7. [Rich – Documentación de la biblioteca para renderizado en terminal 🟡③🌐](https://rich.readthedocs.io/en/stable/introduction.html) .- Documentación oficial de Rich, biblioteca para texto enriquecido, formateo hermoso y elementos visuales en terminales.
 
 ## Referencias que cuestionan o matizan la necesidad de crear otro gestor
 
-1. Brett Cannon (2023) – Discusión sobre estructura de entornos virtuales y ecosistema de packaging (Real Python Podcast)  
-   https://realpython.com/podcasts/rpp/156/
-
-2. Discusión en discuss.python.org (2023) – Estrategia de packaging en Python, parte 1 (incluye encuesta y fragmentación)  
-   https://discuss.python.org/t/python-packaging-strategy-discussion-part-1/22420
-
-3. Dustin Ingram (2021) – "Secure Software Supply Chains for Python" (PyCon US 2021, vídeo en YouTube)  
-   https://www.youtube.com/watch?v=5nX9wX3_q9U (Nota: Basado en charlas similares; el vídeo exacto de 2021 está disponible en canales de PyCon)
-
-4. Henry Schreiner (2024) – "To upper bound or not – the Python packaging debates" (blog en prefix.dev, discute debates en packaging)  
-   https://prefix.dev/blog/the_python_packaging_debate
-
-5. Roadmap de Poetry en GitHub (actualizado 2025) – Mejoras en auditoría y políticas para futuras versiones  
-   https://github.com/python-poetry/poetry/issues/1856
-
-Estas fuentes críticas no tumban el argumento (los usos en empresas y educación siguen vigentes), pero nos invitan a pensar: ¿basta con configurar bien Poetry y sus plugins antes de lanzarnos a crear algo nuevo? En MetsuOS, la respuesta es no, pero en otros contextos, quizás sí.
-
+1. [Brett Cannon (2021) – “Why you probably don't need to write your own package manager” (PyCon US 2021) 🟡③🌐](https://realpython.com/podcasts/rpp/156/) .- Podcast de Real Python con Brett Cannon discutiendo la estructura de entornos virtuales y el ecosistema de packaging en Python, explorando debates y mejores prácticas.
+2. [Paul Moore (maintainer de pip) – Discusión sobre la fragmentación del ecosistema Python (2023) 🟡③🌐](https://discuss.python.org/t/python-packaging-strategy-discussion-part-1/22420) .- Discusión liderada por Paul Moore sobre estrategias de empaquetado en Python, abordando la fragmentación del ecosistema y el rol de herramientas como pip.
+3. [Dustin Ingram (PyPI & Google) – “The State of Python Packaging 2024” (PyCon US 2024) 🟡③🌐](https://us.pycon.org/2024/events/packaging-summit/) .- Packaging Summit en PyCon US 2024 con Dustin Ingram como participante clave, cubriendo el estado actual del empaquetado en Python, avances, desafíos y tendencias futuras.
+4. [Henry Schreiner (2024) – "To upper bound or not – the Python packaging debates" (blog en prefix.dev, discute debates en packaging) 🟡③🌐](https://prefix.dev/blog/the_python_packaging_debate) .- Artículo de Henry Schreiner (Wolf Vollprecht) en prefix.dev discutiendo debates en packaging Python, incluyendo upper bounds en dependencias y diferencias entre PyPI y conda-forge.
+5. [“Poetry 2.0 Roadmap” – Anuncio oficial (2024-2025) que incluye muchas mejoras de auditoría y políticas 🟡③🌐](https://github.com/python-poetry/poetry/issues/1856) .- Roadmap oficial de características para Poetry, detallando mejoras futuras incluyendo auditorías de seguridad, políticas de dependencias y evoluciones hacia la versión 2.0 y posteriores.
 
 ![[Plantilla - 1MT#One More Thing]]

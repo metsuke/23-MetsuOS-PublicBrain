@@ -9,24 +9,23 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-29T19:22:44.212Z
-modified: 2025-11-29T21:15:38.009Z
+modified: 2025-11-30T21:39:07.043Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: CursoMetsuDepManager_000.mp4
 ---
-# Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🔴②
+# Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③
 
 ![Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend](PublicBrain/_resources/d3e9395c77920e9be0ed34f672534abb_MD5.jpg)
 
 * [[MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③]]
 
-> OJO WIP
 ## Módulo 0 – Introducción y motivación
 
 --- start-multi-column: BloqueMicrohobbit01\
@@ -41,13 +40,31 @@ En el mundo del desarrollo con Python, donde herramientas como *pip*, *Poetry* o
 
 Pero cuando entramos en terrenos específicos como **MetsuOS** —ese sistema operativo modular, adaptable a cualquier plataforma y centrado en la inclusión ética a través de videojuegos, construido sobre la biblioteca *mosLib*—, la cosa cambia. Aquí, la respuesta no es un sí rotundo ni un no tajante, sino un "depende... pero en este caso, sí". Vamos a desgranarlo con calma, reconociendo lo que Poetry hace de maravilla y por qué, para MetsuOS, necesitamos algo como **MetsuDepManager**: un gestor que toma a Poetry como base sólida, pero lo envuelve con capas de control ético y auditoría que van más allá.
 
-Continuar leyendo en ...  [[¿De verdad hace falta otro gestor de paquetes cuando ya existe Poetry? 🔴②]]
+Continuar leyendo en ...  [[¿De verdad hace falta otro gestor de paquetes cuando ya existe Poetry?  🟡③]]
+
+--- column-end ---
+
+![Casos reales en los que tiene sentido crear uno propio - empresas con políticas estrictas, entornos educativos, auditorías de seguridad, cumplimiento normativo (RGPD, NIS2, etc.) y air-gapped environments](PublicBrain/_resources/aaf98fa39d495acaf8a5f8c59eeea738_MD5.jpg)
+### 0.2. Casos reales en los que tiene sentido crear uno propio: empresas con políticas estrictas, entornos educativos, auditorías de seguridad, cumplimiento normativo (RGPD, NIS2, etc.) y air-gapped environments.
+
+Aunque Poetry es una herramienta excelente y muy madura, en ciertos entornos las organizaciones no pueden necesitar un nivel de control, auditoría y cumplimiento que va más allá de lo que ofrece de forma nativa.
+
+Crear un gestor de paquetes propio basado en Poetry no es una excentricidad técnica, sino una necesidad real en empresas altamente reguladas, instituciones educativas masivas, auditorías estrictas, entornos sujetos a normativas europeas como NIS2 o DORA y, sobre todo, sistemas air-gapped donde cualquier conexión accidental a PyPI está terminantemente prohibida.
+
+Los casos que veremos a continuación no son hipotéticos: son escenarios que ya se dan hoy en bancos del IBEX 35, centrales nucleares, ministerios de defensa y grandes consultoras durante sus
+
+Continuar leyendo en ... [[Casos reales en los que tiene sentido crear uno propio - empresas con políticas estrictas, entornos educativos, auditorías de seguridad, cumplimiento normativo (RGPD, NIS2, etc.) y air-gapped environments 🔴②]]
 
  --- column-end ---
 
-0.2. Casos reales en los que tiene sentido crear uno propio: empresas con políticas estrictas, entornos educativos, auditorías de seguridad, cumplimiento normativo (RGPD, NIS2, etc.) y air-gapped environments  
 0.3. Objetivo del curso: terminar con un gestor funcional, ético y altamente configurable llamado **MetsuDepManager**  
+
+--- column-end ---
+
 0.4. Requisitos previos: Python ≥ 3.9, conocimientos básicos de Poetry, Git y línea de comandos  
+
+--- column-end ---
+
 0.5. Roadmap del curso y visión general del proyecto final  
 
  --- column-end ---
@@ -141,56 +158,20 @@ Continuar leyendo en ...  [[¿De verdad hace falta otro gestor de paquetes cuand
 
 ## Referencias bibliográficas que apoyan el contenido
 
-> OJO WIP
-
-1. Documentación oficial de Poetry (2025) – Arquitectura y API pública  
-   https://python-poetry.org/docs/
-
-2. PEP 517 – A build-system independent packaging format  
-   https://peps.python.org/pep-0517/
-
-3. PEP 518 – Specifying Minimum Build System Requirements  
-   https://peps.python.org/pep-0518/
-
-4. PEP 621 – Storing project metadata in pyproject.toml  
-   https://peps.python.org/pep-0621/
-
-5. Safety (pyup.io) – Documentación oficial y base de datos de vulnerabilidades  
-   https://github.com/pyupio/safety
-
-6. OSV – Open Source Vulnerabilities database (Google)  
-   https://osv.dev/
-
-7. CycloneDX – Especificación oficial de SBOM  
-   https://cyclonedx.org/
-
-8. SPDX – Licencias y formato SBOM  
-   https://spdx.dev/
-
-9. Typer – Documentación oficial (creado por el autor de FastAPI)  
-   https://typer.tiangolo.com/
-
-10. Rich – Biblioteca de renderizado en terminal  
-    https://github.com/Textualize/rich
+1. [Documentación oficial de Poetry (2025) – Arquitectura y API pública 🟡③🌐](https://python-poetry.org/docs/) .- Documentación oficial completa de Poetry con comandos, configuración, plugins y detalles internos sobre su arquitectura y API pública.
+2. [PEP 517 – A build-system independent packaging format 🟡③🌐](https://peps.python.org/pep-0517/) .- PEP oficial que define el formato de construcción independiente para paquetes Python mediante pyproject.toml y hooks de backend.
+3. [PEP 518 – Specifying Minimum Build System Requirements 🟡③🌐](https://peps.python.org/pep-0518/) .- PEP oficial que establece cómo especificar requisitos mínimos del sistema de construcción en proyectos Python usando pyproject.toml.
+4. [PEP 621 – Storing project metadata in pyproject.toml 🟡③🌐](https://peps.python.org/pep-0621/) .- PEP oficial que detalla el almacenamiento de metadatos centrales del proyecto en el archivo pyproject.toml para herramientas de empaquetado.
+5. [Safety (pyup.io) – Documentación oficial y base de datos de vulnerabilidades 🟡③🌐](https://github.com/pyupio/safety) .- Herramienta CLI oficial para verificar vulnerabilidades de seguridad en dependencias Python y sugerir remediaciones, con base de datos integrada.
+6. [OSV – Open Source Vulnerabilities database (Google) 🟡③🌐](https://osv.dev/) .- Base de datos distribuida de vulnerabilidades para software de código abierto, mantenida por Google con soporte para múltiples ecosistemas.
+7. [CycloneDX – Especificación oficial de SBOM 🟡③🌐](https://cyclonedx.org/) .- Estándar oficial ligero para Software Bill of Materials (SBOM) y BOMs relacionados en la cadena de suministro de software.
+8. [SPDX – Licencias y formato SBOM 🟡③🌐](https://spdx.dev/) .- Estándar abierto para Software Bill of Materials (SBOM), intercambio de información de licencias y componentes de software.
+9. [Typer – Documentación oficial (creado por el autor de FastAPI) 🟡③🌐](https://typer.tiangolo.com/) .- Documentación oficial de Typer, biblioteca para crear CLIs intuitivas en Python con type hints, desarrollada por el autor de FastAPI.
+10. [Rich – Biblioteca de renderizado en terminal 🟡③🌐](https://github.com/Textualize/rich) .- Biblioteca Python para texto enriquecido, formateo hermoso y elementos visuales en terminales.
 
 ## Referencias que cuestionan o matizan la necesidad de crear otro gestor
 
-> OJO WIP
-
-1. Brett Cannon (2021) – “Why you probably don’t need to write your own package manager” (PyCon US 2021)  
-   https://www.youtube.com/watch?v=3v6KqDD5JYo
-
-2. Paul Moore (maintainer de pip) – Discusión sobre la fragmentación del ecosistema Python (2023)  
-   https://discuss.python.org/t/should-we-consider-deprecating-requirements-txt/27945
-
-3. Dustin Ingram (PyPI & Google) – “The State of Python Packaging 2024” (PyCon US 2024)  
-   https://www.youtube.com/watch?v=5nX9wX3_q9U
-
-4. Artículo “The Python packaging iceberg” – Henry Schreiner (2024)  
-   https://henryschreiner.dev/blog/2024/python-packaging-iceberg/
-
-5. “Poetry 2.0 Roadmap” – Anuncio oficial (2024-2025) que incluye muchas mejoras de auditoría y políticas  
-   https://github.com/python-poetry/poetry/issues/7088
+1. [Paul Moore (maintainer de pip) – Discusión sobre la fragmentación del ecosistema Python (2023) 🟡③🌐](https://discuss.python.org/t/python-packaging-strategy-discussion-part-1/22420) .- Discusión liderada por Paul Moore sobre estrategias de empaquetado en Python, abordando la fragmentación del ecosistema y el rol de herramientas como pip.
 
 Estas referencias críticas no invalidan el curso (los casos de uso empresariales y educativos siguen siendo válidos), pero sí invitan a reflexionar sobre si en muchos casos basta con configurar bien Poetry + plugins existentes antes de crear una herramienta nueva.
 

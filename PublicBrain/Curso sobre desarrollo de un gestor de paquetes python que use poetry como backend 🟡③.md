@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-29T19:22:44.212Z
-modified: 2025-11-30T21:39:07.043Z
+modified: 2025-12-01T22:38:47.624Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -53,15 +53,25 @@ Crear un gestor de paquetes propio basado en Poetry no es una excentricidad téc
 
 Los casos que veremos a continuación no son hipotéticos: son escenarios que ya se dan hoy en bancos del IBEX 35, centrales nucleares, ministerios de defensa y grandes consultoras durante sus
 
-Continuar leyendo en ... [[Casos reales en los que tiene sentido crear uno propio - empresas con políticas estrictas, entornos educativos, auditorías de seguridad, cumplimiento normativo (RGPD, NIS2, etc.) y air-gapped environments 🔴②]]
+Continuar leyendo en ... [[Casos reales en los que tiene sentido crear uno propio - empresas con políticas estrictas, entornos educativos, auditorías de seguridad, cumplimiento normativo (RGPD, NIS2, etc.) y air-gapped environments 🟡③]]
 
  --- column-end ---
 
-0.3. Objetivo del curso: terminar con un gestor funcional, ético y altamente configurable llamado **MetsuDepManager**  
+![Objetivo del Curso - Construir MetsuDepManager, un Gestor de Paquetes Práctico, Ético y Personalizable](PublicBrain/_resources/278da1b50d1680cf6fb27493c9c2e5ba_MD5.jpg)
+### 0.3. Objetivo del curso: terminar con un gestor funcional, ético y altamente configurable llamado **MetsuDepManager**
+
+Imagina que estás cansado de que herramientas como pip o Poetry te dejen a merced de dependencias dudosas o entornos que no controlas del todo. Ahí entra este curso de Metsuke: no es solo teoría, sino un camino directo para que termines con **MetsuDepManager** en tus manos, un gestor de paquetes Python que usa Poetry como motor pero añade capas de sentido común y protección real. Al final, tendrás algo que funciona de verdad en proyectos serios, especialmente si trabajas en MetsuOS, ese sistema operativo que apuesta por la inclusión a través de videojuegos. Es como pasar de un coche básico a uno con frenos de emergencia y GPS ético: seguro, adaptable y listo para lo que venga.
+
+Continuar leyendo en ... [[Objetivo del Curso - Construir MetsuDepManager, un Gestor de Paquetes Práctico, Ético y Personalizable 🟡③]]
 
 --- column-end ---
 
-0.4. Requisitos previos: Python ≥ 3.9, conocimientos básicos de Poetry, Git y línea de comandos  
+![Requisitos Previos para el Curso de MetsuDepManager - Prepárate sin Complicaciones](PublicBrain/_resources/7ca926b2ca82e9120c0ce1718119fb0c_MD5.jpg)
+### 0.4. Requisitos Previos para el Curso de MetsuDepManager - Prepárate sin Complicaciones
+
+Python que pone la ética y la seguridad en el centro, usando Poetry como base—, lo primero es asegurarte de que tu setup no te frene. No te pido que seas un experto, solo que tengas lo básico para no atascarte en los primeros pasos. Piensa en esto como el calentamiento antes de una buena partida: rápido, efectivo y sin sorpresas. Vamos a repasarlo de forma sencilla, con trucos para que lo tengas listo en media hora.
+
+Continua leyendo en ... [[Requisitos Previos para el Curso de MetsuDepManager - Prepárate sin Complicaciones 🟡③]]
 
 --- column-end ---
 

@@ -1,6 +1,6 @@
 ---
 iaStatus: 8
-iaStatus_Model: ""
+iaStatus_Model: Grok-4, Raul Carrillo aka Metsuke
 iaStatus_Generado: I
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-30T21:58:31.787Z
-modified: 2025-11-30T22:11:19.386Z
+modified: 2025-12-01T07:26:45.997Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: CursoMetsuDepManager_002.mp4
 ---
-# Casos reales en los que tiene sentido crear uno propio - empresas con políticas estrictas, entornos educativos, auditorías de seguridad, cumplimiento normativo (RGPD, NIS2, etc.) y air-gapped environments 🔴②
+# Casos reales en los que tiene sentido crear uno propio - empresas con políticas estrictas, entornos educativos, auditorías de seguridad, cumplimiento normativo (RGPD, NIS2, etc.) y air-gapped environments 🟡③
 
 ![Casos reales en los que tiene sentido crear uno propio - empresas con políticas estrictas, entornos educativos, auditorías de seguridad, cumplimiento normativo (RGPD, NIS2, etc.) y air-gapped environments](PublicBrain/_resources/aaf98fa39d495acaf8a5f8c59eeea738_MD5.jpg)
 

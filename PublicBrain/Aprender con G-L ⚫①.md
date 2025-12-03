@@ -53,7 +53,7 @@ tags:
 
 ## L
 - Laborda, Jorge: Aprender con Jorge Laborda Fernández
-- Lakatos, Imre: [[Estudiar Autor - Imre Lakatos 🔴②]]
+- Lakatos, Imre: [[Estudiar Autor - Imre Lakatos 🟡③]]
 - Ladam, Sani: [[Aprender con Sani Ladam  ⚫①]]
 - Lencero Guillermo, Rosa: Aprender con Rosa Lencero Guillermo
     

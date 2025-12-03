@@ -20,7 +20,7 @@ nav_secondary:
 tags:
 MOS_TopImg_Video: ImreLakatos_000.mp4
 ---
-# Estudiar Autor - Imre Lakatos 🔴②
+# Estudiar Autor - Imre Lakatos 🟡③
 
 ![Estudiando la obra de Imre Lakatos](PublicBrain/_resources/2783280c365b4a3ee103b7baa7894998_MD5.jpg)
 
@@ -320,25 +320,17 @@ Estudiar a Imre Lakatos es una aventura intelectual que combina filosofía, hist
 
 > WIP Revisando Fuentes
 
-1. [Hacking, I. (1979). “Imre Lakatos’s Philosophy of Science”. _British Journal for the Philosophy of Science_, 30(4), 381-402  🌐🟡③](https://www.journals.uchicago.edu/doi/abs/10.1093/bjps/30.4.381?journalCode=bjps) .- Apoya la relevancia de la MPIC como un avance sobre el falsacionismo de Popper, destacando su capacidad para explicar el progreso científico.
-2. [Musgrave, A. (1976). “Method or Madness?”. En _Method and Appraisal in the Physical Sciences_ (ed. Lakatos y Latsis). Cambridge University Press 🌐🟡③](https://www.rationalrealm.com/philosophy/epistemology/imre-lakatos-critical-apraisal.html) .- Defiende la MPIC como un marco racional para evaluar programas científicos, alineándose con el enfoque de Lakatos.
-3. **Worrall, J. (2002). “Lakatos’s Philosophy of Science”. En _Appraising Lakatos_ (ed. Kampis et al.). Kluwer Academic Publishers.**
-    - Resalta la importancia de _Proofs and Refutations_ para la filosofía de las matemáticas y su enfoque quasi-empírico.
-4. **Larvor, B. (1998). _Lakatos: An Introduction_. Routledge.**
-    - Proporciona una visión accesible de la vida y obra de Lakatos, respaldando la estructura biográfica y filosófica de esta guía.
+1. [Hacking, I. (1979). “Imre Lakatos’s Philosophy of Science”. _British Journal for the Philosophy of Science_, 30(4), 381-402 🟡③🌐](https://academic.oup.com/bjps/article-abstract/30/4/381/1569441) .- Apoya la relevancia de la MPIC como un avance sobre el falsacionismo de Popper, destacando su capacidad para explicar el progreso científico.
+2. [Musgrave, A. (1976). “Method or Madness?”. En _Method and Appraisal in the Physical Sciences_ (ed. Lakatos y Latsis). Cambridge University Press 🌐🟡③](https://link.springer.com/chapter/10.1007/978-94-010-1451-9_27) .- Defiende la MPIC como un marco racional para evaluar programas científicos, alineándose con el enfoque de Lakatos.
+3. [Worrall, J. (2002). “Lakatos’s Philosophy of Science”. En _Appraising Lakatos_ (ed. Kampis et al.). Kluwer Academic Publishers 🟡③🌐](https://link.springer.com/book/9789401707695) .- Resalta la importancia de _Proofs and Refutations_ para la filosofía de las matemáticas y su enfoque quasi-empírico, explorando la intersección de vida y filosofía de Lakatos en el contexto de la filosofía de la ciencia del siglo XX.
+4. [Larvor, B. (1998). Lakatos: An Introduction. Routledge 🟡③🌐](https://www.routledge.com/Lakatos-An-Introduction/Larvor/p/book/9780415142762) .- Proporciona una visión accesible de la vida y obra de Lakatos, respaldando la estructura biográfica y filosófica de esta guía, cubriendo su carácter, Proofs and Refutations (dialectics, formalism, Hegel, fallibilism), el debate Popper-Kuhn, metodología de programas de investigación científica, política de la razón y legado.
 
 ### 7.2. Fuentes que Refutan o Matizan el Contenido
 
-> WIP Revisando Fuentes
-
-1. **Feyerabend, P. (1975). _Against Method_. New Left Books.**
-    - Critica la insistencia de Lakatos en criterios racionales, argumentando que la ciencia avanza de manera más anárquica y menos estructurada que lo propuesto por la MPIC.
-2. **Kuhn, T. S. (1970). “Reflections on My Critics”. En _Criticism and the Growth of Knowledge_ (ed. Lakatos y Musgrave). Cambridge University Press.**
-    - Cuestiona la visión de Lakatos sobre la racionalidad científica, defendiendo que los cambios de paradigma no siempre siguen un modelo progresivo.
-3. **Chalmers, A. F. (1999). _What Is This Thing Called Science?_ (3ª ed.). Open University Press.**
-    - Matiza la aplicabilidad universal de la MPIC, sugiriendo que no siempre explica el desarrollo de ciencias no físicas, como las sociales.
-4. **Laudan, L. (1977). _Progress and Its Problems: Towards a Theory of Scientific Growth_. University of California Press.**
-    - Propone un modelo alternativo al de Lakatos, argumentando que el progreso científico se mide mejor por la resolución de problemas que por la predictividad de programas.
+1. [**Feyerabend, P. (1975). Against Method. New Left Books.** 🟡③🌐](https://monoskop.org/images/7/7e/Feyerabend_Paul_Against_Method.pdf) .- Critica la insistencia de Lakatos en criterios racionales como progresión de contenido empírico y evitación de hipótesis ad hoc, argumentando que la ciencia avanza anárquicamente mediante proliferación de teorías incompatibles, counterinducción, propaganda, intuición y violaciones de normas, fomentando innovación en lugar de uniformidad racional.
+2. [Kuhn, T. S. (1970). “Reflections on My Critics”. En Criticism and the Growth of Knowledge (ed. Lakatos y Musgrave). Cambridge University Press 🟡③🌐](https://cursosfilos.files.wordpress.com/2015/08/proceedings-of-the-international-colloquium-in-the-philosophy-of-science-london-1965-volume-4-imre-lakatos-ed-alan-musgrave-ed-criticism-and-the-growth-of-knowledge-cambridge.pdf) .- Cuestiona la visión de Lakatos sobre la racionalidad científica al defender que los cambios de paradigma involucran inconmensurabilidad, crisis, gestalt switches y factores sociales/psicológicos no lineales, no siempre progresivos, rechazando reconstrucciones racionales formales que ignoran discontinuidades históricas y adopción comunitaria.
+3. [Chalmers, A. F. (1999). What Is This Thing Called Science? (3ª ed.). Open University Press. 🟡③🌐](https://ebookppsunp.wordpress.com/wp-content/uploads/2016/06/alan_chalmers_what_is_this_thing_called_sciencebookfi-org.pdf) .- Matiza la aplicabilidad universal de la MPIC, encajándola en ciencias físicas maduras con núcleos duros protegidos y heurísticas positivas para predicciones novedosas, pero limitándola en ciencias sociales por observaciones interpretativas, falta de experimentos controlados y progreso no cumulativo influido por factores normativos y éticos.
+4. [Laudan, L. (1977). Progress and Its Problems: Towards a Theory of Scientific Growth. University of California Press. 🟡③🌐](https://www.ucpress.edu/books/progress-and-its-problems/paper) .- Propone un modelo alternativo al de Lakatos centrado en la efectividad contextual para resolver problemas como medida de progreso científico, en lugar de predictividad empírica, redefiniendo racionalidad para acomodar influencias sociales sin relativismo y expandiendo paradigmas en tradiciones de investigación para mayor conmensurabilidad.
 
 ## Apéndice: Notas sobre la Bibliografía
 

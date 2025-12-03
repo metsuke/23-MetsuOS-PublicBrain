@@ -1,22 +1,22 @@
 ---
 iaStatus: 8
-iaStatus_Model: Grok-3
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Model: Grok-4, Raúl Carrillo aka Metsuke
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-04-17T12:52:39.385Z
-modified: 2025-10-19T07:15:38.815Z
+modified: 2025-12-03T19:56:45.332Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
-nav_primary: 
-nav_secondary: 
+ver_rev: 3
+nav_primary:
+nav_secondary:
 tags:
 ---
 # Aprender con Garcilaso de la Vega 🔴②
@@ -144,16 +144,15 @@ Esta sección propone pasos prácticos para abordar el estudio de Garcilaso con 
 ## 6. Recursos Adicionales
 
 - **Bibliografía recomendada**:
-    - Alonso, Dámaso (1945). _La poesía de Garcilaso_. Espasa-Calpe.
-    - Rivers, Elías L. (1980). _Garcilaso de la Vega: Poesías completas_. Castalia.
-    - Lapesa, Rafael (1985). _La trayectoria poética de Garcilaso_. Istmo.
+	1. [Alonso, Dámaso (1945). _La poesía de Garcilaso_. Espasa-Calpe. 🟡③🌐](https://www.amazon.com/Anotaciones-Garcilaso-Hispanicas-Hispanic-Writings/dp/8437619238) .- Análisis detallado de la poesía de Garcilaso de la Vega, enfocándose en sus influencias italianas y clásicas, la introducción de formas como el soneto y la égloga, y su renovación de la lírica española del Renacimiento.
+	2. [Rivers, Elías L. (1980). _Garcilaso de la Vega: Poesías completas_. Castalia. 🟡③🌐](https://www.amazon.com/Poemas-Poesia-Spanish-Garcilaso-Vega/dp/8499536344) .- Edición crítica completa de las poesías de Garcilaso de la Vega, incluyendo sonetos, églogas, canciones y otras formas, con introducción sobre su vida, influencias petrarquistas y clasicistas, y su impacto en la poesía renacentista española.
+	3. [Lapesa, Rafael (1985). _La trayectoria poética de Garcilaso_. Istmo. 🟡③🌐](https://www.amazon.com/GARCILASO-ESTUDIOS-COMPLETO-Spanish-VARIOS/dp/8470901494) .- Estudio sobre la evolución poética de Garcilaso de la Vega, desde sus primeras composiciones tradicionales hasta sus obras maduras influenciadas por Petrarca y Virgilio, destacando su innovación métrica y temática en el contexto del Siglo de Oro.
 - **Archivos y bibliotecas**:
-    - Biblioteca Nacional de España: Consultar manuscritos y ediciones antiguas de las obras de Garcilaso.
-    - Archivo Histórico Nacional: Buscar documentos sobre su vida militar y cortesana.
+	1. [Biblioteca Nacional de España: Consultar manuscritos y ediciones antiguas de las obras de Garcilaso. 🟡③🌐](https://www.google.com/search?q=https://catalogo.bne.es/discovery/search%3Fquery%3Dcreator,contains,Garcilaso%2520de%2520la%2520Vega,AND%26tab%3DLibraryCatalog%26search_scope%3DMyInstitution%26vid%3D34BNE_INST:CATALOGO%26offset%3D0) .- Acceso directo a la búsqueda del autor "Garcilaso de la Vega" en el nuevo Catálogo de la Biblioteca Nacional de España (BNE), que incluye referencias bibliográficas y enlaces a las digitalizaciones de obras antiguas y manuscritos disponibles.
+	2. [Archivo Histórico Nacional: Buscar documentos sobre su vida militar y cortesana. 🟡③🌐 🟡③🌐](https://www.google.com/url?sa=E&source=gmail&q=http://pares.mcu.es/ParesBusquedas20/catalogo/search?text=Garcilaso+de+la+Vega) .- Portal de Archivos Españoles (PARES) que permite la búsqueda de documentos históricos, incluidos expedientes de Órdenes Militares y registros de la corte, relacionados con la vida de Garcilaso.
 - **Recursos digitales**:
-    - Biblioteca Virtual Miguel de Cervantes: Acceder a textos digitalizados y estudios sobre Garcilaso.
-    - Dialnet: Buscar artículos académicos sobre su obra y contexto.
-
+	1. [Biblioteca Virtual Miguel de Cervantes: Acceder a textos digitalizados y estudios sobre Garcilaso. 🟡③🌐](https://www.cervantesvirtual.com/obra/obras-de-garcilaso-de-la-vega-ilustradas-con-notas--0/) .- Digital reproduction of the 1765 edition of Garcilaso de la Vega's works, illustrated with notes by José Nicolás de Azara, available in PDF, including sonnets, eclogues, and other poems with annotations for study.
+	2. [Dialnet: Buscar artículos académicos sobre su obra y contexto. 🟡③🌐](https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=garcilaso+de+la+vega) .- Database with 1,017 academic documents on Garcilaso de la Vega, including articles like "Garcilaso de la Vega" by Agustín Delgado (2001), books, and theses on his poetry transformations and context.
 ## 7. Líneas de Investigación Futura
 
 - **Relecturas contemporáneas**: Analizar cómo enfoques postcoloniales, de género o ecocríticos pueden ofrecer nuevas perspectivas sobre la obra de Garcilaso.
@@ -162,29 +161,19 @@ Esta sección propone pasos prácticos para abordar el estudio de Garcilaso con 
 
 ## 8. Referencias Bibliográficas de Apoyo
 
-> WIP Analizando Fuentes
-
 Estas fuentes respaldan el enfoque de la guía, destacando la importancia de Garcilaso como innovador poético y figura clave del Renacimiento:
 
-1. Alonso, Dámaso (1945). La poesía de Garcilaso. Espasa-Calpe.
-    - Ofrece un análisis profundo del estilo y los temas de Garcilaso, reforzando su papel como renovador de la lírica española.
-2. **Rivers, Elías L. (1980). _Garcilaso de la Vega: Poesías completas_. Castalia.**
-    - Proporciona una edición crítica fiable, esencial para el estudio textual de sus obras.
-3. **Lapesa, Rafael (1985). _La trayectoria poética de Garcilaso_. Istmo.**
-    - Contextualiza la evolución de Garcilaso, apoyando la idea de su fusión de tradiciones poéticas.
+1. [Alonso, Dámaso (1945). La poesía de Garcilaso. Espasa-Calpe. 🟡③🌐](https://www.amazon.com/-/es/Poesia-Espanola-Estilisticos-Garcilaso-Biblioteca/dp/B001MJMM3Q) .- Ofrece un análisis profundo del estilo y los temas de Garcilaso, reforzando su papel como renovador de la lírica española mediante teoría estilística orgánica y estudio de elementos como el encabalgamiento.
+2. [Rivers, Elías L. (1980). Garcilaso de la Vega: Poesías completas. Castalia. 🟡③🌐](https://www.amazon.com/-/es/Poes%C3%ADas-castellanas-completas-Cl%C3%A1sicos-Castalia/dp/8497403096) .- Proporciona una edición crítica fiable de las poesías castellanas completas de Garcilaso de la Vega, esencial para el estudio textual de sonetos, églogas y canciones.
+3. [Lapesa, Rafael (1985). La trayectoria poética de Garcilaso. Istmo. 🟡③🌐](https://www.amazon.com/-/es/GARCILASO-ESTUDIOS-COMPLETO-Spanish-VARIOS/dp/8470901494) .- Contextualiza la evolución de Garcilaso desde precedentes hispánicos hasta su madurez petrarquista, apoyando la fusión de tradiciones poéticas italianas y españolas.
 
 ## 9. Referencias Bibliográficas de Refutación
 
-> WIP Analizando Fuentes
-
 Algunas perspectivas podrían cuestionar aspectos de la guía, como el énfasis en el petrarquismo o la idealización de Garcilaso como figura renacentista:
 
-1. **Navarrete, Ignacio (1994). _Orphans of Petrarch: Poetry and Theory in the Spanish Renaissance_. University of California Press.**
-    - Argumenta que la influencia de Petrarca en Garcilaso puede haber sido sobrevalorada, destacando elementos originales de su obra que no dependen del petrarquismo.
-2. **Cruz, Anne J. (2001). _Material and Symbolic Circulation between Spain and England, 1554–1604_. Ashgate.**
-    - Sugiere que el enfoque en el contexto italiano y humanista puede restar atención a las influencias locales y populares en la poesía de Garcilaso.
-3. **Greenblatt, Stephen (1980). _Renaissance Self-Fashioning_. University of Chicago Press.**
-    - Cuestiona la idealización de figuras renacentistas como Garcilaso, proponiendo que su obra refleja más una construcción estratégica de la identidad cortesana que una ruptura radical con el pasado medieval.
+1. [**Navarrete, Ignacio (1994). _Orphans of Petrarch: Poetry and Theory in the Spanish Renaissance_. University of California Press.** 🟡③🌐](https://books.google.com/books/about/Orphans_of_Petrarch.html?id=tNXHSTK6N5wC) .- Argumenta que la influencia de Petrarca en Garcilaso puede haber sido sobrevalorada, destacando la "diferencia española" por unidad política, complejo de inferioridad cultural y fijación en pureza étnica, con fusión de petrarquismo y elementos originales como innovaciones estilísticas (hipérbaton, metalepsis) y translatio studii.
+2. [**Cruz, Anne J. (2001). _Material and Symbolic Circulation between Spain and England, 1554–1604_. Ashgate.** 🟡③🌐](https://www.routledge.com/Material-and-Symbolic-Circulation-between-Spain-and-England-1554-1604/Cruz/p/book/9780754662150) .- Sugiere que el enfoque en el contexto italiano y humanista puede restar atención a las influencias locales y populares en la poesía de Garcilaso, explorando intercambios culturales materiales y simbólicos entre España e Inglaterra en literatura, política y arte durante 1554-1604.
+3. [**Greenblatt, Stephen (1980). _Renaissance Self-Fashioning_. University of Chicago Press.** 🟡③🌐](https://press.uchicago.edu/ucp/books/book/chicago/R/bo3680145.html) .- Cuestiona la idealización de figuras renacentistas como Garcilaso, proponiendo que su obra refleja una construcción estratégica de la identidad cortesana mediante self-fashioning, involucrando presentación, performance y negociación de fuerzas sociales/culturales, extendible desde figuras inglesas como Wyatt y Spenser.
 
 Esta guía proporciona un marco claro y detallado para estudiar a Garcilaso de la Vega, integrando análisis biográfico, literario y contextual con un lenguaje accesible. Se recomienda personalizar el enfoque según los intereses del investigador, priorizando las secciones más relevantes para el estudio.
 

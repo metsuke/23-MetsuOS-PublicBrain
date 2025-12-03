@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary:
 tags:
 ---
-# Aprender con Garcilaso de la Vega 🔴②
+# Aprender con Garcilaso de la Vega 🟡③
 
 [[Aprender con Q-Z ⚫①]] | [[égloga 🔴②]]
 

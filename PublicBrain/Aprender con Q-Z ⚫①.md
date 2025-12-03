@@ -63,7 +63,7 @@ tags:
 - Vazquez, Samuel: Aprender con Samuel Vazquez    
 - Vázquez Peña, Rafeal: Aprender con Rafael Vázquez Peña    
 - Vega, Freddy: Aprender con Freddy Vega
-- **Vega (de la), Garcilaso**: [[Aprender con Garcilaso de la Vega 🔴②]]
+- **Vega (de la), Garcilaso**: [[Aprender con Garcilaso de la Vega 🟡③]]
 - Verne, Jules: Aprender con Jules Verne    
 - Vicente, Avelino: Aprender con Avelino Vicente    
 - Vidal, Marc: Aprender con Marc Vidal

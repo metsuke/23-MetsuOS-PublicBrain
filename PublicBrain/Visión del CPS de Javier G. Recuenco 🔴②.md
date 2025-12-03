@@ -3,20 +3,20 @@ iaStatus: 8
 iaStatus_Generado: H
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
-iaStatus_Model: 
+iaStatus_Model: Grok-4, Raul Carrillo aka Metsuke
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2024-04-06T23:49:00.917Z
-modified: 2025-04-16T22:39:03.912Z
+modified: 2025-12-03T20:21:16.958Z
 supervisado: 2024-05-27T13:38:08.204Z
-ACCION: 
+ACCION:
 ver_major: 0
 ver_minor: 4
-ver_rev: 89
-nav_primary: 
-nav_secondary: 
+ver_rev: 90
+nav_primary:
+nav_secondary:
 tags:
 ---
 # Visión del CPS de Javier G. Recuenco 🔴②
@@ -155,25 +155,19 @@ Esta sección ofrece pasos prácticos para abordar el estudio del CPS de Recuenc
 
 ## 8. Referencias Bibliográficas de Apoyo
 
-Estas fuentes respaldan la visión de Recuenco, destacando su enfoque iterativo, interdisciplinario y centrado en la incertidumbre:
+Estas fuentes respaldan la visión de Recuenco, destacando su enfoque iterativo, interdisciplinario y centrado en la 1. 
 
-1. **Taleb, N. N. (2018). _Skin in the Game_. Random House.**
-    - Refuerza la importancia del compromiso personal en la resolución de problemas, un pilar clave del CPS de Recuenco.
-2. **Meadows, D. H. (2008). _Thinking in Systems_. Chelsea Green Publishing.**
-    - Apoya su enfoque en los sistemas complejos y su crítica a los modelos predictivos rígidos, alineándose con la filosofía de Recuenco.
-3. **Senge, P. M. (1990). _The Fifth Discipline_. Doubleday.**
-    - Complementa su visión de la orquestación y el aprendizaje colectivo, fundamentales en los equipos transdisciplinarios del CPS.
+1. [Taleb, N. N. (2018). _Skin in the Game_. Random House. 🟡③🌐](https://www.penguinrandomhouse.com/books/537828/skin-in-the-game-by-nassim-nicholas-taleb/) .- Refuerza la importancia del compromiso personal en la resolución de problemas, un pilar clave del CPS de Recuenco.
+2. [Meadows, D. H. (2008). _Thinking in Systems_. Chelsea Green Publishing. 🟡③🌐](https://www.chelseagreen.com/product/thinking-in-systems/) .- Apoya su enfoque en los sistemas complejos y su crítica a los modelos predictivos rígidos, alineándose con la filosofía de Recuenco.
+3. [Senge, P. M. (1990). _The Fifth Discipline_. Doubleday. 🟡③🌐](https://books.google.com/books/about/The_Fifth_Discipline.html?id=bVZqAAAAMAAJ) .- Complementa su visión de la orquestación y el aprendizaje colectivo, fundamentales en los equipos transdisciplinarios del CPS.
 
 ## 9. Referencias Bibliográficas de Refutación
 
 Algunas perspectivas podrían cuestionar aspectos del CPS de Recuenco, como su complejidad o su dependencia de recursos especializados:
 
-1. **Zuboff, S. (2019). _La era del capitalismo de la vigilancia_. Paidós.**
-    - Critica la personalización basada en datos, señalando riesgos éticos que podrían aplicarse a la personotecnia dentro del CPS.
-2. **Weick, K. E. (1995). _Sensemaking in Organizations_. Sage.**
-    - Aunque apoya el sensemaking, su enfoque organizacional podría considerar el CPS de Recuenco excesivamente técnico o centrado en el facilitador.
-3. **Mintzberg, H. (1994). _The Rise and Fall of Strategic Planning_. Free Press.**
-    - Argumenta que las metodologías estratégicas complejas, como el CPS, pueden ser menos efectivas que enfoques más simples en ciertos contextos.
+1. [Zuboff, S. (2019). _La era del capitalismo de la vigilancia_. Paidós. 🟡③🌐](https://www.planetadelibros.com/libro-la-era-del-capitalismo-de-la-vigilancia/311701) .- Critica la personalización basada en datos, señalando riesgos éticos que podrían aplicarse a la personotecnia dentro del CPS.
+2. [Weick, K. E. (1995). _Sensemaking in Organizations_. Sage. 🟡③🌐](https://us.sagepub.com/en-us/nam/sensemaking-in-organizations/book4988) .- Aunque apoya el sensemaking, su enfoque organizacional podría considerar el CPS de Recuenco excesivamente técnico o centrado en el facilitador.
+3. [Mintzberg, H. (1994). _The Rise and Fall of Strategic Planning_. Free Press. 🟡③🌐](https://books.google.com/books/about/Rise_and_Fall_of_Strategic_Planning.html?hl=es&id=TugplxDii8MC) .- Argumenta que las metodologías estratégicas complejas, como el CPS, pueden ser menos efectivas que enfoques más simples en ciertos contextos.
 
 Esta guía proporciona un marco claro y detallado para estudiar la visión del CPS de Javier G. Recuenco, integrando teoría, práctica y reflexión crítica. Se recomienda personalizar el enfoque según los intereses del investigador, priorizando las secciones más relevantes para el estudio.
 

@@ -21,7 +21,7 @@ tags: []
 ---
 # Libro - Science as Social Knowledge Values and Objectivity in Scientific Inquiry - Helen E. Longino  ⚫①-🌐🟡③
 
-[[Historia de la Epistemología y su aplicación en la Ciencia 🔴②]]
+[[Historia de la Epistemología y su aplicación en la Ciencia 🟡③]]
 ### Ficha Bibliográfica en Profundidad
 
 #### 1. Datos Bibliográficos

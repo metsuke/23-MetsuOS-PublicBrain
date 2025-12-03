@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-23T18:16:28.303Z
-modified: 2025-10-24T18:42:35.356Z
+modified: 2025-12-03T11:09:35.151Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary:
 nav_secondary:
 tags:
 MOS_TopImg_Video: HistoriaEpistemologia_000.mp4
 ---
-# Historia de la Epistemología y su aplicación en la Ciencia 🔴②
+# Historia de la Epistemología y su aplicación en la Ciencia 🟡③
 
 
 ![Desde la filosofia al metodo cientifico](PublicBrain/_resources/94759bd7da14db78910fc5b1f76c941f_MD5.jpg)
@@ -242,19 +242,14 @@ Este contenido ofrece un viaje completo a través de la historia de la epistemol
 
 ## Referencias bibliográficas que apoyan el contenido
 
-
-- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]] .- Obra clave que introduce el concepto de paradigma y su influencia en el progreso científico.
-- [[Libro - Science as Social Knowledge Values and Objectivity in Scientific Inquiry - Helen E. Longino  ⚫①-🌐🟡③]]  - Explora la epistemología desde una perspectiva social y feminista, destacando el carácter colectivo del conocimiento.
-- [Hacking, I. (1999). The Social Construction of What?. Cambridge, MA: Harvard University Press 🌐🟡③](https://www.jstor.org/stable/j.ctv1bzfp1z) .- Analiza la construcción social del conocimiento científico, conectando con debates epistemológicos contemporáneos.
+1. [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]] .- Obra clave que introduce el concepto de paradigma y su influencia en el progreso científico.
+2. [[Libro - Science as Social Knowledge Values and Objectivity in Scientific Inquiry - Helen E. Longino  ⚫①-🌐🟡③]] .- Explora la epistemología desde una perspectiva social y feminista, destacando el carácter colectivo del conocimiento.
+3. [Hacking, I. (1999). The Social Construction of What?. Cambridge, MA: Harvard University Press 🌐🟡③](https://www.jstor.org/stable/j.ctv1bzfp1z) .- Analiza la construcción social del conocimiento científico, conectando con debates epistemológicos contemporáneos.
 
 ## Referencias bibliográficas que críticas o perspectivas alternativas
 
-> WIP Revisando Fuentes
-
-- [Popper, K. (1963). Conjeturas y refutaciones. Londres: Routledge  🌐🟡③](https://dn721906.ca.archive.org/0/items/karl-popper-conjeturas-y-refutaciones.-el-desarrollo-del-conocimiento-cientifico/Karl%20Popper%20-%20Conjeturas%20y%20refutaciones.%20El%20desarrollo%20del%20conocimiento%20cientifico.pdf) .- Cuestiona el modelo de paradigmas de Kuhn, defendiendo el falsacionismo como motor del avance científico.
-- Feyerabend, P. (1975). _Contra el método_. Madrid: Tecnos (edición en español, 1981).
-    - Rechaza las epistemologías normativas, abogando por un pluralismo metodológico que desafía las estructuras tradicionales.
-- Lakatos, I. (1970). "Falsification and the Methodology of Scientific Research Programmes". En I. Lakatos & A. Musgrave (Eds.), _Criticism and the Growth of Knowledge_ (pp. 91–196). Cambridge: Cambridge University Press.
-    - Propone los programas de investigación como alternativa al modelo de revoluciones científicas, ofreciendo una visión más gradual del cambio científico.
+1. [Popper, K. (1963). Conjeturas y refutaciones. Londres: Routledge 🌐🟡③](https://dn721906.ca.archive.org/0/items/karl-popper-conjeturas-y-refutaciones.-el-desarrollo-del-conocimiento-cientifico/Karl%20Popper%20-%20Conjeturas%20y%20refutaciones.%20El%20desarrollo%20del%20conocimiento%20cientifico.pdf) .- Cuestiona el modelo de paradigmas de Kuhn, defendiendo el falsacionismo como motor del avance científico.
+2. [Feyerabend, P. (1975). _Contra el método_. Madrid: Tecnos (edición en español, 1981). 🟡③🌐](https://archive.org/details/paul-feyerabend-tratado-contra-el-metodo-esquema-de-una-teoria-anarquista-del-conocimiento) .- Rechaza las epistemologías normativas, abogando por un pluralismo metodológico que desafía las estructuras tradicionales.
+3. [Lakatos, I. (1970). "Falsification and the Methodology of Scientific Research Programmes". En I. Lakatos & A. Musgrave (Eds.), _Criticism and the Growth of Knowledge_ (pp. 91–196). Cambridge: Cambridge University Press. 🟡③🌐](https://archive.org/details/imre-lakatos-alan-musgrave-criticism-and-the-growth-of-knowledge) .- Propone los programas de investigación como alternativa al modelo de revoluciones científicas, ofreciendo una visión más gradual del cambio científico.
 
 ![[Plantilla - 1MT#One More Thing]]

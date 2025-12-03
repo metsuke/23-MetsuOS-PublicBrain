@@ -57,7 +57,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 ### Estructura del Conocimiento
 
 * [[Historia de la Ciencia y del Método Científico 🔴②]]
-* [[Historia de la Epistemología y su aplicación en la Ciencia 🔴②]]
+* [[Historia de la Epistemología y su aplicación en la Ciencia 🟡③]]
 
 	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
 		* [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]

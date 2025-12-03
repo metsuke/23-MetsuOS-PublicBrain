@@ -18,7 +18,7 @@ tags: []
 ---
 # Definición y alcance de la epistemología  🔴②
 
-* [[Historia de la Epistemología y su aplicación en la Ciencia 🔴②]]
+* [[Historia de la Epistemología y su aplicación en la Ciencia 🟡③]]
 	* [[Análiis Estructural - Definición y alcance de la epistemología ⚫①]]
 
 

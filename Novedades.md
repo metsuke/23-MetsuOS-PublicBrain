@@ -66,7 +66,7 @@ Te invito a un fascinante recorrido por la historia de la epistemología, desde 
 
 Combinando un enfoque histórico con aplicaciones prácticas, trataré de fomentar la reflexión crítica y la conexión entre disciplinas, preparando a todo aquel capaz de aceptar el reto para analizar el conocimiento científico en un mundo complejo.
 
-Continuar leyendo en [[Historia de la Epistemología y su aplicación en la Ciencia 🔴②]]
+Continuar leyendo en [[Historia de la Epistemología y su aplicación en la Ciencia 🟡③]]
 
  --- column-end ---
 

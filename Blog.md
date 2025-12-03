@@ -90,7 +90,7 @@ Corría el inicio de los 2000 cuando descubrí Battlemail, un juego de lucha que
 
 Recuerdo con cariño la emoción de instalar aquel cliente en mi ordenador, un ejecutable que integraba Flash y que me permitía crear mi propio personaje para desafiar a amigos.
 
-Continuar leyendo en ... [[Blog - Battlemail - Mi primer juego viral - 2025-05-24  🔴②]]
+Continuar leyendo en ... [[Blog - Battlemail - Mi primer juego viral - 2025-05-24 🟡③]]
 
  --- column-end ---
 

@@ -152,7 +152,7 @@ WIP
 * [[Blog - Cansado de construir sobre arenas movedizas - 2025-07-29 ⚫①]]
 * [[Blog - Sobre el sistema de validacion de contenido de MetsuOS - 2025-06-01 🔴②]]
 * [[Blog - Aventuras de verano con el enmascarado - 2025-05-26  🟡③]]
-* [[Blog - Battlemail - Mi primer juego viral - 2025-05-24  🔴②]]
+* [[Blog - Battlemail - Mi primer juego viral - 2025-05-24 🟡③]]
 * [[Blog - Parece extremadamente probable que la verdad absoluta no exista - 2025-05-23 🔴②]]
 * [[Blog - Dios es gallego del gráfico de Nolan a la pirámide de Coherentum - 2018-03-01  ⚫①]]
 ### Juegos

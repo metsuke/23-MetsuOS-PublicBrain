@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Blog - Battlemail - Mi primer juego viral - 2025-05-24  🔴②
+# Blog - Battlemail - Mi primer juego viral - 2025-05-24 🟡③
 
 ![Collage con los graficos que he podido recuperar del Battlemail original](_resources/1c4273a22bc75405a7e46c9a0536f461_MD5.jpg)
 
@@ -58,15 +58,11 @@ Como mínimo, vale la pena investigar un poco ¿no creeis?
 
 ### Fuentes que apoyan el contexto de Battlemail
 
-> WIP Revisando fuentes
-
 Estas fuentes proporcionan contexto sobre la cultura de los videojuegos en los años 2000 y el uso de tecnologías como Flash en juegos en línea:
 
-* [Salen, K., & Zimmerman, E. (2004). Rules of Play: Game Design Fundamentals. MIT Press. 🌐🟡③](https://www.amazon.es/Rules-Play-Design-Fundamentals-Press/dp/0262240459/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.fFpLlOjETVNPEnH1fABWEw.MELVsfeIs8vZvl_drHIW9X0Io79vnPyNPm69CiQeN2s&dib_tag=se&keywords=_Rules+of+Play%3A+Game+Design+Fundamentals_.+MIT+Press&qid=1748025537&sr=8-1&ufe=app_do%3Aamzn1.fos.5e544547-1f8e-4072-8c08-ed563e39fc7d) .- Este libro explora los fundamentos del diseño de videojuegos, incluyendo mecánicas simples como las de Battlemail, que capturaban la atención mediante interacción social.
-* Juul, J. (2005). _Half-Real: Video Games between Real Rules and Fictional Worlds_. MIT Press.**  
-    Analiza cómo los videojuegos de principios de los 2000 combinaban reglas simples con narrativas atractivas, un rasgo clave de juegos como Battlemail. [El libro de Juul en Amazon 🌐🟡③](https://www.amazon.es/Half-Real-MIT-Press-Jesper-Juul/dp/0262516519/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.xdzU9pg4t7MulL5DKCCshw.fYHFR1T9PnaPPZAYcLIsecUH8jiPI2k2liV098hliMk&qid=1748026015&sr=8-1)
-* The History of Flash Games - Documentary (2020). YouTube.
-    Este documental de Gaming Historian explora el auge y declive de los juegos basados en Flash, como Battlemail. [El Documental - The History of Flash Games en Youytube 🌐🟡③](https://www.youtube.com/watch?v=n1UZE8hPqc8)
+1. [Salen, K., & Zimmerman, E. (2004). Rules of Play: Game Design Fundamentals. MIT Press. 🌐🟡③](https://books.google.com/books/about/Rules_of_Play.html?id=UM-xyczrZuQC) .- Este libro explora los fundamentos del diseño de videojuegos, incluyendo mecánicas simples como las de Battlemail, que capturaban la atención mediante interacción social.
+2. [Juul, J. (2005). _Half-Real: Video Games between Real Rules and Fictional Worlds_. MIT Press.** 🌐🟡③](https://half-real.net/) .- Analiza cómo los videojuegos de principios de los 2000 combinaban reglas simples con narrativas atractivas, un rasgo clave de juegos como Battlemail.
+3. [The History of Flash Games - Documentary (2020). YouTube. 🌐🟡③](https://www.youtube.com/watch?v=n1UZE8hPqc8) .- Este documental de Gaming Historian explora el auge y declive de los juegos basados en Flash, como Battlemail.
     
 ### Fuentes que refutan o critican el modelo de Battlemail
 
@@ -74,14 +70,9 @@ Estas fuentes proporcionan contexto sobre la cultura de los videojuegos en los a
 
 Estas fuentes destacan las limitaciones de los juegos basados en tecnologías obsoletas o mecánicas simples, lo que podría explicar el cierre de Battlemail:
 
-1. **Donovan, T. (2010). _Replay: The History of Video Games_. Yellow Ant.**  
-    Este libro detalla cómo los juegos en línea de los 2000, aunque innovadores, a menudo quedaban obsoletos frente a tecnologías más avanzadas. [El libro de Donovan en Amazon](https://www.amazon.es/Replay-History-Video-Tristan-Donovan/dp/0956507204/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=8X7C1TO6HT1G&dib=eyJ2IjoiMSJ9.30TP1FQ5bXJOkELeYzlRRQ.UI7IUSKit4Jvp3xgVn2CDi-Ja0-DRPCxiwOO0q-rORw&dib_tag=se&keywords=_Replay%3A+The+History+of+Video+Games_.+Yellow+Ant&qid=1748028478&sprefix=_replay+the+history+of+video+games_.+yellow+ant%2Caps%2C253&sr=8-1)
-    
-2. **Wolf, M. J. P. (Ed.). (2015). _Video Games Around the World_. MIT Press.**  
-    Este libro señala cómo los juegos basados en tecnologías como Flash enfrentaban problemas de escalabilidad y mantenimiento, lo que pudo contribuir al cierre de plataformas como Battlemail. [El libro de Wolf en Amazon](https://www.amazon.es/Video-Games-Around-World-Press/dp/0262527162/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=3QLAHF9X7QZT9&dib=eyJ2IjoiMSJ9.LMpFqBsSMi3G_jp4Y-MpYQ.g66SjQs7BmaTI9Dty6JGUT3oNl819XZAqmGSscC6JbY&dib_tag=se&keywords=_Video+Games+Around+the+World_.+MIT+Press.**&qid=1748028550&sprefix=_video+games+around+the+world_.+mit+press+%2Caps%2C299&sr=8-1)
-    
-3. **The Tragic Death of Flash Games - YouTube.**  
-    Este video explica cómo la obsolescencia de Flash llevó al cierre de muchos juegos en línea, incluyendo aquellos con mecánicas similares a Battlemail. [El video sobre la muerte de los juegos flash en Youtube](https://www.youtube.com/watch?v=_AJ24raqBmU)
+1. [Donovan, T. (2010). _Replay: The History of Video Games_. Yellow Ant. 🟡③🌐](https://books.google.com/books/about/Replay.html?id=_lrSSAAACAAJ) .- Una historia exhaustiva de los videojuegos, detallando su evolución desde la década de 1940 hasta los 2000, basada en entrevistas con figuras clave de la industria.
+2. [Wolf, M. J. P. (Ed.). (2015). _Video Games Around the World_. MIT Press. 🟡③🌐](https://chooser.crossref.org/?doi=10.7551%2Fmitpress%2F9780262527163.001.0001) .- Libro editado que compila treinta y nueve ensayos que exploran la diversidad de la historia y cultura de los videojuegos en todos los continentes, publicado por MIT Press.
+3. [The Tragic Death of Flash Games - YouTube. 🟡③🌐](http://www.youtube.com/watch?v=_AJ24raqBmU) .- Video que explica el auge de Flash Player, su posterior caída debido a problemas de seguridad y la aparición de HTML5, lo que provocó la pérdida de una gran parte de la historia de los juegos en línea [00:01:28].
 
 
 ![[Plantilla - 1MT#One More Thing]]

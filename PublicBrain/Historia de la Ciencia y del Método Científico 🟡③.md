@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-03-29T22:03:57.697Z
-modified: 2025-12-03T18:01:04.035Z
+modified: 2025-12-03T19:16:43.275Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary:
 nav_secondary:
 tags:
 MOS_TopImg_Video: HistoriaCienciaMetodoCientifico_000.mp4
 ---
-# Historia de la Ciencia y del Método Científico 🔴②
+# Historia de la Ciencia y del Método Científico 🟡③
 
 ![Galileo, Newton, y Einstein](HistoriaCienciaMetodoCientifico_000.jpg)
 

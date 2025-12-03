@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-11-08T18:27:46.278Z
+modified: 2025-12-03T19:16:43.837Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 232
+ver_rev: 233
 nav_primary:
 nav_secondary:
 tags:
@@ -91,7 +91,7 @@ MOS_TopImg_Video: PublicBrain.mp4
 ### Epistemología
 
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
-* [[Historia de la Ciencia y del Método Científico 🔴②]]
+* [[Historia de la Ciencia y del Método Científico 🟡③]]
 
 ## Ciencia
 

@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-06T21:24:16.966Z
-modified: 2025-09-23T05:54:00.608Z
+modified: 2025-12-03T19:16:43.506Z
 supervisado: ""
 ACCION: ""
 ver_major: "0"
 ver_minor: 3
-ver_rev: 5
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Definición de ciencia y método científico 🔴②
 
-[[Historia de la Ciencia y del Método Científico 🔴②]]
+[[Historia de la Ciencia y del Método Científico 🟡③]]
 
 ¿Te has preguntado alguna vez qué es realmente la ciencia o cómo sabemos que lo que nos cuenta es verdad? No estás solo: desde que los primeros curiosos miraron las estrellas o se preguntaron por qué una manzana cae del árbol, la humanidad ha buscado respuestas. Vamos a embarcarnos en un viaje por la historia para descubrir qué significa "ciencia" y cómo el método científico se convirtió en su compañero inseparable. No es solo un montón de datos fríos ni un libro de reglas para genios en bata blanca; es una aventura humana, llena de preguntas, pruebas y sorpresas, que ha transformado cómo vemos el mundo. ¿Listo para explorar cómo llegamos hasta aquí?
 

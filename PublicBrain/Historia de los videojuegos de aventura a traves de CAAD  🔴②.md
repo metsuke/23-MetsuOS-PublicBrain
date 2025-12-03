@@ -1,21 +1,24 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Grok-4, Raul Carrillo aka Metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations:
 created: 2025-10-24T18:50:16.130Z
-modified: 2025-10-27T00:01:12.561Z
+modified: 2025-12-03T19:19:03.953Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 2
+ver_minor: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
-MOS_TopImg_Video: HistoriaVideojuegosAventuraCAAD.mp4
+MOS_TopImg_Video: "H"istoriaVideojuegosAventuraCAAD.mp4
 ---
 # Historia de los videojuegos de aventura a traves de CAAD  🔴②
 
@@ -27,7 +30,7 @@ MOS_TopImg_Video: HistoriaVideojuegosAventuraCAAD.mp4
 
 En las profundidades de la era dorada del software español, cuando los ordenadores de 8 bits parpadeaban con promesas de mundos imposibles, nació un fanzine que no solo documentó, sino que *tejió* la historia viva de los videojuegos de aventura: **CAAD**. Desde su primer número en 1989 hasta la Tercera Edad digital de 2025, este boletín epistolar, luego foro y ahora archivo interactivo, no es un mero repositorio de soluciones y reseñas: es el **diario de bitácora de una generación** que convirtió la imaginación en código, el parser en poesía y la comunidad en resistencia cultural. Este curso no estudia la aventura —la *vive* a través de sus páginas—, desgranando número por número la evolución de un género que, contra todo pronóstico, sigue desafiando al tiempo.
 
-## Módulo 0: Introducción (1 sesión)
+## Módulo 0: "I"ntroducción (1 sesión)
 - **Objetivos**: Contextualizar CAAD en la historia de las aventuras conversacionales y gráficas.
 - **Contenidos**:
   - Orígenes globales: Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987).
@@ -88,30 +91,26 @@ En las profundidades de la era dorada del software español, cuando los ordenado
 
 ## Referencias Bibliográficas que apoyan el contenido
 
-> WIP Revisando Fuentes
+> Estas obras enfatizan la innovación narrativa, el poder imaginativo y el legado cultural de las aventuras conversacionales, conectando directamente con la evolución documentada en CAAD.
 
-Estas obras enfatizan la innovación narrativa, el poder imaginativo y el legado cultural de las aventuras conversacionales, conectando directamente con la evolución documentada en CAAD.
-
-1. **Montfort, Nick. _Twisty Little Passages: An Approach to Interactive Fiction_. MIT Press, 2003.** Análisis profundo del género como forma literaria interactiva, defendiendo su riqueza narrativa desde _Colossal Cave Adventure_ hasta Infocom. Relevante para módulos 1-3 del curso. (En inglés, con referencias a traducciones españolas).
-2. **AD - Héroes de Papel (Libro colectivo). _Aventuras AD: La historia de la compañía y sus juegos_. Héroes de Papel, 2019.** Historia interna de Aventuras AD, con análisis de sus títulos y el origen de las aventuras conversacionales en España. Ideal para contextualizar CAAD como preservador cultural (Módulo 2).
-3. **Infobae. "Retrocultura Activa: La magia de las aventuras conversacionales: viaje a través del tiempo y la imaginación". Malditos Nerds, 18 de septiembre de 2024.** Defensa de su rol fundamental en la historia de los videojuegos, destacando creatividad y accesibilidad en títulos españoles como _Yenght_. Enlaza con la "Tercera Edad" de CAAD (Módulo 5).
-4. **Xataka. "En el principio fue la aventura conversacional". 30 de junio de 2015.** Celebración de su evolución lingüística y vínculo con la literatura interactiva, citando _A Companion to Digital Literary Studies_ (2008) como base teórica. Útil para Módulo 0.
-5. **Caja de Letras. "Aventuras conversacionales y aventuras gráficas". 20 de noviembre de 2023.** Elogio de su similitud con "Elige tu propia aventura", destacando extensión y opciones narrativas en clásicos españoles como _La Aventura Original_. Conecta con relaciones transversales (Módulo 6).
-6. **El Pixel Ilustre. "Los Géneros Perdidos: Aventuras Conversacionales". 27 de mayo de 2011.** Defensa nostálgica de su inmersión y rol pionero, comparándolo con juegos de rol. Referencia para el "renacimiento digital" (Módulo 4).
-7. **Wikipedia (español). "Aventura conversacional". Última edición: 20 de septiembre de 2025.** Resumen histórico que resalta su popularización vía ARPAnet y legado en Infocom/Sierra. Base enciclopédica para todo el curso.
+1. [**Montfort, Nick. _Twisty Little Passages: An Approach to Interactive Fiction_. MIT Press, 2003.** 🟡③🌐](https://www.amazon.com/Twisty-Little-Passages-Approach-Interactive/dp/0262633183) .- Enfoque crítico a la ficción interactiva como literatura y juego, primer estudio monográfico desde el acertijo y Adventure hasta Infocom y la comunidad independiente de los 90, destacando su riqueza narrativa y paradigmas computacionales-literarios.
+2. [**AD - Héroes de Papel (Libro colectivo). _Aventuras AD: La historia de la compañía y sus juegos_. Héroes de Papel, 2019.** 🟡③🌐](https://www.heroesdepapel.es/productos/ad-112) .- Historia interna de Aventuras AD, compañía española dedicada a aventuras conversacionales, con análisis de sus juegos y orígenes del género desde mainframes universitarios, contada por sus miembros (240 páginas).
+3. [**Infobae. "Retrocultura Activa: La magia de las aventuras conversacionales: viaje a través del tiempo y la imaginación". Malditos Nerds, 18 de septiembre de 2024.** 🟡③🌐](https://www.infobae.com/malditos-nerds/2024/09/18/retrocultura-activa-la-magia-de-las-aventuras-conversacionales-viaje-a-traves-del-tiempo-y-la-imaginacion/) .- Historia del género desde Colossal Cave (1976) e Infocom, énfasis en creatividad y accesibilidad pese a limitaciones técnicas, títulos españoles como Yenght y Aventuras AD, preservación moderna con CAAD.
+4. [**Xataka. "En el principio fue la aventura conversacional". 30 de junio de 2015.** 🟡③🌐](https://www.xataka.com/literatura-comics-y-juegos/en-el-principio-fue-la-aventura-conversacional) .- Evolución del lenguaje en aventuras conversacionales desde Adventure (1977) a Zork (Infocom), vínculo con literatura interactiva y narración múltiple, citando A Companion to Digital Literary Studies (2008).
+5. [**Caja de Letras. "Aventuras conversacionales y aventuras gráficas". 20 de noviembre de 2023.** 🟡③🌐](https://cajadeletras.es/aventuras-conversacionales/) .- Aventuras conversacionales como precursoras narrativas de las gráficas, similitud con libros "Elige tu propia aventura" pero con mayor extensión y opciones, ejemplos españoles como La Aventura Original y Don Quijote.
+6. [**El Pixel Ilustre. "Los Géneros Perdidos: Aventuras Conversacionales". 27 de mayo de 2011.** 🟡③🌐](https://www.elpixelilustre.com/2011/05/los-generos-perdidos-aventuras-conversacionales.html) .- Defensa nostálgica de su inmersión vía comandos de texto como en rol tradicional, rol pionero desde Colossal Cave, éxito en España (Dinamic, Aventuras AD), legado en renacimiento digital.
+7. [**Wikipedia (español). "Aventura conversacional". Última edición: 20 de septiembre de 2025.** 🟡③🌐](https://es.wikipedia.org/wiki/Aventura_conversacional) .- Resumen histórico desde Adventure (1975) vía ARPAnet, legado de Infocom (Zork) y Sierra, auge en España con Dinamic y Aventuras AD (DAAD), resurgimiento con CAAD y herramientas modernas.
 
 #### Referencias bibliográficas que refutan el contenido
 
-> WIP Revisando Fuentes
-
 Estas fuentes critican aspectos como la frustración por parsers rígidos, bugs, accesibilidad limitada y declive por avances gráficos, reflejando debates en CAAD sobre evolución del género.
 
-1. **Graham, Gauntt, et al. _ParserComp: An Annual Competition for New Parser-Based Works of Interactive Fiction_. Interactive Fiction Community, 1998-actualidad (análisis en Graham, L. "The Problems of Parser-Based IF", 2000).** Crítica a la rigidez de los parsers y frustración en puzzles, proponiendo hipertextos como alternativa. Relevante para crisis en Módulo 3.
-2. **VidaExtra. "Arqueología del videojuego: Aventuras Conversacionales". 24 de abril de 2008.** Señala bugs en pioneros como _Yenght_ y dificultad excesiva que limita su viabilidad actual, pese a su inmersión histórica. Conecta con declive en Módulo 4.
-3. **Maese Threepwood. "¡Con lo que han sido estos dedos! #2: Las aventuras conversacionales". RigoryCriterio, 31 de mayo de 2019.** Admite situaciones inverosímiles y soluciones imposibles que generan frustración, aunque las adora nostálgicamente. Útil para debates transversales (Módulo 6).
-4. **Medium (Xavier Carrascosa). "¿Cómo y porqué jugar aventuras conversacionales?". 11 de octubre de 2017 (actualizado 2018).** Critica su "sordera" (parsers poco intuitivos) y confinamiento a nichos retro, comparado con aventuras gráficas. Enlaza con Tercera Edad (Módulo 5).
-5. **Skip Intro. "La industria de las Aventuras Conversacionales". 24 de septiembre de 2020.** Destaca mecanismos primitivos y desigual suerte comercial frente a otros géneros, limitando su impacto masivo. Referencia para orígenes (Módulo 1).
-6. **Valencia Plaza. "Aventuras AD: videojuegos conversacionales en la edad dorada del software español". 30 de marzo de 2022.** Señala nichos pequeños y dependencia de ventas bajas, contribuyendo a su declive post-90s. Contextualiza CAAD como resistencia (Módulo 3).
+1. [**Graham, Gauntt, et al. _ParserComp: An Annual Competition for New Parser-Based Works of Interactive Fiction_. Interactive Fiction Community, 1998-actualidad (análisis en Graham, L. "The Problems of Parser-Based IF", 2000).** 🟡③🌐](https://www.ifwiki.org/ParserComp) .- ParserComp is an annual competition for parser games, first held in 2015 and resurrected in 2021, with criticisms focusing on parser rigidity and frustration in puzzles, proposing hypertexts as alternatives, relevant to module 3 crisis.
+2. [**VidaExtra. "Arqueología del videojuego: Aventuras Conversacionales". 24 de abril de 2008.** 🟡③🌐](https://www.vidaextra.com/pc/arqueologia-del-videojuego-aventuras-conversacionales) .- The article discusses the history of Spanish conversational adventures, highlighting 'Yenght' as the first title with various bugs that still earned it a place among players, notes the genre's excessive difficulty requiring hours of reading for immersion, a commitment rare today, with early developments by DINAMIC and AD, successes like 'La Aventura Original', and decline before late 1990s revival.
+3. [**Maese Threepwood. "¡Con lo que han sido estos dedos! #2: Las aventuras conversacionales". RigoryCriterio, 31 de mayo de 2019.** 🟡③🌐](https://rigorycriterio.es/articulos/con-lo-que-han-sido-estos-dedos-2-las-aventuras-conversacionales.html) .- Nostalgic recount of early ZX Spectrum text adventures like "La aventura original" and "Jabato", with implausible situations (e.g., head in clouds in class) and impossible solutions (unrecognized commands like "despierta"), leading to frustration via trial-and-error, recent replays resulting in stuck progress, death, or anguish, attributed to aging rather than skill or patience.
+4. [**Medium (Xavier Carrascosa). "¿Cómo y porqué jugar aventuras conversacionales?". 11 de octubre de 2017 (actualizado 2018).** 🟡③🌐](https://medium.com/xaviercarrascosa/c%25C3%25B3mo-y-porqu%25C3%25A9-jugar-aventuras-conversacionales-b14cb1207a70) .- Text-based conversational adventures criticized for "deafness"—non-intuitive parsers failing inputs like "empujar la puerta" with "no entiendo"—confined to retro niches, overshadowed by graphical adventures and modern games like GTA due to lacking aesthetics, graphics, and accessibility, alienating newcomers unlike immersive graphical experiences.
+5. [**Skip Intro. "La industria de las Aventuras Conversacionales". 24 de septiembre de 2020.** 🟡③🌐](https://guiondevideojuegos.com/industria/industria-aventuras-conversacionales/) .- Conversational adventures emerged as primitive text-based mechanisms with basic commands for actions like advancing or interacting, inspired by cave exploration; 1980s success via narrative immersion with varied themes, but declined with graphical adventures' visual evolution; current marginal resurgence by non-profit communities like El club de aventuras AD, creating and sharing games without massive impact compared to dominant genres.
+6. [**Valencia Plaza. "Aventuras AD: videojuegos conversacionales en la edad dorada del software español". 30 de marzo de 2022.** 🟡③🌐](https://valenciaplaza.com/aventuras-ad-videojuegos-conversacionales-en-la-edad-dorada-del-software-espanol) .- Post-90s decline of Spain's video game industry due to consoles, 8-bit to 16-bit shifts, PC graphics/sound advances, poor management, and external factors; niche conversational adventures, emphasizing reading/thinking over reflexes, had low sales not reliant on high volumes via per-project model; CAAD (1988) resists via amateur creations, publications, and retro revival, sustaining genre professionally until 1992 and as hobby ongoing.
 
 
 ![[Plantilla - 1MT#One More Thing]]

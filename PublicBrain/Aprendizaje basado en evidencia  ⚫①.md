@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T15:34:27.927Z
-modified: 2025-12-03T11:27:01.081Z
+modified: 2025-12-03T19:16:43.417Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -64,7 +64,7 @@ La ciencia representa una de las aventuras más fascinantes de la humanidad, un 
 
 En esta sección, exploraremos los conceptos básicos sobre la ciencia y su desarrollo histórico, distinguiendo entre ciencia pura, tecnología aplicada y otras formas de conocimiento, como la filosofía o la tradición oral.
 
-Continuar leyendo en ... [[Historia de la Ciencia y del Método Científico 🔴②]]
+Continuar leyendo en ... [[Historia de la Ciencia y del Método Científico 🟡③]]
 
 --- column-end ---
 

@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "288fbd2971f3a216",
+            "id": "45d895d3bc73f32b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
+                "file": "PublicBrain/MetsuDepManager - Visión general del proyecto 🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③"
-            }
-          },
-          {
-            "id": "6d5ea8142b98a35e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Requisitos Previos para el Curso de MetsuDepManager - Prepárate sin Complicaciones 🟡③.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Requisitos Previos para el Curso de MetsuDepManager - Prepárate sin Complicaciones 🟡③"
+              "title": "MetsuDepManager - Visión general del proyecto 🟡③"
             }
           }
         ]
@@ -216,12 +202,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "288fbd2971f3a216",
+  "active": "45d895d3bc73f32b",
   "lastOpenFiles": [
+    "Apps.md",
+    "PublicBrain/MetsuDepManager - Visión general del proyecto 🟡③.md",
     "PublicBrain/Requisitos Previos para el Curso de MetsuDepManager - Prepárate sin Complicaciones 🟡③.md",
+    "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
+    "PublicBrain/_resources/bcdb26b402ce1818f324f6b0247f7807_MD5.jpg",
+    "MetsuDepManager - Visión general del proyecto  🔴②.md",
+    "PublicBrain/MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③.md",
+    "PublicBrain/mosLib - El Corazón de MetsuOS  ⚫①.md",
+    "Index.md",
+    "Blog.md",
     "PublicBrain/Decisión oficial sobre la versión de Python requerida por MetsuDepManager 🟡③.md",
     "¿Que versiónes de Python debe soportar MetsuDepManager en 2025-12?  🔴②.md",
-    "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
     "PublicBrain/Objetivo del Curso - Construir MetsuDepManager, un Gestor de Paquetes Práctico, Ético y Personalizable 🟡③.md",
     "PublicBrain/_resources/7ca926b2ca82e9120c0ce1718119fb0c_MD5.jpg",
     "Requisitos previos Python ≥ 3.9, conocimientos básicos de Poetry, Git y línea de comandos ⚫①.md",
@@ -233,11 +227,8 @@
     "PublicBrain/_resources/aaf98fa39d495acaf8a5f8c59eeea738_MD5.jpg",
     "Casos reales en los que tiene sentido crear uno propio - empresas con políticas estrictas, entornos educativos, auditorías de seguridad, cumplimiento normativo (RGPD, NIS2, etc.) y air-gapped environments ⚫①.md",
     "PublicBrain/¿De verdad hace falta otro gestor de paquetes cuando ya existe Poetry?  🟡③.md",
-    "PublicBrain/MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③.md",
     "PublicBrain/_resources/24d5403e0e4b3f75f98f4d8d933844ac_MD5.jpg",
     "¿De verdad hace falta otro gestor de paquetes cuando ya existe Poetry?  ⚫①.md",
-    "PublicBrain/mosLib - El Corazón de MetsuOS  ⚫①.md",
-    "Apps.md",
     "PublicBrain/_resources/d3e9395c77920e9be0ed34f672534abb_MD5.jpg",
     "PublicBrain/_resources/570f078529742a81c508c3b36eac5d26_MD5.jpg",
     "PublicBrain/¿Que sistema de dependencias para python es apropiado para MetsuOS? 🟡③.md",
@@ -248,14 +239,8 @@
     "PublicBrain/Analisis de Licencias y Seguridad de los distintos lenguajes de programación 🟡③.md",
     "Noticias.md",
     "PublicBrain/¿Es sólida la argumentación a favor de Python en MetsuOS? Una evaluación equilibrada 🟡③.md",
-    "PublicBrain/De Software Libre, Licencias y Filosofías en entornos VUCA 🟡③.md",
-    "PublicBrain/¿Por qué Python es la elección ideal para desarrollar en el ecosistema completo de MetsuOS? 🟡③.md",
-    "Analisis de Licencias y Seguridad de los distintos lenguajes de programación ⚫①.md",
     "PublicBrain/_resources/7a94a95cf9779373768415f111f2b4e8_MD5.jpg",
     "PublicBrain/_resources/f83e5da910e233db899ac10036516d7e_MD5.jpg",
-    "¿Es sólida la argumentación a favor de Python en MetsuOS? Una evaluación equilibrada.md",
-    "¿Es sólida la argumentación a favor de Python en MetsuOS? Una evaluación equilibrada.md",
-    "_resources/d119fecc45653ba69bdf21768d76b737_MD5.jpg",
     "PublicBrain/https_",
     "https_",
     "PublicBrain/Untitled.canvas",

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-29T19:22:44.212Z
-modified: 2025-12-01T22:38:47.624Z
+modified: 2025-12-03T00:17:20.145Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 12
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -75,19 +75,45 @@ Continua leyendo en ... [[Requisitos Previos para el Curso de MetsuDepManager - 
 
 --- column-end ---
 
-0.5. Roadmap del curso y visión general del proyecto final  
+![MetsuDepManager - Visión general del proyecto](PublicBrain/_resources/bcdb26b402ce1818f324f6b0247f7807_MD5.jpg)
+### 0.5. Roadmap del curso y visión general del proyecto final 
+
+El proyecto culminante del curso es MetsuDepManager, un gestor de dependencias para Python diseñado con un enfoque ético y altamente adaptable. 
+
+Funciona como una capa de envoltura segura sobre Poetry, que actúa como su motor principal. Su propósito principal es resolver las carencias de las herramientas actuales en contextos estrictamente regulados, como empresas con normativas internas rigurosas, entornos educativos, auditorías de ciberseguridad o el cumplimiento de regulaciones europeas como el RGPD o la NIS2. 
+
+Además, se adapta perfectamente a sistemas aislados o sin conexión a internet (air-gapped). En su núcleo, prioriza valores como la transparencia total, la auditoría automática, el principio de menor privilegio, la protección de la privacidad y –de forma explícita y no negociable– la accesibilidad universal.
+
+Continuar leyendo en ... [[MetsuDepManager - Visión general del proyecto 🟡③]]
 
  --- column-end ---
+--- multi-column-end<
+
+## Módulo 1 – Entendiendo cómo funciona Poetry por dentro
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+1.1. Arquitectura interna: Core, Solver, Locker, Installer y Builder  
+--- column-end ---
+1.2. Diferencias prácticas entre `poetry`, `poetry-core` y los plugins  
+--- column-end ---
+1.3. Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660  
+--- column-end ---
+1.4. El `pyproject.toml`: todos los campos (incluso los menos conocidos)  
+--- column-end ---
+1.5. El `poetry.lock`: estructura TOML y cómo lo genera el solver  
+--- column-end ---
+1.6. Llamar a Poetry desde código: subprocess vs API pública  
+--- column-end ---
+1.7. Limitaciones actuales de la API pública (estado en 2025) y soluciones prácticas   
+--- column-end ---
 --- multi-column-end
 
-### Módulo 1 – Entendiendo cómo funciona Poetry por dentro
-1.1. Arquitectura interna: Core, Solver, Locker, Installer y Builder  
-1.2. Diferencias prácticas entre `poetry`, `poetry-core` y los plugins  
-1.3. Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660  
-1.4. El `pyproject.toml`: todos los campos (incluso los menos conocidos)  
-1.5. El `poetry.lock`: estructura TOML y cómo lo genera el solver  
-1.6. Llamar a Poetry desde código: subprocess vs API pública  
-1.7. Limitaciones actuales de la API pública (estado en 2025) y soluciones prácticas  
+
+
 
 ### Módulo 2 – Diseño de MetsuDepManager
 2.1. Principios básicos: transparencia, ética, auditoría y mínimo privilegio  
@@ -159,7 +185,6 @@ Continua leyendo en ... [[Requisitos Previos para el Curso de MetsuDepManager - 
 12.1. Checklist de “production-ready”  
 12.2. Extensiones posibles: UI web, soporte multi-lenguaje, integración con gestores del sistema operativo  
 12.3. Cómo contribuir al proyecto open-source  
-
 ### Anexos
 - Comandos rápidos  
 - Plantilla completa de `metsudep.toml`  

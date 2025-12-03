@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2025-11-28T09:21:55.713Z
+modified: 2025-12-02T14:52:09.904Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary:
 nav_secondary:
 tags:
@@ -104,6 +104,8 @@ Este núcleo no solo traduce y optimiza llamadas a APIs, manejo de recursos y de
 
 ![mosSystemUI](_resources/ff83acc613b0ecaf57d45bf283768012_MD5.jpg)
 ### mosSystemUI: La Interfaz que Conecta tu Visión con la Realidad
+
+**(codename: PyTuxUI) **
 
 mosSystemUI es el lienzo vivo de MetsuOS, una interfaz de usuario intuitiva y adaptable que transforma la complejidad subyacente del sistema en una experiencia visual y táctil accesible para todos. Construida sobre las bases sólidas de mosSystemCore, esta capa proporciona elementos de UI unificados —como paneles dinámicos, menús contextuales y dashboards personalizables— que se renderizan de manera consistente en cualquier entorno host, desde entornos nativos GNU/Linux hasta aplicaciones en Windows o macOS.
 

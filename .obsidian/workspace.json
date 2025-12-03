@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
+                "file": "PublicBrain/Historia de la Ciencia y del Método Científico 🔴②.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Historia de la Epistemología y su aplicación en la Ciencia 🟡③"
+              "title": "Historia de la Ciencia y del Método Científico 🔴②"
             }
           }
         ]
@@ -204,9 +204,10 @@
   },
   "active": "45d895d3bc73f32b",
   "lastOpenFiles": [
-    "PublicBrain/Libro - Science as Social Knowledge Values and Objectivity in Scientific Inquiry - Helen E. Longino  ⚫①-🌐🟡③.md",
-    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
     "PublicBrain/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③.md",
+    "PublicBrain/Historia de la Ciencia y del Método Científico 🔴②.md",
+    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
+    "PublicBrain/Libro - Science as Social Knowledge Values and Objectivity in Scientific Inquiry - Helen E. Longino  ⚫①-🌐🟡③.md",
     "Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③.md",
     "PublicBrain/MetsuDepManager - Visión general del proyecto 🟡③.md",
     "Apps.md",
@@ -239,7 +240,6 @@
     "Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend  ⚫①.md",
     "MetsuDepManager ⚫①.md",
     "PublicBrain/_resources/1f27a4f5935091d96a8f2f6c5aed74e8_MD5.jpg",
-    "Que sistema de dependencias para python es apropiado para MetsuOS?  ⚫①.md",
     "PublicBrain/_resources/7a94a95cf9779373768415f111f2b4e8_MD5.jpg",
     "PublicBrain/_resources/f83e5da910e233db899ac10036516d7e_MD5.jpg",
     "PublicBrain/https_",

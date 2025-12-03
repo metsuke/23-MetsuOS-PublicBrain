@@ -21,7 +21,7 @@ tags: []
 ---
 # Metodología detallada de MetsuOS para la gestión probabilistica del conocimiento - Raúl Carrillo Garrido aka metsuke  ⚫①
 
-* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
+* [[Elementos del conocimiento humano y científico  🟡③-⚖️🔴②]]
 
 Bien, vamos a poner negro sobre blanco el proceso, iteración tras iteración.
 

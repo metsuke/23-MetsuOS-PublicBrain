@@ -26,7 +26,7 @@ refb: k
 
 * [[PublicBrain/Index|Index]]
 	* [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
-		* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
+		* [[Elementos del conocimiento humano y científico  🟡③-⚖️🔴②]]
 
 
 # Ficha Bibliográfica: _La estructura de las revoluciones científicas_

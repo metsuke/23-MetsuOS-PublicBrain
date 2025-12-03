@@ -23,7 +23,7 @@ tags:
 
 * [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
 	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️🔴②]]
-	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
+	* [[Elementos del conocimiento humano y científico  🟡③-⚖️🔴②]]
 
 Esta página gira en torno a la idea "La formulación de hipótesis como punto de partida en la ciencia según Popper"
 

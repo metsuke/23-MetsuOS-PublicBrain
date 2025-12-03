@@ -89,7 +89,7 @@ Aquí te dejo el índice técnico exhaustivo y detallado para un curso sobre "Es
 
 ---
 
-* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
+* [[Elementos del conocimiento humano y científico  🟡③-⚖️🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]
 
 ---

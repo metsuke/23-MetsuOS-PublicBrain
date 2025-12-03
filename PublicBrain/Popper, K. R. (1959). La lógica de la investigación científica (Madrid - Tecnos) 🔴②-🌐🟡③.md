@@ -21,7 +21,7 @@ tags:
 ---
 # Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③
 
-* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
+* [[Elementos del conocimiento humano y científico  🟡③-⚖️🔴②]]
 	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️🔴②]]
 	* [El libro, en PDF 🌐](https://raularagon.com.ar/biblioteca/libros/Popper%20Karl%20-%20La%20Logica%20de%20la%20Investigacion%20Cientifica.pdf)
 	

@@ -25,7 +25,7 @@ tags:
 ![[PublicBrain/_resources/1da4ea3c19d104c0fd94a90e631f57fb_MD5.jpeg]]
 
 * [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
-	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
+	* [[Elementos del conocimiento humano y científico  🟡③-⚖️🔴②]]
 
 Esta guía está pensada para ayudarte a explorar en profundidad *La estructura de las revoluciones científicas* de Thomas S. Kuhn, un libro que transformó nuestra forma de entender el desarrollo de la ciencia. A través de secciones organizadas, desglosamos los conceptos fundamentales, proponemos preguntas para reflexionar, conectamos con ejemplos históricos y ofrecemos herramientas prácticas para que estudies de manera crítica y estructurada. ¡Prepárate para cuestionar cómo funciona la ciencia!
 

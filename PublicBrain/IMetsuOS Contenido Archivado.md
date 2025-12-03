@@ -59,7 +59,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 * [[Historia de la Ciencia y del Método Científico 🟡③]]
 * [[Historia de la Epistemología y su aplicación en la Ciencia 🟡③]]
 
-	* [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
+	* [[Elementos del conocimiento humano y científico  🟡③-⚖️🔴②]]
 		* [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
 	* [[Tipos de Citas Bibliográficas  ⚫①]]
 		* [[La problemática de las citas bibliográficas con referencias a números de página concretos en un mundo de múltiples ediciones y libros electrónicos 🔴②]]

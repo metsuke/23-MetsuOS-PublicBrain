@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-20T21:18:37.638Z
-modified: 2025-10-19T06:50:37.459Z
+modified: 2025-12-03T19:43:51.136Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 15
+ver_rev: 16
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Elementos del conocimiento humano y científico 🔴②-⚖️🔴②
+# Elementos del conocimiento humano y científico  🟡③-⚖️🔴②
 
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️🔴②]]
@@ -121,19 +121,15 @@ graph LR
 
 ## Referencias bibliográficas que apoyan este contenido:
 
-> WIP Revisando Fuentes
-
-* [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
-* [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
-* Lakatos, I. (1970). La metodología de los programas de investigación científica. Madrid: Alianza Editorial.
+1. [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③]] .- Apoya la sección de filosofía de la ciencia, especialmente los paradigmas.
+2. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]] .- Apoya la sección de filosofía de la ciencia, especialmente el falsacionismo.
+3. [Lakatos, I. (1970). La metodología de los programas de investigación científica. Madrid: Alianza Editorial. 🟡③🌐](https://epistemologiaufro.files.wordpress.com/2010/10/lakatos.pdf) .- Metodología que explica el progreso científico mediante programas de investigación con núcleo duro protegido por hipótesis protectoras y heurísticas positivas/negativas; evalúa progresividad por exceso de contenido empírico y capacidad para predecir hechos novedosos, superando el falsacionismo popperiano al permitir desarrollo racional sin refutaciones inmediatas.
 
 ## Referencias bibliográficas que refutan este contenido
 
-> WIP Revisando Fuentes
-
-* Feyerabend, P. K. (1975). Against Method: Outline of an Anarchistic Theory of Knowledge. Londres: New Left Books.
-* Kitcher, P. (1993). The Advancement of Science: Science Without Legend, Objectivity Without Illusions. Nueva York: Oxford University Press.
-* Latour, B. (1987). Science in Action: How to Follow Scientists and Engineers Through Society. Cambridge: Harvard University Press.
+1. [Feyerabend, P. K. (1975). Against Method: Outline of an Anarchistic Theory of Knowledge. Londres: New Left Books. 🟡③🌐](https://www.versobooks.com/products/1041-against-method) .- Critica ideas sobre progreso científico y conocimiento, argumentando que los avances se entienden en contexto histórico; destaca énfasis en práctica sobre método y propone anarquismo como alternativa al racionalismo en la teoría del conocimiento.
+2. [Kitcher, P. (1993). The Advancement of Science: Science Without Legend, Objectivity Without Illusions. Nueva York: Oxford University Press. 🟡③🌐](https://books.google.com/books/about/The_Advancement_of_Science.html?id=H3U8DwAAQBAJ) .- Ofrece marco para entender progreso científico, desafiando la idea de objetividad como mito; critica modelos idealizados de crecimiento del conocimiento y reacciones exageradas, enfatizando cooperación y competencia de personas con intereses diversos, preservando objetividad y progreso.
+3. [Latour, B. (1987). Science in Action: How to Follow Scientists and Engineers Through Society. Cambridge: Harvard University Press. 🟡③🌐](https://books.google.com/books/about/Science_in_Action.html?id=sC4bk4DZXTQC) .- Examina producción de hechos científicos, enfatizando contextos sociales y prácticas junto a elementos técnicos; observa actividades diarias de científicos (recolección de datos, escritura, networking, funding) como etnografía, argumentando que ciencia construye redes de actores humanos y no humanos para transformar claims tentativos en verdades autoritativas.
 
 Es importante destacar que las referencias bibliográficas que refutan el contenido, como Feyerabend (1975), Kitcher (1993) y Latour (1987), presentan perspectivas críticas y alternativas sobre la naturaleza del conocimiento y la ciencia, lo que puede ser útil para una discusión más amplia y profunda sobre el tema.
 

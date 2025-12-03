@@ -84,7 +84,7 @@ graph LR
 ```
 # Desglose frase por frase y conversión a hipótesis
 
-A continuación, se desglosa el texto proporcionado frase por frase, se convierte cada una en una hipótesis verificable y se organiza según la jerarquía de elementos del conocimiento humano y científico descrita en el enlace proporcionado: [[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]. La jerarquía incluye los siguientes niveles, en orden descendente de generalidad y abstracción:
+A continuación, se desglosa el texto proporcionado frase por frase, se convierte cada una en una hipótesis verificable y se organiza según la jerarquía de elementos del conocimiento humano y científico descrita en el enlace proporcionado: [[Elementos del conocimiento humano y científico  🟡③-⚖️🔴②]]. La jerarquía incluye los siguientes niveles, en orden descendente de generalidad y abstracción:
 
 1. **Metafísica**: Supuestos fundamentales sobre la realidad.
 2. **Epistemología**: Naturaleza, origen y límites del conocimiento.

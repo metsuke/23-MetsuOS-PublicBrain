@@ -21,7 +21,7 @@ tags:
 ---
 # Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos), p. 20   🟡③-🟡③📚
 
-[[Elementos del conocimiento humano y científico 🔴②-⚖️🔴②]]
+[[Elementos del conocimiento humano y científico  🟡③-⚖️🔴②]]
 ## ¿Qué nos cuenta esa página?
 
 Piensa en cómo sabemos lo que sabemos. Karl Popper, un nombre grande en la filosofía de la ciencia, nos lleva de la mano en la página 20 de *La lógica de la investigación científica* (publicada en 1934 y en español en 1959 por Tecnos) para cuestionar algo que parece de sentido común: ¿podemos estar seguros de algo solo porque lo hemos visto muchas veces? En el contexto de "Elementos del conocimiento humano y científico", este pedacito de texto, parte del capítulo "El problema de la inducción", es como una chispa que enciende una revolución. Aquí, Popper empieza a desarmar la idea de que la ciencia se basa en confirmar lo que creemos, y nos prepara para su visión crítica del conocimiento.

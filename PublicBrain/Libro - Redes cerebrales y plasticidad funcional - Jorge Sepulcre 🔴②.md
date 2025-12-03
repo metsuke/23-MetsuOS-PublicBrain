@@ -18,7 +18,7 @@ tags: []
 ---
 # Libro - Redes cerebrales y plasticidad funcional - Jorge Sepulcre 🔴②
 
-[[Aprender con Jorge Sepulcre 🔴②]] | [[Estudiar libro - Redes cerebrales y plasticidad funcional - Jorge Sepulcre 🔴②]]
+[[Aprender con Jorge Sepulcre 🟡③]] | [[Estudiar libro - Redes cerebrales y plasticidad funcional - Jorge Sepulcre 🔴②]]
 
 
 Esta ficha bibliográfica proporciona un análisis detallado del libro _Redes Cerebrales y Plasticidad Funcional: El Cerebro que Cambia y se Adapta_ de Jorge Sepulcre, incluyendo información bibliográfica completa, contexto, contenido, relevancia, críticas y fuentes de consulta. Está diseñada para estudiantes, investigadores y profesionales interesados en neurociencia, con un enfoque en la conectómica y la plasticidad cerebral. La información se recopila de fuentes verificadas hasta abril de 2025, incluyendo bases académicas, librerías en línea y reseñas de lectores.

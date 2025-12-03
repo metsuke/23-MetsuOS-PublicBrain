@@ -42,7 +42,7 @@ tags:
 - Sánchez Aguilar, Joaquin: Aprender con Joaquín Sánchez Aguilar    
 - Sánchez García, Jose Juan: Aprender con José Juan Sánchez García    
 - Sanz, Gerardo: Aprender con Gerardo Sanz    
-- * **Sepulcre, Jorge**: [[Aprender con Jorge Sepulcre 🔴②]]
+- * **Sepulcre, Jorge**: [[Aprender con Jorge Sepulcre 🟡③]]
 - Shakespeare, William: Aprender con William Shakespeare    
 - Shelley, Mary: Aprender con Mary Shelley    
 - Sistiaga, Jon: Aprender con Jon Sistiaga    

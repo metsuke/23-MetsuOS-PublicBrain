@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Visión del CPS de Javier G. Recuenco 🔴②.md",
+                "file": "PublicBrain/Aprender con Jorge Sepulcre 🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visión del CPS de Javier G. Recuenco 🔴②"
+              "title": "Aprender con Jorge Sepulcre 🟡③"
             }
           }
         ]
@@ -204,6 +204,7 @@
   },
   "active": "45d895d3bc73f32b",
   "lastOpenFiles": [
+    "PublicBrain/Visión del CPS de Javier G. Recuenco 🔴②.md",
     "PublicBrain/La definicion de Mujer de Irene Montero es probablemente imprecisa incompleta y subjetiva 🔴②-⚖️🔴②.md",
     "PublicBrain/Aprender con Irene Montero ⚫①.md",
     "PublicBrain/Blog - Battlemail - Mi primer juego viral - 2025-05-24 🟡③.md",
@@ -231,7 +232,6 @@
     "¿Que versiónes de Python debe soportar MetsuDepManager en 2025-12?  🔴②.md",
     "PublicBrain/Objetivo del Curso - Construir MetsuDepManager, un Gestor de Paquetes Práctico, Ético y Personalizable 🟡③.md",
     "PublicBrain/_resources/7ca926b2ca82e9120c0ce1718119fb0c_MD5.jpg",
-    "Requisitos previos Python ≥ 3.9, conocimientos básicos de Poetry, Git y línea de comandos ⚫①.md",
     "PublicBrain/CursoMetsuDepManager_003.mp4",
     "PublicBrain/_resources/278da1b50d1680cf6fb27493c9c2e5ba_MD5.jpg",
     "CursoMetsuDepManager_003.mp4",

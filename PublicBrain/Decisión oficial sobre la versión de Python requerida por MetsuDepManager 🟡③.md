@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-01T23:14:50.114Z
-modified: 2025-12-01T23:30:13.115Z
+modified: 2025-12-05T01:39:51.490Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Decisión oficial sobre la versión de Python requerida por MetsuDepManager 🟡③
 
-> (Adoptada el 2 de diciembre de 2025)
+> (Adoptada el 5 de diciembre de 2025)
 
 * [[Requisitos Previos para el Curso de MetsuDepManager - Prepárate sin Complicaciones 🟡③]]
 ## 1. ¿Qué es MetsuDepManager y por qué importa esta decisión?
@@ -30,17 +30,17 @@ MetsuDepManager es un gestor de dependencias diseñado desde cero para entornos 
 
 En un proyecto de estas características, elegir la versión mínima y máxima de Python **no es una decisión técnica menor**: afecta directamente a la seguridad, la mantenibilidad a largo plazo y el cumplimiento legal.
 
-## 2. Situación actual del ciclo de vida de Python (2 de diciembre de 2025)
+## 2. Situación actual del ciclo de vida de Python (5 de diciembre de 2025)
 
-| Versión   | Estado actual                             | Fin de soporte de seguridad | Comentario clave                                     |
-| --------- | ----------------------------------------- | --------------------------- | ---------------------------------------------------- |
-| 3.8       | EOL (octubre 2024)                        | Ninguno                     | Inaceptable                                          |
-| 3.9       | EOL (31 octubre 2025)                     | Ninguno                     | Ya sin parches                                       |
-| 3.10      | Soporte completo                          | Octubre 2026                | Última versión con casi 1 año de soporte garantizado |
-| 3.11      | Soporte completo                          | Octubre 2027                | Ideal para nuevos proyectos                          |
-| 3.12–3.13 | Soporte completo                          | 2028–2029                   | Totalmente estables                                  |
-| 3.14      | Versión estable más reciente (7 oct 2025) | ~Octubre 2030               | Soporte completo y ampliamente adoptada              |
-| 3.15      | Prerelease (alpha 2 – 19 nov 2025)        | No aplicable                | No apta para producción                              |
+| Versión   | Estado actual                             | Fin de soporte de seguridad | Comentario clave                        |
+| --------- | ----------------------------------------- | --------------------------- | --------------------------------------- |
+| 3.8       | EOL (octubre 2024)                        | Ninguno                     | Inaceptable                             |
+| 3.9       | EOL (31 octubre 2025)                     | Ninguno                     | Ya sin parches                          |
+| 3.10      | Soporte completo                          | Octubre 2026                | Soporte menor de un año, desaconsejado  |
+| 3.11      | Soporte completo                          | Octubre 2027                | Ideal para nuevos proyectos             |
+| 3.12–3.13 | Soporte completo                          | 2028–2029                   | Totalmente estables                     |
+| 3.14      | Versión estable más reciente (7 oct 2025) | ~Octubre 2030               | Soporte completo y ampliamente adoptada |
+| 3.15      | Prerelease (alpha 2 – 19 nov 2025)        | No aplicable                | No apta para producción                 |
 
 ## 3. Compatibilidad verificada con las dependencias críticas
 
@@ -66,16 +66,16 @@ Todas las bibliotecas principales ya funcionan sin problemas en Python 3.10–3.
 
 ## 5. Decisión definitiva
 
-**Versión de Python requerida: ≥3.10 y <3.15**
+**Versión de Python requerida: ≥3.11 y <3.15**
 
 ```toml
 [project]
 name = "metsudepmanager"
-requires-python = ">=3.10,<3.15"
+requires-python = ">=3.11,<3.15"
 ```
 
 Este rango:
-- Incluye todas las versiones estables con soporte de seguridad activo  
+- Incluye todas las versiones estables con soporte de seguridad activo por al menos un año
 - Cubre la última versión estable (3.14) con soporte hasta ~2030  
 - Excluye expresamente las versiones prerelease de 3.15 (alpha/beta)  
 - Cumple estrictamente con los requisitos de DORA, NIS2 y RGPD
@@ -84,15 +84,15 @@ Este rango:
 
 ```markdown
 **Requisitos de Python**  
-MetsuDepManager requiere Python ≥3.10 y <3.15 (decisión adoptada en diciembre de 2025).
+MetsuDepManager requiere Python ≥3.11 y <3.15 (decisión adoptada en diciembre de 2025).
 
 Este rango garantiza:
-• Parches de seguridad activos en todas las versiones soportadas  
+• Parches de seguridad activos en todas las versiones soportadas de al menos un año al momento de tomar la decisión
 • Compatibilidad total con Poetry 2.x, Pydantic v2, Safety v3 y CycloneDX  
 • Cumplimiento normativo DORA, NIS2 y RGPD  
 • Funcionamiento sin dependencias externas en entornos air-gapped (gracias a `tomllib`)
 
-Se excluyen versiones <3.10 (ya EOL) y ≥3.15 (aún en prerelease).  
+Se excluyen versiones <3.10 (ya EOL), <3.11 (soporte de seguridad menor de un año) y ≥3.15 (aún en prerelease).  
 El rango se revisará tras el lanzamiento estable de Python 3.15 (previsto octubre 2026).
 ```
 

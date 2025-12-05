@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-01T09:00:15.625Z
-modified: 2025-12-01T23:59:20.230Z
+modified: 2025-12-05T01:41:47.804Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -30,12 +30,12 @@ Si estás a punto de sumergirte en el curso de Metsuke para crear MetsuDepManage
 
 ## 1. Python ≥ 3.10,<3.15: La Base Sólida que Necesitas
 
-**Versión de Python requerida: ≥3.10 y <3.15**
+**Versión de Python requerida: ≥3.11 y <3.15**
 
 ```toml
 [project]
 name = "metsudepmanager"
-requires-python = ">=3.10,<3.15"
+requires-python = ">=3.11,<3.15"
 ```
 
 Argumentación detallada en ... [[Decisión oficial sobre la versión de Python requerida por MetsuDepManager 🟡③]]

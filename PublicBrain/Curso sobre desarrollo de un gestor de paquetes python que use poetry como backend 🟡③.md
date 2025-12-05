@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-29T19:22:44.212Z
-modified: 2025-12-03T00:17:20.145Z
+modified: 2025-12-05T01:19:35.912Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
+ver_rev: 13
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -78,11 +78,9 @@ Continua leyendo en ... [[Requisitos Previos para el Curso de MetsuDepManager - 
 ![MetsuDepManager - Visión general del proyecto](PublicBrain/_resources/bcdb26b402ce1818f324f6b0247f7807_MD5.jpg)
 ### 0.5. Roadmap del curso y visión general del proyecto final 
 
-El proyecto culminante del curso es MetsuDepManager, un gestor de dependencias para Python diseñado con un enfoque ético y altamente adaptable. 
+MetsuDepManager es un gestor de dependencias ético, seguro, accesible y listo para producción para Python, diseñado específicamente para entornos regulados como empresas con políticas de seguridad estrictas (banca, defensa, sanidad, administraciones públicas), entornos educativos obligados por normativas como la LOMLOE y el Real Decreto 1112/2018 de accesibilidad, sistemas air-gapped o con conexión restringida (industria, investigación clasificada), y proyectos sujetos a regulaciones como RGPD, NIS2, ENS Alto o Ciberseguridad Nacional. 
 
-Funciona como una capa de envoltura segura sobre Poetry, que actúa como su motor principal. Su propósito principal es resolver las carencias de las herramientas actuales en contextos estrictamente regulados, como empresas con normativas internas rigurosas, entornos educativos, auditorías de ciberseguridad o el cumplimiento de regulaciones europeas como el RGPD o la NIS2. 
-
-Además, se adapta perfectamente a sistemas aislados o sin conexión a internet (air-gapped). En su núcleo, prioriza valores como la transparencia total, la auditoría automática, el principio de menor privilegio, la protección de la privacidad y –de forma explícita y no negociable– la accesibilidad universal.
+Como wrapper ligero sobre Poetry, que actúa como su motor principal, integra un motor de políticas avanzado que asegura cumplimiento normativo (vulnerabilidades, licencias, orígenes geográficos) sin comprometer la velocidad ni la usabilidad. Su enfoque offline-first y su soporte para SBOM (Software Bill of Materials) lo convierten en una herramienta indispensable para mitigar riesgos en la cadena de suministro de software, alineándose con regulaciones como NIS2, ENS Alto, DORA e ITAR/EAR.
 
 Continuar leyendo en ... [[MetsuDepManager - Visión general del proyecto 🟡③]]
 

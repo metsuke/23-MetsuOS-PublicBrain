@@ -1,17 +1,20 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: Grok-4, Raul Carrillo aka Metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations:
 created: 2025-04-27T20:57:47.570Z
-modified: 2025-12-03T11:27:01.101Z
+modified: 2025-12-07T18:54:02.605Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 2
+ver_minor: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -50,7 +53,7 @@ La epistemología se aborda desde tres perspectivas principales:
 
 La epistemología trasciende el ámbito científico para abarcar todas las formas del saber humano:
 
-- **Conocimiento cotidiano**: Incluye creencias derivadas de la experiencia diaria, como asumir que “el sol sale cada mañana” tras observarlo repetidamente.
+- **Conocimiento cotidiano**: "I"ncluye creencias derivadas de la experiencia diaria, como asumir que “el sol sale cada mañana” tras observarlo repetidamente.
 - **Conocimiento filosófico**: Engloba reflexiones sobre la existencia, la ética o la realidad, como las ideas de Platón sobre el mundo de las formas o la crítica de Kant al conocimiento a priori.
 - **Conocimiento tradicional**: Abarca saberes transmitidos generacionalmente en comunidades, como las técnicas agrícolas de los pueblos originarios, que integran observación y práctica.
 

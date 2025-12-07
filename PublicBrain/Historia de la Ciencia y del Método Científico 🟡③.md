@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-03-29T22:03:57.697Z
-modified: 2025-12-03T19:16:43.275Z
+modified: 2025-12-07T18:53:21.167Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 12
 nav_primary:
 nav_secondary:
 tags:
@@ -150,18 +150,18 @@ La historia de la ciencia revela una mezcla de continuidad y rupturas, ofreciend
 
 ## Referencias Bibliográficas que Apoyan el Contenido
 
-1. [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]] .- Apoya la sección de filosofía de la ciencia, especialmente los paradigmas.
-2. [Libro: Una pequeña historia de la ciencia de William Bynum 🌐🟡③](https://cursoshistoriavdemexico.files.wordpress.com/2019/07/bynum-william-una-pequec3b1a-historia-de-la-ciencia.pdf) .- Narrativa accesible de la historia de la ciencia desde civilizaciones antiguas hasta la era moderna, enfatizando descubrimientos, métodos experimentales y figuras clave como Newton, Darwin y Einstein.
-3. [Libro: Historia de la ciencia editado por Elías Trabulse (1991) 🟡③🌐](https://biblioteca-repositorio.clacso.edu.ar/bitstream/CLACSO/250736/1/Historia-de-la-ciencia.pdf) .- Historia de la ciencia y la tecnología en México desde raíces prehispánicas hasta el periodo nacional temprano, destacando contribuciones en astronomía, botánica, geología, minería y matemáticas, con figuras clave como Francisco Hernández, Bartolomé de Medina y José Antonio de Alzate y Ramírez.
+1. [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③]] .- Apoya la sección de filosofía de la ciencia, especialmente los paradigmas.
+2. [Libro: Una pequeña historia de la ciencia de William Bynum 🌐🟡③-🟡③🌐](https://cursoshistoriavdemexico.files.wordpress.com/2019/07/bynum-william-una-pequec3b1a-historia-de-la-ciencia.pdf) .- Narrativa accesible de la historia de la ciencia desde civilizaciones antiguas hasta la era moderna, enfatizando descubrimientos, métodos experimentales y figuras clave como Newton, Darwin y Einstein.
+3. [Libro: Historia de la ciencia editado por Elías Trabulse (1991) 🟡③🌐](https://pdfcoffee.com/download/historia-de-la-ciencia-en-mexico-version-abreviadapdf-4-pdf-free.html) .- Historia de la ciencia y la tecnología en México desde raíces prehispánicas hasta el periodo nacional temprano, destacando contribuciones en astronomía, botánica, geología, minería y matemáticas, con figuras clave como Francisco Hernández, Bartolomé de Medina y José Antonio de Alzate y Ramírez.
 4. [Vídeo: El método científico: Definición, etapas y ejemplos 🟡③🌐](https://www.youtube.com/watch?v=MN10KQyvUz0) .- Explicación del método científico: observación, pregunta, hipótesis, experimentación, análisis, conclusiones y publicación; con historia (Aristóteles, Bacon, Galileo, Newton) y ejemplo de penicilina.
 5. [Vídeo: El método científico (Documental Completo) - ¿Qué es la filosofía de la ciencia? 🟡③🌐](https://www.youtube.com/watch?v=KKlKY3tDYvs) .- Documental sobre el método científico: historia desde Aristóteles hasta Newton, filosofía (positivismo lógico, hipotético-deductivismo, Kuhn), etapas (observación, hipótesis, experimentación, falsabilidad, reproducibilidad) y tipos de ciencia.
 
 ## Referencias Bibliográficas que Refutan el Contenido
 
-1. [Artículo: Crítica a Thomas Kuhn 🟡③🌐](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-43602008000100011) .- Artículo de Cristián Santibáñez (Revista de Filosofía, 2008) que examina las definiciones de paradigma en la obra de Kuhn y las críticas sobre su consistencia lógica y sociológica.
+1. [Artículo: Crítica a Thomas Kuhn 🟡③🌐](https://www.scielo.cl/pdf/rfilosof/v64/art11.pdf) .- Artículo de Cristián Santibáñez (Revista de Filosofía, 2008) que examina las definiciones de paradigma en la obra de Kuhn y las críticas sobre su consistencia lógica y sociológica.
 2. [Artículo: Ciencia, inconmensurabilidad y reglas: Crítica a Thomas Kuhn 🟡③🌐](https://www.scielo.cl/pdf/rfilosof/v64/art11.pdf) .- Crítica a los conceptos de 'paradigma', 'inconmensurabilidad' y 'regla' en Kuhn, argumentando que reflejan un contexto histórico específico de los 1950s-1960s en EE.UU. más que un análisis epistemológico robusto; cuestiona el relativismo al enfatizar especulación socio-psicológica sobre validación normativa y debate racional.
-3. [Artículo: Teorías científicas. Las propuestas de Popper y Kuhn sobre falsabilidad y paradigmas 🟡③🌐](http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2616-79642021000100277) .- Estudio comparativo (2021) que confronta el racionalismo crítico de Popper con el historicismo de Kuhn, evaluando sus implicaciones en la investigación científica.
+3. [Artículo: Teorías científicas. Las propuestas de Popper y Kuhn sobre falsabilidad y paradigmas 🟡③🌐](https://portal.amelica.org/ameli/journal/466/4662190015/4662190015.pdf) .- Estudio comparativo (2021) que confronta el racionalismo crítico de Popper con el historicismo de Kuhn, evaluando sus implicaciones en la investigación científica.
 4. [Vídeo: El Método Científico No Existe 🟡③🌐](https://www.youtube.com/watch?v=9mn_apO2DKk) .- Ensayo audiovisual de QuantumFracture que desmitifica la existencia de un método científico único, explorando las posturas de Feyerabend, Popper y el problema de la demarcación.
-5. [Artículo: Controversias en la historia de la ciencia y cultura científica 🟡③🌐](https://www.researchgate.net/publication/317066188_Controversias_en_la_historia_de_la_ciencia_y_cultura_cientifica) .- Obra de Acevedo-Díaz que utiliza controversias históricas para cuestionar visiones simplistas de la ciencia y promover una cultura científica más compleja y realista.
+5. [Artículo: Controversias en la historia de la ciencia y cultura científica 🟡③🌐](https://pdfs.semanticscholar.org/177e/5a91c7d5f7fee0aac09ccb6777dd94368577.pdf) .- Obra de Acevedo-Díaz que utiliza contro
 
 ![[Plantilla - 1MT#One More Thing]]

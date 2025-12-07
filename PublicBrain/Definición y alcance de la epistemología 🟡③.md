@@ -1,10 +1,10 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 3
+iaStatus_Model: Grok-4, Raul Carrillo aka Metsuke
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-04-27T20:57:47.570Z
 modified: 2025-12-03T11:27:01.101Z
 supervisado: ""
@@ -16,12 +16,10 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Definición y alcance de la epistemología  🔴②
+# Definición y alcance de la epistemología 🟡③
 
 * [[Historia de la Epistemología y su aplicación en la Ciencia 🟡③]]
 	* [[Análiis Estructural - Definición y alcance de la epistemología ⚫①]]
-
-
 ## Introducción
 
 En el marco de la _Historia de la Epistemología y su aplicación en la Ciencia_, la epistemología se erige como una disciplina filosófica esencial que examina la naturaleza, los orígenes y los límites del conocimiento humano. Su relevancia para la ciencia radica en su capacidad para ofrecer un marco crítico que permite comprender cómo se construye, valida y aplica el saber científico. Este análisis define la epistemología de manera accesible, describe sus características fundamentales y explora su amplio alcance, destacando su influencia en el desarrollo del pensamiento científico y su importancia en la investigación práctica.
@@ -101,20 +99,14 @@ La epistemología es una disciplina indispensable que arroja luz sobre la natura
 
 ### Fuentes que apoyan el contenido
 
-- [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
-    - Define la epistemología científica a través del principio de falsabilidad, respaldando la importancia de la verificabilidad y la refutación en la construcción del conocimiento científico.
-- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
-    - Introduce el concepto de paradigmas científicos, apoyando la descripción del papel de la epistemología en la evolución y reestructuración del saber científico.
-- **Bunge, M.** (1998). _Filosofía de la ciencia_. Buenos Aires: Siglo XX Editores.
-    - Ofrece una definición precisa de la epistemología como el estudio del conocimiento científico, destacando su rol en la validación de métodos y teorías.
+1. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]] .- Define la epistemología científica a través del principio de falsabilidad, respaldando la importancia de la verificabilidad y la refutación en la construcción del conocimiento científico.
+2. [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]] .- Introduce el concepto de paradigmas científicos, apoyando la descripción del papel de la epistemología en la evolución y reestructuración del saber científico.
+3. **Bunge, M.** (1998). _Filosofía de la ciencia_. Buenos Aires: Siglo XX Editores 🟡③🌐 .- Ofrece una definición precisa de la epistemología como el estudio del conocimiento científico, destacando su rol en la validación de métodos y teorías. (enlace de referencia no disponible)
 
 ### Fuentes que refutan o matizan el contenido
 
-- **Feyerabend, P.** (1975). _Contra el método_. Madrid: Ariel (edición en español, 1981).
-    - Cuestiona la idea de que la epistemología deba centrarse en un método científico rígido, argumentando que el progreso científico a menudo surge de enfoques no sistemáticos o incluso anárquicos.
-- **Latour, B.** (1993). _Nunca fuimos modernos_. Barcelona: Gedisa (edición en español, 2007).
-    - Critica la separación estricta entre epistemología y contexto social, proponiendo que el conocimiento científico está profundamente influido por factores culturales, políticos y sociales, lo que matiza su carácter normativo.
-- **Quine, W. V. O.** (1951). _Dos dogmas del empirismo_. En _Desde un punto de vista lógico_ (edición en español, Ariel, 1985).
-    - Desafía la definición tradicional de conocimiento como creencia verdadera justificada, sugiriendo que el saber es una red interconectada sin distinciones absolutas, lo que cuestiona el enfoque normativo clásico de la epistemología.
+1. [**Feyerabend, P.** (1975). _Contra el método_. Madrid: Ariel (edición en español, 1981). 🟡③🌐](https://archive.org/details/paul-feyerabend-tratado-contra-el-metodo-esquema-de-una-teoria-anarquista-del-conocimiento) .- Cuestiona la idea de que la epistemología deba centrarse en un método científico rígido, argumentando que el progreso científico a menudo surge de enfoques no sistemáticos o incluso anárquicos.
+2. [**Latour, B.** (1993). _Nunca fuimos modernos_. Barcelona: Gedisa (edición en español, 2007). 🟡③🌐](https://archive.org/details/latour-bruno.-nunca-fuimos-modernos-ocr-2007) .- Critica la separación estricta entre epistemología y contexto social, proponiendo que el conocimiento científico está profundamente influido por factores culturales, políticos y sociales, lo que matiza su carácter normativo.
+3. [**Quine, W. V. O.** (1951). _Dos dogmas del empirismo_. En _Desde un punto de vista lógico_ (edición en español, Ariel, 1985). 🟡③🌐](https://philpapers.org/archive/COLATE.pdf) .- Desafía la definición tradicional de conocimiento como creencia verdadera justificada, sugiriendo que el saber es una red interconectada sin distinciones absolutas, lo que cuestiona el enfoque normativo clásico de la epistemología.
 
 ![[Plantilla - 1MT#One More Thing]]

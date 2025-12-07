@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
+                "file": "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③"
+              "title": "Historia de la Epistemología y su aplicación en la Ciencia 🟡③"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "historia epistemologia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,8 +205,14 @@
   },
   "active": "517e06c09b6a9b2f",
   "lastOpenFiles": [
-    "PublicBrain/Elegimos exactamente qué partes de Poetry vamos a usar en MetsuDepManager 🟡③.md",
+    "PublicBrain/Definición y alcance de la epistemología 🟡③.md",
+    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
+    "PublicBrain/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③.md",
+    "Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③.md",
     "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
+    "Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 ⚫①.md",
+    "PublicBrain/Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 ⚫①.md",
+    "PublicBrain/Elegimos exactamente qué partes de Poetry vamos a usar en MetsuDepManager 🟡③.md",
     "PublicBrain/_resources/ae6b1671a69e89a877bcf5f09fbc63d4_MD5.jpg",
     "Diferencias prácticas entre poetry, poetry-core y los plugins ⚫①.md",
     "PublicBrain/Arquitectura Interna de un Gestor de Paquetes Python que Usa Poetry como Backend 🟡③.md",
@@ -227,11 +233,6 @@
     "PublicBrain/Blog - Battlemail - Mi primer juego viral - 2025-05-24 🟡③.md",
     "PublicBrain/Aprender con Garcilaso de la Vega 🟡③.md",
     "PublicBrain/Elementos del conocimiento humano y científico  🟡③-⚖️🔴②.md",
-    "PublicBrain/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③.md",
-    "PublicBrain/Estudiar Autor - Imre Lakatos 🟡③.md",
-    "PublicBrain/Historia de los videojuegos de aventura a traves de CAAD  🔴②.md",
-    "PublicBrain/Historia de la Ciencia y del Método Científico 🟡③.md",
-    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
     "PublicBrain/_resources/bcdb26b402ce1818f324f6b0247f7807_MD5.jpg",
     "PublicBrain/_resources/7ca926b2ca82e9120c0ce1718119fb0c_MD5.jpg",
     "PublicBrain/CursoMetsuDepManager_003.mp4",

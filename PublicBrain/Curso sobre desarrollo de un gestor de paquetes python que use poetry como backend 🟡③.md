@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-29T19:22:44.212Z
-modified: 2025-12-07T00:29:03.164Z
+modified: 2025-12-07T13:01:18.564Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 18
+ver_rev: 21
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -104,7 +104,7 @@ En lugar de reinventar la rueda, nos apoyamos en componentes ya probados y madur
 
 Continuar leyendo en ... [[Arquitectura Interna de un Gestor de Paquetes Python que Usa Poetry como Backend 🟡③]]
 
-column-end ---
+--- column-end ---
 
 ![Elegimos exactamente qué partes de Poetry vamos a usar en MetsuDepManager](PublicBrain/_resources/ae6b1671a69e89a877bcf5f09fbc63d4_MD5.jpg)
 ### 1.2. Diferencias prácticas entre `poetry`, `poetry-core` y los plugins  
@@ -116,7 +116,11 @@ La decisión práctica que tomamos hoy (y que vamos a codificar ya mismo) es ...
 Continuar leyendo en ... [[Elegimos exactamente qué partes de Poetry vamos a usar en MetsuDepManager 🟡③]]
 
 --- column-end ---
-1.3. Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660  
+## 1.3. Cómo Poetry z 
++implementa los estándares PEP 517, 518, 621 y 660  
+
+Continuar leyendo en ... [[Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 ⚫①]]
+
 --- column-end ---
 1.4. El `pyproject.toml`: todos los campos (incluso los menos conocidos)  
 --- column-end ---

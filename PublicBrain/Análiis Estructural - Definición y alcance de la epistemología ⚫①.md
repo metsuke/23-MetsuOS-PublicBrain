@@ -18,7 +18,7 @@ tags: []
 ---
 # Análiis Estructural - Definición y alcance de la epistemología ⚫①
 
-[[Definición y alcance de la epistemología  🔴②]]
+[[Definición y alcance de la epistemología 🟡③]]
 
 **DISCLAIMER: Documento ALTAMENTEO EXPERIMENTAL**
 

@@ -36,15 +36,13 @@ Te invito a un fascinante recorrido por la historia de la epistemología, desde 
 - Aplicar perspectivas epistemológicas a desafíos actuales, como la ética en la investigación o la crisis de reproducibilidad en la ciencia.
 - Desarrollar habilidades de análisis crítico a través de la lectura y discusión de textos clásicos y contemporáneos.
 
-**Duración sugerida**: 12-16 semanas (3-4 meses), con 3-4 horas semanales dedicadas a clases teóricas, talleres prácticos y debates.
-
 ## Módulo 1: Fundamentos de la epistemología
 
 **Descripción**: Este módulo introduce los pilares de la epistemología, explorando sus preguntas esenciales y su relevancia para la ciencia. Ofrece una base sólida para comprender cómo se construye y valida el conocimiento.
 
 **Subtemas**:
 
-1. **[[Definición y alcance de la epistemología  🔴②]]**
+1. [[Definición y alcance de la epistemología 🟡③]]
     - Diferencias y similitudes entre epistemología y gnoseología.
     - La epistemología como estudio del conocimiento científico.
 2. **Preguntas fundamentales**

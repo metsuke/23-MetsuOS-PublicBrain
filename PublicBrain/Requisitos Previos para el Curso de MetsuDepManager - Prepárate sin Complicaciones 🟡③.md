@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-01T09:00:15.625Z
-modified: 2025-12-05T01:41:47.804Z
+modified: 2025-12-05T18:05:05.202Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -28,7 +28,7 @@ MOS_TopImg_Video: CursoMetsuDepManager_004.mp4
 
 Si estás a punto de sumergirte en el curso de Metsuke para crear MetsuDepManager —ese gestor de paquetes Python que pone la ética y la seguridad en el centro, usando Poetry como base—, lo primero es asegurarte de que tu setup no te frene. No te pido que seas un experto, solo que tengas lo básico para no atascarte en los primeros pasos. Piensa en esto como el calentamiento antes de una buena partida: rápido, efectivo y sin sorpresas. Vamos a repasarlo de forma sencilla, con trucos para que lo tengas listo en media hora.
 
-## 1. Python ≥ 3.10,<3.15: La Base Sólida que Necesitas
+## 1. Python: La Base Sólida que Necesitas
 
 **Versión de Python requerida: ≥3.11 y <3.15**
 

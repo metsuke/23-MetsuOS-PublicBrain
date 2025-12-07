@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-29T19:22:44.212Z
-modified: 2025-12-05T01:19:35.912Z
+modified: 2025-12-07T00:29:03.164Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 13
+ver_rev: 18
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -94,9 +94,27 @@ Continuar leyendo en ... [[MetsuDepManager - Visión general del proyecto 🟡�
 Number of Columns: 2
 Border: off
 ```
-1.1. Arquitectura interna: Core, Solver, Locker, Installer y Builder  
---- column-end ---
-1.2. Diferencias prácticas entre `poetry`, `poetry-core` y los plugins  
+
+![Arquitectura Interna de un Gestor de Paquetes Python que Usa Poetry como Backend](PublicBrain/_resources/eed51a6d500a6542fd7fd31b326d7a8d_MD5.jpg)
+### 1.1. Arquitectura interna: Core, Solver, Locker, Installer y Builder  
+
+Crear un gestor de paquetes Python desde cero que delegue la mayor parte del trabajo pesado a **Poetry** (específicamente a `poetry-core`) es una estrategia muy potente para aprender cómo funcionan internamente herramientas modernas como Poetry, uv, pipenv o pdm.  
+
+En lugar de reinventar la rueda, nos apoyamos en componentes ya probados y maduros de Poetry, pero los orquestamos con nuestra propia capa de alto nivel. Esta arquitectura nos permite tener un gestor ligero, extensible y perfectamente reproducible, ideal tanto para proyectos educativos como para entornos empresariales con requisitos muy específicos.
+
+Continuar leyendo en ... [[Arquitectura Interna de un Gestor de Paquetes Python que Usa Poetry como Backend 🟡③]]
+
+column-end ---
+
+![Elegimos exactamente qué partes de Poetry vamos a usar en MetsuDepManager](PublicBrain/_resources/ae6b1671a69e89a877bcf5f09fbc63d4_MD5.jpg)
+### 1.2. Diferencias prácticas entre `poetry`, `poetry-core` y los plugins  
+
+En este punto ya sabemos que no vamos a reinventar la rueda. Vamos a reutilizar lo mejor de Poetry, pero con control total: sin telemetría, con timeouts, con auditoría y funcionando en entornos air-gapped.
+
+La decisión práctica que tomamos hoy (y que vamos a codificar ya mismo) es ...
+
+Continuar leyendo en ... [[Elegimos exactamente qué partes de Poetry vamos a usar en MetsuDepManager 🟡③]]
+
 --- column-end ---
 1.3. Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660  
 --- column-end ---

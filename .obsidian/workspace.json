@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Historia de la Ciencia y del Método Científico 🟡③.md",
+                "file": "PublicBrain/Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Historia de la Ciencia y del Método Científico 🟡③"
+              "title": "Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③"
+            }
+          },
+          {
+            "id": "95cb20eb0b972866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/¿Qué licencia debe tener MetsuDepManager? 🟡③.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "¿Qué licencia debe tener MetsuDepManager? 🟡③"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,36 +218,38 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "517e06c09b6a9b2f",
+  "active": "95cb20eb0b972866",
   "lastOpenFiles": [
-    "PublicBrain/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③.md",
-    "PublicBrain/Historia de la Ciencia y del Método Científico 🟡③.md",
-    "Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③.md",
+    "PublicBrain/Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③.md",
+    "¿Qué licencia debe tener MetsuDepManager? 🟡③.md",
+    "PublicBrain/¿Qué licencia debe tener MetsuDepManager? 🟡③.md",
     "PublicBrain/Index.md",
+    "PublicBrain/IMetsuOS Contenido Archivado.md",
+    "PublicBrain/MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③.md",
+    "PublicBrain/Creando MetsuOS ⚫①.md",
+    "PublicBrain/Introducción a MetsuOS 🔴②.md",
+    "PublicBrain/Propósito y alcance del sistema operativo MetsuOS 🔴②.md",
+    "PublicBrain/Requisitos funcionales y no funcionales en MetsuOS 🔴②.md",
+    "PublicBrain/Funcionalidades Universales para gestión de notas en MetsuOS ⚫①.md",
+    "PublicBrain/Diagrama de bloques del sistema operativo MetsuOS  ⚫①.md",
+    "PublicBrain/Diagrama de bloques del sistema de gestion de conocimiento en MetsuOS ⚫①.md",
+    "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
+    "PublicBrain/_resources/7b00d0891ec5c4b2c32aa594e478bede_MD5.jpg",
+    "Qué licencia debe tener MetsuDepManager  ⚫①.md",
+    "PublicBrain/_resources/a1f5caf5bb1565420ee2485afb340d89_MD5.jpg",
+    "Apps.md",
+    "PublicBrain/MetsuDepManager - Visión general del proyecto 🟡③.md",
+    "PublicBrain/mosLib - El Corazón de MetsuOS  ⚫①.md",
+    "PublicBrain/Historia de la Ciencia y del Método Científico 🟡③.md",
+    "PublicBrain/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③.md",
+    "Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③.md",
     "PublicBrain/Apoya el proyecto.md",
     "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
     "PublicBrain/Definición y alcance de la epistemología 🟡③.md",
     "PublicBrain/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③.md",
-    "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
     "Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 ⚫①.md",
-    "PublicBrain/Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 ⚫①.md",
-    "PublicBrain/Elegimos exactamente qué partes de Poetry vamos a usar en MetsuDepManager 🟡③.md",
     "PublicBrain/_resources/ae6b1671a69e89a877bcf5f09fbc63d4_MD5.jpg",
-    "Diferencias prácticas entre poetry, poetry-core y los plugins ⚫①.md",
-    "PublicBrain/Arquitectura Interna de un Gestor de Paquetes Python que Usa Poetry como Backend 🟡③.md",
     "PublicBrain/_resources/eed51a6d500a6542fd7fd31b326d7a8d_MD5.jpg",
-    "Arquitectura interna - Core, Solver, Locker, Installer y Builder 🔴②.md",
-    "PublicBrain/Requisitos Previos para el Curso de MetsuDepManager - Prepárate sin Complicaciones 🟡③.md",
-    "PublicBrain/MetsuDepManager - Visión general del proyecto 🟡③.md",
-    "PublicBrain/Objetivo del Curso - Construir MetsuDepManager, un Gestor de Paquetes Práctico, Ético y Personalizable 🟡③.md",
-    "PublicBrain/Decisión oficial sobre la versión de Python requerida por MetsuDepManager 🟡③.md",
-    "PublicBrain/MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③.md",
-    "PublicBrain/mosLib - El Corazón de MetsuOS  ⚫①.md",
-    "Apps.md",
-    "PublicBrain/Aprender con Jorge Sepulcre 🟡③.md",
-    "PublicBrain/Visión del CPS de Javier G. Recuenco 🔴②.md",
-    "PublicBrain/La definicion de Mujer de Irene Montero es probablemente imprecisa incompleta y subjetiva 🔴②-⚖️🔴②.md",
-    "PublicBrain/Aprender con Irene Montero ⚫①.md",
     "PublicBrain/_resources/bcdb26b402ce1818f324f6b0247f7807_MD5.jpg",
     "PublicBrain/_resources/7ca926b2ca82e9120c0ce1718119fb0c_MD5.jpg",
     "PublicBrain/CursoMetsuDepManager_003.mp4",
@@ -241,8 +258,6 @@
     "PublicBrain/_resources/aaf98fa39d495acaf8a5f8c59eeea738_MD5.jpg",
     "PublicBrain/_resources/24d5403e0e4b3f75f98f4d8d933844ac_MD5.jpg",
     "PublicBrain/_resources/d3e9395c77920e9be0ed34f672534abb_MD5.jpg",
-    "PublicBrain/_resources/570f078529742a81c508c3b36eac5d26_MD5.jpg",
-    "PublicBrain/_resources/1f27a4f5935091d96a8f2f6c5aed74e8_MD5.jpg",
     "PublicBrain/https_",
     "https_",
     "PublicBrain/Untitled.canvas",

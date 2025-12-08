@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2025-12-02T14:52:09.904Z
+modified: 2025-12-08T02:43:22.042Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 74
 nav_primary:
 nav_secondary:
 tags:
@@ -46,6 +46,63 @@ En cuanto a las capas de funcionamiento implicadas, cada aplicación, modulo y l
 En algunos casos, [como propuse en este tweet con el conversor de imagenes 🌐](https://x.com/metsuke/status/1971099781633130801), es posible que proponga alguna forma de uso gratuito limitado de las versiones pro, a modo de prueba y como regalo a los que siguen el proyecto con atención, pero siempre como servicio sin acceso al código.
 
 Este planteamiento está vivo, pero es algo que he reflexionado  bastante, ni quiero dejar en la estacada a los que colaboran con el software libre construyendo una base sólida que evita que los desarrolladores se enquisten en monopolios ni quiero someter el proyecto a la falta de profesionalidad real del desarrollo al estilo "do it yourself". En el equilibrio y la variedad de opciones, está el punto medio. Puedes ver más sobre esto en [[De Software Libre, Licencias y Filosofías en entornos VUCA 🟡③]]
+
+## Herramientas de apoyo
+
+Nada se construye sobre la nada (salvo, quizá, las partículas fundamentales de las que está hecho el universo físico).
+
+De la misma forma, todo lo que hoy llamamos «mundo digital» —desde la computación más básica hasta los lenguajes de programación que sustentan MetsuOS— descansa sobre una serie de tecnologías y herramientas que no solo hacen posible su existencia, sino que permiten que siga creciendo día tras día.
+
+Entre esas capas fundamentales y el código que forma el núcleo de nuestro sistema operativo se encuentran una serie de herramientas imprescindibles: son el andamiaje invisible que coordina, organiza y hace viable el resto del desarrollo. Lo que sigue es precisamente el mapa de ese andamiaje.
+
+
+```mermaid
+graph LR
+    A[Desarrollo] --> B[Propio]
+    A[Desarrollo] --> C[Otras]
+
+    C --> D[Linux Kernel]
+    C --> E[Python]
+    C --> H[Poetry]
+
+    E --> F[MetsuDepManager]
+    H --> F[MetsuDepManager]
+    B --> F[MetsuDepManager]
+
+    F --> G[mosLib]
+    B --> G[mosLib]
+
+    D --> I[MetsuOS GNU/Linux]
+
+    %% Relación opcional
+    G -.-> I
+
+    %% Estilos con colores de fuente explícitos
+    classDef external fill:#4a5568,stroke:#2d3748,color:#e2e8f0
+    classDef propio   fill:#2b6cb0,stroke:#2c5282,color:#ffffff
+    classDef final    fill:#22543d,stroke:#276749,color:#ffffff
+
+    class D,E,H external
+    class B,F,G propio
+    class I final
+```
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+
+![MetsuDepManager](PublicBrain/_resources/570f078529742a81c508c3b36eac5d26_MD5.jpg)
+## MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③
+
+MetsuDepManager es un gestor de dependencias ético, seguro, accesible y listo para producción para Python, diseñado específicamente para entornos regulados como empresas con políticas de seguridad estrictas (banca, defensa, sanidad, administraciones públicas), entornos educativos obligados por normativas como la LOMLOE y el Real Decreto 1112/2018 de accesibilidad, sistemas air-gapped o con conexión restringida (industria, investigación clasificada), y proyectos sujetos a regulaciones como RGPD, NIS2, ENS Alto o Ciberseguridad Nacional. Como wrapper ligero sobre Poetry, que actúa como su motor principal, integra un motor de políticas avanzado que asegura cumplimiento normativo (vulnerabilidades, licencias, orígenes geográficos) sin comprometer la velocidad ni la usabilidad. Su enfoque offline-first y su soporte para SBOM (Software Bill of Materials) lo convierten en una herramienta indispensable para mitigar riesgos en la cadena de suministro de software, alineándose con regulaciones como NIS2, ENS Alto, DORA e ITAR/EAR.
+
+Continuyar leyendo en ... [[MetsuDepManager - Visión general del proyecto 🟡③]] y [[Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③]]
+
+ --- column-end ---
+--- multi-column-end
 
 ## MetsuOS System Core
 

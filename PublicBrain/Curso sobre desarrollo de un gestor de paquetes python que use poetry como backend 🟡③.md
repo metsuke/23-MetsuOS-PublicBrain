@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-29T19:22:44.212Z
-modified: 2025-12-07T13:01:18.564Z
+modified: 2025-12-08T16:22:30.662Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 21
+ver_rev: 25
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -116,10 +116,15 @@ La decisión práctica que tomamos hoy (y que vamos a codificar ya mismo) es ...
 Continuar leyendo en ... [[Elegimos exactamente qué partes de Poetry vamos a usar en MetsuDepManager 🟡③]]
 
 --- column-end ---
-## 1.3. Cómo Poetry z 
-+implementa los estándares PEP 517, 518, 621 y 660  
 
-Continuar leyendo en ... [[Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 ⚫①]]
+![Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 ](PublicBrain/_resources/a1f5caf5bb1565420ee2485afb340d89_MD5.jpg)
+## 1.3. Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 
+
+Poetry no solo actúa como gestor de dependencias, sino también como backend de construcción que se alinea con los estándares modernos del ecosistema Python. Estos estándares, definidos en las PEPs (Python Enhancement Proposals) 517, 518, 621 y 660, permiten builds reproducibles, configuraciones declarativas y flujos de desarrollo más fluidos.
+
+En esta lección, desglosamos de manera clara y práctica cómo Poetry los pone en marcha, con ejemplos reales que puedes probar en tu propio proyecto. El enfoque del curso, resalta cómo estos PEPs convierten a Poetry en un aliado ideal para extensiones como MetsuDepManager, donde la auditoría y la reproducibilidad son clave.
+
+Continuar leyendo en ... [[Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③]]
 
 --- column-end ---
 1.4. El `pyproject.toml`: todos los campos (incluso los menos conocidos)  
@@ -131,9 +136,6 @@ Continuar leyendo en ... [[Cómo Poetry implementa los estándares PEP 517, 518,
 1.7. Limitaciones actuales de la API pública (estado en 2025) y soluciones prácticas   
 --- column-end ---
 --- multi-column-end
-
-
-
 
 ### Módulo 2 – Diseño de MetsuDepManager
 2.1. Principios básicos: transparencia, ética, auditoría y mínimo privilegio  
@@ -201,7 +203,7 @@ Continuar leyendo en ... [[Cómo Poetry implementa los estándares PEP 517, 518,
 11.1. Construcción y publicación automática en PyPI  
 11.2. Opcional: binarios standalone con PyInstaller o Nuitka  
 
-### Módulo 12 – Proyecto final y ideas futuras
+### Módulo 12 – Proyecto final e ideas futuras
 12.1. Checklist de “production-ready”  
 12.2. Extensiones posibles: UI web, soporte multi-lenguaje, integración con gestores del sistema operativo  
 12.3. Cómo contribuir al proyecto open-source  

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-08T15:23:13.405Z
-modified: 2025-12-08T17:47:47.067Z
+modified: 2025-12-08T20:20:16.636Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -22,7 +22,7 @@ MOS_TopImg_Video: CursoMetsuDepManager_013_Licencia.mp4
 ---
 # ¿Qué licencia debe tener MetsuDepManager? 🟡③
 
-![[PublicBrain/_resources/7b00d0891ec5c4b2c32aa594e478bede_MD5.jpg]]
+![¿Qué licencia debe tener MetsuDepManager? ](PublicBrain/_resources/7b00d0891ec5c4b2c32aa594e478bede_MD5.jpg)
 
 * [[Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③]]
 * [[Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③]]

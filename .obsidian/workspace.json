@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/¿Qué licencia debe tener MetsuDepManager? 🟡③.md",
+                "file": "PublicBrain/Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "¿Qué licencia debe tener MetsuDepManager? 🟡③"
+              "title": "Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③"
             }
           }
         ],
@@ -220,9 +220,11 @@
   },
   "active": "95cb20eb0b972866",
   "lastOpenFiles": [
+    "2025-12-08.md",
+    "PublicBrain/2025-12-08.md",
     "PublicBrain/Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③.md",
-    "¿Qué licencia debe tener MetsuDepManager? 🟡③.md",
     "PublicBrain/¿Qué licencia debe tener MetsuDepManager? 🟡③.md",
+    "¿Qué licencia debe tener MetsuDepManager? 🟡③.md",
     "PublicBrain/Index.md",
     "PublicBrain/IMetsuOS Contenido Archivado.md",
     "PublicBrain/MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③.md",
@@ -246,8 +248,6 @@
     "PublicBrain/Apoya el proyecto.md",
     "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
     "PublicBrain/Definición y alcance de la epistemología 🟡③.md",
-    "PublicBrain/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③.md",
-    "Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 ⚫①.md",
     "PublicBrain/_resources/ae6b1671a69e89a877bcf5f09fbc63d4_MD5.jpg",
     "PublicBrain/_resources/eed51a6d500a6542fd7fd31b326d7a8d_MD5.jpg",
     "PublicBrain/_resources/bcdb26b402ce1818f324f6b0247f7807_MD5.jpg",

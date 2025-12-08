@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-07T13:01:27.425Z
-modified: 2025-12-08T17:59:30.604Z
+modified: 2025-12-08T20:22:06.439Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -89,7 +89,7 @@ classifiers = [
 ]
 ```
 
-La licencia es GPL v3 según lo argumentado en [[PublicBrain/¿Qué licencia debe tener MetsuDepManager? 🟡③]], decisión tomada a 8 de Diciembre de 2025.
+La licencia es GPL v3 según lo argumentado en [[¿Qué licencia debe tener MetsuDepManager? 🟡③]], decisión tomada a 8 de Diciembre de 2025.
 
 Para extras, recurre a `[dependency-groups]` (PEP 735) o grupos de Poetry.
 

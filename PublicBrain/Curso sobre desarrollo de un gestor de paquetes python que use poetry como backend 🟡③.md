@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-11-29T19:22:44.212Z
-modified: 2025-12-08T16:22:30.662Z
+modified: 2025-12-09T16:03:28.367Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 27
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -127,7 +127,18 @@ En esta lección, desglosamos de manera clara y práctica cómo Poetry los pone 
 Continuar leyendo en ... [[Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③]]
 
 --- column-end ---
-1.4. El `pyproject.toml`: todos los campos (incluso los menos conocidos)  
+
+![El pyproject.toml - todos los campos (incluso los menos conocidos)](PublicBrain/_resources/2aa13ad84859df87b2816eab648b5790_MD5.jpg)
+### 1.4. El `pyproject.toml`: todos los campos (incluso los menos conocidos)  
+
+> OJO WIP
+
+Si estás empezando un proyecto en Python y quieres usar Poetry como gestor de dependencias, no hace falta complicarse con comandos manuales uno a uno. En su lugar, he preparado un script sencillo en Python, llamado `inicializar.py`, que automatiza todo el proceso. 
+
+Este script parte de un entorno Python 3.11 o superior con `pip` instalado (que viene de serie con Python). Primero, comprueba si Poetry está disponible; si no, lo instala automáticamente mediante `pip`. Luego, crea el proyecto en el directorio actual con `poetry new .`, genera la estructura básica y un fichero `pyproject.toml` preconfigurado. Por último, instala las dependencias iniciales y verifica que todo esté en orden.
+
+Continuar leyendo en ... [[El pyproject.toml - todos los campos (incluso los menos conocidos) 🔴②]]
+
 --- column-end ---
 1.5. El `poetry.lock`: estructura TOML y cómo lo genera el solver  
 --- column-end ---

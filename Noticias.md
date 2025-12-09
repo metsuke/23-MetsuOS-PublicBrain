@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-10-27T09:28:56.299Z
+modified: 2025-12-09T19:40:17.359Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 36
+ver_rev: 38
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,6 +30,19 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Portada homenaje al esfuerzo editorial de Jose Luis Sanz](PublicBrain/_resources/116c2fe45db9ca6244da258344643f32_MD5.jpg)
+## Noticias - El esperadísimo regreso de Micromanía: Una nueva etapa para una revista absolutamente icónica
+
+**¡Qué alegría para los amantes de los videojuegos retro!** 
+
+Diciembre de 2025 - Después de algo más de un año y medio, que se hizo interminable, la legendaria revista **Micromanía** vuelve a la vida. El pasado domingo 7 de diciembre de 2025, en el animado Salón del Videojuego de Madrid, José Luis Sanz, conocido como "Skywalker", y Marcos García, "The Elf", compartieron los primeros detalles de esta cuarta etapa. 
+
+Es un renacimiento que mezcla el encanto de los años 80 y 90 con el ritmo actual del mundo de los videojuegos, uniendo generaciones de aficionados.
+
+Continua leyendo en ... [[Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③]]
+
+--- column-end ---
 
 ![Preventa Con Cinco Duros Vol 3](PublicBrain/_resources/2da7c0eabe742fa7f8bab3ed5af9af0e_MD5.jpg)
 

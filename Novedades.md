@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-12-03T11:27:01.013Z
+modified: 2025-12-09T19:41:43.690Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 126
+ver_rev: 127
 nav_primary: 
 nav_secondary: 
 tags:
@@ -27,6 +27,18 @@ Number of Columns: 2
 Border: off
 ```
 
+![Portada homenaje al esfuerzo editorial de Jose Luis Sanz](PublicBrain/_resources/116c2fe45db9ca6244da258344643f32_MD5.jpg)
+## Noticias - El esperadísimo regreso de Micromanía: Una nueva etapa para una revista absolutamente icónica
+
+**¡Qué alegría para los amantes de los videojuegos retro!** 
+
+Después de algo más de un año y medio, que se hizo interminable, la legendaria revista **Micromanía** vuelve a la vida. El pasado domingo 7 de diciembre de 2025, en el animado Salón del Videojuego de Madrid, José Luis Sanz, conocido como "Skywalker", y Marcos García, "The Elf", compartieron los primeros detalles de esta cuarta etapa. 
+
+Es un renacimiento que mezcla el encanto de los años 80 y 90 con el ritmo actual del mundo de los videojuegos, uniendo generaciones de aficionados.
+
+Continua leyendo en ... [[Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③]]
+
+--- column-end ---
 
 ![antiintromisionismo](PublicBrain/_resources/4217d2a8b7a94d71d1a63c1cf1ec7975_MD5.jpg)
 
@@ -45,16 +57,6 @@ Continuar leyendo en ... [[Blog - El Antiintromisionismo, una propuesta filosóf
 Este curso ofrece una formación completa y práctica en la programación de videojuegos con el motor Godot Engine, centrándonos en los lenguajes C y C++ mediante el sistema GDExtension, que permite integrar código nativo de manera eficiente en versiones de Godot 4 y superiores. 
 
 Continuar leyendo en [[Curso de Programación de Videojuegos con Godot Engine 🔴②]]
-
---- column-end ---
-
-![Preventa Con Cinco Duros Vol 3](PublicBrain/_resources/2da7c0eabe742fa7f8bab3ed5af9af0e_MD5.jpg)
-
-## Noticias - Preventa de Cinco Duros Vol. 3 El legado olvidado del videojuego español cobra vida con un salto hacia los 90 en edición coleccionista
-
-**Octubre de 2025** – El año 2025 está siendo un auténtico renacimiento para la escena retro española. Tras [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|el regreso de Microhobby]], el [[Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③|estreno del primer episodio de la serie documental Cinco Duros]] y el [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③|lanzamiento de títulos homebrew como Malasombra para NES]], Dolmen Editorial acaba de abrir la **preventa del Volumen 3 de *Cinco Duros: La historia del videojuego en España para todos***. Este libro, escrito por **Diego Vargas Pardo**, nos sumerge en los años **1990-1993**: la época en que la industria española pasó de los microordenadores de 8 bits al dominio de las consolas, la profesionalización del sector y la presión del mercado internacional.
-
-Continuar leyendo en ... [[Noticias - Preventa de Cinco Duros Vol. 3 El legado olvidado del videojuego español cobra vida con un salto hacia los 90 en edición coleccionista - 2025-10-27 🟡③]]
 
 --- column-end ---
 

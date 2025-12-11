@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③"
             }
+          },
+          {
+            "id": "224de3d2c83b792c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Galería de Imágenes de Efemétides  ⚫①"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,12 +217,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "517e06c09b6a9b2f",
+  "active": "224de3d2c83b792c",
   "lastOpenFiles": [
-    "Noticias.md",
-    "PublicBrain/Noticias - Preventa de Cinco Duros Vol. 3 El legado olvidado del videojuego español cobra vida con un salto hacia los 90 en edición coleccionista - 2025-10-27 🟡③.md",
     "PublicBrain/Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③.md",
     "Novedades.md",
+    "Noticias.md",
+    "El Proyecto.md",
+    "Index.md",
+    "PublicBrain/_resources/982f1e9ffc73fd3ee957391ea685d9e4_MD5.jpg",
+    "MicroManiaLanzamientoJoseLuisMM.png",
+    "PublicBrain/Noticias - Preventa de Cinco Duros Vol. 3 El legado olvidado del videojuego español cobra vida con un salto hacia los 90 en edición coleccionista - 2025-10-27 🟡③.md",
     "PublicBrain/953cf155-08e4-4168-b47d-f7ac19e28337.jpg",
     "255d3fd9-e89d-4a7a-aeda-36c3413a617d.jpg",
     "35a37ba9-8b91-4029-92c3-fc0d1067310a.jpg",
@@ -216,8 +235,6 @@
     "ecec2e13-a2c6-4ee3-8d54-f552b7689f04.jpg",
     "PublicBrain/_resources/82ce4ae26fe085803fdf13800b0300c7_MD5.jpg",
     "PublicBrain/_resources/d1f74b28aa067549b92688c1aded66fe_MD5.jpg",
-    "PublicBrain/_resources/236dee0a33ef05d35ba9c0bd807e7090_MD5.jpg",
-    "PublicBrain/_resources/cf927e449abc5ec77b092afc82b71fe1_MD5.jpg",
     "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
     "Noticias - Vielve Micromania - 2025-12-09 🟡③.md",
     "PublicBrain/Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③.md",
@@ -238,7 +255,6 @@
     "PublicBrain/Requisitos funcionales y no funcionales en MetsuOS 🔴②.md",
     "PublicBrain/Funcionalidades Universales para gestión de notas en MetsuOS ⚫①.md",
     "PublicBrain/Diagrama de bloques del sistema operativo MetsuOS  ⚫①.md",
-    "PublicBrain/Diagrama de bloques del sistema de gestion de conocimiento en MetsuOS ⚫①.md",
     "PublicBrain/CursoMetsuDepManager_003.mp4",
     "CursoMetsuDepManager_003.mp4",
     "PublicBrain/https_",

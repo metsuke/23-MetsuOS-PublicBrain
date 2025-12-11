@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-10T00:52:13.075Z
-modified: 2025-10-06T19:48:09.144Z
+modified: 2025-12-11T23:13:57.135Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
@@ -46,6 +46,9 @@ Tomando el testigo y continuando la leyenda de los 8 bits
 
 ![Header Lanzamiento de Microhobby 218](PublicBrain/_resources/06d9c68047c3520d56eef7592667e89d_MD5.jpeg)
 
+* 14/07 a 20/07 .- Lanzamiento Microhobby 218 (2025)
+* 05/11 a 11/11 .- Lanzamiento Revista Microhobby (1984)
+	* Semana compartida con Lanzamiento de Pixels (2024)
 ## Lanzamiento de Sega Saturn
 
 Un collage con algunos de los juegos más conocidos de la plataforma

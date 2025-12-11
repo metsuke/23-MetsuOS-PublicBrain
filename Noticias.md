@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-12-09T19:40:17.359Z
+modified: 2025-12-10T16:59:25.140Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 38
+ver_rev: 40
 nav_primary: 
 nav_secondary: 
 tags:
@@ -31,7 +31,7 @@ Border: off
 ```
 
 
-![Portada homenaje al esfuerzo editorial de Jose Luis Sanz](PublicBrain/_resources/116c2fe45db9ca6244da258344643f32_MD5.jpg)
+![Portada homenaje al esfuerzo editorial de Jose Luis Sanz](PublicBrain/_resources/982f1e9ffc73fd3ee957391ea685d9e4_MD5.jpg)
 ## Noticias - El esperadísimo regreso de Micromanía: Una nueva etapa para una revista absolutamente icónica
 
 **¡Qué alegría para los amantes de los videojuegos retro!** 

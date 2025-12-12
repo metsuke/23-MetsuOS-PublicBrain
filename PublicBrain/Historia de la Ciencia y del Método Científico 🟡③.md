@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-03-29T22:03:57.697Z
-modified: 2025-12-07T18:53:21.167Z
+modified: 2025-12-12T04:54:11.869Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
+ver_rev: 13
 nav_primary:
 nav_secondary:
 tags:
@@ -25,16 +25,18 @@ MOS_TopImg_Video: HistoriaCienciaMetodoCientifico_000.mp4
 ![Galileo, Newton, y Einstein](HistoriaCienciaMetodoCientifico_000.jpg)
 
 * [[PublicBrain/Index|Index]]
-* Revisar
-	* [[Definición de ciencia y método científico 🔴②]]
-	* [[Conceptos básicos sobre ciencia y su evolución histórica 🔴②]]
-	* [[Distinción entre ciencia, tecnología y otras formas de la c conocimiento  🔴②]]
 
 ## Introducción
 
 La ciencia representa una de las aventuras más fascinantes de la humanidad, un proceso sistemático para comprender el mundo que nos rodea. El método científico, por su parte, es el conjunto de pasos lógicos y rigurosos que guían esta exploración, evolucionando a lo largo de los siglos. En esta sección, exploraremos los conceptos básicos sobre la ciencia y su desarrollo histórico, distinguiendo entre ciencia pura, tecnología aplicada y otras formas de conocimiento, como la filosofía o la tradición oral.
 
 La historia de la ciencia es fundamental porque nos proporciona el contexto necesario para apreciar cómo ha evolucionado el saber humano. Nos ayuda a entender no solo los avances técnicos, sino también su impacto en la sociedad actual, influyendo en la educación y en la toma de decisiones políticas y éticas. Los objetivos de este contenido son explorar la evolución histórica de la ciencia y sus métodos, analizar cómo interactúa con la sociedad, la cultura y la ética, y fomentar una reflexión crítica sobre el presente y el futuro de la humanidad.
+
+## Contexto y Definición
+
+* [[Definición de ciencia y método científico 🔴②]]
+* [[Conceptos básicos sobre ciencia y su evolución histórica 🔴②]]
+* [[Distinción entre ciencia, tecnología y otras formas de la c conocimiento  🔴②]]
 
 ## Orígenes de la Ciencia
 

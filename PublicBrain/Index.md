@@ -61,7 +61,7 @@ MOS_TopImg_Video: PublicBrain.mp4
 
 #### Historia
 
-[[Historia de los videojuegos de aventura a traves de CAAD  🔴②]]
+[[Historia de los videojuegos de aventura a traves de CAAD 🟡③]]
 
 #### Lengu0ajes
 

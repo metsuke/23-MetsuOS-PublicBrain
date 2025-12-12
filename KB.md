@@ -34,7 +34,7 @@ Border: off
 
 En las profundidades de la era dorada del software español, cuando los ordenadores de 8 bits parpadeaban con promesas de mundos imposibles, nació un fanzine que no solo documentó, sino que *tejió* la historia viva de los videojuegos de aventura: **CAAD**. Desde su primer número en 1989 hasta la Tercera Edad digital de 2025, este boletín epistolar, luego foro y ahora archivo interactivo, no es un mero repositorio de soluciones y reseñas: es el **diario de bitácora de una generación** que convirtió la imaginación en código, el parser en poesía y la comunidad en resistencia cultural. Este curso no estudia la aventura —la *vive* a través de sus páginas—, desgranando número por número la evolución de un género que, contra todo pronóstico, sigue desafiando al tiempo.
 
-Continua leyendo en ... [[Historia de los videojuegos de aventura a traves de CAAD  🔴②]]
+Continua leyendo en ... [[Historia de los videojuegos de aventura a traves de CAAD 🟡③]]
 
 --- column-end ---
 

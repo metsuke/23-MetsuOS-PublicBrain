@@ -1,8 +1,8 @@
 ---
 iaStatus: 8
 iaStatus_Model: Grok-4, Raul Carrillo aka Metsuke
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
@@ -18,8 +18,11 @@ ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
+MOS_TopImg_Video: EpistemologiaDefinicionAlcance.mp4
 ---
 # Definición y alcance de la epistemología 🟡③
+
+![Definición y alcance de la epistemología](PublicBrain/_resources/58babb003b4558f46c71fbb763b49a66_MD5.jpg)
 
 * [[Historia de la Epistemología y su aplicación en la Ciencia 🟡③]]
 	* [[Análiis Estructural - Definición y alcance de la epistemología ⚫①]]

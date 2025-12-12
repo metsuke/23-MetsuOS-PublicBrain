@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-23T18:16:28.303Z
-modified: 2025-12-07T18:42:08.661Z
+modified: 2025-12-11T23:19:24.060Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary:
 nav_secondary:
 tags:
@@ -211,21 +211,6 @@ Te invito a un fascinante recorrido por la historia de la epistemología, desde 
 - Proyecto final: Diseñar una propuesta de investigación científica (2000-3000 palabras) aplicando principios epistemológicos estudiados.
 
 **Duración**: 3 semanas.
-
-## Evaluación y metodología
-
-**Evaluaciones sugeridas**:
-
-- **Participación (20%)**: Contribuciones activas en debates y análisis de textos.
-- **Ensayos cortos (30%)**: 2-3 ensayos (1000 palabras cada uno) sobre textos o casos históricos.
-- **Proyecto final (30%)**: Propuesta de investigación o ensayo extenso (2000-3000 palabras) que integre conceptos epistemológicos.
-- **Examen final (20%)**: Preguntas abiertas que abarquen los temas del curso.
-
-**Metodología**:
-
-- Clases teóricas con apoyo visual y discusiones interactivas.
-- Talleres prácticos para trabajar con textos primarios y analizar casos científicos.
-- Uso de plataformas digitales (foros, bases de datos como JSTOR) para investigación y colaboración.
 
 ## Recursos recomendados
 

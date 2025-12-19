@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③"
-            }
-          },
-          {
-            "id": "224de3d2c83b792c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "NPL.md",
                 "mode": "source",
                 "source": false
@@ -34,9 +20,22 @@
               "icon": "lucide-file",
               "title": "NPL"
             }
+          },
+          {
+            "id": "230cd99ce5785061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Elementos del conocimiento humano y científico  🟡③-⚖️🔴②.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elementos del conocimiento humano y científico  🟡③-⚖️🔴②"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,18 +216,25 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "224de3d2c83b792c",
+  "active": "517e06c09b6a9b2f",
   "lastOpenFiles": [
-    "PublicBrain/Historia de los videojuegos de aventura a traves de CAAD 🟡③.md",
+    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+    "PublicBrain/Elementos del conocimiento humano y científico  🟡③-⚖️🔴②.md",
     "NPL.md",
-    "PublicBrain/Definición de ciencia y método científico 🔴②.md",
+    "PublicBrain/Aprendizaje basado en evidencia  ⚫①.md",
     "PublicBrain/Historia de la Ciencia y del Método Científico 🟡③.md",
+    "KB.md",
+    "_resources/d6c616f2df7ff3271050294f4e47edff_MD5.jpg",
+    "PublicBrain/Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③.md",
+    "NPL  ⚫①.md",
+    "PublicBrain/NPL  ⚫①.md",
+    "PublicBrain/Historia de los videojuegos de aventura a traves de CAAD 🟡③.md",
+    "PublicBrain/Definición de ciencia y método científico 🔴②.md",
     "PublicBrain/Distinción entre ciencia, tecnología y otras formas de la c conocimiento  🔴②.md",
     "PublicBrain/Definición y alcance de la epistemología 🟡③.md",
     "PublicBrain/_resources/58babb003b4558f46c71fbb763b49a66_MD5.jpg",
     "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
     "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
-    "PublicBrain/Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③.md",
     "Novedades.md",
     "Noticias.md",
     "El Proyecto.md",
@@ -242,19 +248,12 @@
     "PublicBrain/_resources/720e9f9275e079eeaf8290a3cfd84504_MD5.jpg",
     "d993b8f1-6fdd-49d5-af10-7e32ffa393a7.jpg",
     "ecec2e13-a2c6-4ee3-8d54-f552b7689f04.jpg",
-    "PublicBrain/_resources/82ce4ae26fe085803fdf13800b0300c7_MD5.jpg",
     "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
     "Noticias - Vielve Micromania - 2025-12-09 🟡③.md",
     "PublicBrain/Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③.md",
     "PublicBrain/El pyproject.toml - todos los campos (incluso los menos conocidos) 🔴②.md",
     "Apps.md",
     "PublicBrain/Sistema de fiabilidad de fuentes y credibilidad de contenidos de la OTAN 🔴②.md",
-    "El pyproject.toml - todos los campos (incluso los menos conocidos)  ⚫①.md",
-    "2025-12-08.md",
-    "PublicBrain/2025-12-08.md",
-    "PublicBrain/¿Qué licencia debe tener MetsuDepManager? 🟡③.md",
-    "¿Qué licencia debe tener MetsuDepManager? 🟡③.md",
-    "PublicBrain/Index.md",
     "PublicBrain/CursoMetsuDepManager_003.mp4",
     "CursoMetsuDepManager_003.mp4",
     "PublicBrain/https_",

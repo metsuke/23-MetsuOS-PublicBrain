@@ -19,7 +19,7 @@ nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Noticias - El esperadísimo regreso de Micromanía: Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③
+eja# Noticias - El esperadísimo regreso de Micromanía: Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③
 
 ![Portada homenaje al esfuerzo editorial de Jose Luis Sanz](PublicBrain/_resources/982f1e9ffc73fd3ee957391ea685d9e4_MD5.jpg)
 

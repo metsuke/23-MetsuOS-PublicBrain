@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-12-12T05:18:15.195Z
+modified: 2025-12-20T11:19:56.667Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 235
+ver_rev: 236
 nav_primary:
 nav_secondary:
 tags:
@@ -37,6 +37,10 @@ MOS_TopImg_Video: PublicBrain.mp4
 * [[MicroTutorial - Grafx2 con modos spectrum ⚫①]]
 
 ### MiniQuests
+
+## Computación magnética
+
+* [[MiniQyest - Diseño de un Transistor con Bolas Magnéticas, Imanes y Estructuras Geométricas  🟡③]]
 
 #### Historia del Videojuego
 

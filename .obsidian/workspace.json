@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Historia de la Ciencia y del Método Científico 🟡③.md",
+                "file": "PublicBrain/MiniQyest - Diseño de un Transistor con Bolas Magnéticas, Imanes y Estructuras Geométricas  🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Historia de la Ciencia y del Método Científico 🟡③"
+              "title": "MiniQyest - Diseño de un Transistor con Bolas Magnéticas, Imanes y Estructuras Geométricas  🟡③"
             }
           },
           {
@@ -112,7 +112,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -218,8 +219,11 @@
   },
   "active": "517e06c09b6a9b2f",
   "lastOpenFiles": [
-    "PublicBrain/Definición de ciencia y método científico 🔴②.md",
+    "PublicBrain/Index.md",
+    "MiniQyest - Crear un transistor magnetico.md",
+    "PublicBrain/MiniQyest - Diseño de un Transistor con Bolas Magnéticas, Imanes y Estructuras Geométricas  🟡③.md",
     "PublicBrain/Historia de la Ciencia y del Método Científico 🟡③.md",
+    "PublicBrain/Definición de ciencia y método científico 🔴②.md",
     "PublicBrain/_resources/0360dec7a1fbeb6123d93d187206fad8_MD5.jpg",
     "PublicBrain/Kuhn, T. S. (1962. La estructura de las revoluciones científicas p. 10) 🔴②.md",
     "PublicBrain/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③.md",
@@ -251,8 +255,6 @@
     "PublicBrain/_resources/720e9f9275e079eeaf8290a3cfd84504_MD5.jpg",
     "d993b8f1-6fdd-49d5-af10-7e32ffa393a7.jpg",
     "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
-    "Noticias - Vielve Micromania - 2025-12-09 🟡③.md",
-    "PublicBrain/Cómo Poetry implementa los estándares PEP 517, 518, 621 y 660 🟡③.md",
     "PublicBrain/CursoMetsuDepManager_003.mp4",
     "CursoMetsuDepManager_003.mp4",
     "PublicBrain/https_",

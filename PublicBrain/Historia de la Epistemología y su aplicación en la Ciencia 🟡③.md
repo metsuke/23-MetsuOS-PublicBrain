@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-23T18:16:28.303Z
-modified: 2025-12-11T23:19:24.060Z
+modified: 2025-12-20T07:20:23.735Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary:
 nav_secondary:
 tags:
@@ -42,6 +42,22 @@ Te invito a un fascinante recorrido por la historia de la epistemología, desde 
 
 **Subtemas**:
 
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Definición y alcance de la epistemología](PublicBrain/_resources/58babb003b4558f46c71fbb763b49a66_MD5.jpg)
+
+## Definición y alcance de la epistemología
+
+En el marco de la _Historia de la Epistemología y su aplicación en la Ciencia_, la epistemología se erige como una disciplina filosófica esencial que examina la naturaleza, los orígenes y los límites del conocimiento humano. Su relevancia para la ciencia radica en su capacidad para ofrecer un marco crítico que permite comprender cómo se construye, valida y aplica el saber científico. Este análisis define la epistemología de manera accesible, describe sus características fundamentales y explora su amplio alcance, destacando su influencia en el desarrollo del pensamiento científico y su importancia en la investigación práctica.
+
+Continuar leyendo en ... [[Definición y alcance de la epistemología 🟡③]]
+
+ --- column-end ---
+ 
 1. [[Definición y alcance de la epistemología 🟡③]]
     - Diferencias y similitudes entre epistemología y gnoseología.
     - La epistemología como estudio del conocimiento científico.
@@ -52,6 +68,12 @@ Te invito a un fascinante recorrido por la historia de la epistemología, desde 
 3. **Enfoques epistemológicos**
     - Empirismo frente a racionalismo: orígenes y tensiones.
     - Introducción al método científico: observación, hipótesis y experimentación.
+    - 
+ --- column-end ---
+--- multi-column-end
+
+
+
 
 **Objetivos**:
 

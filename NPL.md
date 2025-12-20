@@ -1,5 +1,5 @@
 ---
-iaStatus: 1
+iaStatus: 8
 iaStatus_Model: Raul Carrillo aka Metsuke, Grok-4 para imagenes
 iaStatus_Generado: H
 iaStatus_Supervisado: "-"
@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-16T04:52:14.536Z
-modified: 2025-12-19T03:13:32.825Z
+modified: 2025-12-19T08:21:23.386Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -41,20 +41,20 @@ Derivado de lo anterior, mi percepción de que la ciencia debe computarse no deb
 
 ## Mi inexistente carrera científica, es una ventaja  ⚫①
 
-> Ojo, no estoy negando en modo alguno las evidentes virtudes y logros de la ciencia actual y, sin embargo, si creo que - muy al estilo Kuhn - el paradigma actual muestra claras muestras de agotamiento y que parece está ignorando fuertemente las - en mi opinión - evidentes señales de que algo no encaja con el paradigma actual y que es hora de evolucionarlo.  ⚫①
+> Ojo, no estoy negando en modo alguno las evidentes virtudes y logros de la ciencia actual y, sin embargo, si creo que - muy al estilo Kuhn - el paradigma actual da claras muestras de agotamiento y que parece está ignorando fuertemente las - en mi opinión - evidentes señales de que algo no encaja con como se lleva a la práctica actualmente y que es hora de evolucionarlo.  ⚫①
 
 Veremos si estoy en lo cierto y logro falsar las partes que creo no funcionan de como se hace ciencia hoy dia y, en especial, como los conocimientos supuestamente adquiridos van destinados a engordar curriculumns - de nuevo en mi opnión - mal calculados por generar incentivos directamente contrarios al avance del conocimiento y poniendolo en manos de unos actores ideológicos y/o económicos mas orientados en frenar el avance para exprimir la vaca esférica, que en permitir avanzar a la humanidad  ⚫①
 
-Debido a todo ello, el hecho de que todo esto surja primordialmente para aprender si estoy en lo cierto o no y en su caso proponer una metodología que mejore la situacion, y mi inexistente carrera científica, constituyen una ventaja absoluta, pues nada debo a nadie mas que a mi propia busqueda de conocimiento lo cual, a mi modo de ver, es precisamente lo que deberia definir la ciencia y sus aplicaciones.  ⚫①
+Debido a todo ello, el hecho de que todo esto surja primordialmente para aprender si estoy en lo cierto o no y en su caso proponer una metodología que mejore la situacion, y mi inexistente carrera científica, constituyen una ventaja absoluta, pues nada debo a nadie mas que a mi propia búsqueda de conocimiento lo cual, a mi modo de ver, es precisamente lo que deberia definir la ciencia y en buena medida, guiar sus aplicaciones.  ⚫①
 
-Por ahora, lo unico que existe de mi como futuro aprendiz de estudiante de científico, resulta ser [mi identificador ORCID 🟡③🌐](https://orcid.org/0000-0003-3054-6584), y - salvo que lo que apprenda me lleve a concluior que no debe ser así - lugar donde habrá acceso a lo que llegue a publicar oficialmente  ⚫①
+Por ahora, lo unico que existe de mi como futuro aprendiz de estudiante de científico, resulta ser [mi identificador ORCID 🟡③🌐](https://orcid.org/0000-0003-3054-6584), y - salvo que lo que aprenda me lleve a concluior que no debe ser así - lugar donde habrá acceso a lo que llegue a publicar oficialmente  ⚫①
 ## Perfilando el problema  ⚫①
 
 Creo que el metodo que se está empleando para divulgar es mas cercano a la religión, atacando al """hereje""" que a una metodología seria y consciente de sus limitaciones para buscar la mejor verdad posible, la actitud soberbia de la comunidad y las barreras economicas al conocimiento adquirido alejan aún más la ciencia y sus consecuencias del avance humano hacia el conocimiento  ⚫①
 
-En su lugar lo convierten en una suerte de religión politeista difusa en manos de un aparato clerical con pasta como para pagar papers a decenas y, del mismo modo que las patentes, lejos de limitarse a formentar el conocimiento publico, blindan el abuso privado  ⚫①
+En su lugar lo convierten en una suerte de religión politeista difusa en manos de un aparato clerical con pasta como para pagar papers a decenas y, del mismo modo que las patentes, lejos de limitarse a formentar el conocimiento público, blindan el abuso privado  ⚫①
 
-Ante de un stablishment mas preocupado de hacer pasta aprovechando la ignorancia ajena para venderles soluciones fáciles que en fomentar el conocimiento general, y poniendo a aquel que discreppa directamente en la picoita, que se lo digan a Galileo, creo que la ciencia está sumándose - quizá de forma no consciente - a las filas del fanatismo ideológico, agravando el problema - el del pensamiento único - que en parte nació para solventar  ⚫①
+Ante un stablishment mas preocupado de hacer pasta aprovechando la ignorancia ajena para venderles soluciones fáciles, que en fomentar el conocimiento general, y poniendo a aquel que discrepa directamente en la picoita - que se lo digan a Galileo - creo que la ciencia está sumándose - quizá de forma no consciente - a las filas del fanatismo ideológico, agravando el problema - el del pensamiento único - que en parte nació para solventar  ⚫①
 
 La nube probabilistica de intuiciones, ideas y conceptos, empezó a colapsar en este proyecto de paper (o conjunto de ellos), de forma algo indirecta, [buscando un nombre para lo que llamaré por ahora "verdad prospectiva"  🟡③🌐](https://x.com/metsuke/status/1999381526258094444?s=20), me pidieron aclaración y traté de [explicar el conceppto en forma de hilo turra 🟡③🌐](https://x.com/metsuke/status/1999532856117256417?s=20)  ⚫①
 

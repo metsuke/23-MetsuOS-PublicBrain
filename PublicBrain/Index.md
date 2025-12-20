@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-12-20T11:19:56.667Z
+modified: 2025-12-20T19:08:27.384Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 236
+ver_rev: 237
 nav_primary:
 nav_secondary:
 tags:
@@ -38,9 +38,10 @@ MOS_TopImg_Video: PublicBrain.mp4
 
 ### MiniQuests
 
-## Computación magnética
+## Computación Mecánica
 
-* [[MiniQyest - Diseño de un Transistor con Bolas Magnéticas, Imanes y Estructuras Geométricas  🟡③]]
+* [[MiniQuest - Diseño de un Transistor con Bolas Magnéticas, Imanes y Estructuras Geométricas  🟡③]]
+* [[MiniQuest - Computación Cuántica con Sistemas Mecánicos - ¿Posible a Escala Suficiente?  🟡③]]
 
 #### Historia del Videojuego
 

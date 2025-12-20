@@ -1,22 +1,25 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Grok-4, Raul Carrillo aka Metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-12-20T11:20:34.760Z
-modified: 2025-12-20T13:34:42.701Z
+modified: 2025-12-20T19:09:11.683Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 2
+ver_minor: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# MiniQyest - Diseño de un Transistor con Bolas Magnéticas, Imanes y Estructuras Geométricas  🟡③
+# MiniQuest - Diseño de un Transistor con Bolas Magnéticas, Imanes y Estructuras Geométricas  🟡③
 
 Aunque un transistor real es un componente electrónico basado en semiconductores, aquí vamos a construir una versión análoga mecánica-magnética que actúe como un interruptor controlado o amplificador de "señales". Estas señales serán bolas que se mueven, representando bits lógicos (por ejemplo, una bola es un "1" y su ausencia un "0"). No será tan rápido ni pequeño como uno electrónico, pero es perfecto para experimentar y aprender. Empecemos por lo básico y luego pensamos en cómo conectar varios para algo más complejo, como puertas lógicas o un procesador simple. Te lo explico paso a paso, como si estuviéramos charlando en un taller.
 
@@ -45,7 +48,7 @@ Con esto, puedes armar algo en una tarde y probarlo.
 Vamos a crear un transistor básico que funcione como un interruptor: una bola de "control" (la base) permite o bloquea el paso de bolas "señal" (del emisor al colector). Piensa en ello como una bifurcación donde el magnetismo decide el camino.
 
 ### Paso a Paso para Construirlo
-1. **Arma la Estructura Base**: Haz un canal en forma de Y (una bifurcación). El tallo superior es la entrada (donde caen las bolas señal), una rama va a la salida "ON" (donde quieres que lleguen si el transistor está activado) y la otra a "OFF" (un desecho o retorno). Inclínalo unos 20-30 grados para que las bolas rueden por gravedad. El largo total puede ser de 30-50 cm para empezar.
+1. **Arma la Estructura Base**: "H"az un canal en forma de Y (una bifurcación). El tallo superior es la entrada (donde caen las bolas señal), una rama va a la salida "ON" (donde quieres que lleguen si el transistor está activado) y la otra a "OFF" (un desecho o retorno). Inclínalo unos 20-30 grados para que las bolas rueden por gravedad. El largo total puede ser de 30-50 cm para empezar.
    
 2. **Añade el Control Magnético**: Pon un imán fijo en la bifurcación que repele las bolas hacia "OFF" por defecto (transistor apagado). Para activarlo, usa una bola de control que se acerque y cambie el campo (por ejemplo, atrayendo la bola señal hacia "ON"). Puedes montar el imán de control en un pivote o deslizador que se mueva cuando llegue la bola base.
 

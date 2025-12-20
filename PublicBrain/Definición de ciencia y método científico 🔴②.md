@@ -7,19 +7,22 @@ iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-04-06T21:24:16.966Z
-modified: 2025-12-03T19:16:43.506Z
+modified: 2025-12-20T07:40:55.008Z
 supervisado: ""
 ACCION: ""
 ver_major: "0"
 ver_minor: 3
-ver_rev: 6
-nav_primary: 
-nav_secondary: 
+ver_rev: 7
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: CienciaMetodoCientifico_001.mp4
 ---
 # Definición de ciencia y método científico 🔴②
+
+![Definición de ciencia y método científico](PublicBrain/_resources/0360dec7a1fbeb6123d93d187206fad8_MD5.jpg)
 
 [[Historia de la Ciencia y del Método Científico 🟡③]]
 
@@ -87,33 +90,21 @@ La ciencia es nuestra forma de descifrar el mundo, y el método científico es c
 
 ### Fuentes que apoyan la definición y el método
 
-- **Aristóteles. (siglo IV a.C.). *Física*. Traducción de G. R. G. Mure.**  
-  - Libro II, p. 194b: La ciencia como observación y búsqueda de causas lógicas.
-- **Aristóteles. (siglo IV a.C.). *Analíticos Posteriores*. Traducción de J. Barnes.**  
-  - Libro I, p. 71b: La deducción como base del conocimiento temprano.
-- **Bacon, F. (1620). *Novum Organum*. Londres: John Bill.**  
-  - Libro I, Aphorism XIX, p. 36: El método como ciclo de observación y experimentos.
-- **Descartes, R. (1637). *Discurso del método*. Leiden: Jan Maire.**  
-  - Página 21: La duda y las matemáticas como pilares del método.
-- **Newton, I. (1687). *Philosophiæ Naturalis Principia Mathematica*. Londres: Royal Society.** - Página 13: \( F = ma \) como ejemplo de ciencia basada en experimentos y cálculos.
-- [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
-  - Página 39: Ciencia como teorías que se pueden refutar.  
-  - Página 41: El método como prueba y error.
-- **Drake, S. (1978). *Galileo at Work*. Chicago: University of Chicago Press.**  
-  - Páginas 67-68: Experimentos de Galileo que definieron la ciencia moderna.
-- **Sabra, A. I. (1989). *The Optics of Ibn al-Haytham*. Londres: Warburg Institute.**  
-  - Página 65: Alhacén y los experimentos ópticos como paso clave.
+1. **Aristóteles. (siglo IV a.C.). *Física*. Traducción de G. R. G. Mure.** 🟡③🌐 .- Obra fundamental de Aristóteles sobre la filosofía natural, que trata el movimiento, el cambio y las causas. (enlace de referencia no disponible)
+2. **Aristóteles. (siglo IV a.C.). *Analíticos Posteriores*. Traducción de J. Barnes.** 🟡③🌐 .- Tratado sobre la lógica deductiva y la demostración científica como base del conocimiento. (enlace de referencia no disponible)
+3. **Bacon, F. (1620). *Novum Organum*. Londres: John Bill.** 🟡③🌐 .- Obra clave que propone el método inductivo experimental para la interpretación de la naturaleza. (enlace de referencia no disponible)
+4. **Descartes, R. (1637). *Discurso del método*. Leiden: Jan Maire.** 🟡③🌐 .- Texto filosófico donde Descartes presenta su método de duda sistemática y razonamiento matemático. (enlace de referencia no disponible)
+5. **Newton, I. (1687). *Philosophiæ Naturalis Principia Mathematica*. Londres: Royal Society.** 🟡③🌐 .- Obra fundacional de la física clásica con leyes del movimiento y gravitación universal. (enlace de referencia no disponible)
+6. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]] .- Obra que define la ciencia como conjunto de teorías falsables y refutables.
+7. **Drake, S. (1978). *Galileo at Work*. Chicago: University of Chicago Press.** 🟡③🌐 .- Biografía científica detallada de Galileo, enfocada en sus experimentos y contribuciones. (enlace de referencia no disponible)
+8. **Sabra, A. I. (1989). *The Optics of Ibn al-Haytham*. Londres: Warburg Institute.** 🟡③🌐 .- Edición y traducción de la óptica de Alhacén, con énfasis en experimentos y visión directa. (enlace de referencia no disponible)
 
 ### Fuentes que matizan o cuestionan
 
-- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
-  - [[Kuhn, T. S. (1962. La estructura de las revoluciones científicas p. 10) 🔴②]]: La ciencia avanza por paradigmas, no solo por el método.  
-  - Página 111: Revoluciones que rompen la linealidad.
-- **Feyerabend, P. (1975). *Against Method*. Londres: NLB.**  
-  - Página 23: No hay un método único; la ciencia a veces es caos creativo.
-- **Comte, A. (1830). *Curso de filosofía positiva*. París: Bachelier.**  
-  - Página 25: El positivismo exalta el método, pero ignora otras formas de saber.
-- **Grant, E. (1996). *The Foundations of Modern Science in the Middle Ages*. Cambridge: Cambridge University Press.**  
-  - Página 45: La religión medieval frenó el desarrollo del método.
+1. [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③]] .- Obra seminal de Thomas Kuhn sobre el progreso científico a través de cambios de paradigmas.
+2. [[Kuhn, T. S. (1962. La estructura de las revoluciones científicas p. 10) 🔴②]] .- Edición en español de la obra de Kuhn, donde se discute la naturaleza paradigmática de la ciencia.
+3. **Feyerabend, P. (1975). *Against Method*. Londres: NLB.** 🟡③🌐 .- Libro que critica la idea de un método científico universal y defiende el "anything goes" en la ciencia. (enlace de referencia no disponible)
+4. **Comte, A. (1830). *Curso de filosofía positiva*. París: Bachelier.** 🟡③🌐 .- Obra fundacional del positivismo que establece las etapas del conocimiento humano y el método positivo. (enlace de referencia no disponible)
+5. **Grant, E. (1996). *The Foundations of Modern Science in the Middle Ages*. Cambridge: Cambridge University Press.** 🟡③🌐 .- Estudio que muestra cómo la tradición medieval sentó las bases para la ciencia moderna. (enlace de referencia no disponible)
 
 ![[Plantilla - 1MT#One More Thing]]

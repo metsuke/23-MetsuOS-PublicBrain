@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-03-29T22:03:57.697Z
-modified: 2025-12-12T04:54:11.869Z
+modified: 2025-12-20T07:55:00.098Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 13
+ver_rev: 14
 nav_primary:
 nav_secondary:
 tags:
@@ -34,9 +34,27 @@ La historia de la ciencia es fundamental porque nos proporciona el contexto nece
 
 ## Contexto y Definición
 
-* [[Definición de ciencia y método científico 🔴②]]
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+![Definición de ciencia y método científico](PublicBrain/_resources/0360dec7a1fbeb6123d93d187206fad8_MD5.jpg)
+## Definición de ciencia y método científico
+
+¿Te has preguntado alguna vez qué es realmente la ciencia o cómo sabemos que lo que nos cuenta es verdad? No estás solo: desde que los primeros curiosos miraron las estrellas o se preguntaron por qué una manzana cae del árbol, la humanidad ha buscado respuestas. 
+
+Vamos a embarcarnos en un viaje por la historia para descubrir qué significa "ciencia" y cómo el método científico se convirtió en su compañero inseparable. No es solo un montón de datos fríos ni un libro de reglas para genios en bata blanca; es una aventura humana, llena de preguntas, pruebas y sorpresas, que ha transformado cómo vemos el mundo. ¿Listo para explorar cómo llegamos hasta aquí?
+
+Continuar leyendo en ... [[Definición de ciencia y método científico 🔴②]]
+
+ --- column-end ---
+
 * [[Conceptos básicos sobre ciencia y su evolución histórica 🔴②]]
 * [[Distinción entre ciencia, tecnología y otras formas de la c conocimiento  🔴②]]
+
+ --- column-end ---
+--- multi-column-end
 
 ## Orígenes de la Ciencia
 

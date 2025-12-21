@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-16T04:52:14.536Z
-modified: 2025-12-19T08:21:23.386Z
+modified: 2025-12-21T21:09:52.299Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -105,6 +105,28 @@ Continuar leyendo en ... [[Historia de la Ciencia y del Método Científico 🟡
 
  --- column-end ---
 --- multi-column-end
+
+## Estudio de Autores
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Estudiando la obra de Imre Lakatos](PublicBrain/_resources/2783280c365b4a3ee103b7baa7894998_MD5.jpg)
+## Estudio Autor: Lakatos, Imre
+
+Imre Lakatos (1922-1974) es una figura clave en la filosofía de la ciencia y las matemáticas, célebre por su **Metodología de los Programas de Investigación Científica (MPIC)** y su obra _Proofs and Refutations_. Estas contribuciones transformaron nuestra comprensión del progreso científico y el descubrimiento matemático. Esta guía ofrece un itinerario detallado y estructurado para explorar su vida, ideas y legado, incluyendo una bibliografía exhaustiva que abarca publicaciones indexadas y no indexadas. Dirigida a estudiantes, investigadores y académicos, esta herramienta busca facilitar un estudio profundo y sistemático del pensamiento de Lakatos.
+
+ Continuar leyendo en ... [[Estudio Autor - Imre Lakatos 🟡③]]
+ 
+ --- column-end ---
+
+
+ --- column-end ---
+--- multi-column-end
+
 
 ### Algunos elementos adicionales  ⚫①
 

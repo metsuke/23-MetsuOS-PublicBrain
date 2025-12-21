@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-09T16:06:48.879Z
-modified: 2025-12-20T05:24:32.240Z
+modified: 2025-12-21T07:01:42.954Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 17
+ver_rev: 18
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-eja# Noticias - El esperadísimo regreso de Micromanía: Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③
+# Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③
 
 ![Portada homenaje al esfuerzo editorial de Jose Luis Sanz](PublicBrain/_resources/982f1e9ffc73fd3ee957391ea685d9e4_MD5.jpg)
 

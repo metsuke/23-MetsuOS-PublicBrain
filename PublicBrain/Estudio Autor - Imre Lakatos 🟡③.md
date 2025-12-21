@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-20T14:28:53.926Z
-modified: 2025-12-03T19:41:26.176Z
+modified: 2025-12-21T20:59:26.433Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary:
 nav_secondary:
 tags:
 MOS_TopImg_Video: ImreLakatos_000.mp4
 ---
-# Estudiar Autor - Imre Lakatos 🟡③
+# Estudio Autor - Imre Lakatos 🟡③
 
 ![Estudiando la obra de Imre Lakatos](PublicBrain/_resources/2783280c365b4a3ee103b7baa7894998_MD5.jpg)
 
@@ -318,13 +318,10 @@ Estudiar a Imre Lakatos es una aventura intelectual que combina filosofía, hist
 
 ### 7.1. Fuentes que Apoyan el Contenido
 
-> WIP Revisando Fuentes
-
 1. [Hacking, I. (1979). “Imre Lakatos’s Philosophy of Science”. _British Journal for the Philosophy of Science_, 30(4), 381-402 🟡③🌐](https://academic.oup.com/bjps/article-abstract/30/4/381/1569441) .- Apoya la relevancia de la MPIC como un avance sobre el falsacionismo de Popper, destacando su capacidad para explicar el progreso científico.
-2. [Musgrave, A. (1976). “Method or Madness?”. En _Method and Appraisal in the Physical Sciences_ (ed. Lakatos y Latsis). Cambridge University Press 🌐🟡③](https://link.springer.com/chapter/10.1007/978-94-010-1451-9_27) .- Defiende la MPIC como un marco racional para evaluar programas científicos, alineándose con el enfoque de Lakatos.
+2. [Musgrave, A. (1976). “Method or Madness?”. En _Method and Appraisal in the Physical Sciences_ (ed. Lakatos y Latsis). Cambridge University Press 🟡③🌐](https://link.springer.com/chapter/10.1007/978-94-010-1451-9_27) .- Defiende la MPIC como un marco racional para evaluar programas científicos, alineándose con el enfoque de Lakatos.
 3. [Worrall, J. (2002). “Lakatos’s Philosophy of Science”. En _Appraising Lakatos_ (ed. Kampis et al.). Kluwer Academic Publishers 🟡③🌐](https://link.springer.com/book/9789401707695) .- Resalta la importancia de _Proofs and Refutations_ para la filosofía de las matemáticas y su enfoque quasi-empírico, explorando la intersección de vida y filosofía de Lakatos en el contexto de la filosofía de la ciencia del siglo XX.
 4. [Larvor, B. (1998). Lakatos: An Introduction. Routledge 🟡③🌐](https://www.routledge.com/Lakatos-An-Introduction/Larvor/p/book/9780415142762) .- Proporciona una visión accesible de la vida y obra de Lakatos, respaldando la estructura biográfica y filosófica de esta guía, cubriendo su carácter, Proofs and Refutations (dialectics, formalism, Hegel, fallibilism), el debate Popper-Kuhn, metodología de programas de investigación científica, política de la razón y legado.
-
 ### 7.2. Fuentes que Refutan o Matizan el Contenido
 
 1. [**Feyerabend, P. (1975). Against Method. New Left Books.** 🟡③🌐](https://monoskop.org/images/7/7e/Feyerabend_Paul_Against_Method.pdf) .- Critica la insistencia de Lakatos en criterios racionales como progresión de contenido empírico y evitación de hipótesis ad hoc, argumentando que la ciencia avanza anárquicamente mediante proliferación de teorías incompatibles, counterinducción, propaganda, intuición y violaciones de normas, fomentando innovación en lugar de uniformidad racional.

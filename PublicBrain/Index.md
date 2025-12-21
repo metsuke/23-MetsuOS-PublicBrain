@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-12-20T19:08:27.384Z
+modified: 2025-12-21T20:58:56.674Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 237
+ver_rev: 238
 nav_primary:
 nav_secondary:
 tags:
@@ -129,7 +129,7 @@ MOS_TopImg_Video: PublicBrain.mp4
 
 ### Autores
 
-* [[Estudiar Autor - Imre Lakatos 🟡③]]
+* [[Estudio Autor - Imre Lakatos 🟡③]]
 
 ### Bibliografía
 

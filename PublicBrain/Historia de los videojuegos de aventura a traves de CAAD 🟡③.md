@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-10-24T18:50:16.130Z
-modified: 2025-12-12T05:18:14.099Z
+modified: 2025-12-21T06:34:50.245Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -30,12 +30,31 @@ MOS_TopImg_Video: HistoriaVideojuegosAventuraCAAD.mp4
 
 En las profundidades de la era dorada del software español, cuando los ordenadores de 8 bits parpadeaban con promesas de mundos imposibles, nació un fanzine que no solo documentó, sino que *tejió* la historia viva de los videojuegos de aventura: **CAAD**. Desde su primer número en 1989 hasta la Tercera Edad digital de 2025, este boletín epistolar, luego foro y ahora archivo interactivo, no es un mero repositorio de soluciones y reseñas: es el **diario de bitácora de una generación** que convirtió la imaginación en código, el parser en poesía y la comunidad en resistencia cultural. Este curso no estudia la aventura —la *vive* a través de sus páginas—, desgranando número por número la evolución de un género que, contra todo pronóstico, sigue desafiando al tiempo.
 
-## Módulo 0: Introducción (1 sesión)
+## Módulo 0: Introducción
+
 - **Objetivos**: Contextualizar CAAD en la historia de las aventuras conversacionales y gráficas.
-- **Contenidos**:
-  - Orígenes globales: Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987).
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Orígenes globales - Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987)](PublicBrain/_resources/940426f51d2145820a2e64192a419da8_MD5.jpg)
+## Orígenes globales: Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987).
+
+Imagina que estás explorando una cueva oscura, solo guiado por tus comandos de texto, donde cada decisión puede llevarte a un tesoro o a un final prematuro. Así nació el género de las aventuras conversacionales, un viaje que empezó en los mainframes universitarios de Estados Unidos y llegó hasta los ZX Spectrum españoles. En el marco del curso sobre la **historia de los videojuegos de aventura a través de CAAD** (Club de Aventuras AD), este módulo introductorio (Módulo 0) nos sumerge en los cimientos globales del género. 
+
+Continuar leyendo en ... [[Orígenes globales - Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987) 🟡③]]
+
+ --- column-end ---
+
   - CAAD como archivo vivo: fanzine epistolar (1988-1998) → boletines digitales → Tercera Edad (2019-).
   - Metodología: análisis cronológico por números de CAAD.
+
+ --- column-end ---
+--- multi-column-end
+
 - **Lecturas**: Editorial CAAD 50 (conmemorativo).
 
 

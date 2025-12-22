@@ -1,28 +1,31 @@
 ---
 iaStatus: 8
 iaStatus_Model: Grok-3
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-04-17T14:00:48.507Z
-modified: 2025-12-03T20:41:42.903Z
+modified: 2025-12-22T01:46:45.529Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
-nav_primary: 
-nav_secondary: 
+ver_rev: 4
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: JorgeSepulcre.mp4
 ---
 # Aprender con Jorge Sepulcre 🟡③
 
-[[Aprender con 🔴②]] | [[Aprender con Q-Z ⚫①]]
+![Jorge Sepulcre](PublicBrain/_resources/74b78e3804208a043b23c5c342066c2f_MD5.jpg)
 
+* [[Aprender con 🔴②]]
+* [[Aprender con Q-Z ⚫①]]
 
 Esta guía ofrece un marco estructurado y exhaustivo para explorar la trayectoria, contribuciones científicas y relevancia de Jorge Sepulcre, un destacado neurocientífico especializado en conectómica, redes cerebrales y enfermedades neurodegenerativas. Dirigida a estudiantes, investigadores y profesionales interesados en neurociencia, la guía se organiza en secciones temáticas que abordan su formación, investigaciones, impacto académico y contexto científico. Cada apartado incluye subtemas específicos y sugerencias prácticas para un análisis riguroso, con el objetivo de proporcionar una hoja de ruta clara para comprender su aportación al estudio del cerebro humano. Al final, se incluye una bibliografía completa de sus publicaciones, tanto indexadas como no indexadas, recopilada de fuentes verificadas hasta abril de 2025.
 

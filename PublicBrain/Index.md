@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-12-21T20:58:56.674Z
+modified: 2025-12-22T01:44:24.823Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 238
+ver_rev: 239
 nav_primary:
 nav_secondary:
 tags:
@@ -133,6 +133,9 @@ MOS_TopImg_Video: PublicBrain.mp4
 
 ### Bibliografía
 
+### Autores
+
+* [[Aprender con 🔴②]]
 #### Libros
 
 * [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
@@ -180,7 +183,6 @@ WIP
 * [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③]]
 * [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③]]
 * [[Noticias - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🟡③]]
-
 ### Social
 
 * [Metsuke - Cuenta de GitHub  🌐](https://github.com/metsuke)

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:48:58.508Z
-modified: 2025-12-03T20:12:52.499Z
+modified: 2025-12-22T01:45:27.430Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 67
+ver_rev: 68
 nav_primary: 
 nav_secondary: 
 tags:
@@ -36,19 +36,34 @@ tags:
 - Ruiz Martín, Hector: [[Aprender con Hector Ruiz Martín 🔴②]]
  ---
 ## S
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+## Aprender con: Sepulcre, Jorge
+
+ Continuar leyendo en ...  [[Aprender con Jorge Sepulcre 🟡③]]
+
+ --- column-end ---
+
 * Saavedra, David: Aprender con David Saavedra    
 - Sabat, Uri: Aprender con Uri Sabat    
 - Sáenz de Cabezño, Eduardo: Aprender con Eduardo Sáenz de Cabezón    
 - Sánchez Aguilar, Joaquin: Aprender con Joaquín Sánchez Aguilar    
 - Sánchez García, Jose Juan: Aprender con José Juan Sánchez García    
 - Sanz, Gerardo: Aprender con Gerardo Sanz    
-- * **Sepulcre, Jorge**: [[Aprender con Jorge Sepulcre 🟡③]]
 - Shakespeare, William: Aprender con William Shakespeare    
 - Shelley, Mary: Aprender con Mary Shelley    
 - Sistiaga, Jon: Aprender con Jon Sistiaga    
 - Sócrates: Aprender con Sócrates    
 - Sófocles: Aprender con Sófocles    
 - Soto Ivars, Juan: Aprender con Juan Soto Ivars
+
+ --- column-end ---
+--- multi-column-end
 
 
 ---

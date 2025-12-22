@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-12-19T19:13:50.568Z
-modified: 2025-12-03T19:45:14.230Z
+modified: 2025-12-22T02:06:36.142Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags: 
@@ -22,7 +22,7 @@ refb: k
 ---
 # Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③
 
-![[PublicBrain/_resources/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③/1cce944bd702c42ec65cc793524ecb04_MD5.jpeg]]
+![[PublicBrain/_resources/1cce944bd702c42ec65cc793524ecb04_MD5.jpeg]]
 
 * [[PublicBrain/Index|Index]]
 	* [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]
@@ -150,28 +150,22 @@ _La estructura de las revoluciones científicas_ propone una visión renovada de
 
 ### Referencias que apoyan el contenido
 
-- **Feyerabend, P. (1975). _Contra el método_. Madrid: Taurus.**  
-    Explora ideas afines al relativismo metodológico, respaldando la crítica de Kuhn a los modelos positivistas.
-- **Bird, A. (2000). _Thomas Kuhn_. Princeton: Princeton University Press.**  
-    Ofrece un análisis detallado del legado de Kuhn, destacando su impacto en la filosofía de la ciencia.
-- **Hacking, I. (2012). Introducción a _The Structure of Scientific Revolutions_ (50th Anniversary Edition). Chicago: University of Chicago Press.**  
-    Contextualiza y defiende la relevancia contemporánea de la obra de Kuhn.
+1. **Feyerabend, P. (1975). _Contra el método_. Madrid: Taurus.** 🟡③🌐 .- Explora ideas afines al relativismo metodológico, respaldando la crítica de Kuhn a los modelos positivistas. (enlace de referencia no disponible)
+2. [**Bird, A. (2000). _Thomas Kuhn_. Princeton: Princeton University Press.** 🟡③🌐](https://press.princeton.edu/books/paperback/9780691057101/thomas-kuhn) .- Ofrece un análisis detallado del legado de Kuhn, destacando su impacto en la filosofía de la ciencia.
+3. [**Hacking, I. (2012). Introducción a _The Structure of Scientific Revolutions_ (50th Anniversary Edition). Chicago: University of Chicago Press.** 🟡③🌐](https://press.uchicago.edu/ucp/books/book/chicago/S/bo13179781.html) .- Contextualiza y defiende la relevancia contemporánea de la obra de Kuhn.
 
 ### Referencias que refutan o critican el contenido
 
-- [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
-    Defiende el falsacionismo y critica enfoques que, como el de Kuhn, cuestionan la objetividad científica.
-- **Lakatos, I. (1970). "Falsificación y la metodología de los programas de investigación científica". En I. Lakatos y A. Musgrave (Eds.), _La crítica y el desarrollo del conocimiento_ (pp. 1-59). Madrid: Grijalbo.**  
-    Propone un modelo alternativo al de Kuhn, criticando la inconmensurabilidad y el relativismo.
-- **Masterman, M. (1970). "The Nature of a Paradigm". En I. Lakatos y A. Musgrave (Eds.), _La crítica y el desarrollo del conocimiento_ (pp. 59-89). Madrid: Grijalbo.**  
-    Analiza la ambigüedad del término "paradigma" en la obra de Kuhn.
+1. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]] .- Defiende el falsacionismo y critica enfoques que, como el de Kuhn, cuestionan la objetividad científica.
+2. **Lakatos, I. (1970). "Falsificación y la metodología de los programas de investigación científica". En I. Lakatos y A. Musgrave (Eds.), _La crítica y el desarrollo del conocimiento_ (pp. 1-59). Madrid: Grijalbo.** 🟡③🌐 .- Propone un modelo alternativo al de Kuhn, criticando la inconmensurabilidad y el relativismo. (enlace de referencia no disponible)
+3. **Masterman, M. (1970). "The Nature of a Paradigm". En I. Lakatos y A. Musgrave (Eds.), _La crítica y el desarrollo del conocimiento_ (pp. 59-89). Madrid: Grijalbo.** 🟡③🌐 .- Analiza la ambigüedad del término "paradigma" en la obra de Kuhn. (enlace de referencia no disponible)
 
 ## 11. Recomendaciones de Lectura Complementaria
 
-- [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]: Contrasta el falsacionismo con el modelo de Kuhn.
-- _Contra el método_ (Paul Feyerabend, 1975): Profundiza en el relativismo metodológico.
-- _The Philosophy of Science_ (Richard Boyd, Ed., 1991): Recopila ensayos sobre el impacto de Kuhn.
-- _Thomas Kuhn_ (Alexander Bird, 2000): Análisis crítico de su obra y legado.
+1. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]] .- Contrasta el falsacionismo con el modelo de Kuhn.
+2. [_Contra el método_ (Paul Feyerabend, 1975) 🟡③🌐](https://monoskop.org/images/3/3f/Feyerabend_Paul_Tratado_contra_el_metodo.pdf) .- Profundiza en el relativismo metodológico.
+3. [_The Philosophy of Science_ (Richard Boyd, Ed., 1991) 🟡③🌐](https://mitpress.mit.edu/9780262521567/the-philosophy-of-science/) .- Recopila ensayos sobre el impacto de Kuhn.
+4. [_Thomas Kuhn_ (Alexander Bird, 2000) 🟡③🌐](https://press.princeton.edu/books/paperback/9780691057101/thomas-kuhn) .- Análisis crítico de su obra y legado.
 
 ## 12. Notas Finales
 

@@ -1,6 +1,6 @@
 ---
 iaStatus: 8
-iaStatus_Generado: H
+iaStatus_Generado: )
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 iaStatus_Model: Grok-4, Raul Carrillo aka Metsuke
@@ -9,19 +9,20 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:49:00.917Z
-modified: 2025-12-03T20:21:16.958Z
+modified: 2025-12-22T01:37:35.697Z
 supervisado: 2024-05-27T13:38:08.204Z
 ACCION:
 ver_major: 0
 ver_minor: 4
-ver_rev: 90
+ver_rev: 91
 nav_primary:
 nav_secondary:
 tags:
 ---
 # Visión del CPS de Javier G. Recuenco 🔴②
 
-[[Aprender con Javier G. Recuenco 🔴②]] | [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
+* [[Aprender con Javier G. Recuenco 🔴②]] 
+* [[Aprender sobre CPS (Complex Problem Solving) ⚫①]]
 
 Esta guía ofrece un itinerario claro y accesible para explorar la visión de Javier G. Recuenco sobre el _Complex Problem Solving_ (CPS), un enfoque innovador que aborda problemas complejos mediante la integración de personotecnia, tecnología, filosofía estoica y estrategias colaborativas. Pensada para estudiantes, investigadores y profesionales, está estructurada en secciones temáticas que cubren los fundamentos teóricos, las aplicaciones prácticas, el contexto cultural y las posibles críticas. Cada apartado incluye subtemas específicos y sugerencias prácticas para un análisis profundo, con el objetivo de facilitar una comprensión completa de esta metodología transformadora.
 

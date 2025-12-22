@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-12-22T01:44:24.823Z
+modified: 2025-12-22T05:02:57.735Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 239
+ver_rev: 240
 nav_primary:
 nav_secondary:
 tags:
@@ -129,13 +129,11 @@ MOS_TopImg_Video: PublicBrain.mp4
 
 ### Autores
 
+* [[Aprender con 🔴②]]
 * [[Estudio Autor - Imre Lakatos 🟡③]]
 
 ### Bibliografía
 
-### Autores
-
-* [[Aprender con 🔴②]]
 #### Libros
 
 * [[Estudiar libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🔴②]]

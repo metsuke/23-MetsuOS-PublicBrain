@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-10T00:52:13.075Z
-modified: 2025-12-11T23:13:57.135Z
+modified: 2025-12-22T05:00:12.498Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 9
 nav_primary: 
 nav_secondary: 
 tags:
@@ -39,6 +39,8 @@ Esta cabecera está inspirada en Another World, y asociada al diseño del proyec
 Celebrando este dia desde 2008
 
 ![Header Dia Mundial del Videojuego](PublicBrain/_resources/d2a885d88805ad9f6ae23a425f852dd5_MD5.jpeg)
+
+* 29/08 .- Dia Mundial del Videojuego (2008-)
 
 ## Lanzamiento de Microhobby 218
 

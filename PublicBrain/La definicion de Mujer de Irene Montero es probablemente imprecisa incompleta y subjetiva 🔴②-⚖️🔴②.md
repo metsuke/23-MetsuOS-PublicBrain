@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-01T11:43:02.342Z
-modified: 2025-04-06T22:07:45.014Z
+modified: 2025-12-22T01:27:11.219Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
@@ -99,23 +99,16 @@ Este análisis busca ser justo, claro y útil, con datos de verdad.
 
 ### Fuentes que apoyan la afirmación
 
-- **INE (2024). *Encuesta de Población Activa y Estadísticas de Género*.** Madrid: Instituto Nacional de Estadística.  
-  Información sobre brecha salarial y violencia en España.
-- **ONU Mujeres (2023). *Facts and Figures: Ending Violence against Women*.** Disponible en: [https://www.unwomen.org/](https://www.unwomen.org/).  
-  Estadísticas globales sobre violencia contra las mujeres.
-- **Walby, S. (1990). *Theorizing Patriarchy*.** Oxford: Blackwell.  
-  Teoría sobre el patriarcado y la desigualdad.
+1. [INE (2024). *Encuesta de Población Activa y Estadísticas de Género*.** Madrid: Instituto Nacional de Estadística. 🟡③🌐](https://www.mites.gob.es/ficheros/ministerio/sec_trabajo/analisis_mercado_trabajo/EPA/2024/Cuarto_trimestre/EPA-2024-T4-MITES-SGEAS.pdf) .- Información sobre brecha salarial y violencia en España.
+2. [**ONU Mujeres (2023). *Facts and Figures: Ending Violence against Women*.** Disponible en: [https://www.unwomen.org/](https://www.unwomen.org/). 🟡③🌐](https://www.unwomen.org/en/articles/facts-and-figures/facts-and-figures-ending-violence-against-women) .- Estadísticas globales sobre violencia contra las mujeres.
+3. [**Walby, S. (1990). *Theorizing Patriarchy*.** Oxford: Blackwell. 🟡③🌐](https://www.wiley.com/en-us/Theorizing+Patriarchy-p-9780631147695) .- Teoría sobre el patriarcado y la desigualdad.
 
 ### Fuentes que matizan o refutan la afirmación
 
-- **Adichie, C. N. (2014). *Todos deberíamos ser feministas*.** Barcelona: Random House.  
-  Critica reducir a las mujeres a un rol de víctimas.
-- **FEANTSA (2023). *Homelessness in Europe Report*.** Bruselas: FEANTSA.  
-  Datos sobre pobreza extrema que afecta más a hombres.
-- **UNODC (2023). *Global Study on Homicide*.** Viena: United Nations Office on Drugs and Crime.  
-  Estadísticas de homicidios con más víctimas masculinas.
-- **EAPN (2023). *Informe sobre la pobreza en España*.** Madrid: Red Europea de Lucha contra la Pobreza.  
-  Análisis de la pobreza con matices de género y clase.
+1. [**Adichie, C. N. (2014). *Todos deberíamos ser feministas*.** Barcelona: Random House. 🟡③🌐](https://www.penguinrandomhouse.com/books/652935/todos-deberiamos-ser-feministas--we-should-all-be-feminists-by-chimamanda-ngozi-adichie-leire-salaberria/) .- Critica reducir a las mujeres a un rol de víctimas.
+2. [**FEANTSA (2023). *Homelessness in Europe Report*.** Bruselas: FEANTSA. 🟡③🌐](https://www.feantsa.org/resources/8th-overview-of-housing-exclusion-in-europe-2023) .- Datos sobre pobreza extrema que afecta más a hombres.
+3. [**UNODC (2023). *Global Study on Homicide*.** Viena: United Nations Office on Drugs and Crime. 🟡③🌐](https://www.unodc.org/documents/data-and-analysis/gsh/2023/Global_study_on_homicide_2023_web.pdf) .- Estadísticas de homicidios con más víctimas masculinas.
+4. [**EAPN (2023). *Informe sobre la pobreza en España*.** Madrid: Red Europea de Lucha contra la Pobreza. 🟡③🌐](https://www.eapn.es/estadodepobreza/ARCHIVO/documentos/informe-AROPE-2023-el-estado-de-la-pobreza.pdf) .- Análisis de la pobreza con matices de género y clase.
 
 ---
 ## Analisis estadístico inicial (prueba de concepto de las verdades probabilisticas dinamicas dependientes de contexto) - No tomar como verdad absoluta contrastada, solo como ejerccicio.  ⚫①

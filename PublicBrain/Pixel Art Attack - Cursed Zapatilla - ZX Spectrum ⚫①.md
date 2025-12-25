@@ -22,13 +22,13 @@ MOS_TopImg_Video: ZX_CursedZapatilla_Loading_001.mp4
 ---
 # Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①
 
-![El punto al que he llegado con MetsuOS Game Maker Tools](PublicBrain/_resources/f1139e8c8ab76b7f55c6cc2f25dd559e_MD5.jpeg)
+![Conversion 1:1 de la imagen origen](PublicBrain/_resources/f0679c5d61a4dde79174bc8fcb57d218_MD5.jpg)
 
 * [[Pixel Art Attack - Creando gráficos retro ⚫①]]
-* [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)]]
+* [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2026)]]
 * [[Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②]]
 
-Iniciamos aquí el Pixel Art Attack de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)]] para ZX Spectrum. ¡Al lio!
+Iniciamos aquí el Pixel Art Attack de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2026)]] para ZX Spectrum. ¡Al lio!
 
 --- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
@@ -37,7 +37,7 @@ Border: off
 ```
 ## Pantalla de carga
 
-![El punto al que he llegado con MetsuOS Game Maker Tools](PublicBrain/_resources/f1139e8c8ab76b7f55c6cc2f25dd559e_MD5.jpeg)
+![Conversion 1:1 de la imagen origen](PublicBrain/_resources/f0679c5d61a4dde79174bc8fcb57d218_MD5.jpg)
 
 Iniciamos con esta pantalla que nos introduce en el juego durante la carga desde cinta o disco.
 

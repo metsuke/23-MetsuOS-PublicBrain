@@ -37,7 +37,7 @@ Border: off
 ![El punto de partida en resolucion y colores reales de la pantalla de carga](PublicBrain/_resources/b85ed565d16525f912d382f516a9bf47_MD5.jpeg)
 ## Pixel Art Attack - Cursed Zapatilla - ZX Spectrum
 
-Iniciamos aquí el Pixel Art Attack de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)]] para ZX Spectrum. ¡Al lio!
+Iniciamos aquí el Pixel Art Attack de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2026)]] para ZX Spectrum. ¡Al lio!
 
 Continuar Leyendo en ... [[Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①]]
 

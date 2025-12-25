@@ -20,7 +20,7 @@ nav_secondary: []
 tags: []
 MOS_TopImg_Video: CursedZapatilla_DonPatillas.mp4
 ---
-# MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (2025)
+# MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2026)
 
 ![Caratula de Cursed Zapatillas](PublicBrain/_resources/33d90a6b2fb87f43d9c3829c4f53814e_MD5.jpg)
 

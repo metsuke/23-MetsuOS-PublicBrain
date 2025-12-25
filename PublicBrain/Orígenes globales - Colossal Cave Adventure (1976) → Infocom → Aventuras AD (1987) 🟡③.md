@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-20T20:58:49.528Z
-modified: 2025-12-21T06:28:05.877Z
+modified: 2025-12-24T06:29:22.844Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -60,7 +60,7 @@ Infocom lanzó 30+ títulos, con "feelies" (mapas físicos, props) y líneas com
 | Deadline         | 1982 | Misterios en tiempo real        |
 | Trinity          | 1986 | Narrativa no lineal compleja    |
 
-En España, llegaron vía MicroHobby; CAAD (números 1 a 5) los reseñó como puente a las AD locales.
+En España, llegaron vía MicroHobby y CAAD (números 1 a 5) los reseñó como puente a las AD locales.
 
 ## 3. Aventuras AD (1987): El Boom Español en 8/16 Bits
 
@@ -88,7 +88,7 @@ Puedes consultar [los archivos de CAAD 🟡③🌐](https://ifarchive.org/if-arc
 4. [CAAD fanzine - IFWiki 🟡③🌐](https://www.ifwiki.org/CAAD_fanzine) .- Descripción del fanzine CAAD, fundado en 1988 por Juanjo Muñoz como club y revista de aventuras AD.
 5. [Entrevista con Andrés Samudio, el Viejo Archivero 🟡③🌐](https://www.elmundodelspectrum.com/entrevista-con-andres-samudio-el-viejo-archivero/) .- Entrevista donde Samudio explica los orígenes de Aventuras AD, conexión con Colossal Cave y relación con Dinamic.
 6. [Colossal Cave Adventure: el primer videojuego conversacional 🟡③🌐](https://www.youtube.com/watch?v=XEJaDDQAJpY) .- Vídeo tutorial que repasa la historia, parser y legado del juego original.
-
+7. [Revista Hecho con Pixels número 1 págs 17-18 "1979 fué un año muy animado" - 30 de Noviembre de 2024 - Sanz, Jose Luis y Molina, Jose Luis 🟡③🌐](https://tienda.hechoconpixels.com/producto/hecho-con-pixels-n1/) .- Apoya la idea del enorme impacto de "Colossal Cave Adventure" a través de la influencia de este juego en la creación de "Adventureland" por parte de **Scott Adams** al que se entrevista en el artículo.
 ## Referencias Bibliográficas que Refutan
 
 1. [Hunt the Wumpus - Wikipedia 🟡③🌐](https://en.wikipedia.org/wiki/Hunt_the_Wumpus) .- Describe este juego de 1973 como precursor con exploración de cuevas, pistas y puzzles, cuestionando la primacía absoluta de Colossal Cave como primera aventura.

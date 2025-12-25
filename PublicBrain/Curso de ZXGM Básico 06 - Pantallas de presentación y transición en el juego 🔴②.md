@@ -22,7 +22,7 @@ tags: []
 # Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②
 
 
-![Lo que puede hacer MOS Game Maker Pro con una imagen](_resources/3b19842721da123761bcb57d9b51222a_MD5.jpeg)
+![Conversion 1:1 de la imagen origen](PublicBrain/_resources/f0679c5d61a4dde79174bc8fcb57d218_MD5.jpg)
 
 * [[Curso de ZX Game Maker ⚫①]]
 * [[Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①]]

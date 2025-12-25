@@ -142,19 +142,23 @@ Nuevamente, la imagen de partida, generada por Grok, descartando el resultado de
 ## State of the art en conversion 1:1
 
 El resultado me parece mas que satisfactorio, aun tengo que trabajar el control del dither y el suavizado de bordes (me inspirare en lo que se hace en 3D probablemente) pero por ahora es un resultado que me encanta.
+
 --- column-end ---
+
 ![NoDitherVersion](PublicBrain/_resources/6259107da7626ad85cd9a6626a855798_MD5.jpg)
 ## Reduccion 256x192 Sin Dither
 
 Bien pero parece mas un mapa de atributos que una imagen nitida.
 
 --- column-end ---
+
 ![Soft Dither Version](PublicBrain/_resources/49b00172a858aae17f95f5a0ce8ccaeb_MD5.jpg)
 ## Reduccion 256x192 con Dither "Soft"
 
 Mejora sustancial pero aun carece de la definicion que me gustaria., y que he visto en imagenes convertidas a mano.
 
 --- column-end ---
+
 ![Medium Dither Version](PublicBrain/_resources/644676818135af544cb4f5ac1ad1f72e_MD5.jpg)
 ## Reduccion 256x192 con Dither "Medium"
 
@@ -162,6 +166,7 @@ La resolucion no da de si para tanto detalle y el dither no ayuda
 
 
 --- column-end ---
+
  ![Hard Dither Version](PublicBrain/_resources/d352930b7db563e9824b12ffa73e9b22_MD5.jpg)
 
 ## Reduccion 256x192 con Dither "Hard"

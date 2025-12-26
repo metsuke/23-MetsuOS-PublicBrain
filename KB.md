@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2025-12-25T07:16:56.416Z
+modified: 2025-12-25T20:46:35.471Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 41
+ver_rev: 43
 nav_primary:
 nav_secondary:
 tags:
@@ -27,23 +27,6 @@ MOS_TopImg_Video: CursoProgramacionVideojuegos.mp4
 Number of Columns: 2
 Border: off
 ```
-## Historia de PatMorita Team sus juegos 
-
-WIP
-
---- column-end ---
-
-## Historia de Zosya Entertainment y sus juegos 
-
-WIP
-
---- column-end ---
-
-## Historia mundial de los videojuegos de aventura 
-
-WIP
-
---- column-end ---
 
 ![Historia Videojuegos Aventura con CAAD](PublicBrain/_resources/18713be6c249379ca3b76cdf6731942e_MD5.jpg)
 

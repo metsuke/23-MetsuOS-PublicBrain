@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-01T18:06:52.967Z
-modified: 2025-09-09T06:14:58.414Z
+modified: 2025-12-25T20:46:35.687Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -139,9 +139,9 @@ Nuevamente, la imagen de partida, generada por Grok, descartando el resultado de
  --- column-end ---
 
 ![Conversion 1:1 de la imagen origen](PublicBrain/_resources/f0679c5d61a4dde79174bc8fcb57d218_MD5.jpg)
-## State of the art en conversion 1:1
+## State of the art en conversión 1:1
 
-El resultado me parece mas que satisfactorio, aun tengo que trabajar el control del dither y el suavizado de bordes (me inspirare en lo que se hace en 3D probablemente) pero por ahora es un resultado que me encanta.
+El resultado me parece mas que satisfactorio, aun tengo que trabajar el control del dither y el suavizado de bordes (me inspiraré en lo que se hace en 3D probablemente) pero por ahora es un resultado que me encanta.
 
 --- column-end ---
 

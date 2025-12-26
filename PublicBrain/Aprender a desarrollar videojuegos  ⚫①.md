@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-11-06T20:53:12.514Z
+modified: 2025-12-26T01:01:54.928Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 34
+ver_rev: 36
 nav_primary:
 nav_secondary:
 tags:
@@ -52,9 +52,17 @@ Además, la comunidad de desarrolladores es un recurso invaluable, ofreciendo ap
 Number of Columns: 2
 Border: off
 ```
+![Curso de Desarrollo de Videojuegos a pelo con Fran Gallego](_resources/f9331a87d84f315753172d2a1d04bf87_MD5.jpg)
+## Curso de Desarrollo de Videojuegos a pelo con Fran Gallego
+
+Desarrollar "a pelo" no es lo más rápido, pero te da una comprensión profunda de cómo funcionan los videojuegos. Este curso, construido mientras estudio los contenidos publicados por Fran Gallego, te equipa con habilidades para crear prototipos, experimentar sin límites y, si quieres, dar el salto a motores comerciales con una base sólida. ¡Es tu oportunidad de programar como los pioneros de los 90, pero con herramientas modernas!
+
+Continuar leyendo en ... [[Curso de Desarrollo de Videojuegos a pelo con Fran Gallego 🟡③]]
+
+--- column-end ---
 
 ![Curso de Programación de Videojuegos](_resources/ab682a87e91126b25cb2408572d50146_MD5.jpg)
-## Curso de Programación de Videojuegos
+## Curso de Programación de Videojuegos con Godot Engine
 
 Este curso ofrece una formación completa y práctica en la programación de videojuegos con el motor Godot Engine, centrándonos en los lenguajes C y C++ mediante el sistema GDExtension, que permite integrar código nativo de manera eficiente en versiones de Godot 4 y superiores. 
 

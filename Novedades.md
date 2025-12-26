@@ -26,7 +26,14 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+![Curso de Desarrollo de Videojuegos a pelo con Fran Gallego](_resources/f9331a87d84f315753172d2a1d04bf87_MD5.jpg)
+## GameDev C++ - Curso de Desarrollo de Videojuegos a pelo con Fran Gallego
 
+Desarrollar "a pelo" no es lo más rápido, pero te da una comprensión profunda de cómo funcionan los videojuegos. Este curso, construido mientras estudio los contenidos publicados por Fran Gallego, te equipa con habilidades para crear prototipos, experimentar sin límites y, si quieres, dar el salto a motores comerciales con una base sólida. ¡Es tu oportunidad de programar como los pioneros de los 90, pero con herramientas modernas!
+
+Continuar leyendo en ... [[Curso de Desarrollo de Videojuegos a pelo con Fran Gallego 🟡③]]
+
+--- column-end ---
 
 ![Orígenes globales - Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987)](PublicBrain/_resources/940426f51d2145820a2e64192a419da8_MD5.jpg)
 ## Videojuegos Aventura - Orígenes globales: Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987).
@@ -85,7 +92,7 @@ Continuar leyendo en ... [[Blog - El Antiintromisionismo, una propuesta filosóf
 --- column-end ---
 
 ![Curso de Programación de Videojuegos](_resources/ab682a87e91126b25cb2408572d50146_MD5.jpg)
-## Desarrollo Videojuegos - Curso de Programación de Videojuegos con Godot Engine
+## Godot - Curso de Programación de Videojuegos con Godot Engine
 
 Este curso ofrece una formación completa y práctica en la programación de videojuegos con el motor Godot Engine, centrándonos en los lenguajes C y C++ mediante el sistema GDExtension, que permite integrar código nativo de manera eficiente en versiones de Godot 4 y superiores. 
 

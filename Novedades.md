@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-12-21T06:35:36.966Z
+modified: 2025-12-26T07:21:56.127Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 129
+ver_rev: 132
 nav_primary: 
 nav_secondary: 
 tags:
@@ -26,6 +26,19 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Arte generativo inspirado en la loading scren del juego](_resources/9f04cadb874aa99346d0f7d326ab18ad_MD5.jpg)
+## Noticias - Lanzamiento de  Perseus para ZX Spectrum 128K: Una aventura épica impulsada por el motor Tuerkas128
+
+Diciembre 2025 - La escena retro sigue llena de sorpresas, y esta vez el protagonista es *Perseus*, un nuevo título para ZX Spectrum 128K desarrollado por RetroBensoft que ha generado mucho interés en la comunidad. 
+
+Este juego te sumerge en la mitología griega, donde debes derrotar a Medusa, y utiliza el potente motor Tuerkas128, una herramienta que promete elevar el nivel de los desarrollos actuales para esta plataforma clásica.
+
+Continuar leyendo en ... [[Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③]]
+
+--- column-end ---
+
+
 ![Curso de Desarrollo de Videojuegos a pelo con Fran Gallego](_resources/f9331a87d84f315753172d2a1d04bf87_MD5.jpg)
 ## GameDev C++ - Curso de Desarrollo de Videojuegos a pelo con Fran Gallego
 
@@ -44,6 +57,16 @@ Continuar leyendo en ... [[Orígenes globales - Colossal Cave Adventure (1976) �
 
 --- column-end ---
 
+![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
+## Herramientas - Curso de ZX-Paintbrush
+
+Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una herramienta clásica para diseñar gráficos en el legendario ZX Spectrum. 
+
+A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
+
+Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③]]
+
+--- column-end ---
 
 ![Definición y alcance de la epistemología](PublicBrain/_resources/58babb003b4558f46c71fbb763b49a66_MD5.jpg)
 
@@ -67,19 +90,6 @@ Continuar leyendo en ... [[Definición de ciencia y método científico 🔴②]
 
 --- column-end ---
 
-![Portada homenaje al esfuerzo editorial de Jose Luis Sanz](PublicBrain/_resources/982f1e9ffc73fd3ee957391ea685d9e4_MD5.jpg)
-## Noticias - El esperadísimo regreso de Micromanía: Una nueva etapa para una revista absolutamente icónica
-
-**¡Qué alegría para los amantes de los videojuegos retro!** 
-
-Después de algo más de un año y medio, que se hizo interminable, la legendaria revista **Micromanía** vuelve a la vida. El pasado domingo 7 de diciembre de 2025, en el animado Salón del Videojuego de Madrid, José Luis Sanz, conocido como "Skywalker", y Marcos García, "The Elf", compartieron los primeros detalles de esta cuarta etapa. 
-
-Es un renacimiento que mezcla el encanto de los años 80 y 90 con el ritmo actual del mundo de los videojuegos, uniendo generaciones de aficionados.
-
-Continua leyendo en ... [[Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③]]
-
---- column-end ---
-
 ![antiintromisionismo](PublicBrain/_resources/4217d2a8b7a94d71d1a63c1cf1ec7975_MD5.jpg)
 
 ## Blog - El Antiintromisionismo, una propuesta filosófica y práctica
@@ -88,11 +98,20 @@ El antiintromisionismo nace como una evolución crítica del liberalismo políti
 
 Continuar leyendo en ... [[Blog - El Antiintromisionismo, una propuesta filosófica y práctica 🟡③]]
 
+--- column-end ---
+
+
+![Curso Patrones y Calidad del Softwarre](PublicBrain/_resources/21f22e00084c6932dd97ea0d27c492d4_MD5.jpg)
+## Arquitectura Software - Curso Patrones y Calidad del Software
+
+En este curso trataremos las cuestiones relacionadas con patrones de diseño y calidad del software. Comenzaremos con las bases e iremos avanzando hacia una serie de prompts de contexto que nos sirvan en nuestro desarrollo en el dia a dia.
+
+Continuar leyendo en ... [[Curso sobre Patrones y Calidad del Software 🔴②]]
 
 --- column-end ---
 
 ![Curso de Programación de Videojuegos](_resources/ab682a87e91126b25cb2408572d50146_MD5.jpg)
-## Godot - Curso de Programación de Videojuegos con Godot Engine
+## Motores - Curso de Programación de Videojuegos con Godot Engine
 
 Este curso ofrece una formación completa y práctica en la programación de videojuegos con el motor Godot Engine, centrándonos en los lenguajes C y C++ mediante el sistema GDExtension, que permite integrar código nativo de manera eficiente en versiones de Godot 4 y superiores. 
 
@@ -109,7 +128,6 @@ La estructura del conocimiento humano y científico se fundamenta en la interacc
 Continua leyendo en ... [[Estructura del Conocimiento Humano y Científico ⚫①]]
 
  --- column-end ---
-
 --- multi-column-end
 
 

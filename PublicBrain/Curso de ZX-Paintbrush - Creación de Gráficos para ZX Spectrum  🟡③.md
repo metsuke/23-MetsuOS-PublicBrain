@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-08-09T05:00:19.693Z
-modified: 2025-09-02T12:23:49.587Z
+modified: 2025-12-26T02:34:11.545Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①
+# Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③
 
 ![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
 
@@ -167,10 +167,9 @@ Con un enfoque práctico y ejemplos inspiradores, estarás listo para revivir la
 
 He de decir que las fuentes son escasas y limitadas, pero hagamos lo que podamos para ser la fuente, y así una vez tengamos claro todo, podamos inciiar MOS Draw, o usar [MultiPaint 🌐🟡③](http://multipaint.kameli.net) y [Grafx2 🌐🟡③](http://grafx2.chez.com) con [[MicroTutorial - Grafx2 con modos spectrum ⚫①|modos spectrum ⚫①]] ... ya veremos ;)
 
-1. **Vintage is The New Old** (2014). Artículo sobre la versión 2.5 de ZX-Paintbrush, con detalles sobre sus funciones de dibujo y edición de fuentes. Disponible en: [https://www.vintageisthenewold.com/zx-paintbrush-2-5-published/ 🌐🟡③](https://www.vintageisthenewold.com/zx-paintbrush-2-5-published/).
-2. **Getting started with ZX-Paintbrush and AGDX** video introductorio sobre el editor y su relación con el motior de juego. Disponible en: [https://youtu.be/IOUE6biouNk?si=xN4tmQ1BVQiUrLW4  🌐🟡③](https://youtu.be/IOUE6biouNk?si=xN4tmQ1BVQiUrLW4)
-3. **Importing block data from ZX Paintbrush to AGDX** - Guía sobre exportación e importación de bloques con ZX-Paintbrush en AGDX. Disponible en:  [https://youtu.be/R3fLzGCM0-w?si=8p8q6HGpeFdWz6aP 🌐🟡③]()
-
+1. [**Vintage is The New Old** (2014). Artículo sobre la versión 2.5 de ZX-Paintbrush, con detalles sobre sus funciones de dibujo y edición de fuentes. 🟡③🌐](https://www.vintageisthenewold.com/zx-paintbrush-2-5-published/) .- ZX-Paintbrush 2.5 is a tool for creating ZX Spectrum images, supporting SCR file loading/creation, mouse-sensitive drawing tools like circles, rectangles, polygons, various fill styles, color attribute alterations, and transparent effects; it also edits Sinclair fonts in 4x8, 6x8, or 8x8 pixels, handling CH4, CH6, CH8, CHR, and CHX files.
+2. [**Getting started with ZX-Paintbrush and AGDX** video introductorio sobre el editor y su relación con el motior de juego. 🟡③🌐](https://youtu.be/IOUE6biouNk?si=xN4tmQ1BVQiUrLW4) .- The video by Happy Coding covers basics of ZX Paintbrush for AGDx graphics, including freehand drawing/erasing, zoom, 16x16 grid, grab tool for copying/moving, ink/paper color settings, pixel toggling, brightness/flash attributes, sprite creation, and exporting SCR files for import into AGDx.
+3. [**Importing block data from ZX Paintbrush to AGDX** - Guía sobre exportación e importación de bloques con ZX-Paintbrush en AGDX. 🟡③🌐](https://youtu.be/R3fLzGCM0-w?si=8p8q6HGpeFdWz6aP) .- The video by Happy Coding explains importing graphics from ZX Paintbrush to AGDX, emphasizing attribute block design, binary export with/without attributes, loading pixel/attribute data into specific memory addresses, separating attributes, and using code to display blocks for intros or menus.
 ### Fuentes que Refutan o Matizan el Contenido
 
 - **Ninguna fuente verificable disponible**.  

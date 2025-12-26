@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-16T05:58:01.765Z
-modified: 2025-09-20T04:23:49.313Z
+modified: 2025-12-26T02:34:12.760Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -78,7 +78,7 @@ Editar tiles con ZX Paintbrush es sencillo y potente, ya que está diseñado esp
 
 5. **Consejos Prácticos**: Empieza con el tileset de ejemplo. Si editas sólidos, respeta posiciones para no alterar comportamientos. Para tiles animados, limita a 10 por pantalla para rendimiento. Si importas desde otros programas, convierte a formato ZX para evitar distorsiones.
 
-ZX Paintbrush es ideal porque preserva datos que PNG no puede (como ink/paper), haciendo la edición retro-friendly. Estoy preparando un [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①|Curso de ZX-Paintbrush]], pero si necesitas ya un tutorial, busca guías en YouTube para "ZX Paintbrush basics".
+ZX Paintbrush es ideal porque preserva datos que PNG no puede (como ink/paper), haciendo la edición retro-friendly. Estoy preparando un [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③|Curso de ZX-Paintbrush]], pero si necesitas ya un tutorial, busca guías en YouTube para "ZX Paintbrush basics".
 
 ## Recomendaciones para Tu Proyecto
 

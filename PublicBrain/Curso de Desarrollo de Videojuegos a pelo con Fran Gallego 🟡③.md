@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-25T15:38:00.689Z
-modified: 2025-12-26T01:19:40.661Z
+modified: 2025-12-26T05:23:01.777Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -28,6 +28,7 @@ MOS_TopImg_Video: DesarrolloJuegosFranGallego_000.mp4
 
 **DISCLAIMER** En este curso trataré de condensar mi propio aprendizaje en torno al desarrollo de videojuegos a pelo insipirado en las clases de Fran Gallego publicadas online. En ningun caso es un curso oficial de Fran Gallego, sino mis "apuntes avanzados" aprendiendo con sus contenidos online.
 
+## ¿Por Qué Elegir Este Curso?
 
 Desarrollar "a pelo" no es lo más rápido, pero te da una comprensión profunda de cómo funcionan los videojuegos. Este curso te equipa con habilidades para crear prototipos, experimentar sin límites y, si quieres, dar el salto a motores comerciales con una base sólida. ¡Es tu oportunidad de programar como los pioneros de los 90, pero con herramientas modernas!
 ## Introducción
@@ -206,11 +207,6 @@ El curso está dividido en **11 módulos** progresivos, combinando teoría, ejem
    - Ejemplo: Refactoriza el plataformer como motor.  
 11.4 **Proyecto: Prototipo libre**  
    Crea un juego pequeño aplicando todo lo aprendido (shooter, puzzle, etc.).  
-
-## Por Qué Elegir Este Curso
-
-
----
 
 ## Referencias Bibliográficas
 

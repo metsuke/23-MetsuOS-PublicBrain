@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2025-12-26T01:01:54.928Z
+modified: 2025-12-26T02:12:07.782Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 36
+ver_rev: 37
 nav_primary:
 nav_secondary:
 tags:
@@ -52,6 +52,30 @@ Además, la comunidad de desarrolladores es un recurso invaluable, ofreciendo ap
 Number of Columns: 2
 Border: off
 ```
+![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
+## Curso de ZX-Paintbrush
+
+Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una herramienta clásica para diseñar gráficos en el legendario ZX Spectrum. 
+
+A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
+
+Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③]]
+
+--- column-end ---
+
+
+![Curso de RetroX](PublicBrain/_resources/439e1ce07b8da71e3efc938988a5ea7e_MD5.jpg)
+## Curso de Retro-X
+
+Iniciamos hoy un curso sobre **Retro-X**, una aplicación para Windows de 32 bits abandonada en 2009, diseñada para la conversión, edición y gestión de gráficos para sistemas retro de 8 bits, como ZX Spectrum, SAM Coupé, Commodore 64 (C64), Atari XL/XE, Amstrad CPC, Sprinter 2000 y otros. 
+
+El curso se fundamenta en fuentes verificadas, como el README de la versión Alpha 8, el sitio web archivado del desarrollador (LCD), repositorios como World of Spectrum y discusiones en foros especializados en retrocomputing.
+
+Contuar leyendo en [[Curso de Retro-X 🟡③]]
+
+--- column-end ---
+
+
 ![Curso de Desarrollo de Videojuegos a pelo con Fran Gallego](_resources/f9331a87d84f315753172d2a1d04bf87_MD5.jpg)
 ## Curso de Desarrollo de Videojuegos a pelo con Fran Gallego
 
@@ -97,17 +121,6 @@ Continuar leyendo en ... [[Curso de AYFXEDIT 🔴②]]
 ¡Crear videojuegos es una experiencia única que une creatividad, tecnología y diversión! Pero para convertir esta pasión en una carrera profesional, no basta con imaginar mundos vibrantes o retos emocionantes. En nuestro **Curso de Diseño de Videojuegos**, te guiaremos paso a paso para que domines las herramientas y técnicas necesarias, desde idear conceptos originales hasta desarrollar prototipos jugables. Con un enfoque práctico y estratégico, aprenderás a destacar en la industria del gaming, combinando creatividad con habilidades técnicas y de gestión. ¡Da el salto y transforma tu pasión en una profesión que impacte a millones de jugadores!
 
 Continuar leyendo en [[Curso de Diseño de Videojuegos 🔴②]]
-
---- column-end ---
-
-![Curso de RetroX](PublicBrain/_resources/439e1ce07b8da71e3efc938988a5ea7e_MD5.jpg)
-## Curso de Retro-X
-
-Iniciamos hoy un curso sobre **Retro-X**, una aplicación para Windows de 32 bits abandonada en 2009, diseñada para la conversión, edición y gestión de gráficos para sistemas retro de 8 bits, como ZX Spectrum, SAM Coupé, Commodore 64 (C64), Atari XL/XE, Amstrad CPC, Sprinter 2000 y otros. 
-
-El curso se fundamenta en fuentes verificadas, como el README de la versión Alpha 8, el sitio web archivado del desarrollador (LCD), repositorios como World of Spectrum y discusiones en foros especializados en retrocomputing.
-
-Contuar leyendo en [[Curso de Retro-X 🔴②]]
 
 --- column-end ---
 
@@ -180,19 +193,6 @@ Tres juegos para la Atari 2600 bajo el cielo pixelado, siete para la NES en sus 
 Continua leyendo en ... [[MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①]]
 
 --- column-end ---
-
-
-![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
-## Curso de ZX-Paintbrush
-
-Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una herramienta clásica para diseñar gráficos en el legendario ZX Spectrum. 
-
-A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
-
-Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  ⚫①]]
-
---- column-end ---
-
 
 
 ![Crea Juegos al Estilo Maquinita con Boriel BASIC](PublicBrain/_resources/912c721564e4fb5443997ddffaab4cb2_MD5.jpg)

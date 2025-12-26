@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-22T05:18:18.593Z
-modified: 2025-10-17T05:51:10.846Z
+modified: 2025-12-26T01:39:44.686Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: CursoRetroX000.mp4
 ---
-# Curso de Retro-X 🔴②
+# Curso de Retro-X 🟡③
 
 ![Curso de RetroX](PublicBrain/_resources/439e1ce07b8da71e3efc938988a5ea7e_MD5.jpg)
 
@@ -35,7 +35,7 @@ Dirigido a entusiastas del **retrocomputing**, la preservación digital y el art
 
 Este módulo inicial sumerge a los estudiantes en el contexto de Retro-X y el fascinante mundo del retrocomputing, sentando las bases para un aprendizaje práctico y motivador.
 
-### Lección 1.1: "H"istoria y Contexto de Retro-X
+### Lección 1.1: "Historia y Contexto de Retro-X
 
 Retro-X nació como un proyecto personal del desarrollador **LCD** (de origen austriaco) entre 2005 y 2006, evolucionando desde herramientas simples como **BMP2SCR** hasta convertirse en una suite multifuncional. Abandonada en su versión **Alpha 8** (2009, con solo un 15% de completitud), se planeó una beta con un IDE completo y código abierto, pero estos planes no se concretaron debido a problemas como spam y acoso en foros (2012). Inspirada en la **demoscene** y herramientas clásicas como **Deluxe Paint**, Retro-X buscaba preservar y crear gráficos para sistemas de 8 bits. Aunque herramientas modernas como **ZX Paintbrush** o **RetroArch** ofrecen alternativas más actualizadas, Retro-X destaca por su soporte único a modos gráficos no estándar, como los de alta resolución del Sprinter 2000.
 
@@ -231,10 +231,10 @@ Las siguientes fuentes, verificadas y contrastables, confirman la existencia, ca
 
 Estas fuentes, también verificadas, cuestionan la relevancia o vigencia de Retro-X al destacar alternativas más modernas y mantenidas:
 
-1. [Wikipedia (2025). "ZX Spectrum graphic modes" 🌐🟡③](https://en.wikipedia.org/wiki/ZX_Spectrum_graphic_modes). Menciona herramientas como **ZX GIMP** y **BMP2SCR**, que cubren modos gráficos similares (incluidos no estándar), sugiriendo que Retro-X no es único.
-2. **Reddit r/zxspectrum (2017).** "Any suggestions for an art utility to create Spectrum graphics?". Disponible en: [Reddit](https://www.reddit.com/r/zxspectrum/comments/65ov7a/any_suggestions_for_an_art_utility_to_create/). Recomienda **ZX Paintbrush** y **Aseprite**, destacando su mantenimiento activo frente a la obsolescencia de Retro-X.
-3. **Visual Studio Marketplace (2023).** "ZX Graphics Editor" por DuefectuCorp. Disponible en: [Marketplace](https://marketplace.visualstudio.com/items?itemName=DuefectuCorp.zxgraphics). Presenta una herramienta moderna para gráficos ZX, más integrada y actualizada que Retro-X.
-4. **Spriteworx (2019).** "Getting started with ZX Paintbrush and AGDx" [Vídeo]. YouTube. Disponible en: [YouTube](https://www.youtube.com/watch?v=IOUE6biouNk). Muestra **ZX Paintbrush** como la opción preferida para gráficos ZX, cuestionando la necesidad de usar Retro-X en contextos actuales.
+1. [Wikipedia (2025). "ZX Spectrum graphic modes" 🌐🟡③ 🟡③🌐 🟡③🌐](https://en.wikipedia.org/wiki/ZX_Spectrum_graphic_modes) .- The page describes the ZX Spectrum's standard graphic mode with 256x192 pixels and attribute-based coloring, various extended modes like hi-colour and ULAplus, and tools for graphics including Image to ZX Spec, Retro-X, and ZX GIMP plug-in.
+2. [**Reddit r/zxspectrum (2017).** "Any suggestions for an art utility to create Spectrum graphics?". 🟡③🌐 🟡③🌐](https://www.reddit.com/r/zxspectrum/comments/65ov7a/any_suggestions_for_an_art_utility_to_create/) .- The Reddit thread from 2017 asks for PC art utilities for ZX Spectrum graphics in AGD game development, with a recommendation for ZX-Paintbrush.
+3. [**Visual Studio Marketplace (2023).** "ZX Graphics Editor" por DuefectuCorp. 🟡③🌐 🟡③🌐](https://marketplace.visualstudio.com/items?itemName=DuefectuCorp.zxgraphics) .- The page details a Visual Studio Code extension for editing ZX Spectrum UDGs, fonts in .udg, .gdu, .fnt formats, with features like rotation, export to .tap/.bas, last updated April 2023.
+4. [Spriteworx (2019). "Getting started with ZX Paintbrush and AGDx"  YouTube 🟡③🌐](https://www.youtube.com/watch?v=IOUE6biouNk) .- The YouTube video from September 2019 by Happy Coding tutorials basic tools in ZX Paintbrush for ZX Spectrum sprites and graphics, and importing into AGDx.
 
 
 ![[Plantilla - 1MT#One More Thing]]

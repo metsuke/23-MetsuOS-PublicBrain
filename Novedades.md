@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-12-28T03:54:09.701Z
+modified: 2026-01-01T14:49:08.416Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 133
+ver_rev: 134
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,16 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+![Diferencias y similitudes entre epistemología y gnoseología](PublicBrain/_resources/0dfb6376327738625c73e8887ffb44b6_MD5.jpg)
+## Epistemología - Diferencias y similitudes entre epistemología y gnoseología
+
+Aunque el término "gnoseología" aparece de forma breve en el módulo inicial, como parte de un apartado sobre diferencias y similitudes con la epistemología, no se profundiza mucho en el sitio principal ni en los enlaces directos (como las definiciones o los elementos del conocimiento humano (...)
+
+Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnoseología 🟡③]]
+
+--- column-end ---
 
 ![Arte generativo inspirado en la loading scren del juego](_resources/9f04cadb874aa99346d0f7d326ab18ad_MD5.jpg)
 ## Noticias - Lanzamiento de  Perseus para ZX Spectrum 128K: Una aventura épica impulsada por el motor Tuerkas128
@@ -69,17 +79,6 @@ A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas av
 Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③]]
 
 --- column-end ---
-
-![Definición y alcance de la epistemología](PublicBrain/_resources/58babb003b4558f46c71fbb763b49a66_MD5.jpg)
-
-## Epistemología - Definición y alcance de la epistemología
-
-En el marco de la _Historia de la Epistemología y su aplicación en la Ciencia_, la epistemología se erige como una disciplina filosófica esencial que examina la naturaleza, los orígenes y los límites del conocimiento humano. Su relevancia para la ciencia radica en su capacidad para ofrecer un marco crítico que permite comprender cómo se construye, valida y aplica el saber científico. Este análisis define la epistemología de manera accesible, describe sus características fundamentales y explora su amplio alcance, destacando su influencia en el desarrollo del pensamiento científico y su importancia en la investigación práctica.
-
-Continuar leyendo en ... [[Definición y alcance de la epistemología 🟡③]]
-
---- column-end ---
-
 
 ![Definición de ciencia y método científico](PublicBrain/_resources/0360dec7a1fbeb6123d93d187206fad8_MD5.jpg)
 ## Ciencia - Definición de ciencia y método científico

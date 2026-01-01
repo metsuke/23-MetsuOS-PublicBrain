@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2025-12-28T03:30:20.179Z
+modified: 2026-01-01T14:49:59.869Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 90
+ver_rev: 91
 nav_primary:
 nav_secondary:
 tags:
@@ -52,10 +52,13 @@ Continuar leyendo en ... [[Orígenes globales - Colossal Cave Adventure (1976) �
 
 --- column-end ---
 
-![NPL Project](_resources/d6c616f2df7ff3271050294f4e47edff_MD5.jpg)
-### Epistemología - New Probabilistic Language
 
-Continuar leyendo en ... [NPL](https://metsuke.com/npl.html)
+![Diferencias y similitudes entre epistemología y gnoseología](PublicBrain/_resources/0dfb6376327738625c73e8887ffb44b6_MD5.jpg)
+### Epistemología - Diferencias y similitudes entre epistemología y gnoseología
+
+Aunque el término "gnoseología" aparece de forma breve en el módulo inicial, como parte de un apartado sobre diferencias y similitudes con la epistemología, no se profundiza mucho en el sitio principal ni en los enlaces directos (como las definiciones o los elementos del conocimiento humano (...)
+
+Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnoseología 🟡③]]
 
 --- column-end ---
 --- multi-column-end

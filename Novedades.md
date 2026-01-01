@@ -9,17 +9,19 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-12-26T07:21:56.127Z
+modified: 2025-12-28T03:54:09.701Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 132
+ver_rev: 133
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # Novedades
+
+[[Index]]
 
 --- start-multi-column: BloqueMicrohobbit00
 ```column-settings  

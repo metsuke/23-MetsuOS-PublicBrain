@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-04-27T21:32:02.542Z
-modified: 2025-12-07T18:42:08.518Z
+modified: 2025-12-28T14:53:35.009Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Análiis Estructural - Definición y alcance de la epistemología ⚫①
+g # Análiis Estructural - Definición y alcance de la epistemología ⚫①
 
 [[Definición y alcance de la epistemología 🟡③]]
 

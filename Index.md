@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2025-09-17T10:00:39.014Z
+modified: 2025-12-28T03:30:20.179Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 89
+ver_rev: 90
 nav_primary:
 nav_secondary:
 tags:
@@ -22,6 +22,46 @@ MOS_TopImg_Video: PortadaMetsukeCom.mp4
 ---
 # Index 
 # Construyendo la plena inclusión a través del videojuego.
+
+## Cadena Federal
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Arte generativo inspirado en la loading scren del juego](_resources/9f04cadb874aa99346d0f7d326ab18ad_MD5.jpg)
+### Noticias - Lanzamiento de  Perseus para ZX Spectrum 128K: Una aventura épica impulsada por el motor Tuerkas128
+
+Continuar leyendo en ... [[Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③]]
+
+ --- column-end ---
+
+![Curso de Desarrollo de Videojuegos a pelo con Fran Gallego](_resources/f9331a87d84f315753172d2a1d04bf87_MD5.jpg)
+### GameDev C++ - Curso de Desarrollo de Videojuegos a pelo con Fran Gallego
+
+Continuar leyendo en ... [[Curso de Desarrollo de Videojuegos a pelo con Fran Gallego 🟡③]]
+ --- column-end ---
+
+
+![Orígenes globales - Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987)](PublicBrain/_resources/940426f51d2145820a2e64192a419da8_MD5.jpg)
+### Videojuegos Aventura - Orígenes globales: Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987).
+
+Continuar leyendo en ... [[Orígenes globales - Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987) 🟡③]]
+
+--- column-end ---
+
+![NPL Project](_resources/d6c616f2df7ff3271050294f4e47edff_MD5.jpg)
+### Epistemología - New Probabilistic Language
+
+Continuar leyendo en ... [NPL](https://metsuke.com/npl.html)
+
+--- column-end ---
+--- multi-column-end
+
+## ¿Deseas saber más?
+
 
 ![Doom Trooper representando el crecoimiento del videojuego español](_resources/3cd4b1136187f0f82ce85cb729b75b9f_MD5.jpeg)
 ## ¡Bienvenidos a MetsuOS: Videojuegos para Todos!

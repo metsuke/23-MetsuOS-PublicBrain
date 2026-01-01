@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-23T18:16:28.303Z
-modified: 2025-12-20T07:20:23.735Z
+modified: 2025-12-31T20:06:09.786Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 15
 nav_primary:
 nav_secondary:
 tags:
@@ -40,7 +40,7 @@ Te invito a un fascinante recorrido por la historia de la epistemología, desde 
 
 **Descripción**: Este módulo introduce los pilares de la epistemología, explorando sus preguntas esenciales y su relevancia para la ciencia. Ofrece una base sólida para comprender cómo se construye y valida el conocimiento.
 
-**Subtemas**:
+### Introducción
 
 --- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
@@ -50,22 +50,29 @@ Border: off
 
 ![Definición y alcance de la epistemología](PublicBrain/_resources/58babb003b4558f46c71fbb763b49a66_MD5.jpg)
 
-## Definición y alcance de la epistemología
+#### Definición y alcance de la epistemología
 
 En el marco de la _Historia de la Epistemología y su aplicación en la Ciencia_, la epistemología se erige como una disciplina filosófica esencial que examina la naturaleza, los orígenes y los límites del conocimiento humano. Su relevancia para la ciencia radica en su capacidad para ofrecer un marco crítico que permite comprender cómo se construye, valida y aplica el saber científico. Este análisis define la epistemología de manera accesible, describe sus características fundamentales y explora su amplio alcance, destacando su influencia en el desarrollo del pensamiento científico y su importancia en la investigación práctica.
 
 Continuar leyendo en ... [[Definición y alcance de la epistemología 🟡③]]
 
  --- column-end ---
- 
-1. [[Definición y alcance de la epistemología 🟡③]]
-    - Diferencias y similitudes entre epistemología y gnoseología.
-    - La epistemología como estudio del conocimiento científico.
-2. **Preguntas fundamentales**
+
+![Diferencias y similitudes entre epistemología y gnoseología](PublicBrain/_resources/0dfb6376327738625c73e8887ffb44b6_MD5.jpg)
+#### Diferencias y similitudes entre epistemología y gnoseología
+
+Aunque el término "gnoseología" aparece de forma breve en el módulo inicial, como parte de un apartado sobre diferencias y similitudes con la epistemología, no se profundiza mucho en el sitio principal ni en los enlaces directos (como las definiciones o los elementos del conocimiento humano (...)
+
+Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnoseología 🟡③]]
+
+--- column-end ---
+
+- La epistemología como estudio del conocimiento científico.
+1. **Preguntas fundamentales**
     - ¿Qué constituye el conocimiento? (Creencia, verdad, justificación).
     - ¿Cuáles son los límites del conocimiento humano?
     - ¿Cómo se valida el conocimiento en la ciencia?
-3. **Enfoques epistemológicos**
+2. **Enfoques epistemológicos**
     - Empirismo frente a racionalismo: orígenes y tensiones.
     - Introducción al método científico: observación, hipótesis y experimentación.
     - 

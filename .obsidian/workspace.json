@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "584ea65c0aa634fb",
+        "id": "e628f08e5192a263",
         "type": "tabs",
         "children": [
           {
-            "id": "0db7b703f7df13b8",
+            "id": "6bc18d061a96d34b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③.md",
+                "file": "PublicBrain/Diferencias y similitudes entre epistemología y gnoseología 🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③"
+              "title": "Diferencias y similitudes entre epistemología y gnoseología 🟡③"
+            }
+          },
+          {
+            "id": "8a678e8710a77fd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⚫🔴🟡🟢🔵⚪ (🔴②)"
             }
           }
         ]
@@ -202,8 +216,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0db7b703f7df13b8",
+  "active": "6bc18d061a96d34b",
   "lastOpenFiles": [
+    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
+    "NPL.md",
+    "PublicBrain/Index.md",
+    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+    "PublicBrain/Diferencias y similitudes entre epistemología y gnoseología 🟡③.md",
+    "PublicBrain/Definición y alcance de la epistemología 🟡③.md",
+    "PublicBrain/_resources/0dfb6376327738625c73e8887ffb44b6_MD5.jpg",
+    "Diferencias y similitudes entre epistemología y gnoseología 🟡③.md",
+    "PublicBrain/Desglose frase por frase y conversión a hipótesis.md",
+    "Index.md",
     "Novedades.md",
     "Noticias.md",
     "PublicBrain/Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③.md",
@@ -227,18 +251,9 @@
     "PublicBrain/Pixel Art Attack - Cursed Zapatilla - ZX Spectrum ⚫①.md",
     "PublicBrain/Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②.md",
     "PublicBrain/Curso de ZX Game Maker ⚫①.md",
-    "PublicBrain/MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2026).md",
     "PublicBrain/_resources/d352930b7db563e9824b12ffa73e9b22_MD5.jpg",
     "Screen_Reduction_20_256x192_dither_hard.png",
     "PublicBrain/_resources/644676818135af544cb4f5ac1ad1f72e_MD5.jpg",
-    "Screen_Reduction_20_256x192_dither_medium.png",
-    "PublicBrain/Pixel Art Attack - Creando gráficos retro ⚫①.md",
-    "Juegos.md",
-    "PublicBrain/MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①.md",
-    "PublicBrain/Orígenes globales - Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987) 🟡③.md",
-    "PublicBrain/Historia de los videojuegos de aventura a traves de CAAD 🟡③.md",
-    "Index.md",
-    "PublicBrain/Index.md",
     "PublicBrain/ifarchive.org/if-archive/magazines",
     "PublicBrain/ifarchive.org/if-archive",
     "PublicBrain/ifarchive.org",

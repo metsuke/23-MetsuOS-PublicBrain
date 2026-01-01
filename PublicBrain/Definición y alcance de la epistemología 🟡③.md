@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-27T20:57:47.570Z
-modified: 2025-12-12T04:44:33.955Z
+modified: 2026-01-01T04:50:43.372Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -25,10 +25,12 @@ MOS_TopImg_Video: EpistemologiaDefinicionAlcance.mp4
 ![Definición y alcance de la epistemología](PublicBrain/_resources/58babb003b4558f46c71fbb763b49a66_MD5.jpg)
 
 * [[Historia de la Epistemología y su aplicación en la Ciencia 🟡③]]
-	* [[Análiis Estructural - Definición y alcance de la epistemología ⚫①]]
+	* [[Desglose frase por frase y conversión a hipótesis]]
 ## Introducción
 
-En el marco de la _Historia de la Epistemología y su aplicación en la Ciencia_, la epistemología se erige como una disciplina filosófica esencial que examina la naturaleza, los orígenes y los límites del conocimiento humano. Su relevancia para la ciencia radica en su capacidad para ofrecer un marco crítico que permite comprender cómo se construye, valida y aplica el saber científico. Este análisis define la epistemología de manera accesible, describe sus características fundamentales y explora su amplio alcance, destacando su influencia en el desarrollo del pensamiento científico y su importancia en la investigación práctica.
+En el marco de la _Historia de la Epistemología y su aplicación en la Ciencia_, la epistemología se erige como una disciplina filosófica esencial que examina la naturaleza, los orígenes y los límites del conocimiento humano. Su relevancia para la ciencia radica en su capacidad para ofrecer un marco crítico que permite comprender cómo se construye, valida y aplica el saber científico.
+
+Este análisis define la epistemología de manera accesible, describe sus características fundamentales y explora su amplio alcance, destacando su influencia en el desarrollo del pensamiento científico y su importancia en la investigación práctica.
 
 ## Definición de la epistemología
 
@@ -56,7 +58,7 @@ La epistemología se aborda desde tres perspectivas principales:
 
 La epistemología trasciende el ámbito científico para abarcar todas las formas del saber humano:
 
-- **Conocimiento cotidiano**: "I"ncluye creencias derivadas de la experiencia diaria, como asumir que “el sol sale cada mañana” tras observarlo repetidamente.
+- **Conocimiento cotidiano**: Incluye creencias derivadas de la experiencia diaria, como asumir que “el sol sale cada mañana” tras observarlo repetidamente.
 - **Conocimiento filosófico**: Engloba reflexiones sobre la existencia, la ética o la realidad, como las ideas de Platón sobre el mundo de las formas o la crítica de Kant al conocimiento a priori.
 - **Conocimiento tradicional**: Abarca saberes transmitidos generacionalmente en comunidades, como las técnicas agrícolas de los pueblos originarios, que integran observación y práctica.
 
@@ -107,7 +109,8 @@ La epistemología es una disciplina indispensable que arroja luz sobre la natura
 
 1. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]] .- Define la epistemología científica a través del principio de falsabilidad, respaldando la importancia de la verificabilidad y la refutación en la construcción del conocimiento científico.
 2. [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]] .- Introduce el concepto de paradigmas científicos, apoyando la descripción del papel de la epistemología en la evolución y reestructuración del saber científico.
-3. **Bunge, M.** (1998). _Filosofía de la ciencia_. Buenos Aires: Siglo XX Editores 🟡③🌐 .- Ofrece una definición precisa de la epistemología como el estudio del conocimiento científico, destacando su rol en la validación de métodos y teorías. (enlace de referencia no disponible)
+3. [Bunge, M. La ciencia, su método y su filosofía -  Siglo XX Editores 🟡③🌐](https://posgrado.unam.mx/musica/lecturas/LecturaIntroduccionInvestigacionMusical/epistemologia/Mario-Bunge-la-Ciencia-su-Metodo-y-Filosofia.pdf) .- Ofrece un marco de referencia sobre la ciencia y su estructura
+4. [Burgue, M. - ¿Qué es y para qué sirve la epistemología? - Revista de la Universidad de Mexico - Octubre 1976 -  🟡③🌐](https://www.revistadelauniversidad.mx/articles/eadb91da-4c24-4b10-9e2d-008f7d22feac/que-es-y-para-que-sirve-la-epistemologia) .- Ofrece una definición precisa de la epistemología como el estudio del conocimiento científico, destacando su rol en la validación de métodos y teorías.
 
 ### Fuentes que refutan o matizan el contenido
 

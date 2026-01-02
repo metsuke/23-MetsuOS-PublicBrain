@@ -1,25 +1,28 @@
 ---
 iaStatus: 8
 iaStatus_Model: Grok-3
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-04-22T16:43:05.201Z
-modified: 2025-12-03T19:16:43.456Z
+modified: 2026-01-02T01:05:18.161Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
-nav_primary: 
-nav_secondary: 
+ver_rev: 7
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: CienciaMetodoCientifico_002.mp4
 ---
-# Conceptos básicos sobre ciencia y su evolución histórica 🔴②
+# Conceptos básicos sobre ciencia y su evolución histórica 🟡③
+
+![Conceptos básicos sobre ciencia y su evolución histórica ](PublicBrain/_resources/8253f4e1948002202ecb3d7a7838d194_MD5.jpg)
 
 [[Historia de la Ciencia y del Método Científico 🟡③]]
 
@@ -131,28 +134,17 @@ La ciencia es una aventura humana, un esfuerzo por entender quiénes somos y dó
 
 ## Referencias Bibliográficas que Apoyan el Contenido
 
-- [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]]
-    - Respalda el concepto de falsabilidad como característica esencial de la ciencia.
-- [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn  🟡③-🌐🟡③]]
-    - Apoya la idea de que la ciencia avanza mediante cambios de paradigmas.
-- **Bacon, F. (1620).** _Novum Organum_. (Edición moderna: Cambridge University Press, 2000).
-    - Valida el énfasis en el empirismo y el método inductivo en la ciencia moderna.
-- **Gribbin, J. (2002).** _Historia de la ciencia: 1543-2001_. Crítica.
-    - Refuerza la narrativa histórica de la evolución de la ciencia desde Copérnico hasta la era moderna.
-- **Harari, Y. N. (2014).** _Sapiens: De animales a dioses_. Debate.
-    - Apoya la conexión entre la ciencia, el progreso humano y los desafíos éticos contemporáneos.
+1. [[Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③]] .- Respalda el concepto de falsabilidad como característica esencial de la ciencia.
+2. [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③]] .- Apoya la idea de que la ciencia avanza mediante cambios de paradigmas.
+3. [Bacon, F. (1620). Novum Organum. (Edición moderna: Cambridge University Press, 2000). 🟡③🌐](https://www.amazon.com/Francis-Bacon-Organon-Cambridge-Philosophy/dp/0521564832) .- Valida el énfasis en el empirismo y el método inductivo en la ciencia moderna.
+4. [Gribbin, J. (2002). Historia de la ciencia: 1543-2001. Crítica. 🟡③🌐](https://archive.org/details/gribbin-john.-historia-de-la-ciencia-1543-2001-epl-fs-2019) .- Refuerza la narrativa histórica de la evolución de la ciencia desde Copérnico hasta la era moderna.
+5. [Harari, Y. N. (2014). Sapiens: De animales a dioses. Debate. 🟡③🌐](https://www.amazon.com/Sapiens-animales-dioses-Sapiens-Humankind/dp/8499926223) .- Apoya la conexión entre la ciencia, el progreso humano y los desafíos éticos contemporáneos.
 
 ## Referencias Bibliográficas que Refutan o Cuestionan el Contenido
 
-- **Feyerabend, P. (1975).** _Contra el método_. Ariel.
-    - Critica la visión rígida del método científico, argumentando que la ciencia avanza también por métodos no convencionales.
-- **Latour, B., & Woolgar, S. (1979).** _La vida en el laboratorio: La construcción de los hechos científicos_. Siglo XXI.
-    - Cuestiona la objetividad absoluta de la ciencia, destacando el papel de factores sociales en la producción científica.
-- **Chalmers, A. F. (1976).** _¿Qué es esa cosa llamada ciencia?_. Siglo XXI.
-    - Desafía la idea de un método científico universal, sugiriendo que las prácticas científicas varían ampliamente.
-- **Harding, S. (1991).** _¿Ciencia de quién? Los enfoques feministas y poscoloniales en la filosofía de la ciencia_. Narcea.
-    - Critica la universalidad de la ciencia, señalando sesgos culturales y de género en su desarrollo.
-- **Collins, H., & Pinch, T. (1993).** _El gólem: Lo que todos deberíamos saber acerca de la ciencia_. Crítica.
-    - Argumenta que la ciencia no es tan objetiva ni infalible como se presenta, destacando sus limitaciones humanas.
+1. [Feyerabend, P. (1975). Contra el método. Ariel. 🟡③🌐](https://www.amazon.com/-/es/Contra-El-Metodo-anarquista-conocimiento/dp/8434407353) .- Critica la visión rígida del método científico, argumentando que la ciencia avanza también por métodos no convencionales.
+2. [Latour, B., & Woolgar, S. (1979). La vida en el laboratorio: La construcción de los hechos científicos. Siglo XXI. 🟡③🌐](https://www.amazon.com/-/es/vida-laboratorio-construcci%25C3%25B3n-hechos-cient%25C3%25ADficos/dp/8413627095) .- Cuestiona la objetividad absoluta de la ciencia, destacando el papel de factores sociales en la producción científica.
+3. [Chalmers, A. F. (1976). ¿Qué es esa cosa llamada ciencia?. Siglo XXI. 🟡③🌐](https://www.amazon.com/-/es/%25C2%25BFQu%25C3%25A9-esa-cosa-llamada-ciencia/dp/8432314307) .- Desafía la idea de un método científico(1991). ¿Ciencia de quién? Los enfoques feministas y poscoloniales en la filosofía de la ciencia. Narcea. 🟡③🌐](none) .- Critica la universalidad de la ciencia, señalando sesgos culturales y de género en su desarrollo. MAYBE TO DELETE OR REVIEW MANUALLY – Wayback failed on all attempted URLs
+4. [Collins, H., & Pinch, T. (1993). El gólem: Lo que todos deberíamos saber acerca de la ciencia. Crítica. 🟡③🌐](https://www.amazon.com/El-Golem-Spanish-Harry-Collins/dp/8474237114) .- Argumenta que la ciencia no es tan objetiva ni infalible como se presenta, destacando sus limitaciones humanas.
 
 ![[Plantilla - 1MT#One More Thing]]

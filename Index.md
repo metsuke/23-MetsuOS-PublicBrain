@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-01-01T14:49:59.869Z
+modified: 2026-01-02T15:18:52.321Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 91
+ver_rev: 93
 nav_primary:
 nav_secondary:
 tags:
@@ -52,13 +52,26 @@ Continuar leyendo en ... [[Orígenes globales - Colossal Cave Adventure (1976) �
 
 --- column-end ---
 
+![Conceptos básicos sobre ciencia y su evolución histórica ](PublicBrain/_resources/8253f4e1948002202ecb3d7a7838d194_MD5.jpg)
+### Ciencia - Conceptos básicos sobre ciencia y su evolución histórica
+
+Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución histórica 🟡③]]
+
+--- column-end ---
 
 ![Diferencias y similitudes entre epistemología y gnoseología](PublicBrain/_resources/0dfb6376327738625c73e8887ffb44b6_MD5.jpg)
 ### Epistemología - Diferencias y similitudes entre epistemología y gnoseología
 
-Aunque el término "gnoseología" aparece de forma breve en el módulo inicial, como parte de un apartado sobre diferencias y similitudes con la epistemología, no se profundiza mucho en el sitio principal ni en los enlaces directos (como las definiciones o los elementos del conocimiento humano (...)
-
 Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnoseología 🟡③]]
+
+--- column-end ---
+
+
+![MetsuDepManager](PublicBrain/_resources/570f078529742a81c508c3b36eac5d26_MD5.jpg)
+### MetsuOS - MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③
+
+Continuyar leyendo en ... [[MetsuDepManager - Visión general del proyecto 🟡③]] y [[Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③]]
+
 
 --- column-end ---
 --- multi-column-end

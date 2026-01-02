@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-01-01T14:49:08.416Z
+modified: 2026-01-02T01:15:44.172Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 134
+ver_rev: 135
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,6 +29,15 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Conceptos básicos sobre ciencia y su evolución histórica ](PublicBrain/_resources/8253f4e1948002202ecb3d7a7838d194_MD5.jpg)
+## Ciencia - Conceptos básicos sobre ciencia y su evolución histórica
+
+La ciencia es nuestra herramienta más poderosa para descifrar el universo, desde las estrellas más lejanas hasta el latido de nuestro corazón. No es solo una lista de hechos, sino un viaje dinámico de preguntas, observaciones y pruebas que genera conocimiento fiable y transformador. Guiada por el método científico, la ciencia nos ha dado vacunas, teléfonos inteligentes y soluciones al cambio climático, pero también nos enseña a pensar con claridad y a cuestionar lo que damos por sentado. Su historia es un reflejo de nuestra curiosidad infinita y nuestra capacidad para reinventar la forma en que entendemos el mundo. Pero, ¿qué hace que la ciencia sea tan especial?
+
+Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución histórica 🟡③]]
+
+--- column-end ---
 
 ![Diferencias y similitudes entre epistemología y gnoseología](PublicBrain/_resources/0dfb6376327738625c73e8887ffb44b6_MD5.jpg)
 ## Epistemología - Diferencias y similitudes entre epistemología y gnoseología
@@ -80,16 +89,6 @@ Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para Z
 
 --- column-end ---
 
-![Definición de ciencia y método científico](PublicBrain/_resources/0360dec7a1fbeb6123d93d187206fad8_MD5.jpg)
-## Ciencia - Definición de ciencia y método científico
-
-¿Te has preguntado alguna vez qué es realmente la ciencia o cómo sabemos que lo que nos cuenta es verdad? No estás solo: desde que los primeros curiosos miraron las estrellas o se preguntaron por qué una manzana cae del árbol, la humanidad ha buscado respuestas. 
-
-Vamos a embarcarnos en un viaje por la historia para descubrir qué significa "ciencia" y cómo el método científico se convirtió en su compañero inseparable. No es solo un montón de datos fríos ni un libro de reglas para genios en bata blanca; es una aventura humana, llena de preguntas, pruebas y sorpresas, que ha transformado cómo vemos el mundo. ¿Listo para explorar cómo llegamos hasta aquí?
-
-Continuar leyendo en ... [[Definición de ciencia y método científico 🔴②]]
-
---- column-end ---
 
 ![antiintromisionismo](PublicBrain/_resources/4217d2a8b7a94d71d1a63c1cf1ec7975_MD5.jpg)
 

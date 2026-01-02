@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-03-29T22:03:57.697Z
-modified: 2025-12-20T07:55:00.098Z
+modified: 2026-01-02T01:14:30.689Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 14
+ver_rev: 16
 nav_primary:
 nav_secondary:
 tags:
@@ -50,7 +50,15 @@ Continuar leyendo en ... [[Definición de ciencia y método científico 🔴②]
 
  --- column-end ---
 
-* [[Conceptos básicos sobre ciencia y su evolución histórica 🔴②]]
+![Conceptos básicos sobre ciencia y su evolución histórica ](PublicBrain/_resources/8253f4e1948002202ecb3d7a7838d194_MD5.jpg)
+## Conceptos básicos sobre ciencia y su evolución histórica
+
+La ciencia es nuestra herramienta más poderosa para descifrar el universo, desde las estrellas más lejanas hasta el latido de nuestro corazón. No es solo una lista de hechos, sino un viaje dinámico de preguntas, observaciones y pruebas que genera conocimiento fiable y transformador. Guiada por el método científico, la ciencia nos ha dado vacunas, teléfonos inteligentes y soluciones al cambio climático, pero también nos enseña a pensar con claridad y a cuestionar lo que damos por sentado. Su historia es un reflejo de nuestra curiosidad infinita y nuestra capacidad para reinventar la forma en que entendemos el mundo. Pero, ¿qué hace que la ciencia sea tan especial?
+
+Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución histórica 🟡③]]
+
+--- column-end ---
+
 * [[Distinción entre ciencia, tecnología y otras formas de la c conocimiento  🔴②]]
 
  --- column-end ---

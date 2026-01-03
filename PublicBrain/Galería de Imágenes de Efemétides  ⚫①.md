@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-10T00:52:13.075Z
-modified: 2025-12-22T05:00:12.498Z
+modified: 2026-01-03T17:58:20.655Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
@@ -42,6 +42,12 @@ Celebrando este dia desde 2008
 
 * 29/08 .- Dia Mundial del Videojuego (2008-)
 
+## Lanzamiento de Hecho con Pixels 1
+
+Una revista de autor, de referencia y altisima calidad en contenido y diseño sobre videojuegos 
+
+![Header Lanzamiento de Hecho con Pixels 1](PublicBrain/_resources/8027b5017afab8ca0a46c6cc53021f93_MD5.jpeg)
+
 ## Lanzamiento de Microhobby 218
 
 Tomando el testigo y continuando la leyenda de los 8 bits
@@ -60,6 +66,12 @@ Un collage con algunos de los juegos más conocidos de la plataforma
 * 11/05 a 17/05 .- Lanzamiento de Sega Saturn en Norteamérica (1995)
 * 08/07 a 13/07 .- Lanzamiento de Sega Saturn en España (1995)
 * 22/11 a 28/11 .- [Lanzamiento de Sega Saturn en Japón (1994) - Preview](https://metsuke.com/?test_date=Nov_22)
+## Lanzamiento de Shinning Force 2
+
+El videojuego de rol 2D que me marcó completamente en la era Megadrive.
+
+![Header Lanzamiento de Shinning Force 2](PublicBrain/_resources/477819178f8280d834a72502a46729af_MD5.jpeg)
+
 
 ¡Casi puedo ver el cabinet de MetsuOS con todas estas imágenes en rotación al estilo Protector de Pantalla!
 

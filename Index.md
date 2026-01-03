@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-01-02T15:18:52.321Z
+modified: 2026-01-03T13:21:49.655Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 93
+ver_rev: 94
 nav_primary:
 nav_secondary:
 tags:
@@ -45,10 +45,10 @@ Continuar leyendo en ... [[Curso de Desarrollo de Videojuegos a pelo con Fran Ga
  --- column-end ---
 
 
-![Orígenes globales - Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987)](PublicBrain/_resources/940426f51d2145820a2e64192a419da8_MD5.jpg)
-### Videojuegos Aventura - Orígenes globales: Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987).
+![Historia Mundial de los videojuegos de aventura](PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg)
+## Videojuegos Aventura - Historia Mundial de los videojuegos de aventura
 
-Continuar leyendo en ... [[Orígenes globales - Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987) 🟡③]]
+Continua leyendo en [[Historia Mundial de los videojuegos de aventura 🟡③]]
 
 --- column-end ---
 

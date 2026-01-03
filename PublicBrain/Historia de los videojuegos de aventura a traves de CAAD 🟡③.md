@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-10-24T18:50:16.130Z
-modified: 2025-12-21T06:34:50.245Z
+modified: 2026-01-03T13:22:33.051Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -24,7 +24,8 @@ MOS_TopImg_Video: HistoriaVideojuegosAventuraCAAD.mp4
 
 ![Historia Videojuegos Aventura con CAAD](PublicBrain/_resources/18713be6c249379ca3b76cdf6731942e_MD5.jpg)
 
-[[KB]]
+* [[KB]]
+* [[Historia Mundial de los videojuegos de aventura 🟡③]]
 
 > WIP Desarrollando curso paso a paso.
 

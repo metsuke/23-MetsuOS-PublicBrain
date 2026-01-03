@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-01-02T01:15:44.172Z
+modified: 2026-01-03T13:20:30.391Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 135
+ver_rev: 136
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,6 +29,17 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Historia Mundial de los videojuegos de aventura](PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg)
+## Videojuegos Aventura - Historia Mundial de los videojuegos de aventura
+
+Este curso ofrece un recorrido completo y apasionante por la evolución de los videojuegos de aventura, un género que ha marcado la historia del entretenimiento interactivo. Desde sus humildes inicios basados en texto hasta las experiencias narrativas modernas e híbridas, exploraremos cómo estos juegos han combinado exploración, rompecabezas y relatos cautivadores para capturar la imaginación de millones de jugadores en todo el mundo. 
+
+A lo largo de los módulos, analizaremos innovaciones técnicas, influencias culturales y los desarrolladores clave que han dado forma a este universo lúdico.
+
+Continua leyendo en [[Historia Mundial de los videojuegos de aventura 🟡③]]
+
+--- column-end ---
 
 ![Conceptos básicos sobre ciencia y su evolución histórica ](PublicBrain/_resources/8253f4e1948002202ecb3d7a7838d194_MD5.jpg)
 ## Ciencia - Conceptos básicos sobre ciencia y su evolución histórica
@@ -69,14 +80,6 @@ Continuar leyendo en ... [[Curso de Desarrollo de Videojuegos a pelo con Fran Ga
 
 --- column-end ---
 
-![Orígenes globales - Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987)](PublicBrain/_resources/940426f51d2145820a2e64192a419da8_MD5.jpg)
-## Videojuegos Aventura - Orígenes globales: Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987).
-
-Imagina que estás explorando una cueva oscura, solo guiado por tus comandos de texto, donde cada decisión puede llevarte a un tesoro o a un final prematuro. Así nació el género de las aventuras conversacionales, un viaje que empezó en los mainframes universitarios de Estados Unidos y llegó hasta los ZX Spectrum españoles. En el marco del curso sobre la **historia de los videojuegos de aventura a través de CAAD** (Club de Aventuras AD), este módulo introductorio (Módulo 0) nos sumerge en los cimientos globales del género. 
-
-Continuar leyendo en ... [[Orígenes globales - Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987) 🟡③]]
-
---- column-end ---
 
 ![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
 ## Herramientas - Curso de ZX-Paintbrush

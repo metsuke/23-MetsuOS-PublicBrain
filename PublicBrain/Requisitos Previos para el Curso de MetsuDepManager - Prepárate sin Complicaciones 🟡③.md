@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-01T09:00:15.625Z
-modified: 2025-12-05T18:05:05.202Z
+modified: 2026-01-05T20:55:02.559Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -35,7 +35,7 @@ Si estás a punto de sumergirte en el curso de Metsuke para crear MetsuDepManage
 ```toml
 [project]
 name = "metsudepmanager"
-requires-python = ">=3.11,<3.15"
+  
 ```
 
 Argumentación detallada en ... [[Decisión oficial sobre la versión de Python requerida por MetsuDepManager 🟡③]]

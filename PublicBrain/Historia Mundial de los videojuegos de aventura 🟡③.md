@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-02T17:40:49.067Z
-modified: 2026-01-03T13:18:13.977Z
+modified: 2026-01-03T19:56:22.678Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 6
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -27,7 +27,6 @@ MOS_TopImg_Video: HistoriaMundialVideojuegosAventura_000.mp4
 * [[KB]]
 * [[Historia de los videojuegos de aventura a traves de CAAD 🟡③]]
 
-> OJO WIP
 # Índice del Curso: Historia Mundial de los Videojuegos de Aventura
 
 Este curso ofrece un recorrido completo y apasionante por la evolución de los videojuegos de aventura, un género que ha marcado la historia del entretenimiento interactivo. Desde sus humildes inicios basados en texto hasta las experiencias narrativas modernas e híbridas, exploraremos cómo estos juegos han combinado exploración, rompecabezas y relatos cautivadores para capturar la imaginación de millones de jugadores en todo el mundo. A lo largo de los módulos, analizaremos innovaciones técnicas, influencias culturales y los desarrolladores clave que han dado forma a este universo lúdico.

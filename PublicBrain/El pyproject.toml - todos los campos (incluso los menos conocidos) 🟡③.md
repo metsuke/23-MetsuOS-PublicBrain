@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-09T00:11:58.993Z
-modified: 2025-12-09T16:01:35.462Z
+modified: 2026-01-05T20:05:02.043Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: CursoMetsuDepManager_014.mp4
 ---
-# El pyproject.toml - todos los campos (incluso los menos conocidos) 🔴②
+# El pyproject.toml - todos los campos (incluso los menos conocidos) 🟡③
 
 ![El pyproject.toml - todos los campos (incluso los menos conocidos)](PublicBrain/_resources/2aa13ad84859df87b2816eab648b5790_MD5.jpg)
 
@@ -618,30 +618,28 @@ Amplía `[project]` con características propias de Poetry. Muchos campos están
 - **En el curso**: Esta estructura facilita el wrapping de `poetry-core` para control (límites de tiempo, sin telemetría), haciendo MetsuDepManager más extensible.
 - **Longitud**: Un `pyproject.toml` completo puede superar las 200 líneas; usa herramientas como `toml-sort` para organizarlo.
 
-Este análisis abarca todos los campos conocidos hasta 2025, basado en documentación oficial. Si necesitas ejemplos concretos de MetsuDepManager, echa un vistazo a las páginas del curso. ¡Si surge alguna duda, avísame!
-
 # Referencias Bibliográficas que Apoyan
 
 Estas fuentes respaldan el uso de Poetry y la estructura de `pyproject.toml`, con énfasis en su eficiencia y estándares PEP. He verificado su existencia, vigencia (actuales a 2025) y relevancia científica mediante búsquedas en web y documentación oficial.
 
-- Documentación oficial de Poetry sobre pyproject.toml: [https://python-poetry.org/docs/pyproject/](https://python-poetry.org/docs/pyproject/)  (detalla todos los campos y su integración con PEPs).
-- PEP 517 – A build-system independent format for source trees: [https://peps.python.org/pep-0517/](https://peps.python.org/pep-0517/)  (base para el sistema de construcción en pyproject.toml).
-- PEP 518 – Specifying Minimum Build System Requirements: [https://peps.python.org/pep-0518/](https://peps.python.org/pep-0518/)  (define requisitos de build).
-- PEP 621 – Storing project metadata in pyproject.toml: [https://peps.python.org/pep-0621/](https://peps.python.org/pep-0621/)  (metadatos en pyproject.toml).
-- Tutorial de Real Python sobre Dependency Management with Poetry: [https://realpython.com/dependency-management-python-poetry/](https://realpython.com/dependency-management-python-poetry/)  (guía práctica para inicialización y uso).
-- Vídeo en YouTube: Gestión de dependencias en Python con Poetry: [https://www.youtube.com/watch?v=j3PzCdmbxEE](https://www.youtube.com/watch?v=j3PzCdmbxEE)  (tutorial en español sobre inicialización).
-- Vídeo en YouTube: Cómo Gestionar Tus Proyectos De Python Con Poetry: [https://www.youtube.com/watch?v=sYtXjiCua48](https://www.youtube.com/watch?v=sYtXjiCua48)  (explicación accesible en español).
+1. [Documentación oficial de Poetry sobre pyproject.toml 🟡③🌐](https://python-poetry.org/docs/pyproject/) .- Documentación oficial que explica la estructura y campos del archivo pyproject.toml en Poetry, incluyendo secciones project y tool.poetry, requisitos y compatibilidad con estándares PEP.
+2. [PEP 517 – A build-system independent format for source trees 🟡③🌐](https://peps.python.org/pep-0517/) .- Propuesta que define un formato independiente para sistemas de construcción en árboles de fuente Python, utilizando pyproject.toml y hooks para herramientas como pip.
+3. [PEP 518 – Specifying Minimum Build System Requirements 🟡③🌐](https://peps.python.org/pep-0518/) .- Especificación para declarar requisitos mínimos de sistemas de construcción en proyectos Python mediante pyproject.toml, facilitando la instalación de dependencias de build.
+4. [PEP 621 – Storing project metadata in pyproject.toml 🟡③🌐](https://peps.python.org/pep-0621/) .- Estándar para almacenar metadatos de proyectos como nombre, versión y dependencias en pyproject.toml de manera estática y consistente.
+5. [Tutorial de Real Python sobre Dependency Management with Poetry 🟡③🌐](https://realpython.com/dependency-management-python-poetry/) .- Guía práctica sobre el uso de Poetry para manejar dependencias en Python, cubriendo instalación, configuración de pyproject.toml, entornos virtuales y mejores prácticas.
+6. [Vídeo en YouTube: Gestión de dependencias en Python con Poetry 🟡③🌐](https://www.youtube.com/watch?v=j3PzCdmbxEE) .- Video tutorial en español sobre optimización de procesos de trabajo y gestión de dependencias en Python usando Poetry, por Garaje de ideas | Tech.
+7. [Vídeo en YouTube: Cómo Gestionar Tus Proyectos De Python Con Poetry 🟡③🌐](https://www.youtube.com/watch?v=sYtXjiCua48) .- Video explicativo en español sobre gestión de proyectos Python con Poetry, enfocándose en buenas prácticas de desarrollo, por deployr.
 
 # Referencias Bibliográficas que Refutan
 
 Estas fuentes destacan críticas a Poetry, como lentitud en resolución de dependencias, problemas de compatibilidad o preferencia por alternativas más rápidas como UV o PDM. He confirmado su validez y vigencia (2023-2025) mediante búsquedas.
 
-- Discusión en Reddit sobre críticas a Poetry: [https://www.reddit.com/r/learnpython/comments/10jb11n/what_do_you_feel_about_using_poetry_package/](https://www.reddit.com/r/learnpython/comments/10jb11n/what_do_you_feel_about_using_poetry_package/)  (usuarios reportan inestabilidad y problemas de fiabilidad).
-- Artículo en Medium: Python's Package Management is a Mess: [https://medium.com/@yashbatra11111/pythons-package-management-is-a-mess-b0bb9c1055bf](https://medium.com/@yashbatra11111/pythons-package-management-is-a-mess-b0bb9c1055bf)  (critica fragmentación y conflictos en gestores como Poetry).
-- Comparativa en DEV Community: A Review: Pipenv vs. Poetry vs. PDM: [https://dev.to/frostming/a-review-pipenv-vs-poetry-vs-pdm-39b4](https://dev.to/frostming/a-review-pipenv-vs-poetry-vs-pdm-39b4)  (señala lentitud en caches de Poetry comparado con PDM).
-- Tutorial en DataCamp sobre UV como alternativa: [https://www.datacamp.com/es/tutorial/python-uv](https://www.datacamp.com/es/tutorial/python-uv)  (destaca que UV es más rápido que Poetry en 2025).
-- Vídeo en YouTube: why I will never use python-poetry: [https://www.youtube.com/watch?v=Gr9o8MW_pb0](https://www.youtube.com/watch?v=Gr9o8MW_pb0)  (crítica personal a políticas de depreciación y usabilidad).
-- Artículo en GeeksforGeeks: How to fix "Python Poetry Install Failure": [https://www.geeksforgeeks.org/python/how-to-fix-python-poetry-install-failure/](https://www.geeksforgeeks.org/python/how-to-fix-python-poetry-install-failure/)  (aborda problemas comunes de instalación en 2025).
+- 1. [Discusión en Reddit sobre críticas a Poetry 🟡③🌐](https://www.reddit.com/r/learnpython/comments/10jb11n/what_do_you_feel_about_using_poetry_package/) .- The Reddit post and comments highlight several criticisms of Poetry as a Python package manager: unreliable and prone to failures, redundant and unnecessary, imposes unnecessary complexity, limited applicability.
+2. [Artículo en Medium: Python's Package Management is a Mess 🟡③🌐](https://medium.com/@yashbatra11111/pythons-package-management-is-a-mess-b0bb9c1055bf) .- Python’s package management is criticized for inconsistencies, dependency conflicts, and tool fragmentation including pip, conda, poetry, pipenv, and virtualenv.
+3. [Comparativa en DEV Community: A Review: Pipenv vs. Poetry vs. PDM 🟡③🌐](https://dev.to/frostming/a-review-pipenv-vs-poetry-vs-pdm-39b4) .- Pipenv, Poetry, and PDM are compared on performance and correctness; Pipenv has poor performance and correctness issues, while Poetry and PDM perform better, with PDM being faster.
+4. [Tutorial en DataCamp sobre UV como alternativa 🟡③🌐](https://www.datacamp.com/es/tutorial/python-uv) .- UV es un gestor de paquetes Python de alto rendimiento escrito en Rust que sirve como alternativa a herramientas como Poetry, ofreciendo gestión de dependencias y entornos virtuales con velocidad superior.
+5. [Vídeo en YouTube: why I will never use python-poetry 🟡③🌐](https://www.youtube.com/watch?v=Gr9o8MW_pb0) .- The video criticizes Python Poetry on technical grounds including default versioning leading to conflicts and trust issues from mishandled deprecation of installation scripts.
+6. [Artículo en GeeksforGeeks: How to fix "Python Poetry Install Failure" 🟡③🌐](https://www.geeksforgeeks.org/python/how-to-fix-python-poetry-install-failure/) .- Addresses common installation issues with Python Poetry including missing dependencies, network problems, permissions, compatibility, and corrupted installations with fixes.
 
 
 ![[Plantilla - 1MT#One More Thing]]

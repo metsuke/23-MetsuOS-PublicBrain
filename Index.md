@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-01-03T13:21:49.655Z
+modified: 2026-01-04T07:27:59.960Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 94
+ver_rev: 96
 nav_primary:
 nav_secondary:
 tags:
@@ -39,18 +39,10 @@ Continuar leyendo en ... [[Lanzamiento de Perseus para ZX Spectrum 128K -  Una a
  --- column-end ---
 
 ![Curso de Desarrollo de Videojuegos a pelo con Fran Gallego](_resources/f9331a87d84f315753172d2a1d04bf87_MD5.jpg)
-### GameDev C++ - Curso de Desarrollo de Videojuegos a pelo con Fran Gallego
+### Desarrollo - Curso de Desarrollo de Videojuegos a pelo con Fran Gallego
 
 Continuar leyendo en ... [[Curso de Desarrollo de Videojuegos a pelo con Fran Gallego 🟡③]]
  --- column-end ---
-
-
-![Historia Mundial de los videojuegos de aventura](PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg)
-## Videojuegos Aventura - Historia Mundial de los videojuegos de aventura
-
-Continua leyendo en [[Historia Mundial de los videojuegos de aventura 🟡③]]
-
---- column-end ---
 
 ![Conceptos básicos sobre ciencia y su evolución histórica ](PublicBrain/_resources/8253f4e1948002202ecb3d7a7838d194_MD5.jpg)
 ### Ciencia - Conceptos básicos sobre ciencia y su evolución histórica
@@ -63,6 +55,14 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 ### Epistemología - Diferencias y similitudes entre epistemología y gnoseología
 
 Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnoseología 🟡③]]
+
+--- column-end ---
+
+
+![Historia Mundial de los videojuegos de aventura](PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg)
+### Videojuegos - Historia Mundial de los videojuegos de aventura
+
+Continua leyendo en [[Historia Mundial de los videojuegos de aventura 🟡③]]
 
 --- column-end ---
 

@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e628f08e5192a263",
+        "id": "77328a3a5ba3eb5d",
         "type": "tabs",
         "children": [
           {
-            "id": "6bc18d061a96d34b",
+            "id": "03d6c42b03276387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
+                "file": "PublicBrain/Requisitos Previos para el Curso de MetsuDepManager - Prepárate sin Complicaciones 🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Galería de Imágenes de Efemétides  ⚫①"
-            }
-          },
-          {
-            "id": "8a678e8710a77fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "⚫🔴🟡🟢🔵⚪ (🔴②)"
+              "title": "Requisitos Previos para el Curso de MetsuDepManager - Prepárate sin Complicaciones 🟡③"
             }
           }
         ]
@@ -216,15 +202,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6bc18d061a96d34b",
+  "active": "03d6c42b03276387",
   "lastOpenFiles": [
-    "PublicBrain/_resources/477819178f8280d834a72502a46729af_MD5.jpeg",
-    "PublicBrain/_resources/8027b5017afab8ca0a46c6cc53021f93_MD5.jpeg",
-    "PublicBrain/Historia Mundial de los videojuegos de aventura 🟡③.md",
-    "PublicBrain/Historia de los videojuegos de aventura a traves de CAAD 🟡③.md",
+    "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
+    "PublicBrain/MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③.md",
+    "PublicBrain/El pyproject.toml - todos los campos (incluso los menos conocidos) 🟡③.md",
+    "Apps.md",
+    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
+    "PublicBrain/MetsuDepManager - Visión general del proyecto 🟡③.md",
     "Index.md",
     "Novedades.md",
     "KB.md",
+    "PublicBrain/Historia Mundial de los videojuegos de aventura 🟡③.md",
+    "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
+    "PublicBrain/_resources/477819178f8280d834a72502a46729af_MD5.jpeg",
+    "PublicBrain/_resources/8027b5017afab8ca0a46c6cc53021f93_MD5.jpeg",
+    "PublicBrain/Historia de los videojuegos de aventura a traves de CAAD 🟡③.md",
     "PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg",
     "Historia Mundial de los videojuegos de aventura ⚫①.md",
     "PublicBrain/Index.md",
@@ -234,7 +227,6 @@
     "PublicBrain/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③.md",
     "PublicBrain/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③.md",
     "Juegos.md",
-    "Apps.md",
     "PublicBrain/Historia de la Ciencia y del Método Científico 🟡③.md",
     "PublicBrain/_resources/8253f4e1948002202ecb3d7a7838d194_MD5.jpg",
     "El Proyecto.md",
@@ -242,18 +234,12 @@
     "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
     "PublicBrain/Diferencias y similitudes entre epistemología y gnoseología 🟡③.md",
     "NPL.md",
-    "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
-    "PublicBrain/Definición y alcance de la epistemología 🟡③.md",
     "PublicBrain/_resources/0dfb6376327738625c73e8887ffb44b6_MD5.jpg",
-    "Diferencias y similitudes entre epistemología y gnoseología 🟡③.md",
-    "PublicBrain/Desglose frase por frase y conversión a hipótesis.md",
-    "PublicBrain/Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③.md",
     "PublicBrain/_resources/500fa56b6e3d054e13d428f62d07699b_MD5.jpg",
     "Screen_Reduction_20_256x192.png",
     "PublicBrain/_resources/982f548b8563f8642e77298d895ea986_MD5.jpg",
     "Screen_Fullsize.png",
     "_resources/9f04cadb874aa99346d0f7d326ab18ad_MD5.jpg",
-    "_resources/f9331a87d84f315753172d2a1d04bf87_MD5.jpg",
     "PublicBrain/ifarchive.org/if-archive/magazines",
     "PublicBrain/ifarchive.org/if-archive",
     "PublicBrain/ifarchive.org",

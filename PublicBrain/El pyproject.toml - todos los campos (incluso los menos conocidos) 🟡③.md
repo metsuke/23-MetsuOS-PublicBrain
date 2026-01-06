@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-09T00:11:58.993Z
-modified: 2026-01-05T20:05:02.043Z
+modified: 2026-01-06T19:42:46.538Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -26,181 +26,288 @@ MOS_TopImg_Video: CursoMetsuDepManager_014.mp4
 
 [[Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③]]
 
-> OJO WIP
-# Inicialización de un Proyecto Python desde Cero con Poetry
+## Inicialización de un Proyecto Python desde Cero con Poetry
 
 Si estás empezando un proyecto en Python y quieres usar Poetry como gestor de dependencias, no hace falta complicarse con comandos manuales uno a uno. En su lugar, he preparado un script sencillo en Python, llamado `inicializar.py`, que automatiza todo el proceso. Este script parte de un entorno Python 3.11 o superior con `pip` instalado (que viene de serie con Python). Primero, comprueba si Poetry está disponible; si no, lo instala automáticamente mediante `pip`. Luego, crea el proyecto en el directorio actual con `poetry new .`, genera la estructura básica y un fichero `pyproject.toml` preconfigurado. Por último, instala las dependencias iniciales y verifica que todo esté en orden.
 
 Para ponerlo en marcha:
 1. Crea un directorio vacío para tu proyecto (por ejemplo, `mkdir mi_proyecto && cd mi_proyecto`).
-2. Crea el fichero `inicializar.py` en ese directorio con el código que te detallo a continuación.
-3. Ejecuta el script: `python inicializar.py`.
-   - Si quieres personalizarlo (por ejemplo, el nombre del paquete), puedes pasar argumentos como `python inicializar.py --name mi-proyecto --python "^3.11"`.
+2. Crea el fichero `init_metsudepmanager.py` en ese directorio con el código que te detallo a continuación.
+3. Ejecuta el script: `python init_metsudepmanager.py`.
 
-El script gestiona errores habituales, como problemas de permisos o versiones incompatibles, y utiliza `subprocess` para ejecutar comandos de manera segura. Aquí va el código completo:
+El script gestiona errores habituales, y utiliza `subprocess` para ejecutar comandos de manera segura. Aquí va el código completo:
 
 ```python
-#!/usr/bin/env python3
-# initialize.py – Versión ULTRA-ROBUSTA para MetsuDepManager (maneja errores de venv y Python 3.13)
+# Comentarios para humanos
+
+# Este script inicializa un entorno de desarrollo para MetsuDepManager basado en Poetry.
+
+# Su función principal es:
+
+# - Verificar si Poetry está instalado en el sistema.
+
+# - Si no lo está, instalarlo automáticamente usando el método oficial recomendado (instalador vía curl) con fallback a pip.
+
+# - Detectar si ya existe un proyecto Poetry (pyproject.toml) en el directorio actual.
+
+# - Si existe: ejecutar 'poetry install' para instalar todas las dependencias y crear/actualizar el entorno virtual.
+
+# - Si no existe: inicializar un nuevo proyecto Poetry de forma NO interactiva usando 'poetry init --no-interaction'.
+
+# Esto crea un pyproject.toml básico con valores por defecto (nombre basado en el directorio, versión 0.1.0, etc.).
+
+# - Añadir temporalmente ~/.local/bin al PATH si es necesario (para que Poetry sea accesible en la misma sesión).
+
+# - Proporcionar mensajes claros al usuario sobre cada paso realizado.
+
+# El script está diseñado para ser ejecutado una sola vez al clonar o crear el proyecto MetsuDepManager,
+
+# pero puede volver a ejecutarse sin problemas para reinstalar dependencias.
+
+# Compatible con macOS, Linux y Windows (WSL o nativo con Python instalado).
+
+# Autor: Raul Carrillo aka metsuke <metsuke@gmail.com>
+
+# Fecha de última actualización: enero 2026.
+
+# Corrección reciente: Se cambió a modo no interactivo en 'poetry init' para evitar que el script se cuelgue esperando input del usuario.
+
+  
+
+# Documentación
+
+# Uso:
+
+# python init_metsudepmanager.py
+
+# Requisitos previos:
+
+# - Python 3.8 o superior instalado y accesible en PATH.
+
+# - Conexión a internet la primera vez (para descargar e instalar Poetry si no está presente).
+
+# Flujo del script:
+
+# 1. Verifica si 'poetry' está disponible en PATH.
+
+# 2. Si no → intenta instalar vía instalador oficial (curl).
+
+# 3. Si falla el instalador oficial → fallback a 'pip install --user poetry'.
+
+# 4. Añade ~/.local/bin al PATH de la sesión actual si es necesario.
+
+# 5. Si existe pyproject.toml → ejecuta 'poetry install'.
+
+# 6. Si no existe → ejecuta 'poetry init --no-interaction' para crear un pyproject.toml básico automáticamente.
+
+# 7. Informa al usuario de los siguientes pasos recomendados (poetry shell, poetry add, etc.).
+
+# Notas:
+
+# - El script no modifica archivos existentes ni fuerza opciones; respeta el estado actual del proyecto.
+
+# - En caso de error crítico (imposible instalar Poetry), termina con código de salida 1 y mensaje claro.
+
+# - El modo no interactivo usa valores por defecto; puedes editar pyproject.toml manualmente después.
+
+# Autor: Raul Carrillo aka metsuke <metsuke@gmail.com>
+
+  
+
+# Comentarios para IA
+
+# Estado actual del código (enero 2026):
+
+# - Instalación de Poetry: método principal vía instalador oficial curl (recomendado por python-poetry.org).
+
+# - Fallback robusto a pip install --user poetry.
+
+# - Detección automática de PATH y añadido temporal para la sesión actual.
+
+# - Lógica diferenciada: install existente vs. init nuevo proyecto.
+
+# - Uso de shutil.which para detección fiable de Poetry.
+
+# - Manejo de errores detallado con mensajes claros para el usuario.
+
+# - No se añaden dependencias iniciales automáticas (para respetar libertad del usuario).
+
+# - Compatible con entornos restringidos (sin sudo necesario gracias a --user).
+
+# - Cambio clave: 'poetry init --no-interaction' para evitar hanging en subprocess.run() cuando se espera input interactivo.
+
+# - Autor añadido explícitamente como "Raul Carrillo aka metsuke <metsuke@gmail.com>" en comentarios para humanos y documentación.
+
+# Todo alineado con mejores prácticas actuales de Poetry en 2026.
+
+  
+
+# Exigencias Generales a la IA
+
+# - Debes generar y mantener varios bloque de comentarios varios en la cabecera del fichero, como comentario de comentarios para humanos, otro de documentacion, otro con comentarios para IA en la que tu te apuntes lo que necesites para futuros trabajos con el script, y las dos secciones de Exigencias a la IA, la general (generica de programación) y la especifica del script que estamos trabajando.
+
+# - Siempre actualiza el contenido de los comentarios para humanos e IA en cada revisión del script, manten intacta el área de Exigencias a IA.
+
+# - No modifiques nada del script que no te hayan pedido explícitamente sin consultarlo primero.
+
+# ---
+
+# Exigencias especificas del script para la IA
+
+  
 
 import subprocess
-import sys
-import argparse
-import os
-import re
 
-def run_command(cmd, check=True, verbose=False):
-    """Ejecuta un comando shell, maneja errores y muestra output si verbose."""
-    try:
-        result = subprocess.run(cmd, shell=True, check=check, text=True, capture_output=True)
-        if verbose:
-            print(f"STDOUT: {result.stdout.strip()}")
-            if result.stderr:
-                print(f"STDERR: {result.stderr.strip()}")
-        return result.stdout.strip(), result.stderr.strip()
-    except subprocess.CalledProcessError as e:
-        print(f"❌ Error ejecutando '{cmd}': Código {e.returncode}")
-        if e.stdout:
-            print(f"STDOUT: {e.stdout.strip()}")
-        if e.stderr:
-            print(f"STDERR: {e.stderr.strip()}")
-        sys.exit(1)
+import sys
+
+import os
+
+import shutil
+
+  
+
+def run_command(cmd, check=True):
+
+"""Ejecuta un comando en la shell y maneja errores de forma amigable."""
+
+try:
+
+result = subprocess.run(cmd, check=check, text=True, capture_output=True)
+
+if result.stdout:
+
+print(result.stdout)
+
+return True
+
+except subprocess.CalledProcessError as e:
+
+print(f"Error ejecutando {' '.join(cmd)}:")
+
+if e.stderr:
+
+print(e.stderr)
+
+return False
+
+except FileNotFoundError:
+
+print(f"Comando no encontrado: {cmd[0]}. Verifica que esté instalado y en PATH.")
+
+return False
+
+  
 
 def is_poetry_installed():
-    try:
-        run_command("poetry --version", check=False)
-        return True
-    except:
-        return False
+
+"""Comprueba si Poetry está disponible en el sistema."""
+
+return shutil.which("poetry") is not None
+
+  
 
 def install_poetry():
-    print("Instalando/Actualizando Poetry...")
-    run_command("pip install --upgrade poetry")
 
-def clean_cache():
-    """Limpia cache de Poetry para evitar corrupciones."""
-    print("Limpiando cache de Poetry...")
-    run_command("poetry cache clear --all pypi")
+"""Instala Poetry usando el método oficial recomendado (2026)."""
 
-def create_pyproject_if_needed(name):
-    if os.path.exists("pyproject.toml"):
-        print("pyproject.toml ya existe → se reutiliza")
-        return
+print("Poetry no detectado. Instalándolo mediante el instalador oficial...")
 
-    print(f"Creando pyproject.toml básico para {name}...")
-    # poetry init sin interacción, con valores del curso
-    cmd = (
-        f"poetry init --no-interaction "
-        f"--name {name} "
-        f"--description 'Gestor de paquetes ético con Poetry como backend' "
-        f"--author 'Equipo Metsuke <dev@metsuke.com>' "
-        f"--license MIT "
-        f"--python '>=3.11,<3.15'"
-    )
-    run_command(cmd, verbose=True)
+# Método principal: instalador oficial vía curl
 
-def force_python_version(target=">=3.11,<3.15"):
-    """Fuerza versión de Python en pyproject.toml."""
-    with open("pyproject.toml", "r", encoding="utf-8") as f:
-        content = f.read()
+install_cmd = ["curl", "-sSL", "https://install.python-poetry.org", "|", sys.executable, "-"]
 
-    cambios = 0
+if run_command(install_cmd):
 
-    # [tool.poetry.dependencies] → python =
-    if re.search(r"^\s*python\s*=", content, flags=re.MULTILINE):
-        content = re.sub(
-            r'(python\s*=\s*["\']).*?(["\'])',
-            f'python = "{target}"',
-            content
-        )
-        cambios += 1
-    else:
-        content = re.sub(
-            r"(\[tool\.poetry\.dependencies\])",
-            f"\\1\npython = \"{target}\"",
-            content
-        )
-        cambios += 1
+print("Instalación oficial completada.")
 
-    # [project] → requires-python
-    if "[project]" in content:
-        if re.search(r"^\s*requires-python\s*=", content, flags=re.MULTILINE):
-            content = re.sub(
-                r'(requires-python\s*=\s*["\']).*?(["\'])',
-                f'requires-python = "{target}"',
-                content
-            )
-        else:
-            content = re.sub(
-                r"(\[project\])",
-                f"\\1\nrequires-python = \"{target}\"",
-                content
-            )
-        cambios += 1
+else:
 
-    with open("pyproject.toml", "w", encoding="utf-8") as f:
-        f.write(content)
+print("Fallback: instalando Poetry vía pip...")
 
-    print(f"Versión de Python forzada a {target} en {cambios} lugar(es)")
+if not run_command([sys.executable, "-m", "pip", "install", "--user", "poetry"]):
 
-def setup_env_and_install():
-    """Configura venv y instala, con manejo de errores para Python 3.13 y volúmenes externos."""
-    # Fuerza uso de Python local (crucial para 3.13 y macOS)
-    print("Configurando entorno virtual con Python local...")
-    run_command("poetry env use $(which python3)", verbose=True)
+print("No se pudo instalar Poetry automáticamente.")
 
-    # Verifica compatibilidad
-    run_command("poetry check", verbose=True)
+return False
 
-    # Instala sin --sync para proyectos vacíos (evita remociones)
-    print("Instalando dependencias (modo tolerante)...")
-    try:
-        run_command("poetry install", verbose=True)
-    except SystemExit:
-        # Retry con --no-root si es proyecto editable
-        print("Retry sin instalar root (proyecto editable)...")
-        run_command("poetry install --no-root", verbose=True)
+# Añadir ~/.local/bin al PATH de esta sesión si es necesario
+
+poetry_path = os.path.expanduser("~/.local/bin")
+
+if poetry_path not in os.environ.get("PATH", ""):
+
+os.environ["PATH"] += os.pathsep + poetry_path
+
+print(f"Añadido {poetry_path} al PATH de esta sesión.")
+
+return True
+
+  
 
 def main():
-    parser = argparse.ArgumentParser(description="Inicializa MetsuDepManager con manejo de errores robusto")
-    parser.add_argument("--name", default="metsudepmanager", help="Nombre del paquete")
-    parser.add_argument("--verbose", action="store_true", help="Modo debug detallado")
-    args = parser.parse_args()
 
-    print("Inicializador robusto para el curso de MetsuDepManager")
-    print(f"Proyecto: {args.name}")
-    print(f"Python detectado: {sys.version}")
+print("=== Inicializador de MetsuDepManager con Poetry ===\n")
 
-    if sys.version_info < (3, 11):
-        print("❌ Este script necesita Python 3.11 o superior")
-        sys.exit(1)
+if not is_poetry_installed():
 
-    if not is_poetry_installed():
-        install_poetry()
+if not install_poetry():
 
-    clean_cache()  # Limpia al inicio para evitar corrupciones
-    create_pyproject_if_needed(args.name)
-    force_python_version(">=3.11,<3.15")
-    setup_env_and_install()
+print("\nNo se pudo instalar Poetry. Instálalo manualmente desde:")
 
-    print("\n🎉 ¡Todo listo sin complicaciones!")
-    print("Comandos útiles:")
-    print("   poetry shell                  → entrar al entorno")
-    print("   poetry add typer rich pydantic → dependencias clave del curso")
-    print("   poetry run python -c 'print(\"¡Éxito!\")' → prueba rápida")
-    if args.verbose:
-        print("\nModo verbose activado: Revisa la salida arriba para detalles.")
+print("https://python-poetry.org/docs/#installation")
+
+sys.exit(1)
+
+# Verificar nuevamente tras instalación
+
+if not is_poetry_installed():
+
+print("Poetry instalado pero no detectable en PATH. Reinicia la terminal o añade ~/.local/bin al PATH.")
+
+sys.exit(1)
+
+print("Poetry está disponible y listo para usar.\n")
+
+if os.path.exists("pyproject.toml"):
+
+print("Proyecto Poetry existente detectado (pyproject.toml encontrado).")
+
+print("Instalando dependencias...\n")
+
+run_command(["poetry", "install"])
+
+else:
+
+print("No se encontró pyproject.toml. Inicializando nuevo proyecto Poetry de forma automática (no interactiva)...\n")
+
+run_command(["poetry", "init", "--no-interaction"])
+
+print("\npyproject.toml creado con valores por defecto.")
+
+print("Edítalo manualmente si necesitas cambiar nombre, versión, autor, etc.")
+
+print("Luego ejecuta 'poetry install' para crear el entorno virtual.")
+
+print("\n¡MetsuDepManager inicializado correctamente!")
+
+print("Pasos recomendados:")
+
+print(" • poetry shell → activar el entorno virtual")
+
+print(" • poetry add <paquete> → añadir nuevas dependencias")
+
+print(" • poetry run python tu_script.py → ejecutar scripts en el entorno")
+
+  
 
 if __name__ == "__main__":
-    main()
+
+main()
 ```
 
 ### Explicación breve del script (sin entrar en detalles manuales)
-- **Verificación e instalación**: Comprueba con `poetry --version` si está instalado; si no, lo hace con `pip`.
-- **Inicialización**: Ejecuta `poetry init .` para crear la estructura con layout de fuentes y el `pyproject.toml` base. Luego, actualiza la versión de Python para adaptarla a tus necesidades.
-- **Instalación y verificación**: Genera el `poetry.lock`, instala todo en un entorno virtual y valida con `poetry check`.
-- **Personalización**: Usa argumentos en la línea de comandos para el nombre y la versión de Python (pensado para entornos con Python 3.11+ sin extras).
-- **En el contexto del curso**: Este script podría formar parte de MetsuDepManager como un comando inicial, garantizando entornos reproducibles sin pasos a mano. Si trabajas en entornos sin conexión, preinstala Poetry offline (por ejemplo, descargando wheels con `pip download poetry` y transfiriéndolos).
+- El script comprueba si poetry está instalado, si no lo está lo instala
+- A continuacion, si ya existe el toml ejecuta poetry install, en caso contrario inicializa con los datos por defecto, y deberás configurar el proyecto.
 
 Con esto, tienes el proyecto listo en un santiamén. Ahora, vamos a profundizar en el fichero `pyproject.toml`, explicando todos sus campos de forma detallada pero accesible.
 

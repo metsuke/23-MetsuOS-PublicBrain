@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-12-26T06:31:22.528Z
+modified: 2026-01-16T12:32:59.179Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 41
+ver_rev: 43
 nav_primary:
 nav_secondary:
 tags:
@@ -41,15 +41,15 @@ Continuar leyendo en ... [[Lanzamiento de Perseus para ZX Spectrum 128K -  Una a
 --- column-end ---
 
 ![Portada homenaje al esfuerzo editorial de Jose Luis Sanz](PublicBrain/_resources/982f1e9ffc73fd3ee957391ea685d9e4_MD5.jpg)
-## Noticias - El esperadísimo regreso de Micromanía: Una nueva etapa para una revista absolutamente icónica
+## Noticias - El esperadísimo regreso de Micromanía: Una nueva etapa para una revista absolutamente icónica (Actualizada)
 
 **¡Qué alegría para los amantes de los videojuegos retro!** 
 
-Diciembre de 2025 - Después de algo más de un año y medio, que se hizo interminable, la legendaria revista **Micromanía** vuelve a la vida. El pasado domingo 7 de diciembre de 2025, en el animado Salón del Videojuego de Madrid, José Luis Sanz, conocido como "Skywalker", y Marcos García, "The Elf", compartieron los primeros detalles de esta cuarta etapa. 
+Diciembre de 2025 / Enero de 2026 - Después de algo más de un año y medio, que se hizo interminable, la legendaria revista **Micromanía** vuelve a la vida. El pasado domingo 7 de diciembre de 2025, en el animado Salón del Videojuego de Madrid, José Luis Sanz, conocido como "Skywalker", y Marcos García, "The Elf", compartieron los primeros detalles de esta cuarta etapa. 
 
 Es un renacimiento que mezcla el encanto de los años 80 y 90 con el ritmo actual del mundo de los videojuegos, uniendo generaciones de aficionados.
 
-Continua leyendo en ... [[Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③]]
+Continua leyendo en ... [[œNoticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③]]
 
 --- column-end ---
 

@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-09T16:06:48.879Z
-modified: 2025-12-21T07:01:42.954Z
+modified: 2026-01-16T12:30:41.993Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 18
+ver_rev: 20
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③
+# œNoticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③
 
 ![Portada homenaje al esfuerzo editorial de Jose Luis Sanz](PublicBrain/_resources/982f1e9ffc73fd3ee957391ea685d9e4_MD5.jpg)
 
@@ -27,17 +27,25 @@ tags: []
 
 **¡Qué alegría para los amantes de los videojuegos retro!** 
 
-Diciembre de 2025 - Después de algo más de un año y medio, que se hizo interminable, la legendaria revista **Micromanía** vuelve a la vida. El pasado domingo 7 de diciembre de 2025, en el animado Salón del Videojuego de Madrid, José Luis Sanz, conocido como "Skywalker", y Marcos García, "The Elf", compartieron los primeros detalles de esta cuarta etapa. 
+Diciembre de 2025 / Enero de 2026 - Después de algo más de un año y medio, que se hizo interminable, la legendaria revista **Micromanía** vuelve a la vida. El pasado domingo 7 de diciembre de 2025, en el animado Salón del Videojuego de Madrid, José Luis Sanz, conocido como "Skywalker", y Marcos García, "The Elf", compartieron los primeros detalles de esta cuarta etapa. 
 
 Es un renacimiento que mezcla el encanto de los años 80 y  con el ritmo actual del mundo de los videojuegos, uniendo generaciones de aficionados.
-## Un Regreso Lleno de Nostalgia
+## Un Regreso Lleno de Nostalgia con prereserva a partir del 15 de Febrero
+
+![Portada de micromania usada para el anuncio de la prereserva de la revista](PublicBrain/_resources/323b8b8a1d65273ddc0185dd8ebf15c5_MD5.jpg)
+*Esta es la portada que se uso para el anuncio oficial de la prereserva*
 
 Imagina el año 1985: el ZX Spectrum reina en las casas, y Micromanía aparece como un guía imprescindible para los apasionados de la microinformática y los videojuegos. Editada por Hobby Press, se centraba en los sistemas de 8 bits como el Amstrad CPC, MSX y Commodore 64, dejando una huella en toda una generación. Con casi 40 años de historia —desde mayo de 1985 hasta su cierre en enero de 2024, con 450 números en total—, el alza desorbitada del precio del papel en 2023 fue el golpe final. Pero, como en las grandes aventuras de los arcades, no era un final definitivo. En 2025, Micromanía anuncia su regresa para conectar el pasado con el presente, honrando un legado que incluso inspiró a revistas como Edge en los 90.
+
+Pues a partir del 15 de Febrero podrás [preresrevar el primer número de esta nueva etapa  🟡③🌐](https://tienda.hechoconpixels.com/), como se anunció en la tienda.
+
+![El anuncio oficial de la prereserva en la portada de la tienda](PublicBrain/_resources/9952ba54676c3b831ddb4a2f7d630bdf_MD5.jpg)
 ## Por Qué Importa Este Regreso
 
 Micromanía no era solo una revista; era un vínculo cultural entre lo analógico y lo digital. En un momento en que el retro gaming está en auge —con retornos como el de Microhobby en julio de 2025—, su vuelta fortalece esta ola de rescate de tesoros impresos. Representa el alma de la prensa española de videojuegos: desde reseñas detalladas hasta coberturas pioneras de consolas como la Super Nintendo. Su cierre en 2024 dejó un hueco, pero el anuncio en Madrid ha generado una ola de entusiasmo en la comunidad, recordándonos que los clásicos siempre tienen una segunda oportunidad.
 
 ![La portada Mockup de Micromanía que se ha utilizado para el anunncio](PublicBrain/_resources/34d7cf6859d057724642e31efe6106b6_MD5.jpeg)
+*Esta es la portada que se uso para el anuncio oficial de la revista*
 ## Qué Podemos Esperar
 
 Aunque los detalles completos aún no se han revelado del todo, el anuncio en el Salón del Videojuego confirmó lo básico. Micromanía volverá en **formato físico y digital**, manteniendo su esencia pero adaptándose a los tiempos modernos. Se distribuirá exclusivamente a través de la **tienda web de Hecho con Pixels**, el sello responsable de iniciativas como Pixels y el [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|reciente regreso de Microhobby]]. No se dio una fecha exacta de lanzamiento ni el precio, pero la emoción es evidente: ¿mantendrá las 84 páginas grapadas de antes, o añadirá elementos interactivos? Lo que sí está claro es su enfoque en el universo de los videojuegos, con un equipo que garantiza calidad y renovación.
@@ -85,15 +93,19 @@ Aún no hay mucha información 100% confirmada, pero preparemos la jugada para t
 | ------------------------ | ----------------------------------------------------------- |
 | **Formato**              | Papel y digital                                             |
 | **Distribución**         | Tienda web Hecho con Pixels (no en quioscos)                |
-| **Fecha de lanzamiento** | Pendiente de anuncio                                        |
+| **Fecha de lanzamiento** | Pendiente de anuncio. Prereserva el 15 de Febrero.          |
 | **Precio**               | Pendiente de anuncio                                        |
-|                          | No especificada (posiblemente similar a 4-6 números al año) |
+| Periodidicdad            | No especificada (posiblemente similar a 4-6 números al año) |
 
 ## Recepción y Expectativas
 
 La noticia ha provocado una tormenta de reacciones positivas: en X (antes Twitter), los fans celebran este "milagro" tras el éxito de Microhobby, mientras los coleccionistas imaginan ediciones limitadas. Surgen preguntas: ¿incluirá DVDs con clásicos como en ediciones pasadas? ¿Se adaptará a los esports y la realidad virtual? La comunidad, unida por la nostalgia, espera ansiosa más novedades, siguiendo el canal de Youtube de Hecho Con Pixels y sus directos.
 
 **<iframe width="100%" height="480" src="https://www.youtube.com/embed/-YOM6_HV-b4?si=Uzw_xH4h91x24XQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
+
+En este otro directo, se anunció oficialmente el anuncio oculto de la fecha de prelanzamiento:
+
+**<iframe width="100%" height="480" src="https://www.youtube.com/embed/Zc7LBzUcAeE?si=A88mSqaYlSex_wPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
 ## Contexto Actual y Comparativas
 
 En un 2025 donde el retro se mezcla con lo indie —pensad en Evercade o juegos homebrew para ZX Spectrum—, Micromanía encaja a la perfección. Comparada con Microhobby (regreso en papel grapado, 84 páginas), promete un enfoque más amplio en videoconsolas y PC. 
@@ -129,6 +141,7 @@ Estas fuentes confirman el anuncio del regreso de Micromanía en 2025, con detal
 3. [Presentación: MICROMANÍA con JOSE LUIS SANZ y MARCOS GARCÍA (YouTube) 🟡③🌐](https://www.youtube.com/watch?v=PqYzZobc4s8) .- Video de presentación del regreso de Micromanía (7 dic 2025), detalles de cuarta etapa retro, equipo, formato y lanzamiento previsto.
 4. [Regresa Micromanía... - Uvejuegos 🟡③🌐](https://uvejuegos.com/noticia/Regresa-Micromania-la-historica-revista-espanola-con-una-cuarta-etapa-en-formato-papel-y-digital/51268) .- Anuncio regreso Micromanía en papel/digital, foco retro 80s-90s, 4-6 números/año, equipo histórico, cierre 2024.
 5. [Si has crecido con los videojuegos... - Xataka 🟡③🌐](https://www.xataka.com/videojuegos/micromania-no-solo-cierra-revista-historica-tambien-desaparece-forma-entender-prensa-videojuegos) .- Cierre de Micromanía en 2024, etapas históricas (8-bit, 16-bit, PC), impacto generacional y evolución del periodismo videojueguil.
+6. [Video en que se anuncia la fecha oficial de la prereserva de la revista  🟡③🌐](https://www.youtube.com/watch?v=Zc7LBzUcAeE) .- Directo en que se anuncia oficialmente el anuncio extraoficial con nocturnidad y alevosía xD de la prereserva para el 15/02/2026
 
 ## Referencias Bibliográficas que Reflejan el cierre en 2024, entonces "definitivo"
 

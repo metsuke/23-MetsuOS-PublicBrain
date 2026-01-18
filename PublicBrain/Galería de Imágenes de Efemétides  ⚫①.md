@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-10T00:52:13.075Z
-modified: 2026-01-03T17:58:20.655Z
+modified: 2026-01-18T20:53:40.874Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary: 
 nav_secondary: 
 tags:
@@ -48,6 +48,8 @@ Una revista de autor, de referencia y altisima calidad en contenido y diseño so
 
 ![Header Lanzamiento de Hecho con Pixels 1](PublicBrain/_resources/8027b5017afab8ca0a46c6cc53021f93_MD5.jpeg)
 
+* 04/11 a 10/11 .- Lanzamiento Revista Pixels (2024)
+	* Semana compartida con Lanzamiento de Microhobby (1984)
 ## Lanzamiento de Microhobby 218
 
 Tomando el testigo y continuando la leyenda de los 8 bits
@@ -72,6 +74,9 @@ El videojuego de rol 2D que me marcó completamente en la era Megadrive.
 
 ![Header Lanzamiento de Shinning Force 2](PublicBrain/_resources/477819178f8280d834a72502a46729af_MD5.jpeg)
 
+* 02/07 a 07/07 .- Lanzamiento Shinning Force II en España y Europa (1995)
+* 01/10 a 07/10 .- Lanzamiento Shinning Force II en Japón (1993)
+* 19/10 a 25/10 .- Lanzamiento Shinning Force II en Norteamérica (1994)
 
 ¡Casi puedo ver el cabinet de MetsuOS con todas estas imágenes en rotación al estilo Protector de Pantalla!
 

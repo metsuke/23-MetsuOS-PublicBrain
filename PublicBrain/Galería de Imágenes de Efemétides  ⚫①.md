@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-10T00:52:13.075Z
-modified: 2026-01-18T20:53:40.874Z
+modified: 2026-01-24T00:41:29.120Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,8 @@ tags:
 Esta sección muestra los distintos headers asociados a las efemérides de las que hablamos en la cabecera de la web al tiempo que damos un aspecto visual acorde a la efemérides que celebramos.
 
 Más adelante entraremos a detalle en los eventos, uno por uno, por ahora, ¡disfrutemos de las vistas!
+
+> En estos momentos he dejado de incorporar nuevos eventos - salvo excepciones contadas - para centrarme en mejorar la tecnología implicada, a través del [[Curso Estructura de CSS Dinámico con Efemérides 🟡③]]
 ## Cabecera de MetsuOS
 
 Esta cabecera está inspirada en Another World, y asociada al diseño del proyecto.

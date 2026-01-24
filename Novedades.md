@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-01-03T13:20:30.391Z
+modified: 2026-01-23T17:13:23.257Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 136
+ver_rev: 139
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,6 +29,14 @@ Number of Columns: 2
 Border: off
 ```
 
+![Curso Estructura de CSS Dinámico con Efemérides](PublicBrain/_resources/1faed4e9938f7a9bab5303dbb9fa9dfe_MD5.jpg)
+## Curso Estructura de CSS Dinámico con Efemérides
+
+Este curso propone un viaje técnico desde la rigidez de una estructura base inamovible hasta la fluidez estética de las efemérides. Aprenderemos a diseñar interfaces que "recuerdan" fechas especiales, mutando su piel sin comprometer la semántica ni la accesibilidad para ningún usuario.
+
+[[Curso Estructura de CSS Dinámico con Efemérides 🟡③]]
+
+--- column-end ---
 
 ![Historia Mundial de los videojuegos de aventura](PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg)
 ## Videojuegos Aventura - Historia Mundial de los videojuegos de aventura
@@ -66,7 +74,7 @@ Diciembre 2025 - La escena retro sigue llena de sorpresas, y esta vez el protago
 
 Este juego te sumerge en la mitología griega, donde debes derrotar a Medusa, y utiliza el potente motor Tuerkas128, una herramienta que promete elevar el nivel de los desarrollos actuales para esta plataforma clásica.
 
-Continuar leyendo en ... [[Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③]]
+Continuar leyendo en ... [[Noticias - Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③]]
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-01-16T12:32:59.179Z
+modified: 2026-01-19T18:02:42.313Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 43
+ver_rev: 44
 nav_primary:
 nav_secondary:
 tags:
@@ -36,7 +36,7 @@ Diciembre 2025 - La escena retro sigue llena de sorpresas, y esta vez el protago
 
 Este juego te sumerge en la mitología griega, donde debes derrotar a Medusa, y utiliza el potente motor Tuerkas128, una herramienta que promete elevar el nivel de los desarrollos actuales para esta plataforma clásica.
 
-Continuar leyendo en ... [[Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③]]
+Continuar leyendo en ... [[Noticias - Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③]]
 
 --- column-end ---
 
@@ -49,7 +49,7 @@ Diciembre de 2025 / Enero de 2026 - Después de algo más de un año y medio, qu
 
 Es un renacimiento que mezcla el encanto de los años 80 y 90 con el ritmo actual del mundo de los videojuegos, uniendo generaciones de aficionados.
 
-Continua leyendo en ... [[œNoticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③]]
+Continua leyendo en ... [[Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③]]
 
 --- column-end ---
 

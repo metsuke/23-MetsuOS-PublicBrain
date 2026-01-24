@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-01-03T13:18:13.975Z
+modified: 2026-01-23T17:13:23.245Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 49
+ver_rev: 52
 nav_primary:
 nav_secondary:
 tags:
@@ -27,6 +27,15 @@ MOS_TopImg_Video: CursoProgramacionVideojuegos.mp4
 Number of Columns: 2
 Border: off
 ```
+![Curso Estructura de CSS Dinámico con Efemérides](PublicBrain/_resources/1faed4e9938f7a9bab5303dbb9fa9dfe_MD5.jpg)
+## Curso Estructura de CSS Dinámico con Efemérides
+
+Este curso propone un viaje técnico desde la rigidez de una estructura base inamovible hasta la fluidez estética de las efemérides. Aprenderemos a diseñar interfaces que "recuerdan" fechas especiales, mutando su piel sin comprometer la semántica ni la accesibilidad para ningún usuario.
+
+[[Curso Estructura de CSS Dinámico con Efemérides 🟡③]]
+
+--- column-end ---
+
 ![Historia Mundial de los videojuegos de aventura](PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg)
 ## Historia Mundial de los videojuegos de aventura
 

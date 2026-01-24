@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-26T06:26:41.560Z
-modified: 2025-12-26T08:20:43.084Z
+modified: 2026-01-19T18:02:42.212Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: Persevs.mp4
 ---
-# Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③
+# Noticias - Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③
 
 ![Arte generativo inspirado en la loading scren del juego](_resources/9f04cadb874aa99346d0f7d326ab18ad_MD5.jpg)
 

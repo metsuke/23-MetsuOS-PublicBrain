@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
+                "file": "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Galería de Imágenes de Efemétides  ⚫①"
+              "title": "Curso Estructura de CSS Dinámico con Efemérides 🟡③"
+            }
+          },
+          {
+            "id": "b6983dc2031cdabd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           }
         ]
@@ -204,12 +216,20 @@
   },
   "active": "03d6c42b03276387",
   "lastOpenFiles": [
+    "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
+    "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
+    "Index.md",
+    "Novedades.md",
+    "KB.md",
+    "PublicBrain/_resources/1faed4e9938f7a9bab5303dbb9fa9dfe_MD5.jpg",
+    "PublicBrain/CursoCSSEfemerides_000.jpg",
+    "Curso de estructura de CSS con efemérides.md",
+    "Noticias.md",
+    "PublicBrain/Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③.md",
     "PublicBrain/_resources/9952ba54676c3b831ddb4a2f7d630bdf_MD5.jpg",
     "Captura de pantalla 2026-01-16 a las 11.52.45.png",
     "PublicBrain/_resources/323b8b8a1d65273ddc0185dd8ebf15c5_MD5.jpg",
     "Captura-de-pantalla-2026-01-15-a-las-17.06.33.png",
-    "Noticias.md",
-    "Index.md",
     "PublicBrain/El pyproject.toml - todos los campos (incluso los menos conocidos) 🟡③.md",
     "PublicBrain/Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③.md",
     "PublicBrain/Requisitos Previos para el Curso de MetsuDepManager - Prepárate sin Complicaciones 🟡③.md",
@@ -217,10 +237,7 @@
     "Apps.md",
     "PublicBrain/MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③.md",
     "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
-    "Novedades.md",
-    "KB.md",
     "PublicBrain/Historia Mundial de los videojuegos de aventura 🟡③.md",
-    "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
     "PublicBrain/_resources/477819178f8280d834a72502a46729af_MD5.jpeg",
     "PublicBrain/_resources/8027b5017afab8ca0a46c6cc53021f93_MD5.jpeg",
     "PublicBrain/Historia de los videojuegos de aventura a traves de CAAD 🟡③.md",
@@ -233,13 +250,7 @@
     "PublicBrain/Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③.md",
     "PublicBrain/Popper, K. R. (1959). La lógica de la investigación científica (Madrid - Tecnos) 🔴②-🌐🟡③.md",
     "Juegos.md",
-    "PublicBrain/Historia de la Ciencia y del Método Científico 🟡③.md",
     "PublicBrain/_resources/8253f4e1948002202ecb3d7a7838d194_MD5.jpg",
-    "El Proyecto.md",
-    "PublicBrain/Historia de la Epistemología y su aplicación en la Ciencia 🟡③.md",
-    "PublicBrain/_resources/0dfb6376327738625c73e8887ffb44b6_MD5.jpg",
-    "PublicBrain/_resources/500fa56b6e3d054e13d428f62d07699b_MD5.jpg",
-    "Screen_Reduction_20_256x192.png",
     "PublicBrain/ifarchive.org/if-archive/magazines",
     "PublicBrain/ifarchive.org/if-archive",
     "PublicBrain/ifarchive.org",

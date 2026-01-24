@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
+                "file": "Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso Estructura de CSS Dinámico con Efemérides 🟡③"
+              "title": "Apps"
             }
           },
           {
@@ -216,8 +216,9 @@
   },
   "active": "03d6c42b03276387",
   "lastOpenFiles": [
-    "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
+    "El Proyecto.md",
     "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
+    "PublicBrain/Galería de Imágenes de Efemétides  ⚫①.md",
     "Index.md",
     "Novedades.md",
     "KB.md",

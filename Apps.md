@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2025-12-08T02:43:22.042Z
+modified: 2026-01-24T22:15:58.283Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 74
+ver_rev: 75
 nav_primary:
 nav_secondary:
 tags:
@@ -47,6 +47,11 @@ En algunos casos, [como propuse en este tweet con el conversor de imagenes 🌐]
 
 Este planteamiento está vivo, pero es algo que he reflexionado  bastante, ni quiero dejar en la estacada a los que colaboran con el software libre construyendo una base sólida que evita que los desarrolladores se enquisten en monopolios ni quiero someter el proyecto a la falta de profesionalidad real del desarrollo al estilo "do it yourself". En el equilibrio y la variedad de opciones, está el punto medio. Puedes ver más sobre esto en [[De Software Libre, Licencias y Filosofías en entornos VUCA 🟡③]]
 
+## Utilidades temporales
+
+Durante la fase intermedia entre mi sistema actual privado y la implementacion del primer MetsuOS público, estoy empezando a crear algunas herramientas de transicion que quiza puedan serte de utilidad a ti tambien. En este momento:
+
+* [MetsuDiskSpaceViewer 🟡③🌐](https://github.com/metsuke/MetsuDiskSpaceViewer#metsudiskspaceviewer) .- Script de apoyo en el desarrollo de **MetsuOS** para analizar y visualizar dónde se consume el espacio en disco, especialmente en volúmenes externos.
 ## Herramientas de apoyo
 
 Nada se construye sobre la nada (salvo, quizá, las partículas fundamentales de las que está hecho el universo físico).

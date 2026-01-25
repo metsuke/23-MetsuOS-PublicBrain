@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-16T04:52:14.536Z
-modified: 2025-12-21T21:09:52.299Z
+modified: 2026-01-25T19:36:58.947Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -31,14 +31,17 @@ MOS_TopImg_Video: NPL_000.mp4
 Arrancamos en este sección un proyecto en torno al cual llevo dando vueltas durante algunos años, tengo la percepción - personal y por ahora no reproducible y respaldada por pares de intuiciones - de que la ciencia se enseña mal, como el inglés, y que esa forma erronea de enseñarla está convirtiendo la ciencia en una herramienta de pura geopolítica, y no en la disciplina que aporta luz y conocimiento a la humanidad que creo firmemente que deberia ser  ⚫①
 
 > Este proyecto lleva un punto más allá de lo que se viene haciendo en el resto de la web, en lugar de limitarse a indicar un grado de credibilidad del documento completo, bajamos a nivel de parrafo, un paso más para explorar la construcción de conocimiento mediante agregación de sentencias que se conviertan en conjuntos de ideas falsables  ⚫①
+
+![Es mas que probable que este equivocado](_resources/0c7b02812d010eddb372019fa579cc34_MD5.jpg)
 ## Un poco de contexto intelectual  ⚫①
 
-Vaya por delante: PUEDO ESTAR EQUIVOCADO Y PROBABLEMENTE LO ESTÉ. Quiero dejarlo claro para no tener que entrar a discutir con los fantaticos religiosos de la ciencia de turno, que se rasgan las vestiduras cuando se plantean cuestiones fuera del recipiente del "consenso cientifico" que, dicho sea de paso considero en la actualidad tan anticientífico como votar en el congreso si existe la gravedad.  ⚫①
+Vaya por delante: PUEDO ESTAR EQUIVOCADO Y PROBABLEMENTE LO ESTÉ. Quiero dejarlo claro para no tener que entrar a discutir con los fanáticos religiosos de la ciencia de turno, que se rasgan las vestiduras cuando se plantean cuestiones fuera del recipiente del "consenso cientifico" que, dicho sea de paso considero en la actualidad tan anticientífico como votar en el congreso si existe la gravedad.  ⚫①
 
 Derivado de lo anterior, mi percepción de que la ciencia debe computarse no debatirse, ya veremos si puedo respaldar la afirmación en el proceso o no, pero desde luego es mi punto de partida, junto con la idea de que este proyecto es un proceso que auna mi aprendizaje, con la metodología que pretendo desarrollar para evitar todos estos problemas que describo y tornarlo en ciencia formal que al mismo tiempo de mostrar la metodología, la respalde adecuadamente.   ⚫①
 
 > Es importante observar que esta documentación deberia tomarse por ahora como mera "Observación", en proceso de estudio, y la "excusa" perfecta para aprender en el proceso sobre algo que no acabo de comprender y de lo que tampoco he recibido las certezas exigibles a un "metodo cientifico" (que muy probablemente sean varios, tantos como disciplinas) supuestamente orientado a la busqueda de la mejor verdad posible.  ⚫①
 
+![Mi inexistente carrera científica, es una ventaja](_resources/0c6220faa2b42ae5cb1b8be5b5508f74_MD5.jpg)
 ## Mi inexistente carrera científica, es una ventaja  ⚫①
 
 > Ojo, no estoy negando en modo alguno las evidentes virtudes y logros de la ciencia actual y, sin embargo, si creo que - muy al estilo Kuhn - el paradigma actual da claras muestras de agotamiento y que parece está ignorando fuertemente las - en mi opinión - evidentes señales de que algo no encaja con como se lleva a la práctica actualmente y que es hora de evolucionarlo.  ⚫①
@@ -48,6 +51,8 @@ Veremos si estoy en lo cierto y logro falsar las partes que creo no funcionan de
 Debido a todo ello, el hecho de que todo esto surja primordialmente para aprender si estoy en lo cierto o no y en su caso proponer una metodología que mejore la situacion, y mi inexistente carrera científica, constituyen una ventaja absoluta, pues nada debo a nadie mas que a mi propia búsqueda de conocimiento lo cual, a mi modo de ver, es precisamente lo que deberia definir la ciencia y en buena medida, guiar sus aplicaciones.  ⚫①
 
 Por ahora, lo unico que existe de mi como futuro aprendiz de estudiante de científico, resulta ser [mi identificador ORCID 🟡③🌐](https://orcid.org/0000-0003-3054-6584), y - salvo que lo que aprenda me lleve a concluior que no debe ser así - lugar donde habrá acceso a lo que llegue a publicar oficialmente  ⚫①
+
+![Perfilando el problema](_resources/8e36742b99953477da1ca6388e87a468_MD5.jpg)
 ## Perfilando el problema  ⚫①
 
 Creo que el metodo que se está empleando para divulgar es mas cercano a la religión, atacando al """hereje""" que a una metodología seria y consciente de sus limitaciones para buscar la mejor verdad posible, la actitud soberbia de la comunidad y las barreras economicas al conocimiento adquirido alejan aún más la ciencia y sus consecuencias del avance humano hacia el conocimiento  ⚫①

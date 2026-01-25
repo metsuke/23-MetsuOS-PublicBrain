@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-01-24T00:44:59.091Z
+modified: 2026-01-25T09:05:31.827Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 53
+ver_rev: 54
 nav_primary:
 nav_secondary:
 tags:
@@ -101,7 +101,7 @@ En esta sección agrego una pequeña galería de las imáganes de cabecera cread
 
 ¡Espero que la disfruten!
 
-Continuar leyendo en ... [[Galería de Imágenes de Efemétides  ⚫①]]
+Continuar leyendo en ... [[Galería de Imágenes de Efemérides  ⚫①]]
 
  --- column-end ---
 

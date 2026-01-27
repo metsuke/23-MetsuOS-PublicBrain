@@ -7,21 +7,22 @@ iaStatus_Model: Raúl Carrillo Garrido aka metsuke
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2024-04-06T23:48:59.188Z
-modified: 2025-03-03T16:44:57.279Z
+modified: 2026-01-26T23:18:36.372Z
 supervisado: 2024-06-09T21:35:05.959Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 153
-nav_primary: 
-nav_secondary: 
+ver_rev: 155
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: EstructuraMicroagencia000[Z].mp4
 ---
 # Estructurar una Microagencia de Marketing Digital  ⚫①
-	# Estructurar una Microagencia de Marketing Digital  ⚫①
 
+![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
 
 * [[PublicBrain/Index|Index]] 
 	* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital 🔴②]]

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-01-24T00:44:59.056Z
+modified: 2026-01-27T00:16:16.750Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 100
+ver_rev: 101
 nav_primary:
 nav_secondary:
 tags:
@@ -56,6 +56,14 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 ### Epistemología - Diferencias y similitudes entre epistemología y gnoseología
 
 Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnoseología 🟡③]]
+
+--- column-end ---
+
+
+![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
+## Negocios - Estructurar una Microagencia de Marketing Digital 
+
+[[Estructurar una Microagencia de Marketing Digital  ⚫①]]
 
 --- column-end ---
 

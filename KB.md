@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-01-25T09:05:31.827Z
+modified: 2026-01-27T00:15:20.176Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 54
+ver_rev: 56
 nav_primary:
 nav_secondary:
 tags:
@@ -27,6 +27,16 @@ MOS_TopImg_Video: CursoProgramacionVideojuegos.mp4
 Number of Columns: 2
 Border: off
 ```
+
+![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
+## Estructurar una Microagencia de Marketing Digital 
+
+Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
+
+[[Estructurar una Microagencia de Marketing Digital  ⚫①]]
+
+--- column-end ---
+
 ![Curso Estructura de CSS Dinámico con Efemérides](PublicBrain/_resources/1faed4e9938f7a9bab5303dbb9fa9dfe_MD5.jpg)
 ## Curso Estructura de CSS Dinámico con Efemérides
 

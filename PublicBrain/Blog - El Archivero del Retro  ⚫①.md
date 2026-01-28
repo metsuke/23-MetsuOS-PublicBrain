@@ -1,7 +1,7 @@
 ---
 iaStatus: 8
 iaStatus_Model: Raul Carrillo aka Metsuke
-iaStatus_Generado: "H"
+iaStatus_Generado: H
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
 a11y: 0
@@ -9,15 +9,16 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-28T21:36:50.759Z
-modified: 2026-01-28T21:38:14.466Z
+modified: 2026-01-28T23:38:54.880Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
+MOS_TopImg_Video: ArchiveroRetro000[H].mp4
 ---
 # Blog - El Archivero del Retro  ⚫①
 

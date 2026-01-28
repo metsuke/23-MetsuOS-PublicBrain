@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-01-27T00:15:20.176Z
+modified: 2026-01-27T21:08:02.070Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 56
+ver_rev: 57
 nav_primary:
 nav_secondary:
 tags:
@@ -53,7 +53,7 @@ Este curso ofrece un recorrido completo y apasionante por la evolución de los v
 
 A lo largo de los módulos, analizaremos innovaciones técnicas, influencias culturales y los desarrolladores clave que han dado forma a este universo lúdico.
 
-Continua leyendo en [[Historia Mundial de los videojuegos de aventura 🟡③]]
+Continua leyendo en [[Curso Historia Mundial de los videojuegos de aventura 🟡③]]
 
 --- column-end ---
 

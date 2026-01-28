@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-01-27T00:16:16.750Z
+modified: 2026-01-28T21:41:05.478Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 101
+ver_rev: 103
 nav_primary:
 nav_secondary:
 tags:
@@ -38,10 +38,18 @@ Continuar leyendo en ... [[Noticias - Lanzamiento de Perseus para ZX Spectrum 12
 
  --- column-end ---
 
+
+![Blog El Archivero del Retro](_resources/a1cf3e2db2af68d01ac275cd53fdf59f_MD5.jpg)
+### Blog - El Archivero del Retro
+
+Continua leyendo en ... [[Blog - El Archivero del Retro  ⚫①]]
+
+--- column-end ---
+
 ![Curso Estructura de CSS Dinámico con Efemérides](PublicBrain/_resources/1faed4e9938f7a9bab5303dbb9fa9dfe_MD5.jpg)
 ### Desarrollo - Curso Estructura de CSS Dinámico con Efemérides
 
-[[Curso Estructura de CSS Dinámico con Efemérides 🟡③]]
+Continua leyendo en ... [[Curso Estructura de CSS Dinámico con Efemérides 🟡③]]
 
  --- column-end ---
 
@@ -63,7 +71,7 @@ Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnose
 ![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
 ## Negocios - Estructurar una Microagencia de Marketing Digital 
 
-[[Estructurar una Microagencia de Marketing Digital  ⚫①]]
+Continua leyendo en ... [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
 
 --- column-end ---
 
@@ -71,7 +79,7 @@ Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnose
 ![Historia Mundial de los videojuegos de aventura](PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg)
 ### Videojuegos - Historia Mundial de los videojuegos de aventura
 
-Continua leyendo en [[Historia Mundial de los videojuegos de aventura 🟡③]]
+Continua leyendo en [[Curso Historia Mundial de los videojuegos de aventura 🟡③]]
 
 --- column-end ---
 

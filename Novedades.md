@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-01-24T00:44:59.092Z
+modified: 2026-01-28T21:42:14.183Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 140
+ver_rev: 142
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,16 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+![Blog El Archivero del Retro](_resources/a1cf3e2db2af68d01ac275cd53fdf59f_MD5.jpg)
+## Blog - El Archivero del Retro
+
+Es esta una parte del proyecto que tenia reservada para más adelante, pero la "actualidad" manda, es hora de aprovechar mi fondo en cuanto a cds y disquettes para aportar mi minúsculo grano de arena en este mundillo retro tan activo en nuestros dias.
+
+Continua leyendo en ... [[Blog - El Archivero del Retro  ⚫①]]
+
+--- column-end ---
 
 ![Curso Estructura de CSS Dinámico con Efemérides](PublicBrain/_resources/1faed4e9938f7a9bab5303dbb9fa9dfe_MD5.jpg)
 ## Curso Estructura de CSS Dinámico con Efemérides
@@ -45,7 +55,7 @@ Este curso ofrece un recorrido completo y apasionante por la evolución de los v
 
 A lo largo de los módulos, analizaremos innovaciones técnicas, influencias culturales y los desarrolladores clave que han dado forma a este universo lúdico.
 
-Continua leyendo en [[Historia Mundial de los videojuegos de aventura 🟡③]]
+Continua leyendo en [[Curso Historia Mundial de los videojuegos de aventura 🟡③]]
 
 --- column-end ---
 
@@ -97,17 +107,6 @@ Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una h
 A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
 
 Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③]]
-
---- column-end ---
-
-
-![antiintromisionismo](PublicBrain/_resources/4217d2a8b7a94d71d1a63c1cf1ec7975_MD5.jpg)
-
-## Blog - El Antiintromisionismo, una propuesta filosófica y práctica
-
-El antiintromisionismo nace como una evolución crítica del liberalismo político. Su objetivo es preservar la libertad individual sin cargar con las distorsiones narrativas que afectan al término «liberalismo». En lugar de adoptar un ideario completo, se centra en un núcleo claro y poco ambiguo: **prohibir cualquier intromisión en la vida ajena**, salvo que se demuestre con lógica y evidencia científica que esa no-intromisión daña la libertad de terceros.
-
-Continuar leyendo en ... [[Blog - El Antiintromisionismo, una propuesta filosófica y práctica 🟡③]]
 
 --- column-end ---
 

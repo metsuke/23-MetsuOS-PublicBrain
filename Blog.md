@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-12-03T20:17:42.274Z
+modified: 2026-01-28T21:34:50.862Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 36
+ver_rev: 37
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,15 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+![Blog El Archivero del Retro](_resources/a1cf3e2db2af68d01ac275cd53fdf59f_MD5.jpg)
+## El Archivero del Retro
+
+Es esta una parte del proyecto que tenia reservada para más adelante, pero la "actualidad" manda, es hora de aprovechar mi fondo en cuanto a cds y disquettes para aportar mi minúsculo grano de arena en este mundillo retro tan activo en nuestros dias.
+
+Continua leyendo en ... [[Blog - El Archivero del Retro  ⚫①]]
+
+
+--- column-end ---
 
 ![antiintromisionismo](PublicBrain/_resources/4217d2a8b7a94d71d1a63c1cf1ec7975_MD5.jpg)
 

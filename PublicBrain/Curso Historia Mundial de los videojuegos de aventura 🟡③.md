@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-02T17:40:49.067Z
-modified: 2026-01-03T19:56:22.678Z
+modified: 2026-01-27T21:06:46.326Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: HistoriaMundialVideojuegosAventura_000.mp4
 ---
-# Historia Mundial de los videojuegos de aventura 🟡③
+# Curso Historia Mundial de los videojuegos de aventura 🟡③
 
 ![Historia Mundial de los videojuegos de aventura](PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg)
 
@@ -44,11 +44,11 @@ Como bibliografía principal, se recomiendan obras como *The History of the Adve
 ## Módulo 1: Definición y Subgéneros del Videojuego de Aventura
 
 En este módulo inicial, definimos el género y sus variantes, centrándonos en cómo se distingue por su énfasis en la exploración, los rompecabezas y la narrativa, en contraposición a la acción pura.
-
 ### Lección 1.1: Concepto Histórico y Delimitación del Género
 
 Exploramos el núcleo del género: juegos que priorizan la resolución de enigmas y el desarrollo de historias, diferenciándolos de híbridos como *The Legend of Zelda*, que incorporan elementos de acción.
 
+[[Curso Historia Mundial de los Videojuegos de Aventura - Concepto Histórico y Delimitación del Género ⚫①]]
 ### Lección 1.2: Subgéneros Principales
 
 Presentamos una tabla comparativa para ilustrar los subgéneros clave:

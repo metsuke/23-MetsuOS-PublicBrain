@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-01-27T21:08:02.070Z
+modified: 2026-01-29T22:26:38.109Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 57
+ver_rev: 60
 nav_primary:
 nav_secondary:
 tags:
@@ -28,53 +28,30 @@ Number of Columns: 2
 Border: off
 ```
 
+![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
+## La Biblioteca del Archivero del Retro
+
+Este proyecto busca crear una base de datos completa y detallada de libros, revistas, juegos, autores, desarrolladores, diseñadores, grafistas, compañias, eventos y, en general todo lo relacionado con la historia del videojuego.
+
+Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
+
+--- column-end ---
+
+![Aprender sobre Desarrollo de Software](PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg)
+## Aprender sobre Desarrollo de Software
+
+El aprendizaje del desarrollo de software hoy no consiste en memorizar comandos, sino en heredar el **legado intelectual** que la humanidad ha construido bit a bit. Esta sección nace de una convicción: la Inteligencia Artificial no es un sustituto del intelecto, sino un espejo de nuestro conocimiento acumulado.
+
+Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
+
+--- column-end ---
+
 ![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
 ## Estructurar una Microagencia de Marketing Digital 
 
 Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
 
 [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
-
---- column-end ---
-
-![Curso Estructura de CSS Dinámico con Efemérides](PublicBrain/_resources/1faed4e9938f7a9bab5303dbb9fa9dfe_MD5.jpg)
-## Curso Estructura de CSS Dinámico con Efemérides
-
-Este curso propone un viaje técnico desde la rigidez de una estructura base inamovible hasta la fluidez estética de las efemérides. Aprenderemos a diseñar interfaces que "recuerdan" fechas especiales, mutando su piel sin comprometer la semántica ni la accesibilidad para ningún usuario.
-
-[[Curso Estructura de CSS Dinámico con Efemérides 🟡③]]
-
---- column-end ---
-
-![Historia Mundial de los videojuegos de aventura](PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg)
-## Historia Mundial de los videojuegos de aventura
-
-Este curso ofrece un recorrido completo y apasionante por la evolución de los videojuegos de aventura, un género que ha marcado la historia del entretenimiento interactivo. Desde sus humildes inicios basados en texto hasta las experiencias narrativas modernas e híbridas, exploraremos cómo estos juegos han combinado exploración, rompecabezas y relatos cautivadores para capturar la imaginación de millones de jugadores en todo el mundo. 
-
-A lo largo de los módulos, analizaremos innovaciones técnicas, influencias culturales y los desarrolladores clave que han dado forma a este universo lúdico.
-
-Continua leyendo en [[Curso Historia Mundial de los videojuegos de aventura 🟡③]]
-
---- column-end ---
-
-
-![Historia Videojuegos Aventura con CAAD](PublicBrain/_resources/18713be6c249379ca3b76cdf6731942e_MD5.jpg)
-
-## Historia de los videojuegos de aventura a traves de CAAD
-
-En las profundidades de la era dorada del software español, cuando los ordenadores de 8 bits parpadeaban con promesas de mundos imposibles, nació un fanzine que no solo documentó, sino que *tejió* la historia viva de los videojuegos de aventura: **CAAD**. Desde su primer número en 1989 hasta la Tercera Edad digital de 2025, este boletín epistolar, luego foro y ahora archivo interactivo, no es un mero repositorio de soluciones y reseñas: es el **diario de bitácora de una generación** que convirtió la imaginación en código, el parser en poesía y la comunidad en resistencia cultural. Este curso no estudia la aventura —la *vive* a través de sus páginas—, desgranando número por número la evolución de un género que, contra todo pronóstico, sigue desafiando al tiempo.
-
-Continua leyendo en ... [[Historia de los videojuegos de aventura a traves de CAAD 🟡③]]
-
---- column-end ---
-
-![Curso Patrones y Calidad del Softwarre](PublicBrain/_resources/21f22e00084c6932dd97ea0d27c492d4_MD5.jpg)
-## Curso Patrones y Calidad del Software
-
-En este curso trataremos las cuestiones relacionadas con patrones de diseño y calidad del software. Comenzaremos con las bases e iremos avanzando hacia una serie de prompts de contexto que nos sirvan en nuestro desarrollo en el dia a dia.
-
-Continuar leyendo en ... [[Curso sobre Patrones y Calidad del Software 🔴②]]
-
 
 --- column-end ---
 

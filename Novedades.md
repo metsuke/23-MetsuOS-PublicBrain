@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-01-28T21:42:14.183Z
+modified: 2026-01-29T22:30:32.198Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 142
+ver_rev: 143
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,21 +30,29 @@ Border: off
 ```
 
 
+![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
+## KB - La Biblioteca del Archivero del Retro
+
+Este proyecto busca crear una base de datos completa y detallada de libros, revistas, juegos, autores, desarrolladores, diseñadores, grafistas, compañias, eventos y, en general todo lo relacionado con la historia del videojuego.
+
+Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
+
+--- column-end ---
+
+![Aprender sobre Desarrollo de Software](PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg)
+## Desarrollo - Aprender sobre Desarrollo de Software
+
+El aprendizaje del desarrollo de software hoy no consiste en memorizar comandos, sino en heredar el **legado intelectual** que la humanidad ha construido bit a bit. Esta sección nace de una convicción: la Inteligencia Artificial no es un sustituto del intelecto, sino un espejo de nuestro conocimiento acumulado.
+
+Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
+
+--- column-end ---
 ![Blog El Archivero del Retro](_resources/a1cf3e2db2af68d01ac275cd53fdf59f_MD5.jpg)
 ## Blog - El Archivero del Retro
 
 Es esta una parte del proyecto que tenia reservada para más adelante, pero la "actualidad" manda, es hora de aprovechar mi fondo en cuanto a cds y disquettes para aportar mi minúsculo grano de arena en este mundillo retro tan activo en nuestros dias.
 
 Continua leyendo en ... [[Blog - El Archivero del Retro  ⚫①]]
-
---- column-end ---
-
-![Curso Estructura de CSS Dinámico con Efemérides](PublicBrain/_resources/1faed4e9938f7a9bab5303dbb9fa9dfe_MD5.jpg)
-## Curso Estructura de CSS Dinámico con Efemérides
-
-Este curso propone un viaje técnico desde la rigidez de una estructura base inamovible hasta la fluidez estética de las efemérides. Aprenderemos a diseñar interfaces que "recuerdan" fechas especiales, mutando su piel sin comprometer la semántica ni la accesibilidad para ningún usuario.
-
-[[Curso Estructura de CSS Dinámico con Efemérides 🟡③]]
 
 --- column-end ---
 

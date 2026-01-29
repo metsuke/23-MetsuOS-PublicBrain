@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-28T21:36:50.759Z
-modified: 2026-01-28T23:38:54.880Z
+modified: 2026-01-29T10:45:00.269Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -38,7 +38,7 @@ Pero este proyecto que estoy bautizando "El archivero del retro" empezo hace añ
 
 No solo se trata de inventariar CDs, tiene que ver con autores, compañias,juegos, sistemas (hoy encontre mi primera web y su base de datos de maquinitas LCD), libros, revistas, fanzines, tecnicas de desarrollo, código fuente para construir diferentes elementos ... todo lo necesario para, en futuro, tener un agente IA creado desde cero (LLVM incluido) que sea nuestro legado a futuras generaciones, capaz de informar, formar e incluso programar, pero esa, es otra historia.
 
-Por ahora, sirva decir que inicio esta parte de la web, que colgará directamente de [[KB]] y que avanzará en paralelo con el resto del proyecto, incluyendo mis pesquisas en busca de aquel codigo del control de licencias cuyo error indicador de intentos de copia fraudulentas arrojaba un "Error en Reality.sys".
+Por ahora, sirva decir que inicio esta parte de la web, que colgará directamente de [KB](https://www.metsuke.com/kb.html) y que avanzará en paralelo con el resto del proyecto, incluyendo mis pesquisas en busca de aquel codigo del control de licencias cuyo error indicador de intentos de copia fraudulentas arrojaba un "Error en Reality.sys".
 
 ¡Al lio!
 

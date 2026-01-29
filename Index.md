@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-01-28T21:41:05.478Z
+modified: 2026-01-29T22:33:09.491Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 103
+ver_rev: 104
 nav_primary:
 nav_secondary:
 tags:
@@ -36,8 +36,23 @@ Border: off
 
 Continuar leyendo en ... [[Noticias - Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③]]
 
+--- column-end ---
+
+
+![MetsuDepManager](PublicBrain/_resources/570f078529742a81c508c3b36eac5d26_MD5.jpg)
+### MetsuOS - MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③
+
+Continuyar leyendo en ... [[MetsuDepManager - Visión general del proyecto 🟡③]] y [[Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③]]
+
  --- column-end ---
 
+
+![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
+## Biblioteca - La Biblioteca del Archivero del Retro
+
+Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
+
+--- column-end ---
 
 ![Blog El Archivero del Retro](_resources/a1cf3e2db2af68d01ac275cd53fdf59f_MD5.jpg)
 ### Blog - El Archivero del Retro
@@ -46,17 +61,17 @@ Continua leyendo en ... [[Blog - El Archivero del Retro  ⚫①]]
 
 --- column-end ---
 
-![Curso Estructura de CSS Dinámico con Efemérides](PublicBrain/_resources/1faed4e9938f7a9bab5303dbb9fa9dfe_MD5.jpg)
-### Desarrollo - Curso Estructura de CSS Dinámico con Efemérides
-
-Continua leyendo en ... [[Curso Estructura de CSS Dinámico con Efemérides 🟡③]]
-
- --- column-end ---
-
 ![Conceptos básicos sobre ciencia y su evolución histórica ](PublicBrain/_resources/8253f4e1948002202ecb3d7a7838d194_MD5.jpg)
 ### Ciencia - Conceptos básicos sobre ciencia y su evolución histórica
 
 Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución histórica 🟡③]]
+
+--- column-end ---
+
+![Aprender sobre Desarrollo de Software](PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg)
+## Desarrollo - Aprender sobre Desarrollo de Software
+
+Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
 
 --- column-end ---
 
@@ -66,7 +81,6 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnoseología 🟡③]]
 
 --- column-end ---
-
 
 ![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
 ## Negocios - Estructurar una Microagencia de Marketing Digital 
@@ -80,14 +94,6 @@ Continua leyendo en ... [[Estructurar una Microagencia de Marketing Digital  ⚫
 ### Videojuegos - Historia Mundial de los videojuegos de aventura
 
 Continua leyendo en [[Curso Historia Mundial de los videojuegos de aventura 🟡③]]
-
---- column-end ---
-
-
-![MetsuDepManager](PublicBrain/_resources/570f078529742a81c508c3b36eac5d26_MD5.jpg)
-### MetsuOS - MetsuDepManager – Gestor de Dependencias Ético para MetsuOS 🟡③
-
-Continuyar leyendo en ... [[MetsuDepManager - Visión general del proyecto 🟡③]] y [[Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③]]
 
 
 --- column-end ---

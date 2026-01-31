@@ -21,7 +21,7 @@ tags:
 ---
 # Rol Administración Negocios 🔴②
 
-* [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
+* [[Estructurar una Microagencia de Marketing Digital 🟡③]] 
 	* [[Glosario de Marketing Digital ⚫①]]
 
 ## Introducción

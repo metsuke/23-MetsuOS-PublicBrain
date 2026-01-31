@@ -21,7 +21,7 @@ tags:
 ---
 # Rol Expertos en PPC 🔴②
 
-* [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
+* [[Estructurar una Microagencia de Marketing Digital 🟡③]] 
 	* [[Departamento Marketing (Microagencia Marketing Digital) 🔴②|Departamento Marketing]]
 	* [[Glosario de Marketing Digital ⚫①]]
 

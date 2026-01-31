@@ -21,7 +21,7 @@ tags:
 ---
 # Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital 🔴②
 
-[[Estructurar una Microagencia de Marketing Digital  ⚫①]]
+[[Estructurar una Microagencia de Marketing Digital 🟡③]]
 
 Mis apuntes del [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②]] 
 

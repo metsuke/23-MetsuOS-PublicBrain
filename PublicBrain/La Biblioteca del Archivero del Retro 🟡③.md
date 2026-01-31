@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-29T22:46:53.299Z
-modified: 2026-01-29T22:50:36.230Z
+modified: 2026-01-29T23:59:32.229Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -26,7 +26,7 @@ MOS_TopImg_Video: BibliotecaArchiveroRetro000[D].mp4
 
 [[KB]]
 
-**¡Bienvenidos a La Biblioteca del Archivero del Retro!**
+**¡Bienvenidos a La Biblioteca del [[Blog - El Archivero del Retro  ⚫①|Archivero del Retro]]!**
 
 Este proyecto aspira a levantar una base de datos completa y minuciosa con libros, revistas, juegos, autores, desarrolladores, diseñadores, grafistas, compañías, eventos y cuanto se relacione con la historia del videojuego, con especial énfasis en la era retro.
 

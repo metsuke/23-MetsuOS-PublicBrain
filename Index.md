@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-01-29T22:33:09.491Z
+modified: 2026-01-30T01:33:40.929Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 104
+ver_rev: 105
 nav_primary:
 nav_secondary:
 tags:
@@ -48,7 +48,7 @@ Continuyar leyendo en ... [[MetsuDepManager - Visión general del proyecto 🟡�
 
 
 ![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
-## Biblioteca - La Biblioteca del Archivero del Retro
+### Biblioteca - La Biblioteca del Archivero del Retro
 
 Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
 
@@ -69,7 +69,7 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 --- column-end ---
 
 ![Aprender sobre Desarrollo de Software](PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg)
-## Desarrollo - Aprender sobre Desarrollo de Software
+### Desarrollo - Aprender sobre Desarrollo de Software
 
 Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
 
@@ -83,9 +83,9 @@ Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnose
 --- column-end ---
 
 ![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
-## Negocios - Estructurar una Microagencia de Marketing Digital 
+### Negocios - Estructurar una Microagencia de Marketing Digital 
 
-Continua leyendo en ... [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
+Continua leyendo en ... [[Estructurar una Microagencia de Marketing Digital 🟡③]]
 
 --- column-end ---
 

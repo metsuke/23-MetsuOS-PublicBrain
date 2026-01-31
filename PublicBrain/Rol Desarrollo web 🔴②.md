@@ -21,7 +21,7 @@ tags:
 ---
 # Rol Desarrollo web 🔴②
 
-[[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
+[[Estructurar una Microagencia de Marketing Digital 🟡③]] 
 	* [[Departamento Creativo (Microagencia Marketing Digital) 🔴②]]
 	* [[Glosario de Marketing Digital ⚫①]]
 

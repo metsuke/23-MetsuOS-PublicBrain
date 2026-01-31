@@ -21,7 +21,7 @@ tags:
 ---
 # Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②
 
-* [[Estructurar una Microagencia de Marketing Digital  ⚫①]] 
+* [[Estructurar una Microagencia de Marketing Digital 🟡③]] 
 	* [[Metaanálisis Bibliográfico de Rol Gestión Empresarial en una Microagencia de Marketing Digital ⚖️🔴②]]
 	* [[Glosario de Marketing Digital ⚫①]]
 

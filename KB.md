@@ -51,7 +51,7 @@ Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
 
 Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
 
-[[Estructurar una Microagencia de Marketing Digital  ⚫①]]
+[[Estructurar una Microagencia de Marketing Digital 🟡③]]
 
 --- column-end ---
 

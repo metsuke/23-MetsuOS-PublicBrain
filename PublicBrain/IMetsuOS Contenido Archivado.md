@@ -67,7 +67,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 	* [[Estructura del Conocimiento General y Cientifico (Standford Test)]]
 ### Estructura de Habilidades-Perfiles-Tareas 
 
-* [[Estructurar una Microagencia de Marketing Digital  ⚫①]]
+* [[Estructurar una Microagencia de Marketing Digital 🟡③]]
 	* [[Estudiando Como aprendemos - Hector Ruiz Martín 🔴②]]
 	* [[Estudiar libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
 

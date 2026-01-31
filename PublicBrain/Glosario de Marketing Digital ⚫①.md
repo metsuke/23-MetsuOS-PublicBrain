@@ -21,7 +21,7 @@ tags:
 ---
 # Glosario de Marketing Digital ⚫①
 
-[[Estructurar una Microagencia de Marketing Digital  ⚫①]]
+[[Estructurar una Microagencia de Marketing Digital 🟡③]]
 
 * A/B Testing
 * AdWords

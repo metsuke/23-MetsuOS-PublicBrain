@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-29T22:46:53.299Z
-modified: 2026-01-29T23:59:32.229Z
+modified: 2026-02-01T20:51:22.960Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -63,6 +63,7 @@ Continua leyendo en ... [[Historia de los videojuegos de aventura a traves de CA
 --- column-end ---
 --- multi-column-end
 
+Vamos ahora a por la bibliografía recomendada.
 ## Referencias Bibliográficas
 
 ### Fuentes que apoyan esta visión (Preservación y bases de datos comprehensivas del legado retro)

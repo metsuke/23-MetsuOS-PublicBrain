@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-22T18:54:43.134Z
-modified: 2026-01-24T00:44:58.948Z
+modified: 2026-02-01T22:05:06.992Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -32,13 +32,32 @@ Este curso propone un viaje técnico desde la rigidez de una estructura base ina
 
 ## Módulo 1: Filosofía y Análisis de Sistemas Mutables
 
-- **Lección 1:** El concepto de diseño por efemérides: El equilibrio entre identidad fija y narrativa visual.
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual](PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg)
+### CSS Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual.
+
+Esta lección explora la metamorfosis de la interfaz: cómo dejar de concebir el diseño como un objeto estático para entenderlo como un **ente cronológico**. Un sistema que respira y reacciona al tiempo, pero que mantiene una estructura tan sólida que la usabilidad jamás se ve comprometida.
+
+Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🔴②]]
+
+ --- column-end ---
     
 - **Lección 2:** Auditoría técnica de Metsuke.com: Análisis crítico del sistema actual (JS + CSS Overwrite).
     
 - **Lección 3:** La "Estructura Inmune": Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
     
 - **Lección 4:** El ciclo de vida de una efeméride: Flujo lógico desde el dato cronológico hasta el renderizado final.
+
+ --- column-end ---
+--- multi-column-end
+
+
+
     
 
 ## Módulo 2: El Ecosistema de Preprocesadores (Decisión Técnica)

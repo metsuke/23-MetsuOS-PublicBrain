@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-01-29T22:26:38.109Z
+modified: 2026-02-01T18:40:23.831Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 60
+ver_rev: 62
 nav_primary:
 nav_secondary:
 tags:
@@ -46,6 +46,17 @@ Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
 
 --- column-end ---
 
+![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
+## Aprender a desarrollar videojuegos
+
+Aprender a desarrollar videojuegos es una aventura apasionante que combina creatividad, tecnología y narrativa. 
+
+Este proceso no solo implica programar, sino también diseñar mundos, personajes e historias que cautiven a los jugadores. Desde pequeños proyectos independientes hasta grandes producciones AAA, el desarrollo de videojuegos ofrece un espacio para explorar ideas innovadoras y conectar con audiencias globales. 
+
+Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
+
+--- column-end ---
+
 ![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
 ## Estructurar una Microagencia de Marketing Digital 
 
@@ -66,17 +77,6 @@ No se trata solo de teorías frías; es un enfoque vivo que combina lo mejor de 
 
 
 Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①]]
-
---- column-end ---
-
-![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
-## Aprender a desarrollar videojuegos
-
-Aprender a desarrollar videojuegos es una aventura apasionante que combina creatividad, tecnología y narrativa. 
-
-Este proceso no solo implica programar, sino también diseñar mundos, personajes e historias que cautiven a los jugadores. Desde pequeños proyectos independientes hasta grandes producciones AAA, el desarrollo de videojuegos ofrece un espacio para explorar ideas innovadoras y conectar con audiencias globales. 
-
-Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
 
 --- column-end ---
 

@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-07-05T05:32:17.875Z
-modified: 2025-05-24T17:18:53.284Z
+modified: 2026-01-31T23:19:12.107Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 10
+ver_rev: 11
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -24,6 +24,7 @@ tags: []
 
 ¡Desbloquea el poder de [[Creando MetsuOS ⚫①|MetsuOS]] y descubre que la privacidad y la seguridad son la clave para desencadenar tu verdadero potencial en línea!
 
+![[Plantilla - 1MT#Contenido registrado en Safe Creative]]
 
 ## Contenido registrado en Safe Creative
 

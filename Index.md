@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-01-30T01:33:40.929Z
+modified: 2026-02-01T22:08:29.103Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 105
+ver_rev: 107
 nav_primary:
 nav_secondary:
 tags:
@@ -68,10 +68,10 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 
 --- column-end ---
 
-![Aprender sobre Desarrollo de Software](PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg)
-### Desarrollo - Aprender sobre Desarrollo de Software
+![CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual](PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg)
+### Desarrollo - CSS Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual.
 
-Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
+Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🔴②]]
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-01-29T22:30:32.198Z
+modified: 2026-02-01T22:07:26.005Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 143
+ver_rev: 144
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,21 +30,21 @@ Border: off
 ```
 
 
+![CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual](PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg)
+### Desarrollo - CSS Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual.
+
+Esta lección explora la metamorfosis de la interfaz: cómo dejar de concebir el diseño como un objeto estático para entenderlo como un **ente cronológico**. Un sistema que respira y reacciona al tiempo, pero que mantiene una estructura tan sólida que la usabilidad jamás se ve comprometida.
+
+Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🔴②]]
+
+--- column-end ---
+
 ![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
 ## KB - La Biblioteca del Archivero del Retro
 
 Este proyecto busca crear una base de datos completa y detallada de libros, revistas, juegos, autores, desarrolladores, diseñadores, grafistas, compañias, eventos y, en general todo lo relacionado con la historia del videojuego.
 
 Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
-
---- column-end ---
-
-![Aprender sobre Desarrollo de Software](PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg)
-## Desarrollo - Aprender sobre Desarrollo de Software
-
-El aprendizaje del desarrollo de software hoy no consiste en memorizar comandos, sino en heredar el **legado intelectual** que la humanidad ha construido bit a bit. Esta sección nace de una convicción: la Inteligencia Artificial no es un sustituto del intelecto, sino un espejo de nuestro conocimiento acumulado.
-
-Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
 
 --- column-end ---
 ![Blog El Archivero del Retro](_resources/a1cf3e2db2af68d01ac275cd53fdf59f_MD5.jpg)

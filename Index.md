@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-02-01T22:08:29.103Z
+modified: 2026-02-03T23:33:11.116Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 107
+ver_rev: 108
 nav_primary:
 nav_secondary:
 tags:
@@ -71,7 +71,7 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 ![CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual](PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg)
 ### Desarrollo - CSS Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual.
 
-Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🔴②]]
+Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③]]
 
 --- column-end ---
 
@@ -82,10 +82,10 @@ Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnose
 
 --- column-end ---
 
-![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
-### Negocios - Estructurar una Microagencia de Marketing Digital 
+![Curso sobre estructura e implementación automática de un negocio](PublicBrain/_resources/6a12223cdd308d35d036125c8f728113_MD5.jpg)
+## Negocios - Curso sobre estructura e implementación automática de un negocio
 
-Continua leyendo en ... [[Estructurar una Microagencia de Marketing Digital 🟡③]]
+Continua leyendo en ... [[Curso sobre estructura e implementación automática de un negocio 🟡③]]
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-02-01T22:07:26.005Z
+modified: 2026-02-03T23:33:30.845Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 144
+ver_rev: 145
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,12 +30,22 @@ Border: off
 ```
 
 
+![Curso sobre estructura e implementación automática de un negocio](PublicBrain/_resources/6a12223cdd308d35d036125c8f728113_MD5.jpg)
+## Negocios - Curso sobre estructura e implementación automática de un negocio
+
+Este curso está diseñado para emprendedores, dueños de negocios y profesionales que buscan optimizar y escalar sus operaciones mediante automatización. El enfoque principal es comparar métodos habituales con herramientas actuales (como Make, n8n, Zapier o plataformas comerciales) con la implementación en accesibilidad y la IA distribuida.
+
+Continua leyendo en ... [[Curso sobre estructura e implementación automática de un negocio 🟡③]]
+
+--- column-end ---
+
+
 ![CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual](PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg)
 ### Desarrollo - CSS Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual.
 
 Esta lección explora la metamorfosis de la interfaz: cómo dejar de concebir el diseño como un objeto estático para entenderlo como un **ente cronológico**. Un sistema que respira y reacciona al tiempo, pero que mantiene una estructura tan sólida que la usabilidad jamás se ve comprometida.
 
-Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🔴②]]
+Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③]]
 
 --- column-end ---
 

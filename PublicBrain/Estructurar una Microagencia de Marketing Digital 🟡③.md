@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.188Z
-modified: 2026-01-30T23:43:31.984Z
+modified: 2026-02-03T23:30:52.926Z
 supervisado: 2024-06-09T21:35:05.959Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 156
+ver_rev: 158
 nav_primary:
 nav_secondary:
 tags:
@@ -25,16 +25,13 @@ MOS_TopImg_Video: EstructuraMicroagencia000[Z].mp4
 ![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
 
 * [[PublicBrain/Index|Index]] 
+	* [[Curso sobre estructura e implementación automática de un negocio 🟡③]]
 	* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital 🔴②]]
 	* [[Glosario de Marketing Digital ⚫①]]
 
 Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
 
 ## Organigrama de la microagencia
-
-{[MOS::Modelos:
-	:Organizaciones::Negocio:
-		:MicroagenciaPublicidad::GetStructure]}
 
 * [[Rol Gestión Empresarial en una Microagencia de Marketing Digital 🔴②-⚖️🔴②|Gestión Empresarial 🔴②-⚖️🔴②]]
 	* [[Rol Comercial 🔴②|Comercial 🔴②]]

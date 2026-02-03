@@ -1,22 +1,25 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Gemini, Grok-4, Raul Carrillo aka Metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2026-02-01T20:48:14.208Z
-modified: 2026-02-01T22:21:07.287Z
+modified: 2026-02-03T23:36:46.540Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 2
+ver_minor: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🔴②
+# CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③
 
 
 ![CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual](PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg)
@@ -90,7 +93,7 @@ Al igual que el conocimiento en _MetsuOS_ colapsa en verdades específicas segú
 ### Fuentes que cuestionan o refutan este enfoque (Riesgos de usabilidad y sobrecarga)
 
 1. [Nielsen, J. (1995/2020). _10 Usability Heuristics for User Interface Design_. Nielsen Norman Group. 🟡③🌐](https://www.nngroup.com/articles/ten-usability-heuristics/) .- Jakob Nielsen's 10 general principles for interaction design, broad rules of thumb for usability including consistency and standards, updated with explanations and examples.
-2. [Pickering, H. (2023). _Every Layout_. 🟡③🌐](https://every-layout.dev/) .- Resource for algorithmic CSS layout primitives that promote simplicity, robustness, and context-independent components without media queries or magic numbers.
+2. [Pickering, H. (2023). Every Layout. 🟡③🌐](https://every-layout.dev/) .- Resource for algorithmic CSS layout primitives that promote simplicity, robustness, and context-independent components without media queries or magic numbers.
 3. [Garrett, J. J. (2011). _The Elements of User Experience_. New Riders. 🟡③🌐](http://www.jjg.net/elements/) .- Book expanding the famous diagram into a framework for user-centered web design, covering strategy, scope, structure, skeleton, and surface planes.
 
 

@@ -9,18 +9,85 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-02-03T23:30:52.878Z
+modified: 2026-02-04T00:32:56.116Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 64
+ver_rev: 65
 nav_primary:
 nav_secondary:
 tags:
 MOS_TopImg_Video: CursoProgramacionVideojuegos.mp4
 ---
 # KB
+
+## Biblioteca
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+
+![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
+## La Biblioteca del Archivero del Retro
+
+Este proyecto busca crear una base de datos completa y detallada de libros, revistas, juegos, autores, desarrolladores, diseñadores, grafistas, compañias, eventos y, en general todo lo relacionado con la historia del videojuego.
+
+Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
+
+ --- column-end ---
+--- multi-column-end
+
+
+## Ciencia
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+
+![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)
+## Aprendizaje basado en evidencia
+
+Imagina un camino de aprendizaje donde cada paso que das está guiado por luces que te muestran lo que realmente funciona. 
+
+Eso es el aprendizaje basado en evidencia (EBL, por sus siglas en inglés: Evidence-Based Learning), una aventura educativa en la que usamos datos, investigaciones y experiencias reales para crear momentos de aprendizaje que de verdad conectan contigo. 
+
+No se trata solo de teorías frías; es un enfoque vivo que combina lo mejor de la ciencia con las historias y necesidades únicas de cada estudiante. ¿Te animas a descubrir cómo aprender de una manera más efectiva y personalizada?
+
+
+Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①]]
+
+ --- column-end ---
+--- multi-column-end
+
+
+## Ingenieria
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+
+![Aprender sobre Desarrollo de Software](PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg)
+## Aprender sobre Desarrollo de Software
+
+El aprendizaje del desarrollo de software hoy no consiste en memorizar comandos, sino en heredar el **legado intelectual** que la humanidad ha construido bit a bit. Esta sección nace de una convicción: la Inteligencia Artificial no es un sustituto del intelecto, sino un espejo de nuestro conocimiento acumulado.
+
+Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
+
+ --- column-end ---
+--- multi-column-end
+
+
+## Negocios
 
 --- start-multi-column: BloqueMicrohobbit00
 ```column-settings  
@@ -37,23 +104,26 @@ Continua leyendo en ... [[Curso sobre estructura e implementación automática d
 
 --- column-end ---
 
-![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
-## La Biblioteca del Archivero del Retro
 
-Este proyecto busca crear una base de datos completa y detallada de libros, revistas, juegos, autores, desarrolladores, diseñadores, grafistas, compañias, eventos y, en general todo lo relacionado con la historia del videojuego.
+![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
+## Estructurar una Microagencia de Marketing Digital 
 
-Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
+Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
 
---- column-end ---
+[[Estructurar una Microagencia de Marketing Digital 🟡③]]
 
-![Aprender sobre Desarrollo de Software](PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg)
-## Aprender sobre Desarrollo de Software
 
-El aprendizaje del desarrollo de software hoy no consiste en memorizar comandos, sino en heredar el **legado intelectual** que la humanidad ha construido bit a bit. Esta sección nace de una convicción: la Inteligencia Artificial no es un sustituto del intelecto, sino un espejo de nuestro conocimiento acumulado.
+ --- column-end ---
+--- multi-column-end
 
-Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
+## Videojuegos
 
---- column-end ---
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
 
 ![Aprende y desarrolla tu propio juego](_resources/29af7e3eabd1a62a2891d50386dac0c7_MD5.jpg)
 ## Aprender a desarrollar videojuegos
@@ -63,29 +133,6 @@ Aprender a desarrollar videojuegos es una aventura apasionante que combina creat
 Este proceso no solo implica programar, sino también diseñar mundos, personajes e historias que cautiven a los jugadores. Desde pequeños proyectos independientes hasta grandes producciones AAA, el desarrollo de videojuegos ofrece un espacio para explorar ideas innovadoras y conectar con audiencias globales. 
 
 Continuar leyendo en ... [[Aprender a desarrollar videojuegos  ⚫①]]
-
---- column-end ---
-
-![Estructurar una Microagencia de Marketing Digital](PublicBrain/_resources/c5dabb83d389df097f597b231633acae_MD5.jpg)
-## Estructurar una Microagencia de Marketing Digital 
-
-Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
-
-[[Estructurar una Microagencia de Marketing Digital 🟡③]]
-
---- column-end ---
-
-![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)
-## Aprendizaje basado en evidencia
-
-Imagina un camino de aprendizaje donde cada paso que das está guiado por luces que te muestran lo que realmente funciona. 
-
-Eso es el aprendizaje basado en evidencia (EBL, por sus siglas en inglés: Evidence-Based Learning), una aventura educativa en la que usamos datos, investigaciones y experiencias reales para crear momentos de aprendizaje que de verdad conectan contigo. 
-
-No se trata solo de teorías frías; es un enfoque vivo que combina lo mejor de la ciencia con las historias y necesidades únicas de cada estudiante. ¿Te animas a descubrir cómo aprender de una manera más efectiva y personalizada?
-
-
-Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①]]
 
 --- column-end ---
 
@@ -111,9 +158,9 @@ En mi caso, y con la excusa de que ando creando pantallas, ire añadiendo colecc
 
 Continuar leyendo en ... [[Pixel Art Attack - Creando gráficos retro ⚫①]]
 
-
  --- column-end ---
 --- multi-column-end
+
 
 
 ![[Plantilla - 1MT#One More Thing]]

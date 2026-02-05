@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2026-02-04T00:15:18.901Z
+modified: 2026-02-04T15:27:09.041Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 38
+ver_rev: 40
 nav_primary:
 nav_secondary:
 tags:
@@ -115,17 +115,7 @@ Este curso es un recurso completo y práctico sobre AYFXEDIT, un editor gratuito
 
 Continuar leyendo en ... [[Curso de AYFXEDIT 🔴②]]
 
---- start-multi-column: BloqueMicrohobbit01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-C1
- --- column-end ---
-C2
- --- column-end ---
---- multi-column-end
-
+--- column-end ---
 
 ![Curso de RetroX](PublicBrain/_resources/439e1ce07b8da71e3efc938988a5ea7e_MD5.jpg)
 ## Curso de Retro-X
@@ -216,8 +206,6 @@ CPCTelera es un potente motor de desarrollo diseñado para la creación de video
 Este curso está diseñado para introducir a los participantes en el fascinante mundo de la programación de videojuegos utilizando esta herramienta, ofreciendo una base sólida para aquellos que deseen explorar el desarrollo en plataformas clásicas. 
 
 Continuar leyendo en ... [[Curso de CPCTelera  ⚫①]]
-
- --- column-end ---
  
 --- column-end ---
 
@@ -245,18 +233,16 @@ Continuar leyendo en ... [[Curso de PixiJS ⚫①]]
 
 ## Usando Makers
 
---- start-multi-column: DesarrolloVideojuegos\
+--- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
 Number of Columns: 2
 Border: off
 ```
 
-
 ![Una imagen con 2x2 pantallas de JBA](/PublicBrain/_resources/3308f1523b5681d73be1d9f2486f66ad_MD5.jpg)
 ## Curso de AGD 2018 Edition
 
 Hace poco dos fans del este curso, que no estaba disponible online desde 2021, me recordaron que no predicaba solo en el desierto. Si, me tocaron la patata, así que además de lo que tengo en mente, he tomado la determinación de tomarme el tiempo para rescatar aquelllos contenidos de mi vieja y maltrecha web wordpress e incorporarlos en esta nueva etapa. ¡Espero que disfruten creando juego tanto como yo creando el curso!...
-
 
 Continua leyendo en ... [[Tutorial de AGD 2018 Edition ⚫①]]
 

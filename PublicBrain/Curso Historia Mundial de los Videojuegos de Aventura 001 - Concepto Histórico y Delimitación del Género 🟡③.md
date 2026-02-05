@@ -1,25 +1,28 @@
 ---
 iaStatus: 8
 iaStatus_Model: Gemini, Grok-4, Raul Carrillo aka Metsuke
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations:
 created: 2026-01-27T21:07:02.629Z
-modified: 2026-01-27T21:08:51.211Z
+modified: 2026-02-05T00:09:35.214Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
+MOS_TopImg_Video: HistoriaMundialVideojuegosAventura_001.mp4
 ---
-# Curso Historia Mundial de los Videojuegos de Aventura - Concepto Histórico y Delimitación del Género ⚫①
+# Curso Historia Mundial de los Videojuegos de Aventura 001 - Concepto Histórico y Delimitación del Género 🟡③
+
+![Curso Historia Mundial de los Videojuegos de Aventura 001 - Concepto Histórico y Delimitación del Género](PublicBrain/_resources/a0d466c8d93297f792bea1284759f9cd_MD5.jpg)
 
 [[Curso Historia Mundial de los videojuegos de aventura 🟡③]]
 
@@ -55,8 +58,6 @@ El conflicto se resuelve mediante el razonamiento. Esto se manifiesta principalm
 
 La característica definitoria es que el éxito no depende de los reflejos. Si el juego se puede pausar indefinidamente en mitad de un desafío sin que el jugador pierda, es muy probable que estemos ante una aventura pura.
 
----
-
 ## 3. Clasificación de Interfaces y Evolución
 
 La historia del género es, en gran medida, la historia de cómo nos comunicamos con la máquina:
@@ -67,25 +68,17 @@ La historia del género es, en gran medida, la historia de cómo nos comunicamos
 |**Edad de Oro (90s)**|_Point & Click_|Abstracción de comandos mediante ratón e iconos.|
 |**Aventuras Narrativas**|_Decision-making_|El foco vira hacia la ética y la consecuencia narrativa.|
 
----
-
 ## 4. Referencias Bibliográficas
 
 ### Fuentes que apoyan y fundamentan este contenido
 
-- **Juul, J. (2005).** _Half-Real: Video Games between Real Rules and Fictional Worlds_. MIT Press. (Analiza cómo las reglas y la ficción se entrelazan en la aventura). [Enlace a la web oficial del autor](https://www.half-real.net/)
+1. [Juul, J. (2005). Half-Real: Video Games between Real Rules and Fictional Worlds. MIT Press. (Analiza cómo las reglas y la ficción se entrelazan en la aventura). 🟡③🌐](https://www.half-real.net/) .- Companion website for the book 'Half-Real: Video Games between Real Rules and Fictional Worlds' by Jesper Juul, explaining the concept of games as half-real with real rules and fictional worlds, covering game theory, history, and fun factors, with resources like a dictionary and program examples.
+2. [Montfort, N. (2005). Twisty Little Passages: An Approach to Interactive Fiction. MIT Press. (El estudio definitivo sobre las aventuras de texto y su origen). 🟡③🌐](https://mitpress.mit.edu/9780262633185/twisty-little-passages/) .- MIT Press page promoting the book 'Twisty Little Passages: An Approach to Interactive Fiction' by Nick Montfort, exploring interactive fiction from literary roots like riddles to modern works, with details on formats, publication dates, and purchase options.
     
-- **Montfort, N. (2005).** _Twisty Little Passages: An Approach to Interactive Fiction_. MIT Press. (El estudio definitivo sobre las aventuras de texto y su origen). [Referencia en MIT Press](https://mitpress.mit.edu/9780262633185/twisty-little-passages/)
-    
-- **Video: "The History of Adventure Games" (Gaming Historian).** Un recorrido detallado por la evolución técnica y conceptual. [Ver en YouTube](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DkYI647vR91w)
-    
-
 ### Fuentes que matizan o refutan la "pureza" del género
 
-- **Arsenault, D. (2009).** _Video Game Genre Theory: From the Generic to the Specific_. (Argumenta que la "Aventura" es una categoría demasiado amplia y que la hibridación hace que la distinción entre acción y aventura sea una construcción artificial de marketing). [Referencia académica](https://www.google.com/search?q=https://www.researchgate.net/publication/235338164_Video_Game_Genre_Theory_From_the_Generic_to_the_Specific)
-    
-- **Fernández Vara, C. (2014).** _Introduction to Game Analysis_. Routledge. (Propone que los puzzles no son exclusivos de la aventura y que otros géneros usan estructuras de aventura para sostener sus mecánicas de acción). [Perfil de la autora](https://www.google.com/search?q=https://www.clarafernandezvara.com/)
-    
-- **Video: "Why We Can't Agree on Game Genres" (Design Doc).** Expone cómo la evolución del diseño ha hecho que las etiquetas clásicas (como Aventura Pura) sean obsoletas para el análisis moderno. [Ver en YouTube](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DE-f66C6pE2U)
+1. [Arsenault, D. (2009). Video Game Genre Theory: From the Generic to the Specific. (Argumenta que la "Aventura" es una categoría demasiado amplia y que la hibridación hace que la distinción entre acción y aventura sea una construcción artificial de marketing). Referencia académica 🟡③🌐](https://septentrio.uit.no/index.php/eludamos/article/view/vol3no2-3) .- Academic paper providing a critical overview of the notion of genre in game studies and the video game industry, contesting the idea of generic evolution, comparing video game genres to literary and film genres, emphasizing technological imperatives and innovation, and arguing that genres are rooted in aesthetics rather than mechanics, illustrated through the First-Person Shooter genre.
+2. [Fernández Vara, C. (2014). Introduction to Game Analysis. Routledge. (Propone que los puzzles no son exclusivos de la aventura y que otros géneros usan estructuras de aventura para sostener sus mecánicas de acción). Perfil de la autora 🟡③🌐](https://clarafv.com/) .- Personal website of Clara Fernández-Vara, an academic and game designer specializing in narrative games, adventure games, and interactive storytelling, detailing her research interests in game analysis, choice-based narratives, mystery and detective stories in games, history of adventure games, and emotional narrative design, with critiques of industry myths, advocacy for diversity and middle-budget games, and highlighting her key publication 'Introduction to Game Analysis' as an introductory textbook.
+
 
 ![[Plantilla - 1MT#One More Thing]]

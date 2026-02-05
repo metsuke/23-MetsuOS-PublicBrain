@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-02-03T23:33:30.845Z
+modified: 2026-02-04T19:09:25.319Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 145
+ver_rev: 146
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,7 +23,7 @@ tags:
 
 [[Index]]
 
---- start-multi-column: BloqueMicrohobbit00
+--- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
 Number of Columns: 2
 Border: off

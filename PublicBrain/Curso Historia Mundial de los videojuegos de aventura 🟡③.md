@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-02T17:40:49.067Z
-modified: 2026-01-27T21:06:46.326Z
+modified: 2026-02-05T00:09:35.185Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 10
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -44,11 +44,22 @@ Como bibliografía principal, se recomiendan obras como *The History of the Adve
 ## Módulo 1: Definición y Subgéneros del Videojuego de Aventura
 
 En este módulo inicial, definimos el género y sus variantes, centrándonos en cómo se distingue por su énfasis en la exploración, los rompecabezas y la narrativa, en contraposición a la acción pura.
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Curso Historia Mundial de los Videojuegos de Aventura 001 - Concepto Histórico y Delimitación del Género](PublicBrain/_resources/a0d466c8d93297f792bea1284759f9cd_MD5.jpg)
 ### Lección 1.1: Concepto Histórico y Delimitación del Género
 
 Exploramos el núcleo del género: juegos que priorizan la resolución de enigmas y el desarrollo de historias, diferenciándolos de híbridos como *The Legend of Zelda*, que incorporan elementos de acción.
 
-[[Curso Historia Mundial de los Videojuegos de Aventura - Concepto Histórico y Delimitación del Género ⚫①]]
+[[Curso Historia Mundial de los Videojuegos de Aventura 001 - Concepto Histórico y Delimitación del Género 🟡③]]
+
+ --- column-end ---
+
 ### Lección 1.2: Subgéneros Principales
 
 Presentamos una tabla comparativa para ilustrar los subgéneros clave:
@@ -69,6 +80,12 @@ Analizamos cómo han cambiado las mecánicas, desde los parsers iniciales hasta 
 ### Lección 1.4: Híbridos Contemporáneos
 
 Discutimos fusiones modernas, como acción-aventura o "walking simulators", que amplían los límites del género.
+
+ --- column-end ---
+--- multi-column-end
+
+
+
 
 ## Módulo 2: Orígenes - Las Aventuras de Texto (Década de 1970)
 

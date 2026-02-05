@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-02-04T00:32:56.116Z
+modified: 2026-02-04T12:01:34.298Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 65
+ver_rev: 66
 nav_primary:
 nav_secondary:
 tags:
@@ -24,12 +24,6 @@ MOS_TopImg_Video: CursoProgramacionVideojuegos.mp4
 
 ## Biblioteca
 
---- start-multi-column: BloqueMicrohobbit01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-
 
 ![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
 ## La Biblioteca del Archivero del Retro
@@ -38,17 +32,9 @@ Este proyecto busca crear una base de datos completa y detallada de libros, revi
 
 Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
 
- --- column-end ---
---- multi-column-end
 
 
 ## Ciencia
-
---- start-multi-column: BloqueMicrohobbit01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
 
 
 ![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)
@@ -63,18 +49,7 @@ No se trata solo de teorías frías; es un enfoque vivo que combina lo mejor de 
 
 Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①]]
 
- --- column-end ---
---- multi-column-end
-
-
 ## Ingenieria
-
---- start-multi-column: BloqueMicrohobbit01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-
 
 ![Aprender sobre Desarrollo de Software](PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg)
 ## Aprender sobre Desarrollo de Software
@@ -83,17 +58,14 @@ El aprendizaje del desarrollo de software hoy no consiste en memorizar comandos,
 
 Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
 
- --- column-end ---
---- multi-column-end
-
-
 ## Negocios
 
---- start-multi-column: BloqueMicrohobbit00
+--- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
 Number of Columns: 2
 Border: off
 ```
+
 
 ![Curso sobre estructura e implementación automática de un negocio](PublicBrain/_resources/6a12223cdd308d35d036125c8f728113_MD5.jpg)
 ## Curso sobre estructura e implementación automática de un negocio

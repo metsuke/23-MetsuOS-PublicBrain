@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-02-03T23:33:11.116Z
+modified: 2026-02-07T13:23:22.418Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 108
+ver_rev: 109
 nav_primary:
 nav_secondary:
 tags:
@@ -82,10 +82,10 @@ Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnose
 
 --- column-end ---
 
-![Curso sobre estructura e implementación automática de un negocio](PublicBrain/_resources/6a12223cdd308d35d036125c8f728113_MD5.jpg)
-## Negocios - Curso sobre estructura e implementación automática de un negocio
+![Curso sobre Estructura e Implementación NO Automatizada de un Negocio](/PublicBrain/_resources/2e1aac09a03c66638da37f8e31f772d0_MD5.jpg)
+### Negocios - Curso sobre Estructura e Implementación NO Automatizada de un Negocio
 
-Continua leyendo en ... [[Curso sobre estructura e implementación automática de un negocio 🟡③]]
+Continua leyendo en ... [[Curso sobre Estructura e Implementación NO Automatizada de un Negocio 🟡③]]
 
 --- column-end ---
 

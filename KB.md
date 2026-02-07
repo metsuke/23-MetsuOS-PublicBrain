@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-02-04T12:01:34.298Z
+modified: 2026-02-07T13:14:22.844Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 66
+ver_rev: 68
 nav_primary:
 nav_secondary:
 tags:
@@ -66,6 +66,18 @@ Number of Columns: 2
 Border: off
 ```
 
+![Curso sobre Estructura e Implementación NO Automatizada de un Negocio](/PublicBrain/_resources/2e1aac09a03c66638da37f8e31f772d0_MD5.jpg)
+## Curso sobre Estructura e Implementación NO Automatizada de un Negocio
+
+Este curso está pensado para emprendedores, dueños de pequeñas empresas y profesionales que desean construir y dirigir un negocio de manera manual y colaborativa, centrándose en el factor humano. 
+
+Se inspira en enfoques automatizados, pero se adapta completamente a un modelo donde las personas son el eje principal. Definimos roles claros, habilidades necesarias, flujos de trabajo en equipo, herramientas de software **libre** (priorizando licencias GNU GPL o MIT; solo excepciones justificadas si no existe alternativa adecuada), y protocolos de documentación para mantener todo coordinado. 
+
+Cada sección incluye una nota breve sobre cómo se podría automatizar, solo como complemento.
+
+Continua leyendo en ... [[Curso sobre Estructura e Implementación NO Automatizada de un Negocio 🟡③]]
+
+--- column-end ---
 
 ![Curso sobre estructura e implementación automática de un negocio](PublicBrain/_resources/6a12223cdd308d35d036125c8f728113_MD5.jpg)
 ## Curso sobre estructura e implementación automática de un negocio

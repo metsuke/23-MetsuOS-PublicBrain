@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-02-03T17:58:16.111Z
-modified: 2026-02-03T22:43:31.211Z
+modified: 2026-02-07T07:02:42.353Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -35,7 +35,7 @@ MetsuOS simplifica todo al ofrecer herramientas nativas integradas, como mosAuto
 
 Se organiza en módulos temáticos, con lecciones que detallan ambos enfoques, objetivos, recursos y actividades. 
 
-## Módulo 1: "I"ntroducción a la Automatización de Negocios
+## Módulo 1: "Introducción a la Automatización de Negocios
 
 El objetivo es comprender los conceptos básicos de un negocio automatizado y su impacto, comparando enfoques tradicionales con la simplicidad de MetsuOS.
 

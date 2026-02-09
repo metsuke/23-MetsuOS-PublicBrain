@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-02-07T13:23:22.418Z
+modified: 2026-02-09T01:21:12.419Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 109
+ver_rev: 112
 nav_primary:
 nav_secondary:
 tags:
@@ -68,10 +68,12 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 
 --- column-end ---
 
-![CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual](PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg)
-### Desarrollo - CSS Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual.
 
-Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③]]
+![CSS Efemerides Lección 2 Auditoría técnica de Metsuke.com: Análisis crítico del sistema actual (JS + CSS Overwrite)](PublicBrain/_resources/b5a595e79fa9eaca0a0b33f9d35adcf9_MD5.jpg)
+
+### Desarrollo - CSS Efemerides Lección 2 Auditoría técnica de Metsuke.com: Análisis crítico del sistema actual (JS + CSS Overwrite).
+
+Continua leyendo en [[CSS con Efemérides Lección 2 - Auditoría técnica de Metsuke.com - Análisis crítico del sistema actual (JS + CSS Overwrite) 🟡③]]
 
 --- column-end ---
 

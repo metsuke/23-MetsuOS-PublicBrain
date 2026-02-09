@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-02-07T13:22:40.195Z
+modified: 2026-02-09T01:21:12.416Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 147
+ver_rev: 151
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,6 +29,17 @@ Number of Columns: 2
 Border: off
 ```
 
+--- column-end ---
+
+![CSS Efemerides Lección 2 Auditoría técnica de Metsuke.com: Análisis crítico del sistema actual (JS + CSS Overwrite)](PublicBrain/_resources/b5a595e79fa9eaca0a0b33f9d35adcf9_MD5.jpg)
+
+## Desarrollo - CSS Efemerides Lección 2 Auditoría técnica de Metsuke.com: Análisis crítico del sistema actual (JS + CSS Overwrite).
+
+En esta lección vamos a sumergirnos en una auditoría técnica detallada del sistema que se usa actualmente en Metsuke.com, basado en JavaScript (JS) para la lógica y sobrescrituras de CSS para los estilos. El foco está en evaluar sus puntos fuertes y débiles, especialmente en cómo maneja los cambios visuales temporales, como efemérides (fechas especiales como aniversarios, eventos históricos o celebraciones estacionales).
+
+Continua leyendo en [[CSS con Efemérides Lección 2 - Auditoría técnica de Metsuke.com - Análisis crítico del sistema actual (JS + CSS Overwrite) 🟡③]]
+
+--- column-end ---
 
 ![Curso sobre Estructura e Implementación NO Automatizada de un Negocio](/PublicBrain/_resources/2e1aac09a03c66638da37f8e31f772d0_MD5.jpg)
 ## Negocios - Curso sobre Estructura e Implementación NO Automatizada de un Negocio
@@ -43,16 +54,6 @@ Continua leyendo en ... [[Curso sobre Estructura e Implementación NO Automatiza
 
 --- column-end ---
 
-
-![CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual](PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg)
-### Desarrollo - CSS Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual.
-
-Esta lección explora la metamorfosis de la interfaz: cómo dejar de concebir el diseño como un objeto estático para entenderlo como un **ente cronológico**. Un sistema que respira y reacciona al tiempo, pero que mantiene una estructura tan sólida que la usabilidad jamás se ve comprometida.
-
-Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③]]
-
---- column-end ---
-
 ![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
 ## KB - La Biblioteca del Archivero del Retro
 
@@ -61,6 +62,7 @@ Este proyecto busca crear una base de datos completa y detallada de libros, revi
 Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
 
 --- column-end ---
+
 ![Blog El Archivero del Retro](_resources/a1cf3e2db2af68d01ac275cd53fdf59f_MD5.jpg)
 ## Blog - El Archivero del Retro
 

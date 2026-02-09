@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-02-07T07:21:54.758Z
-modified: 2026-02-07T22:40:30.912Z
+modified: 2026-02-08T05:18:55.511Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -25,16 +25,11 @@ tags: []
 
 [[KB]]
 
-> OJO WIP
-
 Este curso está pensado para emprendedores, dueños de pequeñas empresas y profesionales que desean construir y dirigir un negocio de manera manual y colaborativa, centrándose en el factor humano. 
 
 Se inspira en enfoques automatizados, pero se adapta completamente a un modelo donde las personas son el eje principal. Definimos roles claros, habilidades necesarias, flujos de trabajo en equipo, herramientas de software **libre** (priorizando licencias GNU GPL o MIT; solo excepciones justificadas si no existe alternativa adecuada), y protocolos de documentación para mantener todo coordinado. 
 
 Cada sección incluye una nota breve sobre cómo se podría automatizar, solo como complemento.
-
-
-> OJO TEXTO EN REVISION
 
 ## Objetivos Generales
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-02-07T13:14:22.844Z
+modified: 2026-02-08T14:34:44.356Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 68
+ver_rev: 70
 nav_primary:
 nav_secondary:
 tags:
@@ -25,6 +25,13 @@ MOS_TopImg_Video: CursoProgramacionVideojuegos.mp4
 ## Biblioteca
 
 
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+
 ![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
 ## La Biblioteca del Archivero del Retro
 
@@ -32,9 +39,27 @@ Este proyecto busca crear una base de datos completa y detallada de libros, revi
 
 Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
 
+ --- column-end ---
+
+
+![Curso Historia Mundial de los Videojuegos de Aventura 001 - Concepto Histórico y Delimitación del Género](PublicBrain/_resources/a0d466c8d93297f792bea1284759f9cd_MD5.jpg)
+### Lección 1.1: Concepto Histórico y Delimitación del Género
+
+Exploramos el núcleo del género: juegos que priorizan la resolución de enigmas y el desarrollo de historias, diferenciándolos de híbridos como *The Legend of Zelda*, que incorporan elementos de acción.
+
+[[Curso Historia Mundial de los Videojuegos de Aventura 001 - Concepto Histórico y Delimitación del Género 🟡③]]
+
+ --- column-end ---
+--- multi-column-end
 
 
 ## Ciencia
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
 
 
 ![En un aula extremadamente futurista](PublicBrain/_resources/70d03ab2d37b52185f98fe6767c1fc01_MD5.jpg)
@@ -49,7 +74,31 @@ No se trata solo de teorías frías; es un enfoque vivo que combina lo mejor de 
 
 Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①]]
 
+ --- column-end ---
+
+
+![Desde la filosofia al metodo cientifico](PublicBrain/_resources/94759bd7da14db78910fc5b1f76c941f_MD5.jpg)
+
+## Historia de la Epistemología y su aplicación en la Ciencia
+
+Te invito a un fascinante recorrido por la historia de la epistemología, desde sus raíces filosóficas hasta su impacto en la ciencia moderna. Exploraremos cómo las teorías del conocimiento han dado forma a las prácticas científicas y cómo los descubrimientos científicos han transformado, a su vez, nuestra comprensión del saber. 
+
+Combinando un enfoque histórico con aplicaciones prácticas, trataré de fomentar la reflexión crítica y la conexión entre disciplinas, preparando a todo aquel capaz de aceptar el reto para analizar el conocimiento científico en un mundo complejo.
+
+Continuar leyendo en [[Historia de la Epistemología y su aplicación en la Ciencia 🟡③]]
+
+ --- column-end ---
+--- multi-column-end
+
+
 ## Ingenieria
+
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
 
 ![Aprender sobre Desarrollo de Software](PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg)
 ## Aprender sobre Desarrollo de Software
@@ -57,6 +106,20 @@ Continuar leyendo en ... [[Aprendizaje basado en evidencia  ⚫①]]
 El aprendizaje del desarrollo de software hoy no consiste en memorizar comandos, sino en heredar el **legado intelectual** que la humanidad ha construido bit a bit. Esta sección nace de una convicción: la Inteligencia Artificial no es un sustituto del intelecto, sino un espejo de nuestro conocimiento acumulado.
 
 Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
+
+ --- column-end ---
+
+
+![CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual](PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg)
+### CSS Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual.
+
+Esta lección explora la metamorfosis de la interfaz: cómo dejar de concebir el diseño como un objeto estático para entenderlo como un **ente cronológico**. Un sistema que respira y reacciona al tiempo, pero que mantiene una estructura tan sólida que la usabilidad jamás se ve comprometida.
+
+Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③]]
+ 
+ --- column-end ---
+--- multi-column-end
+
 
 ## Negocios
 

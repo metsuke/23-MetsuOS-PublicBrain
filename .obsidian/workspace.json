@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "587d54d529efb13f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Curso sobre Estructura e Implementación NO Automatizada de un Negocio 🟡③.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curso sobre Estructura e Implementación NO Automatizada de un Negocio 🟡③"
-            }
-          },
-          {
-            "id": "17f414b10fbd163b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NPL"
-            }
-          },
-          {
             "id": "6878f1b8d73f5d50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Curso sobre Estructura e Implementación NO Automatizada de un Negocio 🟡③.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso sobre Estructura e Implementación NO Automatizada de un Negocio 🟡③"
+              "title": "Index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,42 +204,41 @@
   },
   "active": "6878f1b8d73f5d50",
   "lastOpenFiles": [
-    "KB.md",
-    "NPL.md",
-    "Index.md",
     "Novedades.md",
+    "Index.md",
+    "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
+    "CSS con Efemérides Lección 2 - Auditoría técnica de Metsuke.com - Análisis crítico del sistema actual (JS + CSS Overwrite) 🟡③.md",
+    "PublicBrain/_resources/b5a595e79fa9eaca0a0b33f9d35adcf9_MD5.jpg",
+    "PublicBrain/CSS con Efemérides Lección 2 - Auditoría técnica de Metsuke.com - Análisis crítico del sistema actual (JS + CSS Overwrite) 🔴②.md",
+    "PublicBrain/Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③.md",
+    "PublicBrain/CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③.md",
+    "KB.md",
+    "PublicBrain/Aprender sobre Desarrollo de Software 🟡③.md",
+    "PublicBrain/Aprendizaje basado en evidencia  ⚫①.md",
+    "PublicBrain/Curso Historia Mundial de los videojuegos de aventura 🟡③.md",
+    "PublicBrain/La Biblioteca del Archivero del Retro 🟡③.md",
+    "PublicBrain/Curso de Retro-X  ⚫①.md",
     "PublicBrain/Curso sobre Estructura e Implementación NO Automatizada de un Negocio 🟡③.md",
+    "PublicBrain/Curso de Tiled Capítulo 02 - Instalación y Configuracion  🔴②.md",
+    "NPL.md",
     "PublicBrain/_resources/2e1aac09a03c66638da37f8e31f772d0_MD5.jpg",
     "Curso sobre Estructura e Implementación NO Automatizada de un Negocio.md",
     "PublicBrain/Curso sobre estructura e implementación automática de un negocio 🟡③.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital 🟡③.md",
     "PublicBrain/epistemología 🔴②.md",
     "PublicBrain/Curso Historia Mundial de los Videojuegos de Aventura 001 - Concepto Histórico y Delimitación del Género 🟡③.md",
-    "PublicBrain/Curso Historia Mundial de los videojuegos de aventura 🟡③.md",
-    "PublicBrain/La Biblioteca del Archivero del Retro 🟡③.md",
     "PublicBrain/_resources/a0d466c8d93297f792bea1284759f9cd_MD5.jpg",
     "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "PublicBrain/Curso de Desarrollo de Videojuegos a pelo con Fran Gallego 🟡③.md",
-    "PublicBrain/Aprender sobre Desarrollo de Software 🟡③.md",
     "PublicBrain/Curso de Visual bB ⚫①.md",
-    "PublicBrain/CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③.md",
     "PublicBrain/辺.md",
-    "PublicBrain/Index.md",
     "PublicBrain/_resources/6a12223cdd308d35d036125c8f728113_MD5.jpg",
-    "Curso sobre estructura e implementación automática de un negocio  ⚫①.md",
-    "PublicBrain/Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②.md",
-    "PublicBrain/Entrega de certificados de participación.md",
-    "PublicBrain/Orígenes globales - Colossal Cave Adventure (1976) → Infocom → Aventuras AD (1987) 🟡③.md",
-    "PublicBrain/Historia de los videojuegos de aventura a traves de CAAD 🟡③.md",
-    "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
     "CursoCSSEfemerides_001.jpg",
     "PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg",
-    "CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual ⚫①.md",
     "PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg",
     "PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg",
     "AprenderDesarrolloSoftware_000.jpg",
     "PublicBrain/_resources/7fc050aa0936ee7118bc74004aef5600_MD5.jpg",
-    "PublicBrain/_resources/6a44fd77b2a98b7278a01ac32390cb7f_MD5.jpg",
     "PublicBrain/ifarchive.org/if-archive/magazines",
     "PublicBrain/ifarchive.org/if-archive",
     "PublicBrain/ifarchive.org",

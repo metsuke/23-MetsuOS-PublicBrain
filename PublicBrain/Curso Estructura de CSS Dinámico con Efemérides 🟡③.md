@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-22T18:54:43.134Z
-modified: 2026-02-03T23:36:09.001Z
+modified: 2026-02-09T01:21:13.080Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 10
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -46,9 +46,17 @@ Esta lección explora la metamorfosis de la interfaz: cómo dejar de concebir el
 Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③]]
 
  --- column-end ---
-    
-- **Lección 2:** Auditoría técnica de Metsuke.com: Análisis crítico del sistema actual (JS + CSS Overwrite).
-    
+ 
+![CSS Efemerides Lección 2 Auditoría técnica de Metsuke.com: Análisis crítico del sistema actual (JS + CSS Overwrite)](PublicBrain/_resources/b5a595e79fa9eaca0a0b33f9d35adcf9_MD5.jpg)
+
+## CSS Efemerides Lección 2 Auditoría técnica de Metsuke.com: Análisis crítico del sistema actual (JS + CSS Overwrite).
+
+En esta lección vamos a sumergirnos en una auditoría técnica detallada del sistema que se usa actualmente en Metsuke.com, basado en JavaScript (JS) para la lógica y sobrescrituras de CSS para los estilos. El foco está en evaluar sus puntos fuertes y débiles, especialmente en cómo maneja los cambios visuales temporales, como efemérides (fechas especiales como aniversarios, eventos históricos o celebraciones estacionales).
+
+Continua leyendo en [[CSS con Efemérides Lección 2 - Auditoría técnica de Metsuke.com - Análisis crítico del sistema actual (JS + CSS Overwrite) 🟡③]]
+
+--- column-end ---
+
 - **Lección 3:** La "Estructura Inmune": Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
     
 - **Lección 4:** El ciclo de vida de una efeméride: Flujo lógico desde el dato cronológico hasta el renderizado final.

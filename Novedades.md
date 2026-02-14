@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-02-09T01:21:12.416Z
+modified: 2026-02-14T01:06:52.978Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 151
+ver_rev: 152
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,15 +29,13 @@ Number of Columns: 2
 Border: off
 ```
 
---- column-end ---
+![CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio](PublicBrain/_resources/0968b6f0826d6fc8cac2aaa0da69732a_MD5.jpg)
 
-![CSS Efemerides Lección 2 Auditoría técnica de Metsuke.com: Análisis crítico del sistema actual (JS + CSS Overwrite)](PublicBrain/_resources/b5a595e79fa9eaca0a0b33f9d35adcf9_MD5.jpg)
+## Desarrollo - CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
 
-## Desarrollo - CSS Efemerides Lección 2 Auditoría técnica de Metsuke.com: Análisis crítico del sistema actual (JS + CSS Overwrite).
+La **Estructura Inmune** es el "esqueleto de titanio" de una web diseñada para el cambio constante. En un entorno de **Efemérides**, donde un sitio puede cambiar de un diseño minimalista (Día de la Paz) a uno barroco y saturado (Carnaval) en 24 horas, la estructura debe garantizar que los órganos vitales del sitio (navegación, lectura y conversión) no se vean comprometidos por la "infección" estética.
 
-En esta lección vamos a sumergirnos en una auditoría técnica detallada del sistema que se usa actualmente en Metsuke.com, basado en JavaScript (JS) para la lógica y sobrescrituras de CSS para los estilos. El foco está en evaluar sus puntos fuertes y débiles, especialmente en cómo maneja los cambios visuales temporales, como efemérides (fechas especiales como aniversarios, eventos históricos o celebraciones estacionales).
-
-Continua leyendo en [[CSS con Efemérides Lección 2 - Auditoría técnica de Metsuke.com - Análisis crítico del sistema actual (JS + CSS Overwrite) 🟡③]]
+Continua leyendo en ... [[CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio 🟡③]]
 
 --- column-end ---
 

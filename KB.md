@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-02-08T14:34:44.356Z
+modified: 2026-02-14T01:06:25.354Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 70
+ver_rev: 71
 nav_primary:
 nav_secondary:
 tags:
@@ -110,12 +110,13 @@ Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
  --- column-end ---
 
 
-![CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual](PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg)
-### CSS Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual.
+![CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio](PublicBrain/_resources/0968b6f0826d6fc8cac2aaa0da69732a_MD5.jpg)
 
-Esta lección explora la metamorfosis de la interfaz: cómo dejar de concebir el diseño como un objeto estático para entenderlo como un **ente cronológico**. Un sistema que respira y reacciona al tiempo, pero que mantiene una estructura tan sólida que la usabilidad jamás se ve comprometida.
+## CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
 
-Continua leyendo en ... [[CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③]]
+La **Estructura Inmune** es el "esqueleto de titanio" de una web diseñada para el cambio constante. En un entorno de **Efemérides**, donde un sitio puede cambiar de un diseño minimalista (Día de la Paz) a uno barroco y saturado (Carnaval) en 24 horas, la estructura debe garantizar que los órganos vitales del sitio (navegación, lectura y conversión) no se vean comprometidos por la "infección" estética.
+
+Continua leyendo en ... [[CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio 🟡③]]
  
  --- column-end ---
 --- multi-column-end

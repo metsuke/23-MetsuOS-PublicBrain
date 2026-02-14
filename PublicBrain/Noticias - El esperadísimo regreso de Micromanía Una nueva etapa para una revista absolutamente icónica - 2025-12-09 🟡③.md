@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-09T16:06:48.879Z
-modified: 2026-01-19T18:02:13.181Z
+modified: 2026-02-13T22:59:52.751Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 21
+ver_rev: 25
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -46,6 +46,13 @@ Micromanía no era solo una revista; era un vínculo cultural entre lo analógic
 
 ![La portada Mockup de Micromanía que se ha utilizado para el anunncio](PublicBrain/_resources/34d7cf6859d057724642e31efe6106b6_MD5.jpeg)
 *Esta es la portada que se uso para el anuncio oficial de la revista*
+
+## Cartuchos virtuales que no hay que insertar y "eyectar"
+
+En recientes fechas, se anunció que, para los compradores de la revista, están disponibles las demos de Maldita Castilla Requiem para Megadrive y Dreamcast, versiones actualmente en desarrollo, en lo personal aún no me acabe el juego, pero estoy deseando ver como han exprimido ambas máquinas.
+
+![Portada FICTICIA anunciando las demos](PublicBrain/_resources/ca0705bcd210b1fbae5d9bb977ee19d4_MD5.jpg)
+
 ## Qué Podemos Esperar
 
 Aunque los detalles completos aún no se han revelado del todo, el anuncio en el Salón del Videojuego confirmó lo básico. Micromanía volverá en **formato físico y digital**, manteniendo su esencia pero adaptándose a los tiempos modernos. Se distribuirá exclusivamente a través de la **tienda web de Hecho con Pixels**, el sello responsable de iniciativas como Pixels y el [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|reciente regreso de Microhobby]]. No se dio una fecha exacta de lanzamiento ni el precio, pero la emoción es evidente: ¿mantendrá las 84 páginas grapadas de antes, o añadirá elementos interactivos? Lo que sí está claro es su enfoque en el universo de los videojuegos, con un equipo que garantiza calidad y renovación.
@@ -89,13 +96,14 @@ Este es el video de la presetanción oficial de la cuarta época de **Micromania
 
 Aún no hay mucha información 100% confirmada, pero preparemos la jugada para tenerlo lo mas ordenado posible:
 
-| Aspecto                  | Detalles Revelados                                          |
-| ------------------------ | ----------------------------------------------------------- |
-| **Formato**              | Papel y digital                                             |
-| **Distribución**         | Tienda web Hecho con Pixels (no en quioscos)                |
-| **Fecha de lanzamiento** | Pendiente de anuncio. Prereserva el 15 de Febrero.          |
-| **Precio**               | Pendiente de anuncio                                        |
-| Periodidicdad            | No especificada (posiblemente similar a 4-6 números al año) |
+| Aspecto                  | Detalles Revelados                                                                                                                                                                               |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Formato**              | Papel y digital                                                                                                                                                                                  |
+| **Distribución**         | Tienda web Hecho con Pixels (no en quioscos)                                                                                                                                                     |
+| **Fecha de lanzamiento** | Pendiente de anuncio. Prereserva el 15 de Febrero. Envio a partir del 16 de Marzo (número 2 se espera para marzo)                                                                                |
+| **Precio**               | Mas de 1 Euro y menos de 2500 Euros                                                                                                                                                              |
+| Periodidicdad            | Se ha anunciado (13/02/2026) en directo que la revista será definitivamente Bimensual (6 números al año), con suscripcion y opcion de envio gratuito para suscriptores de Microhobby y/o pixels. |
+| Páginas                  | 76 páginas (frente a las 68 iniciales, dada la cantidad de contenido que se pretende incluir)                                                                                                    |
 
 ## Recepción y Expectativas
 
@@ -106,6 +114,10 @@ La noticia ha provocado una tormenta de reacciones positivas: en X (antes Twitte
 En este otro directo, se anunció oficialmente el anuncio oculto de la fecha de prelanzamiento:
 
 **<iframe width="100%" height="480" src="https://www.youtube.com/embed/Zc7LBzUcAeE?si=A88mSqaYlSex_wPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
+
+En este directo, previo al comienzo de la preventa, se nos revela el numero de páginas y la periodicidad con un alto porcentaje de certeza... ¡Será bimensual!
+
+**<iframe width="100%" height="480" src="https://www.youtube.com/embed/fweEL7mAIzU?si=QXBxh-oLdz_ODR9P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>**
 ## Contexto Actual y Comparativas
 
 En un 2025 donde el retro se mezcla con lo indie —pensad en Evercade o juegos homebrew para ZX Spectrum—, Micromanía encaja a la perfección. Comparada con Microhobby (regreso en papel grapado, 84 páginas), promete un enfoque más amplio en videoconsolas y PC. 
@@ -136,12 +148,13 @@ En resumen, el regreso de Micromanía anunciado en 2025 /t que, sin fecha confir
 
 Estas fuentes confirman el anuncio del regreso de Micromanía en 2025, con detalles sobre el evento, planes y su historia:
 
-1. [Micromanía - Wikipedia 🟡③🌐](https://es.wikipedia.org/wiki/Micromanía) .- Historia exhaustiva de la revista Micromanía (1985-2024), tres épocas, 450 números, evolución desde 8-bit a PC y cierre en 2024.
-2. [Vuelve Micromanía - El Mundo del Spectrum 🟡③🌐](https://www.elmundodelspectrum.com/vuelve-micromania/) .- Anuncio del regreso de Micromanía enfocado en retro gaming 16-bit, formato tabloide, contexto histórico y cierre previo.
-3. [Presentación: MICROMANÍA con JOSE LUIS SANZ y MARCOS GARCÍA (YouTube) 🟡③🌐](https://www.youtube.com/watch?v=PqYzZobc4s8) .- Video de presentación del regreso de Micromanía (7 dic 2025), detalles de cuarta etapa retro, equipo, formato y lanzamiento previsto.
-4. [Regresa Micromanía... - Uvejuegos 🟡③🌐](https://uvejuegos.com/noticia/Regresa-Micromania-la-historica-revista-espanola-con-una-cuarta-etapa-en-formato-papel-y-digital/51268) .- Anuncio regreso Micromanía en papel/digital, foco retro 80s-90s, 4-6 números/año, equipo histórico, cierre 2024.
-5. [Si has crecido con los videojuegos... - Xataka 🟡③🌐](https://www.xataka.com/videojuegos/micromania-no-solo-cierra-revista-historica-tambien-desaparece-forma-entender-prensa-videojuegos) .- Cierre de Micromanía en 2024, etapas históricas (8-bit, 16-bit, PC), impacto generacional y evolución del periodismo videojueguil.
-6. [Video en que se anuncia la fecha oficial de la prereserva de la revista  🟡③🌐](https://www.youtube.com/watch?v=Zc7LBzUcAeE) .- Directo en que se anuncia oficialmente el anuncio extraoficial con nocturnidad y alevosía xD de la prereserva para el 15/02/2026
+1. [Anuncio de las Demos de Maldita Castilla Requiem en X](https://x.com/MicroManiaPapel/status/2021192430914240736) .- La compra de la revista dará acceso a la demo del juego para Megadrive y Dreamcast.
+2. [Micromanía - Wikipedia 🟡③🌐](https://es.wikipedia.org/wiki/Micromanía) .- Historia exhaustiva de la revista Micromanía (1985-2024), tres épocas, 450 números, evolución desde 8-bit a PC y cierre en 2024.
+3. [Vuelve Micromanía - El Mundo del Spectrum 🟡③🌐](https://www.elmundodelspectrum.com/vuelve-micromania/) .- Anuncio del regreso de Micromanía enfocado en retro gaming 16-bit, formato tabloide, contexto histórico y cierre previo.
+4. [Presentación: MICROMANÍA con JOSE LUIS SANZ y MARCOS GARCÍA (YouTube) 🟡③🌐](https://www.youtube.com/watch?v=PqYzZobc4s8) .- Video de presentación del regreso de Micromanía (7 dic 2025), detalles de cuarta etapa retro, equipo, formato y lanzamiento previsto.
+5. [Regresa Micromanía... - Uvejuegos 🟡③🌐](https://uvejuegos.com/noticia/Regresa-Micromania-la-historica-revista-espanola-con-una-cuarta-etapa-en-formato-papel-y-digital/51268) .- Anuncio regreso Micromanía en papel/digital, foco retro 80s-90s, 4-6 números/año, equipo histórico, cierre 2024.
+6. [Si has crecido con los videojuegos... - Xataka 🟡③🌐](https://www.xataka.com/videojuegos/micromania-no-solo-cierra-revista-historica-tambien-desaparece-forma-entender-prensa-videojuegos) .- Cierre de Micromanía en 2024, etapas históricas (8-bit, 16-bit, PC), impacto generacional y evolución del periodismo videojueguil.
+7. [Video en que se anuncia la fecha oficial de la prereserva de la revista  🟡③🌐](https://www.youtube.com/watch?v=Zc7LBzUcAeE) .- Directo en que se anuncia oficialmente el anuncio extraoficial con nocturnidad y alevosía xD de la prereserva para el 15/02/2026
 
 ## Referencias Bibliográficas que Reflejan el cierre en 2024, entonces "definitivo"
 

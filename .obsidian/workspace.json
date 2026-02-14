@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d8879b750493730",
+        "id": "49b02f125137337b",
         "type": "tabs",
         "children": [
           {
-            "id": "6878f1b8d73f5d50",
+            "id": "d24413683addbacf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,17 +202,66 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6878f1b8d73f5d50",
+  "floating": {
+    "id": "62e8d973336356fb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c050f8aff4f6025e",
+        "type": "window",
+        "children": [
+          {
+            "id": "08a94a3b1095e094",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b8e758953dc8f940",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 264,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d24413683addbacf",
   "lastOpenFiles": [
     "Novedades.md",
-    "Index.md",
+    "Noticias.md",
+    "KB.md",
     "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
+    "PublicBrain/CSS Efemerides Lección 3 La \"Estructura Inmune\" Definición de los pilares del layout que garantizan la usabilidad frente al cambio 🟡③.md",
+    "PublicBrain/_resources/0968b6f0826d6fc8cac2aaa0da69732a_MD5.jpg",
+    "PublicBrain/_resources/1b978d326f67d6660d4cf00cb07df19e_MD5.jpg",
+    "CSS Efemerides Lección 3 La \"Estructura Inmune\" Definición de los pilares del layout que garantizan la usabilidad frente al cambio  ⚫①.md",
+    "PublicBrain/Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③.md",
+    "El Proyecto.md",
+    "PublicBrain/Niveles y Exámenes Adicionales EO.md",
+    "PublicBrain/_resources/ca0705bcd210b1fbae5d9bb977ee19d4_MD5.jpg",
+    "Gemini_Generated_Image_2etu1i2etu1i2etu.png",
+    "PublicBrain/Gemini_Generated_Image_seuv5yseuv5yseuv.png",
+    "Gemini_Generated_Image_seuv5yseuv5yseuv.png",
+    "PublicBrain/Curso de PixiJS ⚫①.md",
+    "PublicBrain/_resources/5d81e3983924209c6532d19e51a9911b_MD5.jpg",
+    "Index.md",
     "CSS con Efemérides Lección 2 - Auditoría técnica de Metsuke.com - Análisis crítico del sistema actual (JS + CSS Overwrite) 🟡③.md",
     "PublicBrain/_resources/b5a595e79fa9eaca0a0b33f9d35adcf9_MD5.jpg",
     "PublicBrain/CSS con Efemérides Lección 2 - Auditoría técnica de Metsuke.com - Análisis crítico del sistema actual (JS + CSS Overwrite) 🔴②.md",
     "PublicBrain/Curso de GB Studio - Capítulo 03 - Contexto histórico de la Game Boy 🟡③.md",
     "PublicBrain/CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③.md",
-    "KB.md",
     "PublicBrain/Aprender sobre Desarrollo de Software 🟡③.md",
     "PublicBrain/Aprendizaje basado en evidencia  ⚫①.md",
     "PublicBrain/Curso Historia Mundial de los videojuegos de aventura 🟡③.md",
@@ -224,21 +273,7 @@
     "PublicBrain/_resources/2e1aac09a03c66638da37f8e31f772d0_MD5.jpg",
     "Curso sobre Estructura e Implementación NO Automatizada de un Negocio.md",
     "PublicBrain/Curso sobre estructura e implementación automática de un negocio 🟡③.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital 🟡③.md",
-    "PublicBrain/epistemología 🔴②.md",
-    "PublicBrain/Curso Historia Mundial de los Videojuegos de Aventura 001 - Concepto Histórico y Delimitación del Género 🟡③.md",
     "PublicBrain/_resources/a0d466c8d93297f792bea1284759f9cd_MD5.jpg",
-    "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
-    "PublicBrain/Curso de Desarrollo de Videojuegos a pelo con Fran Gallego 🟡③.md",
-    "PublicBrain/Curso de Visual bB ⚫①.md",
-    "PublicBrain/辺.md",
-    "PublicBrain/_resources/6a12223cdd308d35d036125c8f728113_MD5.jpg",
-    "CursoCSSEfemerides_001.jpg",
-    "PublicBrain/_resources/429d098dac6260d5c39064ac89f35047_MD5.jpg",
-    "PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg",
-    "PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg",
-    "AprenderDesarrolloSoftware_000.jpg",
-    "PublicBrain/_resources/7fc050aa0936ee7118bc74004aef5600_MD5.jpg",
     "PublicBrain/ifarchive.org/if-archive/magazines",
     "PublicBrain/ifarchive.org/if-archive",
     "PublicBrain/ifarchive.org",

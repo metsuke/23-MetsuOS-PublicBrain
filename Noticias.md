@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-01-19T18:02:42.313Z
+modified: 2026-02-13T23:01:19.678Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 44
+ver_rev: 46
 nav_primary:
 nav_secondary:
 tags:
@@ -23,12 +23,13 @@ tags:
 
 [[Index]]
 
-
---- start-multi-column: BloqueNoticias
+--- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
 Number of Columns: 2
 Border: off
 ```
+
+
 ![Arte generativo inspirado en la loading scren del juego](_resources/9f04cadb874aa99346d0f7d326ab18ad_MD5.jpg)
 ## Noticias - Lanzamiento de  Perseus para ZX Spectrum 128K: Una aventura épica impulsada por el motor Tuerkas128
 
@@ -41,7 +42,7 @@ Continuar leyendo en ... [[Noticias - Lanzamiento de Perseus para ZX Spectrum 12
 --- column-end ---
 
 ![Portada homenaje al esfuerzo editorial de Jose Luis Sanz](PublicBrain/_resources/982f1e9ffc73fd3ee957391ea685d9e4_MD5.jpg)
-## Noticias - El esperadísimo regreso de Micromanía: Una nueva etapa para una revista absolutamente icónica (Actualizada)
+## Noticias - El esperadísimo regreso de Micromanía: Una nueva etapa para una revista absolutamente icónica (Actualizada 13/02/26)
 
 **¡Qué alegría para los amantes de los videojuegos retro!** 
 

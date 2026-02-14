@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-22T18:54:43.134Z
-modified: 2026-02-09T01:21:13.080Z
+modified: 2026-02-14T01:02:30.544Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 12
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -57,8 +57,16 @@ Continua leyendo en [[CSS con Efemérides Lección 2 - Auditoría técnica de Me
 
 --- column-end ---
 
-- **Lección 3:** La "Estructura Inmune": Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
-    
+![CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio](PublicBrain/_resources/0968b6f0826d6fc8cac2aaa0da69732a_MD5.jpg)
+
+## CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
+
+La **Estructura Inmune** es el "esqueleto de titanio" de una web diseñada para el cambio constante. En un entorno de **Efemérides**, donde un sitio puede cambiar de un diseño minimalista (Día de la Paz) a uno barroco y saturado (Carnaval) en 24 horas, la estructura debe garantizar que los órganos vitales del sitio (navegación, lectura y conversión) no se vean comprometidos por la "infección" estética.
+
+Continua leyendo en ... [[CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio 🟡③]]
+
+--- column-end ---
+
 - **Lección 4:** El ciclo de vida de una efeméride: Flujo lógico desde el dato cronológico hasta el renderizado final.
 
  --- column-end ---

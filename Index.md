@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-02-09T01:21:12.419Z
+modified: 2026-02-15T23:49:02.812Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 112
+ver_rev: 114
 nav_primary:
 nav_secondary:
 tags:
@@ -71,16 +71,16 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 
 ![CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio](PublicBrain/_resources/0968b6f0826d6fc8cac2aaa0da69732a_MD5.jpg)
 
-## Desarrollo - CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
+	### Desarrollo - CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
 
 Continua leyendo en ... [[CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio 🟡③]]
 
 --- column-end ---
 
-![Diferencias y similitudes entre epistemología y gnoseología](PublicBrain/_resources/0dfb6376327738625c73e8887ffb44b6_MD5.jpg)
-### Epistemología - Diferencias y similitudes entre epistemología y gnoseología
+![Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996)](PublicBrain/_resources/af5ad5ab95962440db9bd9f74b6caa39_MD5.jpg)
+### Epistemología - Contextos - El Marco de Cunningham y Fitzgerald (1996)
 
-Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnoseología 🟡③]]
+Continua leyendo en ... [[Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996) 🟡③]]
 
 --- column-end ---
 

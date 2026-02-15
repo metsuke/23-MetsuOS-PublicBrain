@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-02-14T01:06:52.978Z
+modified: 2026-02-15T23:47:35.896Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 152
+ver_rev: 153
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,16 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+![Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996)](PublicBrain/_resources/af5ad5ab95962440db9bd9f74b6caa39_MD5.jpg)
+### Epistemología - Contextos - El Marco de Cunningham y Fitzgerald (1996)
+
+La epistemología a menudo se percibe como una disciplina etérea y alejada de la realidad. Sin embargo, para **Donald J. Cunningham** y **Shawn M. Fitzgerald**, es el motor invisible que guía nuestras decisiones. En su propuesta de 1996, estos autores defienden que nuestra "postura epistemológica" no es un accesorio intelectual, sino la base sobre la cual construimos el aprendizaje y la investigación.
+
+Continua leyendo en ... [[Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996) 🟡③]]
+
+--- column-end ---
 
 ![CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio](PublicBrain/_resources/0968b6f0826d6fc8cac2aaa0da69732a_MD5.jpg)
 
@@ -90,14 +100,6 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 
 --- column-end ---
 
-![Diferencias y similitudes entre epistemología y gnoseología](PublicBrain/_resources/0dfb6376327738625c73e8887ffb44b6_MD5.jpg)
-## Epistemología - Diferencias y similitudes entre epistemología y gnoseología
-
-Aunque el término "gnoseología" aparece de forma breve en el módulo inicial, como parte de un apartado sobre diferencias y similitudes con la epistemología, no se profundiza mucho en el sitio principal ni en los enlaces directos (como las definiciones o los elementos del conocimiento humano (...)
-
-Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnoseología 🟡③]]
-
---- column-end ---
 
 ![Arte generativo inspirado en la loading scren del juego](_resources/9f04cadb874aa99346d0f7d326ab18ad_MD5.jpg)
 ## Noticias - Lanzamiento de  Perseus para ZX Spectrum 128K: Una aventura épica impulsada por el motor Tuerkas128

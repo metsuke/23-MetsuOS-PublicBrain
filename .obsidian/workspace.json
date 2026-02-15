@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49b02f125137337b",
+        "id": "2ea9c937b7f6a6b5",
         "type": "tabs",
         "children": [
           {
-            "id": "d24413683addbacf",
+            "id": "4a592f69fc9bf3b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -237,9 +237,14 @@
       }
     ]
   },
-  "active": "d24413683addbacf",
+  "active": "4a592f69fc9bf3b3",
   "lastOpenFiles": [
     "Novedades.md",
+    "NPL.md",
+    "PublicBrain/Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996) 🟡③.md",
+    "PublicBrain/_resources/af5ad5ab95962440db9bd9f74b6caa39_MD5.jpg",
+    "Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (199.md",
+    "Index.md",
     "Noticias.md",
     "KB.md",
     "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
@@ -256,7 +261,6 @@
     "Gemini_Generated_Image_seuv5yseuv5yseuv.png",
     "PublicBrain/Curso de PixiJS ⚫①.md",
     "PublicBrain/_resources/5d81e3983924209c6532d19e51a9911b_MD5.jpg",
-    "Index.md",
     "CSS con Efemérides Lección 2 - Auditoría técnica de Metsuke.com - Análisis crítico del sistema actual (JS + CSS Overwrite) 🟡③.md",
     "PublicBrain/_resources/b5a595e79fa9eaca0a0b33f9d35adcf9_MD5.jpg",
     "PublicBrain/CSS con Efemérides Lección 2 - Auditoría técnica de Metsuke.com - Análisis crítico del sistema actual (JS + CSS Overwrite) 🔴②.md",
@@ -269,11 +273,7 @@
     "PublicBrain/Curso de Retro-X  ⚫①.md",
     "PublicBrain/Curso sobre Estructura e Implementación NO Automatizada de un Negocio 🟡③.md",
     "PublicBrain/Curso de Tiled Capítulo 02 - Instalación y Configuracion  🔴②.md",
-    "NPL.md",
     "PublicBrain/_resources/2e1aac09a03c66638da37f8e31f772d0_MD5.jpg",
-    "Curso sobre Estructura e Implementación NO Automatizada de un Negocio.md",
-    "PublicBrain/Curso sobre estructura e implementación automática de un negocio 🟡③.md",
-    "PublicBrain/_resources/a0d466c8d93297f792bea1284759f9cd_MD5.jpg",
     "PublicBrain/ifarchive.org/if-archive/magazines",
     "PublicBrain/ifarchive.org/if-archive",
     "PublicBrain/ifarchive.org",

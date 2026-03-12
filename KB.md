@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-02-14T01:06:25.354Z
+modified: 2026-03-11T23:05:15.337Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 71
+ver_rev: 72
 nav_primary:
 nav_secondary:
 tags:
@@ -158,11 +158,35 @@ Continua leyendo en ... [[Curso sobre estructura e implementación automática d
 
 Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
 
-[[Estructurar una Microagencia de Marketing Digital 🟡③]]
+Continuar leyendo en ... [[Estructurar una Microagencia de Marketing Digital 🟡③]]
 
 
  --- column-end ---
 --- multi-column-end
+
+## Publicación Editorial
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Curso Publicacion de Contenido Editorial como Aventura de Texto](PublicBrain/_resources/778dd3ff599ed853a0952efebe42df20_MD5.jpg)
+
+## Curso Publicacion de Contenido Editorial como Aventura de Texto
+
+Este curso te invita a sumergirte en el fascinante mundo de la publicación editorial transformada en aventuras de texto, un formato que convierte la lectura tradicional en una experiencia interactiva y envolvente. Imagina adaptar tus posts, artículos, libros o revistas a narrativas donde el lector toma decisiones que alteran el rumbo de la historia, todo ello en plataformas tanto retro como modernas, y enriquecido con elementos multimedia cuando sea posible. Es una oportunidad perfecta para creativos que quieran fusionar escritura, diseño y tecnología, desarrollando habilidades que innoven en el panorama digital actual. Si te apasiona contar historias de manera dinámica, este curso te ayudará a dar vida a tus ideas de forma original y atractiva.
+
+Continuar leyendo en ... [[Curso Publicacion de Contenido Editorial como Aventura de Texto 🟡③]]
+
+ --- column-end ---
+
+
+
+ --- column-end ---
+--- multi-column-end
+
 
 ## Videojuegos
 

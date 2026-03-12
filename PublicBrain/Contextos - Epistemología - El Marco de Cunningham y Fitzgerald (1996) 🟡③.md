@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-02-15T22:49:31.301Z
-modified: 2026-02-15T22:57:28.502Z
+modified: 2026-02-16T08:43:07.694Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -25,8 +25,6 @@ MOS_TopImg_Video: ContextoEpistemologiaAlcanceSaber_000.mp4
 ![Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996)](PublicBrain/_resources/af5ad5ab95962440db9bd9f74b6caa39_MD5.jpg)
 
 [[NPL]]
-
-> OJO WIP
 
 La epistemología a menudo se percibe como una disciplina etérea y alejada de la realidad. Sin embargo, para **Donald J. Cunningham** y **Shawn M. Fitzgerald**, es el motor invisible que guía nuestras decisiones. En su propuesta de 1996, estos autores defienden que nuestra "postura epistemológica" no es un accesorio intelectual, sino la base sobre la cual construimos el aprendizaje y la investigación.
 

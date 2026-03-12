@@ -30,6 +30,16 @@ Border: off
 ```
 
 
+![Curso Publicacion de Contenido Editorial como Aventura de Texto](PublicBrain/_resources/778dd3ff599ed853a0952efebe42df20_MD5.jpg)
+
+## Publicación Editorial - Curso Publicacion de Contenido Editorial como Aventura de Texto
+
+Este curso te invita a sumergirte en el fascinante mundo de la publicación editorial transformada en aventuras de texto, un formato que convierte la lectura tradicional en una experiencia interactiva y envolvente. Imagina adaptar tus posts, artículos, libros o revistas a narrativas donde el lector toma decisiones que alteran el rumbo de la historia, todo ello en plataformas tanto retro como modernas, y enriquecido con elementos multimedia cuando sea posible. Es una oportunidad perfecta para creativos que quieran fusionar escritura, diseño y tecnología, desarrollando habilidades que innoven en el panorama digital actual. Si te apasiona contar historias de manera dinámica, este curso te ayudará a dar vida a tus ideas de forma original y atractiva.
+
+Continuar leyendo en ... [[Curso Publicacion de Contenido Editorial como Aventura de Texto 🟡③]]
+
+--- column-end ---
+
 ![Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996)](PublicBrain/_resources/af5ad5ab95962440db9bd9f74b6caa39_MD5.jpg)
 ### Epistemología - Contextos - El Marco de Cunningham y Fitzgerald (1996)
 

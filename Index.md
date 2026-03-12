@@ -71,7 +71,7 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 
 ![CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio](PublicBrain/_resources/0968b6f0826d6fc8cac2aaa0da69732a_MD5.jpg)
 
-	### Desarrollo - CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
+### Desarrollo - CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
 
 Continua leyendo en ... [[CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio 🟡③]]
 
@@ -88,6 +88,16 @@ Continua leyendo en ... [[Contextos - Epistemología - El Marco de Cunningham y 
 ### Negocios - Curso sobre Estructura e Implementación NO Automatizada de un Negocio
 
 Continua leyendo en ... [[Curso sobre Estructura e Implementación NO Automatizada de un Negocio 🟡③]]
+
+--- column-end ---
+
+
+![Curso Publicacion de Contenido Editorial como Aventura de Texto](PublicBrain/_resources/778dd3ff599ed853a0952efebe42df20_MD5.jpg)
+
+### Publicación Editorial - Curso Publicacion de Contenido Editorial como Aventura de Texto
+
+Continuar leyendo en ... [[Curso Publicacion de Contenido Editorial como Aventura de Texto 🟡③]]
+
 
 --- column-end ---
 

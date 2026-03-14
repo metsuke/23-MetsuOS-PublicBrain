@@ -9,21 +9,23 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-25T21:40:47.127Z
-modified: 2025-05-24T17:18:52.993Z
+modified: 2026-03-13T02:28:03.949Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 84
+ver_rev: 85
 nav_primary: 
 nav_secondary: 
 tags:
 ---
 # El Proyecto
---- start-multi-column: bloque_01\
+
+--- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
 Number of Columns: 2
 Border: off
+
 ```
 
 ![MetsuIS Logo](_resources/7c9b3eae3cf7ac9cee99705bc4a9ca95_MD5.jpg)

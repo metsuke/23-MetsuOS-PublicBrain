@@ -30,6 +30,16 @@ Border: off
 ```
 
 
+![Epistemología - La Arquitectura del Saber Científico](_resources/3f5b4ce4dbda4b7802a08aa38630fb89_MD5.jpg)
+### Epistemología como arquitectura del saber científico
+
+La **epistemología** no es simplemente una rama de la filosofía; es el "sistema de control de calidad" del pensamiento humano. Etimológicamente derivada del griego _episteme_ (conocimiento sólido) y _logos_ (estudio o tratado), su propósito en la ciencia contemporánea es auditar cómo pasamos de una mera suposición a una verdad universalmente aceptada.
+
+Continua leyendo en ... [[Epistemología - La Arquitectura del Saber Científico 🟡③]]
+
+--- column-end ---
+
+
 ![Curso Publicacion de Contenido Editorial como Aventura de Texto](PublicBrain/_resources/778dd3ff599ed853a0952efebe42df20_MD5.jpg)
 
 ## Publicación Editorial - Curso Publicacion de Contenido Editorial como Aventura de Texto
@@ -38,14 +48,6 @@ Este curso te invita a sumergirte en el fascinante mundo de la publicación edit
 
 Continuar leyendo en ... [[Curso Publicacion de Contenido Editorial como Aventura de Texto 🟡③]]
 
---- column-end ---
-
-![Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996)](PublicBrain/_resources/af5ad5ab95962440db9bd9f74b6caa39_MD5.jpg)
-### Epistemología - Contextos - El Marco de Cunningham y Fitzgerald (1996)
-
-La epistemología a menudo se percibe como una disciplina etérea y alejada de la realidad. Sin embargo, para **Donald J. Cunningham** y **Shawn M. Fitzgerald**, es el motor invisible que guía nuestras decisiones. En su propuesta de 1996, estos autores defienden que nuestra "postura epistemológica" no es un accesorio intelectual, sino la base sobre la cual construimos el aprendizaje y la investigación.
-
-Continua leyendo en ... [[Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996) 🟡③]]
 
 --- column-end ---
 

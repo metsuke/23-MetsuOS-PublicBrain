@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-04-23T18:16:28.303Z
-modified: 2025-12-31T20:06:09.786Z
+modified: 2026-03-19T11:15:33.511Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 15
+ver_rev: 20
 nav_primary:
 nav_secondary:
 tags:
@@ -65,8 +65,27 @@ Aunque el término "gnoseología" aparece de forma breve en el módulo inicial, 
 
 Continua leyendo en ... [[Diferencias y similitudes entre epistemología y gnoseología 🟡③]]
 
---- column-end ---
+ --- column-end ---
+--- multi-column-end
 
+### La epistemología como estudio del conocimiento científico.
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+
+![Epistemología - La Arquitectura del Saber Científico](_resources/3f5b4ce4dbda4b7802a08aa38630fb89_MD5.jpg)
+#### Epistemología como arquitectura del saber científico
+
+La **epistemología** no es simplemente una rama de la filosofía; es el "sistema de control de calidad" del pensamiento humano. Etimológicamente derivada del griego _episteme_ (conocimiento sólido) y _logos_ (estudio o tratado), su propósito en la ciencia contemporánea es auditar cómo pasamos de una mera suposición a una verdad universalmente aceptada.
+
+Continua leyendo en ... [[Epistemología - La Arquitectura del Saber Científico 🟡③]]
+
+
+ --- column-end ---
 - La epistemología como estudio del conocimiento científico.
 1. **Preguntas fundamentales**
     - ¿Qué constituye el conocimiento? (Creencia, verdad, justificación).

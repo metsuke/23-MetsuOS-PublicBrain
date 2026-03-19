@@ -77,10 +77,11 @@ Continua leyendo en ... [[CSS Efemerides Lección 3 La "Estructura Inmune" Defin
 
 --- column-end ---
 
-![Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996)](PublicBrain/_resources/af5ad5ab95962440db9bd9f74b6caa39_MD5.jpg)
-### Epistemología - Contextos - El Marco de Cunningham y Fitzgerald (1996)
+![Epistemología - La Arquitectura del Saber Científico](_resources/3f5b4ce4dbda4b7802a08aa38630fb89_MD5.jpg)
+#### Epistemología como arquitectura del saber científico
 
-Continua leyendo en ... [[Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996) 🟡③]]
+Continua leyendo en ... [[Epistemología - La Arquitectura del Saber Científico 🟡③]]
+
 
 --- column-end ---
 

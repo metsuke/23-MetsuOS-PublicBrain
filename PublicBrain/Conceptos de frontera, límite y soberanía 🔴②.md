@@ -21,7 +21,7 @@ tags:
 ---
 # Conceptos de frontera, límite y soberanía 🔴②
 
-[[Aprender sobre Geopolitica Básica  ⚫①]]
+[[Aprender sobre Geopolitica Básica 🟡③]]
 
 En el estudio de la **geopolítica básica**, los conceptos de **frontera**, **límite** y **soberanía** son esenciales para comprender cómo los estados se organizan territorialmente, interactúan entre sí y gestionan los retos del sistema internacional. Estos conceptos no solo definen las relaciones entre naciones, sino que también son el escenario donde surgen conflictos, acuerdos y dinámicas globales. A continuación, exploramos cada uno de ellos en detalle, con definiciones claras, características, ejemplos prácticos y su relevancia en el mundo actual.
 

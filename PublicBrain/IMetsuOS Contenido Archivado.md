@@ -92,7 +92,7 @@ DISCLAIMER: El contenido aqui vertido es puramente experimental y no debe ser us
 
 ## Aprender sobre Geopolitica
 
-* [[Aprender sobre Geopolitica Básica  ⚫①]]
+* [[Aprender sobre Geopolitica Básica 🟡③]]
 
 ## Aprender sobre Tecnología
 

@@ -1,6 +1,6 @@
 ---
 iaStatus: 8
-iaStatus_Model: DeepSeek-V3, Grok-4 , Raul Carrillo Garrido
+iaStatus_Model: DeepSeek-V3, Grok-4 , Gemini, Raul Carrillo Garrido
 iaStatus_Generado: I
 iaStatus_Supervisado: H
 iaStatus_Validado: "-"
@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations:
 created: 2025-03-10T20:56:49.900Z
-modified: 2025-04-20T11:46:20.910Z
+modified: 2026-03-14T13:06:47.194Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 7
+ver_rev: 8
 nav_primary:
 nav_secondary:
 tags:
 ---
-# Aprender sobre Geopolitica Básica  ⚫①
+# Aprender sobre Geopolitica Básica 🟡③
 
 [[KB]]
 
@@ -452,20 +452,20 @@ Este módulo de bibliografía proporciona una base sólida para explorar la Geop
 
 Estas referencias respaldan el enfoque realista y geopolítico del contenido, enfatizando el poder, el equilibrio y las teorías clásicas.
 
-- *"Politics Among Nations: The Struggle for Power and Peace"* de Hans J. Morgenthau (1948). Apoya el realismo clásico. [Enlace a Amazon](https://www.amazon.com/-/es/Pol%C3%ADtica-entre-naciones-lucha-poder/dp/9563928539).  
-- *"The Tragedy of Great Power Politics"* de John J. Mearsheimer (2001). Defiende el realismo ofensivo. [Enlace a Amazon](https://www.amazon.com/Tragedy-Great-Power-Politics-Updated/dp/0393349276).  
-- *"The Grand Chessboard: American Primacy and Its Geostrategic Imperatives"* de Zbigniew Brzezinski (1997). Apoya estrategias geopolíticas realistas. [Enlace a PDF](https://geopoltica.yolasite.com/resources/Textos_Geopolitica/Brzezinski,%20El%20gran%20tablero%20mundial.pdf).  
-- *"The Geographical Pivot of History"* de Halford Mackinder (1904). Fundamenta la teoría del Heartland. [Enlace a artículo](https://revistas.ucm.es/index.php/GEOP/article/view/36331).  
-- *"The Influence of Sea Power Upon History"* de Alfred Thayer Mahan (1890). Apoya el poder marítimo. [Enlace a Gutenberg](https://www.gutenberg.org/files/13529/13529-h/13529-h.htm).  
+1. ["Politics Among Nations: The Struggle for Power and Peace" de Hans J. Morgenthau (1948). Apoya el realismo clásico. Enlace a Amazon. 🟡③🌐](https://www.google.com/search?q=https://www.amazon.com/Politics-Among-Nations-Hans-Morgenthau/dp/0072895094) .- Obra fundacional del realismo clásico en las relaciones internacionales que analiza la lucha por el poder entre las naciones.
+2. ["The Tragedy of Great Power Politics" de John J. Mearsheimer (2001). Defiende el realismo ofensivo. Enlace a Amazon. 🟡③🌐](https://www.google.com/search?q=https://www.amazon.com/Tragedy-Great-Power-Politics-Mearsheimer/dp/0393349276) .- Texto fundamental del realismo ofensivo que argumenta que la anarquía del sistema internacional obliga a los estados a maximizar su poder.
+3. ["The Grand Chessboard: American Primacy and Its Geostrategic Imperatives" de Zbigniew Brzezinski (1997). Apoya estrategias geopolíticas realistas. Enlace a PDF. 🟡③🌐](https://archive.org/details/grandchessboarda0000brze) .- Análisis estratégico sobre la primacía de Estados Unidos en Eurasia y las tácticas necesarias para mantener su estatus de superpotencia global.
+4. ["The Geographical Pivot of History" de Halford Mackinder (1904). Fundamenta la teoría del Heartland. Enlace a artículo. 🟡③🌐](https://ondisc.nd.edu/assets/422105/mackinder_1904_heartland_article_17_pages.pdf) .- Artículo clásico que introduce la teoría del Heartland, situando el centro de Eurasia como la clave para el control geopolítico mundial.
+5. ["The Influence of Sea Power Upon History" de Alfred Thayer Mahan (1890). Apoya el poder marítimo. Enlace a Gutenberg. 🟡③🌐](https://www.gutenberg.org/ebooks/13529) .- Estudio histórico sobre la importancia estratégica del poder naval y su impacto en el ascenso y caída de los imperios europeos.
 
 ## Referencias Bibliográficas que Refutan el Contenido
 
 Estas obras critican el realismo geopolítico, proponiendo enfoques liberales, constructivistas o poscoloniales que enfatizan cooperación, instituciones y críticas al determinismo geográfico.
 
-- *"After Hegemony: Cooperation and Discord in the World Political Economy"* de Robert O. Keohane (1984). Critica el realismo al enfatizar instituciones liberales. [Enlace a Amazon](https://www.amazon.com/After-Hegemony-Cooperation-Political-Economy/dp/0691122482).  
-- *"Social Theory of International Politics"* de Alexander Wendt (1999). Constructivismo que refuta el determinismo realista. [Enlace a Google Books](https://books.google.com/books/about/Social_Theory_of_International_Politics.html?id=UG2b4pS6YqAC).  
-- *"The End of History and the Last Man"* de Francis Fukuyama (1992). Liberalismo que critica el pesimismo realista. [Enlace a Amazon](https://www.amazon.com/Fin-Historia-Ultimo-Hombre-Interpretacion/dp/8432059544).  
-- *"Critical Geopolitics"* de Gearóid Ó Tuathail (1996). Critica el realismo clásico como eurocéntrico. [Enlace a PDF](https://gc.scalahed.com/recursos/files/r161r/w25211w/u2_introduccionalpensamientogeopolitico.pdf).  
-- *"Orientalism"* de Edward Said (1978). Crítica poscolonial al enfoque occidental del realismo. [Enlace a Amazon](https://www.amazon.com/Orientalism-Edward-W-Said/dp/039474067X).
+1. ["After Hegemony: Cooperation and Discord in the World Political Economy" de Robert O. Keohane (1984). Critica el realismo al enfatizar instituciones liberales. Enlace a Amazon. 🟡③🌐](https://www.amazon.com/After-Hegemony-Cooperation-Discord-Political/dp/0691122482) .- Texto fundamental del institucionalismo neoliberal que analiza cómo la cooperación internacional es posible a través de regímenes incluso sin una potencia hegemónica.
+2. ["Social Theory of International Politics" de Alexander Wendt (1999). Constructivismo que refuta el determinismo realista. Enlace a Google Books. 🟡③🌐](https://books.google.com/books/about/Social_Theory_of_International_Politics.html?id=s2xjEd0ww2sC) .- Obra clave del constructivismo que propone que la estructura del sistema internacional es social y basada en ideas compartidas más que en fuerzas materiales.
+3. ["The End of History and the Last Man" de Francis Fukuyama (1992). Liberalismo que critica el pesimismo realista. Enlace a Amazon. 🟡③🌐](https://www.amazon.com/End-History-Last-Man-Francis-Fukuyama/dp/024196024X) .- Ensayo que argumenta que la democracia liberal occidental representa el punto final de la evolución sociocultural y la forma definitiva de gobierno humano.
+4. ["Critical Geopolitics" de Gearóid Ó Tuathail (1996). Critica el realismo clásico como eurocéntrico. Enlace a PDF. 🟡③🌐](https://criticalgeopolitics.com/wp-content/uploads/2011/01/toaldalby_rethinkinggeopoliticsintro_1998.pdf) .- Análisis que desconstruye la geopolítica tradicional, exponiéndola como una práctica discursiva que sirve a intereses de poder específicos y visiones del mundo situadas.
+5. ["Orientalism" de Edward Said (1978). Crítica poscolonial al enfoque occidental del realismo. Enlace a Amazon. 🟡③🌐](https://www.amazon.com/Orientalism-Edward-W-Said/dp/039474067X) .- Estudio crítico sobre las representaciones occidentales del "Oriente" y cómo estas construcciones culturales han facilitado y justificado la dominación colonial.
 
 ![[Plantilla - 1MT#One More Thing]]

@@ -21,7 +21,7 @@ tags:
 ---
 # La importancia del espacio en la configuración del poder 🔴②
 
-[[Aprender sobre Geopolitica Básica  ⚫①]]
+[[Aprender sobre Geopolitica Básica 🟡③]]
 
 Imagina el mundo como un enorme tablero de juego. No es solo un fondo bonito donde pasan cosas; el espacio —la tierra, los mares, los cielos— es el verdadero protagonista que decide quién tiene el poder, cómo lo usa y hasta dónde llega su influencia. Desde los océanos que unen países hasta las montañas que los separan, el espacio ha sido siempre la clave para entender quién manda y por qué. En geopolítica, controlar el espacio significa controlar recursos, rutas y seguridad. ¿Quieres saber cómo funciona esto y por qué sigue siendo tan importante hoy? Vamos a explorarlo juntos, paso a paso, con ejemplos que lo hagan fácil de entender.
 

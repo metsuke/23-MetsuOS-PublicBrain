@@ -21,7 +21,7 @@ tags:
 ---
 # Definición y origen de la Geopolítica 🔴②
 
-[[Aprender sobre Geopolitica Básica  ⚫①]]
+[[Aprender sobre Geopolitica Básica 🟡③]]
 
 ## Definición de Geopolítica
 

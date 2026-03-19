@@ -18,7 +18,7 @@ tags: []
 ---
 # Territorio, recursos naturales y posición estratégica 🔴②
 
-[[Aprender sobre Geopolitica Básica  ⚫①]]
+[[Aprender sobre Geopolitica Básica 🟡③]]
 
 ## El Espacio Geográfico como Factor de Poder en la Geoestrategia
 

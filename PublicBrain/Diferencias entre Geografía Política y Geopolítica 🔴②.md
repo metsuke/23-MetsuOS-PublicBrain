@@ -21,7 +21,7 @@ tags:
 ---
 # Diferencias entre Geografía Política y Geopolítica 🔴②
 
-[[Aprender sobre Geopolitica Básica  ⚫①]]
+[[Aprender sobre Geopolitica Básica 🟡③]]
 
 Cuando te adentras en los conceptos básicos de la geopolítica, es normal que al principio te líes un poco con la geografía política. Las dos tienen que ver con el espacio, el poder y cómo se relacionan los lugares, pero cada una mira el mundo desde un ángulo diferente. Vamos a desgranarlas paso a paso, de forma sencilla y práctica, para que las tengas claras y no se te crucen los cables.
 

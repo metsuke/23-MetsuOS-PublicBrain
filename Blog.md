@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-01-28T21:34:50.862Z
+modified: 2026-03-19T20:34:07.101Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 37
+ver_rev: 38
 nav_primary: 
 nav_secondary: 
 tags:
@@ -23,11 +23,12 @@ tags:
 
 **En esta fase, recuperando y poniendo al dia entradas relevantes de la web anterior**
 
---- start-multi-column: BloqueBlog002\
+--- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
 Number of Columns: 2
 Border: off
 ```
+
 ![Blog El Archivero del Retro](_resources/a1cf3e2db2af68d01ac275cd53fdf59f_MD5.jpg)
 ## El Archivero del Retro
 

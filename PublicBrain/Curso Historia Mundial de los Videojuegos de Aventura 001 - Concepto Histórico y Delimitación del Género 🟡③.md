@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-27T21:07:02.629Z
-modified: 2026-02-05T00:09:35.214Z
+modified: 2026-03-20T14:47:08.104Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -24,7 +24,7 @@ MOS_TopImg_Video: HistoriaMundialVideojuegosAventura_001.mp4
 
 ![Curso Historia Mundial de los Videojuegos de Aventura 001 - Concepto Histórico y Delimitación del Género](PublicBrain/_resources/a0d466c8d93297f792bea1284759f9cd_MD5.jpg)
 
-[[Curso Historia Mundial de los videojuegos de aventura 🟡③]]
+[[Curso Historia Mundial de los Videojuegos de Aventura]]
 
 El género de la aventura representa uno de los pilares fundacionales del videojuego. A diferencia de otros géneros definidos por la destreza física, la aventura se erige sobre la **resolución de conflictos mediante el intelecto** y la inmersión en un mundo narrado.
 

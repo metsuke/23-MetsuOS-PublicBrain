@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-03-12T05:23:52.091Z
+modified: 2026-03-20T14:47:07.877Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 158
+ver_rev: 164
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,6 +29,16 @@ Number of Columns: 2
 Border: off
 ```
 
+
+![Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales](PublicBrain/_resources/49924154210fa7e4e1b8fd9292c6f1a0_MD5.jpg)
+
+### Videojuegos Aventura - Historia Mundial de los videojuegos de aventura Subgéneros Principales
+
+Los subgéneros, en el mundo de los videojuegos de aventura, no son meras etiquetas técnicas: son el pulso vivo de cómo la tecnología, la cultura y la imaginación humana han transformado este género desde sus humildes orígenes experimentales hasta convertirse en una de las formas más poderosas de contar historias interactivas. 
+
+Continua leyendo en ... [[Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales 🔴②]]
+
+--- column-end ---
 
 ![Epistemología - La Arquitectura del Saber Científico](_resources/3f5b4ce4dbda4b7802a08aa38630fb89_MD5.jpg)
 ### Epistemología como arquitectura del saber científico
@@ -89,17 +99,6 @@ Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
 Es esta una parte del proyecto que tenia reservada para más adelante, pero la "actualidad" manda, es hora de aprovechar mi fondo en cuanto a cds y disquettes para aportar mi minúsculo grano de arena en este mundillo retro tan activo en nuestros dias.
 
 Continua leyendo en ... [[Blog - El Archivero del Retro  ⚫①]]
-
---- column-end ---
-
-![Historia Mundial de los videojuegos de aventura](PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg)
-## Videojuegos Aventura - Historia Mundial de los videojuegos de aventura
-
-Este curso ofrece un recorrido completo y apasionante por la evolución de los videojuegos de aventura, un género que ha marcado la historia del entretenimiento interactivo. Desde sus humildes inicios basados en texto hasta las experiencias narrativas modernas e híbridas, exploraremos cómo estos juegos han combinado exploración, rompecabezas y relatos cautivadores para capturar la imaginación de millones de jugadores en todo el mundo. 
-
-A lo largo de los módulos, analizaremos innovaciones técnicas, influencias culturales y los desarrolladores clave que han dado forma a este universo lúdico.
-
-Continua leyendo en [[Curso Historia Mundial de los videojuegos de aventura 🟡③]]
 
 --- column-end ---
 

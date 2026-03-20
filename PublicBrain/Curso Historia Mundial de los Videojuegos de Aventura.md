@@ -9,25 +9,25 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-02T17:40:49.067Z
-modified: 2026-02-05T00:09:35.185Z
+modified: 2026-03-20T14:47:08.092Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 16
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: HistoriaMundialVideojuegosAventura_000.mp4
 ---
-# Curso Historia Mundial de los videojuegos de aventura 🟡③
+# Curso Historia Mundial de los Videojuegos de Aventura
 
 ![Historia Mundial de los videojuegos de aventura](PublicBrain/_resources/d49e0234a3ab3dd76651ca6f1131f007_MD5.jpg)
 
 * [[KB]]
 * [[Historia de los videojuegos de aventura a traves de CAAD 🟡③]]
 
-# Índice del Curso: Historia Mundial de los Videojuegos de Aventura
+
 
 Este curso ofrece un recorrido completo y apasionante por la evolución de los videojuegos de aventura, un género que ha marcado la historia del entretenimiento interactivo. Desde sus humildes inicios basados en texto hasta las experiencias narrativas modernas e híbridas, exploraremos cómo estos juegos han combinado exploración, rompecabezas y relatos cautivadores para capturar la imaginación de millones de jugadores en todo el mundo. A lo largo de los módulos, analizaremos innovaciones técnicas, influencias culturales y los desarrolladores clave que han dado forma a este universo lúdico.
 
@@ -56,22 +56,17 @@ Border: off
 
 Exploramos el núcleo del género: juegos que priorizan la resolución de enigmas y el desarrollo de historias, diferenciándolos de híbridos como *The Legend of Zelda*, que incorporan elementos de acción.
 
-[[Curso Historia Mundial de los Videojuegos de Aventura 001 - Concepto Histórico y Delimitación del Género 🟡③]]
+Continua leyendo en ... [[Curso Historia Mundial de los Videojuegos de Aventura 001 - Concepto Histórico y Delimitación del Género 🟡③]]
 
  --- column-end ---
 
+![Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales](PublicBrain/_resources/49924154210fa7e4e1b8fd9292c6f1a0_MD5.jpg)
+
 ### Lección 1.2: Subgéneros Principales
 
-Presentamos una tabla comparativa para ilustrar los subgéneros clave:
+Los subgéneros, en el mundo de los videojuegos de aventura, no son meras etiquetas técnicas: son el pulso vivo de cómo la tecnología, la cultura y la imaginación humana han transformado este género desde sus humildes orígenes experimentales hasta convertirse en una de las formas más poderosas de contar historias interactivas. 
 
-| Subgénero              | Descripción                                                                 | Ejemplos Clave                          | Época Dominante    |
-|------------------------|-----------------------------------------------------------------------------|-----------------------------------------|--------------------|
-| Aventura de texto     | Basados en comandos textuales y parsers para interactuar con el mundo.      | *Colossal Cave Adventure* (1976), *Zork* (1977). | 1970s-1980s       |
-| Gráfica temprana      | Incorporan imágenes estáticas junto al texto para enriquecer la inmersión. | *Mystery House* (1980).                | 1980s             |
-| Point-and-click       | Interfaz intuitiva con ratón, verbos contextuales y clics para acciones.    | *Maniac Mansion* (1987), *Monkey Island* (1990). | 1980s-1990s       |
-| Primera persona / Puzzle | Entornos pre-renderizados en 3D, con atmósfera inmersiva y enigmas complejos. | *Myst* (1993).                          | 1990s             |
-| Interactiva / Visual Novel | Diálogos ramificados y elecciones narrativas, común en producciones japonesas. | *Snatcher* (1988), *Ace Attorney* (2001). | 1980s-presente    |
-| Episódica moderna     | Historias divididas en episodios con decisiones que afectan el desenlace.    | *The Walking Dead* (2012).              | 2010s             |
+Continua leyendo en ... [[Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales 🔴②]]
 
 ### Lección 1.3: Evolución Mecánica
 

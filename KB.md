@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-03-12T05:23:52.093Z
+modified: 2026-03-21T06:03:52.713Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 77
+ver_rev: 78
 nav_primary:
 nav_secondary:
 tags:
@@ -143,7 +143,7 @@ Continua leyendo en ... [[Curso sobre Estructura e Implementación NO Automatiza
 
 --- column-end ---
 
-![Curso sobre estructura e implementación automática de un negocio](PublicBrain/_resources/6a12223cdd308d35d036125c8f728113_MD5.jpg)
+![Curso sobre estructura e implementación automática de un negocio](PublicBrain/_resources/d2303c20c72d58539ec012924cc54fa5_MD5.jpg)
 ## Curso sobre estructura e implementación automática de un negocio
 
 Este curso está diseñado para emprendedores, dueños de negocios y profesionales que buscan optimizar y escalar sus operaciones mediante automatización. El enfoque principal es comparar métodos habituales con herramientas actuales (como Make, n8n, Zapier o plataformas comerciales) con la implementación en accesibilidad y la IA distribuida.

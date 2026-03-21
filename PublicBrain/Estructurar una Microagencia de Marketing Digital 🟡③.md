@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.188Z
-modified: 2026-02-03T23:30:52.926Z
+modified: 2026-03-21T05:41:35.693Z
 supervisado: 2024-06-09T21:35:05.959Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 158
+ver_rev: 159
 nav_primary:
 nav_secondary:
 tags:
@@ -28,6 +28,8 @@ MOS_TopImg_Video: EstructuraMicroagencia000[Z].mp4
 	* [[Curso sobre estructura e implementación automática de un negocio 🟡③]]
 	* [[Mis Apuntes del Curso de Platzi Estructurar una Microagencia de Marketing Digital 🔴②]]
 	* [[Glosario de Marketing Digital ⚫①]]
+
+> Dado el amplio impacto de la cuestion de la automatizcion de negocios y la fase de plena transformacion del sector debido al abuso tradicional, la venta de bullshit a clientes y el impacto de la IA,  el trabajo de esta seccion está enfocado por ahora en el curso sobre estructura e implementacion automatica de negocios cuyo enlace puedes encontrar encima y una vez definido e implementado esto con claridad, volveremos aqui.
 
 Inspirado en este [[Curso de Platzi sobre Estructurar una Microagencia de Marketing Digital 🔴②]] estoy desarrollando mi metodología sobre habilidades, perfiles y tareas para MetsuOS tomando como base lo aprendido en este curso, para posteriormente integrar mas conocimientos.
 

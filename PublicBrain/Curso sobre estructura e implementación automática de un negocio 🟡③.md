@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-02-03T17:58:16.111Z
-modified: 2026-02-07T07:02:42.353Z
+modified: 2026-03-21T06:02:44.073Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -22,7 +22,7 @@ MOS_TopImg_Video: BussinessAutomation_000.mp4
 ---
 # Curso sobre estructura e implementación automática de un negocio 🟡③
 
-![Curso sobre estructura e implementación automática de un negocio](PublicBrain/_resources/6a12223cdd308d35d036125c8f728113_MD5.jpg)
+![Curso sobre estructura e implementación automática de un negocio](PublicBrain/_resources/d2303c20c72d58539ec012924cc54fa5_MD5.jpg)
 
 * [[KB]]
 	* [[Estructurar una Microagencia de Marketing Digital 🟡③]]
@@ -35,7 +35,7 @@ MetsuOS simplifica todo al ofrecer herramientas nativas integradas, como mosAuto
 
 Se organiza en módulos temáticos, con lecciones que detallan ambos enfoques, objetivos, recursos y actividades. 
 
-## Módulo 1: "Introducción a la Automatización de Negocios
+## Módulo 1: Introducción a la Automatización de Negocios
 
 El objetivo es comprender los conceptos básicos de un negocio automatizado y su impacto, comparando enfoques tradicionales con la simplicidad de MetsuOS.
 
@@ -43,6 +43,8 @@ El objetivo es comprender los conceptos básicos de un negocio automatizado y su
 
 * Habitualmente con herramientas actuales: Se define mediante integración de plataformas como Zapier o Make, que conectan apps externas con flujos condicionales, requiriendo configuración manual y manejo de APIs.
 * Con MetsuOS: Mucho más sencillo y eficaz, ya que mosSystemUI y PublicBrain proporcionan una definición nativa e inclusiva, con flujos automáticos preconfigurados que se adaptan a necesidades accesibles sin setup externo.
+
+Continua leyendo en [[Curso sobre negocios automatizados 001 - Definición de negocio automatizado
 ### Lección 1.2: Beneficios de la automatización.  
 
   * Habitualmente con herramientas actuales: Ahorro de tiempo y costes mediante workflows en n8n o Airtable, pero con riesgos de dependencias y cuotas de uso.

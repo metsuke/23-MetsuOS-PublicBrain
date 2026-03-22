@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2026-03-20T07:24:24.831Z
-modified: 2026-03-21T06:43:16.169Z
+modified: 2026-03-22T04:55:23.721Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 14
+ver_rev: 15
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: HistoriaAventuras_003.mp4
 ---
-# Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales 🔴②
+# Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales 🟡③
 
 
 ![Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales](PublicBrain/_resources/49924154210fa7e4e1b8fd9292c6f1a0_MD5.jpg)

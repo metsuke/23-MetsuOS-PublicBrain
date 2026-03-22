@@ -79,7 +79,8 @@ Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🟡
 
 --- column-end ---
 
-![Jugador de futbol chibi](PublicBrain/_resources/2419271707ed3e782513535c0c41967d_MD5.jpeg)
+![Aprender sobre Ejercicio basado en evidencia](PublicBrain/_resources/c488073c15c1cfb1a6fee75b42a80c99_MD5.jpg)
+
 ## Aprender sobre Ejercicio basado en evidencia
 
 Aprender sobre ejercicio basado en evidencia implica comprender cómo diseñar y aplicar rutinas de actividad física respaldadas por investigaciones científicas sólidas, maximizando beneficios para la salud y el rendimiento mientras se minimizan riesgos. Este enfoque se fundamenta en estudios que evalúan la eficacia de diferentes tipos de ejercicio, como el entrenamiento de fuerza, cardiovascular o de flexibilidad, considerando variables como intensidad, duración y frecuencia, adaptadas a objetivos específicos y características individuales.

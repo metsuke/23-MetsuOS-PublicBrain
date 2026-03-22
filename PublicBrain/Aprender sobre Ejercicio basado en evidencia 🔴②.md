@@ -1,13 +1,13 @@
 ---
 iaStatus: 8
 iaStatus_Model: Grok-3
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-05-02T20:16:48.886Z
 modified: 2025-06-12T20:08:55.293Z
 supervisado: ""
@@ -15,16 +15,17 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 7
-nav_primary: 
-nav_secondary: 
+nav_primary:
+nav_secondary:
 tags:
+MOS_TopImg_Video: EjercicioEvidencia_000.mp4
 ---
 # Aprender sobre Ejercicio basado en evidencia 🔴②
 
 
-![Jugador de futbol chibi](PublicBrain/_resources/2419271707ed3e782513535c0c41967d_MD5.jpeg)
+![Aprender sobre Ejercicio basado en evidencia](PublicBrain/_resources/c488073c15c1cfb1a6fee75b42a80c99_MD5.jpg)
 
-[[PublicBrain/Index|Index]]
+[[Aprendizaje basado en evidencia  ⚫①]]
 
 ## Módulo 1: Fundamentos del Ejercicio Basado en Evidencia
 

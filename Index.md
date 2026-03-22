@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-03-21T06:09:24.629Z
+modified: 2026-03-22T04:55:23.706Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 133
+ver_rev: 134
 nav_primary:
 nav_secondary:
 tags:
@@ -107,7 +107,7 @@ Continuar leyendo en ... [[Curso Publicacion de Contenido Editorial como Aventur
 
 ### Videojuegos - Curso Historia Mundial de los Videojuegos de Aventura - Subgéneros Principales
 
-Continua leyendo en ... [[Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales 🔴②]]
+Continua leyendo en ... [[Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales 🟡③]]
 
 --- column-end ---
 --- multi-column-end

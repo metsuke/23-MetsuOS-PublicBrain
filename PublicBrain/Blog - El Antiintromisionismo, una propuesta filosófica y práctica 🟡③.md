@@ -92,7 +92,7 @@ En un sistema operativo o comunidad basada en este principio:
 2. [Raz, J. (1986). The Morality of Freedom 🟡③🌐](https://scholarship.law.columbia.edu/books/250/) .- Capítulo 14 justifica perfeccionismo estatal moderado.   
 3. [Dworkin, G. (2020). «Paternalism» Stanford Encyclopedia of Philosophy  🟡③🌐](https://plato.stanford.edu/entries/paternalism/) .- Argumenta que cierto paternalismo es éticamente permisible.  
 4. [Sen, A. (1999). Development as Freedom 🟡③🌐](https://global.oup.com/academic/product/development-as-freedom-9780192893307?cc=jp&lang=en&) .- Capítulo 12 critica visiones puramente negativas de la libertad.  
-5. [[Libro - Think Fast and Slow - Daniel Kahneman 🔴②]] .- Parte II documenta sesgos sistemáticos que justifican intervenciones.  
+5. [[Libro - Think Fast and Slow - Daniel Kahneman 🟡③]] .- Parte II documenta sesgos sistemáticos que justifican intervenciones.  
 
 
 ![[Plantilla - 1MT#One More Thing]]

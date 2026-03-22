@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-05-21T23:37:37.571Z
-modified: 2025-08-29T18:06:46.959Z
+modified: 2026-03-21T20:16:34.227Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary:
 nav_secondary:
 tags:
 MOS_TopImg_Video: Blog_DiosEsGallego.mp4
 ---
-# Blog - Dios es Gallego - Del Gráfico de Nolan a la Pirámide de Coherentum - 2025-05-22 🔴②
+# Blog - Dios es Gallego - Del Gráfico de Nolan a la Pirámide de Coherentum - 2025-05-22 🟡③
 
 
 ![Representación de un Dios en la piramide de coherentum](BCCD6E9-01AB-44B0-A77C-A17DD51DAD5D.jpg)
@@ -101,24 +101,11 @@ Tras 35 años de búsqueda, tengo más preguntas que respuestas. Este artículo 
 
 ### Fuentes que Apoyan el Contenido
 
-1. **Kahneman, D. (2011). _Pensar rápido, pensar despacio_.**  
-    Este libro explora los sesgos cognitivos que nos llevan a aferrarnos a creencias absolutas, apoyando la idea de cuestionar nuestras verdades.  [[Libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
-    
-2. **Haidt, J. (2012). _The Righteous Mind: Why Good People Are Divided by Politics and Religion_.**  
-    Haidt analiza cómo las diferencias ideológicas son inherentes a la naturaleza humana, respaldando la defensa de la diversidad ideológica.  
-    [Enlace al libro en Amazon 🌐🔴②](https://www.amazon.es/Righteous-Mind-Divided-Politics-Religion/dp/0141039167/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=17JLTVMJLHF58&dib=eyJ2IjoiMSJ9.33AqJSwp5RYv2htXUanytg.1wDcza3Nr1j_FoAUim2jAwS7vxpcbUy2GZ6DomyP0YM&dib_tag=se&keywords=The+Righteous+Mind%3A+Why+Good+People+Are+Divided+by+Politics+and+Religion&qid=1747892235&sprefix=the+righteous+mind+why+good+people+are+divided+by+politics+and+religion%2Caps%2C401&sr=8-1)
-    
-3. **Sagan, C. (1994). _Pale Blue Dot: A Vision of the Human Future in Space_.**  
-    Este libro y su video asociado enfatizan la necesidad de una perspectiva más amplia, alineándose con la idea de trascender visiones antropocéntricas.  
-    [Enlace al Video sobre FlatLand  🌐🟡③](https://www.youtube.com/watch?v=UnURElCzGc0&list=PLiKMC8C3e0b2PwPmfeylRWFifrm88INmP&index=2)
-    
-4. **Antonsen, R. (2015). _Math is the Hidden Secret to Understanding the World_. TED Talk.**  
-    Esta charla explora cómo cambiar perspectivas fomenta el conocimiento, apoyando la metáfora de la pirámide de coherencia.  
-    [Enlace a la Charla TED de Antonsen  🌐🟡③](https://www.youtube.com/watch?v=ZQElzjCsl9o&list=PLiKMC8C3e0b2PwPmfeylRWFifrm88INmP&index=3)
-    
-5. **Carrillo, R. (2021). _Dios es gallego: del gráfico de Nolan a la pirámide de coherentum (versión inicial)
-    La versión inicial del artículo  ⚫①_
-    [Enlace al documento en WayBack Machine 🌐🟡③](https://web.archive.org/web/20210326162042/https://www.metsuke.com/dios-es-gallego-del-grafico-de-nolan-a-la-piramide-de-coherentum/)
+1. [[Libro - Think Fast and Slow - Daniel Kahneman 🟡③]] .- Este libro explora los sesgos cognitivos que nos llevan a aferrarnos a creencias absolutas, apoyando la idea de cuestionar nuestras verdades.  
+2. [Haidt, J. (2012). The Righteous Mind: Why Good People Are Divided by Politics and Religion. 🌐🟡③](https://www.amazon.es/Righteous-Mind-Divided-Politics-Religion/dp/0141039167/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=17JLTVMJLHF58&dib=eyJ2IjoiMSJ9.33AqJSwp5RYv2htXUanytg.1wDcza3Nr1j_FoAUim2jAwS7vxpcbUy2GZ6DomyP0YM&dib_tag=se&keywords=The+Righteous+Mind%3A+Why+Good+People+Are+Divided+by+Politics+and+Religion&qid=1747892235&sprefix=the+righteous+mind+why+good+people+are+divided+by+politics+and+religion%2Caps%2C401&sr=8-1) .- Haidt analiza cómo las diferencias ideológicas son inherentes a la naturaleza humana, respaldando la defensa de la diversidad ideológica.    
+3. [Sagan, C. (1994). Pale Blue Dot: A Vision of the Human Future in Space.  🌐🟡③](https://www.youtube.com/watch?v=UnURElCzGc0&list=PLiKMC8C3e0b2PwPmfeylRWFifrm88INmP&index=2).- Este libro y su video asociado enfatizan la necesidad de una perspectiva más amplia, alineándose con la idea de trascender visiones antropocéntricas. 
+4. [Antonsen, R. (2015). _Math is the Hidden Secret to Understanding the World_. TED Talk.  🌐🟡③](https://www.youtube.com/watch?v=ZQElzjCsl9o&list=PLiKMC8C3e0b2PwPmfeylRWFifrm88INmP&index=3) .- Esta charla explora cómo cambiar perspectivas fomenta el conocimiento, apoyando la metáfora de la pirámide de coherencia.  
+5. [Carrillo, R. (2021). _Dios es gallego: del gráfico de Nolan a la pirámide de coherentum (versión inicial) 🌐🟡③](https://web.archive.org/web/20210326162042/https://www.metsuke.com/dios-es-gallego-del-grafico-de-nolan-a-la-piramide-de-coherentum/) .- La versión inicial del artículo  ⚫①_
     
 ### Fuentes que Refutan o Desafían el Contenido
 

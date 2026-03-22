@@ -124,7 +124,7 @@ Es la pregunta, la que nos quita el sueño a ti, a mí, y a tantos otros, es la 
 
 Es esquiva, ambigua. Algunos la tildan de infantil; otros, de imposible. Nadie tiene una respuesta sin sesgos, pero todos creen estar en lo cierto.
 
-Continua leyendo en ... [[Blog - Dios es Gallego - Del Gráfico de Nolan a la Pirámide de Coherentum - 2025-05-22 🔴②]]
+Continua leyendo en ... [[Blog - Dios es Gallego - Del Gráfico de Nolan a la Pirámide de Coherentum - 2025-05-22 🟡③]]
 
  --- column-end ---
 --- multi-column-end

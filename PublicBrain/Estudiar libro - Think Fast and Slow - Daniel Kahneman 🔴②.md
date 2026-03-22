@@ -24,7 +24,7 @@ tags:
 ![Estudiando el libro de Kahneman](PublicBrain/_resources/78bad2bc7ae27db996a7f1c67521151b_MD5.jpeg)
 
 * [[PublicBrain/Index|Index]]
-	* [[Libro - Think Fast and Slow - Daniel Kahneman 🔴②]]
+	* [[Libro - Think Fast and Slow - Daniel Kahneman 🟡③]]
 
 ## Bienvenida: Un mapa para entender tu mente
 

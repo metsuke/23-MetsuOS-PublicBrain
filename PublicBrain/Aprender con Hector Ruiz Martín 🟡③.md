@@ -1,13 +1,13 @@
 ---
 iaStatus: 8
-iaStatus_Model: Grok-3
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Model: Grok,Gemini,Raul Carrillo aka metsuke
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-04-16T13:24:26.593Z
 modified: 2025-04-16T16:21:17.942Z
 supervisado: ""
@@ -15,11 +15,11 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 3
-nav_primary: 
-nav_secondary: 
+nav_primary:
+nav_secondary:
 tags:
 ---
-# Aprender con Hector Ruiz Martín 🔴②
+# Aprender con Hector Ruiz Martín 🟡③
 
 [[Aprender con Q-Z ⚫①]]
 
@@ -187,21 +187,15 @@ Su crítica a los edumitos ayuda a combatir métodos sin fundamento, como las te
 
 ### 9.1. Fuentes que Apoyan las Ideas de Ruiz Martín
 
-- [[Libro Como aprendemos - Hector Ruiz Martín 🟡③-📚🟡③]]
-    _Sintetiza los principios científicos del aprendizaje y su aplicación práctica en la educación._
-- Ruiz Martín, H. (2020). _Conoce tu cerebro para aprender a aprender_. International Science Teaching Foundation.  
-    _Ofrece estrategias basadas en la neurociencia para mejorar el aprendizaje, accesibles a estudiantes y docentes._
-- Willingham, D. T. (2009). _Why Don’t Students Like School?_. San Francisco: Jossey-Bass.  
-    _Refuerza la importancia de la psicología cognitiva en la educación, en línea con el enfoque de Ruiz Martín._
+1. [Libro Como aprendemos - Hector Ruiz Martín 🟡③-📚🟡③](https://science-teaching.org/es/libros/libro-como-aprendemos) .- Síntesis de los principios científicos del aprendizaje y su aplicación práctica en la educación, analizando procesos cognitivos y socioemocionales.
+2. [Ruiz Martín, H. (2020). Conoce tu cerebro para aprender a aprender. International Science Teaching Foundation. 🟡③🌐](https://science-teaching.org/es/libros/aprendiendo-a-aprender) .- Guía basada en la neurociencia con estrategias prácticas para mejorar el aprendizaje y la gestión del conocimiento dirigida a estudiantes y docentes.
+3. [Willingham, D. T. (2009). Why Don’t Students Like School?. San Francisco: Jossey-Bass. 🟡③🌐](https://archive.org/details/whydontstudentsl0000will) .- Análisis desde la psicología cognitiva sobre cómo funciona la mente en el aula y por qué la enseñanza debe alinearse con los procesos de memoria y pensamiento.
 
 ### 9.2. Fuentes que Critican o Cuestionan sus Ideas
 
-- Sweller, J. (2017). _Cognitive load theory: Recent theoretical advances_. En _Cognitive Load Theory_. Cambridge University Press.  
-    _Cuestiona la validez de la carga germane, un concepto que Ruiz Martín utiliza en sus explicaciones._
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). _Why minimal guidance during instruction does not work_. Educational Psychologist, 41(2), 75-86.  
-    _Critica enfoques que podrían simplificar la aplicación de la teoría de la carga cognitiva en contextos educativos diversos._
-- De Bruyckere, P., Kirschner, P. A., & Hulshof, C. D. (2015). _Urban Myths about Learning and Education_. Academic Press.  
-    _Aunque comparte la crítica a los edumitos, cuestiona la generalización de estrategias como las propuestas por Ruiz Martín._
+1. [Sweller, J. (2017). Cognitive load theory: Recent theoretical advances. En Cognitive Load Theory. Cambridge University Press. 🟡③🌐](https://www.cambridge.org/core/books/cognitive-load-theory/cognitive-load-theory-recent-theoretical-advances/E61D8A35BFEF87651CD5A6155BE26569) .- Capítulo que detalla los avances teóricos de la carga cognitiva, incluyendo la evolución de la arquitectura cognitiva humana y la reevaluación de los tipos de carga.
+2. [Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work. Educational Psychologist, 41(2), 75-86. 🟡③🌐](https://www.sfu.ca/~jcnesbit/EDUC220/ThinkPaper/KirschnerSweller2006.pdf) .- Artículo fundamental que analiza por qué la instrucción con guía mínima es ineficaz basándose en la arquitectura cognitiva humana y la evidencia empírica.
+3. [De Bruyckere, P., Kirschner, P. A., & Hulshof, C. D. (2015). Urban Myths about Learning and Education. Academic Press. 🟡③🌐](http://ed-neuro.ceit.metu.edu.tr/system/files/Files/Giris-3/urbanmythsaboutlearningandeducation.pdf) .- Libro que desmitifica creencias populares en educación, como los estilos de aprendizaje o el aprendizaje por descubrimiento, aportando rigor científico.
 
 ## 10. Consejos Prácticos
 

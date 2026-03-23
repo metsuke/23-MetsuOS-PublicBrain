@@ -33,7 +33,7 @@ tags:
 - Reyes, Iván: Aprender con Daniel Iván Reyes    
 - Rodriguez de la Fuente, Félix: Aprender con Félix Rodriguez de la Fuente    
 - Rodriguez Lozano, Ángel: Aprender con Ángel Rodriguez Lozano
-- Ruiz Martín, Hector: [[Aprender con Hector Ruiz Martín 🔴②]]
+- Ruiz Martín, Hector: [[Aprender con Hector Ruiz Martín 🟡③]]
  ---
 ## S
 

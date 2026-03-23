@@ -21,7 +21,7 @@ tags:
 ---
 # Libro Como aprendemos - Hector Ruiz Martín 🟡③-📚🟡③
 
-[[PublicBrain/Index|Index]] | [[Aprender con Hector Ruiz Martín 🔴②]] | [[Estudiando Como aprendemos - Hector Ruiz Martín 🔴②]]
+[[PublicBrain/Index|Index]] | [[Aprender con Hector Ruiz Martín 🟡③]] | [[Estudiando Como aprendemos - Hector Ruiz Martín 🔴②]]
 
 # Ficha Bibliográfica e Introducción de _¿Cómo aprendemos?_
 

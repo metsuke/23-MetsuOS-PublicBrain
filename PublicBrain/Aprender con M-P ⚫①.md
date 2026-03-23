@@ -27,7 +27,7 @@ tags:
 * [[Aprender con Beatriz Martín]]
 * [[Aprender con Anna Morales - SizeMatters ⚫①]]
 * [[Aprender con Irene Montero ⚫①]]
-* [[Aprender con Karl Popper ⚫①]]
+* [[Aprender con Karl Popper 🟡③]]
 * [[Aprender con Antonio Ruiz García (ElGris)]]
 * [[Aprender con Selva Orejón ⚫①]]
 

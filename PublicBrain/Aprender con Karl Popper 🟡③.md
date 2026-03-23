@@ -1,13 +1,13 @@
 ---
 iaStatus: 8
-iaStatus_Model: Grok-3
-iaStatus_Generado: "I"
-iaStatus_Supervisado: "H"
+iaStatus_Model: Grok,Gemini,Raul Carrillo aka metsuke
+iaStatus_Generado: I
+iaStatus_Supervisado: H
 iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2025-04-16T07:35:02.860Z
 modified: 2025-04-16T07:37:19.662Z
 supervisado: ""
@@ -15,11 +15,11 @@ ACCION: ""
 ver_major: 0
 ver_minor: 2
 ver_rev: 1
-nav_primary: 
-nav_secondary: 
+nav_primary:
+nav_secondary:
 tags:
 ---
-# Aprender con Karl Popper ⚫①
+# Aprender con Karl Popper 🟡③
 
 [[Aprender con M-P ⚫①]]
 
@@ -185,22 +185,15 @@ El énfasis de Popper en el pensamiento crítico inspira métodos educativos que
 
 ### 9.1. Fuentes que Apoyan las Ideas de Popper
 
-- Popper, K. (2002). _La lógica de la investigación científica_. Madrid: Tecnos.  
-    _Apoya el falsacionismo como criterio de demarcación y su crítica al inductivismo._
-- Popper, K. (2010). _La sociedad abierta y sus enemigos_. Barcelona: Paidós.  
-    _Defiende la democracia liberal y la ingeniería social gradual frente al totalitarismo._
-- Magee, B. (2000). _Popper_. Madrid: Cátedra.  
-    _Ofrece una introducción accesible y favorable a las ideas de Popper, destacando su impacto en la filosofía._
+1. [Popper, K. (2002). La lógica de la investigación científica. Madrid: Tecnos. 🟡③🌐](https://dialnet.unirioja.es/servlet/libro?codigo=323834) .- Obra fundamental que establece el falsacionismo como criterio de demarcación científica, rechazando la inducción en favor del método deductivo de contrastación.
+2. [Popper, K. (2010). La sociedad abierta y sus enemigos. 🟡③🌐]([https://www.casadellibro.com/libro-la-sociedad-abierta-y-sus-enemigos/9788449323744/1687397](https://proletarios.org/books/Popper-La-sociedad-abierta-y-sus-enemigos.pdf)) .- Tratado de filosofía política que critica el historicismo y defiende la sociedad abierta y la ingeniería social gradual frente a los modelos totalitarios.
+3. [Magee, B. (2000). Popper. Madrid: Cátedra. 🟡③🌐](https://archive.org/details/popper0000mage) .- Introducción clarificadora a la vida y pensamiento de Karl Popper, analizando sus contribuciones tanto a la filosofía de la ciencia como a la teoría política.
 
 ### 9.2. Fuentes que Refutan o Critican las Ideas de Popper
 
-- Kuhn, T. S. (1996). _La estructura de las revoluciones científicas_. Madrid: Fondo de Cultura Económica.  
-    _Critica el falsacionismo al proponer que la ciencia avanza mediante paradigmas, no solo por refutaciones._
-- Feyerabend, P. (1996). _Contra el método_. Barcelona: Ariel.  
-    _Cuestiona el falsacionismo, argumentando que la ciencia no sigue reglas estrictas y que el criterio de Popper es restrictivo._
-- Quine, W. V. O. (1998). _Dos dogmas del empirismo_. En _Del estímulo a la ciencia_. Barcelona: Ariel.  
-    _La tesis Duhem-Quine desafía la idea de que una hipótesis pueda refutarse de forma aislada._
-
+1. [[Libro - La estructura de las revoluciones cientificas - Thomas Kuhn 🟡③-🌐🟡③]] .- Obra fundamental que introduce el concepto de paradigma y describe cómo la ciencia progresa a través de revoluciones en lugar de un desarrollo lineal y acumulativo.
+2. [Feyerabend, P. (1996). Contra el método. Barcelona: Ariel. 🟡③🌐](https://es.wikipedia.org/wiki/Contra_el_m%C3%A9todo) .- Ensayo sobre la teoría del conocimiento que defiende el anarquismo epistemológico, argumentando que no existe un método científico único y universalmente válido.
+3. [Quine, W. V. O. (1998). Dos dogmas del empirismo. En Del estímulo a la ciencia. Barcelona: Ariel. 🟡③🌐](https://es.wikipedia.org/wiki/Dos_dogmas_del_empirismo) .- Crítica a la distinción entre verdades analíticas y sintéticas, proponiendo un holismo confirmacional donde las proposiciones se enfrentan al tribunal de la experiencia en conjunto.
 ## 10. Consejos Prácticos para el Estudio
 
 - **Orden de lectura**: Comienza con textos introductorios (como el libro de Magee) antes de sumergirte en las obras más densas de Popper.

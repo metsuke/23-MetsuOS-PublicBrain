@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-03-21T06:03:52.713Z
+modified: 2026-03-24T07:02:47.687Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 78
+ver_rev: 79
 nav_primary:
 nav_secondary:
 tags:
@@ -99,6 +99,17 @@ Continuar leyendo en [[Historia de la Epistemología y su aplicación en la Cien
 Number of Columns: 2
 Border: off
 ```
+
+
+![Curso e introducción técnica sobre  MCL (MetsuOS Context Language)](_resources/7206855ce31fcc3bc33e609ee721c532_MD5.jpg)
+
+## Curso e introducción técnica sobre  MCL (MetsuOS Context Language)
+
+**MCL** (MetsuOS Context Language) es un lenguaje de programación de alto nivel con sintaxis natural que convierte el **contexto** en una entidad de primera clase a lo largo de todo el ciclo de vida del software: desde el diseño y la compilación hasta la ejecución.
+
+Continua leyendo en ... [[Curso e introducción técnica sobre  MCL (MetsuOS Context Language) 🟡③]]
+
+--- column-end ---
 
 ![Aprender sobre Desarrollo de Software](PublicBrain/_resources/fc562b84a685b50fa9a5284f5c9c3e16_MD5.jpg)
 ## Aprender sobre Desarrollo de Software

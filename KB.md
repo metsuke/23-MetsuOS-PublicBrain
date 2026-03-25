@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-03-24T07:02:47.687Z
+modified: 2026-03-25T03:29:29.159Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 79
+ver_rev: 83
 nav_primary:
 nav_secondary:
 tags:
@@ -140,6 +140,16 @@ Continua leyendo en ... [[CSS Efemerides Lección 3 La "Estructura Inmune" Defin
 Number of Columns: 2
 Border: off
 ```
+
+
+![Curso sobre Administración de un Negocio Automatizado](PublicBrain/_resources/b09326c67ea33eca7a90547f331b445d_MD5.jpg)
+## Curso sobre Administración de un Negocio Automatizado
+
+**En un mundo donde el tiempo se ha convertido en el recurso más valioso, la administración de un negocio automatizado representa la forma más inteligente y liberadora de emprender en la era digital.** Este curso te enseñará, paso a paso y de forma práctica, cómo diseñar, lanzar y gestionar un negocio que genera ingresos de manera prácticamente automática, con la mínima intervención humana diaria. A lo largo de estas semanas aprenderás a combinar las mejores herramientas *no-code*, la inteligencia artificial, sistemas de automatización y estrategias probadas para crear un sistema empresarial que trabaje por ti las 24 horas, los 7 días de la semana. Mientras tanto, tú podrás disfrutar de libertad geográfica, escalabilidad ilimitada y un verdadero ingreso pasivo.  
+
+Continua leyendo en ... [[Curso sobre Administración de un Negocio Automatizado 🟡③]]
+
+--- column-end ---
 
 ![Curso sobre Estructura e Implementación NO Automatizada de un Negocio](/PublicBrain/_resources/2e1aac09a03c66638da37f8e31f772d0_MD5.jpg)
 ## Curso sobre Estructura e Implementación NO Automatizada de un Negocio

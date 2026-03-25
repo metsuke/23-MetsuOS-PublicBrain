@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T15:34:27.927Z
-modified: 2026-03-22T08:30:37.998Z
+modified: 2026-03-25T03:31:26.329Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 12
 nav_primary: 
 nav_secondary: 
 tags:
@@ -38,7 +38,7 @@ El aprendizaje basado en evidencia nos invita a ser curiosos, a probar, a reflex
 
 ¡Ven, acompáñanos en este proceso y hagamos que el aprendizaje sea una aventura inolvidable!
 
---- start-multi-column: AprenderConEvidencia
+--- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
 Number of Columns: 2
 Border: off

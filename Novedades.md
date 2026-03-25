@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-03-22T04:55:23.740Z
+modified: 2026-03-25T03:33:01.531Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 175
+ver_rev: 176
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,6 +29,26 @@ Number of Columns: 2
 Border: off
 ```
 
+
+
+![Curso sobre Administración de un Negocio Automatizado](PublicBrain/_resources/b09326c67ea33eca7a90547f331b445d_MD5.jpg)
+## Negocios - Curso sobre Administración de un Negocio Automatizado
+
+**En un mundo donde el tiempo se ha convertido en el recurso más valioso, la administración de un negocio automatizado representa la forma más inteligente y liberadora de emprender en la era digital.** Este curso te enseñará, paso a paso y de forma práctica, cómo diseñar, lanzar y gestionar un negocio que genera ingresos de manera prácticamente automática, con la mínima intervención humana diaria. A lo largo de estas semanas aprenderás a combinar las mejores herramientas *no-code*, la inteligencia artificial, sistemas de automatización y estrategias probadas para crear un sistema empresarial que trabaje por ti las 24 horas, los 7 días de la semana. Mientras tanto, tú podrás disfrutar de libertad geográfica, escalabilidad ilimitada y un verdadero ingreso pasivo.  
+
+Continua leyendo en ... [[Curso sobre Administración de un Negocio Automatizado 🟡③]]
+
+--- column-end ---
+
+![Curso e introducción técnica sobre  MCL (MetsuOS Context Language)](_resources/7206855ce31fcc3bc33e609ee721c532_MD5.jpg)
+
+## Desarrollo - Curso e introducción técnica sobre  MCL (MetsuOS Context Language)
+
+**MCL** (MetsuOS Context Language) es un lenguaje de programación de alto nivel con sintaxis natural que convierte el **contexto** en una entidad de primera clase a lo largo de todo el ciclo de vida del software: desde el diseño y la compilación hasta la ejecución.
+
+Continua leyendo en ... [[Curso e introducción técnica sobre  MCL (MetsuOS Context Language) 🟡③]]
+
+--- column-end ---
 
 ![Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales](PublicBrain/_resources/49924154210fa7e4e1b8fd9292c6f1a0_MD5.jpg)
 
@@ -59,30 +79,10 @@ Este curso te invita a sumergirte en el fascinante mundo de la publicación edit
 Continuar leyendo en ... [[Curso Publicacion de Contenido Editorial como Aventura de Texto 🟡③]]
 
 
---- column-end ---
 
-![CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio](PublicBrain/_resources/0968b6f0826d6fc8cac2aaa0da69732a_MD5.jpg)
-
-## Desarrollo - CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
-
-La **Estructura Inmune** es el "esqueleto de titanio" de una web diseñada para el cambio constante. En un entorno de **Efemérides**, donde un sitio puede cambiar de un diseño minimalista (Día de la Paz) a uno barroco y saturado (Carnaval) en 24 horas, la estructura debe garantizar que los órganos vitales del sitio (navegación, lectura y conversión) no se vean comprometidos por la "infección" estética.
-
-Continua leyendo en ... [[CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio 🟡③]]
 
 --- column-end ---
 
-![Curso sobre Estructura e Implementación NO Automatizada de un Negocio](/PublicBrain/_resources/2e1aac09a03c66638da37f8e31f772d0_MD5.jpg)
-## Negocios - Curso sobre Estructura e Implementación NO Automatizada de un Negocio
-
-Este curso está pensado para emprendedores, dueños de pequeñas empresas y profesionales que desean construir y dirigir un negocio de manera manual y colaborativa, centrándose en el factor humano. 
-
-Se inspira en enfoques automatizados, pero se adapta completamente a un modelo donde las personas son el eje principal. Definimos roles claros, habilidades necesarias, flujos de trabajo en equipo, herramientas de software **libre** (priorizando licencias GNU GPL o MIT; solo excepciones justificadas si no existe alternativa adecuada), y protocolos de documentación para mantener todo coordinado. 
-
-Cada sección incluye una nota breve sobre cómo se podría automatizar, solo como complemento.
-
-Continua leyendo en ... [[Curso sobre Estructura e Implementación NO Automatizada de un Negocio 🟡③]]
-
---- column-end ---
 
 ![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
 ## KB - La Biblioteca del Archivero del Retro

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-03-22T04:55:23.706Z
+modified: 2026-03-25T03:34:34.189Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 134
+ver_rev: 135
 nav_primary:
 nav_secondary:
 tags:
@@ -69,11 +69,11 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 --- column-end ---
 
 
-![CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio](PublicBrain/_resources/0968b6f0826d6fc8cac2aaa0da69732a_MD5.jpg)
+![Curso e introducción técnica sobre  MCL (MetsuOS Context Language)](_resources/7206855ce31fcc3bc33e609ee721c532_MD5.jpg)
 
-### Desarrollo - CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio.
+### Desarrollo - Curso e introducción técnica sobre  MCL (MetsuOS Context Language)
 
-Continua leyendo en ... [[CSS Efemerides Lección 3 La "Estructura Inmune" Definición de los pilares del layout que garantizan la usabilidad frente al cambio 🟡③]]
+Continua leyendo en ... [[Curso e introducción técnica sobre  MCL (MetsuOS Context Language) 🟡③]]
 
 --- column-end ---
 
@@ -85,11 +85,10 @@ Continua leyendo en ... [[Epistemología - La Arquitectura del Saber Científico
 
 --- column-end ---
 
-![Curso sobre Estructura e Implementación NO Automatizada de un Negocio](/PublicBrain/_resources/2e1aac09a03c66638da37f8e31f772d0_MD5.jpg)
-### Negocios - Curso sobre Estructura e Implementación NO Automatizada de un Negocio
+![Curso sobre Administración de un Negocio Automatizado](PublicBrain/_resources/b09326c67ea33eca7a90547f331b445d_MD5.jpg)
+### Curso sobre Administración de un Negocio Automatizado
 
-Continua leyendo en ... [[Curso sobre Estructura e Implementación NO Automatizada de un Negocio 🟡③]]
-
+Continua leyendo en ... [[Curso sobre Administración de un Negocio Automatizado 🟡③]]
 --- column-end ---
 
 

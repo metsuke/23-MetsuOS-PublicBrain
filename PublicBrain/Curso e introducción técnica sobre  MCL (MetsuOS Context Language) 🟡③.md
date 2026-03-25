@@ -1,16 +1,20 @@
 ---
-iaStatus: 3
+iaStatus: 8
+iaStatus_Model: ""
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations:
-created: 2023-08-30T00:54:00
-modified: 2024-03-06T23:35:00
+created: 2026-03-24T06:39:06.080Z
+modified: 2026-03-24T19:16:41.057Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: "0"
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -21,8 +25,6 @@ MOS_TopImg_Video: MCL_000.mp4
 ![Curso e introducción técnica sobre  MCL (MetsuOS Context Language)](_resources/7206855ce31fcc3bc33e609ee721c532_MD5.jpg)
 
 [[KB]]
-
-> OJO WIP
 
 **MCL** (MetsuOS Context Language) es un lenguaje de programación de alto nivel con sintaxis natural que convierte el **contexto** en una entidad de primera clase a lo largo de todo el ciclo de vida del software: desde el diseño y la compilación hasta la ejecución.
 
@@ -66,50 +68,65 @@ Crear un paradigma y una herramienta **universal** que permita escribir una úni
 
 ### Arquitectura general del ecosistema MCL
 
+#### Parte 1: Front-end y Generación de IR (MCL → MCL-IR)
+
 ```mermaid
-flowchart TD
-    MCL["Código fuente\n**.mcl**"] 
-    Specs["Especificaciones de contexto\n(máquina, hardware, entorno, usuario...)"]
-    Parser["Analizador + Parser"]
-    IR["MCL-IR\n(AST enriquecido con contexto)"]
-    ContextEngine["Motor de Resolución de Contextos\n(composición de layers, partial methods, variables contextuales)"]
-    BackendPy["Backend Python\n+ Runtime Py"]
-    BackendC["Backend C99\n+ Runtime C"]
-    BackendRust["Backend Rust\n+ Runtime Rust"]
-    BackendJS["Backend JavaScript\n+ Runtime JS"]
-    BackendWASM["Backend WebAssembly"]
-    BackendASM["Backend ASM (x86/ARM)"]
-    OutputPy["Código Python ejecutable\n+ Runtime"]
-    OutputC["Código C → Binario nativo"]
-    OutputRust["Código Rust → Binario"]
-    OutputJS["Código JavaScript"]
-    OutputWASM["Módulo WebAssembly"]
+flowchart LR
+    subgraph Parte1 [Primera parte: Front-end y Generación de IR]
+        MCL["Código fuente\n**.mcl**"]
+        Specs["Especificaciones de contexto\n(máquina, hardware, entorno, usuario...)"]
+        Parser["Analizador + Parser"]
+        IR["MCL-IR\n(AST enriquecido con contexto)"]
+        ContextEngine["Motor de Resolución de Contextos\n(composición de layers, partial methods, variables contextuales)"]
 
-    MCL --> Parser
-    Specs --> Parser
-    Parser --> IR
-    IR --> ContextEngine
-    ContextEngine --> BackendPy
-    ContextEngine --> BackendC
-    ContextEngine --> BackendRust
-    ContextEngine --> BackendJS
-    ContextEngine --> BackendWASM
-    ContextEngine --> BackendASM
+        MCL --> Parser
+        Specs --> Parser
+        Parser --> IR
+        IR --> ContextEngine
+    end
+```
 
-    BackendPy --> OutputPy
-    BackendC --> OutputC
-    BackendRust --> OutputRust
-    BackendJS --> OutputJS
-    BackendWASM --> OutputWASM
+#### Parte 2: Backends y Salidas (desde el ContextEngine hasta el código final)
+
+```mermaid
+flowchart LR
+    subgraph Parte2 [Segunda parte: Backends y Salidas]
+        BackendPy["Backend Python\n+ Runtime Py"]
+        BackendC["Backend C99\n+ Runtime C"]
+        BackendRust["Backend Rust\n+ Runtime Rust"]
+        BackendJS["Backend JavaScript\n+ Runtime JS"]
+        BackendWASM["Backend WebAssembly"]
+        BackendASM["Backend ASM (x86/ARM)"]
+
+        OutputPy["Código Python ejecutable\n+ Runtime"]
+        OutputC["Código C → Binario nativo"]
+        OutputRust["Código Rust → Binario"]
+        OutputJS["Código JavaScript"]
+        OutputWASM["Módulo WebAssembly"]
+
+        ContextEngine["Motor de Resolución de Contextos"] --> BackendPy
+        ContextEngine --> BackendC
+        ContextEngine --> BackendRust
+        ContextEngine --> BackendJS
+        ContextEngine --> BackendWASM
+        ContextEngine --> BackendASM
+
+        BackendPy --> OutputPy
+        BackendC --> OutputC
+        BackendRust --> OutputRust
+        BackendJS --> OutputJS
+        BackendWASM --> OutputWASM
+    end
 
     subgraph Bootstrap ["Bootstrap y Auto-compilación"]
         PyCompiler["Compilador inicial\n(en Python)"]
         SelfHost["Compilador MCL escrito en MCL\n(self-hosted)"]
     end
+
+    %% Conexiones entre partes
     PyCompiler -.-> Parser
     ContextEngine -.-> SelfHost
 ```
-
 ## Características técnicas clave
 
 - Sintaxis natural y legible tanto en español como en inglés.
@@ -156,7 +173,7 @@ Desde el bootstrap en Python hasta la auto-compilación total»**
 2.7 Especificación del formato intermedio MCL-IR  
 2.8 Representación de cualquier nivel de abstracción
 
-### Módulo 3: Implementación del Compilador Bootstrap (en Python)
+### Módulo 3: "I"mplementación del Compilador Bootstrap (en Python)
 3.1 Arquitectura general  
 3.2 Parser de archivos `.mcl`  
 3.3 Motor de resolución de contextos  

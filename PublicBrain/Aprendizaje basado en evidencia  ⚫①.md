@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-12T15:34:27.927Z
-modified: 2026-03-25T03:31:26.329Z
+modified: 2026-03-25T21:59:00.352Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
+ver_rev: 14
 nav_primary: 
 nav_secondary: 
 tags:
@@ -83,6 +83,9 @@ Continuar leyendo en ... [[Aprender sobre Accesibilidad basada en evidencia 🟡
 
 ## Aprender sobre Ejercicio basado en evidencia
 
+> [!CAUTION] **Aviso Legal e Intencionalidad** Consulta a un profesional sobre la materia. El contenido de este documento representa mis apuntes personales en un proceso de aprendizaje y estudio; no constituyen la verdad absoluta ni una recomendación clínica o médica.
+
+
 Aprender sobre ejercicio basado en evidencia implica comprender cómo diseñar y aplicar rutinas de actividad física respaldadas por investigaciones científicas sólidas, maximizando beneficios para la salud y el rendimiento mientras se minimizan riesgos. Este enfoque se fundamenta en estudios que evalúan la eficacia de diferentes tipos de ejercicio, como el entrenamiento de fuerza, cardiovascular o de flexibilidad, considerando variables como intensidad, duración y frecuencia, adaptadas a objetivos específicos y características individuales.
 
 Continua leyendo en ... [[Aprender sobre Ejercicio basado en evidencia 🔴②]]
@@ -92,9 +95,23 @@ Continua leyendo en ... [[Aprender sobre Ejercicio basado en evidencia 🔴②]]
 ![Cocinero y su materia prima](PublicBrain/_resources/ae312c58ea76e35722f751aa60bfbf9e_MD5.jpeg)
 ## Aprender sobre Nutrición basada en evidencia
 
+> [!CAUTION] **Aviso Legal e Intencionalidad** Consulta a un profesional sobre la materia. El contenido de este documento representa mis apuntes personales en un proceso de aprendizaje y estudio; no constituyen la verdad absoluta ni una recomendación clínica o médica.
+
 Aprender sobre nutrición basada en evidencia significa adquirir conocimientos sobre cómo diseñar una alimentación saludable y efectiva, respaldada por investigaciones científicas rigurosas. Este enfoque se centra en entender el impacto de los nutrientes, patrones alimentarios y dietas en la salud, el rendimiento y la prevención de enfermedades, utilizando datos de estudios clínicos y epidemiológicos. Al priorizar la evidencia, se evitan mitos y modas pasajeras, permitiendo tomar decisiones informadas y personalizadas para optimizar el bienestar.
 
 Continua leyendo en ... [[Aprender sobre Nutrición basada en evidencia 🔴②]]
+
+--- column-end ---
+
+![Aprender sobre Obesidad basada en evidencia ](PublicBrain/_resources/8e795896c1d21df96444a05bbafe41f6_MD5.jpg)()
+
+## Aprender sobre Obesidad basada en evidencia
+
+> [!CAUTION] **Aviso Legal e Intencionalidad** Consulta a un profesional sobre la materia. El contenido de este documento representa mis apuntes personales en un proceso de aprendizaje y estudio; no constituyen la verdad absoluta ni una recomendación clínica o médica.
+
+La obesidad no es una elección, sino una patología crónica y multifactorial donde la biología, el entorno y la genética se entrelazan de forma compleja. Este curso nace para romper con la visión simplista del "comer menos y moverse más". A través de un enfoque científico y humano, exploraremos desde la señalización neuroendocrina del hambre hasta las terapias de vanguardia, con el objetivo de dotar al profesional de herramientas eficaces, empáticas y, sobre todo, libres de estigma.
+
+Continua leyendo en ... [[Aprender sobre Obesidad basada en evidencia 🔴②]]
 
  --- column-end ---
 --- multi-column-end

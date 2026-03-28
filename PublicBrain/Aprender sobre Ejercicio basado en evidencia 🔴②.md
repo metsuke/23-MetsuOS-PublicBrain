@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-05-02T20:16:48.886Z
-modified: 2026-03-22T08:31:02.386Z
+modified: 2026-03-25T21:56:05.376Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 9
 nav_primary:
 nav_secondary:
 tags:
@@ -27,6 +27,7 @@ MOS_TopImg_Video: EjercicioEvidencia_000.mp4
 
 [[Aprendizaje basado en evidencia  ⚫①]]
 
+> [!CAUTION] **Aviso Legal e Intencionalidad** Consulta a un profesional sobre la materia. El contenido de este documento representa mis apuntes personales en un proceso de aprendizaje y estudio; no constituyen la verdad absoluta ni una recomendación clínica o médica.
 ## Módulo 1: Fundamentos del Ejercicio Basado en Evidencia
 
 ### 1.1 ¿Qué es el ejercicio basado en evidencia?

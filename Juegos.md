@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2025-12-25T20:46:35.472Z
+modified: 2026-03-25T03:55:39.540Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 22
+ver_rev: 23
 nav_primary: 
 nav_secondary: 
 tags:
@@ -22,6 +22,8 @@ tags:
 # Juegos
 
 ## Publicados
+
+Aqui te comparto mis videojuegos, ¡sígueme en [Itch.io 🌐](https://metsuke.itch.io) y ayudame a darlos a conocer!
 
 --- start-multi-column: BloqueMicrohobbit00
 ```column-settings  

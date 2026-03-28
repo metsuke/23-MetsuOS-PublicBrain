@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-03-13T02:28:03.949Z
+modified: 2026-03-25T03:43:59.109Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 85
+ver_rev: 86
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,7 +25,6 @@ tags:
 ```column-settings  
 Number of Columns: 2
 Border: off
-
 ```
 
 ![MetsuIS Logo](_resources/7c9b3eae3cf7ac9cee99705bc4a9ca95_MD5.jpg)

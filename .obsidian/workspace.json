@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apps.md",
+                "file": "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apps"
+              "title": "Curso Estructura de CSS Dinámico con Efemérides 🟡③"
+            }
+          },
+          {
+            "id": "ff72d6a14dadced9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curso Estructura de CSS Dinámico con Efemérides 🟡③"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,8 +217,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5613613b446ede8e",
+  "active": "ff72d6a14dadced9",
   "lastOpenFiles": [
+    "PublicBrain/CSS con Efemerides Lección 4 - El ciclo de vida de una efeméride  🔴②.md",
+    "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
+    "PublicBrain/CursoCSSEfemerides_004.png",
+    "CursoCSSEfemerides_004.png",
+    "CSS con Efemerides Lección 4.md",
+    "PublicBrain/CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③.md",
+    "KB.md",
+    "Apps.md",
     "Index.md",
     "PublicBrain/Historia Africana del Feminismo WIP.md",
     "PublicBrain/Historia de Sony Playstation 1 (PS1) 🔴②.md",
@@ -216,7 +239,6 @@
     "Historia de Sony Playstation 4 (PS4) 🔴②.md",
     "_resources/429908ff98876dd192bc8395c1ad5ef9_MD5.jpg",
     "HistoriaSonyPS4_000.png",
-    "KB.md",
     "PublicBrain/Aprender sobre Obesidad basada en evidencia 🔴②.md",
     "PublicBrain/Aprendizaje basado en evidencia  ⚫①.md",
     "PublicBrain/Aprender sobre Ejercicio basado en evidencia 🔴②.md",
@@ -228,18 +250,10 @@
     "PublicBrain/Aprender sobre Nutrición basada en evidencia 🔴②.md",
     "PublicBrain/¿Qué es la nutrición basada en evidencia y por qué importa? 🔴②.md",
     "Juegos.md",
-    "Apps.md",
     "El Proyecto.md",
     "Novedades.md",
     "PublicBrain/Curso sobre Administración de un Negocio Automatizado 🟡③.md",
     "PublicBrain/_resources/b09326c67ea33eca7a90547f331b445d_MD5.jpg",
-    "Curso sobre Administración de un Negocio Automatizado  ⚫①.md",
-    "PublicBrain/Estructurar una Microagencia de Marketing Digital 🟡③.md",
-    "PublicBrain/Curso e introducción técnica sobre  MCL (MetsuOS Context Language) 🟡③.md",
-    "Curso e introducción técnica sobre  MCL (MetsuOS Context Language) 🔴②.md",
-    "_resources/7206855ce31fcc3bc33e609ee721c532_MD5.jpg",
-    "PublicBrain/Aprender con Karl Popper 🟡③.md",
-    "PublicBrain/_resources/c488073c15c1cfb1a6fee75b42a80c99_MD5.jpg",
     "PublicBrain/ifarchive.org/if-archive/magazines",
     "PublicBrain/ifarchive.org/if-archive",
     "PublicBrain/ifarchive.org",

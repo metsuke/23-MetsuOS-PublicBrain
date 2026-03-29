@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-22T18:54:43.134Z
-modified: 2026-02-14T01:02:30.544Z
+modified: 2026-03-29T13:10:52.678Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 12
+ver_rev: 14
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -67,12 +67,15 @@ Continua leyendo en ... [[CSS Efemerides Lección 3 La "Estructura Inmune" Defin
 
 --- column-end ---
 
-- **Lección 4:** El ciclo de vida de una efeméride: Flujo lógico desde el dato cronológico hasta el renderizado final.
+![CSS con Efemerides Lección 4 - El ciclo de vida de una efeméride](CursoCSSEfemerides_004.png)
+## CSS Efemerides Lección 4 El ciclo de vida de una efeméride: Flujo lógico desde el dato cronológico hasta el renderizado final
+
+Después de haber explorado en la Lección 1 el concepto de diseño por efemérides —ese equilibrio delicado entre una identidad fija y una narrativa visual que evoluciona con la fecha—, en la Lección 2 la auditoría técnica del sitio actual (y sus problemas de JavaScript y sobrescritura de CSS) y en la Lección 3 la definición de la **«Estructura Inmune»** (los pilares del diseño que permanecen estables aunque la estética cambie), ahora es el momento de entender el **flujo completo** de una efeméride.
+
+Continua leyendo en [[CSS con Efemerides Lección 4 - El ciclo de vida de una efeméride  🔴②]]
 
  --- column-end ---
 --- multi-column-end
-
-
 
     
 

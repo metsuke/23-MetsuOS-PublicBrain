@@ -1,15 +1,20 @@
 ---
-a11y: 3
+iaStatus: 8
+iaStatus_Model: Gemini, Grok, Raul Carrillo aka metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
+a11y: 0
 checked: 0
 lang: ES
 translations:
-created: 2023-08-30T00:54:00
-modified: 2024-03-06T23:35:00
+created: 2026-03-28T09:42:31.290Z
+modified: 2026-03-28T20:29:10.318Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: "0"
-ver_rev: "0"
+ver_minor: 2
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -70,7 +75,7 @@ Con más de **102 millones de unidades vendidas**, la PS1 fue la primera en romp
 
 ### Fuentes que refutan o matizan puntos del contenido
 
-- **Sheff, D. (1999).** _Game Over: How Nintendo Zapped an American Industry, Captured Your Dollars, and Enslaved Your Children_. Vintage Books.
+- **Sheff, D. (1999).** _Game Over: "H"ow Nintendo Zapped an American Industry, Captured Your Dollars, and Enslaved Your Children_. Vintage Books.
     
     - _Matiz:_ Este libro argumenta que la ruptura no fue una "traición" unilateral por maldad, sino una medida de autodefensa de Nintendo al darse cuenta de que el contrato original entregaba a Sony el control total sobre las licencias de software en formato CD.
         
@@ -82,7 +87,5 @@ Con más de **102 millones de unidades vendidas**, la PS1 fue la primera en romp
     
     - _Matiz:_ El ingeniero jefe de la NES/SNES sostiene que el hardware de Sony no habría sido posible sin la transferencia tecnológica previa que Nintendo permitió durante los años de colaboración, restando peso a la narrativa de Sony como "inventor solitario".
         
-
-¿Deseas que profundice en los diagramas de flujo de datos del bus de sistema de la consola o que redacte una comparativa técnica con la Sega Saturn?
 
 ![[Plantilla - 1MT#One More Thing]]

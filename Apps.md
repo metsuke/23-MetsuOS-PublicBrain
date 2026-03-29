@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2026-01-24T22:15:58.283Z
+modified: 2026-03-29T09:05:06.066Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 76
 nav_primary:
 nav_secondary:
 tags:
@@ -62,7 +62,7 @@ Entre esas capas fundamentales y el código que forma el núcleo de nuestro sist
 
 
 ```mermaid
-graph LR
+graph TD
     A[Desarrollo] --> B[Propio]
     A[Desarrollo] --> C[Otras]
 
@@ -77,7 +77,13 @@ graph LR
     F --> G[mosLib]
     B --> G[mosLib]
 
-    D --> I[MetsuOS GNU/Linux]
+    D --> J[Debian GNU/Linux]
+        
+    J --> K[Parrot GNU/Linux Tools]
+        
+    E --> I[MetsuOS GNU/Linux]
+    J --> I[MetsuOS GNU/Linux]
+    K --> I[MetsuOS GNU/Linux]
 
     %% Relación opcional
     G -.-> I
@@ -87,7 +93,7 @@ graph LR
     classDef propio   fill:#2b6cb0,stroke:#2c5282,color:#ffffff
     classDef final    fill:#22543d,stroke:#276749,color:#ffffff
 
-    class D,E,H external
+    class D,E,H,J,K external
     class B,F,G propio
     class I final
 ```

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-03-24T22:35:02.352Z
-modified: 2026-03-25T02:42:51.396Z
+modified: 2026-03-29T15:10:58.027Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -26,14 +26,23 @@ MOS_TopImg_Video: AdministracionNegociosAutomatizados_000.mp4
 
 [[KB]]
 
-> OJO WIP
-
 **En un mundo donde el tiempo se ha convertido en el recurso más valioso, la administración de un negocio automatizado representa la forma más inteligente y liberadora de emprender en la era digital.** Este curso te enseñará, paso a paso y de forma práctica, cómo diseñar, lanzar y gestionar un negocio que genera ingresos de manera prácticamente automática, con la mínima intervención humana diaria. A lo largo de estas semanas aprenderás a combinar las mejores herramientas *no-code*, la inteligencia artificial, sistemas de automatización y estrategias probadas para crear un sistema empresarial que trabaje por ti las 24 horas, los 7 días de la semana. Mientras tanto, tú podrás disfrutar de libertad geográfica, escalabilidad ilimitada y un verdadero ingreso pasivo.  
 
 Tanto si estás empezando desde cero como si quieres llevar tu negocio actual al siguiente nivel de automatización, este programa te proporcionará el conocimiento práctico, las plantillas listas para usar y el *mindset* necesario para construir un negocio moderno, rentable y prácticamente autónomo. Bienvenido al futuro de los negocios: donde tu empresa deja de depender de tu tiempo y empieza a multiplicar tu libertad y tus ingresos.
 
 ## Módulo 1: Fundamentos de los Negocios Automatizados
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
 ### 1.1 Concepto, evolución histórica e importancia en la economía digital actual
+
+Continua leyendo en [[Administración de un Negocio Automatizado 1.1 - Concepto evolución histórica e importancia en la economía digital actual 🔴②]]
+
+ --- column-end ---
+
 ### 1.2 Características clave de un negocio automatizado (escalabilidad, ingresos pasivos, intervención mínima)
 ### 1.3 Diferencias con negocios tradicionales y mitos comunes
 ### 1.4 Ventajas (tiempo, costos, libertad geográfica) y desventajas reales
@@ -41,6 +50,12 @@ Tanto si estás empezando desde cero como si quieres llevar tu negocio actual al
 ### 1.6 Modelos de ingresos (one-time, suscripciones, ads, comisiones, upsells automáticos)
 ### 1.7 Casos de éxito y fracaso (análisis detallado de 8 ejemplos reales)
 ### 1.8 *Mindset* y habilidades esenciales del administrador de un negocio automatizado
+
+ --- column-end ---
+--- multi-column-end
+
+
+
 
 ## Módulo 2: Planificación Estratégica
 ### 2.1 Definición de visión, misión y objetivos SMART para negocios automatizados

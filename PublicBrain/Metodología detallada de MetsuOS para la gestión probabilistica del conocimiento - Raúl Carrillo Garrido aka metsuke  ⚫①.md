@@ -37,9 +37,15 @@ Las verdades probabilisticas dependientes de contexto, la metodología de identi
 
 ## A vista de pájaro.
 
-Resumiendo mucho, se trata de implementar la Psicohistoria y tecnología técnica que trabaje mediante automatización e IA apoyando al humano a los mandos para aplicar un conocimiento variable dependiente de contexto para beneficio de la humanidad, erradicando el fanatismo ideológico y religioso en el proceso (nada menos)  ⚫①
+Resumiendo mucho, se trata de implementar la Psicohistoria y tecnología tal que trabaje mediante automatización e IA apoyando al humano a los mandos para aplicar un conocimiento variable dependiente de contexto y asi beneficiar a aquellos que tomen el esfuerzo de aprender, sin las barreras habituales que impiden el acceso al conocimiento, erradicando el fanatismo ideológico y religioso en el proceso (nada menos)  ⚫①
 
 Resumiendo un poco menos se trata de llega a una escala de identificación de credibilidad de conteniodo y fuentes de información tan precisa como dinámica que nos permita sistematizar y automatizar la captura, procesado y aplicación, bajo supervisión humana, minimizando los sesgos del humano y maximizando la flexibildad que solo una maquina puede proporcionarnos.  ⚫①
+
+## Definiendo el proceso  ⚫①
+
+No todo el conocimiento nace igual, ni necesita el mismo nivel de validación para ser usado, es el contexto el que va a determinar esto... pero ... ¿Qué es conocimiento?, veámoslo.
+
+* [[Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría  ⚫①]]
 
 1. Se obtiene conocimiento
 2. Se analiza credibilidad de la fuente

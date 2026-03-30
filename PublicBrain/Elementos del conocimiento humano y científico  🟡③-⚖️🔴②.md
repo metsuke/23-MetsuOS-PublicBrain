@@ -23,6 +23,7 @@ tags:
 
 * [[Estructura del Conocimiento Humano y Científico ⚫①]]
 	* [[Metaanálisis - Elementos del conocimiento humano y científico ⚖️🔴②]]
+* [[Curso sobre tokenización del comocimiento humano y cientifico ⚫①]]
 
 
 ---

@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5613613b446ede8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curso Estructura de CSS Dinámico con Efemérides 🟡③"
-            }
-          },
-          {
             "id": "ff72d6a14dadced9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Administración de un Negocio Automatizado 1.1 - Concepto evolución histórica e importancia en la economía digital actual 🔴②.md",
+                "file": "Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría  ⚫①.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Administración de un Negocio Automatizado 1.1 - Concepto evolución histórica e importancia en la economía digital actual 🔴②"
+              "title": "Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría  ⚫①"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,22 +204,30 @@
   },
   "active": "ff72d6a14dadced9",
   "lastOpenFiles": [
+    "NPL.md",
+    "Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría  ⚫①.md",
+    "_resources/57c3310ac52c02f8be5463f7490853d7_MD5.jpg",
+    "_resources/a2086ee1613a1ac171ea26eb300514b8_MD5.jpg",
+    "PublicBrain/Metodología detallada de MetsuOS para la gestión probabilistica del conocimiento - Raúl Carrillo Garrido aka metsuke  ⚫①.md",
+    "PublicBrain/Elementos del conocimiento humano y científico  🟡③-⚖️🔴②.md",
+    "Curso sobre tokenización del comocimiento humano y cientifico ⚫①.md",
+    "Index.md",
+    "KB.md",
+    "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
+    "Blog.md",
+    "PublicBrain/Administración de un Negocio Automatizado 1.1 - Concepto evolución histórica e importancia en la economía digital actual 🔴②.md",
     "PublicBrain/_resources/a2b7177c485c281456bfc4254f070f66_MD5.jpg",
     "AdministracionNegociosAutomatizados_001.png",
     "PublicBrain/Curso sobre Administración de un Negocio Automatizado 🟡③.md",
-    "PublicBrain/Administración de un Negocio Automatizado 1.1 - Concepto evolución histórica e importancia en la economía digital actual 🔴②.md",
     "Concepto evolución histórica e importancia en la economía digital actual.md",
     "PublicBrain/Curso de GB Studio - Capítulo 04 - Estilo retro y su relevancia actual 🟡③.md",
-    "KB.md",
     "PublicBrain/Estructurar una Microagencia de Marketing Digital 🟡③.md",
-    "PublicBrain/Curso Estructura de CSS Dinámico con Efemérides 🟡③.md",
     "PublicBrain/CSS con Efemerides Lección 4 - El ciclo de vida de una efeméride  🔴②.md",
     "PublicBrain/CursoCSSEfemerides_004.png",
     "CursoCSSEfemerides_004.png",
     "CSS con Efemerides Lección 4.md",
     "PublicBrain/CSS con Efemerides Lección 1 -  El concepto de diseño por efemérides - El equilibrio entre identidad fija y narrativa visual 🟡③.md",
     "Apps.md",
-    "Index.md",
     "PublicBrain/Historia Africana del Feminismo WIP.md",
     "PublicBrain/Historia de Sony Playstation 1 (PS1) 🔴②.md",
     "PublicBrain/La Biblioteca del Archivero del Retro 🟡③.md",
@@ -247,14 +240,6 @@
     "_resources/429908ff98876dd192bc8395c1ad5ef9_MD5.jpg",
     "HistoriaSonyPS4_000.png",
     "PublicBrain/Aprender sobre Obesidad basada en evidencia 🔴②.md",
-    "PublicBrain/Aprendizaje basado en evidencia  ⚫①.md",
-    "PublicBrain/Aprender sobre Ejercicio basado en evidencia 🔴②.md",
-    "PublicBrain/_resources/8e795896c1d21df96444a05bbafe41f6_MD5.jpg",
-    "ObesidadBasadoEvidencia_000.png",
-    "Aprender sobre Obesidad basada en evidencia 🔴②.md",
-    "_resources/a25930009c9eb34ba2bf004d514e9164_MD5.jpg",
-    "PublicBrain/Index.md",
-    "PublicBrain/Aprender sobre Nutrición basada en evidencia 🔴②.md",
     "PublicBrain/ifarchive.org/if-archive/magazines",
     "PublicBrain/ifarchive.org/if-archive",
     "PublicBrain/ifarchive.org",

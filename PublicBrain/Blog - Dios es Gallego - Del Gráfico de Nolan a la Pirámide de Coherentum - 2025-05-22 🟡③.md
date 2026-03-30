@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-05-21T23:37:37.571Z
-modified: 2026-03-22T04:43:02.538Z
+modified: 2026-03-29T16:47:16.687Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 11
+ver_rev: 12
 nav_primary:
 nav_secondary:
 tags:
@@ -109,20 +109,9 @@ Tras 35 años de búsqueda, tengo más preguntas que respuestas. Este artículo 
     
 ### Fuentes que Refutan o Desafían el Contenido
 
-1. **Peterson, J. B. (2018). _12 Rules for Life: An Antidote to Chaos_.**  
-    Peterson defiende principios universales y estructuras morales más rígidas, lo que podría desafiar la idea de que no existen verdades absolutas.  
-    [Enlace al libro de Peterson en Amazon 🌐🔴②](https://www.amazon.es/12-Rules-Life-Peterson-Jordan/dp/0141988517/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=1E907F1VPVKYR&dib=eyJ2IjoiMSJ9.QjgmSxilJN2vU4umljsCqSY1LUlL-7Jpq8EIsV-110xpcjT8aLuDWQq4pwoarCBUsctRpHdlFSv0KwCd7J8-Kx0g3JmPZQkByLyZKG-MSLez7G_2xMNK_R0j-yxx0rSjSGhjh8Fgp2VJ611PRss8E9JNzXvTl1OBuWlw1qa3I0qRJ9KSA3XsP9OzakM8-heO87viIVxA_0dOTcRUG5WPTmWcF94axBe-J1Zv2ZLJk-N_lakSKaWpJ12gCcTOGumVC7SmidiRr34ZfGGqjlXkVGi-cZ1iylB0f8KdqbkIyNE.wBiGZLF9zhypqBpaunnjyWy23vi96Vd7XOn_wwrWIvg&dib_tag=se&keywords=_12+Rules+for+Life%3A+An+Antidote+to+Chaos&qid=1747892396&sprefix=_12+rules+for+life+an+antidote+to+chaos%2Caps%2C333&sr=8-1)
-    
-2. **Scruton, R. (2015). _Fools, Frauds and Firebrands: Thinkers of the New Left_.**  
-    Scruton critica la izquierda radical y defiende valores tradicionales, cuestionando la aceptación incondicional de la diversidad ideológica.  
-    [Enlace al libro de Scruton en Amazon 🌐🔴②](https://www.amazon.es/Fools-Frauds-Firebrands-Thinkers-Left/dp/1472965213/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=2PXR7NQUD5RER&dib=eyJ2IjoiMSJ9.URY-rWFTtQwsJ_TFTh8tgA.V4ReI-TXgIQkwBdkwiQ3Tco7ik4BUcNeKyv8o5XYyz4&dib_tag=se&keywords=_Fools%2C+Frauds+and+Firebrands%3A+Thinkers+of+the+New+Left&qid=1747892489&sprefix=_12+rules+for+life+an+antidote+to+chaos%2Caps%2C926&sr=8-1)
-    
-3. **Bloom, P. (2016). _Against Empathy: The Case for Rational Compassion_.**  
-    Bloom argumenta que la empatía puede ser contraproducente, desafiando la idea de que aceptar la diversidad siempre reduce el conflicto.  
-    [Enlace al libro de Bloom en Amazon 🌐🔴②](https://www.amazon.es/Against-Empathy-Paul-Bloom/dp/0099597829/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=2XGAZDMFGPCKQ&dib=eyJ2IjoiMSJ9.XBI8_ITyN_TJ8MeJROW15Q.tscOukkVnJAJq6g0R9YJSj-2-z2KkaCxRKYSBfRhRiE&dib_tag=se&keywords=_Against+Empathy%3A+The+Case+for+Rational+Compassion&qid=1747894143&sprefix=_fools+frauds+and+firebrands+thinkers+of+the+new+left%2Caps%2C952&sr=8-1)
-    
-4. **Fukuyama, F. (1992). _The End of History and the Last Man_.**  
-    Fukuyama sugiere que la democracia liberal es el punto final de la evolución ideológica, lo que podría contradecir la noción de soluciones no únicas.  
-    [Enlace al libro de Fukuyama en Amazon 🌐🔴②](https://www.amazon.es/End-History-Last-Man-ebook/dp/B002RI92EI/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=JLR87EUEOUO9&dib=eyJ2IjoiMSJ9.4NYU6KbaCdZ8WMLkRUWzWLwP0fwtRg9lDZSsyrpmT_uUMbSnj2iaHzEsnFpMWBMq5BieFQlRj0UPtymnpFYL4w.8OZxGASqk-nShciX97IbiOGMa8x9wtlEIR0TI7dpjQg&dib_tag=se&keywords=The+End+of+History+and+the+Last+Man&qid=1747894258&sprefix=_against+empathy+the+case+for+rational+compassion%2Caps%2C1058&sr=8-1)
+1. [Peterson, J. B. (2018). 12 Rules for Life: An Antidote to Chaos. 🟡③🌐](https://www.amazon.es/12-Rules-Life-Antidote-Chaos/dp/0141988517) .- Obra donde Jordan Peterson propone doce principios prácticos sobre cómo vivir una vida con sentido frente al caos.
+2. [Scruton, R. (2015). Fools, Frauds and Firebrands: Thinkers of the New Left. 🟡③🌐](https://www.amazon.com.br/Fools-Frauds-Firebrands-Thinkers-Left/dp/1408187337) .- Crítica filosófica de Roger Scruton a los pensadores de la Nueva Izquierda y defensa de los valores tradicionales.
+3. [Bloom, P. (2016). Against Empathy: The Case for Rational Compassion. 🟡③🌐](https://www.amazon.es/Against-Empathy-Paul-Bloom/dp/0099597829/ref=sr_1_1?__mk_es_ES=ÅMÅŽÕÑ&crid=3E4JLLPUR7ANE&dib=eyJ2IjoiMSJ9.XBI8_ITyN_TJ8MeJROW15Q.jn8CqqDkxbN-wBSIVbeZMTEF6ixCyN0GDJZdzrSU_Do&dib_tag=se&keywords=Bloom%2C+P.+%282016%29.+Against+Empathy%3A+The+Case+for+Rational+Compassio&qid=1774802811&sprefix=bloom+p.+2016+.+against+empathy+the+case+for+rational+compassio%2Caps%2C414&sr=8-1) .- Ensayo de Paul Bloom que argumenta por qué la empatía es una guía moral deficiente frente a la compasión racional.
+4. [Fukuyama, F. (1992). The End of History and the Last Man. 🟡③🌐](https://www.amazon.es/End-History-Last-Man/dp/024196024X) .- Libro donde Francis Fukuyama plantea que la democracia liberal representa el punto final de la evolución sociocultural humana.
 
 ![[Plantilla - 1MT#One More Thing]]

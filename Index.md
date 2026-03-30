@@ -89,8 +89,8 @@ Continua leyendo en ... [[Epistemología - La Arquitectura del Saber Científico
 ### Curso sobre Administración de un Negocio Automatizado
 
 Continua leyendo en ... [[Curso sobre Administración de un Negocio Automatizado 🟡③]]
---- column-end ---
 
+--- column-end ---
 
 ![Curso Publicacion de Contenido Editorial como Aventura de Texto](PublicBrain/_resources/778dd3ff599ed853a0952efebe42df20_MD5.jpg)
 

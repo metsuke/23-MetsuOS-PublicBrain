@@ -67,7 +67,7 @@ No me habia dado cuenta hasta ese momento, del alcance conceptual de todo esto q
 
 **Siguientes pasos (TO-DO):** 
 
-* Carta abierta respondiendo a las [preguntas de Cesar Astudillo  🟡③🌐](https://x.com/cesarastudillo/status/2000114072679858505?s=20)
+* OJO WIP [[Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría  ⚫①]], buscando responder a las [preguntas de Cesar Astudillo  🟡③🌐](https://x.com/cesarastudillo/status/2000114072679858505?s=20) y a través de esta respuesta sentar las bases del trabajo de #MetsuOS en la materia.
 * Mejora de la explicación formal del problema (la del hilo), en forma de documento/s , mejorada. Yo tengo claro a donde voy, pero eso no es suficiente, aún debo explicarlo mejor si pretendo crear hipotesis falsables. 
 * Formalización semántica profunda y preparación formal del [debate sobre nomenclatura con Javier Recuenco 🟡③🌐](https://x.com/Recuenco/status/1999391512313143766?s=20)
 * Revisión, priorización, estudio y análisis de [la bibliografía propuesta por Oscar Teixidó 🟡③🌐](https://x.com/Oscar_Teix/status/2000160771532329263?s=20) de nuevo, gracias.

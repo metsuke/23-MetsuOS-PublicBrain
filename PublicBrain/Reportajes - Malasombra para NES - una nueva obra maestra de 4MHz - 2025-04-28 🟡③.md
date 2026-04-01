@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-05T21:29:00.969Z
-modified: 2025-05-20T11:24:54.059Z
+modified: 2026-03-31T21:56:13.259Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③
+# Reportajes - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③
  
 ![Malasombra imaginado como personaje Chibi](_resources/57291295564b8a13ae60f4d4473ee699_MD5.jpeg)
 

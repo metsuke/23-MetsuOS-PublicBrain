@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-10-13T10:00:29.468Z
-modified: 2025-10-18T09:17:12.214Z
+modified: 2026-03-31T21:56:13.265Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: NoticiaGodot45.mp4
 ---
-# Noticias - Lanzamiento de Godot 4.3 - Un Avance Revolucionario en Accesibilidad y Software Libre para el Desarrollo de Videojuegos Inclusivos - 2025-10-12  🔴②
+# Reportajes - Lanzamiento de Godot 4.3 - Un Avance Revolucionario en Accesibilidad y Software Libre para el Desarrollo de Videojuegos Inclusivos - 2025-10-12  🔴②
 
 ![Noticias Godot 4.5](PublicBrain/_resources/8557062a765ee48d9d17d21cf48c2747_MD5.jpg)
 
@@ -49,7 +49,7 @@ Estas funciones no solo ayudan a jugadores con discapacidades, sino que enriquec
 
 Godot 4.5 refuerza su esencia de software libre al mejorar la compatibilidad con entornos abiertos. Permite exportar a más de 20 plataformas, como Linux, Android, iOS o web (vía WebAssembly), sin royalties ni limitaciones. En lo retro:
 - **Núcleos de emulación optimizados:** Conexión con libretro (el corazón de RetroArch), para incrustar emuladores en proyectos Godot. Esto facilita "meta-juegos" que reviven clásicos españoles como *Army Moves* o *Phantomas*, pero con capas de accesibilidad añadidas, como narración para no videntes.
-- **Mejoras para hardware antiguo:** Optimizaciones para dispositivos de bajo rendimiento, como Raspberry Pi o emuladores de consolas de 8/16 bits, con shaders CRT que imitan pantallas vintage sin sacrificar fluidez. Esto encaja con el boom retro de 2025, como el [[Noticias - El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits 2025-09-20  🔴②|mapper MXM-1 para NES]] o [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|la vuelta de Microhobby]].
+- **Mejoras para hardware antiguo:** Optimizaciones para dispositivos de bajo rendimiento, como Raspberry Pi o emuladores de consolas de 8/16 bits, con shaders CRT que imitan pantallas vintage sin sacrificar fluidez. Esto encaja con el boom retro de 2025, como el [[Reportajes - El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits 2025-09-20  🔴②|mapper MXM-1 para NES]] o [[Reportajes - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|la vuelta de Microhobby]].
 
 Desde un punto de vista científico, Godot 4.5 incorpora módulos inspirados en estudios de interacción humano-computadora (HCI), citando investigaciones en su documentación. Por ejemplo, los subtítulos dinámicos usan algoritmos de procesamiento de lenguaje natural (NLP) de bibliotecas libres como OpenAI Whisper (adaptada para uso offline).
 
@@ -57,7 +57,7 @@ Desde un punto de vista científico, Godot 4.5 incorpora módulos inspirados en 
 
 El lanzamiento ha generado un revuelo enorme en comunidades como Reddit (con más de 150.000 suscriptores en r/godot) y X (con hashtags como #Godot45 y #AccesibleGaming trending en España y Latinoamérica). La Fundación Godot ha publicado tutoriales gratuitos y un "Accessibility Jam" para animar a crear prototipos inclusivos, fomentando la colaboración y la difusión – un reflejo directo de los pilares de MetsuOS en concienciación y comunicación.
 
-En cuanto a productividad, el editor de Godot se ha pulido con un sistema de nodos visuales que acelera el prototipado en un 30%, según pruebas internas, ayudando a desarrolladores independientes como los de [[Noticias - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🟡③|GBRetroDev'24]] a hacer juegos accesibles sin curvas de aprendizaje abruptas.
+En cuanto a productividad, el editor de Godot se ha pulido con un sistema de nodos visuales que acelera el prototipado en un 30%, según pruebas internas, ayudando a desarrolladores independientes como los de [[Reportajes - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🟡③|GBRetroDev'24]] a hacer juegos accesibles sin curvas de aprendizaje abruptas.
 
 ## Disponibilidad y mirada al futuro
 

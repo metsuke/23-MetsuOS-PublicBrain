@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-09T16:06:48.879Z
-modified: 2026-02-13T22:59:52.751Z
+modified: 2026-03-31T21:56:13.271Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 25
+ver_rev: 28
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Noticias - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③
+# Reportajes - El esperadísimo regreso de Micromanía Una nueva etapa para una revista absolutamente icónica - 2025-12-09 🟡③
 
 ![Portada homenaje al esfuerzo editorial de Jose Luis Sanz](PublicBrain/_resources/982f1e9ffc73fd3ee957391ea685d9e4_MD5.jpg)
 
@@ -55,7 +55,7 @@ En recientes fechas, se anunció que, para los compradores de la revista, están
 
 ## Qué Podemos Esperar
 
-Aunque los detalles completos aún no se han revelado del todo, el anuncio en el Salón del Videojuego confirmó lo básico. Micromanía volverá en **formato físico y digital**, manteniendo su esencia pero adaptándose a los tiempos modernos. Se distribuirá exclusivamente a través de la **tienda web de Hecho con Pixels**, el sello responsable de iniciativas como Pixels y el [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|reciente regreso de Microhobby]]. No se dio una fecha exacta de lanzamiento ni el precio, pero la emoción es evidente: ¿mantendrá las 84 páginas grapadas de antes, o añadirá elementos interactivos? Lo que sí está claro es su enfoque en el universo de los videojuegos, con un equipo que garantiza calidad y renovación.
+Aunque los detalles completos aún no se han revelado del todo, el anuncio en el Salón del Videojuego confirmó lo básico. Micromanía volverá en **formato físico y digital**, manteniendo su esencia pero adaptándose a los tiempos modernos. Se distribuirá exclusivamente a través de la **tienda web de Hecho con Pixels**, el sello responsable de iniciativas como Pixels y el [[Reportajes - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|reciente regreso de Microhobby]]. No se dio una fecha exacta de lanzamiento ni el precio, pero la emoción es evidente: ¿mantendrá las 84 páginas grapadas de antes, o añadirá elementos interactivos? Lo que sí está claro es su enfoque en el universo de los videojuegos, con un equipo que garantiza calidad y renovación.
 
 ![La Historia de la revista](PublicBrain/_resources/236dee0a33ef05d35ba9c0bd807e7090_MD5.jpg)
 ## La Historia de Micromanía

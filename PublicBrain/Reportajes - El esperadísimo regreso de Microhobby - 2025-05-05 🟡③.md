@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-05T08:01:54.082Z
-modified: 2025-05-29T18:26:51.337Z
+modified: 2026-03-31T21:56:13.272Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 10
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③
+# Reportajes - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③
 
 
 ![Personaje Chibi disfrutando de la revista Microhobby debido a su vuelta](_resources/044f53f89f799a5e3fcf6eeb85c5b953_MD5.jpeg)
@@ -52,7 +52,7 @@ _Microhobby_ nació en un momento de explosión tecnológica en España, cuando 
 
 ## Anuncio del regreso
 
-El regreso de _Microhobby_ fue anunciado en mayo de 2025 por [ComputerHoy 🌐🟡③](https://computerhoy.20minutos.es/gaming/vuelve-mitica-revista-microhobby-papel-2025-1458897), generando una oleada de entusiasmo entre los aficionados. José Luis Sanz, conocido por su trabajo en _HobbyConsolas_ y por haber participado en la _Microhobby_ original, lidera esta iniciativa. Sanz, que ya lanzó la publicación _Hecho con Pixels_ en 2024, planea publicar entre 4 y 6 números al año, disponibles en formato físico y digital. Cada número tendrá 84 páginas grapadas, con el mismo tamaño que la revista original y portadas personalizadas según los temas tratados, de la mano de [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③|Jesús Martinez del Vas]]. Los ejemplares se podrán adquirir por suscripción o compra directa a través de una web o tiendas de videojuegos, evitando los quioscos debido a los altos costes de distribución. Aunque la presentación oficial tuvo lugar el 3 de mayo de 2025 en RetroBarcelona, algunos detalles, como la fecha exacta del primer número, aún no están confirmados, lo que mantiene la expectación.
+El regreso de _Microhobby_ fue anunciado en mayo de 2025 por [ComputerHoy 🌐🟡③](https://computerhoy.20minutos.es/gaming/vuelve-mitica-revista-microhobby-papel-2025-1458897), generando una oleada de entusiasmo entre los aficionados. José Luis Sanz, conocido por su trabajo en _HobbyConsolas_ y por haber participado en la _Microhobby_ original, lidera esta iniciativa. Sanz, que ya lanzó la publicación _Hecho con Pixels_ en 2024, planea publicar entre 4 y 6 números al año, disponibles en formato físico y digital. Cada número tendrá 84 páginas grapadas, con el mismo tamaño que la revista original y portadas personalizadas según los temas tratados, de la mano de [[Reportajes - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③|Jesús Martinez del Vas]]. Los ejemplares se podrán adquirir por suscripción o compra directa a través de una web o tiendas de videojuegos, evitando los quioscos debido a los altos costes de distribución. Aunque la presentación oficial tuvo lugar el 3 de mayo de 2025 en RetroBarcelona, algunos detalles, como la fecha exacta del primer número, aún no están confirmados, lo que mantiene la expectación.
 
 **<iframe width="100%" height="640" src="https://www.youtube.com/embed/OKVXFR9CGqI?si=z8sf7tbVtuRuUNm6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-06-05T21:11:53.730Z
-modified: 2025-06-06T17:55:27.303Z
+modified: 2026-03-31T21:56:13.256Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 8
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③
+# Reportajes - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③
 
 ![Las imagenes de portada del numero 1 y del numero 218 reinterpretadas juntas](PublicBrain/_resources/f18adad06ed630f9cbdce46dd57aa465_MD5.jpeg)
 
@@ -29,7 +29,7 @@ Sueño una vida que fué reviviéndola del modo que soy, en la decrepitud de mi 
 
 Desde el horizonte observo el futuro presente y la presencia de un futuro ya pasado. Es la vida que pasa ante nuestros ojos cuando, desde una fiereza matizada por las cicatrices, desgarramos el futuro en busca de nuestro legado, he aquí, mi querido Sancho, Microhobby.
 
-Hace pocas fechas os contaba [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|sobre la salida de Microhobby 218]] y sobre su nuevo portadista, Jesús Martínez del Vás. En esta ocasión, os muestro la portada y precios, que acaban de ser revelados en [el directo de Jose Luis Sanz de fecha 5 de Junio de 2025 🌐🟡③](https://www.youtube.com/live/eHqeOvRkecQ?si=1bfexoiSJgRxJJM9).
+Hace pocas fechas os contaba [[Reportajes - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|sobre la salida de Microhobby 218]] y sobre su nuevo portadista, Jesús Martínez del Vás. En esta ocasión, os muestro la portada y precios, que acaban de ser revelados en [el directo de Jose Luis Sanz de fecha 5 de Junio de 2025 🌐🟡③](https://www.youtube.com/live/eHqeOvRkecQ?si=1bfexoiSJgRxJJM9).
 
 ![La portada de Microhobby 218](PublicBrain/_resources/047c864a1db15f9bb513103d194ea23a_MD5.jpeg)
 
@@ -45,7 +45,7 @@ Por una parte, el merecido (y de justicia) homenaje a Ponce de parte de JMV a aq
 
 Quizá solo los que de algun modo tocamos el mundo del arte (por poco que sea) lo percibamos en toda su extensión. No es sencillo abrir vereda cuando nuestro antecesor ya construyó autopistas de seis carrilles que nosotros mismos admiramos, es neceasario preparar el camino al tiempo que se rinde respetuoso tributo a la era anterior, y sus maestros.
 
-Menos obvio pero ahi está es el homenaje a tantos y tantos personajes de la historia de la industria del videojuego de en nuestro pais (hecho mas que necesario, como ya comenté en el [[Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③|artículo sobre la serie documental Cinco Duros]]).
+Menos obvio pero ahi está es el homenaje a tantos y tantos personajes de la historia de la industria del videojuego de en nuestro pais (hecho mas que necesario, como ya comenté en el [[Reportajes - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③|artículo sobre la serie documental Cinco Duros]]).
 
 ![La icónica portada del número 1 de la revista](PublicBrain/_resources/7230d350c2b89f0387822e29b0313aff_MD5.jpg)
 
@@ -91,9 +91,9 @@ PD: Yo soy TEAM PAPEL + DIGITAL
 
 * [Directo de Jose Luis Sanz de fecha 5 de Junio de 2025 🌐🟡③](https://www.youtube.com/live/eHqeOvRkecQ?si=1bfexoiSJgRxJJM9).
 * [Jesus Martinez del Vas muestra la ilustracion original en Twitter/X 🌐🟡③](https://x.com/metsuke/status/1930642224057840030)
-* [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③]]
-* [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③]]
-* [[Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]
+* [[Reportajes - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③]]
+* [[Reportajes - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③]]
+* [[Reportajes - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]
 
 ## Fuentes que refutan o critican el contenido
 

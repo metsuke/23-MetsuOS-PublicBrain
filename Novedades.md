@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-03-25T03:33:01.531Z
+modified: 2026-03-31T21:56:12.930Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 176
+ver_rev: 179
 nav_primary: 
 nav_secondary: 
 tags:
@@ -113,13 +113,13 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 
 
 ![Arte generativo inspirado en la loading scren del juego](_resources/9f04cadb874aa99346d0f7d326ab18ad_MD5.jpg)
-## Noticias - Lanzamiento de  Perseus para ZX Spectrum 128K: Una aventura épica impulsada por el motor Tuerkas128
+## Reportajes - Lanzamiento de  Perseus para ZX Spectrum 128K: Una aventura épica impulsada por el motor Tuerkas128
 
 Diciembre 2025 - La escena retro sigue llena de sorpresas, y esta vez el protagonista es *Perseus*, un nuevo título para ZX Spectrum 128K desarrollado por RetroBensoft que ha generado mucho interés en la comunidad. 
 
 Este juego te sumerge en la mitología griega, donde debes derrotar a Medusa, y utiliza el potente motor Tuerkas128, una herramienta que promete elevar el nivel de los desarrollos actuales para esta plataforma clásica.
 
-Continuar leyendo en ... [[Noticias - Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③]]
+Continuar leyendo en ... [[Reportajes - Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③]]
 
 --- column-end ---
 

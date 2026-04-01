@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-03-30T10:40:55.370Z
+modified: 2026-03-31T21:56:12.934Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 137
+ver_rev: 140
 nav_primary:
 nav_secondary:
 tags:
@@ -32,9 +32,9 @@ Border: off
 ```
 
 ![Arte generativo inspirado en la loading scren del juego](_resources/9f04cadb874aa99346d0f7d326ab18ad_MD5.jpg)
-### Noticias - Lanzamiento de  Perseus para ZX Spectrum 128K: Una aventura épica impulsada por el motor Tuerkas128
+### Reportajes - Lanzamiento de  Perseus para ZX Spectrum 128K: Una aventura épica impulsada por el motor Tuerkas128
 
-Continuar leyendo en ... [[Noticias - Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③]]
+Continuar leyendo en ... [[Reportajes - Lanzamiento de Perseus para ZX Spectrum 128K -  Una aventura épica impulsada por el motor Tuerkas128 - 2025-12-26 🟡③]]
 
 --- column-end ---
 

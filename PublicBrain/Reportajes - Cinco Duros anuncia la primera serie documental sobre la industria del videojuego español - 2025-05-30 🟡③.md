@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-28T16:57:23.158Z
-modified: 2025-05-30T18:58:58.593Z
+modified: 2026-03-31T21:56:13.276Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 18
+ver_rev: 21
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③
+# Reportajes - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③
 
 
 ![La Pulga, representada en una moneda de 25 pesetas](/PublicBrain/_resources/3cd9d768171a936327715690c11fe8a7_MD5.jpeg)
@@ -141,7 +141,7 @@ No olvidemos, que hay un segundo libro, que estoy seguro todos deseamos se convi
 
 _Cinco Duros_ no es solo un documental; es un abrazo a la memoria, un reconocimiento a quienes convirtieron cinco duros en mundos sin fin. Con su rigor, su emoción y su apuesta por la historia contada por sus protagonistas, esta serie celebrará lo que fue y señalará lo que puede ser. Su llegada no será un simple estreno, sino un momento estelar que asegurará que las generaciones futuras entiendan el talento, la entrega y la resistencia que definieron una época.
 
-Por primera vez, estos pioneros han decidido hablar. Sus testimonios son un tesoro documental que cambiará para siempre cómo entendemos el desarrollo tecnológico español de las últimas décadas ... ¿será coincidencia que [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|este mismo año llegue el numero 218 de Microhobby]]?, quiero pensar que ambos eventos son sintomas del futuro brillante que nos espera.
+Por primera vez, estos pioneros han decidido hablar. Sus testimonios son un tesoro documental que cambiará para siempre cómo entendemos el desarrollo tecnológico español de las últimas décadas ... ¿será coincidencia que [[Reportajes - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|este mismo año llegue el numero 218 de Microhobby]]?, quiero pensar que ambos eventos son sintomas del futuro brillante que nos espera.
 
 Y ante todo, recordad, "Coger barca", "Meter Barca en Caja" e "Ir Norte" son frases clave que os abrirán, tras algunas horas de trabajo y constancia, muchas puertas ... o romperan indefectiblemente vuestro nuevo videojuego, ¡esa es la magia de aquella época!
 

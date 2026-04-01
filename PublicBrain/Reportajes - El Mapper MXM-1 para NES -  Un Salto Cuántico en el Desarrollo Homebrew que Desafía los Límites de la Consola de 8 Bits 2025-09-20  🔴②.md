@@ -9,24 +9,24 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-20T19:27:13.358Z
-modified: 2025-10-12T22:17:06.194Z
+modified: 2026-03-31T21:56:13.273Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: Noticias - 2025-09 Mapper Nes.mp4
 ---
-# Noticias - El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits 2025-09-20  🔴②
+# Reportajes - El Mapper MXM-1 para NES -  Un Salto Cuántico en el Desarrollo Homebrew que Desafía los Límites de la Consola de 8 Bits 2025-09-20  🔴②
 
 ![Mapper MXM-1 para NES](PublicBrain/_resources/b509ff5e74cba8051b33b79a5a8d4e02_MD5.jpg)
 
 [[Noticias]]
 
-Septiembre de 2025 – En un año repleto de resurgimientos en el mundo del retrocomputing español, con momentos estelares como [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|la vuelta de Microhobby]] o el [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③|anuncio de Malasombra para NES]] , la comunidad global de desarrolladores homebrew está de enhorabuena con un avance técnico que promete cambiar las reglas del juego para la Nintendo Entertainment System (NES). 
+Septiembre de 2025 – En un año repleto de resurgimientos en el mundo del retrocomputing español, con momentos estelares como [[Reportajes - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|la vuelta de Microhobby]] o el [[Reportajes - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③|anuncio de Malasombra para NES]] , la comunidad global de desarrolladores homebrew está de enhorabuena con un avance técnico que promete cambiar las reglas del juego para la Nintendo Entertainment System (NES). 
 
 Something Nerdy Studios, un estudio independiente con base en Estados Unidos, ha finalizado la implementación completa del mapper MXM-1, un chip de mapeo de memoria personalizado que amplía las capacidades de la NES hasta niveles comparables a los de un CD-ROM de los años 90. Esto permite ROMs de gran tamaño, gráficos con una variedad ampliada de colores, audio mejorado y mecánicas de juego que habrían sido impensables en la era original de la consola.
 
@@ -74,7 +74,7 @@ La campaña de Kickstarter, lanzada recientemente, ha superado sus objetivos ini
 
 ## Implicaciones para la Comunidad Retro: Un Legado Abierto y Colaborativo
 
-El MXM-1 va más allá de *Former Dawn* y se posiciona como un estándar open-source para homebrew. Comunidades como r/EmuDev en Reddit lo elogian por su potencial en emulación y prototipado, mientras que Wikipedia lo clasifica como "MMC custom de 2022 para homebrew". En España, donde proyectos como [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③|Malasombra (de 4MHz)]] revitalizan la NES con maestría técnica, este mapper podría inspirar ports o híbridos, en sintonía con concursos como [[Noticias - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🟡③|GBRetroDev'24]].
+El MXM-1 va más allá de *Former Dawn* y se posiciona como un estándar open-source para homebrew. Comunidades como r/EmuDev en Reddit lo elogian por su potencial en emulación y prototipado, mientras que Wikipedia lo clasifica como "MMC custom de 2022 para homebrew". En España, donde proyectos como [[Reportajes - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③|Malasombra (de 4MHz)]] revitalizan la NES con maestría técnica, este mapper podría inspirar ports o híbridos, en sintonía con concursos como [[Reportajes - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🟡③|GBRetroDev'24]].
 
 Críticos como Time Extension lo describen como "impresionante para NES", resaltando su capacidad para "llevar potencia CD-ROM a la 8-bit". No obstante, persisten desafíos: la compatibilidad con clones de NES varía y el coste de los FPGAs limita el acceso inicial. Aun así, Something Nerdy planea liberar las especificaciones para que "otros nos dejen boquiabiertos con lo que se puede lograr".
 

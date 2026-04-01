@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-19T21:21:30.789Z
-modified: 2025-05-20T10:37:44.166Z
+modified: 2026-03-31T21:56:13.478Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 6
 nav_primary: 
 nav_secondary: 
 tags:
@@ -25,7 +25,7 @@ tags:
 ![Un entorno nocturno en la selva que me recuerda a Malasombra](PublicBrain/_resources/6ca53da868d3abc5b461a155bdbe2812_MD5.jpeg)
 
 * [[PublicBrain/PublicIndex/Index|Index]]
-	* [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③]]
+	* [[Reportajes - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③]]
 	* [[Revista - RetroGamer España 051 - 2025-Mar 🔴②]]
 
 WIP

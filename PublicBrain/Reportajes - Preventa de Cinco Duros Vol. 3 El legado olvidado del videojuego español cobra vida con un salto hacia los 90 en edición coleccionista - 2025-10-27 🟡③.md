@@ -9,25 +9,25 @@ checked: 0
 lang: ES
 translations:
 created: 2025-10-25T20:09:41.575Z
-modified: 2025-11-14T19:47:03.808Z
+modified: 2026-03-31T21:56:13.258Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 10
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: NoticiasCincoDurosPreventaVol3.mp4
 ---
-# Noticias - Preventa de Cinco Duros Vol. 3 El legado olvidado del videojuego español cobra vida con un salto hacia los 90 en edición coleccionista - 2025-10-27 🟡③
+# Reportajes - Preventa de Cinco Duros Vol. 3 El legado olvidado del videojuego español cobra vida con un salto hacia los 90 en edición coleccionista - 2025-10-27 🟡③
 
 
 ![Preventa Con Cinco Duros Vol 3](PublicBrain/_resources/2da7c0eabe742fa7f8bab3ed5af9af0e_MD5.jpg)
 
 [Noticias](https://metsuke.com/noticias.html)
 
-**Octubre de 2025** – El año 2025 está siendo un auténtico renacimiento para la escena retro española. Tras [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|el regreso de Microhobby]], el [[Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③|estreno del primer episodio de la serie documental Cinco Duros]] y el [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③|lanzamiento de títulos homebrew como Malasombra para NES]], Dolmen Editorial acaba de abrir la **preventa del Volumen 3 de *Cinco Duros: La historia del videojuego en España para todos***. Este libro, escrito por **Diego Vargas Pardo**, nos sumerge en los años **1990-1993**: la época en que la industria española pasó de los microordenadores de 8 bits al dominio de las consolas, la profesionalización del sector y la presión del mercado internacional.
+**Octubre de 2025** – El año 2025 está siendo un auténtico renacimiento para la escena retro española. Tras [[Reportajes - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③|el regreso de Microhobby]], el [[Reportajes - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③|estreno del primer episodio de la serie documental Cinco Duros]] y el [[Reportajes - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③|lanzamiento de títulos homebrew como Malasombra para NES]], Dolmen Editorial acaba de abrir la **preventa del Volumen 3 de *Cinco Duros: La historia del videojuego en España para todos***. Este libro, escrito por **Diego Vargas Pardo**, nos sumerge en los años **1990-1993**: la época en que la industria española pasó de los microordenadores de 8 bits al dominio de las consolas, la profesionalización del sector y la presión del mercado internacional.
 
 Este tercer volumen no es solo una continuación: es **el puente entre la Edad de Oro y la modernidad**. Y lo hace bajo el paraguas de la campaña **#MisCincoDuros**, un movimiento que reivindica aquellas monedas de **25 pesetas** que cada chaval invirtió en sueños pixelados y que hoy se convierten en un **acto de resistencia cultural**.
 
@@ -100,8 +100,8 @@ Como ya es tradiucional, Diego Vargas y Javi Ortiz comentan este tercer libro.
 1. [Vargas Pardo, Diego (2024). *Cinco Duros: La historia del videojuego en España para todos – Vol. 1 (1981-1987)*. Dolmen Editorial. ISBN: 978-84-19740-53-1  🌐🟡③](https://dolmeneditorial.com/tienda/cinco-duros-la-historia-del-videojuego-en-espana-para-todos-vol-1/)
 2. [Vargas Pardo, Diego (2025). Cinco Duros: La historia del videojuego en España para todos – Vol. 2 (1987-1989). Dolmen Editorial. ISBN: 978-84-19740-92-0 🌐🟡③](https://dolmeneditorial.com/tienda/cinco-duros-la-historia-del-videojuego-en-espana-para-todos-vol-2/)
 3. [Dolmen Editorial (2025). Preventa – Cinco Duros Vol. 3   🌐🟡③](https://dolmeneditorial.com/tienda/cinco-duros-la-historia-del-videojuego-en-espana-para-todos-vol-3/)
-4. [[Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③]]
-5. [[Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]
+4. [[Reportajes - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③]]
+5. [[Reportajes - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]
 
 ## Referencias bibliográficas que **refutan o matizan** el contenido
 

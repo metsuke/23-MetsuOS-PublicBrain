@@ -9,18 +9,18 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-27T08:43:05.724Z
-modified: 2025-10-08T19:52:46.410Z
+modified: 2026-03-31T21:56:13.269Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 15
+ver_rev: 18
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: NoticiaCincoDurosSerie.mp4
 ---
-# Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③
+# Reportajes - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③
 
 ![La fascinación de los jovenes de la epoca fue en gran medida causa de la explosión de creatividad](PublicBrain/_resources/0421c55bbeaf20da12cea23d867c8687_MD5.jpg)
 
@@ -28,7 +28,7 @@ MOS_TopImg_Video: NoticiaCincoDurosSerie.mp4
 
 Septiembre, 2025 - "Durante más de **cuatro décadas**, la historia de la industria española del videojuego ha permanecido sistemáticamente **invisibilizada**. Este oscurecimiento no ocurrió por accidente ni por casualidad, sino que fue el resultado de **decisiones conscientes** que han privado a varias generaciones de conocer su propio **patrimonio cultural y tecnológico**. Este legado, incluso en la actualidad, ha sido en muchos casos **demonizado**." no puedo estar mas de acuerdo con la declaración de intenciones de esta serie documental, cuyo primer capítulo ha sido liberado.
 
-Si [[Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③|en el anuncio de la serie]] hablábamos de un "proyecto colosal", el estreno confirma que no era exageración. Con una producción impecable que fusiona la investigación histórica con la justicia del reconocimiento a los actores de la época, _Cinco Duros_ no es un mero repaso cronológico: es un homenaje vivo a los pioneros que, en plena Transición española, con máquinas de 8 bits y sin apenas recursos, pusieron España en el mapa del software global. 
+Si [[Reportajes - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③|en el anuncio de la serie]] hablábamos de un "proyecto colosal", el estreno confirma que no era exageración. Con una producción impecable que fusiona la investigación histórica con la justicia del reconocimiento a los actores de la época, _Cinco Duros_ no es un mero repaso cronológico: es un homenaje vivo a los pioneros que, en plena Transición española, con máquinas de 8 bits y sin apenas recursos, pusieron España en el mapa del software global. 
 
 El episodio, de unos 45 minutos de duración, se centra en el período 1981-1983, esos años fundacionales donde el hobby se transformó en negocio, y el caos creativo dio paso a los primeros éxitos... disfruten del episodio, y ahora seguimos comentando, si tienen a bien acompañarme :)
 
@@ -149,7 +149,7 @@ Por otro lado, es hora de reclamar el lugar del Videojuego Hispano, máxime en e
 - Vargas Pardo, D. (2024). _Cinco Duros: La historia del videojuego en España para todos Vol. 1 (1981-1987)_. Madrid: Dolmen Editorial. 🟡③ - Base narrativa del episodio.
 - [Episodio 1 de _Cinco Duros_ (2025). Dir. Diego Vargas Pardo 🟡③ 🌐](https://www.youtube.com/watch?v=upmMpTkE-sQ&t=1s)
 - Entrevistas exclusivas en el episodio (e.g., Paco Pastor, Fernando Rada "Radastan" 🟡③
-- [[Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]
+- [[Reportajes - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]
 - [Hilo de @recurnco en X sobre CPS Hispano 🟡③ 🌐](https://x.com/Recuenco/status/1971825115165028522). 
 ### Fuentes que refutan o critican el contenido
 

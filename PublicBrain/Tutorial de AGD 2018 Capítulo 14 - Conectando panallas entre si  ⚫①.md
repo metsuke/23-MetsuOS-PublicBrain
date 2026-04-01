@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-07-14T11:35:37.637Z
-modified: 2025-07-17T07:08:52.319Z
+modified: 2026-03-31T21:56:13.198Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 7
 nav_primary: 
 nav_secondary: 
 tags:
@@ -73,7 +73,7 @@ Antes de ver código, arranquen el juego y cambien de pantalla ahora que saben l
 
 ## El Código "Mágico"
 
-Entre los tipos de tiles y esto, estoy destrozando vuestro recuerdo de la infancia, resulta que todo es una obra de teatro bien sincronizada. No hay motivo para entristecerse, ahora que empezáis a vislumbrar como funciona, podreis apreciar aún más el trabajazo de los desarrolladores de la época, [[Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③|y ellos no tenían ni internet, ni AGD]]
+Entre los tipos de tiles y esto, estoy destrozando vuestro recuerdo de la infancia, resulta que todo es una obra de teatro bien sincronizada. No hay motivo para entristecerse, ahora que empezáis a vislumbrar como funciona, podreis apreciar aún más el trabajazo de los desarrolladores de la época, [[Reportajes - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③|y ellos no tenían ni internet, ni AGD]]
 
 Vamos al lío, lo primero, tengamos en cuenta que los pixeles en AGD se cuentan con un sistema de coordenadas cartesianas cuyo punto de origen es el pixel superior izquierdo de la pantalla.
 

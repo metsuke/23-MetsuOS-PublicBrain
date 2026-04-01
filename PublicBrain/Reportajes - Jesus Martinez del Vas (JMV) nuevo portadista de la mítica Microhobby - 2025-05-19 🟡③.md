@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-05-18T03:46:45.349Z
-modified: 2025-06-06T07:59:20.728Z
+modified: 2026-03-31T21:56:13.266Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 13
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③
+# Reportajes - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③
 
 
 ![Retrato Chibi de Sean Connery representando La Abadia del Crimen y los dibujos de JMV](/PublicBrain/_resources/76a34773f7b6951427dea70e04fc75eb_MD5.jpeg)
@@ -82,7 +82,7 @@ El 19 de mayo de 2025 no solo marcará el regreso de una revista, sino la celebr
 4. [Verkami (2017).** LOAD JMV: Postales desde el ZX Spectrum  🌐🟡③](https://www.verkami.com/projects/11841-load-jmv-postales-desde-el-zx-spectrum)
     - Acceso: 18 de mayo de 2025.[
     - La página del proyecto en Verkami verifica el éxito de la campaña de JMV, destacando su relevancia en la comunidad retro.
-5. [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③]]
+5. [[Reportajes - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③]]
 	- Acceso: 18 de mayo de 2025.[
 	- Crónica sobre la vuelta de una de las grandes revistas de nuestra infancia. Se incluye el videoe presentación sobre el regreso de _Microhobby_ y la participación de JMV como portadista, proporcionando detalles sobre el contenido y objetivos de la revista.
 

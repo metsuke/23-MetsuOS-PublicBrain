@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2025-12-26T02:34:12.775Z
+modified: 2026-03-31T21:56:13.358Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 243
+ver_rev: 246
 nav_primary:
 nav_secondary:
 tags:
@@ -171,16 +171,16 @@ WIP
 
 ### Noticias
 
-* [[Noticias - Preventa de Cinco Duros Vol. 3 El legado olvidado del videojuego español cobra vida con un salto hacia los 90 en edición coleccionista - 2025-10-27 🟡③]]
-* [[Noticias - Lanzamiento de Godot 4.3 - Un Avance Revolucionario en Accesibilidad y Software Libre para el Desarrollo de Videojuegos Inclusivos - 2025-10-12  🔴②]]
-* [[Noticias - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③]]
-* [[Noticias - En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 2025-06-11   🟡③]]
-* [[Noticias - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③]]
-* [[Noticias - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]
-* [[Noticias - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③]]
-* [[Noticias - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③]]
-* [[Noticias - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③]]
-* [[Noticias - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🟡③]]
+* [[Reportajes - Preventa de Cinco Duros Vol. 3 El legado olvidado del videojuego español cobra vida con un salto hacia los 90 en edición coleccionista - 2025-10-27 🟡③]]
+* [[Reportajes - Lanzamiento de Godot 4.3 - Un Avance Revolucionario en Accesibilidad y Software Libre para el Desarrollo de Videojuegos Inclusivos - 2025-10-12  🔴②]]
+* [[Reportajes - Estreno del Episodio 1 de "Cinco Duros" - El arranque épico de la historia del videojuego español llega a la pantalla - 2025-09-28 🟡③]]
+* [[Reportajes - En marcha la prereserva de la edición física de Castle of Terror de PCNONOGames 2025-06-11   🟡③]]
+* [[Reportajes - Reveladas Portada y Precio de Microhobby 218 - 2025-06-06 🟡③]]
+* [[Reportajes - Cinco Duros anuncia la primera serie documental sobre la industria del videojuego español - 2025-05-30 🟡③]]
+* [[Reportajes - Jesus Martinez del Vas (JMV) nuevo portadista de la mítica Microhobby - 2025-05-19 🟡③]]
+* [[Reportajes - El esperadísimo regreso de Microhobby - 2025-05-05 🟡③]]
+* [[Reportajes - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③]]
+* [[Reportajes - GBRetroDev'24 - Heroes of ASM - La pasión retro de Fran Gallego impulsa la creatividad - 2024-11-30 🟡③]]
 ### Social
 
 * [Metsuke - Cuenta de GitHub  🌐](https://github.com/metsuke)

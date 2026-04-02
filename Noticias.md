@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-03-31T21:46:54.497Z
+modified: 2026-04-01T21:51:43.496Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 49
+ver_rev: 50
 nav_primary:
 nav_secondary:
 tags:
@@ -86,6 +86,7 @@ Border: off
 
 ## En titulares
 
+* [JMV desvela lo sucecido en 1993 con el diseño de la mascota oficial de NEO-GEO a través de un concurso en HobbyConsolas 🟡③🌐](https://x.com/YedaiJamao/status/2039397194382311870?s=20)
 * [Sale a la venta la trilogía "Con Cinco Duros" este miércoles 1 de Abril 🟡③🌐](https://x.com/dvargaspardo/status/2039049270125285394?s=20)
 
  --- column-end ---

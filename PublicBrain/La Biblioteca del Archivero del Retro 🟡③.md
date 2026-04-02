@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-29T22:46:53.299Z
-modified: 2026-03-28T11:55:02.626Z
+modified: 2026-04-02T17:49:11.979Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 20
+ver_rev: 21
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -40,24 +40,14 @@ Number of Columns: 2
 Border: off
 ```
 
-![Historia de Sony Playstation 1 PS1](PublicBrain/_resources/53d3a574b988bd88337595da1068d057_MD5.jpg)
+![Biblioteca del Retro - Historia de las Plataformas de Videojuegos](PublicBrain/_resources/f082cc6cb4b7e1872c17ffaef5963e70_MD5.jpg)
 
-## Historia de Sony Playstation 1
+## Historia - Plataformas de Videojuegos
 
-La historia de la **Sony PlayStation (PS1)** no es solo la crónica de una consola exitosa; es el relato de una de las mayores venganzas empresariales de la tecnología. Lo que comenzó como un periférico para Nintendo terminó transformando un mercado de "juguetes" en una industria cultural de masas.
+Desde el primer sistema de videojuegos hasta lo más reciente y puntero, ¡Explora la historia del mundo del video juego a través de sus plataformas!
 
-Continua leyendo en ... [[Historia de Sony Playstation 1 (PS1) 🔴②]]
+Continua leyendo en ... [[Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①]]
 
---- column-end ---
-
-
-![Historia de Sony Playstation 4 PS4](_resources/429908ff98876dd192bc8395c1ad5ef9_MD5.jpg)
-
-## Historia de Sony Playstation 4
-
-La octava generación de consolas no solo representó un salto en la potencia de procesamiento, sino que marcó el momento en que Sony Interactive Entertainment decidió reconciliarse con su propia identidad. Tras una etapa de turbulencias con su predecesora, la **PlayStation 4** emergió en 2013 no como una simple máquina de juegos, sino como una respuesta directa a las necesidades de una industria que demandaba cercanía y sencillez. Bajo la arquitectura orquestada por Mark Cerny, la consola se convirtió en el epicentro de una "Edad de Oro" narrativa, transformando el salón de millones de hogares en un espacio de experiencias cinematográficas sin precedentes. Este índice recorre el camino de un sistema que, lejos de conformarse con el éxito comercial, logró redefinir la cultura del videojuego a través de un equilibrio casi perfecto entre ingeniería, visión de negocio y respeto por el legado artístico de sus estudios.
-
-Continua leyendo en ... [[Historia de Sony Playstation 4 (PS4) 🔴②]]
 
 --- column-end ---
 

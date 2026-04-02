@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-03-28T09:42:31.290Z
-modified: 2026-03-28T20:29:10.318Z
+modified: 2026-04-02T17:59:37.685Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -23,7 +23,7 @@ tags: []
 
 ![Historia de Sony Playstation 1 PS1](PublicBrain/_resources/53d3a574b988bd88337595da1068d057_MD5.jpg)
 
-[[La Biblioteca del Archivero del Retro 🟡③]]
+[[Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①]]
 
 La historia de la **Sony PlayStation (PS1)** no es solo la crónica de una consola exitosa; es el relato de una de las mayores venganzas empresariales de la tecnología. Lo que comenzó como un periférico para Nintendo terminó transformando un mercado de "juguetes" en una industria cultural de masas.
 

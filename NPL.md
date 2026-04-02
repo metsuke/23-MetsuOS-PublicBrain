@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-16T04:52:14.536Z
-modified: 2026-03-30T10:40:55.368Z
+modified: 2026-04-01T20:54:55.339Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -75,12 +75,35 @@ No me habia dado cuenta hasta ese momento, del alcance conceptual de todo esto q
 
 ## Contextos Mentales o "Paradigmas" relevantes en Napalm Project
 
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría ](_resources/a2086ee1613a1ac171ea26eb300514b8_MD5.jpg)
+
+### Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría
+
+> OJO WIP
+
+Sin un contexto definido, la certeza de todo supuesto conocimiento tiende a ser indeterminado, podemos racionalizarlo como irracional, infinito, cero, indeterminado, patata, magia, no nulo, el destino, la consecuencia causal del horoscopo de marras, palabras de un profeta fanático o producto de la sabiduría de un ser omnisciente cuyo punto de vista somos incapaces de comprender.
+
+Continua leyendo en (OJO WIP) [[Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría  ⚫①]], 
+
+ --- column-end ---
+
 ![Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996)](PublicBrain/_resources/af5ad5ab95962440db9bd9f74b6caa39_MD5.jpg)
 ### Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996)
 
 La epistemología a menudo se percibe como una disciplina etérea y alejada de la realidad. Sin embargo, para **Donald J. Cunningham** y **Shawn M. Fitzgerald**, es el motor invisible que guía nuestras decisiones. En su propuesta de 1996, estos autores defienden que nuestra "postura epistemológica" no es un accesorio intelectual, sino la base sobre la cual construimos el aprendizaje y la investigación.
 
 Continua leyendo en ... [[Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996) 🟡③]]
+
+ --- column-end ---
+--- multi-column-end
+
+
 
 ## Puntas de lanza de estudio actual  ⚫①
 

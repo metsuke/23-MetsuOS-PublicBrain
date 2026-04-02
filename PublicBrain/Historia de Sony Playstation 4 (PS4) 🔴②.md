@@ -9,22 +9,22 @@ checked: 0
 lang: ES
 translations:
 created: 2026-03-26T12:22:14.459Z
-modified: 2026-03-28T12:10:44.718Z
+modified: 2026-04-02T17:54:45.105Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
-MOS_TopImg_Video: "H"istoriaSonyPS4_000.mp4
+MOS_TopImg_Video: "HistoriaSonyPS4_000.mp4"
 ---
 # Historia de Sony Playstation 4 (PS4) 🔴②
 
 ![Historia de Sony Playstation 4 PS4](_resources/429908ff98876dd192bc8395c1ad5ef9_MD5.jpg)
 
-[[La Biblioteca del Archivero del Retro 🟡③]]
+[[Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①]]
 
 La octava generación de consolas no solo representó un salto en la potencia de procesamiento, sino que marcó el momento en que Sony Interactive Entertainment decidió reconciliarse con su propia identidad. Tras una etapa de turbulencias con su predecesora, la **PlayStation 4** emergió en 2013 no como una simple máquina de juegos, sino como una respuesta directa a las necesidades de una industria que demandaba cercanía y sencillez. Bajo la arquitectura orquestada por Mark Cerny, la consola se convirtió en el epicentro de una "Edad de Oro" narrativa, transformando el salón de millones de hogares en un espacio de experiencias cinematográficas sin precedentes. Este índice recorre el camino de un sistema que, lejos de conformarse con el éxito comercial, logró redefinir la cultura del videojuego a través de un equilibrio casi perfecto entre ingeniería, visión de negocio y respeto por el legado artístico de sus estudios.
 ## 1. El Renacimiento bajo el Proyecto "Orbis"

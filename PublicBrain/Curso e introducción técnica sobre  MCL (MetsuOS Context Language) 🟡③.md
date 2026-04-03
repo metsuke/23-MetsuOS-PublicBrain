@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-03-24T06:39:06.080Z
-modified: 2026-03-24T19:16:41.057Z
+modified: 2026-04-02T18:38:02.713Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -218,7 +218,7 @@ F. Referencias bibliográficas
 
 ## Referencias bibliográficas que apoyan este contenido
 
-1. [Hirschfeld, R., Costanza, P. y Nierstrasz, O. (2008). Context-oriented Programming. Journal of Object Technology, 7(3), 125-151. 🟡③🌐](https://www.jot.fm/issues/issue_2008_03/article4.pdf) .- Artículo fundacional que presenta la Programación Orientada al Contexto (COP) como técnica para adaptar dinámicamente el comportamiento del software.
+1. [Robert Hirschfeld, Pascal Costanza, and Oscar Nierstrasz: Context-oriented Programming, in Journal of Object Technology, vol. 7, no. 3, March– Aprile 2008, pages 125–151 🟡③🌐](https://www.jot.fm/issues/issue_2008_03/article4.pdf) .- Artículo fundacional que presenta la Programación Orientada al Contexto (COP) como técnica para adaptar dinámicamente el comportamiento del software.
 2. [Costanza, P. y Hirschfeld, R. (2005). Language Constructs for Context-oriented Programming: An Overview of ContextL. En Proceedings of the 2005 Symposium on Dynamic Languages (DLS ’05). ACM. 🟡③🌐](https://dl.acm.org/doi/10.1145/1094811.1094818) .- Descripción técnica de ContextL, la primera extensión de lenguaje diseñada específicamente para soportar los conceptos de la programación orientada al contexto.
 3. [von Löwis, M., Denker, M. y Nierstrasz, O. (2007). Context-Oriented Programming: Beyond Layers. En Proceedings of the 2007 Symposium on Dynamic Languages. ACM. 🟡③🌐](https://dl.acm.org/doi/10.1145/1352678.1352688) .- Investigación sobre mecanismos de composición en COP que van más allá del concepto de capas, explorando adaptaciones más granulares y dinámicas.
 4. [Appeltauer, M., Hirschfeld, R., Haupt, M., Lincke, J. y Perscheid, M. (2009). A Comparison of Context-oriented Programming Languages. En COP ’09. ACM. 🟡③🌐](https://www.hpi.uni-potsdam.de/hirschfeld/publications/media/AppeltauerHirschfeldHauptLinckePerscheid_2009_AComparisonOfContextOrientedProgrammingLanguages_AcmDL.pdf) .- Estudio comparativo de diversas implementaciones de lenguajes orientados al contexto, evaluando sus abstracciones, diseño y rendimiento relativo.

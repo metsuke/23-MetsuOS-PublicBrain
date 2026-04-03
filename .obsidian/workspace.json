@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①.md",
+                "file": "Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①"
+              "title": "Apps"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -204,16 +204,17 @@
   },
   "active": "00e243096db06df9",
   "lastOpenFiles": [
-    "PublicBrain/La Biblioteca del Archivero del Retro 🟡③.md",
+    "PublicBrain/Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría  ⚫①.md",
+    "PublicBrain/Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996) 🟡③.md",
+    "Noticias.md",
+    "KB.md",
     "PublicBrain/Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①.md",
+    "PublicBrain/La Biblioteca del Archivero del Retro 🟡③.md",
     "PublicBrain/_resources/f082cc6cb4b7e1872c17ffaef5963e70_MD5.jpg",
     "PublicBrain/Historia de Sony Playstation 1 (PS1) 🔴②.md",
     "PublicBrain/Historia de Sony Playstation 4 (PS4) 🔴②.md",
     "Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①.md",
-    "KB.md",
-    "Noticias.md",
     "NPL.md",
-    "PublicBrain/Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría  ⚫①.md",
     "PublicBrain/Elementos del conocimiento humano y científico  🟡③-⚖️🔴②.md",
     "_resources/29959dc59794a6fdcbb7fffc77fbad80_MD5.jpg",
     "_resources/b71c0e9eb02b3c03130c2d15684ba993_MD5.jpg",

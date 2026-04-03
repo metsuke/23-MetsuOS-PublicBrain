@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-04-01T21:51:43.496Z
+modified: 2026-04-03T11:44:43.081Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 50
+ver_rev: 51
 nav_primary:
 nav_secondary:
 tags:
@@ -80,6 +80,7 @@ Border: off
 
 ## Noticias Breves
 
+* [Manuel Pazos publica un visor del mapeado de La Abadía del Crimen (CPC, MSX; Remake)  🟡③🌐](https://x.com/ManuelPazosMSX/status/2040001880537838028?s=20) este corre directamente en el navegador y te permite ver la maravilla arquitectónica que creó Juan Delcan en su dia.
 * [Juanje Juega lleva al autor del libro "Inteligencia Artificial para Z80" al canal 🟡③ 🌐](https://www.youtube.com/watch?v=UAGL213o_0Q) .- En el video el propio autor nos ilustra sobre este fantástico libro, que estoy usando de referencia para #MetsuOS
  
  --- column-end ---

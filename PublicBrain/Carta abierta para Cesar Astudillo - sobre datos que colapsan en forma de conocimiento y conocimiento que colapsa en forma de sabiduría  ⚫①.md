@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-03-30T08:43:18.134Z
-modified: 2026-04-01T20:45:29.931Z
+modified: 2026-04-05T21:08:16.062Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -67,18 +67,53 @@ Es una resumen quizá poco riguroso técnicamente hablando, pero creo que es la 
 
 Quizá queras revisar [[Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996) 🟡③]] antes de revisar la siguiente tabla. Es importante que tengas en cuenta que es un volcado de mi perceción, mi marco mental de referencia y que, con el tiempo y la investigación podría variar:
 
-| **#** | **Pregunta Fundamental**     | **Dimensión Analítica** | **Enfoque Crítico**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ----- | ---------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | **¿Qué es el conocimiento?** | Ontológica              | **¿Es una copia de la realidad o una construcción?** Es una representación de los datos que podemos medir, sin entrar a definir si esos datos se basan en una realidad sólida o no. Aunque conocer ese dato quizá nos daria mayor precisión en esos datos, a efectos exerienciales no creo que variara sustancialmente. ⚫①                                                                                                                                                                                                                                |
-| 2     | **¿Cómo se adquiere?**       | Procesual               | **¿Es una transmisión pasiva o una actividad creativa?** Es un proceso voluntario y - si se pretende el mayor grado de precision positlve y/o necesario - una tarea que requiere un esfuerzo cognitivo importante, especialmente si pretendemos obtener una informacion suficientemente objetiva dentro del contexto en el que se ubica. ⚫①                                                                                                                                                                                                               |
-| 3     | **¿Cuál es su fuente?**      | Origen                  | **¿Emerge de la razón, de los sentidos o del entorno?** De la combinación de las tres, un contexto permite dar estructura a los datos que posteriormente dotaremos de sentido mediante la razón. El entorno limita, moldea y potencia unos contextos interpretativos frente a otros. ⚫①                                                                                                                                                                                                                                                                   |
-| 4     | **¿Cuál es su estructura?**  | Arquitectónica          | **¿Es un edificio jerárquico o una red interconectada?** Es una red interconectada que precibimos parcialmente como jerarquia dependiendo del contexto desde el que se organice. ⚫①                                                                                                                                                                                                                                                                                                                                                                       |
-| 5     | **¿Cuáles son sus límites?** | Alcance                 | **¿Hay verdades absolutas o solo aproximaciones?** No, y aunque las hubiera, el ego humamo recomienda tomar esos escenarios como 99.999999%, dado que solo percibimos perspectivas basadas en contexto de los datos, seria muy pretencioso decir que sabemos "todo" sobre algo. Un contexto lo suificientemente ajustado podria darnos la falsa sensacion de que si pero, incluso en ese caso no deberíamos aceptar un 100% porque detendría la búsqueda de conocimiento y además psicológicamente es la matriz de nuestro peor enemigo, el fanatismo. ⚫① |
-| 6     | **¿Cuál es su valor?**       | Axiológica              | **¿Su importancia es ética, técnica o utilitaria?** De todas ellas y de mas parámetros dinámicos dependientes de contexto que podríamos desconocer. Depende de los contextos de los que tengamos en cuenta en un momento dado, la proporcion de cada uno de los paràmetros en la ecuación será una concreta, siendo en general dinámica o variable ⚫①                                                                                                                                                                                                     |
-| 7     | **¿Cómo se justifica?**      | Validativa              | **¿Qué pruebas exigimos para aceptar algo como cierto?** No podemos aceptar algo como cierto, únciamente calculamos probabilisticamente y asumimos la opcion mas probable en cada momento. EL nivel de probabilidad puede mejorarse con mejores medicciones, análsis y metodologías, pero siempre será una probabilidad contextual para un instante concreto en un entorno absolutamente dinámico y cambiante.  ⚫①                                                                                                                                        |
+##### ¿Qué es el conocimiento? (Ontología)
+
+* ***¿Es una copia de la realidad o una construcción?** 
+* Es una representación de los datos que podemos medir, sin entrar a definir si esos datos se basan en una realidad sólida o no. Aunque conocer ese dato quizá nos daria mayor precisión en esos datos, a efectos exerienciales no creo que variara sustancialmente. ⚫①
+
+##### **¿Cómo se adquiere?** (Procesual)
+
+* **¿Es una transmisión pasiva o una actividad creativa?** 
+* Es un proceso voluntario y - si se pretende el mayor grado de precision posilve y/o necesario - una tarea que requiere un esfuerzo cognitivo importante, especialmente si pretendemos obtener una informacion suficientemente objetiva dentro del contexto en el que se ubica. ⚫①
+##### **¿Cuál es su fuente?** (Origen)
+
+* **¿Emerge de la razón, de los sentidos o del entorno?**
+* De la combinación de las tres, un contexto permite dar estructura a los datos que posteriormente dotaremos de sentido mediante la razón. El entorno limita, moldea y potencia unos contextos interpretativos frente a otros. ⚫①
+##### **¿Cuál es su estructura?** (Arquitectónica)
+
+* ***¿Es un edificio jerárquico o una red interconectada?** 
+* Es una red interconectada que precibimos parcialmente como jerarquia dependiendo del contexto desde el que se organice. ⚫①
+
+##### **¿Cuáles son sus límites?** (Alcance)
+
+* ***¿Hay verdades absolutas o solo aproximaciones?** 
+* No parece probable, ym aunque las hubiera, minorar el efecto pernicioso del ego humamo requiere tomar esos escenarios como 99.999999%  ⚫① 
+	* Dado que solo percibimos perspectivas basadas en contexto de los datos, sería extremadamente pretencioso decir que sabemos "todo" sobre algo. ⚫① 
+	* Un contexto lo suificientemente ajustado podria darnos la - probablemente - falsa sensacion de que si pero, incluso en ese caso no deberíamos aceptar un 100% porque detendría la búsqueda de conocimiento y además psicológicamente es la matriz de nuestro peor enemigo: el fanatismo. ⚫①
+
+##### **¿Cuál es su valor?** (Axiológica)
+
+* **¿Su importancia es ética, técnica o utilitaria?** 
+* De todas ellas y de mas parámetros dinámicos dependientes de contexto que - muy probablemente - podríamos desconocer. ⚫①
+	* Depende de los contextos de los que tengamos consciencia en un momento dado, la proporcion de cada uno de los paràmetros en la ecuación será una concreta en lo real, y otra distinta en lo percibido, siendo - en general - dinámica y predecible solo en la parte ya modelada, y dentro del contexto - irreal por su propia naturaleza - de la vaca esférica.  ⚫①
+	* En este sentido conviene no olvidar que, con independencia del grado de influencia de cada uno de los """cuerpos/parámetros""", el "problemas de los tres cuerpos" lo es por un buen motivo  ⚫①
+
+##### **¿Cómo se justifica?** (Validativa)
+
+* ***¿Qué pruebas exigimos para aceptar algo como cierto?** 
+* No podemos aceptar algo como cierto, únciamente calculamos probabilisticamente y asumir la opcion mas probable en cada momento como referencia intelectual, pero eso es una aproximación utilitaria que viene a compensar nuestra incapacidad manifiesta de gestionar miles de contextos simultaneamente, no por la naturaleza misma del conocimiento.
+* El nivel de probabilidad de la predicción puede mejorarse con mejores medicciones, análsis y metodologías, pero siempre será una probabilidad contextual para un instante concreto - asumiendo que el tiempo sea una magnitud física real y no una técnica perceptiva, (lo cual es de por si extremadamente dudoso) - en un entorno impredecible, dinámico y cambiante.  ⚫①
+
+#### Avanzando hacia la percepción del conjunto como la interpretación probabilística de la interacción de las partes 
+
+* Una forma común de explicar esto es el concepto de temperatura, la temperatura no existe, es un constructo formado por la predicción probabilística del nivel energético de cada uno de los elementos que forman el sistema cuya temperatura pretendemos conocer.  ⚫①
 
 * Un ejemplo del alcance de los contextos: La tierra gira alrededor del sol o traza una trayectoria helicoidal siguiendo la "baja presion" gravitatoria del sol en su desplazamiento por el espacio o incluso podria ser percibida como un campo cuántico toroidal "cuántico" desde la perspectiva de un ser que observara desde fuera de nuestro universo, por ser este ser hipotético incapazs de determinar la posicion de la tierra, ni siquiera del sol debido a que los sucesos serían infinitamente rapidos para ese observador. ⚫①
+
 * Aunque quizá sea materia para otra investigación en física si diré que, mi modelo mental actual sobre la naturaleza del tiempo, supone que es un constructo perceptivo (un contexto mental) que nos permite interpretar los - datos sobre - cambios de entropía a nuestro alrededor y que nuestra parcepción de su velocidad más o menos acelerada es resultado de la velocidad en que dichos cambios de entropia pueden producirse y llegar a nosotros en función de la velocidad/gravedad. Seria este binomio una combinación difusa en la que incluso la gravedad, podría ser solo consecuencia del movimiento, de ahi las diferencias de "rapidez del tiempo" a velocidades relativistas, pero eso, como digo, es otra historia. ⚫①
+
+* Una reflexión sobre la alta probabilidad de la imposibilidad de afirmar que cualquier verdade sea absoluta, la coletilla "en el universo conocido", dota a la frase previa correctamente contextualizada de un grado de certeza que solemos tomar como valido en nuestro dia a dia, al tiempo que reconoce la imposibilidad práctica de conocer el alcance global de nuestra relaidad percibida y, por tanto, nos impide tomar un 100% de certeza  en cualquier caso que se plantee en el universo conocido  ⚫①
 
 ### Hipotesis de trabajo 2: De los pasos necesarios para construir conocimiento y alcanzar sabiduría
 

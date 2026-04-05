@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-04-03T11:44:43.081Z
+modified: 2026-04-04T15:44:19.575Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 51
+ver_rev: 52
 nav_primary:
 nav_secondary:
 tags:
@@ -80,6 +80,7 @@ Border: off
 
 ## Noticias Breves
 
+* [NO VOXEL, la herramienta de generacion procedural de paisajes 3D para Amstrad CPC  🟡③🌐](https://amstradpower.es/no-voxel-crea-paisajes-3d-retro-en-tu-amstrad-cpc/) , un nuevo juguete más que interesante del que acabamos de tener conocimiento ¡y que promete horas y horas de diversion!¡no te lo puedes perder!
 * [Manuel Pazos publica un visor del mapeado de La Abadía del Crimen (CPC, MSX; Remake)  🟡③🌐](https://x.com/ManuelPazosMSX/status/2040001880537838028?s=20) este corre directamente en el navegador y te permite ver la maravilla arquitectónica que creó Juan Delcan en su dia.
 * [Juanje Juega lleva al autor del libro "Inteligencia Artificial para Z80" al canal 🟡③ 🌐](https://www.youtube.com/watch?v=UAGL213o_0Q) .- En el video el propio autor nos ilustra sobre este fantástico libro, que estoy usando de referencia para #MetsuOS
  
@@ -93,6 +94,9 @@ Border: off
  --- column-end ---
 --- multi-column-end
 
+## La "tira" cómica de la semana
+
+![La tira cómica - Guerra de Pañales en el Geriatrico](_resources/df5326c914a4d0adae4a21eb00c5bca6_MD5.jpg)
 
 
 ![[Plantilla - 1MT#One More Thing]]

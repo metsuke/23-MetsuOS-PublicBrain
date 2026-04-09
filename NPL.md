@@ -9,18 +9,19 @@ checked: 0
 lang: ES
 translations:
 created: 2025-12-16T04:52:14.536Z
-modified: 2026-04-01T20:54:55.339Z
+modified: 2026-04-09T20:31:29.072Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary: []
 nav_secondary: []
 tags: []
 MOS_TopImg_Video: NPL_000.mp4
 ---
 # NPL
+7# NPL
 
 ![NPL Project](_resources/d6c616f2df7ff3271050294f4e47edff_MD5.jpg)
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-30T10:16:07.557Z
-modified: 2026-03-29T09:05:06.066Z
+modified: 2026-04-08T20:16:29.907Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 76
+ver_rev: 77
 nav_primary:
 nav_secondary:
 tags:
@@ -229,7 +229,8 @@ Más allá de la corrección, mosA11YManager impulsa la creación de videojuegos
 
 mosA11YManager: Accesibilidad como superpoder. Inclusión sin excepciones.
 
---- column-end --- 
+--- column-end ---
+
 ### mosAutomationManager
 
 ![mosAutomationManager Icon](_resources/83fd343711cede49e619f2d0f2e51bb1_MD5.jpg)
@@ -242,7 +243,8 @@ Apoyado en mosTaskManager para priorización y mosSecurityManager para ejecució
 
 mosAutomationManager: Automatiza lo mundano. Libera lo extraordinario.
 
---- column-end --- 
+--- column-end ---
+
 ### mosBrainManager
 
 ![mosBrainManager Icon](_resources/39b789fabb79e6f970ad5e0bb5621d16_MD5.jpg)
@@ -255,7 +257,7 @@ Neutraliza sesgos ideológicos o "opiniones expertas" anticientíficas, incorpor
 
 mosBrainManager: Sabiduría probabilística. Conocimiento sin cadenas.
 
---- column-end --- 
+--- column-end ---
 ### mosIAManager
 
 
@@ -281,7 +283,7 @@ Apoyado en mosBrainManager para análisis probabilístico de riesgos legales, ge
 
 mosLegalManager: Legalidad proactiva. Innovación con integridad.
 
---- column-end --- 
+--- column-end ---
 ### mosNetManager
 
 ![mosNetManager Icon](_resources/461fe69c35a8db236a5087f5a5ec08ba_MD5.jpg)
@@ -294,7 +296,7 @@ Con mosSecurityManager, encripta tráfico y optimiza latencia; mosRTManager aña
 
 mosNetManager: Conexión sin fronteras. Red inteligente y resiliente.
 
---- column-end --- 
+--- column-end ---
 ### mosRTManager
 
 ![mosRTManager Icon](_resources/227f705ab4fa3bd9101042c13a656890_MD5.jpg)
@@ -307,7 +309,7 @@ Integra con mosNetManager para redes RT y mosTaskManager para priorización crí
 
 mosRTManager: Tiempo real impecable. Experiencias instantáneas y accesibles.
 
---- column-end --- 
+--- column-end ---
 ### mosSecurityManager
 
 
@@ -321,7 +323,7 @@ Bloquea vulnerabilidades en apps como mosImageConverter o mosGameMaker, con sand
 
 mosSecurityManager: Seguridad como prioridad. Privacidad que empodera.
 
---- column-end --- 
+--- column-end ---
 ### mosTaskManager
 
 ![mosTaskManager Icon](_resources/0ce869892f82d04117656da7b8657ddb_MD5.jpg)

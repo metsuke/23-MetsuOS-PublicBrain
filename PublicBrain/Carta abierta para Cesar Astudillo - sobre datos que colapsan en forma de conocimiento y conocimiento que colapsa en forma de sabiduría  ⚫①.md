@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-03-30T08:43:18.134Z
-modified: 2026-04-05T21:08:16.062Z
+modified: 2026-04-09T20:33:01.742Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 8
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -65,7 +65,7 @@ Es una resumen quizá poco riguroso técnicamente hablando, pero creo que es la 
 
 #### 1.1 El concepto según el Marco de Cunningham y Fitzgerald (1996)
 
-Quizá queras revisar [[Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996) 🟡③]] antes de revisar la siguiente tabla. Es importante que tengas en cuenta que es un volcado de mi perceción, mi marco mental de referencia y que, con el tiempo y la investigación podría variar:
+Quizá queras revisar [[Contextos - Epistemología - El Marco de Cunningham y Fitzgerald (1996) 🟡③]] antes de revisar la siguiente lista de preguntas. Es importante que tengas en cuenta que es un volcado de mi perceción, mi marco mental de referencia y que, con el tiempo y la investigación podría - como es lógico y normal cuando se aborda algo desde una perspectiva no fanática - variar:
 
 ##### ¿Qué es el conocimiento? (Ontología)
 
@@ -91,7 +91,6 @@ Quizá queras revisar [[Contextos - Epistemología - El Marco de Cunningham y Fi
 * No parece probable, ym aunque las hubiera, minorar el efecto pernicioso del ego humamo requiere tomar esos escenarios como 99.999999%  ⚫① 
 	* Dado que solo percibimos perspectivas basadas en contexto de los datos, sería extremadamente pretencioso decir que sabemos "todo" sobre algo. ⚫① 
 	* Un contexto lo suificientemente ajustado podria darnos la - probablemente - falsa sensacion de que si pero, incluso en ese caso no deberíamos aceptar un 100% porque detendría la búsqueda de conocimiento y además psicológicamente es la matriz de nuestro peor enemigo: el fanatismo. ⚫①
-
 ##### **¿Cuál es su valor?** (Axiológica)
 
 * **¿Su importancia es ética, técnica o utilitaria?** 
@@ -107,6 +106,8 @@ Quizá queras revisar [[Contextos - Epistemología - El Marco de Cunningham y Fi
 
 #### Avanzando hacia la percepción del conjunto como la interpretación probabilística de la interacción de las partes 
 
+![Colapso/Destilacion del conocimiento](PublicBrain/_resources/b0717d123e5f2a170dfbf58704af500e_MD5.jpg)=
+
 * Una forma común de explicar esto es el concepto de temperatura, la temperatura no existe, es un constructo formado por la predicción probabilística del nivel energético de cada uno de los elementos que forman el sistema cuya temperatura pretendemos conocer.  ⚫①
 
 * Un ejemplo del alcance de los contextos: La tierra gira alrededor del sol o traza una trayectoria helicoidal siguiendo la "baja presion" gravitatoria del sol en su desplazamiento por el espacio o incluso podria ser percibida como un campo cuántico toroidal "cuántico" desde la perspectiva de un ser que observara desde fuera de nuestro universo, por ser este ser hipotético incapazs de determinar la posicion de la tierra, ni siquiera del sol debido a que los sucesos serían infinitamente rapidos para ese observador. ⚫①
@@ -115,6 +116,26 @@ Quizá queras revisar [[Contextos - Epistemología - El Marco de Cunningham y Fi
 
 * Una reflexión sobre la alta probabilidad de la imposibilidad de afirmar que cualquier verdade sea absoluta, la coletilla "en el universo conocido", dota a la frase previa correctamente contextualizada de un grado de certeza que solemos tomar como valido en nuestro dia a dia, al tiempo que reconoce la imposibilidad práctica de conocer el alcance global de nuestra relaidad percibida y, por tanto, nos impide tomar un 100% de certeza  en cualquier caso que se plantee en el universo conocido  ⚫①
 
+### Intermission: Las preguntas de Cesar Astudillo 
+
+Llegadoa a este punto, y antes de continuar con la parte en que persigo resolver y concretar la metodología necesaria para llevar lo anterior a la práctica y con ello identificar posibles fallos de diseño, creo que es buen momento par poner negro sobre blanco las [preguntas de Cesar Astudillo  🟡③🌐](https://x.com/cesarastudillo/status/2000114072679858505?s=20) y cuya respuesta motiva - a mas de sentar las bases del concepto - este documento:
+
+(...) WIP - Infografías de la estructura mental de los apuntes compartidos por Cesar Astudillo para contextualizar las preguntas, de la estructura fundamental del colapso que planteo y de la vision global de los colapsos dinamicos dependientes de contexto WIP temprano
+
+![La perspectiva de Astudillo en imagen](PublicBrain/_resources/edd0b615049c65769012954b84a29849_MD5.jpg)
+
+(...) WIP
+
+
+![El marco generico que planteo](PublicBrain/_resources/90f1b15d6bb064ac355d2b68615289b2_MD5.jpg)
+
+(...) WIP
+
+![Contexto a gran escala](PublicBrain/_resources/55edb54ff3dcf54bb4cf4f976bbb201a_MD5.jpg)
+
+(...) WIP
+
+(...) WIP
 ### Hipotesis de trabajo 2: De los pasos necesarios para construir conocimiento y alcanzar sabiduría
 
 (...) WIP
@@ -134,9 +155,6 @@ Quizá queras revisar [[Contextos - Epistemología - El Marco de Cunningham y Fi
 
 (...) WIP
 
-## Las preguntas de Cesar Astudillo y el modelo basado en CPS masivo que planteo.
-
-(...) WIP
 
 ## ¿Porqué no hay - aún - fuentes bibliográficas aquí?
 

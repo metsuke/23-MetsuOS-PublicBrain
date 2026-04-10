@@ -1,3 +1,24 @@
+---
+iaStatus: 8
+iaStatus_Model: DeepSeek-V3, Grok-4 , Gemini, Raul Carrillo Garrido
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
+a11y: 0
+checked: 0
+lang: ES
+translations:
+created: 2026-04-10T21:48:56.936Z
+modified: 2026-04-10T22:17:49.536Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 2
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Curso de ZX-DRAW 🔴②
 
 ![Curso de ZX-DRAW](_resources/b71c0e9eb02b3c03130c2d15684ba993_MD5.jpg)
@@ -78,7 +99,7 @@ Este manual ofrece un recorrido exhaustivo por **ZX-Draw**, una herramienta cont
 
 - **Fernández Moreno, J. A. (2018).** _ZX Spectrum: Un recorrido visual_. Dolmen Editorial. (Analiza la estética del sistema y las técnicas de diseño de las pantallas de carga más icónicas).
     
-- **Smith, C. (2010).** _The ZX Spectrum ULA: How to design a microcomputer_. ZXDesign Media. (Referencia técnica fundamental sobre cómo el chip ULA genera el vídeo y causa el _attribute clash_).
+- **Smith, C. (2010).** _The ZX Spectrum ULA: "H"ow to design a microcomputer_. ZXDesign Media. (Referencia técnica fundamental sobre cómo el chip ULA genera el vídeo y causa el _attribute clash_).
     
 - **Overtaken by Events.** _The ZX-Spectrum screen layout_. [Consultar artículo técnico](https://www.overtakenbyevents.com/lets-talk-about-the-zx-specrum-screen-layout/). (Explicación detallada del mapa de memoria de los archivos `.scr`).
     

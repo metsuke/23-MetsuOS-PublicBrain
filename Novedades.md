@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-03-31T21:56:12.930Z
+modified: 2026-04-10T21:56:18.609Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 179
+ver_rev: 180
 nav_primary: 
 nav_secondary: 
 tags:
@@ -29,7 +29,15 @@ Number of Columns: 2
 Border: off
 ```
 
+![Curso de ZX-DRAW](_resources/b71c0e9eb02b3c03130c2d15684ba993_MD5.jpg)
 
+## Herramientas - Curso de ZX-Draw
+
+Este manual ofrece un recorrido exhaustivo por **ZX-Draw**, una herramienta contemporánea diseñada para dominar la estética y las restricciones técnicas del Sinclair ZX Spectrum. A través de este curso, aprenderás a transformar limitaciones de hardware en decisiones artísticas.
+
+Continuar leyendo en ... [[Curso de ZX-DRAW 🔴②]]
+
+--- column-end ---
 
 ![Curso sobre Administración de un Negocio Automatizado](PublicBrain/_resources/b09326c67ea33eca7a90547f331b445d_MD5.jpg)
 ## Negocios - Curso sobre Administración de un Negocio Automatizado
@@ -130,18 +138,6 @@ Continuar leyendo en ... [[Reportajes - Lanzamiento de Perseus para ZX Spectrum 
 Desarrollar "a pelo" no es lo más rápido, pero te da una comprensión profunda de cómo funcionan los videojuegos. Este curso, construido mientras estudio los contenidos publicados por Fran Gallego, te equipa con habilidades para crear prototipos, experimentar sin límites y, si quieres, dar el salto a motores comerciales con una base sólida. ¡Es tu oportunidad de programar como los pioneros de los 90, pero con herramientas modernas!
 
 Continuar leyendo en ... [[Curso de Desarrollo de Videojuegos a pelo con Fran Gallego 🟡③]]
-
---- column-end ---
-
-
-![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
-## Herramientas - Curso de ZX-Paintbrush
-
-Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una herramienta clásica para diseñar gráficos en el legendario ZX Spectrum. 
-
-A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
-
-Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum (Cancelado)  🟡③]]
 
 --- column-end ---
 

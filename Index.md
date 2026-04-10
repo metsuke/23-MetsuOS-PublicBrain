@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-03-31T21:56:12.934Z
+modified: 2026-04-10T22:34:03.307Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 140
+ver_rev: 141
 nav_primary:
 nav_secondary:
 tags:
@@ -102,11 +102,11 @@ Continuar leyendo en ... [[Curso Publicacion de Contenido Editorial como Aventur
 --- column-end ---
 
 
-![Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales](PublicBrain/_resources/49924154210fa7e4e1b8fd9292c6f1a0_MD5.jpg)
+![Curso de ZX-DRAW](_resources/b71c0e9eb02b3c03130c2d15684ba993_MD5.jpg)
 
-### Videojuegos - Curso Historia Mundial de los Videojuegos de Aventura - Subgéneros Principales
+### Videojuegos - Curso de ZX-Draw
 
-Continua leyendo en ... [[Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales 🟡③]]
+Continuar leyendo en ... [[Curso de ZX-DRAW 🔴②]]
 
 --- column-end ---
 --- multi-column-end

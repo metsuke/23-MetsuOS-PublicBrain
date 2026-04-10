@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-03-30T08:43:18.134Z
-modified: 2026-04-09T20:33:01.742Z
+modified: 2026-04-09T21:48:15.289Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 10
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -137,6 +137,12 @@ Llegadoa a este punto, y antes de continuar con la parte en que persigo resolver
 
 (...) WIP
 ### Hipotesis de trabajo 2: De los pasos necesarios para construir conocimiento y alcanzar sabiduría
+
+(...) WIP
+
+¿Cual podría ser el aspecto real del conocimiento probabilistico dependiente de contexto antes de las compresiones con pérdida que aplicamos para que nuestro cerebro no explote? todos los escenarios son ciertos y falsos a la vez con una probabilidad compleja QUE NO SE SIMPLIFICA (estilo hipercubo) [[Análisis Psicohistórico de la Escasez de Monedas de 100 Yenes Asociada a Space Invaders  ⚫①]]
+
+La compresión con pérdidas que asume la mayor probabilidad como cierta es la demostracion de que nuestro cerebro trabaja con la sompra (de la caverna) del conocimiento, no con conocimiento completo  ⚫①
 
 (...) WIP
 

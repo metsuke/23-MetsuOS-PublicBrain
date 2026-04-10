@@ -45,11 +45,22 @@ Continua leyendo en [la noticia en detalle publicada en EMS 🟡③🌐](https:/
 Number of Columns: 2
 Border: off
 ```
-## Que será será
+
+![Shannon Birt está desarrollando un motor 3D para Megadrive/Génesis](_resources/3423cb6481fad9260b142dac68b05f09_MD5.jpg)
+## Shannon Birt está desarrollando un motor 3D para Megadrive/Génesis
+
+Es estam, entre el 2D de los 16 bits y lo poligonal de los 32, que vivimos en la época, una de las fronteras técnica que más intensamente vivimos los jugadores que asistimos "en directo" a aquel gran salt evolutivo.
+
+Muchos de nosotros soñábamos con mundos 3D en nuestra Megadrive, convencidos de la omnipotencia de nuestra máquina favorita. Shannon Birt está tratando de llevar este sueño al mundo real con su proyecto de motor 3D, sin duda un proyecto que seguir atentamente y que de seguro nos traerá de vuelta aquellos sueños.
+
+Puedes [seguir el proyecto en la cuenta de X de Shannon Birt 🟡③🌐](https://x.com/birt_shannon/status/2042426541096001664?s=20)
 
  --- column-end ---
 
-## Whatever will be will be
+![Malasombra imaginado como personaje Chibi](_resources/57291295564b8a13ae60f4d4473ee699_MD5.jpeg)
+## Hall of Games
+
+Próximamente,,,
 
  --- column-end ---
 --- multi-column-end

@@ -62,7 +62,7 @@ MOS_TopImg_Video: PublicBrain.mp4
 
 * [[Curso de Tiled Map Editor - Creación de Mapas para Videojuegos 2D 🟡③]]
 * [[Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②]]
-* [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③]]
+* [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum (Cancelado)  🟡③]]
 
 #### Historia
 

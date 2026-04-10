@@ -19,11 +19,13 @@ nav_primary:
 nav_secondary: 
 tags:
 ---
-# Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③
+# Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum (Cancelado)  🟡③
 
 ![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
 
 [[Aprender a desarrollar videojuegos  ⚫①]]
+
+> Este curso queda cancelado debido al manifiesto abandono de la herramienta ZX-Paintbrush, en su lugar nos movemos a [[Curso de ZX-DRAW 🔴②]]
 
 Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una herramienta clásica para diseñar gráficos en el legendario ZX Spectrum. 
 

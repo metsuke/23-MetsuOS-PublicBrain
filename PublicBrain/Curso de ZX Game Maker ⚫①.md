@@ -150,7 +150,7 @@ Continuar leyendo en ... [[Curso de ZXGM Básico 05 - Calibrando funcionalidad y
 ![Conversion 1:1 de la imagen origen](PublicBrain/_resources/f0679c5d61a4dde79174bc8fcb57d218_MD5.jpg)
 ## Capítulo Básico 06: Pantallas de presentación, victoria, introducción y game over (Live Post)
 
-En el capítulo de hoy, nos centraremos en las pantallas de presentación y transición de tu juego. Los detalles sobre cómo trabajar con ZX Paintbrush se tratarán en el [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③]], aquí nos enfocaremos en qué pantallas puedes incluir, dónde deben ubicarse y cómo gestionar el espacio en memoria que ocupan. Estas pantallas son esenciales para mejorar la experiencia del usuario, ofrecer retroalimentación visual y garantizar un juego pulido.
+En el capítulo de hoy, nos centraremos en las pantallas de presentación y transición de tu juego. Los detalles sobre cómo trabajar con ZX Paintbrush se tratarán en el [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum (Cancelado)  🟡③]], aquí nos enfocaremos en qué pantallas puedes incluir, dónde deben ubicarse y cómo gestionar el espacio en memoria que ocupan. Estas pantallas son esenciales para mejorar la experiencia del usuario, ofrecer retroalimentación visual y garantizar un juego pulido.
 
 Continuar leyendo en ... [[Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②]]
 

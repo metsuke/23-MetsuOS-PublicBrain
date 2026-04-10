@@ -18,8 +18,9 @@ tags: []
 ---
 # Que es Retro-X  ⚫①
 
-[[Curs[[o de Retro-X  ⚫①]]
+[[Curso de Retro-X (Cancelado) 🟡③]]
 
+> Este curso queda cancelado debido al manifiesto abandono de la herramienta Retro-X, en su lugar nos movemos a [[Curso de ZX-DRAW 🔴②]]
 ### ¿Qué es Retro-X?
 
 ¡Gracias por proporcionar el extracto del README! Con esa información específica (como las referencias a Alpha 8, cambios en el Painter, Converter, Sprinter 2000, PureBasic 4.30 y menciones a foros como "Forever"), pude realizar búsquedas profundas en la web, archivos históricos y repositorios de software retro. Confirmo que **Retro-X** es una aplicación real para Windows 32-bit (Win32), desarrollada como un kit multifuncional para el retrocomputing, enfocado en gráficos para computadoras de 8 bits de los 80s y 90s. No es un emulador completo, sino una suite de herramientas para conversión de imágenes, dibujo, visualización y manejo de discos/imágenes, con soporte para sistemas como ZX Spectrum, SAM Coupé, Commodore 64 (C64), Atari XL/XE, Amstrad CPC, MSX, Sprinter 2000 y más. Fue un proyecto ambicioso, pero el desarrollo se detuvo en 2009.

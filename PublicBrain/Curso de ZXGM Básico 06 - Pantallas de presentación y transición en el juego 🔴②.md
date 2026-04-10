@@ -30,7 +30,7 @@ tags: []
 
 > Este es un "Live Post" ya que nos vamos a tomar nuestro tiempo para hacer las pantallas con mimo, y así dar tiempo para la salida de la siguiente - espectacular - versión del engine, y que trae novedades que me interesa incorporar al juego.
 
-En el capítulo de hoy, nos centraremos en las pantallas de presentación y transición de tu juego. Los detalles sobre cómo trabajar con ZX Paintbrush se tratarán en el [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③]], aquí nos enfocaremos en qué pantallas puedes incluir, dónde deben ubicarse y cómo gestionar el espacio en memoria que ocupan. Estas pantallas son esenciales para mejorar la experiencia del usuario, ofrecer retroalimentación visual y garantizar un juego pulido.
+En el capítulo de hoy, nos centraremos en las pantallas de presentación y transición de tu juego. Los detalles sobre cómo trabajar con ZX Paintbrush se tratarán en el [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum (Cancelado)  🟡③]], aquí nos enfocaremos en qué pantallas puedes incluir, dónde deben ubicarse y cómo gestionar el espacio en memoria que ocupan. Estas pantallas son esenciales para mejorar la experiencia del usuario, ofrecer retroalimentación visual y garantizar un juego pulido.
 
 Básicamente, se parte de una imagen base, que puede ser creada por ti, por un artista profesional o, como haré en esta ocasión, generada mediante IA. Esta imagen se reduce al tamaño requerido en 1 bit (monocromo) con un programa de edición de imágenes, para luego ajustarla manualmente y colorearla según las limitaciones gráficas del ZX Spectrum.
 ## Las Pantallas Obligatorios

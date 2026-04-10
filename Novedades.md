@@ -141,7 +141,7 @@ Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una h
 
 A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
 
-Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③]]
+Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum (Cancelado)  🟡③]]
 
 --- column-end ---
 

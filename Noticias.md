@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-04-09T18:41:01.735Z
+modified: 2026-04-10T18:05:18.341Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 60
+ver_rev: 62
 nav_primary:
 nav_secondary:
 tags:
@@ -47,11 +47,11 @@ Border: off
 ```
 
 ![Shannon Birt está desarrollando un motor 3D para Megadrive/Génesis](_resources/3423cb6481fad9260b142dac68b05f09_MD5.jpg)
-## Shannon Birt está desarrollando un motor 3D para Megadrive/Génesis
+## Shannon Birt está desarrollando un motor 3D para Megadrive & Genesis
 
-Es estam, entre el 2D de los 16 bits y lo poligonal de los 32, que vivimos en la época, una de las fronteras técnica que más intensamente vivimos los jugadores que asistimos "en directo" a aquel gran salt evolutivo.
+Es esta, entre el 2D de los 16 bits y lo poligonal de los 32, que vivimos en la época, una de las fronteras técnica que más intensamente vivimos los jugadores que asistimos "en directo" a aquel gran salt evolutivo.
 
-Muchos de nosotros soñábamos con mundos 3D en nuestra Megadrive, convencidos de la omnipotencia de nuestra máquina favorita. Shannon Birt está tratando de llevar este sueño al mundo real con su proyecto de motor 3D, sin duda un proyecto que seguir atentamente y que de seguro nos traerá de vuelta aquellos sueños.
+Muchos de nosotros soñábamos con mundos 3D en nuestra Megadrive, convencidos de la omnipotencia de nuestra máquina favorita. Shannon Birt está tratando de llevar este sueño al mundo real con su proyecto de motor 3D, sin duda un desarrollo que seguir atentamente y que de seguro nos traerá de vuelta aquellos sueños.
 
 Puedes [seguir el proyecto en la cuenta de X de Shannon Birt 🟡③🌐](https://x.com/birt_shannon/status/2042426541096001664?s=20)
 

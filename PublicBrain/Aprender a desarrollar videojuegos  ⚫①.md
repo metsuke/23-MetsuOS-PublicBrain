@@ -106,7 +106,15 @@ Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
 Number of Columns: 2
 Border: off
 ```
+![Curso de ZX-DRAW](_resources/b71c0e9eb02b3c03130c2d15684ba993_MD5.jpg)
 
+## Curso de ZX-Draw
+
+Este manual ofrece un recorrido exhaustivo por **ZX-Draw**, una herramienta contemporánea diseñada para dominar la estética y las restricciones técnicas del Sinclair ZX Spectrum. A través de este curso, aprenderás a transformar limitaciones de hardware en decisiones artísticas.
+
+Continuar leyendo en ... [[Curso de ZX-DRAW 🔴②]]
+
+--- column-end ---
 
 ![Curso de AYEXEDIT](PublicBrain/_resources/f48c32212e31474740c2a7245104ac8a_MD5.jpg)
 ## Curso de AYFXEDIT
@@ -114,17 +122,6 @@ Border: off
 Este curso es un recurso completo y práctico sobre AYFXEDIT, un editor gratuito y de código abierto para crear efectos de sonido (SFX) en formato AYFX. Está optimizado para chips de sonido de tres canales, como el General Instrument AY-3-8910, que marcó una época en la informática retro. Con un enfoque pedagógico, combina teoría sobre computación vintage con ejercicios prácticos, perfecto para desarrolladores de juegos chiptune, fans del hardware antiguo (como ZX Spectrum, Atari ST o Amstrad CPC) y compositores de música 8-bit que buscan revivir esos sonidos nostálgicos.
 
 Continuar leyendo en ... [[Curso de AYFXEDIT 🔴②]]
-
---- column-end ---
-
-![Curso de RetroX](PublicBrain/_resources/439e1ce07b8da71e3efc938988a5ea7e_MD5.jpg)
-## Curso de Retro-X
-
-Iniciamos hoy un curso sobre **Retro-X**, una aplicación para Windows de 32 bits abandonada en 2009, diseñada para la conversión, edición y gestión de gráficos para sistemas retro de 8 bits, como ZX Spectrum, SAM Coupé, Commodore 64 (C64), Atari XL/XE, Amstrad CPC, Sprinter 2000 y otros. 
-
-El curso se fundamenta en fuentes verificadas, como el README de la versión Alpha 8, el sitio web archivado del desarrollador (LCD), repositorios como World of Spectrum y discusiones en foros especializados en retrocomputing.
-
-Contuar leyendo en [[Curso de Retro-X 🟡③]]
 
 --- column-end ---
 
@@ -159,7 +156,7 @@ Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una h
 
 A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
 
-Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③]]
+Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum (Cancelado)  🟡③]]
 
  --- column-end ---
 --- multi-column-end

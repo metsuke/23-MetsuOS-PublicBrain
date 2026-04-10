@@ -21,7 +21,7 @@ tags: []
 ![Pixel Art Attack](PublicBrain/_resources/6c9252999c9e227372e9e115988bd5d8_MD5.jpg)
 
 * [KB](https://metsuke.com/kb.html)
-* [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum  🟡③]]
+* [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum (Cancelado)  🟡③]]
 
 Esta es una sección que nace del [concepto creado por Igor Errazkin en este video  🌐🟡③](https://www.youtube.com/watch?v=r_t6IBm8-Ac), en el que muestra el paso a paso de una edición pixelart en una conversión de Amiga a ZX-Spectrum.
 

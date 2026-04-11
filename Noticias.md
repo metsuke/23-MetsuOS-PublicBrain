@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-04-10T22:35:45.723Z
+modified: 2026-04-11T22:54:38.239Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 64
+ver_rev: 65
 nav_primary:
 nav_secondary:
 tags:
@@ -79,6 +79,7 @@ Border: off
 --- column-end ---
 ## En Titulares
 
+* [A la venta MicroHobby 225 y Pixesl 14, puedes encontrarlos en nuestro quiosco 🟡③🌐](https://metsuke.com/quiosco/)
 * [[Curso de ZX-DRAW 🔴②|Debiodo al total abandono de Retro-X y ZX-Paintbrush, sus cursos quedan cancelados en favor del nuevo curso de ZX-Draw 🟡③🌐]]
 * [Se pone a la venta la segunda edición del primer número de la cuarta época de MicroMania 🟡③🌐](https://x.com/MicroManiaPapel/status/2042152322596258122?s=20)
  

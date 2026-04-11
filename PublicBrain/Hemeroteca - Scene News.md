@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:46:50.098Z
-modified: 2026-04-11T21:49:02.319Z
+modified: 2026-04-11T22:58:06.925Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -38,7 +38,7 @@ Border: off
 --- column-end ---
 
 
-![[PublicBrain/_resources/a546d5205c613175510e827dd6ee5fbd_MD5.jpg]]
+![Scene News 001](PublicBrain/_resources/a546d5205c613175510e827dd6ee5fbd_MD5.jpg)
 
 [[Hemeroteca - Scene News 001]]
 

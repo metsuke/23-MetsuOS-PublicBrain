@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-14T21:23:22.155Z
-modified: 2026-04-10T21:59:06.152Z
+modified: 2026-04-10T23:02:08.008Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 41
+ver_rev: 42
 nav_primary:
 nav_secondary:
 tags:
@@ -146,17 +146,6 @@ Dentro del marco de "Aprender a crear videojuegos", el curso pone el acento en c
 
 Continuar leyendo en [[Curso de Vortex Tracker II - Musica y sfx en videojuegos retro 🔴②]]
 
---- column-end ---
-
-
-![Curso ZXPaintbrush](PublicBrain/_resources/5a658797d47ca7cf2b9aebd464d9b10a_MD5.jpg)
-## Curso de ZX-Paintbrush
-
-Este curso te invita a sumergirte en el fascinante mundo de ZX-Paintbrush, una herramienta clásica para diseñar gráficos en el legendario ZX Spectrum. 
-
-A lo largo de los módulos, aprenderás desde los fundamentos hasta técnicas avanzadas para crear pantallas, tiles y sprites, integrándolos en tus propios juegos retro. 
-
-Continua leyendo en ... [[Curso de ZX-Paintbrush - Creación de Gráficos para ZX Spectrum (Cancelado)  🟡③]]
 
  --- column-end ---
 --- multi-column-end

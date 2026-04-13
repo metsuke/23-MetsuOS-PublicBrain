@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cd4659f6fc11c3d3",
+        "id": "e018cce36263d03a",
         "type": "tabs",
         "children": [
           {
-            "id": "b0ac03e123f1f714",
+            "id": "4fe43455c8d54795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Hemeroteca - Scene News.md",
+                "file": "Noticias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hemeroteca - Scene News"
+              "title": "Noticias"
             }
           }
         ]
@@ -202,31 +202,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b0ac03e123f1f714",
+  "active": "4fe43455c8d54795",
   "lastOpenFiles": [
+    "Index.md",
+    "PublicBrain/Hemeroteca - Scene News 002.md",
+    "PublicBrain/Hemeroteca - Scene News.md",
     "PublicBrain/Hemeroteca.md",
+    "PublicBrain/_resources/0eac0077f0909fa79cca33fe75444334_MD5.jpg",
+    "PublicBrain/RegaloPixelsUltimaGeneracion.jpg",
+    "RegaloPixelsUltimaGeneracion.jpg",
     "Noticias.md",
-    "PublicBrain/Curso de ZX-DRAW 🔴②.md",
+    "README.md",
+    "_resources/ce38e46da178747ae12b119e09fe4fb9_MD5.jpg",
+    "_resources/c3d6daa85f11d76c8d35d798396c4ece_MD5.jpg",
+    "Hemeroteca - Scene News 002.md",
+    "PublicBrain/Hemeroteca - Scene News 001.md",
     "PublicBrain/Hemeroteca - Turra News.md",
+    "_resources/9504c8d2992f2ad69359b16ad911ef63_MD5.jpg",
+    "PublicBrain/Curso de ZX-DRAW 🔴②.md",
     "PublicBrain/_resources/7677431109baea2ab4afe590e6c37ea2_MD5.jpg",
     "PublicBrain/_resources/cc618fde9847e7d2628751fed4d843fd_MD5.jpg",
     "PublicBrain/TurraNews003.jpg",
     "PublicBrain/TurraNews002.jpg",
-    "TurraNews003.jpg",
-    "PublicBrain/_resources/70a49cca942ebd323b5f490751934556_MD5.jpg",
-    "PublicBrain/_resources/8b34222f2816fcc63c7291dfee2b86f1_MD5.jpg",
     "Hemeroteca - Turra News.md",
-    "PublicBrain/Hemeroteca - Scene News.md",
-    "PublicBrain/Hemeroteca - Scene News 001.md",
-    "PublicBrain/_resources/a546d5205c613175510e827dd6ee5fbd_MD5.jpg",
-    "PublicBrain/_resources/65dc097f4edb82200de992aa9204f7d6_MD5.jpg",
     "Hemeroteca - Scene News 001.md",
-    "_resources/a546d5205c613175510e827dd6ee5fbd_MD5.jpg",
     "Hemeroteca - Scene News.md",
     "Apps.md",
     "PublicBrain/Aprender a desarrollar videojuegos  ⚫①.md",
     "KB.md",
-    "Index.md",
     "Novedades.md",
     "Curso de ZX-DRAW 🔴②.md",
     "PublicBrain/Que es Retro-X  ⚫①.md",
@@ -236,9 +239,6 @@
     "PublicBrain/Reportajes - Malasombra para NES - una nueva obra maestra de 4MHz - 2025-04-28 🟡③.md",
     "Reportajes.md",
     "PublicBrain/Análisis Psicohistórico de la Escasez de Monedas de 100 Yenes Asociada a Space Invaders  ⚫①.md",
-    "PublicBrain/Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría  ⚫①.md",
-    "PublicBrain/MiniQuest - Sobre si hubo o no escasez de monedas de 100 yenes en Japon por el exito del arcade space invaders 🔴②.md",
-    "NPL.md",
     "index.html",
     "PublicBrain/ifarchive.org/if-archive/magazines",
     "PublicBrain/ifarchive.org/if-archive",

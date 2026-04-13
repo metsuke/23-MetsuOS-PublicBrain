@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:46:50.098Z
-modified: 2026-04-11T22:58:06.925Z
+modified: 2026-04-13T20:56:45.541Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -30,9 +30,9 @@ Number of Columns: 2
 Border: off
 ```
 
-![Scene News 002](PublicBrain/_resources/65dc097f4edb82200de992aa9204f7d6_MD5.jpg)
+![Scene News 002](PublicBrain/_resources/0eac0077f0909fa79cca33fe75444334_MD5.jpg)
 
-[[Noticias|Scene News 002]]
+[[Hemeroteca - Scene News 002]]
 
 
 --- column-end ---

@@ -6,17 +6,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:01.344Z
-modified: 2024-06-10T15:26:25.927Z
+modified: 2026-04-13T20:49:27.269Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 29
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# 23-MetsuOS-PublicBrain
+# README
 
 Bueno, ya es oficial, dejo este repo en abierto, por si alguien quiere juguetear, sugerir correcciones o mejoras y como medio de aprendizaje.
 

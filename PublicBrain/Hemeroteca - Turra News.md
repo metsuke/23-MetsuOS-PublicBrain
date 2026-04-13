@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-04-11T22:00:05.188Z
+modified: 2026-04-12T05:43:14.652Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 1
+ver_rev: 2
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -57,7 +57,7 @@ Accede al contenido del hilo en ... [Turra News 002 🟡③🌐](https://x.com/R
 
 ![Turra News 001](PublicBrain/_resources/cc618fde9847e7d2628751fed4d843fd_MD5.jpg)
 
-Accede al contenido del hilo en ... [Turra News 001 🟡③🌐]()
+Accede al contenido del hilo en ... [Turra News 001 🟡③🌐](https://x.com/Recuenco/status/2027648364364312699?s=20)
 
  --- column-end ---
 --- multi-column-end

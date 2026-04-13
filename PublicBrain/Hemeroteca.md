@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-06T18:12:22.446Z
-modified: 2026-04-11T21:43:38.080Z
+modified: 2026-04-13T20:55:04.231Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 54
+ver_rev: 55
 nav_primary:
 nav_secondary:
 tags:
@@ -30,8 +30,8 @@ Number of Columns: 2
 Border: off
 ```
 
-![Scene News 002](PublicBrain/_resources/65dc097f4edb82200de992aa9204f7d6_MD5.jpg)
 
+![Scene News 002](PublicBrain/_resources/0eac0077f0909fa79cca33fe75444334_MD5.jpg)
 ## Scene News
 
 El periodico semanal con las novedades técnicas de la Scene

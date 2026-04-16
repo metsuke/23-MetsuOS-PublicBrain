@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-04-10T22:34:03.307Z
+modified: 2026-04-16T06:03:33.707Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 141
+ver_rev: 142
 nav_primary:
 nav_secondary:
 tags:
@@ -146,7 +146,12 @@ Inspirados por iniciativas como APX (Accessible Player Experiences), vamos más 
 ![Dragon Arcano Realista](_resources/dcb89824d1e26f076ea3cb218923cb57_MD5.jpeg)
 
 
+## Mirrors
 
+Dada la deriva autoritaria de diferentes gobiernos y organizaciones como la liga, he empezado a crear mirros que minimicen las opciones de censura, listo los puntos de entrada actuales a continuación:
+
+* [https://metsuke.com](https://metsuke.com)
+* [https://metsuke.github.io/web/](https://metsuke.github.io/web/)
 
 
 

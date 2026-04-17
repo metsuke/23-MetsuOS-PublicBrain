@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e018cce36263d03a",
+        "id": "c5c1b3fad8d3b1de",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe43455c8d54795",
+            "id": "5cf5624075c47595",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Noticias.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Noticias"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -202,12 +198,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4fe43455c8d54795",
+  "active": "5cf5624075c47595",
   "lastOpenFiles": [
+    "PublicBrain/Carta abierta para Cesar Astudillo - sobre datos que colapsan en forma de conocimiento y conocimiento que colapsa en forma de sabiduría  ⚫①.md",
+    "Noticias.md",
     "_resources/2ec2eabd4f0f400f24ca74878f4ed89b_MD5.jpg",
     "Captura de pantalla 2026-04-16 a las 21.53.36.png",
     "Index.md",
-    "Noticias.md",
     "_resources/5be2cf6ba1f91f83aa41b0f3bae94407_MD5.jpg",
     "ComicSceneNews003.png",
     "PublicBrain/Hemeroteca - Scene News 002.md",
@@ -224,7 +221,6 @@
     "PublicBrain/Hemeroteca - Turra News.md",
     "_resources/9504c8d2992f2ad69359b16ad911ef63_MD5.jpg",
     "PublicBrain/Curso de ZX-DRAW 🔴②.md",
-    "PublicBrain/_resources/7677431109baea2ab4afe590e6c37ea2_MD5.jpg",
     "Hemeroteca - Turra News.md",
     "Hemeroteca - Scene News 001.md",
     "Hemeroteca - Scene News.md",

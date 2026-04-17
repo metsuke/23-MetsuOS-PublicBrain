@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-04-16T06:05:28.708Z
+modified: 2026-04-17T08:51:28.414Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 72
+ver_rev: 74
 nav_primary:
 nav_secondary:
 tags:
@@ -45,7 +45,7 @@ Number of Columns: 2
 Border: off
 ```
 
-![[_resources/2ec2eabd4f0f400f24ca74878f4ed89b_MD5.jpg]]
+![El quiosco retro virtual](_resources/2ec2eabd4f0f400f24ca74878f4ed89b_MD5.jpg)
 ## Quizá si lleguen a unirse lo viejo y lo nuevo
 
 Siembre subestimo la velocidad de los cambios, me pasó con la IA, con las distintas fases de avance y retroceso social en torno a ella, y de nuevo parece que me equivoco con el momento en que nace cierto movimiento de integración entre la red y el mundo fíasico. 
@@ -62,9 +62,11 @@ Y no, no me considero periodista, ni mucho menos, solo un aprendiz de estudiante
 
 Puedes ampliar información en [el artículo de Guillermo Cid en El Confidencial 🟡③🌐](https://www.elconfidencial.com/empresas/2026-03-28/jovenes-abriendo-negocios-kiosco-extra-casa-pibe-libreria-pergamo-cbtrrptj_4328003/)
 
+--- column-end ---
+## Proximamente Linux 7 IA y Rust
+
  --- column-end ---
 --- multi-column-end
-
 
 
 --- start-multi-column: BloqueMicrohobbit01\
@@ -97,7 +99,6 @@ Border: off
 --- multi-column-end
 
 ## La tira "comica" de la semana
-
 
 ![Suirfear o comer arena](_resources/5be2cf6ba1f91f83aa41b0f3bae94407_MD5.jpg)
 

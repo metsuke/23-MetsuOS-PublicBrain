@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-03-30T08:43:18.134Z
-modified: 2026-04-09T21:48:15.289Z
+modified: 2026-04-17T16:32:44.655Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -111,10 +111,9 @@ Quizá queras revisar [[Contextos - Epistemología - El Marco de Cunningham y Fi
 * Una forma común de explicar esto es el concepto de temperatura, la temperatura no existe, es un constructo formado por la predicción probabilística del nivel energético de cada uno de los elementos que forman el sistema cuya temperatura pretendemos conocer.  ⚫①
 
 * Un ejemplo del alcance de los contextos: La tierra gira alrededor del sol o traza una trayectoria helicoidal siguiendo la "baja presion" gravitatoria del sol en su desplazamiento por el espacio o incluso podria ser percibida como un campo cuántico toroidal "cuántico" desde la perspectiva de un ser que observara desde fuera de nuestro universo, por ser este ser hipotético incapazs de determinar la posicion de la tierra, ni siquiera del sol debido a que los sucesos serían infinitamente rapidos para ese observador. ⚫①
-
 * Aunque quizá sea materia para otra investigación en física si diré que, mi modelo mental actual sobre la naturaleza del tiempo, supone que es un constructo perceptivo (un contexto mental) que nos permite interpretar los - datos sobre - cambios de entropía a nuestro alrededor y que nuestra parcepción de su velocidad más o menos acelerada es resultado de la velocidad en que dichos cambios de entropia pueden producirse y llegar a nosotros en función de la velocidad/gravedad. Seria este binomio una combinación difusa en la que incluso la gravedad, podría ser solo consecuencia del movimiento, de ahi las diferencias de "rapidez del tiempo" a velocidades relativistas, pero eso, como digo, es otra historia. ⚫①
-
 * Una reflexión sobre la alta probabilidad de la imposibilidad de afirmar que cualquier verdade sea absoluta, la coletilla "en el universo conocido", dota a la frase previa correctamente contextualizada de un grado de certeza que solemos tomar como valido en nuestro dia a dia, al tiempo que reconoce la imposibilidad práctica de conocer el alcance global de nuestra relaidad percibida y, por tanto, nos impide tomar un 100% de certeza  en cualquier caso que se plantee en el universo conocido  ⚫①
+* Un detalle importante tiene que ver con la granularidad, de igual forma que no usamos la energia de todas las particulas dentro de la olla para evaluar el estado del cocido, no todos los contextos requieren el mismo grado de precisión, es perfectamente licito asumir - dentro de un contexto - una opcion de porcentaje abrumadormente mayoritario como la verdad práctica a usar en ese contexto, el riesgo que hemos de vigilar es no confundir verdad asumida (colapsada a "True") como valor práctico de trabajo con verdad absoluta. Ni necesitamos trabajar con verdades absolutas para obtener datos y predicciones suficientemente buenas para el contexto al que vana aplicarse, ni necesitamos trabajar con verdades probabilisticas si no van a mejorar la predicción significativamente, el peligro está en simplificar sin evaluar el contexto y asumir que esa simplificacion es el "todo".
 
 ### Intermission: Las preguntas de Cesar Astudillo 
 

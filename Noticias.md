@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-04-17T08:51:28.414Z
+modified: 2026-04-17T18:34:10.819Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 74
+ver_rev: 75
 nav_primary:
 nav_secondary:
 tags:
@@ -63,7 +63,7 @@ Y no, no me considero periodista, ni mucho menos, solo un aprendiz de estudiante
 Puedes ampliar información en [el artículo de Guillermo Cid en El Confidencial 🟡③🌐](https://www.elconfidencial.com/empresas/2026-03-28/jovenes-abriendo-negocios-kiosco-extra-casa-pibe-libreria-pergamo-cbtrrptj_4328003/)
 
 --- column-end ---
-## Proximamente Linux 7 IA y Rust
+## Proximamente ¿Hall of Games?
 
  --- column-end ---
 --- multi-column-end

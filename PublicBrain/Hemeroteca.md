@@ -30,9 +30,8 @@ Number of Columns: 2
 Border: off
 ```
 
+![Scene News 003](PublicBrain/_resources/1a48664f21d3463b2e131f4b364c4b44_MD5.jpg)
 
-![Scene News 002](PublicBrain/_resources/0eac0077f0909fa79cca33fe75444334_MD5.jpg)
-## Scene News
 
 El periodico semanal con las novedades técnicas de la Scene
 

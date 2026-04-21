@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-04-12T05:43:14.652Z
+modified: 2026-04-20T05:41:31.772Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -23,14 +23,24 @@ tags: []
 
 [[Hemeroteca]]
 
-
 --- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
 Number of Columns: 2
 Border: off
 ```
 
+![Turra News 006](_resources/c65a8ef86e04babb5b470eb6a1dee9ab_MD5.jpg)
+## Turra News 006
+
+Este hilo es un ejercicio de **contrarianismo honesto** y autocrítica quirúrgica. Recuenco defiende su tesis estructural sobre la crisis del *private equity* —la pérdida de la capacidad de *turnaround*— mientras matiza el tono de interacciones previas. Es un manifiesto sobre la gestión emocional de la verdad incómoda en redes sociales.
+
+Continua leyendo en [[Hemeroteca - Turra News 006]]
+
+--- column-end ---
+
 ![Turra News](PublicBrain/_resources/95feeae56f1746fc8428c4b377803c49_MD5.jpg)
+
+## Turra News 005
 
 Accede al contenido del hilo en ... [Turra News 005 🟡③🌐](https://x.com/Recuenco/status/2042857602841796852?s=20)
 
@@ -38,6 +48,7 @@ Accede al contenido del hilo en ... [Turra News 005 🟡③🌐](https://x.com/R
  --- column-end ---
 
 ![Turra News 004](PublicBrain/_resources/8b34222f2816fcc63c7291dfee2b86f1_MD5.jpg)
+## Turra News 004
 
 Accede al contenido del hilo en ... [Turra News 004 🟡③🌐](https://x.com/Recuenco/status/2037800637933539829?s=2)
 
@@ -45,17 +56,22 @@ Accede al contenido del hilo en ... [Turra News 004 🟡③🌐](https://x.com/R
 
 ![Turra News 003](PublicBrain/_resources/70a49cca942ebd323b5f490751934556_MD5.jpg)
 
+## Turra News 003
+
 Accede al contenido del hilo en ... [Turra News 003 🟡③🌐](https://x.com/Recuenco/status/2032696505807609924?s=20)
 
 --- column-end ---
 
 ![Turra News 002](PublicBrain/_resources/7677431109baea2ab4afe590e6c37ea2_MD5.jpg)
 
+## Turra News 002
+
 Accede al contenido del hilo en ... [Turra News 002 🟡③🌐](https://x.com/Recuenco/status/2030161085941039583?s=20)
 
 --- column-end ---
 
 ![Turra News 001](PublicBrain/_resources/cc618fde9847e7d2628751fed4d843fd_MD5.jpg)
+## Turra News 001
 
 Accede al contenido del hilo en ... [Turra News 001 🟡③🌐](https://x.com/Recuenco/status/2027648364364312699?s=20)
 

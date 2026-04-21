@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-04-17T18:34:10.819Z
+modified: 2026-04-21T16:08:19.447Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 75
+ver_rev: 77
 nav_primary:
 nav_secondary:
 tags:
@@ -27,80 +27,29 @@ tags:
 
 ## Scene News
 
-> Año 1 - número 3 - 13/04/2026 a 19/04/2026
+> Año 1 - número 4 - 20/04/2026 a 26/04/2026
 
 
-![Jose Luis Sanz anuncia en directo que, la revista Ultima Generación, NO vuelve, pero nos da una de arena](_resources/c3d6daa85f11d76c8d35d798396c4ece_MD5.jpg)
-## Jose Luis Sanz anuncia en directo que, la revista Ultima Generación, NO vuelve, pero nos da una de arena
+![Neo Vatio](_resources/5c91b782f2f23846511b67aadee5dd43_MD5.jpg)
+## JMV inicia rondas de negociación: Neo Vatio busca el trono de la nueva NEOGEO AES
 
-Hoy lunes se nos han dado una interesante alegría al desvelar la nu... estoooo el regalo que vamos a recibir aquellos que compramos asiduamente Pixels, una edición especial actualidad de Ultima Generación, y NO, ya hablando en serio, no es que la revista vuelva (por ahora), sino que es la forma que tieenen desde el equipo de Pixels y que recibimos con grán ilusión.
+Ya [[Hemeroteca - Scene News 001|comentábamos en fechas recientes sobre el contrato de exclusividad]] que **Neo Vatio** había firmado con **JMV** para la gestión de su imagen y derechos de explotación. En esta ocasión, y coincidiendo con [[Hemeroteca - Scene News 003]], el agente ha movido ficha rápidamente.
 
-En el video del directo de hoy, y en sus redes sociales, puedes acceder a las condiciones necesarias para recibirlo, mirad sobre todo el video, porque quizá te pueda interesar "Ponerte al dia"...
+**JMV**, actuando como representante legal y portavoz del carismático personaje, ha postulado formalmente a Neo Vatio como la **imagen oficial** del sistema. Según fuentes cercanas al "agente", el perfil de Vatio encaja perfectamente con el estándar de lujo y potencia que siempre ha definido a la consola de SNK.
 
-Informate en [el directo de hoy lunes en YT 🟡③🌐](https://www.youtube.com/watch?v=Mqcf8V932pw)
+### Los puntos clave de la "negociación":
 
---- start-multi-column: BloqueMicrohobbit01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
+- **Sinatgia de Marca:** JMV sostiene que el nombre "Neo Vatio" no es una coincidencia, sino un destino. La unión comercial con NeoGeo AES supondría el mayor 'crossover' de la historia del _home arcade_.
+    
+- **Exigencias del Contrato:** Se rumorea que las cláusulas incluyen el suministro ilimitado de energía para el personaje y un píxel de oro de 24 quilates en cada sprite.
+    
+- **Posicionamiento:** JMV busca que su representado no solo sea un rostro en la caja, sino que el sistema reconozca a Neo Vatio como su "espíritu eléctrico" residente.
+    
+> "Neo Vatio no es solo un personaje, es un estilo de vida de 16 bits y 330 megas", habría declarado JMV en la primera toma de contacto con los directivos.
 
-![El quiosco retro virtual](_resources/2ec2eabd4f0f400f24ca74878f4ed89b_MD5.jpg)
-## Quizá si lleguen a unirse lo viejo y lo nuevo
+Por ahora, **PlayOnRetro** no ha emitido un comunicado oficial, pero el sector respira una tensión eléctrica. ¿Veremos finalmente el logo de la compañía flanqueado por la inconfundible silueta creada por JMV? La moneda está en el aire (y es de 100 pesetas).
 
-Siembre subestimo la velocidad de los cambios, me pasó con la IA, con las distintas fases de avance y retroceso social en torno a ella, y de nuevo parece que me equivoco con el momento en que nace cierto movimiento de integración entre la red y el mundo fíasico. 
-
-No puedo estar mas contento con dicho movimiento incipiente, coincidiendo como rumores sobre la [transformacion de revistas relevantes en puro papel 🟡③🌐](https://pronto.es/) y de la salida - como veniomos compartiendo en el quiosco retro - de [publicaciones mixtas fisico y digital en el mundo del videojuego retro  🟡③🌐](https://metsuke.com/quiosco)
-
-Y dentro de este movimiento, gracias a Guillermo Cid, asisto a un nuevo capítulo de este movimiento que consolida futuro pasado y sentido común, y en este capñitulo, cuando en lo personal había perdido del todo la confianza en el periodismo español, por haberse vuelto evidente propaganda, surgen algunos habitantes de una aldea gala que, de la mano de Panoramix, aún osan investigar y sobre todo, presionar al poder para mantenerlo a raya.
-
-Es este un periodismo que, más allá de estar formado por cabeceras, está formado por personas que trabajan en varias de estas cabeceras y cuya trayectoria y etica, parecen apoyar un renacimiento del verdadero periodismo, tras unos años de absoluta ignominia.
-
-Es por ello que, del mismo modo que apoyo las publicaciones que comparto en el quiosco, y aprovechando como excusa el artículo que enlazo debao - y alguino más que enlaza en el - , junto con una oferta de suscripcion de prueba trimestral que es imposible rechazar, que - como dije antes contra todo pronóstico - me he suscrito a El Confidencial, cuando menos, para dar la oportunidad de que su labor dependa un poco menos de las inversiones de los anunciantes.
-
-Y no, no me considero periodista, ni mucho menos, solo un aprendiz de estudiante de cronista de su propio mundo.
-
-Puedes ampliar información en [el artículo de Guillermo Cid en El Confidencial 🟡③🌐](https://www.elconfidencial.com/empresas/2026-03-28/jovenes-abriendo-negocios-kiosco-extra-casa-pibe-libreria-pergamo-cbtrrptj_4328003/)
-
---- column-end ---
-## Proximamente ¿Hall of Games?
-
- --- column-end ---
---- multi-column-end
-
-
---- start-multi-column: BloqueMicrohobbit01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-
-# Noticias Breves
-
-* [Se anuncia NEOGEO AES+ cero emulacion todo cartucho  🟡③🟡③](https://x.com/NEOGEO_JP/status/2044793121096290735?s=20) - Parece que se lanza el 12 de Noviembre y que habrá 10 juegos. desalida, a más de futuras reediciones de clásicos. ¡Quizá más de un desarrollador se plantee lanzar en esa plataforma!
-* [A la venta el número 2 de la cuarta época de MicroManía  🟡③🌐](https://metsuke.com/quiosco/) - Y viene con portador de Space Moves una de las novedades de Dinamic, que incluye versión Amiga. No os perdais la demo exclusiva. ¡Podeis acceder a través de nuestro quiosco!
-* [Próximamente, curso sobre Zesarux en MetsuOS  🟡③🌐](https://x.com/zesarux/status/2043745852909392371?s=20) - Ya tenía claro que para ejecución local GNU Fan, Zesarux tiene que ser el emulador de elección para Speccy*.* pero tras ver lo de las caratulas, y teniendo pendiente aún explorar su relación con el lector de pantalla, amerita un curso en profundidad sobre el emulador, al mismo tiempo que aprendo a exprimirlo e integrarlo con MOS 2.
-
- --- column-end ---
-
-## En Titulares
-
-* [Javier Fopiani inicia un proyecto de motor de aventuras con graficos y textos a toda pantalla, en ensamblador, cuyo progreso será interesante seguir  🟡③🌐](https://x.com/metsuke/status/2044478488611020926?s=20)
-* [SDL3 libreria que permite controlar hardware para videojuegos, incluye soporte para MS-DOS 🟡③🌐](https://www.generationamiga.com/2026/04/13/sdl3-dos-port-brings-modern-cross-platform-development-to-classic-ms-dos/)
-* [Nuevo Mirror de Metsulke.com en GitHub Pages 🟡③🌐](https://metsuke.github.io/web/noticias.html)
-
---- column-end ---
-
-## El Directorio
-
-* [SDL en GitHub 🟡③🌐](https://github.com/libsdl-org/SDL)
-
- --- column-end ---
---- multi-column-end
-
-## La tira "comica" de la semana
-
-![Suirfear o comer arena](_resources/5be2cf6ba1f91f83aa41b0f3bae94407_MD5.jpg)
+Puedes saber más en [el anuncio oficial de JMV   🟡③🌐](https://x.com/YedaiJamao/status/2046260404641313260?s=20)
 
 
 ![[Plantilla - 1MT#One More Thing]]

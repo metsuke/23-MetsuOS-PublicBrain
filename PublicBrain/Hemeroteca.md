@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-06T18:12:22.446Z
-modified: 2026-04-13T20:55:04.231Z
+modified: 2026-04-20T05:41:31.771Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 55
+ver_rev: 61
 nav_primary:
 nav_secondary:
 tags:
@@ -40,8 +40,7 @@ Continuar explorando en [[Hemeroteca - Scene News]]
 
  --- column-end ---
 
-![Turra News](PublicBrain/_resources/95feeae56f1746fc8428c4b377803c49_MD5.jpg)
-
+![Turra News 006](_resources/c65a8ef86e04babb5b470eb6a1dee9ab_MD5.jpg)
 ## Turra News
 
 El Seguimiento semanal de los hilos turra de Javier G. Recuenco
@@ -50,8 +49,6 @@ Continuar explorando en [[Hemeroteca - Turra News]]
 
  --- column-end ---
 --- multi-column-end
-
-
 
 
 

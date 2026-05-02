@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-04-10T21:56:18.609Z
+modified: 2026-05-02T15:54:21.280Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 180
+ver_rev: 184
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,28 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+
+
+![SDD Today 000](_resources/e9578406a63ecd157c73cc582170c983_MD5.jpg)
+
+## Desarrollo - Curso sobre Spec Driven Development 
+
+Este programa formativo profundiza en la metodología que sitúa a la especificación técnica como el motor central del ciclo de vida del software, garantizando la coherencia entre el diseño y la implementación final.
+
+Continua leyendo en ... [[Curso sobre Spec Driven Development  🟡③]]
+
+--- column-end ---
+
+![Psicohistory Today Plastico Negro Cocina](PublicBrain/_resources/d289fdf4919c3b1e904fa93f22ef6a2d_MD5.jpg)
+
+## Blog - El "Pánico Bromado" Un Análisis Psicohistórico de la Campaña contra el Plástico Negro en la Cocina (2024-2026)
+
+A mediados de la década de 2020, la sociedad occidental, ya sensibilizada por la crisis climática y una creciente quimiofobia, experimentó un nuevo y viral "pánico alimentario". Esta vez, el objeto del miedo no era un ingrediente, sino una herramienta omnipresente: el utensilio de cocina de plástico negro. Espátulas, cucharas y espumaderas, antes símbolos de modernidad y limpieza profesional, se convirtieron de la noche a la mañana en presuntos vectores de intoxicación masiva.
+
+Continua leyendo en ... [[El "Pánico Bromado" Un Análisis Psicohistórico de la Campaña contra el Plástico Negro en la Cocina (2024-2026) 🟡③]]
+
+--- column-end ---
 
 ![Curso de ZX-DRAW](_resources/b71c0e9eb02b3c03130c2d15684ba993_MD5.jpg)
 
@@ -48,19 +70,10 @@ Continua leyendo en ... [[Curso sobre Administración de un Negocio Automatizado
 
 --- column-end ---
 
-![Curso e introducción técnica sobre  MCL (MetsuOS Context Language)](_resources/7206855ce31fcc3bc33e609ee721c532_MD5.jpg)
-
-## Desarrollo - Curso e introducción técnica sobre  MCL (MetsuOS Context Language)
-
-**MCL** (MetsuOS Context Language) es un lenguaje de programación de alto nivel con sintaxis natural que convierte el **contexto** en una entidad de primera clase a lo largo de todo el ciclo de vida del software: desde el diseño y la compilación hasta la ejecución.
-
-Continua leyendo en ... [[Curso e introducción técnica sobre  MCL (MetsuOS Context Language) 🟡③]]
-
---- column-end ---
 
 ![Curso Historia Mundial de los Videojuegos de Aventura 002 - Subgeneros principales](PublicBrain/_resources/49924154210fa7e4e1b8fd9292c6f1a0_MD5.jpg)
 
-### Videojuegos Aventura - Historia Mundial de los videojuegos de aventura Subgéneros Principales
+## Videojuegos Aventura - Historia Mundial de los videojuegos de aventura Subgéneros Principales
 
 Los subgéneros, en el mundo de los videojuegos de aventura, no son meras etiquetas técnicas: son el pulso vivo de cómo la tecnología, la cultura y la imaginación humana han transformado este género desde sus humildes orígenes experimentales hasta convertirse en una de las formas más poderosas de contar historias interactivas. 
 
@@ -69,7 +82,7 @@ Continua leyendo en ... [[Curso Historia Mundial de los Videojuegos de Aventura 
 --- column-end ---
 
 ![Epistemología - La Arquitectura del Saber Científico](_resources/3f5b4ce4dbda4b7802a08aa38630fb89_MD5.jpg)
-### Epistemología como arquitectura del saber científico
+## Epistemología como arquitectura del saber científico
 
 La **epistemología** no es simplemente una rama de la filosofía; es el "sistema de control de calidad" del pensamiento humano. Etimológicamente derivada del griego _episteme_ (conocimiento sólido) y _logos_ (estudio o tratado), su propósito en la ciencia contemporánea es auditar cómo pasamos de una mera suposición a una verdad universalmente aceptada.
 
@@ -98,15 +111,6 @@ Continuar leyendo en ... [[Curso Publicacion de Contenido Editorial como Aventur
 Este proyecto busca crear una base de datos completa y detallada de libros, revistas, juegos, autores, desarrolladores, diseñadores, grafistas, compañias, eventos y, en general todo lo relacionado con la historia del videojuego.
 
 Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
-
---- column-end ---
-
-![Blog El Archivero del Retro](_resources/a1cf3e2db2af68d01ac275cd53fdf59f_MD5.jpg)
-## Blog - El Archivero del Retro
-
-Es esta una parte del proyecto que tenia reservada para más adelante, pero la "actualidad" manda, es hora de aprovechar mi fondo en cuanto a cds y disquettes para aportar mi minúsculo grano de arena en este mundillo retro tan activo en nuestros dias.
-
-Continua leyendo en ... [[Blog - El Archivero del Retro  ⚫①]]
 
 --- column-end ---
 

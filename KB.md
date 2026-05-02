@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-03-29T09:47:29.316Z
+modified: 2026-05-02T15:37:47.248Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 84
+ver_rev: 95
 nav_primary:
 nav_secondary:
 tags:
@@ -129,6 +129,16 @@ Continua leyendo en ... [[Aprender sobre Desarrollo de Software 🟡③]]
 Este curso propone un viaje técnico desde la rigidez de una estructura base inamovible hasta la fluidez estética de las efemérides. Aprenderemos a diseñar interfaces que "recuerdan" fechas especiales, mutando su piel sin comprometer la semántica ni la accesibilidad para ningún usuario.
 
 Continua leyendo en ... [[Curso Estructura de CSS Dinámico con Efemérides 🟡③]]
+
+--- column-end ---
+
+![SDD Today 000](_resources/e9578406a63ecd157c73cc582170c983_MD5.jpg)
+
+## Curso sobre Spec Driven Development 
+
+Este programa formativo profundiza en la metodología que sitúa a la especificación técnica como el motor central del ciclo de vida del software, garantizando la coherencia entre el diseño y la implementación final.
+
+Continua leyendo en ... [[Curso sobre Spec Driven Development  🟡③]]
 
  --- column-end ---
 --- multi-column-end

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-04-20T05:41:31.772Z
+modified: 2026-04-28T20:19:38.616Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 9
+ver_rev: 18
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -29,6 +29,15 @@ Number of Columns: 2
 Border: off
 ```
 
+![Turra News 007](_resources/250c7409a2ff1c210bde482e47e4d3e9_MD5.jpg)
+## Turra News 007
+
+Este hilo turras de Javier G. Recuenco nos sumerge en la psicología, la mitología y la práctica real de aquellos proyectos que parecen imposibles: desde expediciones antárticas hasta giros radicales en empresas o avances científicos revolucionarios.
+
+Continua leyendo en ... [[Hemeroteca - Turra News 007]]
+
+--- column-end ---
+
 ![Turra News 006](_resources/c65a8ef86e04babb5b470eb6a1dee9ab_MD5.jpg)
 ## Turra News 006
 
@@ -42,7 +51,9 @@ Continua leyendo en [[Hemeroteca - Turra News 006]]
 
 ## Turra News 005
 
-Accede al contenido del hilo en ... [Turra News 005 🟡③🌐](https://x.com/Recuenco/status/2042857602841796852?s=20)
+En este hilo, Recuenco explora el gesto más radical y personal que existe: desconectarse conscientemente del sistema (social, económico, psicológico y hasta ontológico) cuando este se vuelve incompatible con la propia experiencia de la realidad...
+
+Accede al contenido del hilo en [[Hemeroteca - Turra News 005]]
 
 
  --- column-end ---

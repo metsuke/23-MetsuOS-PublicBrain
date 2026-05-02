@@ -1,17 +1,20 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Grok, Raul Carrillo aka metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2026-04-19T05:33:18.108Z
-modified: 2026-04-19T16:30:12.737Z
+modified: 2026-04-28T22:12:17.449Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 1
+ver_minor: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []

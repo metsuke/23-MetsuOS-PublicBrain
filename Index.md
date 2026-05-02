@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-04-16T06:03:33.707Z
+modified: 2026-05-02T15:55:40.043Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 142
+ver_rev: 146
 nav_primary:
 nav_secondary:
 tags:
@@ -54,10 +54,11 @@ Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
 
 --- column-end ---
 
-![Blog El Archivero del Retro](_resources/a1cf3e2db2af68d01ac275cd53fdf59f_MD5.jpg)
-### Blog - El Archivero del Retro
 
-Continua leyendo en ... [[Blog - El Archivero del Retro  ⚫①]]
+![Psicohistory Today Plastico Negro Cocina](PublicBrain/_resources/d289fdf4919c3b1e904fa93f22ef6a2d_MD5.jpg)
+### Blog - El "Pánico Bromado" Un Análisis Psicohistórico de la Campaña contra el Plástico Negro en la Cocina (2024-2026)
+
+Continua leyendo en ... [[El "Pánico Bromado" Un Análisis Psicohistórico de la Campaña contra el Plástico Negro en la Cocina (2024-2026) 🟡③]]
 
 --- column-end ---
 
@@ -69,16 +70,16 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 --- column-end ---
 
 
-![Curso e introducción técnica sobre  MCL (MetsuOS Context Language)](_resources/7206855ce31fcc3bc33e609ee721c532_MD5.jpg)
+![SDD Today 000](_resources/e9578406a63ecd157c73cc582170c983_MD5.jpg)
 
-### Desarrollo - Curso e introducción técnica sobre  MCL (MetsuOS Context Language)
+### Desarrollo - Curso sobre Spec Driven Development 
 
-Continua leyendo en ... [[Curso e introducción técnica sobre  MCL (MetsuOS Context Language) 🟡③]]
+Continua leyendo en ... [[Curso sobre Spec Driven Development  🟡③]]
 
 --- column-end ---
 
 ![Epistemología - La Arquitectura del Saber Científico](_resources/3f5b4ce4dbda4b7802a08aa38630fb89_MD5.jpg)
-#### Epistemología como arquitectura del saber científico
+### Epistemología como arquitectura del saber científico
 
 Continua leyendo en ... [[Epistemología - La Arquitectura del Saber Científico 🟡③]]
 

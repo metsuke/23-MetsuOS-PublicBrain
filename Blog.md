@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-03-22T04:43:02.535Z
+modified: 2026-05-01T17:57:08.500Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 39
+ver_rev: 48
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,17 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Psicohistory Today Plastico Negro Cocina](PublicBrain/_resources/d289fdf4919c3b1e904fa93f22ef6a2d_MD5.jpg)
+
+## El "Pánico Bromado" Un Análisis Psicohistórico de la Campaña contra el Plástico Negro en la Cocina (2024-2026)
+
+A mediados de la década de 2020, la sociedad occidental, ya sensibilizada por la crisis climática y una creciente quimiofobia, experimentó un nuevo y viral "pánico alimentario". Esta vez, el objeto del miedo no era un ingrediente, sino una herramienta omnipresente: el utensilio de cocina de plástico negro. Espátulas, cucharas y espumaderas, antes símbolos de modernidad y limpieza profesional, se convirtieron de la noche a la mañana en presuntos vectores de intoxicación masiva.
+
+Continua leyendo en ... [[El "Pánico Bromado" Un Análisis Psicohistórico de la Campaña contra el Plástico Negro en la Cocina (2024-2026) 🟡③]]
+
+
+--- column-end ---
 
 ![Blog El Archivero del Retro](_resources/a1cf3e2db2af68d01ac275cd53fdf59f_MD5.jpg)
 ## El Archivero del Retro

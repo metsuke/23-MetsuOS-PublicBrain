@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-05-02T15:55:40.043Z
+modified: 2026-05-11T21:11:27.009Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 146
+ver_rev: 157
 nav_primary:
 nav_secondary:
 tags:
@@ -30,6 +30,22 @@ MOS_TopImg_Video: PortadaMetsukeCom.mp4
 Number of Columns: 2
 Border: off
 ```
+
+	
+![Scene News 004](PublicBrain/_resources/4a08407b8f24a43082abe38d4ca2195c_MD5.jpg)
+
+### Scene News 004
+
+Continua leyendo en ... [[Hemeroteca - Scene News 004]]
+
+--- column-end ---
+
+![Turra News 008](PublicBrain/_resources/f7f905123c1111a969aca64820eb6123_MD5.jpg)
+### Turra News 008
+
+Continua leyendo en ... [[Hemeroteca - Turra News 008 🟡③]]
+
+--- column-end ---
 
 ![Arte generativo inspirado en la loading scren del juego](_resources/9f04cadb874aa99346d0f7d326ab18ad_MD5.jpg)
 ### Reportajes - Lanzamiento de  Perseus para ZX Spectrum 128K: Una aventura épica impulsada por el motor Tuerkas128
@@ -69,12 +85,11 @@ Continuar leyendo en ... [[Conceptos básicos sobre ciencia y su evolución hist
 
 --- column-end ---
 
+![Introducción al paradigma Spec-Driven Development ](_resources/1e28b26318989cc757e9a356ef20ef61_MD5.jpg)
 
-![SDD Today 000](_resources/e9578406a63ecd157c73cc582170c983_MD5.jpg)
+### Desarrollo - Introducción al paradigma Spec-Driven Development: más allá del código
 
-### Desarrollo - Curso sobre Spec Driven Development 
-
-Continua leyendo en ... [[Curso sobre Spec Driven Development  🟡③]]
+Continua leyendo en ... [[Curso SDD 001 - Introducción al paradigma Spec-Driven Development - más allá del código 🟡③]]
 
 --- column-end ---
 

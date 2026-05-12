@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-30T05:54:37.449Z
-modified: 2026-05-02T17:59:10.604Z
+modified: 2026-05-11T20:41:31.040Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -25,17 +25,34 @@ tags: []
 
 [[KB]]
 
-> OJO WIP
-> 
 Este programa formativo profundiza en la metodología que sitúa a la especificación técnica como el motor central del ciclo de vida del software, garantizando la coherencia entre el diseño y la implementación final.
 
 ## Módulo 1: Fundamentos y Filosofía del SDD
 
-- Introducción al paradigma Spec-Driven Development: más allá del código.
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Introducción al paradigma Spec-Driven Development ](_resources/1e28b26318989cc757e9a356ef20ef61_MD5.jpg)
+
+### Introducción al paradigma Spec-Driven Development: más allá del código
+
+El **Desarrollo Impulsado por Especificaciones** (Spec-Driven Development o SDD) propone un cambio de paradigma en el ciclo de vida del software. En lugar de considerar la documentación como un subproducto del código, el SDD sitúa a la **especificación como el artefacto primario y la "única fuente de verdad"**.
+
+Continua leyendo en ... [[Curso SDD 001 - Introducción al paradigma Spec-Driven Development - más allá del código 🟡③]]
+
+ --- column-end ---
+
 - Análisis comparativo: SDD frente a TDD (Test Driven) y BDD (Behavior Driven).
 - La Verdad Única (Single Source of Truth): el rol de la especificación como contrato vinculante.
 - Mitigación del "Drift": cómo evitar la divergencia entre el diseño y la realidad técnica.
 - Cultura de diseño previo: el valor de definir antes de construir.
+
+ --- column-end ---
+--- multi-column-end
+
 ## Módulo 2: Estándares de Especificación y Protocolos Modernos
 
 - Dominio de OpenAPI Specification (OAS) para servicios RESTful.

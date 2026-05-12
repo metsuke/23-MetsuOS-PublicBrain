@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-05-02T15:54:21.280Z
+modified: 2026-05-11T21:11:27.046Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 184
+ver_rev: 195
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,14 +30,22 @@ Border: off
 ```
 
 
+![Introducción al paradigma Spec-Driven Development ](_resources/1e28b26318989cc757e9a356ef20ef61_MD5.jpg)
 
-![SDD Today 000](_resources/e9578406a63ecd157c73cc582170c983_MD5.jpg)
+## Desarrollo - Introducción al paradigma Spec-Driven Development: más allá del código
 
-## Desarrollo - Curso sobre Spec Driven Development 
+El **Desarrollo Impulsado por Especificaciones** (Spec-Driven Development o SDD) propone un cambio de paradigma en el ciclo de vida del software. En lugar de considerar la documentación como un subproducto del código, el SDD sitúa a la **especificación como el artefacto primario y la "única fuente de verdad"**.
 
-Este programa formativo profundiza en la metodología que sitúa a la especificación técnica como el motor central del ciclo de vida del software, garantizando la coherencia entre el diseño y la implementación final.
+Continua leyendo en ... [[Curso SDD 001 - Introducción al paradigma Spec-Driven Development - más allá del código 🟡③]]
 
-Continua leyendo en ... [[Curso sobre Spec Driven Development  🟡③]]
+--- column-end ---
+
+![Turra News 008](PublicBrain/_resources/f7f905123c1111a969aca64820eb6123_MD5.jpg)
+## Turra News 008
+
+En este hilo turras del 2 de mayo de 2026, Javier G. Recuenco (@Recuenco) despliega una alegoría política y profundamente humana: la eterna tensión entre Charles Xavier y Magneto, aplicada al gran “asunto mutante” del siglo XXI: la neurodivergencia (autismo, TDAH, dislexia, altas capacidades y las dobles o triples excepcionalidades).  
+
+Continua leyendo en ... [[Hemeroteca - Turra News 008 🟡③]]
 
 --- column-end ---
 

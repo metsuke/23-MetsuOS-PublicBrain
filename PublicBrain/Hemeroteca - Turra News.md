@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-04-28T20:19:38.616Z
+modified: 2026-05-11T21:11:57.240Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 18
+ver_rev: 32
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -29,12 +29,28 @@ Number of Columns: 2
 Border: off
 ```
 
+## Turra News 009
+
+Continua leyendo en ... [[Hemeroteca - Turra News 009 ⚫①]]
+
+
+--- column-end ---
+
+![Turra News 008](PublicBrain/_resources/f7f905123c1111a969aca64820eb6123_MD5.jpg)
+## Turra News 008
+
+En este hilo turras del 2 de mayo de 2026, Javier G. Recuenco (@Recuenco) despliega una alegoría política y profundamente humana: la eterna tensión entre Charles Xavier y Magneto, aplicada al gran “asunto mutante” del siglo XXI: la neurodivergencia (autismo, TDAH, dislexia, altas capacidades y las dobles o triples excepcionalidades).  
+
+Continua leyendo en ... [[Hemeroteca - Turra News 008 🟡③]]
+
+--- column-end ---
+
 ![Turra News 007](_resources/250c7409a2ff1c210bde482e47e4d3e9_MD5.jpg)
 ## Turra News 007
 
 Este hilo turras de Javier G. Recuenco nos sumerge en la psicología, la mitología y la práctica real de aquellos proyectos que parecen imposibles: desde expediciones antárticas hasta giros radicales en empresas o avances científicos revolucionarios.
 
-Continua leyendo en ... [[Hemeroteca - Turra News 007]]
+Continua leyendo en ... [[Hemeroteca - Turra News 007 🟡③]]
 
 --- column-end ---
 
@@ -43,7 +59,7 @@ Continua leyendo en ... [[Hemeroteca - Turra News 007]]
 
 Este hilo es un ejercicio de **contrarianismo honesto** y autocrítica quirúrgica. Recuenco defiende su tesis estructural sobre la crisis del *private equity* —la pérdida de la capacidad de *turnaround*— mientras matiza el tono de interacciones previas. Es un manifiesto sobre la gestión emocional de la verdad incómoda en redes sociales.
 
-Continua leyendo en [[Hemeroteca - Turra News 006]]
+Continua leyendo en [[Hemeroteca - Turra News 006 🟡③]]
 
 --- column-end ---
 
@@ -53,7 +69,7 @@ Continua leyendo en [[Hemeroteca - Turra News 006]]
 
 En este hilo, Recuenco explora el gesto más radical y personal que existe: desconectarse conscientemente del sistema (social, económico, psicológico y hasta ontológico) cuando este se vuelve incompatible con la propia experiencia de la realidad...
 
-Accede al contenido del hilo en [[Hemeroteca - Turra News 005]]
+Continua leyendo en [[Hemeroteca - Turra News 005 🟡③]]
 
 
  --- column-end ---
@@ -84,7 +100,9 @@ Accede al contenido del hilo en ... [Turra News 002 🟡③🌐](https://x.com/R
 ![Turra News 001](PublicBrain/_resources/cc618fde9847e7d2628751fed4d843fd_MD5.jpg)
 ## Turra News 001
 
-Accede al contenido del hilo en ... [Turra News 001 🟡③🌐](https://x.com/Recuenco/status/2027648364364312699?s=20)
+En este hilo de su serie característica “turras”, Javier G. Recuenco explora el perfil neurocognitivo de personas con rasgos autistas de alto funcionamiento (principalmente nivel 1, antes conocido como Asperger) combinados con altas capacidades intelectuales (doble excepcionalidad). Distingue entre el “autista bueno”, orientado a la creación, la verdad y el progreso civilizatorio, y el “autista malo”, que canaliza sus habilidades hacia la destrucción o la acumulación de poder sin límites éticos claros. 
+
+Continua leyendo en [[Hemeroteca - Turra News 001 🟡③]]
 
  --- column-end ---
 --- multi-column-end

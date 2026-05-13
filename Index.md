@@ -40,10 +40,10 @@ Continua leyendo en ... [[Hemeroteca - Scene News 004]]
 
 --- column-end ---
 
-![Turra News 008](PublicBrain/_resources/f7f905123c1111a969aca64820eb6123_MD5.jpg)
-### Turra News 008
+![Turra News 009](PublicBrain/_resources/4d357c4f6233d30d66937906e13601b8_MD5.jpg)
+### Turra News 009
 
-Continua leyendo en ... [[Hemeroteca - Turra News 008 🟡③]]
+Continua leyendo en ... [[Hemeroteca - Turra News 009 🟡③]]
 
 --- column-end ---
 

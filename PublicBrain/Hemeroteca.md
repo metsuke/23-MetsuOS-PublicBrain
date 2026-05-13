@@ -38,7 +38,7 @@ Continuar explorando en [[Hemeroteca - Scene News]]
 
  --- column-end ---
 
-![Turra News 008](PublicBrain/_resources/f7f905123c1111a969aca64820eb6123_MD5.jpg)
+![Turra News 009](PublicBrain/_resources/4d357c4f6233d30d66937906e13601b8_MD5.jpg)
 ## Turra News
 
 El Seguimiento semanal de los hilos turra de Javier G. Recuenco

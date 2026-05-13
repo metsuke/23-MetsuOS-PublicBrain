@@ -30,6 +30,15 @@ Border: off
 ```
 
 
+![Turra News 009](PublicBrain/_resources/4d357c4f6233d30d66937906e13601b8_MD5.jpg)
+## Turra News 009
+
+En este hilo turras del sábado 9 de mayo de 2026, Javier G. Recuenco deja a un lado su humor habitual y sus memes para lanzar un manifiesto claro y urgente sobre el colapso del sistema educativo español. 
+
+Continua leyendo en ... [[Hemeroteca - Turra News 009 🟡③]]
+
+--- column-end ---
+
 ![Introducción al paradigma Spec-Driven Development ](_resources/1e28b26318989cc757e9a356ef20ef61_MD5.jpg)
 
 ## Desarrollo - Introducción al paradigma Spec-Driven Development: más allá del código
@@ -37,15 +46,6 @@ Border: off
 El **Desarrollo Impulsado por Especificaciones** (Spec-Driven Development o SDD) propone un cambio de paradigma en el ciclo de vida del software. En lugar de considerar la documentación como un subproducto del código, el SDD sitúa a la **especificación como el artefacto primario y la "única fuente de verdad"**.
 
 Continua leyendo en ... [[Curso SDD 001 - Introducción al paradigma Spec-Driven Development - más allá del código 🟡③]]
-
---- column-end ---
-
-![Turra News 008](PublicBrain/_resources/f7f905123c1111a969aca64820eb6123_MD5.jpg)
-## Turra News 008
-
-En este hilo turras del 2 de mayo de 2026, Javier G. Recuenco (@Recuenco) despliega una alegoría política y profundamente humana: la eterna tensión entre Charles Xavier y Magneto, aplicada al gran “asunto mutante” del siglo XXI: la neurodivergencia (autismo, TDAH, dislexia, altas capacidades y las dobles o triples excepcionalidades).  
-
-Continua leyendo en ... [[Hemeroteca - Turra News 008 🟡③]]
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-05-11T20:59:41.939Z
+modified: 2026-05-12T21:50:21.763Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 97
+ver_rev: 100
 nav_primary:
 nav_secondary:
 tags:
@@ -79,7 +79,7 @@ Dizqueeee como el sol cuando amaneceeeee ...
 
 ## Un tebeo, medio limón
 
-
+![Comic El Bucle de los 8 Bits](_resources/3652959b11c4f32e10da44f356b5c618_MD5.jpg)
 
 
 ![[Plantilla - 1MT#One More Thing]]

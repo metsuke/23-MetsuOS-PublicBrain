@@ -29,9 +29,13 @@ Number of Columns: 2
 Border: off
 ```
 
+![Turra News 009](PublicBrain/_resources/4d357c4f6233d30d66937906e13601b8_MD5.jpg)
+
 ## Turra News 009
 
-Continua leyendo en ... [[Hemeroteca - Turra News 009 ⚫①]]
+En este hilo turras del sábado 9 de mayo de 2026, Javier G. Recuenco deja a un lado su humor habitual y sus memes para lanzar un manifiesto claro y urgente sobre el colapso del sistema educativo español. 
+
+Continua leyendo en ... [[Hemeroteca - Turra News 009 🟡③]]
 
 
 --- column-end ---

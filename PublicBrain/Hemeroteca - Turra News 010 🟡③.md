@@ -9,17 +9,19 @@ checked: 0
 lang: ES
 translations:
 created: 2026-05-16T20:54:34.497Z
-modified: 2026-05-18T05:33:37.627Z
+modified: 2026-05-18T12:58:10.746Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Hemeroteca - Turra News 010 🔴②
+# Hemeroteca - Turra News 010 🟡③
+
+![Turra News 010](PublicBrain/_resources/07e11279ba55ed2cc27abb22fbf0e116_MD5.jpg)
 
 [[Hemeroteca - Turra News]] | [Hilo Turra de 16/05/2026 🟡③🌐](https://x.com/Recuenco/status/2055523188407193998?s=20)
 
@@ -54,7 +56,7 @@ El argumento central del hilo es claro y estructurado: el trípode que sostenía
 
 El hilo enlaza directamente con su arco educativo anterior y refuerza su visión: las instituciones lentas mueren cuando la tecnología acelera.
 
-Corolario: En lo personal, y en este contexto, apunto directamente a la necesidad de articular el conocimiento fuera del contexto del ego y centrar el valor del individuo en la capacidad de gestionar una liminalidad absolutamente radical, orquestando dicho conocimiento más allá que la suma de sus partes, como ventaja competitiva. Es algo que - si no me equivoco - también percibo entre lineas en la filosofía planteada por Recuenco pero que desconozco si ha explicitado en algún momento.
+> Corolario: Personalmente, y en este contexto, apunto directamente a la necesidad de articular el conocimiento fuera del contexto del ego y centrar el valor del individuo en la capacidad de gestionar una liminalidad absolutamente radical, orquestando dicho conocimiento más allá que la suma de sus partes, como ventaja competitiva. Es algo que - si no me equivoco - también percibo entre lineas en la filosofía planteada por Recuenco pero que desconozco si ha explicitado en algún momento.
 
 ## Hilos de Referencia
 
@@ -123,23 +125,43 @@ Publicado solo tres días después del informe de Polymarket, el hilo aprovecha 
 
 **Conclusión**: Este hilo ejemplifica la “turra” como género: denso, accionable y con humor. Refuerza la idea central de Recuenco: las instituciones lentas mueren cuando la tecnología acelera. *Talk is cheap.* #finhilo
 
+## Sobre el Paper de Polymarket
+
+La relación entre este paper técnico de arXiv y el hilo turra de Recuenco se articula en dos niveles: uno directo (el origen del dato) y otro conceptual (la filosofía del análisis).
+
+### 1. Validación metodológica del dato del hilo
+
+El hilo de Recuenco utiliza a Polymarket como fuente de evidencia empírica clave para afirmar que las matrículas de los MBA han caído hasta un 50%. Al tratarse de un mercado de predicciones donde la gente arriesga dinero real, el paper científico analizado (_"An Empirical Study of Behavioral Tiers and Microstructure Signatures..."_) funciona como el **respaldo metodológico**. Este estudio demuestra científicamente cómo se estructuran los comportamientos y cómo se forman las cotizaciones dentro de Polymarket, validando que los datos extraídos de la plataforma reflejan realidades estructurales y no simple ruido o manipulación.
+
+### 2. "Skin in the game" vs. Rigidez Académica
+
+El núcleo de la crítica del hilo es que las escuelas de negocios enseñan marcos estáticos (como las Cinco Fuerzas de Porter) en un entorno de "laboratorio" y sin riesgo real para los profesores o la institución.
+
+Polymarket representa el polo opuesto que defiende la "Turra":
+
+- Es un ecosistema adaptativo, computacional y basado puramente en incentivos reales (_skin in the game_).
+    
+- El paper estudia precisamente cómo los individuos ejecutan estrategias y procesan información a velocidad de mercado bajo restricciones reales, sirviendo como ejemplo perfecto de las "redes abiertas y ecosistemas de ejecución" que, según Recuenco, están desplazando al signaling de las credenciales caras tradicionales.
+
+> En lo personal, la IA permite un nuevo nivel - económicamente prohibitivo hasta la fecha - de análisis basado en la paralelización de todos los metodos existentes simultaneamente, el análisis estadístico de idoneidad para cada contexto y la implementación de estrategias de una liminalidad dinámica casi infinita pero esa, es otra historia de la que hablaremos mas adelante, sobre código funcional de #MetsuOS
 ## Referencias Bibliográficas que Apoyan el Contenido
 
 Estas fuentes respaldan la tesis de obsolescencia o necesidad urgente de reinvención de las escuelas de negocios ante la IA. Se centran en datos de caída de demanda tradicional, percepción de desactualización y llamadas a la disrupción.
 
-- **Forbes (30 de marzo de 2026)**: “MBA Programs Lag AI Skills, Say 60% of Students”. Encuesta que muestra que el 60 % de los estudiantes de MBA considera que los programas están obsoletos para el mercado laboral de la IA. [Enlace](https://www.forbes.com/sites/rachelwells/2026/03/30/mba-programs-are-outdated-for-the-ai-workforce-say-60-of-students-in-new-survey/)
-- **Poets & Quants (21 de noviembre de 2024)**: “Disrupt Or Disappear: Why Business Schools Must Evolve Or Become Obsolete”. Argumenta que la IA, los cambios demográficos y la crisis de habilidades amenazan los modelos tradicionales. [Enlace](https://poetsandquantsforexecs.com/schools/disrupt-or-disappear-why-business-schools-must-evolve-or-become-obsolete/)
-- **Ken Robinson y Lou Aronica (2015)**: *Creative Schools: The Grassroots Revolution That’s Transforming Education*. Libro que critica el modelo industrial de la educación y propone una revolución creativa desde abajo. Complementa la crítica de Recuenco. Vídeo relacionado (TED Talk): [“Do schools kill creativity?”](https://www.youtube.com/watch?v=iG9CE55wbtY) (2006, más de 80 millones de vistas).
-- **Stephen M. Kosslyn y Ben Nelson (eds., 2017)**: *Building the Intentional University: Minerva and the Future of Higher Education*. Propone un modelo alternativo de universidad intencional basado en ciencia del aprendizaje y tecnología. Vídeo relacionado: [“Minerva: A New Kind of Higher Education” (Stephen Kosslyn)](https://www.youtube.com/watch?v=5-NRAg0_y1I).
+1. [Forbes (30 de marzo de 2026): “MBA Programs Lag AI Skills, Say 60% of Students”. 🟡③🌐](https://www.forbes.com/sites/rachelwells/2026/03/30/mba-programs-are-outdated-for-the-ai-workforce-say-60-of-students-in-new-survey/) .- Encuesta que muestra que el 60 % de los estudiantes de MBA considera que los programas están obsoletos para el mercado laboral de la IA. 
+2. [Poets & Quants (21 de noviembre de 2024): “Disrupt Or Disappear: Why Business Schools Must Evolve Or Become Obsolete”. 🟡③🌐](https://poetsandquants.com/2024/11/15/disrupt-or-disappear-why-business-schools-must-evolve-or-become-obsolete/) .- Argumenta que la IA, los cambios demográficos y la crisis de habilidades amenazan los modelos tradicionales. 
+3. [Ken Robinson y Lou Aronica (2015): Creative Schools: The Grassroots Revolution That’s Transforming Education. 🟡③🌐](https://www.sirkenrobinson.com/creative-schools-the-grassroots-revolution-thats-transforming-education/) .- Libro que critica el modelo industrial de la educación y propone una revolución creativa desde abajo. Complementa la crítica de Recuenco. Vídeo relacionado (TED Talk): “Do schools kill creativity?” (2006, más de 80 millones de vistas). 
+4. [Stephen M. Kosslyn y Ben Nelson (eds., 2017): Building the Intentional University: Minerva and the Future of Higher Education. 🟡③🌐](https://direct.mit.edu/books/edited-volume/4481/Building-the-Intentional-UniversityMinerva-and-the) .- Propone un modelo alternativo de universidad intencional basado en ciencia del aprendizaje y tecnología. Vídeo relacionado: “Minerva: A New Kind of Higher Education” (Stephen Kosslyn).
+5. [Polymarket: An Empirical Study of Behavioral Tiers and Microstructure Signatures Under Quote-Attribution Constraints. arXiv. 🟡③🌐](https://arxiv.org/abs/2605.11640) .- Estudio empírico alojado en arXiv que analiza la microestructura de mercado, los niveles de comportamiento de los usuarios y las firmas de atribución de cotizaciones dentro de la plataforma Polymarket.
 
 ## Referencias Bibliográficas que Refutan el Contenido
 
 Estas fuentes destacan la adaptación de las escuelas de negocios, el crecimiento de solicitudes en ciertos programas y el valor persistente de los MBAs (especialmente los que integran IA y habilidades humanas). Muestran que el panorama no es de obsolescencia total, sino de transformación.
 
-- **GMAC Application Trends Survey 2025**: "I"nforme oficial que registra crecimiento global de solicitudes a programas de business (incluyendo MBAs full-time) en 2025, impulsado por interés en formatos presenciales y contenidos de IA. Más de la mitad de los programas ya enseñan IA como herramienta práctica. [Enlace al informe](https://www.gmac.com/market-intelligence-and-research/research-library/admissions-and-application-trends/2025-application-trends-survey-report). Vídeo resumen oficial: [“Three Quick Facts about the Application Trends Survey 2025”](https://www.youtube.com/watch?v=i7BXWM91wn8).
-- **Excelsior University (24 de abril de 2026)**: “Why an MBA Is Worth It in the Age of AI”. Argumenta que la IA clarifica el propósito del MBA (liderazgo humano + IA) y que muchas universidades están viendo un repunte tras caídas previas. [Enlace](https://www.excelsior.edu/article/is-an-mba-worth-it-in-the-ai-age/)
-- **IESE Business School (4 de mayo de 2026)**: “IESE redesigns MBA for the age of AI”. Anuncio de rediseño completo del programa para preparar líderes en entornos humano-IA. [Enlace](https://www.iese.edu/stories/iese-redesigns-mba-ai/)
-- **GMAC Corporate Recruiters Survey 2025**: Los empleadores siguen demandando MBAs, especialmente aquellos con fluidez en IA y habilidades humanas (comunicación, resolución de problemas). [Resumen relacionado](https://poetsandquants.com/2025/07/01/employers-are-still-eager-to-hire-mbas-gmac-finds-especially-those-with-ai-skills/).
+1. [GMAC Application Trends Survey 2025 🟡③🌐](https://www.gmac.com/market-intelligence-and-research/market-research/application-trends-survey) .- Informe oficial que registra crecimiento global de solicitudes a programas de business (incluyendo MBAs full-time) en 2025, impulsado por interés en formatos presenciales y contenidos de IA. Más de la mitad de los programas ya enseñan IA como herramienta práctica. Vídeo resumen oficial: “Three Quick Facts about the Application Trends Survey 2025”.
+2. [Excelsior University (24 de abril de 2026): “Why an MBA Is Worth It in the Age of AI”. 🟡③🌐](https://www.excelsior.edu/article/is-an-mba-worth-it-in-the-ai-age/) .- Argumenta que la IA clarifica el propósito del MBA centrándose en capacidades inherentemente humanas como el liderazgo, el pensamiento estratégico bajo incertidumbre y la integración interdisciplinaria, habilidades que la tecnología amplifica en lugar de reemplazar.
+3. [IESE Business School (4 de mayo de 2026): “IESE redesigns MBA for the age of AI”. 🟡③🌐](https://www.iese.edu/stories/iese-redesigns-mba-ai/) .- Anuncio de rediseño completo del programa para preparar líderes en entornos humano-IA, integrando competencias tecnológicas y juicio directivo mediante el método del caso a lo largo de 18 asignaturas troncales.
+4. [GMAC Corporate Recruiters Survey 2025 🟡③🌐](https://www.gmac.com/market-intelligence-and-research/market-research/corporate-recruiters-survey) .- Los empleadores siguen demandando MBAs, especialmente aquellos con fluidez en IA y habilidades humanas (comunicación, resolución de problemas).
 
 
 ![[Plantilla - 1MT#One More Thing]]

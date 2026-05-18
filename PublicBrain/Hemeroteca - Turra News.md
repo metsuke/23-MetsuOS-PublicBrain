@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-05-18T05:20:45.790Z
+modified: 2026-05-18T13:19:35.850Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 43
+ver_rev: 45
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -29,11 +29,13 @@ Number of Columns: 2
 Border: off
 ```
 
+![Turra News 010](PublicBrain/_resources/07e11279ba55ed2cc27abb22fbf0e116_MD5.jpg)
+
 ## Turra News 010
 
 Este hilo denso y provocador de @Recuenco forma parte de su serie crítica sobre la obsolescencia del sistema educativo tradicional ante el avance de la inteligencia artificial. Enfocado en las escuelas de negocios (business schools y MBAs), defiende que su modelo clásico —basado en el método del caso, el networking elitista y el signaling de estatus— se ha roto por completo. La IA acelera la estrategia, democratiza el conocimiento y reduce el valor de las credenciales caras. 
 
-Continua leyendo en ... [[Hemeroteca - Turra News 010 🔴②]]
+Continua leyendo en ... [[Hemeroteca - Turra News 010 🟡③]]
 
 --- column-end ---
 

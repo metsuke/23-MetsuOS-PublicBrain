@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-05-13T21:30:20.850Z
+modified: 2026-05-18T13:20:40.492Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 196
+ver_rev: 197
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,12 +30,13 @@ Border: off
 ```
 
 
-![Turra News 009](PublicBrain/_resources/4d357c4f6233d30d66937906e13601b8_MD5.jpg)
-## Turra News 009
+![Turra News 010](PublicBrain/_resources/07e11279ba55ed2cc27abb22fbf0e116_MD5.jpg)
 
-En este hilo turras del sábado 9 de mayo de 2026, Javier G. Recuenco deja a un lado su humor habitual y sus memes para lanzar un manifiesto claro y urgente sobre el colapso del sistema educativo español. 
+## CPS - Turra News 010
 
-Continua leyendo en ... [[Hemeroteca - Turra News 009 🟡③]]
+Este hilo denso y provocador de @Recuenco forma parte de su serie crítica sobre la obsolescencia del sistema educativo tradicional ante el avance de la inteligencia artificial. Enfocado en las escuelas de negocios (business schools y MBAs), defiende que su modelo clásico —basado en el método del caso, el networking elitista y el signaling de estatus— se ha roto por completo. La IA acelera la estrategia, democratiza el conocimiento y reduce el valor de las credenciales caras. 
+
+Continua leyendo en ... [[Hemeroteca - Turra News 010 🟡③]]
 
 --- column-end ---
 

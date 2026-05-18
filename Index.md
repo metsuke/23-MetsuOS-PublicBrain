@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-05-13T21:28:46.538Z
+modified: 2026-05-18T13:21:43.930Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 158
+ver_rev: 159
 nav_primary:
 nav_secondary:
 tags:
@@ -34,16 +34,18 @@ Border: off
 	
 ![Scene News 004](PublicBrain/_resources/4a08407b8f24a43082abe38d4ca2195c_MD5.jpg)
 
-### Scene News 004
+### Retroscene - Scene News 004
 
 Continua leyendo en ... [[Hemeroteca - Scene News 004]]
 
 --- column-end ---
 
-![Turra News 009](PublicBrain/_resources/4d357c4f6233d30d66937906e13601b8_MD5.jpg)
-### Turra News 009
 
-Continua leyendo en ... [[Hemeroteca - Turra News 009 🟡③]]
+![Turra News 010](PublicBrain/_resources/07e11279ba55ed2cc27abb22fbf0e116_MD5.jpg)
+
+### CPS - Turra News 010
+
+Continua leyendo en ... [[Hemeroteca - Turra News 010 🟡③]]
 
 --- column-end ---
 

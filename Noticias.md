@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-05-16T19:10:31.554Z
+modified: 2026-05-18T13:31:55.451Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 101
+ver_rev: 102
 nav_primary:
 nav_secondary:
 tags:
 ---
 # Noticias
 
-![Scene News](_resources/d55f3b5878afa4f7eeb81edd1407d570_MD5.jpg)
+![Scene News 005 Año 1 - número 5 - 04/05/2026 a 17/05/2026](_resources/af1368e165dbdfbfc80b94dd52a3ceac_MD5.jpg)
 
 [[Index]] | [[Hemeroteca]]
 ## Scene News 005

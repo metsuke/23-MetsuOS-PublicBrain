@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Noticias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Noticias"
             }
           }
         ]
@@ -204,9 +204,10 @@
   },
   "active": "a1c28e7a3ef6c284",
   "lastOpenFiles": [
+    "_resources/af1368e165dbdfbfc80b94dd52a3ceac_MD5.jpg",
+    "Index.md",
     "PublicBrain/El \"Pánico Bromado\" Un Análisis Psicohistórico de la Campaña contra el Plástico Negro en la Cocina (2024-2026) 🟡③.md",
     "Novedades.md",
-    "Index.md",
     "PublicBrain/Hemeroteca - Turra News.md",
     "PublicBrain/Hemeroteca - Turra News 010 🟡③.md",
     "PublicBrain/Hemeroteca - Turra News 009 🟡③.md",
@@ -239,7 +240,6 @@
     "SDD_001.png",
     "_resources/68970114634f9a8539f9fdc9dbc0671c_MD5.jpg",
     "Blog.md",
-    "Hemeroteca - Turra News 008 ⚫①.md",
     "PublicBrain/Hilo Truth Coping - 31/05",
     "PublicBrain/Hilo Truth Coping - 31",
     "Hilo Truth Coping - 31/05",

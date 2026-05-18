@@ -1,17 +1,20 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: Gemini, Grok, Raul Carrillo aka metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations:
 created: 2026-05-11T21:11:05.546Z
-modified: 2026-05-12T03:56:17.181Z
+modified: 2026-05-14T12:52:29.139Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 1
+ver_minor: 2
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -21,8 +24,6 @@ tags: []
 ![Turra News 009](PublicBrain/_resources/4d357c4f6233d30d66937906e13601b8_MD5.jpg)
 
 [[Hemeroteca - Turra News]] | [Hilo Turra de 09/05/2026 🟡③🌐](https://x.com/Recuenco/status/2053002707628142991?s=20)
-
-> OJO WIP
 
 **Educación, Altas Capacidades y la Propuesta de Academia CPS**
 ## Abstract
@@ -73,7 +74,7 @@ Estos hilos forman parte del “arco largo” de Recuenco sobre talento, sistema
 
 ## Diccionario Turra-Español ↔ Español-Turra
 
-**Turra** (jerga de Recuenco): Hilo largo, denso y masticable de los sábados. Mezcla análisis brutal, referencias culturales, crítica herética y propuesta constructiva. No es rollo negativo; es como turrón: denso, dulce-amargo y que te deja pensando días.
+**Turra** (jerga de Recuenco): "H"ilo largo, denso y masticable de los sábados. Mezcla análisis brutal, referencias culturales, crítica herética y propuesta constructiva. No es rollo negativo; es como turrón: denso, dulce-amargo y que te deja pensando días.
 
 |Turra → Español estándar|Español estándar → Turra (jerga Recuenco)|
 |---|---|
@@ -119,7 +120,7 @@ Estas fuentes reales y contrastables respaldan los diagnósticos centrales del h
 Estas fuentes contrastan o matizan las afirmaciones del hilo, cuestionando la inevitabilidad del colapso educativo, el impacto total de la IA o la necesidad de caminos completamente “off-road”.
 
 1. [Carl Benedikt Frey – “Generative AI and the Future of Work: A Reappraisal” (2023) Revisión posterior del autor del famoso estudio de 2013/2017. Matiza que la IA generativa no destruirá tantos empleos como se temía inicialmente y que crea nuevas oportunidades incluso en tareas no rutinarias. Working Paper (Oxford) 🟡③🌐](https://www.oxfordmartin.ox.ac.uk/downloads/academic/2023-FoW-Working-Paper-Generative-AI-and-the-Future-of-Work-A-Reappraisal-combined.pdf) .- Working Paper Oxford Martin School (2023) de Carl Benedikt Frey y Michael Osborne: revisión que matiza el impacto de la IA generativa en el empleo, concluyendo que no destruye tantos puestos como se temía y genera oportunidades en tareas no rutinarias.
-2. [PwC Barómetro Global de IA en el Trabajo (2025) Indica que la IA aumenta la productividad de la mayoría de los trabajadores (no solo neurodivergentes) y que los salarios crecen más rápido en industrias expuestas a IA, incluso en roles tradicionales. Cuestiona la idea de que la “mediocridad” desaparezca por completo. Informe completo 🟡③🌐](https://www.pwc.es/es/consultoria/inteligencia-artificial/ai-jobs-barometer-2025.html) .- Informe PwC “Un futuro sin miedos: Barómetro Global de la IA en el empleo 2025”: IA aumenta productividad y salarios en la mayoría de trabajadores (incluidos roles tradicionales), con crecimiento 3x en industrias expuestas y cuestionando desaparición total de mediocridad.
+2. [PwC Barómetro Global de IA en el Trabajo (2025) Indica que la IA aumenta la productividad de la mayoría de los trabajadores (no solo neurodivergentes) y que los salarios crecen más rápido en industrias expuestas a IA, incluso en roles tradicionales. Cuestiona la idea de que la “mediocridad” desaparezca por completo. Informe completo 🟡③🌐](https://www.pwc.es/es/consultoria/inteligencia-artificial/ai-jobs-barometer-2025.html) .- Informe PwC “Un futuro sin miedos: Barómetro Global de la IA en el empleo 2025”: "I"A aumenta productividad y salarios en la mayoría de trabajadores (incluidos roles tradicionales), con crecimiento 3x en industrias expuestas y cuestionando desaparición total de mediocridad.
 3. [“Mitos y desinformación en Altas Capacidades: por qué no reconocemos a los alumnos con AACC” (AltasCapacidadesEnMiAula.es, enero 2025) Reconoce problemas reales, pero critica que algunos discursos exageran la “crisis” y la patologización, defendiendo que con apoyo adecuado dentro del sistema ordinario muchos alumnos con AACC pueden desarrollarse sin necesidad de modelos off-road. Artículo completo 🟡③🌐](https://altascapacidadesenmiaula.es/por-que-no-reconocemos-a-los-alumnos-con-altas-capacidades-mitos-y-realidades-en-el-aula/) .- Artículo publicado el 21 de enero de 2025 en AltasCapacidadesEnMiAula.es sobre mitos y desinformación en AACC: explica por qué no se reconocen alumnos con altas capacidades y defiende apoyo en el sistema ordinario sin necesidad de modelos off-road.
 
 ## Implicaciones para España (2026) y Conclusión

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-05-12T21:50:21.763Z
+modified: 2026-05-16T19:10:31.554Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 100
+ver_rev: 101
 nav_primary:
 nav_secondary:
 tags:
@@ -24,7 +24,7 @@ tags:
 ![Scene News](_resources/d55f3b5878afa4f7eeb81edd1407d570_MD5.jpg)
 
 [[Index]] | [[Hemeroteca]]
-## Scene News
+## Scene News 005
 
 > Año 1 - número 5 - 04/05/2026 a 17/05/2026
 
@@ -41,6 +41,35 @@ La cuenta atrás ya ha empezado y el contador de progreso marca el **2026** como
 
 - [Página Oficial de Desarrollo (Itch.io 🟡③🌐](https://sequentia-soft.itch.io/odyssey31)   
 - [Perfil de X para el "minuto a minuto -@sequentiasoft 🟡③🌐](https://x.com/sequentiasoft)
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![The Classic Adventurer Issue 001](_resources/c1c796a5b9203c96b0d1d5ab9de37acf_MD5.jpeg)
+## Reedición Mejorada de "The Classic Adventurer" Issue 001
+
+Una publicación que no conocia y que pinta expectacular, reedita su número 1, ¡definitivamente he de hacerle un hueco en el - ya apretado - quiosco!
+
+* Accede al [anuncio en X a través de este retweet 🟡③🌐](https://x.com/Juanjoide/status/2050911248036905225?s=20)
+
+ --- column-end ---
+ 
+![Apoya a Krusty en el desarrollo de herramientas modernas para el Z80 y el Amstrad CPC](_resources/75887bbc35f030786fde26e80c2606b0_MD5.jpg)
+## Apoya a Krusty en el desarrollo de herramientas modernas para el Z80 y el Amstrad CPC
+
+Puede que no esté tan loco al pensar que es hora de cambiar las fichas y montar la infraestructura que nos permita hacer sobrevivir la scene tras todos nosotros, para generaciones futuras.
+
+Un comienzo es esta nueva propuesta para la creacion de herramientas modernas para sistemas antiguos, en lugar de quedarnos encallados en el pasado, quien sabe, igual hasta logramos que el retro perviva tras nuestra desaparición, como el acervo cultural que es y no como el acerbo incómodo que suele tratar de venderse.
+
+Hora de optimizar mi interacción con otros proyectos y la gestión de forks de metsuos...
+
+Continua leyendo la [Noticia original en Amstrad Power 🟡③🌐](https://amstradpower.es/krusty-impulsa-el-desarrollo-de-herramientas-modernas-para-el-z80-y-el-amstrad-cpc/)
+
+ --- column-end ---
+--- multi-column-end
 
 
 --- start-multi-column: BloqueMicrohobbit01\
@@ -64,7 +93,7 @@ Border: off
 
 ## El Directorio
 
-* Nothing Relevant ... Yet
+* [Image2CPC 🟡③🌐](https://amstradpower.es/convierte-cualquier-imagen-en-un-disco-para-amstrad-cpc-con-imagetocpc/) - Convierte Imagenes a Discos para Amstrad
 
 --- column-end ---
 

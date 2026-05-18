@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-27T13:41:33.761Z
-modified: 2026-05-03T06:23:14.662Z
+modified: 2026-05-14T12:57:30.517Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 10
+ver_rev: 11
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -24,8 +24,6 @@ tags: []
 ![Turra News](PublicBrain/_resources/95feeae56f1746fc8428c4b377803c49_MD5.jpg)
 
 [[Hemeroteca - Turra News]] |  [Hilo Turra 11/04/2026 🟡③🌐](https://x.com/Recuenco/status/2042857602841796852?s=20)
-
->OJO EXPERIMENTAL
 >
 ** La Desconexión Consciente como Acto Gnóstico **
 **Autor del hilo:** Javier G. Recuenco (@Recuenco)  

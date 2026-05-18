@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-04-29T18:16:30.864Z
+modified: 2026-05-16T19:08:55.182Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 85
+ver_rev: 86
 nav_primary:
 nav_secondary:
 tags:
 ---
-# Noticias
+# Hemeroteca - Scene News 004
 
 [[Index]] | [[Hemeroteca]]
 

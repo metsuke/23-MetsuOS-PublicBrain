@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-05-11T21:11:57.240Z
+modified: 2026-05-18T05:20:45.790Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 32
+ver_rev: 43
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -28,6 +28,14 @@ tags: []
 Number of Columns: 2
 Border: off
 ```
+
+## Turra News 010
+
+Este hilo denso y provocador de @Recuenco forma parte de su serie crítica sobre la obsolescencia del sistema educativo tradicional ante el avance de la inteligencia artificial. Enfocado en las escuelas de negocios (business schools y MBAs), defiende que su modelo clásico —basado en el método del caso, el networking elitista y el signaling de estatus— se ha roto por completo. La IA acelera la estrategia, democratiza el conocimiento y reduce el valor de las credenciales caras. 
+
+Continua leyendo en ... [[Hemeroteca - Turra News 010 🔴②]]
+
+--- column-end ---
 
 ![Turra News 009](PublicBrain/_resources/4d357c4f6233d30d66937906e13601b8_MD5.jpg)
 
@@ -81,7 +89,9 @@ Continua leyendo en [[Hemeroteca - Turra News 005 🟡③]]
 ![Turra News 004](PublicBrain/_resources/8b34222f2816fcc63c7291dfee2b86f1_MD5.jpg)
 ## Turra News 004
 
-Accede al contenido del hilo en ... [Turra News 004 🟡③🌐](https://x.com/Recuenco/status/2037800637933539829?s=2)
+Javier Recuenco soltó, a finales de marzo de 2026, uno de esos hilos-turra que te dejan con la sensación de haber buceado en las profundidades del management moderno y salir con más preguntas que respuestas… pero con las respuestas correctas. El mensaje central es demoledor y, al mismo tiempo, liberador: estamos tan obsesionados con exigir «success stories» previas que acabamos matando cualquier innovación que de verdad cambie las reglas del juego.
+
+Accede al contenido del hilo en ... [[Hemeroteca - Turra News 004 🟡③]]
 
 --- column-end ---
 

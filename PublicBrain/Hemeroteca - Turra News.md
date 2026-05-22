@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-05-18T13:19:35.850Z
+modified: 2026-05-21T11:19:32.872Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 45
+ver_rev: 46
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -101,7 +101,10 @@ Accede al contenido del hilo en ... [[Hemeroteca - Turra News 004 🟡③]]
 
 ## Turra News 003
 
-Accede al contenido del hilo en ... [Turra News 003 🟡③🌐](https://x.com/Recuenco/status/2032696505807609924?s=20)
+Este hilo turra de Javier G. Recuenco (@Recuenco) funciona como un **entremés ligero** tras una semana intensa de compromisos. Utiliza la obra híbrida *La Encrucijada* (cómic + disco de Paco Roca y José Manuel Casañ) como punto de partida para extraer lecciones universales sobre cómo construir una audiencia leal y, sobre todo, desarrollar una **voz propia y auténtica**.
+
+Accede al contenido del hilo en ... [[Hemeroteca - Turra News 003 🟡③]]
+
 
 --- column-end ---
 

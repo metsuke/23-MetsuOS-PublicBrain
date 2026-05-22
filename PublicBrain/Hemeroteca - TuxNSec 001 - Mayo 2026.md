@@ -1,6 +1,6 @@
 ---
 iaStatus: 8
-iaStatus_Model: Raul Carrillo aka Metsuke
+iaStatus_Model: Gemini, Grok, Raul Carrillo aka metsuke
 iaStatus_Generado: "H"
 iaStatus_Supervisado: "-"
 iaStatus_Validado: "-"
@@ -9,19 +9,25 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-21T19:58:41.413Z
-modified: 2026-04-23T17:04:54.141Z
+modified: 2026-05-20T21:54:34.185Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 2
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Hemeroteca - TuxNSec 001 - Mayo 2026
 
+
+![TuxNSec](PublicBrain/_resources/78de5daa0a8ebb73d59877aa9570325c_MD5.jpg)
+
 [[Hemeroteca - TuxNSec]]
+## Tux'N'Sec 001
+
+> Año 1 - número 1 - 01/05/2026 a 31/05/2026
 
 ![TuxNSec 001 Ediotorial](PublicBrain/_resources/425ac4b3128b002b79d45e68f8dc09f4_MD5.jpg)
 ## Editorial: Pero... ¿porqué? ... pero ¿por donde?
@@ -44,7 +50,50 @@ Si lo lograré o no, es algo que espero descubramos juntos. ¡A ello!
 
 Raúl Carrillo aka metsuke
 
-> EN PREPARACION
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+## ¿Es la cadena de suministro un vertedero repleto de farlopa?
+
+Puede parecer una exageración y puede que lo sea, pero ciertamente desde que estoy empezando a seguir un poco mas de cerca los boquetes de seguridad constantes del mundo del software  no se si  de verdad es algo inevitable o si todo viene por usuarios que no valoran el trabajo ajeno y por tanto no permiten inversiones adecuadas en seguridad y desarrollo propio en las desarrolladoras.
+
+La lista es increiblemente preocupante, veremos que ocurre a futuro ...
+
+* [Boquetes en 170+ paquetes en Github, NPM y parte del extranjero  🟡③🌐](https://x.com/elhackernet/status/2055538618970550482?s=20)
+* [Boquete en el Kernel de Linux  🟡③🌐](https://x.com/elhackernet/status/2055616381777744127?s=20)
+* [Universidades en peligro  🟡③🌐](https://x.com/elhackernet/status/2053090649663013005?s=20)
+* [Posible filtración de datos en Zara  🟡③🌐](https://x.com/elhackernet/status/2052715817276469277?s=20)
+* [Posible filtración de datos de Udemy  🟡③🌐](https://x.com/H4ckmanac/status/2047591552151691683?s=20)
+* [Otro boquete en Windows 2 🟡③🌐](https://x.com/elhackernet/status/2048773922594631762?s=20) | [Más sobre el boquete RPC 🟡③🌐](https://x.com/The_Cyber_News/status/2048099037245829341?s=20)
+* [Microsoft y los instaladores de vulnerabilidades de Windows  🟡③🌐](https://x.com/BleepinComputer/status/2045049632934309954?s=20)
+* [Lockers que bloquean lo que no deben  🟡③🌐](https://x.com/The_Cyber_News/status/2045088735772266893?s=20)
+
+ --- column-end ---
+
+C2
+
+--- column-end ---
+--- multi-column-end
+
+
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+C1
+ --- column-end ---
+
+## El Directorio
+
+* [Foro sobre Linux en Español  🟡③🌐](https://x.com/rcv11x/status/2050631239711821875?s=20)
+
+ --- column-end ---
+--- multi-column-end
+
 
 
 ![[Plantilla - 1MT#One More Thing]]

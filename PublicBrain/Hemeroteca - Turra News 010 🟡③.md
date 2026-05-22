@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-05-16T20:54:34.497Z
-modified: 2026-05-18T12:58:10.746Z
+modified: 2026-05-18T19:23:31.013Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -24,8 +24,6 @@ tags: []
 ![Turra News 010](PublicBrain/_resources/07e11279ba55ed2cc27abb22fbf0e116_MD5.jpg)
 
 [[Hemeroteca - Turra News]] | [Hilo Turra de 16/05/2026 🟡③🌐](https://x.com/Recuenco/status/2055523188407193998?s=20)
-
-> OJO WIP
 
 **Las Escuelas de Negocios en la Era de la IA**
 
@@ -106,13 +104,14 @@ Recuenco cierra con recomendaciones prácticas y un guiño a su proyecto:
 | **Finhilo**            | Fin del hilo. |
 
 ### Español → Turra
-| Concepto Español               | Versión Turra (estilo Recuenco) |
-|--------------------------------|---------------------------------|
-| Escuelas de negocios obsoletas | “El modelo que ya no genera ventaja y que ellas mismas no supieron resolver”. |
+| Concepto Español               | Versión Turra (estilo Recuenco)                                                     |
+| ------------------------------ | ----------------------------------------------------------------------------------- |
+| Escuelas de negocios obsoletas | “El modelo que ya no genera ventaja y que ellas mismas no supieron resolver”.       |
 | MBA caro y poco útil           | “Pagar 150-250 k USD para pausar dos años y volver a un mundo que la IA ya cambió”. |
-| Educación tradicional          | “Sistema diseñado para un paradigma que desapareció”. |
-| Credenciales vs. ejecución     | “Signaling muerto vs. ownership e iteración a velocidad máquina”. |
-| Incapacidad institucional      | “Rigidez académica + falta de skin in the game = liquidación del modelo”. |
+| Educación tradicional          | “Sistema diseñado para un paradigma que desapareció”.                               |
+| Credenciales vs. ejecución     | “Signaling muerto vs. ownership e iteración a velocidad máquina”.                   |
+| Incapacidad institucional      | “Rigidez académica + falta de skin in the game = liquidación del modelo”.           |
+
 ## Análisis Detallado
 
 Publicado solo tres días después del informe de Polymarket, el hilo aprovecha el momento perfecto para conectar datos frescos con su crítica estructural. Recuenco no solo diagnostica el problema; muestra por qué las propias escuelas fallan en aplicar lo que enseñan (pivotar ante disrupción).

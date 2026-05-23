@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-05-01T17:57:08.500Z
+modified: 2026-05-23T09:34:30.474Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 48
+ver_rev: 49
 nav_primary: 
 nav_secondary: 
 tags:
@@ -28,6 +28,16 @@ tags:
 Number of Columns: 2
 Border: off
 ```
+
+![Psicohistory Today 001](PublicBrain/_resources/db7cdbba582872eff59253b17ef35546_MD5.jpg)
+
+## Análisis Estratégico: El Futuro Digital de la Educación en Finlandia (2023-2027)
+
+El documento "Policies for the digitalisation of education and training until 2027" no es una iniciativa aislada, sino un eslabón crítico en una visión de largo alcance. Se fundamenta en el Informe de Política Educativa del gobierno de Sanna Marin (2019-2023), que proyecta un objetivo para **2040** donde las nuevas tecnologías se utilicen de forma innovadora para que el aprendizaje sea independiente del tiempo y el lugar. 
+
+Continua leyendo en [[Análisis Estratégico - El Futuro Digital de la Educación en Finlandia (2023-2027) 🟡③]]
+
+--- column-end ---
 
 ![Psicohistory Today Plastico Negro Cocina](PublicBrain/_resources/d289fdf4919c3b1e904fa93f22ef6a2d_MD5.jpg)
 

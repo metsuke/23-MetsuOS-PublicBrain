@@ -1,17 +1,20 @@
 ---
-iaStatus: 3
+iaStatus: 8
 iaStatus_Model: Gemini, Grok, Raul Carrillo aka metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
 translations:
 created: 2026-05-21T11:19:36.047Z
-modified: 2026-05-21T22:08:51.935Z
+modified: 2026-05-23T00:43:11.797Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 7
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -44,7 +47,7 @@ Es un texto que combina análisis cultural, reflexiones sobre el proceso creativ
 
 ### 2. Mecánicas de audiencia extraídas de *La Encrucijada*
 - **Autenticidad y vulnerabilidad**: Mostrar inseguridades y miedos genera conexión real.
-- **Permeabilidad a la vida**: Incorporar crisis y rutinas diarias en la obra.
+- **Permeabilidad a la vida**: "I"ncorporar crisis y rutinas diarias en la obra.
 - **Hibridación de formatos**: Mezclar cómic y música crea experiencias ricas y rejugables.
 - **Asunción de riesgos**: Salir de la zona de confort y evitar el autoplagio atrae seguidores fieles.
 - **Duda constante y evolución**: La complacencia mata la frescura.

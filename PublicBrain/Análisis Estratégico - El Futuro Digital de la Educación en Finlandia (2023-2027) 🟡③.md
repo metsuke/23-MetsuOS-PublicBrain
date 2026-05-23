@@ -1,13 +1,20 @@
 ---
+iaStatus: 8
+iaStatus_Model: NotebookML, Gemini, Grok, Raul Carrillo aka metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
-created: 2023-08-30T00:54:00
-modified: 2024-03-06T23:35:00
+translations:
+created: 2026-05-23T09:27:17.512Z
+modified: 2026-05-23T15:29:25.856Z
+supervisado: ""
+ACCION: ""
 ver_major: 0
-ver_minor: "0"
-ver_rev: "0"
+ver_minor: 2
+ver_rev: 1
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -157,7 +164,7 @@ El plan finlandés para 2027 es científicamente verosímil dentro de una socied
 5. [Fundación Telefónica (2023). La Sociedad Digital en España 2023. 🟡③🌐](https://publiadmin.fundaciontelefonica.com/media/publicaciones/780/Sociedad_Digital_en_Espana_2023.pdf) .- Informe que ofrece el contraste estadístico sobre la penetración de fibra y competencias digitales en España.
 6. [UNESCO (2021). Reimaginar juntos nuestros futuros: Un nuevo contrato social para la educación. 🟡③🌐](https://unesdoc.unesco.org/ark:/48223/pf0000379381_spa) .- Documento que resuena con la visión de "bienestar" y "sostenibilidad" de las fuentes finlandesas.
 7. [INTEF (2022). Marco de Referencia de la Competencia Digital Docente (España). 🟡③🌐](https://intef.es/wp-content/uploads/2022/03/MRCDD_V06B_GTTA.pdf) .- Comparativa directa con el Pilar I de las políticas finlandesas sobre competencia del personal docente.
-8. [YouTube - World Economic Forum (2024). The Future of Education: How AI is Reshaping the Classroom. 🟡③🌐](https://www.youtube.com/watch?v=1WJckLniMAg) .- Análisis global sobre los riesgos de estratificación cognitiva mencionados en el escenario global.
+8. [YouTube - World Economic Forum (2024). The Future of Education: "H"ow AI is Reshaping the Classroom. 🟡③🌐](https://www.youtube.com/watch?v=1WJckLniMAg) .- Análisis global sobre los riesgos de estratificación cognitiva mencionados en el escenario global.
 
 ### Fuentes científicas y críticas para el contraste (Efectos y Viabilidad)
 

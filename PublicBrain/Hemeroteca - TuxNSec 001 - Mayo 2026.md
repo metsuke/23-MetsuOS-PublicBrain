@@ -9,20 +9,20 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-21T19:58:41.413Z
-modified: 2026-05-20T21:54:34.185Z
+modified: 2026-05-25T06:30:44.153Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 4
+ver_rev: 5
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Hemeroteca - TuxNSec 001 - Mayo 2026
 
-
-![TuxNSec](PublicBrain/_resources/78de5daa0a8ebb73d59877aa9570325c_MD5.jpg)
+![TuxNSec](PublicBrain/_resources/cbf3d1254f4fe03a3fab4b1b72b456bc_MD5.jpg)
+## TuxNSec 001 - Mayo 2026
 
 [[Hemeroteca - TuxNSec]]
 ## Tux'N'Sec 001

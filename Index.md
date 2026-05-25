@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-05-19T14:20:48.530Z
+modified: 2026-05-24T23:01:32.253Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 161
+ver_rev: 162
 nav_primary:
 nav_secondary:
 tags:
@@ -40,10 +40,11 @@ Continua leyendo en ... [[Hemeroteca - Scene News 005]]
 --- column-end ---
 
 
-![Turra News 010](PublicBrain/_resources/07e11279ba55ed2cc27abb22fbf0e116_MD5.jpg)
-### CPS - Turra News 010
+![Turra news 011](PublicBrain/_resources/bc64611982501da6f8f51e57e91e0f3e_MD5.jpg)
 
-Continua leyendo en ... [[Hemeroteca - Turra News 010 🟡③]]
+### CPS - Turra News 011
+
+Continua leyendo en ... [[Hemeroteca - Turra News 011 🟡③]]
 
 --- column-end ---
 
@@ -71,10 +72,11 @@ Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
 --- column-end ---
 
 
-![Psicohistory Today Plastico Negro Cocina](PublicBrain/_resources/d289fdf4919c3b1e904fa93f22ef6a2d_MD5.jpg)
-### Blog - El "Pánico Bromado" Un Análisis Psicohistórico de la Campaña contra el Plástico Negro en la Cocina (2024-2026)
+![MetsuOS Today](PublicBrain/_resources/aa8f17e71a2a8937c78d0c86c7450d60_MD5.jpg)
 
-Continua leyendo en ... [[El "Pánico Bromado" Un Análisis Psicohistórico de la Campaña contra el Plástico Negro en la Cocina (2024-2026) 🟡③]]
+### Blog - MetsuOS: Hacia una Soberanía de la Inteligencia Local
+
+[[MetsuOS Hacia una Soberanía de la Inteligencia Local 🟡③]]
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-05-22T23:13:45.126Z
+modified: 2026-05-24T22:17:03.703Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 47
+ver_rev: 49
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -28,6 +28,15 @@ tags: []
 Number of Columns: 2
 Border: off
 ```
+
+![Turra news 011](PublicBrain/_resources/bc64611982501da6f8f51e57e91e0f3e_MD5.jpg)
+## Turra News 011
+
+Este hilo forma parte del arco educativo de Javier G. Recuenco (@Recuenco). Explora la tensión estructural entre dos enfoques ante la IA: el institucional (cauteloso y regulatorio, representado por la guía finlandesa de 2025) y el disruptivo del mercado (ejemplificado por contrataciones en empresas como SpaceXAI, donde priman la capacidad cognitiva cruda, la iniciativa y la velocidad de aprendizaje sobre los títulos tradicionales).
+
+Continua leyendo en ... [[Hemeroteca - Turra News 011 🟡③]]
+
+--- column-end ---
 
 ![Turra News 010](PublicBrain/_resources/07e11279ba55ed2cc27abb22fbf0e116_MD5.jpg)
 

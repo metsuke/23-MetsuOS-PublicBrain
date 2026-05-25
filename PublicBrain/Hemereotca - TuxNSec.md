@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-21T19:56:01.569Z
-modified: 2026-05-19T22:32:43.770Z
+modified: 2026-05-25T06:30:05.813Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 11
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -23,7 +23,7 @@ tags: []
 
 [[Hemeroteca]]
 
-![TuxNSec 001 Ediotorial](PublicBrain/_resources/425ac4b3128b002b79d45e68f8dc09f4_MD5.jpg)
+![TuxNSec](PublicBrain/_resources/cbf3d1254f4fe03a3fab4b1b72b456bc_MD5.jpg)
 ## TuxNSec 001 - Mayo 2026
 
 Cubrimos tambien finales de abril para cuadrar mejor la periodicidad.

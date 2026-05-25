@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-05-23T19:13:30.045Z
+modified: 2026-05-23T23:30:51.882Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 55
+ver_rev: 56
 nav_primary: 
 nav_secondary: 
 tags:
@@ -37,16 +37,7 @@ La gran pregunta que muchos se hacen es si MetsuOS, en una máquina local, por m
 
 [[MetsuOS Hacia una Soberanía de la Inteligencia Local 🟡③]]
 
---- start-multi-column: BloqueMicrohobbit01\
-```column-settings  
-Number of Columns: 2
-Border: off
-```
-C1
- --- column-end ---
-C2
- --- column-end ---
---- multi-column-end
+--- column-end ---
 
 
 ![Psicohistory Today 001](PublicBrain/_resources/db7cdbba582872eff59253b17ef35546_MD5.jpg)

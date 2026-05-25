@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-05-18T13:20:40.492Z
+modified: 2026-05-24T23:04:55.821Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 197
+ver_rev: 198
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,13 +30,24 @@ Border: off
 ```
 
 
-![Turra News 010](PublicBrain/_resources/07e11279ba55ed2cc27abb22fbf0e116_MD5.jpg)
 
-## CPS - Turra News 010
+![Turra news 011](PublicBrain/_resources/bc64611982501da6f8f51e57e91e0f3e_MD5.jpg)
+## Turra News 011
 
-Este hilo denso y provocador de @Recuenco forma parte de su serie crítica sobre la obsolescencia del sistema educativo tradicional ante el avance de la inteligencia artificial. Enfocado en las escuelas de negocios (business schools y MBAs), defiende que su modelo clásico —basado en el método del caso, el networking elitista y el signaling de estatus— se ha roto por completo. La IA acelera la estrategia, democratiza el conocimiento y reduce el valor de las credenciales caras. 
+Este hilo forma parte del arco educativo de Javier G. Recuenco (@Recuenco). Explora la tensión estructural entre dos enfoques ante la IA: el institucional (cauteloso y regulatorio, representado por la guía finlandesa de 2025) y el disruptivo del mercado (ejemplificado por contrataciones en empresas como SpaceXAI, donde priman la capacidad cognitiva cruda, la iniciativa y la velocidad de aprendizaje sobre los títulos tradicionales).
 
-Continua leyendo en ... [[Hemeroteca - Turra News 010 🟡③]]
+Continua leyendo en ... [[Hemeroteca - Turra News 011 🟡③]]
+
+--- column-end ---
+
+
+![MetsuOS Today](PublicBrain/_resources/aa8f17e71a2a8937c78d0c86c7450d60_MD5.jpg)
+
+## Blog - MetsuOS: Hacia una Soberanía de la Inteligencia Local
+
+La gran pregunta que muchos se hacen es si MetsuOS, en una máquina local, por muy potente que sea, puede replicar la experiencia de las IAs comerciales en la nube. La respuesta corta es no; sin embargo, no es estrictamente por una limitación técnica, sino porque **MetsuOS** propone un cambio de paradigma radical. Mientras el modelo _online_ busca que delegues tu pensamiento en un "elefante" generalista, el enfoque local se basa en construir un ecosistema de "colmenas y hormigueros" bajo tu control absoluto.
+
+[[MetsuOS Hacia una Soberanía de la Inteligencia Local 🟡③]]
 
 --- column-end ---
 
@@ -47,16 +58,6 @@ Continua leyendo en ... [[Hemeroteca - Turra News 010 🟡③]]
 El **Desarrollo Impulsado por Especificaciones** (Spec-Driven Development o SDD) propone un cambio de paradigma en el ciclo de vida del software. En lugar de considerar la documentación como un subproducto del código, el SDD sitúa a la **especificación como el artefacto primario y la "única fuente de verdad"**.
 
 Continua leyendo en ... [[Curso SDD 001 - Introducción al paradigma Spec-Driven Development - más allá del código 🟡③]]
-
---- column-end ---
-
-![Psicohistory Today Plastico Negro Cocina](PublicBrain/_resources/d289fdf4919c3b1e904fa93f22ef6a2d_MD5.jpg)
-
-## Blog - El "Pánico Bromado" Un Análisis Psicohistórico de la Campaña contra el Plástico Negro en la Cocina (2024-2026)
-
-A mediados de la década de 2020, la sociedad occidental, ya sensibilizada por la crisis climática y una creciente quimiofobia, experimentó un nuevo y viral "pánico alimentario". Esta vez, el objeto del miedo no era un ingrediente, sino una herramienta omnipresente: el utensilio de cocina de plástico negro. Espátulas, cucharas y espumaderas, antes símbolos de modernidad y limpieza profesional, se convirtieron de la noche a la mañana en presuntos vectores de intoxicación masiva.
-
-Continua leyendo en ... [[El "Pánico Bromado" Un Análisis Psicohistórico de la Campaña contra el Plástico Negro en la Cocina (2024-2026) 🟡③]]
 
 --- column-end ---
 

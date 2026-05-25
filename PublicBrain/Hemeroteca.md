@@ -9,16 +9,17 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-06T18:12:22.446Z
-modified: 2026-05-21T11:18:20.699Z
+modified: 2026-05-25T06:31:56.735Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 84
+ver_rev: 89
 nav_primary:
 nav_secondary:
 tags:
 ---
+# Hemeroteca
  # Hemeroteca
 
 [[Noticias]]
@@ -39,7 +40,8 @@ Continuar explorando en [[Hemeroteca - Scene News]]
 
  --- column-end ---
 
-![Turra News 010](PublicBrain/_resources/07e11279ba55ed2cc27abb22fbf0e116_MD5.jpg)
+![Turra news 011](PublicBrain/_resources/bc64611982501da6f8f51e57e91e0f3e_MD5.jpg)
+
 ## Turra News
 
 El Seguimiento semanal de los hilos turra de Javier G. Recuenco
@@ -48,9 +50,7 @@ Continuar explorando en [[Hemeroteca - Turra News]]
 
 --- column-end ---
 
-
-![TuxNSec 001 Ediotorial](PublicBrain/_resources/425ac4b3128b002b79d45e68f8dc09f4_MD5.jpg)
-
+![TuxNSec](PublicBrain/_resources/cbf3d1254f4fe03a3fab4b1b72b456bc_MD5.jpg)
 ## TuxNSec
 
 > EN PREPARACION

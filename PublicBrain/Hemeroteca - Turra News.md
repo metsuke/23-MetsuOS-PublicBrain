@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-05-24T22:17:03.703Z
+modified: 2026-05-29T08:05:56.037Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 49
+ver_rev: 50
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -121,7 +121,7 @@ Accede al contenido del hilo en ... [[Hemeroteca - Turra News 003 🟡③]]
 
 ## Turra News 002
 
-Accede al contenido del hilo en ... [Turra News 002 🟡③🌐](https://x.com/Recuenco/status/2030161085941039583?s=20)
+Continua leyendo en ... [[Hemeroteca - Turra News 002]]
 
 --- column-end ---
 

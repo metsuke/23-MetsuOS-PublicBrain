@@ -30,6 +30,14 @@ Number of Columns: 2
 Border: off
 ```
 
+![Scene News 6](_resources/ce29f7a26b3bcc0958d391a285966ab2_MD5.jpg)
+
+## Sceme News 006
+
+Continua leyendo en ... [[Hemeroteca - Scene News 006]]
+
+--- column-end ---
+
 ![Scene News 005 Año 1 - número 5 - 04/05/2026 a 17/05/2026](_resources/af1368e165dbdfbfc80b94dd52a3ceac_MD5.jpg)
 ## Scene News 005
 

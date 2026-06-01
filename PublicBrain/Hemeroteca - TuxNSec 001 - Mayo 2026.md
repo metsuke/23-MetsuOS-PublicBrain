@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-21T19:58:41.413Z
-modified: 2026-05-27T12:09:18.405Z
+modified: 2026-05-31T00:38:18.349Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 15
+ver_rev: 19
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -56,6 +56,7 @@ Number of Columns: 2
 Border: off
 ```
 
+![¿Es la cadena de suministro un vertedero repleto de farlopa?](PublicBrain/_resources/22218c094c13b5c888d878e406f6504c_MD5.jpg)
 ## ¿Es la cadena de suministro un vertedero repleto de farlopa?
 
 Puede parecer una exageración y puede que lo sea, pero ciertamente desde que estoy empezando a seguir un poco mas de cerca los boquetes de seguridad constantes del mundo del software  no se si  de verdad es algo inevitable o si todo viene por usuarios que no valoran el trabajo ajeno y por tanto no permiten inversiones adecuadas en seguridad y desarrollo propio en las desarrolladoras.
@@ -73,7 +74,12 @@ La lista es increiblemente preocupante, veremos que ocurre a futuro ...
 
  --- column-end ---
 
-C2
+![Quantum Computer](PublicBrain/_resources/3c980f1bddb92df3dbfbada57afb159d_MD5.jpg)
+## Avance en Barcelona para alcanzar la soberania cuántica
+
+A pesar de que parezca un poco David contra Golitath, parece imprescindible, con la que está cayendo, cuando menos avanzar en la dirección de alcanzar cierta soberania respecto a otras potencias, aunque las apuestas estén en nuestra contra.
+
+Es el caso de Francia con su proyecto de abandonar Windows - aunque no se si estamos listos para algo así dado que [han tardado nada y menos en hackerar el sistema de verificacion de edad  🟡③🌐](https://x.com/The_Cyber_News/status/2044977201402277980?s=20) -   y es el caso aquí en el que [el superordenadro de Barceloina ha agregado un tercer ordenador cuántico  🟡③🌐](https://x.com/elhackernet/status/2060030671356068327?s=20), veremos si logramos sacarle partido en tiempo y forma.
 
 --- column-end ---
 --- multi-column-end
@@ -84,12 +90,26 @@ C2
 Number of Columns: 2
 Border: off
 ```
-C1
+
+## Noticias Breves
+
+* [Nuevo escándalo de Motorola por secuestro de aplicaciones de compras 🟡③🌐](https://x.com/isa_marcial/status/2060541706039070982?s=20) - ¿Será que TODOS los proveedores nos venden la moto de la seguridad pero en realidad nos venderían por un plato de sopa?
+
+--- column-end ---
+## En Titulares
+
+* [Temu multada por presunta venta de productos ilegales e inseguros para niños 🟡③🌐](https://x.com/elhackernet/status/2060271039272116477?s=20)
+* [Por lo que pueda pasar, aprende a diseccionar Malware 🟡③🌐](https://x.com/5mukx/status/2044781825634296253?s=20)
+* [Familiarizate con Kali Linux, por si hay que cavar trincheras  🟡③🌐](https://x.com/VivekIntel/status/2055626442789326866?s=20)
+* [Android is Dead 🟡③🌐](https://x.com/elhackernet/status/2059016058292379800?s=20)
+* [¿Hora de abandonar Github? 🟡③🌐](https://x.com/The_Cyber_News/status/2056937421712085310?s=20)
+
  --- column-end ---
 
 ## El Directorio
 
-* [Foro sobre Linux en Español  🟡③🌐](https://x.com/rcv11x/status/2050631239711821875?s=20)
+* [Foro sobre Linux en Español 🟡③🌐](https://x.com/rcv11x/status/2050631239711821875?s=20)
+* [OSINT a GO-GO 🟡③🌐](https://x.com/VivekIntel/status/2060796123380646128?s=20)
 
  --- column-end ---
 --- multi-column-end

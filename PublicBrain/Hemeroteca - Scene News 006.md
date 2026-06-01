@@ -19,7 +19,7 @@ nav_primary:
 nav_secondary:
 tags:
 ---
-# Noticias
+# Hemeroteca - Scene News 006
 
  ![Scene News 6](_resources/ce29f7a26b3bcc0958d391a285966ab2_MD5.jpg)
 

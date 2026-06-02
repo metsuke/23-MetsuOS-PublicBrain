@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-05-29T08:05:56.037Z
+modified: 2026-06-02T12:29:20.171Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 50
+ver_rev: 53
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -121,7 +121,9 @@ Accede al contenido del hilo en ... [[Hemeroteca - Turra News 003 🟡③]]
 
 ## Turra News 002
 
-Continua leyendo en ... [[Hemeroteca - Turra News 002]]
+En este hilo denso y característico de su estilo reflexivo, Javier Recuenco examina la transición del modelo tradicional de *Private Equity* (PE) hacia un nuevo paradigma que denomina **post-PE**. Analiza con profundidad las diferencias entre **juegos de suma variable a corto y largo plazo**, la importancia crítica del *timing* en contextos de alta incertidumbre, el concepto de **personotecnia** (gestión centrada en el talento y la cognición humana) y la necesidad de un cambio estratégico ante las limitaciones crecientes del PE convencional. 
+
+Continua leyendo en ... [[Hemeroteca - Turra News 002 🟡③]]
 
 --- column-end ---
 

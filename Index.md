@@ -31,20 +31,20 @@ Number of Columns: 2
 Border: off
 ```
 
-![Scene News 005 Año 1 - número 5 - 04/05/2026 a 17/05/2026](_resources/af1368e165dbdfbfc80b94dd52a3ceac_MD5.jpg)
 
-### Retroscene - Scene News 005
+![Scene News 6](_resources/ce29f7a26b3bcc0958d391a285966ab2_MD5.jpg)
 
-Continua leyendo en ... [[Hemeroteca - Scene News 005]]
+### Retroscene - Scene News 006
+
+Continua leyendo en ... [[Hemeroteca - Scene News 006]]
 
 --- column-end ---
 
 
-![Turra news 011](PublicBrain/_resources/bc64611982501da6f8f51e57e91e0f3e_MD5.jpg)
+![Turra News Especial 001](PublicBrain/_resources/23b7cb6c8aa1e6aac7a782b98dd1e8e2_MD5.jpg)
+### CPS - Turra News Especial 001
 
-### CPS - Turra News 011
-
-Continua leyendo en ... [[Hemeroteca - Turra News 011 🟡③]]
+Continua leyendo en ... [[Turra News Especial 001  🟡③]]
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-29T22:46:53.299Z
-modified: 2026-04-02T17:49:11.979Z
+modified: 2026-06-03T16:48:01.860Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 21
+ver_rev: 24
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -39,6 +39,14 @@ Es una labor vasta, que demandará tiempo –tal vez años– para avanzar, y qu
 Number of Columns: 2
 Border: off
 ```
+
+![Libro La Historia de Dinamic](PublicBrain/_resources/e3ba5409887e1af55ecb4ba86421f991_MD5.jpeg)
+## Bibliografía: La Historia de Dinamic
+
+
+Continua Leyendo en [[Libros - La Historia de Dinamic]]
+
+--- column-end ---
 
 ![Biblioteca del Retro - Historia de las Plataformas de Videojuegos](PublicBrain/_resources/f082cc6cb4b7e1872c17ffaef5963e70_MD5.jpg)
 

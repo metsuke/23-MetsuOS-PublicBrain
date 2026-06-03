@@ -31,12 +31,12 @@ Border: off
 
 
 
-![Turra news 011](PublicBrain/_resources/bc64611982501da6f8f51e57e91e0f3e_MD5.jpg)
-## Turra News 011
+![Turra News Especial 001](PublicBrain/_resources/23b7cb6c8aa1e6aac7a782b98dd1e8e2_MD5.jpg)
+## Turra News Especial 001
 
-Este hilo forma parte del arco educativo de Javier G. Recuenco (@Recuenco). Explora la tensión estructural entre dos enfoques ante la IA: el institucional (cauteloso y regulatorio, representado por la guía finlandesa de 2025) y el disruptivo del mercado (ejemplificado por contrataciones en empresas como SpaceXAI, donde priman la capacidad cognitiva cruda, la iniciativa y la velocidad de aprendizaje sobre los títulos tradicionales).
+César Astudillo, persona autista declarada (2e/TEA), realiza un análisis detallado de cómo operan los acuerdos y contratos en el mundo neurotípico. Según su visión, estos no se basan solo en reglas explícitas, sino en incumplimientos estratégicos silenciosos que generan “deudas morales tácitas”. El hilo contrasta este modelo ambiguo con la necesidad autista de claridad y literalidad, destacando el sufrimiento que genera para las personas neurodivergentes. Utiliza ejemplos cotidianos, referencias a la serie *Suits* y una crítica a las DAOs para argumentar que la naturaleza humana real es incompatible con sistemas completamente codificados y rígidos.
 
-Continua leyendo en ... [[Hemeroteca - Turra News 011 🟡③]]
+Continua leyendo en ... [[Turra News Especial 001  🟡③]]
 
 --- column-end ---
 

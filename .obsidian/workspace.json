@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Noticias.md",
+                "file": "PublicBrain/Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Noticias"
+              "title": "Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①"
+            }
+          },
+          {
+            "id": "2911d4b6b38846a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,14 +217,27 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cff270e5ca64519f",
+  "active": "2911d4b6b38846a3",
   "lastOpenFiles": [
-    "_resources/e53275c7ddc87c811501926df1b9761d_MD5.jpg",
-    "PublicBrain/Hemeroteca - Turra News.md",
-    "PublicBrain/Hemeroteca - Turra News 002 🟡③.md",
+    "PublicBrain/Hemeroteca - Scene News.md",
     "PublicBrain/Hemeroteca.md",
     "Noticias.md",
-    "PublicBrain/Hemeroteca - Scene News.md",
+    "Novedades.md",
+    "Index.md",
+    "PublicBrain/Hemeroteca - Turra News.md",
+    "PublicBrain/Turra News Especial 001  🟡③.md",
+    "PublicBrain/_resources/23b7cb6c8aa1e6aac7a782b98dd1e8e2_MD5.jpg",
+    "PublicBrain/Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①.md",
+    "Turra News Especial 001 ⚫①.md",
+    "PublicBrain/La Biblioteca del Archivero del Retro 🟡③.md",
+    "Libros - La Historia de Dinamic.md",
+    "PublicBrain/Libros - La Historia de Dinamic.md",
+    "KB.md",
+    "Libro_HistoriaDinamic.jpeg",
+    "PublicBrain/_resources/03c0eec6405468cbfedff59aa9eb579d_MD5.jpg",
+    "PublicBrain/_resources/e3ba5409887e1af55ecb4ba86421f991_MD5.jpeg",
+    "_resources/e53275c7ddc87c811501926df1b9761d_MD5.jpg",
+    "PublicBrain/Hemeroteca - Turra News 002 🟡③.md",
     "PublicBrain/Hemeroteca - Scene News 006.md",
     "_resources/ce29f7a26b3bcc0958d391a285966ab2_MD5.jpg",
     "PublicBrain/Hemeroteca - TuxNSec 001 - Mayo 2026.md",
@@ -220,26 +248,12 @@
     "Hemeroteca - Turra News 002.md",
     "NPL.md",
     "PublicBrain/DiskContestJapan.jpeg",
-    "_resources/bc95d819de07950ce9238ce1e82cfeb9_MD5.jpg",
-    "Gemini_Generated_Image_c8ap5fc8ap5fc8ap.png",
-    "DiskContestJapan.jpeg",
-    "_resources/cbde6cbb9f7654b3c1256fc7e878895c_MD5.jpg",
-    "Gemini_Generated_Image_fsnge1fsnge1fsng.png",
     "README.md",
-    "KB.md",
     "PublicBrain/Rojo2  🟡③.md",
     "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
     "Rojo2  🟡③.md",
     "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle.md",
     "PublicBrain/Hemeroteca - TuxNSec.md",
-    "Index.md",
-    "El Proyecto.md",
-    "Novedades.md",
-    "PublicBrain/Hemeroteca - Turra News 011 🟡③.md",
-    "Blog.md",
-    "Hemeroteca - Turra News 011 ⚫①.md",
-    "PublicBrain/MetsuOS Hacia una Soberanía de la Inteligencia Local 🟡③.md",
-    "MetsuOS Hacia una Soberanía de la Inteligencia Local.md",
     "PublicBrain/Hilo Truth Coping - 31/05",
     "PublicBrain/Hilo Truth Coping - 31",
     "Hilo Truth Coping - 31/05",

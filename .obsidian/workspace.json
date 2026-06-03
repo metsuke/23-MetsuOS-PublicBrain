@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Hemeroteca - Turra News 002 🟡③.md",
+                "file": "Noticias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hemeroteca - Turra News 002 🟡③"
+              "title": "Noticias"
             }
           }
         ]
@@ -204,6 +204,7 @@
   },
   "active": "cff270e5ca64519f",
   "lastOpenFiles": [
+    "_resources/e53275c7ddc87c811501926df1b9761d_MD5.jpg",
     "PublicBrain/Hemeroteca - Turra News.md",
     "PublicBrain/Hemeroteca - Turra News 002 🟡③.md",
     "PublicBrain/Hemeroteca.md",

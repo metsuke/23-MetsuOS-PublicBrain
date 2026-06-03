@@ -21,26 +21,29 @@ tags:
 ---
 # Noticias
 
- ![Scene News 6](_resources/ce29f7a26b3bcc0958d391a285966ab2_MD5.jpg)
-
- [[Index]] | [[Hemeroteca]]
-## Scene News 006
-
-> Año 1 - número 6 - 18/05/2026 a 31/05/2026
-
+![Horizon Chase](_resources/e53275c7ddc87c811501926df1b9761d_MD5.jpg)
  
-![Proteger el videojuego](_resources/f518e27390a883ec56aa3c9e01ca9963_MD5.jpg)
-## En defensa de la preservación
+ [[Index]] | [[Hemeroteca]]
+## Scene News 007
 
-Es un viejo reclamo en el mundo del videojuego, la preservación y evitar que la dejadez, ansia econímuca y porque no decirlo, carencia de amor por el videojuego en la propia industria permitan que nuestro legado cultural se pierda y es que no, una vez superada la vida comercial de un producto (unos dos años), deberia ser delito lesa humanidad dejar perder la cultura, cerrar servidores o rehacer un contenido al punto de cambiar su significado.
+> Año 1 - número 7 - 01/06/2026 a 14/06/2026
 
-Los mas cafeteros se echaran las manos a la cabeza ¡es mi obra!¡ladrones! y puede que - al contrario de lo que reconoce la legislacion actual de una forma  a mi entender absolutamente enfermiza - si, al compienzo fuera tu producto, pero una vez comercializado y compartido por los lectores o jugadores, ya no es tu producto, es NUESTRA CULTURA.
+![Horizon Chase](_resources/e53275c7ddc87c811501926df1b9761d_MD5.jpg)
+## El robo cultural de las desarrolladoras de videojuegos
 
-En cualquier caso, y consciente de lo polémico de este punto de vista, quisiera compartir una noticia que avanza un paso mas en la dirección de la preservación cualtural por encima de cualquier internto de destrucción o limitación de la cultura común. En tiempos de IA, esto ya es cuestion de supervivencia de NUESTRO conocimiento.
+Si, robo cultural. Cuando una empresa, como pasa con Horizon Chase Turbo, elimina un juego de una tienda, aunque legalmente (tambien era legal discriminar al pueblo judio en la alemania nazi y eso no lo hacia aceptable), en realidad esta robando a sus usuarios una parte de su acervo cultural.
 
-* [Tu unidad Blu-ray ya puede preservar juegos de GameCube, Wii, y Xbox legalmente  🟡③🌐](https://x.com/TechSpot/status/2057928075321495746?s=20)
-* [A new project called OmniDrive enables some Blu-ray drives to rip older console games directly to a PC 🟡③🌐](https://x.com/Pirat_Nation/status/2059379296461115626?s=20)
-* [OmniDrive: convierte tu Blu-ray en grabadora de juegos retro 🟡③🌐](https://x.com/elhackernet/status/2059362843942608935?s=20)
+Lo mismo pasa con libros, revistas, musica, películas  ... con la EXCUSA de la digitalizacion, se toma nuestro dinero sin darnos realmente el producto, como si un albañil quisiera cobrarnos veinte años por la existencia de un muro. Esto es inaceptable, una vez superados los dos años de explotacion comercial monopolística, cualquier obra cultural deberia pasar a dominio publico de plano y, mientras la legislación no cambie - que tiene que cambiar - lo mínimo EXIGIBLE es la posesion de la obra digital adquirida. 
+
+No es valido convertir la cultura en una suscripción perpetua, como no lo es el cobro "por protección de la mafia", en obras que pueden perfectamente correr en local y ocupar un espacio de mínimo a razonable. Es hora de DEJAR DE APOYAR a cualquiera que pretenda robar nuestra cultura - quizá deba usted, querido lector, repasar el caso de la muerte de superman - y apoyar en esos dos años de explotación comercial a los autores de las obras comprandoles y NO distribuyendo antes de hora, que se confunde facilmente libre con gratis.
+
+Porque ojo, para poder exigir posesión, se nos debe exigir responsabilidad, a fin de que la hormésis cultural lleve al aumento de calidad, no a la banalización de la basura cognitiva.
+
+* [Sobre la trepanación de Horizon Chase Turbo 🟡③🌐](https://x.com/bigodeverso/status/2060703429832417559?s=20)
+
+> OJO WIP
+
+**Prevously, on Scene News 006**
 
 --- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  

@@ -25,7 +25,6 @@ tags: []
 ## TuxNSec 001 - Mayo 2026
 
 [[Hemeroteca - TuxNSec]]
-## Tux'N'Sec 001
 
 > Año 1 - número 1 - 01/05/2026 a 31/05/2026
 

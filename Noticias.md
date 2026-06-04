@@ -21,7 +21,7 @@ tags:
 ---
 # Noticias
 
-![Horizon Chase](_resources/e53275c7ddc87c811501926df1b9761d_MD5.jpg)
+![Scene News 7](_resources/badf42d3fa87b6e651e702630115eefa_MD5.jpg)
  
  [[Index]] | [[Hemeroteca]]
 ## Scene News 007

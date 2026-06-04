@@ -1,3 +1,21 @@
+---
+iaStatus: 0
+iaStatus_Model: ""
+a11y: 0
+checked: 0
+lang: ES
+translations: 
+created: 2026-06-03T19:26:23.016Z
+modified: 2026-06-04T01:33:05.919Z
+supervisado: ""
+ACCION: ""
+ver_major: 0
+ver_minor: 1
+ver_rev: 1
+nav_primary: []
+nav_secondary: []
+tags: []
+---
 # Turra News Especial 001  🟡③
 
 ![Turra News Especial 001](PublicBrain/_resources/23b7cb6c8aa1e6aac7a782b98dd1e8e2_MD5.jpg)

@@ -23,7 +23,7 @@ tags: []
 
 [[Hemeroteca]]
 
-![TuxNSec](PublicBrain/_resources/cbf3d1254f4fe03a3fab4b1b72b456bc_MD5.jpg)
+![TuxNSec 001](PublicBrain/_resources/d009eddf0efe5f4cac1d597f2f4c5dd9_MD5.jpg)
 
 ## TuxNSec 001 - Mayo 2026
 

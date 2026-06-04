@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cff270e5ca64519f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①"
-            }
-          },
-          {
             "id": "2911d4b6b38846a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PublicBrain/Hemeroteca - TuxNSec 001 - Mayo 2026.md",
+                "file": "PublicBrain/Hemeroteca.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hemeroteca - TuxNSec 001 - Mayo 2026"
+              "title": "Hemeroteca"
+            }
+          },
+          {
+            "id": "d857c0472f923e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Noticias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Noticias"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,9 +218,13 @@
   },
   "active": "2911d4b6b38846a3",
   "lastOpenFiles": [
+    "PublicBrain/Hemeroteca - TuxNSec.md",
+    "PublicBrain/Hemeroteca - TuxNSec 001 - Mayo 2026.md",
     "PublicBrain/Hemereotca - TuxNSec.md",
     "PublicBrain/Hemeroteca.md",
+    "PublicBrain/_resources/d009eddf0efe5f4cac1d597f2f4c5dd9_MD5.jpg",
     "Noticias.md",
+    "PublicBrain/Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①.md",
     "_resources/badf42d3fa87b6e651e702630115eefa_MD5.jpg",
     "Index.md",
     "PublicBrain/Hemeroteca - Scene News.md",
@@ -229,7 +232,6 @@
     "PublicBrain/Hemeroteca - Turra News.md",
     "PublicBrain/Turra News Especial 001  🟡③.md",
     "PublicBrain/_resources/23b7cb6c8aa1e6aac7a782b98dd1e8e2_MD5.jpg",
-    "PublicBrain/Biblioteca del Retro - Historia de las Plataformas de Videojuegos  ⚫①.md",
     "Turra News Especial 001 ⚫①.md",
     "PublicBrain/La Biblioteca del Archivero del Retro 🟡③.md",
     "Libros - La Historia de Dinamic.md",
@@ -242,10 +244,8 @@
     "PublicBrain/Hemeroteca - Turra News 002 🟡③.md",
     "PublicBrain/Hemeroteca - Scene News 006.md",
     "_resources/ce29f7a26b3bcc0958d391a285966ab2_MD5.jpg",
-    "PublicBrain/Hemeroteca - TuxNSec 001 - Mayo 2026.md",
     "PublicBrain/_resources/22218c094c13b5c888d878e406f6504c_MD5.jpg",
     "sPu7k.jpg",
-    "PublicBrain/_resources/3c980f1bddb92df3dbfbada57afb159d_MD5.jpg",
     "Hemeroteca - Turra News 002.md",
     "NPL.md",
     "README.md",
@@ -253,7 +253,6 @@
     "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②).md",
     "Rojo2  🟡③.md",
     "PublicBrain/⚫🔴🟡🟢🔵⚪ (🔴②) Un poco más de detalle.md",
-    "PublicBrain/Hemeroteca - TuxNSec.md",
     "PublicBrain/Hilo Truth Coping - 31/05",
     "PublicBrain/Hilo Truth Coping - 31",
     "Hilo Truth Coping - 31/05",

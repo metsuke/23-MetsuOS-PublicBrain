@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-01-29T22:46:53.299Z
-modified: 2026-06-04T03:59:32.135Z
+modified: 2026-06-04T09:25:58.298Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 28
+ver_rev: 29
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -43,8 +43,9 @@ Border: off
 ![Libro La Historia de Dinamic](PublicBrain/_resources/e3ba5409887e1af55ecb4ba86421f991_MD5.jpeg)
 ## Bibliografía: La Historia de Dinamic
 
+Este libro no es simplemente un listado de juegos; es una **biografía industrial**. Jesús Martínez del Vas (JMV) logra capturar el espíritu de una época donde la pasión suplía la falta de medios. A través de una investigación que se extendió por más de una década, el autor nos narra la evolución de **Dinamic Software**, desde la mítica buhardilla de la familia Ruiz hasta convertirse en el referente de la "Edad de Oro del software español".
 
-Continua Leyendo en [[Libros - La Historia de Dinamic]]
+Continua Leyendo en [[Libros - La Historia de Dinamic 🟡③]]
 
 --- column-end ---
 

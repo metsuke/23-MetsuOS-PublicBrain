@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-06-03T22:19:30.972Z
+modified: 2026-06-05T11:28:41.563Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 199
+ver_rev: 211
 nav_primary: 
 nav_secondary: 
 tags:
@@ -31,12 +31,39 @@ Border: off
 
 
 
+![Libro La Historia de Dinamic](PublicBrain/_resources/e3ba5409887e1af55ecb4ba86421f991_MD5.jpeg)
+## KB - Bibliografía - La Historia de Dinamic
+
+Este libro no es simplemente un listado de juegos; es una **biografía industrial**. Jesús Martínez del Vas (JMV) logra capturar el espíritu de una época donde la pasión suplía la falta de medios. A través de una investigación que se extendió por más de una década, el autor nos narra la evolución de **Dinamic Software**, desde la mítica buhardilla de la familia Ruiz hasta convertirse en el referente de la "Edad de Oro del software español".
+
+Continua Leyendo en [[Libros - La Historia de Dinamic 🟡③]]
+
+--- column-end ---
+
+![TuxNSec 001](PublicBrain/_resources/d009eddf0efe5f4cac1d597f2f4c5dd9_MD5.jpg)
+
+## Ciberseguridad - Tux'N'Sec 001
+
+Cubrimos tambien finales de abril para cuadrar mejor la periodicidad.
+
+Continuar leyendo en ... [[Hemeroteca - TuxNSec 001 - Mayo 2026]]
+
+--- column-end ---
+
 ![Turra News Especial 001](PublicBrain/_resources/23b7cb6c8aa1e6aac7a782b98dd1e8e2_MD5.jpg)
-## Turra News Especial 001
+## CPS - Turra News Especial 001
 
 César Astudillo, persona autista declarada (2e/TEA), realiza un análisis detallado de cómo operan los acuerdos y contratos en el mundo neurotípico. Según su visión, estos no se basan solo en reglas explícitas, sino en incumplimientos estratégicos silenciosos que generan “deudas morales tácitas”. El hilo contrasta este modelo ambiguo con la necesidad autista de claridad y literalidad, destacando el sufrimiento que genera para las personas neurodivergentes. Utiliza ejemplos cotidianos, referencias a la serie *Suits* y una crítica a las DAOs para argumentar que la naturaleza humana real es incompatible con sistemas completamente codificados y rígidos.
 
 Continua leyendo en ... [[Turra News Especial 001  🟡③]]
+
+--- column-end ---
+
+![Scene News 6](_resources/ce29f7a26b3bcc0958d391a285966ab2_MD5.jpg)
+
+## Retroscene - Sceme News 006
+
+Continua leyendo en ... [[Hemeroteca - Scene News 006]]
 
 --- column-end ---
 
@@ -111,16 +138,6 @@ Continuar leyendo en ... [[Curso Publicacion de Contenido Editorial como Aventur
 
 
 
-
---- column-end ---
-
-
-![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
-## KB - La Biblioteca del Archivero del Retro
-
-Este proyecto busca crear una base de datos completa y detallada de libros, revistas, juegos, autores, desarrolladores, diseñadores, grafistas, compañias, eventos y, en general todo lo relacionado con la historia del videojuego.
-
-Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
 
 --- column-end ---
 

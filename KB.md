@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-06-12T14:45:59.756Z
-modified: 2026-05-02T15:37:47.248Z
+modified: 2026-06-05T11:28:41.566Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 95
+ver_rev: 102
 nav_primary:
 nav_secondary:
 tags:
@@ -100,6 +100,15 @@ Number of Columns: 2
 Border: off
 ```
 
+![Curso GNU Linux](_resources/2578748872e4e1a7128a1cae5cb508f4_MD5.jpg)
+## Curso de GNU/Linux
+
+Este itinerario formativo está diseñado para transformar la comprensión técnica del estudiante, partiendo de los fundamentos éticos y arquitectónicos hasta alcanzar el control total de la administración de servidores y la automatización de procesos.
+
+Continua leyendo en ... [[Curso de GNU-Linux  🟡③]]
+
+
+--- column-end ---
 
 ![Curso e introducción técnica sobre  MCL (MetsuOS Context Language)](_resources/7206855ce31fcc3bc33e609ee721c532_MD5.jpg)
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-06-03T22:24:09.406Z
+modified: 2026-06-05T11:28:41.569Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 163
+ver_rev: 174
 nav_primary:
 nav_secondary:
 tags:
@@ -48,6 +48,22 @@ Continua leyendo en ... [[Turra News Especial 001  🟡③]]
 
 --- column-end ---
 
+![TuxNSec 001](PublicBrain/_resources/d009eddf0efe5f4cac1d597f2f4c5dd9_MD5.jpg)
+
+### Ciberseguridad - Tux'N'Sec 001
+
+Continuar leyendo en ... [[Hemeroteca - TuxNSec 001 - Mayo 2026]]
+
+--- column-end ---
+
+
+![Libro La Historia de Dinamic](PublicBrain/_resources/e3ba5409887e1af55ecb4ba86421f991_MD5.jpeg)
+### Bibliografía - La Historia de Dinamic
+
+Continua Leyendo en [[Libros - La Historia de Dinamic 🟡③]]
+
+--- column-end ---
+
 ![Arte generativo inspirado en la loading scren del juego](_resources/9f04cadb874aa99346d0f7d326ab18ad_MD5.jpg)
 ### Reportajes - Lanzamiento de  Perseus para ZX Spectrum 128K: Una aventura épica impulsada por el motor Tuerkas128
 
@@ -62,14 +78,6 @@ Continuar leyendo en ... [[Reportajes - Lanzamiento de Perseus para ZX Spectrum 
 Continuyar leyendo en ... [[MetsuDepManager - Visión general del proyecto 🟡③]] y [[Curso sobre desarrollo de un gestor de paquetes python que use poetry como backend 🟡③]]
 
  --- column-end ---
-
-
-![La Biblioteca del Archivero del Retro](PublicBrain/_resources/95cf0f3555613c649bd0de7edc67d2c1_MD5.jpg)
-### Biblioteca - La Biblioteca del Archivero del Retro
-
-Continua leyendo en ... [[La Biblioteca del Archivero del Retro 🟡③]]
-
---- column-end ---
 
 
 ![MetsuOS Today](PublicBrain/_resources/aa8f17e71a2a8937c78d0c86c7450d60_MD5.jpg)

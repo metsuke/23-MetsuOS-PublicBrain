@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-06-05T11:28:41.563Z
+modified: 2026-06-07T08:18:39.686Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 211
+ver_rev: 223
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,6 +30,16 @@ Border: off
 ```
 
 
+
+![Turra News 012](PublicBrain/_resources/0ae4be5a682365684643f2c8c3bc164d_MD5.jpg)
+
+## CPS - Turra News 012
+
+Este hilo exhaustivo de Javier G. Recuenco sintetiza y comenta el libro *La Inteligencia Artificial y el futuro de la Universidad. Manual estratégico para gobernar la transformación institucional*, de José Sepúlveda Sanchis. No se trata de un manual técnico de herramientas ni de soluciones rápidas contra el plagio, sino de un análisis estratégico dirigido a líderes universitarios (rectores, vicerrectores y equipos de gobierno). 
+
+Continua leyendo en ... [[Hemeroteca - Turra News 012 🟡③]]
+
+--- column-end ---
 
 ![Libro La Historia de Dinamic](PublicBrain/_resources/e3ba5409887e1af55ecb4ba86421f991_MD5.jpeg)
 ## KB - Bibliografía - La Historia de Dinamic
@@ -48,14 +58,6 @@ Cubrimos tambien finales de abril para cuadrar mejor la periodicidad.
 
 Continuar leyendo en ... [[Hemeroteca - TuxNSec 001 - Mayo 2026]]
 
---- column-end ---
-
-![Turra News Especial 001](PublicBrain/_resources/23b7cb6c8aa1e6aac7a782b98dd1e8e2_MD5.jpg)
-## CPS - Turra News Especial 001
-
-César Astudillo, persona autista declarada (2e/TEA), realiza un análisis detallado de cómo operan los acuerdos y contratos en el mundo neurotípico. Según su visión, estos no se basan solo en reglas explícitas, sino en incumplimientos estratégicos silenciosos que generan “deudas morales tácitas”. El hilo contrasta este modelo ambiguo con la necesidad autista de claridad y literalidad, destacando el sufrimiento que genera para las personas neurodivergentes. Utiliza ejemplos cotidianos, referencias a la serie *Suits* y una crítica a las DAOs para argumentar que la naturaleza humana real es incompatible con sistemas completamente codificados y rígidos.
-
-Continua leyendo en ... [[Turra News Especial 001  🟡③]]
 
 --- column-end ---
 

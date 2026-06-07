@@ -1,22 +1,25 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Gemini, Grok, Raul Carrillo aka metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2026-06-03T19:26:23.016Z
-modified: 2026-06-04T01:33:05.919Z
+modified: 2026-06-06T10:35:45.056Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 1
+ver_minor: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
-# Turra News Especial 001  🟡③
+# Hemeroteca - Turra News Especial 001  🟡③
 
 ![Turra News Especial 001](PublicBrain/_resources/23b7cb6c8aa1e6aac7a782b98dd1e8e2_MD5.jpg)
 
@@ -37,7 +40,7 @@ César Astudillo expone con claridad y crudeza una experiencia compartida por mu
 
 1. **Dualidad de los contratos neurotípicos**: Existe una diferencia significativa entre lo que dice formalmente un acuerdo y lo que realmente ocurre en la práctica. Los incumplimientos son a menudo estratégicos, sutiles y se gestionan mediante señales indirectas.
 2. **Mecanismo del “reprochatoken”**: El incumplimiento genera una deuda moral tácita que la otra parte puede “cobrar” más adelante sin necesidad de verbalizarla explícitamente.
-3. **Tabú de la explicitación**: Hablar abiertamente de estas normas implícitas suele romper el funcionamiento del sistema; la ambigüedad es funcional para el mundo neurotípico.
+3. **Tabú de la explicitación**: "H"ablar abiertamente de estas normas implícitas suele romper el funcionamiento del sistema; la ambigüedad es funcional para el mundo neurotípico.
 4. **Impacto en personas autistas**: Esta opacidad genera un sufrimiento constante y dificulta enormemente la navegación social.
 5. **Implicaciones sistémicas**: Las organizaciones basadas en reglas inmutables (como las DAOs) chocan con la realidad humana, que requiere flexibilidad, reciprocidad difusa y, en ocasiones, cierta dosis de hipocresía.
 
@@ -46,7 +49,7 @@ César Astudillo expone con claridad y crudeza una experiencia compartida por mu
 - **Tweet principal**: Diferencia entre el cumplimiento literal (autista) y el cumplimiento estratégico implícito (neurotípico).
 - **Desarrollo**: Explicación del funcionamiento de los incumplimientos silenciosos y el “reprochatoken”.
 - **Reflexión personal**: Sufrimiento acumulado por la opacidad social.
-- **Crítica más amplia**: Inviabilidad de sistemas completamente codificados (DAOs).
+- **Crítica más amplia**: "I"nviabilidad de sistemas completamente codificados (DAOs).
 - **Cierre**: Referencia a *Suits* como ejemplo de un sistema más explícito de favores y deudas.
 
 ## Contenidos Recomendados en el Hilo

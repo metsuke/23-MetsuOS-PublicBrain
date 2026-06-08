@@ -9,19 +9,19 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-06-07T08:18:41.867Z
+modified: 2026-06-07T21:58:18.805Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 64
+ver_rev: 66
 nav_primary: []
 nav_secondary: []
 tags: []
 ---
 # Hemeroteca - Turra News
 
-[[Hemeroteca]]
+[[Hemeroteca]] | [[Turra Grid]]
 
 --- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  

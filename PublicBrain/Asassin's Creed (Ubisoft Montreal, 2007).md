@@ -9,17 +9,17 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-04-06T23:49:00.995Z
-modified: 2024-11-11T21:11:08.833Z
+modified: 2026-06-08T22:35:53.624Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 27
+ver_rev: 35
 nav_primary: 
 nav_secondary: 
 tags:
 ---
-# Asassin's Creed (Ubisoft Montreal, 2007)
+t# Asassin's Creed (Ubisoft Montreal, 2007)
 
 [[Narrativa y Storytelling en el mundo del videojuego]]
 

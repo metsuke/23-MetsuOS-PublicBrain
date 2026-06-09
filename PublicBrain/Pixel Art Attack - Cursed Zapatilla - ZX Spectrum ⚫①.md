@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-09-01T17:07:42.909Z
-modified: 2025-12-25T20:46:35.686Z
+modified: 2026-06-08T22:35:47.297Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 9
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -25,10 +25,10 @@ MOS_TopImg_Video: ZX_CursedZapatilla_Loading_001.mp4
 ![Conversion 1:1 de la imagen origen](PublicBrain/_resources/f0679c5d61a4dde79174bc8fcb57d218_MD5.jpg)
 
 * [[Pixel Art Attack - Creando gráficos retro ⚫①]]
-* [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2026)]]
+* [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2027)]]
 * [[Curso de ZXGM Básico 06 - Pantallas de presentación y transición en el juego 🔴②]]
 
-Iniciamos aquí el Pixel Art Attack de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2026)]] para ZX Spectrum. ¡Al lio!
+Iniciamos aquí el Pixel Art Attack de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2027)]] para ZX Spectrum. ¡Al lio!
 
 --- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  

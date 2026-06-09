@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-06-07T21:58:17.301Z
+modified: 2026-06-08T22:35:43.146Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 225
+ver_rev: 233
 nav_primary: 
 nav_secondary: 
 tags:

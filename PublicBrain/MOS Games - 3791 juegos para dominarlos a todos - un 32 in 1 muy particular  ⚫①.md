@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-14T09:04:55.743Z
-modified: 2025-12-25T20:46:35.763Z
+modified: 2026-06-08T16:38:29.472Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 13
+ver_rev: 14
 nav_primary:
 nav_secondary:
 tags:
@@ -42,13 +42,13 @@ Border: off
 ```
 
 ![Caratula de Cursed Zapatillas](PublicBrain/_resources/33d90a6b2fb87f43d9c3829c4f53814e_MD5.jpg)
-### 001 - MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto ¿2026?)
+### 001 - MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto ¿2027?)
 
 ¡Ponte la armadura de Sir Patillas en este emocionante juego de plataformas homenaje a los clásicos _Ghouls 'n Ghosts_, _Ghosts 'n Goblins_ y, especialmente, el naravilloso _Cursed Castilla_! 
 
 Con tus botas de batalla como arma principal, te enfrentarás a zombis, esqueletos y criaturas infernales a base de zapatillazos. En un mundo tétrico pero lleno de color, con cementerios decorados con ...
 
-Continuar leyendo en ... [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2026)]]
+Continuar leyendo en ... [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2027)]]
 
 (Ortogonal, Plataformas)
 
@@ -104,10 +104,6 @@ Border: off
 
  --- column-end ---
 --- multi-column-end
-
-
-
-
 
 ## Juegos potenciales para llegar al 48 en 1 en un futuro
 

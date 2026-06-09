@@ -1,17 +1,20 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Gemini, Grok, Raul Carrillo aka metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2026-05-25T20:33:58.665Z
-modified: 2026-05-25T23:51:07.919Z
+modified: 2026-06-08T19:37:30.547Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 1
+ver_minor: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -20,7 +23,7 @@ tags: []
 
 ![Rojo2](_resources/9b3965a9b250723481269eb16e10062e_MD5.jpg)
 
-[[⚫🔴🟡🟢🔵⚪ (🔴②)]]
+Si no vienes directamente del enlace Rojo Dos, lee esto primero --> [[⚫🔴🟡🟢🔵⚪ (🔴②)]]
 
 **Si, están todos en inglés, menos Rojo2 que está en español**
 
@@ -62,7 +65,7 @@ Por el contrario, la capacidad de **gestionar el caos** —un rasgo que vinculo 
 
 #### Fuentes que apoyan o contextualizan el contenido:
 
-1. [The ZX Spectrum ULA: How to design a microcomputer (Chris Smith, 2010) 🟡③🌐](http://www.zxdesign.info/book/) .- Libro que detalla el diseño y reverse engineering del chip ULA del ZX Spectrum, incluyendo su arquitectura de video y paleta de colores.
+1. [The ZX Spectrum ULA: "H"ow to design a microcomputer (Chris Smith, 2010) 🟡③🌐](http://www.zxdesign.info/book/) .- Libro que detalla el diseño y reverse engineering del chip ULA del ZX Spectrum, incluyendo su arquitectura de video y paleta de colores.
 2. [El valor económico del español (García Delgado, J. L., et al., Fundación Telefónica) 🟡③🌐](https://www.cervantes.es/imagenes/file/biblioteca/valor_economico_espanol/valor_economico_espanol.pdf) .- Informe completo de Fundación Telefónica sobre el valor económico del español como recurso y activo en la economía global.
 3. [The Future of Jobs Report 2023 (World Economic Forum) 🟡③🌐](https://www.weforum.org/publications/the-future-of-jobs-report-2023/) .- Informe del WEF que analiza tendencias laborales, automatización y la importancia de habilidades cognitivas y blandas para 2023-2027.
 4. [Star Wars: A New Hope (Guion original de George Lucas) 🟡③🌐](https://www.youtube.com/watch?v=6H0vFP_jXN4) .- Clip de la batalla contra la Estrella de la Muerte mostrando la secuencia con Red Squadron y sus pilotos.

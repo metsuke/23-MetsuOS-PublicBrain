@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2025-08-18T21:19:19.590Z
-modified: 2025-12-25T20:46:35.951Z
+modified: 2026-06-08T22:35:53.584Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 20
+ver_rev: 24
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -31,7 +31,7 @@ MOS_TopImg_Video: CursedZapatilla_DanceSkeletons.mp4
 
 En este cuarto capítulo del curso básico de ZX Game Maker (ZXGM), aprenderás a configurar un nuevo proyecto desde "cero" (el motor está ideado para que partas de una plantilla mínima), siguiendo un enfoque estructurado y gradual, como un escultor tallando una obra a partir de una piedra en bruto. 
 
-Usaremos como ejemplo el desarrollo de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2026)|Cursed Zapatilla: La Excéntrica Cruzada de Sir Patillas]], un juego de plataformas inspirado en _Ghosts 'n Goblins_, _Ghouls 'n Ghosts_ y _Cursed Castilla_. 
+Usaremos como ejemplo el desarrollo de [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2027)|Cursed Zapatilla: La Excéntrica Cruzada de Sir Patillas]], un juego de plataformas inspirado en _Ghosts 'n Goblins_, _Ghouls 'n Ghosts_ y _Cursed Castilla_. 
 
 Este juego forma parte de un pack de juegos que usare para todos los cursos de Makers y creacion de juegos, de forma que - en la medida de lo posible - habra, al menos, tantas versiones del juego como motores y modos graficos soporten aquellos para los que hagamos cursos. Pretendo con ello fomentar la idea de explorar Y de la necesidad de aumentar el nivel de calidad de las producciones, una vez creada tu opera prima.
 

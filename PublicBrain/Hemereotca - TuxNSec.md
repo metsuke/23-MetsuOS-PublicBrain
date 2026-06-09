@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-21T19:56:01.569Z
-modified: 2026-06-04T09:06:35.536Z
+modified: 2026-06-08T22:35:50.193Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 22
+ver_rev: 24
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -23,13 +23,29 @@ tags: []
 
 [[Hemeroteca]]
 
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+## Tux'N'Sec 002
+
+Continuar leyendo en ... [[Hemeroteca - TuxNSec 002 - Junio 2026]]
+
+--- column-end ---
+
 ![TuxNSec 001](PublicBrain/_resources/d009eddf0efe5f4cac1d597f2f4c5dd9_MD5.jpg)
 
+## Tux'N'Sec 001
 
 Cubrimos tambien finales de abril para cuadrar mejor la periodicidad.
 
 Continuar leyendo en ... [[Hemeroteca - TuxNSec 001 - Mayo 2026]]
 
+
+--- column-end ---
+--- multi-column-end
 
 
 ![[Plantilla - 1MT#One More Thing]]

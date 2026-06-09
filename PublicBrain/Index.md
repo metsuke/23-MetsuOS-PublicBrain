@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-04-06T23:48:59.641Z
-modified: 2026-04-10T21:56:18.860Z
+modified: 2026-06-08T22:35:47.470Z
 supervisado: ""
 ACCION: S
 ver_major: 0
 ver_minor: 3
-ver_rev: 247
+ver_rev: 251
 nav_primary:
 nav_secondary:
 tags:
@@ -163,7 +163,7 @@ WIP
 * [[Blog - Dios es gallego del gráfico de Nolan a la pirámide de Coherentum - 2018-03-01  ⚫①]]
 ### Juegos
 
-* [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2026)]]
+* [[MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2027)]]
 * [[MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①]]
 * [[MOS Games - The Big Javis Adventure - ZX Spectrum - 2017]]
 * [[MOS Games - Hero Quest - ZX Spectrum - 1994]]

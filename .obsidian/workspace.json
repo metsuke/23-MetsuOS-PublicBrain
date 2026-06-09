@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0beeb9cc44edd3d9",
+        "id": "6bcf03070bbf33e0",
         "type": "tabs",
         "children": [
           {
-            "id": "2911d4b6b38846a3",
+            "id": "521e58dce5e2901b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Juegos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Juegos"
-            }
-          },
-          {
-            "id": "d857c0472f923e6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Hemeroteca - TuxNSec 002 - Junio 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hemeroteca - TuxNSec 002 - Junio 2026"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,20 +198,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d857c0472f923e6d",
+  "active": "521e58dce5e2901b",
   "lastOpenFiles": [
+    "Juegos.md",
+    "PublicBrain/Hemeroteca - TuxNSec 002 - Junio 2026.md",
+    "Noticias.md",
+    "_resources/39526eef026b80104199c36f28866dfa_MD5.jpg",
+    "_resources/8d610cd540c2f548116c3ac74ef2b40a_MD5.jpeg",
+    "_resources/1e23982e7122eb6473c7d693a25dfca3_MD5.svg",
     "PublicBrain/_resources/0ef3e86b06f1f1874b8cd6a3adf97295_MD5.jpg",
     "Gemini_Generated_Image_6v4od26v4od26v4o.png",
     "PublicBrain/Hemereotca - TuxNSec.md",
     "Hemeroteca - TuxNSec 002 - Junio 2026.md",
-    "PublicBrain/Hemeroteca - TuxNSec 002 - Junio 2026.md",
     "PublicBrain/Hemeroteca.md",
-    "Noticias.md",
     "Novedades.md",
     "PublicBrain/Hemeroteca - TuxNSec.md",
     "PublicBrain/Hemeroteca - TuxNSec 001 - Mayo 2026.md",
     "KB.md",
-    "Juegos.md",
     "PublicBrain/MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①.md",
     "PublicBrain/Sin título.canvas",
     "PublicBrain/MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2027).md",
@@ -249,14 +233,10 @@
     "_resources/d82e18e20a434bf9ecd118c158667aff_MD5.jpg",
     "_resources/897f095192bb2cc38c8f62a1d02b2d33_MD5.jpg",
     "_resources/d537e4a717f520642f0da623074b39eb_MD5.jpg",
-    "weBn5.jpg",
-    "_resources/ea75e671ee686f07a50122df8c1ae2e5_MD5.jpg",
     "PublicBrain/Hemeroteca - Turra News 012 🟡③.md",
-    "PublicBrain/_resources/0ae4be5a682365684643f2c8c3bc164d_MD5.jpg",
     "Hemeroteca - Turra News 012 🔴②.md",
     "PublicBrain/Hemeroteca - Turra News Especial 001  🟡③.md",
     "PublicBrain/Curso de GNU-Linux  🟡③.md",
-    "_resources/2578748872e4e1a7128a1cae5cb508f4_MD5.jpg",
     "PublicBrain/Hilo Truth Coping - 31/05",
     "PublicBrain/Hilo Truth Coping - 31",
     "Hilo Truth Coping - 31/05",

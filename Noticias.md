@@ -9,24 +9,24 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-06-04T05:58:01.305Z
+modified: 2026-06-09T10:31:08.098Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 112
+ver_rev: 114
 nav_primary:
 nav_secondary:
 tags:
 ---
 # Noticias
 
-![Scene News 7](_resources/badf42d3fa87b6e651e702630115eefa_MD5.jpg)
+![Scene News 7](_resources/39526eef026b80104199c36f28866dfa_MD5.jpg)
  
  [[Index]] | [[Hemeroteca]]
 ## Scene News 007
 
-> Año 1 - número 7 - 01/06/2026 a 14/06/2026
+> Año 1 - número 7 - 01/06/2026 a 31/06/2026
 
 ![Horizon Chase](_resources/e53275c7ddc87c811501926df1b9761d_MD5.jpg)
 ## El robo cultural de las desarrolladoras de videojuegos
@@ -43,39 +43,32 @@ Porque ojo, para poder exigir posesión, se nos debe exigir responsabilidad, a f
 
 > OJO WIP
 
-**Prevously, on Scene News 006**
-
 --- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
 Number of Columns: 2
 Border: off
 ```
 
-![Repoker de ases en Hecho con Pixels](_resources/cbde6cbb9f7654b3c1256fc7e878895c_MD5.jpg)
-## Repoquer de ases en Hecho con Pixels
+![Vuelven las cintas físicas a Microhobb](_resources/8d610cd540c2f548116c3ac74ef2b40a_MD5.jpeg)
+## Vuelven las cintas físicas a Microhobby
 
-Está siendo un mes de Infarto, el Segundo número de Micromanía Cuarta Época, Pixels 15, Microhobby 226, el regalo para suscriptores de Pixels en forma de Número 0 de Última Generación, y las reediciones numeradas del primer número de Microhobby y Micromanía.
+No exactamente a cinta por semana, pero vuelven con nosotros en forma de selección de juegos imprescindibles curados por el equipo de la revista. El propio equipo nos comenta en X:
 
-Empiezo a dudar si la edad dorada es hoy, publicaciones de calidad everywhere, para los más cafeteros, eso si, pero sin duda los brotes verdes empiezan a desarrollar corteza ;)
+- 10 juegos en total, actuales, que irán llegando escalonadamente en los próximos meses, algunos todavía hoy en desarrollo y de los estudios/programadores más TOP de la escena española e internacional. - Será la única oportunidad de conseguirlos (**) en cinta, en formato físico. - Todos los juegos tendrán doble carátula reversible (con diseño estilo ERBE o de la colección). - El primer juego será [#Chromatixx 🟡③🌐](https://x.com/hashtag/Chromatixx?src=hashtag_click), de Miguetelo.
 
-* [Tienda Hecho con Pixels 🟡③🌐](https://tienda.hechoconpixels.com/)
-* [El quiosco retro de MetsuOS, único que tiene estas revistas 🟡③🌐](https://metsuke.com/quiosco/)
+¡Una oportunidad única para los amantes del formato físico, que probablemente no querras perderte!
+
+DISCLAIMER: Desde MH indican que el diseño es tentativo y que podría cambiar durante el proces de creación sirviendo, no obstante al propósito de ilustrar el pack.
+
+* [[Anuncio en X  🟡③🌐]](https://x.com/MicroHobbyPapel/status/2062555560440971660?s=20)
 
 
  --- column-end ---
-
-![Concurso FloppySize](_resources/bc95d819de07950ce9238ce1e82cfeb9_MD5.jpg)
-## Concurso Japponés de desaarrollo con limite en 1.44MB
-
-Comienza un concurso de desarrollo de videojuegos con un límite de "1.44 MB", el equivalente a un disquete. El uso de motores de juego también es libre, siempre y cuando quepa.
-
-Vamos a tener que usar traductor para seguirlo, pero la pinta es espectacular.
-
-* [Enlace a la noticia  🟡③🌐](Comienza un concurso de desarrollo de videojuegos con un límite de "1.44 MB", el equivalente a un disquete. El uso de motores de juego también es libre, siempre y cuando quepa.)
-
+ 
+WIP
+ 
  --- column-end ---
 --- multi-column-end
-
 
 --- start-multi-column: BloqueMicrohobbit01\
 ```column-settings  
@@ -84,20 +77,18 @@ Border: off
 ```
 ## Noticias Breves
 
-* [En preparación lo nuevo de JMV  🟡③🌐](https://x.com/YedaiJamao/status/2059379993893879947?s=20) - Será la quinta entrega de la colección, y parece ser que estará en Verkami próximamente.
+* WIP
 
  --- column-end ---
  
 ## En Titulares
 
-* [La historia de TecToy y SEGA en Brasil  🟡③🌐](https://x.com/RetroplayingBCN/status/2059737597576949970?s=20)
+* WIP
 
  --- column-end ---
 --- multi-column-end
 
-## Por Gnomerergan
 
-![Por Gnomerergan](_resources/44ca6b99c047cb16f6b316757addfec9_MD5.jpg)
 
 
 ![[Plantilla - 1MT#One More Thing]]

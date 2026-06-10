@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-30T05:54:37.449Z
-modified: 2026-05-12T03:56:35.543Z
+modified: 2026-06-10T15:58:39.650Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 7
+ver_rev: 17
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -45,7 +45,14 @@ Continua leyendo en ... [[Curso SDD 001 - Introducción al paradigma Spec-Driven
 
  --- column-end ---
 
-- Análisis comparativo: SDD frente a TDD (Test Driven) y BDD (Behavior Driven).
+## Análisis comparativo: SDD frente a TDD (Test Driven) y BDD (Behavior Driven)
+
+El desarrollo de software moderno se articula en torno a metodologías guiadas por diferentes artefactos centrales: las pruebas unitarias (**TDD**), el comportamiento del usuario (**BDD**) o la especificación técnica entendida como contrato formal (**SDD**).
+
+Continua leyendo en ... [[Curso SDD 002 - Análisis comparativo SDD frente a TDD y BDD ⚫①)]]
+
+--- column-end ---
+
 - La Verdad Única (Single Source of Truth): el rol de la especificación como contrato vinculante.
 - Mitigación del "Drift": cómo evitar la divergencia entre el diseño y la realidad técnica.
 - Cultura de diseño previo: el valor de definir antes de construir.

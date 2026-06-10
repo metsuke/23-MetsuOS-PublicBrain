@@ -1,17 +1,20 @@
 ---
-iaStatus: 0
-iaStatus_Model: ""
+iaStatus: 8
+iaStatus_Model: Gemini, Grok, Raul Carrillo aka metsuke
+iaStatus_Generado: "I"
+iaStatus_Supervisado: "H"
+iaStatus_Validado: "-"
 a11y: 0
 checked: 0
 lang: ES
-translations: 
+translations:
 created: 2026-05-11T09:21:53.543Z
-modified: 2026-05-11T21:55:27.302Z
+modified: 2026-06-09T19:36:20.699Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
-ver_minor: 1
-ver_rev: 1
+ver_minor: 2
+ver_rev: 3
 nav_primary: []
 nav_secondary: []
 tags: []

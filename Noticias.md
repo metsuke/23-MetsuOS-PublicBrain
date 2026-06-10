@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-06-09T10:31:08.098Z
+modified: 2026-06-10T15:58:38.872Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 114
+ver_rev: 124
 nav_primary:
 nav_secondary:
 tags:
@@ -60,12 +60,18 @@ No exactamente a cinta por semana, pero vuelven con nosotros en forma de selecci
 
 DISCLAIMER: Desde MH indican que el diseño es tentativo y que podría cambiar durante el proces de creación sirviendo, no obstante al propósito de ilustrar el pack.
 
-* [[Anuncio en X  🟡③🌐]](https://x.com/MicroHobbyPapel/status/2062555560440971660?s=20)
+* [Anuncio en X  🟡③🌐](https://x.com/MicroHobbyPapel/status/2062555560440971660?s=20)
 
 
  --- column-end ---
- 
-WIP
+ ![DoomAES](_resources/ad7f742b895e1b33103683009b908826_MD5.jpg)
+## ¿Doom en NeoGeo AES?
+
+Pues no se si acabará siendo un proyecto comercial, pero desde luego están creando un motor para ello,  aun no puedo dedicarle tiempo pero me ponen los dientes largos para explorar ese camino.
+
+Falta mucho por pulir, pero desde luego promete.
+
+* [Avances del motor ray casting para Doom en NeoGeo AES 🟡③🌐](https://x.com/Neo_Geo_Forever/status/2064030057681563982?s=20)
  
  --- column-end ---
 --- multi-column-end

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6bcf03070bbf33e0",
+        "id": "8766ebb8d8070236",
         "type": "tabs",
         "children": [
           {
-            "id": "521e58dce5e2901b",
+            "id": "d38f0408925cdc26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PublicBrain/Hemeroteca - Turra News.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hemeroteca - Turra News"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -202,13 +198,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "521e58dce5e2901b",
+  "active": "d38f0408925cdc26",
   "lastOpenFiles": [
+    "PublicBrain/Curso de Visual bB ⚫①.md",
+    "PublicBrain/Hemeroteca - Turra News.md",
     "PublicBrain/Hemeroteca.md",
     "Noticias.md",
     "Index.md",
     "Novedades.md",
-    "PublicBrain/Hemeroteca - Turra News.md",
     "PublicBrain/Hemeroteca - Turra News 013 🟡③.md",
     "Hemeroteca - Turra News 013 🔴②.md",
     "_resources/63606748b6fb4620169b04cbf971ce72_MD5.jpg",
@@ -240,7 +237,6 @@
     "PublicBrain/Sin título.canvas",
     "PublicBrain/MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2027).md",
     "PublicBrain/¿Qué es la Arquitectura en la Nube? ⚫①.md",
-    "PublicBrain/Rojo2  🟡③.md",
     "Sin título.canvas",
     "PublicBrain/Hilo Truth Coping - 31/05",
     "PublicBrain/Hilo Truth Coping - 31",

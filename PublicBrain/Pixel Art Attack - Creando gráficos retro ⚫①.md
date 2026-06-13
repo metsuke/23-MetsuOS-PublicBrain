@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2025-09-01T17:50:02.172Z
-modified: 2026-06-13T02:28:50.335Z
+modified: 2026-06-13T09:40:01.990Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 45
+ver_rev: 48
 nav_primary: []
 nav_secondary: []
 tags: []

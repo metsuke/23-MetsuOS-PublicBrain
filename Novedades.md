@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-06-10T15:58:38.870Z
+modified: 2026-06-13T02:28:49.875Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 248
+ver_rev: 269
 nav_primary: 
 nav_secondary: 
 tags:
@@ -31,13 +31,13 @@ Border: off
 
 
 
-![Turra News 012](PublicBrain/_resources/0ae4be5a682365684643f2c8c3bc164d_MD5.jpg)
+![Turra News 013](_resources/63606748b6fb4620169b04cbf971ce72_MD5.jpg)
 
-## CPS - Turra News 012
+## CPS - Turra News 013
 
-Este hilo exhaustivo de Javier G. Recuenco sintetiza y comenta el libro *La Inteligencia Artificial y el futuro de la Universidad. Manual estratégico para gobernar la transformación institucional*, de José Sepúlveda Sanchis. No se trata de un manual técnico de herramientas ni de soluciones rápidas contra el plagio, sino de un análisis estratégico dirigido a líderes universitarios (rectores, vicerrectores y equipos de gobierno). 
+Este hilo forma parte de un arco más amplio sobre la educación en la era de la inteligencia artificial. Javier Recuenco analiza cómo la IA está transformando —y en muchos casos desmontando— el sistema educativo obligatorio, desde los 0 hasta los 18 años. 
 
-Continua leyendo en ... [[Hemeroteca - Turra News 012 🟡③]]
+Continua leyendo en ... [[Hemeroteca - Turra News 013 🟡③]]
 
 --- column-end ---
 

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-06T18:12:22.446Z
-modified: 2026-06-10T15:58:39.354Z
+modified: 2026-06-13T02:28:50.575Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 133
+ver_rev: 154
 nav_primary:
 nav_secondary:
 tags:
@@ -39,7 +39,7 @@ Continuar explorando en [[Hemeroteca - Scene News]]
  --- column-end ---
 
 
-![Turra News 012](PublicBrain/_resources/0ae4be5a682365684643f2c8c3bc164d_MD5.jpg)
+![Turra News 013](_resources/63606748b6fb4620169b04cbf971ce72_MD5.jpg)
 
 ## Turra News
 

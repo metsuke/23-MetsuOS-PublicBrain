@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-05-03T06:18:01.523Z
-modified: 2026-05-04T21:31:00.552Z
+modified: 2026-06-13T02:28:50.595Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 13
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -24,8 +24,6 @@ tags: []
 ![Turra News 001](PublicBrain/_resources/cc618fde9847e7d2628751fed4d843fd_MD5.jpg)
 
 [[Hemeroteca - Turra News]] | [Hilo Turra 28/02/2026 🟡③🌐](https://x.com/Recuenco/status/2027648364364312699?s=20)
-
-> OJO WIP
 
 **Autistas Buenos, Autistas Malos y "Fear the Autist" (Febrero 2026)**
 ## Abstract

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-06-10T15:58:39.355Z
+modified: 2026-06-13T02:28:50.581Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 89
+ver_rev: 107
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -29,6 +29,15 @@ Number of Columns: 2
 Border: off
 ```
 
+![Turra News 013](_resources/63606748b6fb4620169b04cbf971ce72_MD5.jpg)
+
+## Turra News 013
+
+Este hilo forma parte de un arco más amplio sobre la educación en la era de la inteligencia artificial. Javier Recuenco analiza cómo la IA está transformando —y en muchos casos desmontando— el sistema educativo obligatorio, desde los 0 hasta los 18 años. 
+
+Continua leyendo en ... [[Hemeroteca - Turra News 013 🟡③]]
+
+--- column-end ---
 
 ![Turra News 012](PublicBrain/_resources/0ae4be5a682365684643f2c8c3bc164d_MD5.jpg)
 
@@ -154,6 +163,16 @@ Continua leyendo en ... [[Hemeroteca - Turra News 002 🟡③]]
 En este hilo de su serie característica “turras”, Javier G. Recuenco explora el perfil neurocognitivo de personas con rasgos autistas de alto funcionamiento (principalmente nivel 1, antes conocido como Asperger) combinados con altas capacidades intelectuales (doble excepcionalidad). Distingue entre el “autista bueno”, orientado a la creación, la verdad y el progreso civilizatorio, y el “autista malo”, que canaliza sus habilidades hacia la destrucción o la acumulación de poder sin límites éticos claros. 
 
 Continua leyendo en [[Hemeroteca - Turra News 001 🟡③]]
+
+--- column-end ---
+
+![Turra News N001](PublicBrain/_resources/c0514c1f770aad4affd3572c6a4af7b2_MD5.jpg)
+## Turra News N001
+
+Este hilo extenso y reflexivo de Javier G. Recuenco (@Recuenco), publicado el 21 de febrero de 2026, representa una síntesis madura de su universo conceptual. Conecta su tesis del **Post PE** (evolución del Private Equity hacia un modelo más estratégico y centrado en el operador) con el **CPS Hispano**, ese tercer pilar que añade alma, síntesis creativa y rebeldía al rigor eficiente.  
+
+Continua leyendo en [[Hemeroteca - Turra News N001 🟡③]]
+
 
  --- column-end ---
 --- multi-column-end

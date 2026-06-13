@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-06-10T15:58:38.876Z
+modified: 2026-06-13T02:28:49.882Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 211
+ver_rev: 232
 nav_primary:
 nav_secondary:
 tags:
@@ -40,12 +40,11 @@ Continua leyendo en ... [[Hemeroteca - Scene News 006]]
 
 --- column-end ---
 
+![Turra News 013](_resources/63606748b6fb4620169b04cbf971ce72_MD5.jpg)
 
-![Turra News 012](PublicBrain/_resources/0ae4be5a682365684643f2c8c3bc164d_MD5.jpg)
+### CPS - Turra News 013
 
-### Turra News 012
-
-Continua leyendo en ... [[Hemeroteca - Turra News 012 🟡③]]
+Continua leyendo en ... [[Hemeroteca - Turra News 013 🟡③]]
 
 --- column-end ---
 

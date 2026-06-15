@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-06-13T09:40:02.227Z
+modified: 2026-06-15T23:52:16.893Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 110
+ver_rev: 113
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -173,6 +173,15 @@ Este hilo extenso y reflexivo de Javier G. Recuenco (@Recuenco), publicado el 21
 
 Continua leyendo en [[Hemeroteca - Turra News N001 🟡③]]
 
+--- column-end ---
+
+![Turra News N002](PublicBrain/_resources/cbd5bd2f3013fd41cf6875b1da8b57be_MD5.jpg)
+
+## Turra News N002
+
+En este hilo, Javier Recuenco analiza la brecha existente entre el enorme potencial de las personas con Altas Capacidades Intelectuales (AACC) y su frecuente subutilización en el mercado laboral español e internacional. Combinando datos estadísticos, experiencias profesionales y referencias académicas, argumenta que el infradiagnóstico, la rigidez estructural y la falta de comprensión de la neurodiversidad generan un desperdicio de talento, junto con frustración, *burnout* y exclusión. 
+
+Continua leyendo en [[Hemeroteca - Turra News N002 🟡③]] 
 
  --- column-end ---
 --- multi-column-end

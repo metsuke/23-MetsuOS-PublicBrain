@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-06-12T00:54:02.882Z
-modified: 2026-06-12T17:39:09.662Z
+modified: 2026-06-15T19:20:24.491Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 5
+ver_rev: 6
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -28,7 +28,7 @@ tags: []
 **Post PE × CPS Hispano: Platos Lentos vs. Optimización Luterana**
 
 Fecha del hilo: 21 de febrero de 2026  
-Enlace principal: [https://x.com/Recuenco/status/2025116934572843338 🟡③🌐](/Recuenco/status/2025116934572843338)
+Enlace principal: [https://x.com/Recuenco/status/2025116934572843338  🟡③🌐](https://x.com/Recuenco/status/2025116934572843338)
 
 ## Abstract
 

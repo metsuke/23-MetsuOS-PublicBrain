@@ -6,12 +6,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2026-06-08T05:10:27.091Z
-modified: 2026-06-13T09:40:01.924Z
+modified: 2026-06-15T23:52:16.917Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 1
-ver_rev: 8
+ver_rev: 10
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -48,6 +48,7 @@ Border: off
 * [[Hemeroteca - Turra News 008 🟡③]] - Xavier vs Magneto: la gran dicotomía cognitiva y neurodivergencia
 * [[Hemeroteca - Turra News 001 🟡③]] - Autistas buenos vs autistas malos (doble excepcionalidad)
 * [[Hemeroteca - Turra News Especial 001  🟡③]] - Contratos y neurodivergencia (visión autista de César Astudillo)
+* [[Hemeroteca - Turra News N002 🟡③]]  - AACC y Empleabilidad
 
 --- column-end ---
 

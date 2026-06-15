@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2024-05-25T21:40:47.127Z
-modified: 2026-06-13T09:40:01.726Z
+modified: 2026-06-15T05:08:30.806Z
 supervisado: 2024-05-25T21:43:23.295Z
 ACCION: S
 ver_major: 0
 ver_minor: 4
-ver_rev: 235
+ver_rev: 236
 nav_primary:
 nav_secondary:
 tags:
@@ -115,6 +115,15 @@ Continua leyendo en ... [[Epistemología - La Arquitectura del Saber Científico
 ### Curso sobre Administración de un Negocio Automatizado
 
 Continua leyendo en ... [[Curso sobre Administración de un Negocio Automatizado 🟡③]]
+
+--- column-end ---
+
+
+![Ética y Libertades de la FS](PublicBrain/_resources/dbc6f193b8a6fe8b432af824703c8b19_MD5.jpg)
+
+### GNU/Linux - Ética y Libertades de la FSF
+
+Continua leyendo en ... [[Ética y Libertades de la FSF 🟡③]]: 
 
 --- column-end ---
 

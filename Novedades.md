@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-06-13T09:40:01.722Z
+modified: 2026-06-15T05:08:58.349Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 272
+ver_rev: 273
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,6 +30,15 @@ Border: off
 ```
 
 
+![Ética y Libertades de la FS](PublicBrain/_resources/dbc6f193b8a6fe8b432af824703c8b19_MD5.jpg)
+
+## GNU/Linux - Ética y Libertades de la FSF
+
+Análisis de las cuatro libertades de la FSF y el impacto de la licencia GPL en el desarrollo tecnológico moderno.
+
+Continua leyendo en ... [[Ética y Libertades de la FSF 🟡③]]: 
+
+--- column-end ---
 
 ![Turra News 013](_resources/63606748b6fb4620169b04cbf971ce72_MD5.jpg)
 

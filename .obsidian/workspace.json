@@ -11,10 +11,14 @@
             "id": "d38f0408925cdc26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Novedades.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Novedades"
             }
           }
         ]
@@ -200,11 +204,18 @@
   },
   "active": "d38f0408925cdc26",
   "lastOpenFiles": [
+    "Index.md",
+    "El Proyecto.md",
+    "PublicBrain/Curso de GNU-Linux  🟡③.md",
+    "PublicBrain/Ética y Libertades de la FSF 🟡③.md",
+    "PublicBrain/_resources/dbc6f193b8a6fe8b432af824703c8b19_MD5.jpg",
+    "GNULinuxPro_001.png",
+    "Ética y Libertades de la FSF  🔴②.md",
+    "KB.md",
     "PublicBrain/Curso de Visual bB ⚫①.md",
     "PublicBrain/Hemeroteca - Turra News.md",
     "PublicBrain/Hemeroteca.md",
     "Noticias.md",
-    "Index.md",
     "Novedades.md",
     "PublicBrain/Hemeroteca - Turra News 013 🟡③.md",
     "Hemeroteca - Turra News 013 🔴②.md",
@@ -226,17 +237,10 @@
     "_resources/39526eef026b80104199c36f28866dfa_MD5.jpg",
     "_resources/8d610cd540c2f548116c3ac74ef2b40a_MD5.jpeg",
     "_resources/1e23982e7122eb6473c7d693a25dfca3_MD5.svg",
-    "PublicBrain/_resources/0ef3e86b06f1f1874b8cd6a3adf97295_MD5.jpg",
-    "Gemini_Generated_Image_6v4od26v4od26v4o.png",
     "PublicBrain/Hemereotca - TuxNSec.md",
     "Hemeroteca - TuxNSec 002 - Junio 2026.md",
     "PublicBrain/Hemeroteca - TuxNSec.md",
-    "PublicBrain/Hemeroteca - TuxNSec 001 - Mayo 2026.md",
-    "KB.md",
-    "PublicBrain/MOS Games - 3791 juegos para dominarlos a todos - un 32 in 1 muy particular  ⚫①.md",
     "PublicBrain/Sin título.canvas",
-    "PublicBrain/MOS Games - Cursed Zapatilla - La Excéntrica Cruzada de Sir Patillas (En desarrollo desde 2025 - Release previsto 2027).md",
-    "PublicBrain/¿Qué es la Arquitectura en la Nube? ⚫①.md",
     "Sin título.canvas",
     "PublicBrain/Hilo Truth Coping - 31/05",
     "PublicBrain/Hilo Truth Coping - 31",

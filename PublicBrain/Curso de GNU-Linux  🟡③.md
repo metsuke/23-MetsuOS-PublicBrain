@@ -9,12 +9,12 @@ checked: -3
 lang: ES
 translations:
 created: 2026-06-04T21:13:17.460Z
-modified: 2026-06-05T21:08:55.761Z
+modified: 2026-06-14T19:07:52.187Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 4
+ver_rev: 8
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -35,10 +35,29 @@ DISCLAIMER: en este curso no somos ni extremistas radicales del GNU ni liberales
 
 ### 1.1. El Manifiesto del Software Libre
 
-- **Ética y Libertad:** Análisis de las cuatro libertades de la FSF y el impacto de la licencia GPL en el desarrollo tecnológico moderno.
+--- start-multi-column: BloqueMicrohobbit01\
+```column-settings  
+Number of Columns: 2
+Border: off
+```
+
+![Ética y Libertades de la FS](PublicBrain/_resources/dbc6f193b8a6fe8b432af824703c8b19_MD5.jpg)
+
+## Ética y Libertades de la FSF
+
+Análisis de las cuatro libertades de la FSF y el impacto de la licencia GPL en el desarrollo tecnológico moderno.
+
+Continua leyendo en ... [[Ética y Libertades de la FSF 🟡③]]: 
+
+ --- column-end ---
+
 - **La simbiosis GNU+Linux:** Entendiendo la distinción entre el kernel (Linux) y el sistema operativo (GNU).
 - **Criterios de selección de Distribuciones:** Comparativa técnica entre familias (Debian/Ubuntu, RHEL/Fedora, Arch Linux) y la filosofía _Rolling Release_ frente a _LTS_.
 - Distribuciones Linux centradas en Ciberseguridad.
+
+ --- column-end ---
+--- multi-column-end
+
 ### 1.2. El Proceso de Arranque (Booting)
 
 - **Hardware y Firmware:** Del encendido al control del kernel: UEFI, GPT y la gestión de la tabla de particiones.

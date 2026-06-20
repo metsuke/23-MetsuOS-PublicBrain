@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-06-15T21:12:35.121Z
-modified: 2026-06-15T23:46:22.069Z
+modified: 2026-06-16T06:41:31.775Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 3
+ver_rev: 4
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -23,14 +23,14 @@ tags: []
 
 ![Turra News N002](PublicBrain/_resources/cbd5bd2f3013fd41cf6875b1da8b57be_MD5.jpg)
 
-[[Hemeroteca - Turra News]] | [Hilo Turra de 21/02/2026 🟡③🌐](https://x.com/Recuenco/status/2022575861296230582)
+[[Hemeroteca - Turra News]] | [Hilo Turra de 14/02/2026 🟡③🌐](https://x.com/Recuenco/status/2022575861296230582)
 
 
 **AACC y Empleabilidad**
 
 **ID del hilo principal**: [2022575861296230582 🟡③🌐](https://x.com/Recuenco/status/2022575861296230582)  
 **Autor**: Javier G. Recuenco (@Recuenco)  
-**Fecha**: Sábado, 21 de febrero de 2026  
+**Fecha**: Sábado, 14 de febrero de 2026  
 **Contexto**: "Hilo preparado para la conferencia de la Asociación Educade. Forma parte del arco sobre Altas Capacidades (AACC), Competencias para el Siglo XXI (CPS Hispano) y Factor X.
 
 ## Abstract

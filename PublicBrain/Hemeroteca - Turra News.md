@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations:
 created: 2026-04-11T21:58:07.459Z
-modified: 2026-06-15T23:52:16.893Z
+modified: 2026-06-20T13:31:27.570Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 2
-ver_rev: 113
+ver_rev: 120
 nav_primary: []
 nav_secondary: []
 tags: []
@@ -28,6 +28,16 @@ tags: []
 Number of Columns: 2
 Border: off
 ```
+
+![Turra News 014](PublicBrain/_resources/a229905eef754443c8b5753bb6adfd99_MD5.jpg)
+
+## Turra News 014
+
+Este hilo publicado por **Javier G. Recuenco (@Recuenco)** el 13 de junio de 2026 representa un punto de inflexión en su larga reflexión sobre la educación. No es un mero anuncio: es la concreción real de años de pensamiento teórico, de acompañamiento cercano a familias con niños de **altas capacidades (AACC)** y neurodivergentes, y de su compromiso con la resolución de problemas complejos (CPS).
+
+Continua leyendo en [[Hemeroteca - Turra News 014 🟡③]]
+
+--- column-end ---
 
 ![Turra News 013](_resources/63606748b6fb4620169b04cbf971ce72_MD5.jpg)
 
@@ -182,6 +192,17 @@ Continua leyendo en [[Hemeroteca - Turra News N001 🟡③]]
 En este hilo, Javier Recuenco analiza la brecha existente entre el enorme potencial de las personas con Altas Capacidades Intelectuales (AACC) y su frecuente subutilización en el mercado laboral español e internacional. Combinando datos estadísticos, experiencias profesionales y referencias académicas, argumenta que el infradiagnóstico, la rigidez estructural y la falta de comprensión de la neurodiversidad generan un desperdicio de talento, junto con frustración, *burnout* y exclusión. 
 
 Continua leyendo en [[Hemeroteca - Turra News N002 🟡③]] 
+
+--- column-end ---
+
+![Turra News N003](PublicBrain/_resources/8a8e052c170c61d89af1d1577b688a5f_MD5.jpg)
+
+## Turra News N003
+
+Este hilo turra profundiza en una de las tensiones más relevantes de nuestra época: la diferencia entre la **influencia real**, construida sobre autenticidad y verdad, y la **propaganda manipuladora**. Recuenco conecta marcos clásicos de la psicología con el contexto actual de redes sociales, algoritmos e inteligencia artificial.
+
+Continua leyendo en [[Hemeroteca - Turra News N003 🟡③]] 
+
 
  --- column-end ---
 --- multi-column-end

@@ -9,12 +9,12 @@ checked: 0
 lang: ES
 translations: 
 created: 2024-09-15T10:42:40.313Z
-modified: 2026-06-15T05:08:58.349Z
+modified: 2026-06-18T00:24:02.308Z
 supervisado: ""
 ACCION: ""
 ver_major: 0
 ver_minor: 3
-ver_rev: 273
+ver_rev: 274
 nav_primary: 
 nav_secondary: 
 tags:
@@ -30,6 +30,16 @@ Border: off
 ```
 
 
+![Turra News 014](PublicBrain/_resources/a229905eef754443c8b5753bb6adfd99_MD5.jpg)
+
+## CPS - Turra News 014
+
+Este hilo publicado por **Javier G. Recuenco (@Recuenco)** el 13 de junio de 2026 representa un punto de inflexión en su larga reflexión sobre la educación. No es un mero anuncio: es la concreción real de años de pensamiento teórico, de acompañamiento cercano a familias con niños de **altas capacidades (AACC)** y neurodivergentes, y de su compromiso con la resolución de problemas complejos (CPS).
+
+Continua leyendo en [[Hemeroteca - Turra News 014 🟡③]]
+
+--- column-end ---
+
 ![Ética y Libertades de la FS](PublicBrain/_resources/dbc6f193b8a6fe8b432af824703c8b19_MD5.jpg)
 
 ## GNU/Linux - Ética y Libertades de la FSF
@@ -40,15 +50,6 @@ Continua leyendo en ... [[Ética y Libertades de la FSF 🟡③]]: 
 
 --- column-end ---
 
-![Turra News 013](_resources/63606748b6fb4620169b04cbf971ce72_MD5.jpg)
-
-## CPS - Turra News 013
-
-Este hilo forma parte de un arco más amplio sobre la educación en la era de la inteligencia artificial. Javier Recuenco analiza cómo la IA está transformando —y en muchos casos desmontando— el sistema educativo obligatorio, desde los 0 hasta los 18 años. 
-
-Continua leyendo en ... [[Hemeroteca - Turra News 013 🟡③]]
-
---- column-end ---
 
 ![Libro La Historia de Dinamic](PublicBrain/_resources/e3ba5409887e1af55ecb4ba86421f991_MD5.jpeg)
 ## KB - Bibliografía - La Historia de Dinamic
